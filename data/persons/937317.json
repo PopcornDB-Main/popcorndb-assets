@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4XC0HwRNOvub6xksENsOl68zHOn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 403,
+                "original_language": "en",
+                "original_title": "Driving Miss Daisy",
+                "overview": "The story of an old Jewish widow named Daisy Werthan and her relationship with her black chauffeur, Hoke. From an initial mere work relationship grew in 25 years a strong friendship between the two very different characters, in a time when those types of relationships were shunned.",
+                "popularity": 2.9085,
+                "poster_path": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+                "release_date": "1989-12-13",
+                "title": "Driving Miss Daisy",
+                "video": false,
+                "vote_average": 7.234,
+                "vote_count": 1666,
+                "character": "Katie Bell",
+                "credit_id": "55c78bc092514105c6002718",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t1AHkwkmNK18mNJTfu3reeIc2fZ.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 651070,
+                "original_language": "en",
+                "original_title": "A Fall from Grace",
+                "overview": "When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.",
+                "popularity": 5.2231,
+                "poster_path": "/h47JJZ015VF4neia33AFwTU37Yb.jpg",
+                "release_date": "2020-01-17",
+                "title": "A Fall from Grace",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 953,
+                "character": "Grace",
+                "credit_id": "5e0f696e58361b0015c03a7a",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Crystal Fox",
+            "\u30af\u30ea\u30b9\u30bf\u30eb\u30fb\u30d5\u30a9\u30c3\u30af\u30b9"
+        ],
+        "biography": "",
+        "birthday": "1964-01-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 937317,
+        "imdb_id": "nm0288935",
+        "known_for_department": "Acting",
+        "name": "Crystal R. Fox",
+        "place_of_birth": "Tryon, North Carolina, USA",
+        "popularity": 0.4184,
+        "profile_path": "/2ypF08xWEv8uew34TCxrpK1Hq2l.jpg"
+    }
+}

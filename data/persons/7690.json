@@ -1,0 +1,217 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eJ6kPtua2rEvjxHdCtnIobXJZSf.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 829,
+                "original_language": "en",
+                "original_title": "Chinatown",
+                "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+                "popularity": 4.8392,
+                "poster_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+                "release_date": "1974-06-20",
+                "title": "Chinatown",
+                "video": false,
+                "vote_average": 7.92,
+                "vote_count": 4019,
+                "character": "Customer",
+                "credit_id": "52fe427dc3a36847f8022d59",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+                "genre_ids": [
+                    10749,
+                    14,
+                    18,
+                    35
+                ],
+                "id": 137,
+                "original_language": "en",
+                "original_title": "Groundhog Day",
+                "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+                "popularity": 7.2346,
+                "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+                "release_date": "1993-02-11",
+                "title": "Groundhog Day",
+                "video": false,
+                "vote_average": 7.616,
+                "vote_count": 8408,
+                "character": "Bank Guard Herman",
+                "credit_id": "5613f9719251412d060029f8",
+                "order": 22
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+                "genre_ids": [
+                    10749,
+                    14,
+                    18,
+                    35
+                ],
+                "id": 137,
+                "original_language": "en",
+                "original_title": "Groundhog Day",
+                "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+                "popularity": 7.2346,
+                "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+                "release_date": "1993-02-11",
+                "title": "Groundhog Day",
+                "video": false,
+                "vote_average": 7.616,
+                "vote_count": 8408,
+                "credit_id": "52fe421dc3a36847f8004f81",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 8095,
+                "original_language": "en",
+                "original_title": "Cleopatra",
+                "overview": "Determined to hold on to the throne, Cleopatra seduces the Roman emperor Julius Caesar. When Caesar is murdered, she redirects her attentions to his general, Marc Antony, who vows to take power\u2014but Caesar\u2019s successor has other plans.",
+                "popularity": 6.4864,
+                "poster_path": "/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+                "release_date": "1963-06-12",
+                "title": "Cleopatra",
+                "video": false,
+                "vote_average": 7.04,
+                "vote_count": 800,
+                "credit_id": "54afb8a2c3a368226e001ca7",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bXPKTWAuRO8Mu5rLCORFagX0YZ1.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 574,
+                "original_language": "en",
+                "original_title": "The Man Who Knew Too Much",
+                "overview": "A couple vacationing in Morocco with their young son accidentally stumble upon an assassination plot. When the child is kidnapped to ensure their silence, they have to take matters into their own hands to save him.",
+                "popularity": 3.4537,
+                "poster_path": "/gy8YBRjCQRIT9x9G9F5fpnFD4xw.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Man Who Knew Too Much",
+                "video": false,
+                "vote_average": 7.456,
+                "vote_count": 1476,
+                "credit_id": "65d53f815ad76b016373aa90",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eJ6kPtua2rEvjxHdCtnIobXJZSf.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 829,
+                "original_language": "en",
+                "original_title": "Chinatown",
+                "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+                "popularity": 4.8392,
+                "poster_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+                "release_date": "1974-06-20",
+                "title": "Chinatown",
+                "video": false,
+                "vote_average": 7.92,
+                "vote_count": 4019,
+                "credit_id": "665cd6059fa5ffa9046f9816",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eJ6kPtua2rEvjxHdCtnIobXJZSf.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 829,
+                "original_language": "en",
+                "original_title": "Chinatown",
+                "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+                "popularity": 4.8392,
+                "poster_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+                "release_date": "1974-06-20",
+                "title": "Chinatown",
+                "video": false,
+                "vote_average": 7.92,
+                "vote_count": 4019,
+                "credit_id": "665cd810e0e3b31ad7cc52be",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+                "genre_ids": [
+                    10749,
+                    14,
+                    18,
+                    35
+                ],
+                "id": 137,
+                "original_language": "en",
+                "original_title": "Groundhog Day",
+                "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+                "popularity": 7.2346,
+                "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+                "release_date": "1993-02-11",
+                "title": "Groundhog Day",
+                "video": false,
+                "vote_average": 7.616,
+                "vote_count": 8408,
+                "credit_id": "6660d502854e887561e6bebd",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Doc Erickson",
+            "\u0421. \u042d\u0440\u0438\u043a\u0441\u043e\u043d",
+            "C.O. \"Doc\" Erickson"
+        ],
+        "biography": "Clarence Oscar \"C. O.\" Erickson (December 17, 1923 \u2013 June 28, 2017) was an American film producer and production manager who had nearly 60 years of experience working in Hollywood.\n\nBorn in Kankakee, Illinois on December 17, 1923, Erickson began his career at Paramount Pictures in 1944, ultimately working his way up to production manager. Among the productions he managed during his time at Paramount were all five of the films that director Alfred Hitchcock made for the studio in the 1950s: Rear Window (1954), To Catch a Thief (1955), The Trouble with Harry (1955), The Man Who Knew Too Much (1956) and Vertigo (1958).\n\nErickson left Paramount to work with screenwriter and director John Huston as production manager on The Misfits (1961) and Freud: The Secret Passion (1962). He later reteamed with Huston as associate producer of Reflections in a Golden Eye (1967). He was also associate producer of Richard C. Sarafian's Man in the Wilderness (1971) and Roman Polanski's Chinatown (1974), both of which featured Huston in supporting acting roles.\n\nErickson later served as both executive producer and production manager on several popular films of the 1980s and 1990s, including Urban Cowboy (1980), Fast Times at Ridgemont High (1982) and Groundhog Day (1993). He was also the executive producer of Robert Altman's Popeye (1980) and executive in charge of production of Ridley Scott's Blade Runner (1982). His later film credits included Kiss the Girls (1997), Return to Me (2000) and Windtalkers (2002).\n\nErickson died in Las Vegas, Nevada on June 28, 2017, due to heart complications. He was 93.\n\nDescription above from the Wikipedia article C.O. Erickson, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1923-12-17",
+        "deathday": "2017-06-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 7690,
+        "imdb_id": "nm0259021",
+        "known_for_department": "Production",
+        "name": "C.O. Erickson",
+        "place_of_birth": "Kankakee, Illinois, USA",
+        "popularity": 0.0445,
+        "profile_path": "/1d9C9Nu7YNtGllVewitNgjzq4RW.jpg"
+    }
+}

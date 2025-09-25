@@ -1,0 +1,166 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 278,
+                "original_language": "en",
+                "original_title": "The Shawshank Redemption",
+                "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                "popularity": 28.0345,
+                "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                "release_date": "1994-09-23",
+                "title": "The Shawshank Redemption",
+                "video": false,
+                "vote_average": 8.7,
+                "vote_count": 28883,
+                "character": "Bogs Diamond",
+                "credit_id": "52fe4231c3a36847f800b149",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ryuNZtfeugm9olrytaydFPsDSoB.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 942,
+                "original_language": "en",
+                "original_title": "Lethal Weapon 2",
+                "overview": "Riggs and Murtaugh are on the trail of South African diplomats using their immunity to engage in criminal activities.",
+                "popularity": 8.8428,
+                "poster_path": "/z35OkbOTfnalyx8LK5EPUrnKQhR.jpg",
+                "release_date": "1989-07-07",
+                "title": "Lethal Weapon 2",
+                "video": false,
+                "vote_average": 7.021,
+                "vote_count": 3557,
+                "character": "Hans",
+                "credit_id": "52fe4291c3a36847f8028c41",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ivGXj9i01x5FECAikQkP4X5ojmY.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80
+                ],
+                "id": 2109,
+                "original_language": "en",
+                "original_title": "Rush Hour",
+                "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+                "popularity": 10.7356,
+                "poster_path": "/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg",
+                "release_date": "1998-09-18",
+                "title": "Rush Hour",
+                "video": false,
+                "vote_average": 7.056,
+                "vote_count": 5308,
+                "character": "Agent Russ",
+                "credit_id": "52fe4336c3a36847f8042fcd",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 679,
+                "original_language": "en",
+                "original_title": "Aliens",
+                "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+                "popularity": 10.7593,
+                "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "release_date": "1986-07-18",
+                "title": "Aliens",
+                "video": false,
+                "vote_average": 7.952,
+                "vote_count": 10314,
+                "character": "Private Drake",
+                "credit_id": "52fe4269c3a36847f801c9e3",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 1422,
+                "original_language": "en",
+                "original_title": "The Departed",
+                "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+                "popularity": 13.4795,
+                "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+                "release_date": "2006-10-04",
+                "title": "The Departed",
+                "video": false,
+                "vote_average": 8.159,
+                "vote_count": 15527,
+                "character": "Delahunt",
+                "credit_id": "55e783bac3a3682c5f00021d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+                "genre_ids": [
+                    28,
+                    10752,
+                    36
+                ],
+                "id": 522162,
+                "original_language": "en",
+                "original_title": "Midway",
+                "overview": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.",
+                "popularity": 6.5842,
+                "poster_path": "/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+                "release_date": "2019-11-06",
+                "title": "Midway",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2579,
+                "character": "Ernest King",
+                "credit_id": "5ee49a360cb335001fbc1379",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mark Ralston",
+            "\u039c\u03b1\u03c1\u03ba \u03a1\u03cc\u03bb\u03c3\u03c4\u03bf\u03bd",
+            "\u0645\u0627\u0631\u06a9 \u0631\u0648\u0644\u0633\u062a\u0648\u0646"
+        ],
+        "biography": "Mark Rolston (born December 7, 1956) is an American actor. He made his film debut as PFC. Drake in Aliens (1986), and is known for his supporting roles in films like Lethal Weapon 2 (1989), The Shawshank Redemption (1994), Rush Hour (1998), The Departed (2006), and the Saw film series (2008\u201309). On television, he played Gordie Liman on The Shield (2003), Edward Shippen IV on Turn: Washington's Spies (2015\u201316), the voice of Lex Luthor on Young Justice (2010\u201322), and Lt. Don Thorne on Bosch (2018\u201321) and Bosch: Legacy (2022-25).  Description above from the Wikipedia article Mark Rolston, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1956-12-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 6576,
+        "imdb_id": "nm0001679",
+        "known_for_department": "Acting",
+        "name": "Mark Rolston",
+        "place_of_birth": "Baltimore, Maryland, USA",
+        "popularity": 1.0197,
+        "profile_path": "/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+    }
+}

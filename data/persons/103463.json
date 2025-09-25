@@ -1,0 +1,50 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.7754,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "character": "Luigi the Tailor",
+                "credit_id": "684f44c31f6d18e6513fed83",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ernest Saracino",
+            "Earnest Sarracino",
+            "Ernie Sarracino"
+        ],
+        "biography": "",
+        "birthday": "1915-02-12",
+        "deathday": "1998-05-20",
+        "gender": 2,
+        "homepage": null,
+        "id": 103463,
+        "imdb_id": "nm0765512",
+        "known_for_department": "Acting",
+        "name": "Ernest Sarracino",
+        "place_of_birth": "Valdez, Colorado, USA",
+        "popularity": 0.0946,
+        "profile_path": null
+    }
+}

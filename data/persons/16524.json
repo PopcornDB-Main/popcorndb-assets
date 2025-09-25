@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1366,
+                "original_language": "en",
+                "original_title": "Rocky",
+                "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time \u2014 a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+                "popularity": 10.7773,
+                "poster_path": "/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+                "release_date": "1976-11-20",
+                "title": "Rocky",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 8231,
+                "character": "George 'Miles' Jergens",
+                "credit_id": "52fe42efc3a36847f802e02d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uuich47VwLn44B0gHmhgLt6hTcM.jpg",
+                "genre_ids": [
+                    37,
+                    35,
+                    12
+                ],
+                "id": 11040,
+                "original_language": "en",
+                "original_title": "Little Big Man",
+                "overview": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.",
+                "popularity": 2.9034,
+                "poster_path": "/pLvUVqadEI9cPrRlTru6ee71EWU.jpg",
+                "release_date": "1970-12-23",
+                "title": "Little Big Man",
+                "video": false,
+                "vote_average": 7.476,
+                "vote_count": 674,
+                "character": "Rev. Silas Pendrake",
+                "credit_id": "596270349251415a400ab6ff",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David Thayer Hersey"
+        ],
+        "biography": "",
+        "birthday": "1927-03-04",
+        "deathday": "1978-07-17",
+        "gender": 2,
+        "homepage": null,
+        "id": 16524,
+        "imdb_id": "nm0203076",
+        "known_for_department": "Acting",
+        "name": "Thayer David",
+        "place_of_birth": "Medford, Massachusetts, USA",
+        "popularity": 0.4151,
+        "profile_path": "/gAkmthly4dMu2Az8SNVWNSeRsYy.jpg"
+    }
+}

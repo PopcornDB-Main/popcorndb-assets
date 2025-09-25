@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jD0mmfqPRpvJUaPdpLl1vMj38CA.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    10752
+                ],
+                "id": 284689,
+                "original_language": "en",
+                "original_title": "Testament of Youth",
+                "overview": "Testament of Youth is a powerful story of love, war and remembrance, based on the First World War memoir by Vera Brittain, which has become the classic testimony of that war from a woman\u2019s point of view. A searing journey from youthful hopes and dreams to the edge of despair and back again, it\u2019s a film about young love, the futility of war and how to make sense of the darkest times.",
+                "popularity": 3.3597,
+                "poster_path": "/a6kFsaDCulCLfYHmKLDKTYaddM4.jpg",
+                "release_date": "2015-01-16",
+                "title": "Testament of Youth",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 771,
+                "character": "Wounded Solider",
+                "credit_id": "6545fcd09cc67b013a30d471",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lD8dFIk9wDEvOwZw0RB47e346io.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    37
+                ],
+                "id": 698508,
+                "original_language": "en",
+                "original_title": "Redeeming Love",
+                "overview": "A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.",
+                "popularity": 11.871,
+                "poster_path": "/pDc2HxQtC0MlKD4QfRvmKREEyhc.jpg",
+                "release_date": "2022-01-21",
+                "title": "Redeeming Love",
+                "video": false,
+                "vote_average": 7.859,
+                "vote_count": 651,
+                "character": "Alex Stafford",
+                "credit_id": "6545fe639cc67b00ab46a0b9",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1989-07-06",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1769595,
+        "imdb_id": "nm3386410",
+        "known_for_department": "Acting",
+        "name": "Josh Taylor",
+        "place_of_birth": "Taunton, Somerset, England, UK",
+        "popularity": 0.1005,
+        "profile_path": null
+    }
+}

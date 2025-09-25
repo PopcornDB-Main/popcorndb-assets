@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/27Mj3rFYP3xqFy7lnz17vEd8Ms.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 725201,
+                "original_language": "en",
+                "original_title": "The Gray Man",
+                "overview": "When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
+                "popularity": 7.1272,
+                "poster_path": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+                "release_date": "2022-07-13",
+                "title": "The Gray Man",
+                "video": false,
+                "vote_average": 6.934,
+                "vote_count": 3922,
+                "character": "Ranking Officer",
+                "credit_id": "62df1ae1bbcae00055788e72",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 289222,
+                "original_language": "en",
+                "original_title": "The Zookeeper's Wife",
+                "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+                "popularity": 2.8741,
+                "poster_path": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+                "release_date": "2017-03-24",
+                "title": "The Zookeeper's Wife",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 1524,
+                "character": "Stefan",
+                "credit_id": "5952b66092514129c4027924",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1980-09-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1162341,
+        "imdb_id": "nm3070482",
+        "known_for_department": "Acting",
+        "name": "Mari\u00e1n Mita\u0161",
+        "place_of_birth": "Pova\u017esk\u00e1 Bystrica, Czechoslovakia (now Slovakia)",
+        "popularity": 0.1483,
+        "profile_path": "/ccCWomIf2Y1uBm8pVDZrWJF9S9T.jpg"
+    }
+}

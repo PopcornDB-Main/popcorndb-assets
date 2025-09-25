@@ -1,0 +1,99 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8ScGUtKTupr5rVLiXRmffjKMRhH.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    53,
+                    10749
+                ],
+                "id": 1491,
+                "original_language": "en",
+                "original_title": "The Illusionist",
+                "overview": "With his eye on a lovely aristocrat, a gifted illusionist named Eisenheim uses his powers to win her away from her betrothed, a crown prince. But Eisenheim's scheme creates tumult within the monarchy and ignites the suspicion of a dogged inspector.",
+                "popularity": 5.4635,
+                "poster_path": "/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg",
+                "release_date": "2006-08-18",
+                "title": "The Illusionist",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 5076,
+                "character": "Young Sophie",
+                "credit_id": "52fe42f9c3a36847f8031081",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xW54kLO7ZB683CwMbGSN3ELSS1K.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    9648,
+                    36
+                ],
+                "id": 339877,
+                "original_language": "en",
+                "original_title": "Loving Vincent",
+                "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+                "popularity": 6.3455,
+                "poster_path": "/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
+                "release_date": "2017-06-22",
+                "title": "Loving Vincent",
+                "video": false,
+                "vote_average": 7.992,
+                "vote_count": 2529,
+                "character": "Adeline Ravoux",
+                "credit_id": "5551814592514152eb001048",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/um7DVcGyLvImgAdn5JGpjIudYSV.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 454652,
+                "original_language": "en",
+                "original_title": "Colette",
+                "overview": "After marrying a successful Parisian writer known commonly as Willy, Sidonie-Gabrielle Colette is transplanted from her childhood home in rural France to the intellectual and artistic splendor of Paris. Soon after, Willy convinces Colette to ghostwrite for him. She pens a semi-autobiographical novel about a witty and brazen country girl named Claudine, sparking a bestseller and a cultural sensation. After its success, Colette and Willy become the talk of Paris and their adventures inspire additional Claudine novels.",
+                "popularity": 2.886,
+                "poster_path": "/z73Wer1DgObAwWnqZlOyeI33ROY.jpg",
+                "release_date": "2018-09-21",
+                "title": "Colette",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 922,
+                "character": "Georgie Raoul-Duval",
+                "credit_id": "5a3bc7c3925141547e09af24",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0388\u03bb\u03b9\u03bd\u03bf\u03c1 \u03a4\u03cc\u03bc\u03bb\u03b9\u03bd\u03c3\u03bf\u03bd",
+            "\u0388\u03bb\u03b9\u03bd\u03bf\u03c1 \u039c\u03ad\u03b9 \u03a4\u03cc\u03bc\u03bb\u03b9\u03bd\u03c3\u03bf\u03bd",
+            "\uc5d8\ub9ac\ub108 \ud1b0\ub9b0\uc2a8",
+            "\u0627\u0644\u0646\u0648\u0631 \u062a\u0627\u0645\u0644\u06cc\u0646\u0633\u0648\u0646",
+            "\u0627\u0644\u06cc\u0646\u0648\u0631 \u062a\u0627\u0645\u0644\u06cc\u0646\u0633\u0648\u0646"
+        ],
+        "biography": "Eleanor May Tomlinson (born 19 May 1992) is an English actress. She was born in London, but at a young age, she moved with her family to Beverley, East Riding of Yorkshire, England.",
+        "birthday": "1992-05-19",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 73357,
+        "imdb_id": "nm1870434",
+        "known_for_department": "Acting",
+        "name": "Eleanor Tomlinson",
+        "place_of_birth": "London, England, UK",
+        "popularity": 1.3732,
+        "profile_path": "/A2lE5kvZE3tIpKwpAtKbjsMHpf2.jpg"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qrnNj4lCPcBzmeOaHb7pLV9JKyg.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 11527,
+                "original_language": "en",
+                "original_title": "Excalibur",
+                "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\" chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately, his death.",
+                "popularity": 4.2365,
+                "poster_path": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+                "release_date": "1981-04-10",
+                "title": "Excalibur",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 1069,
+                "character": "Kay",
+                "credit_id": "52fe44539251416c75030b27",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 10376,
+                "original_language": "it",
+                "original_title": "La leggenda del pianista sull'oceano",
+                "overview": "The story of a virtuoso piano player who lives his entire life aboard an ocean liner. Born and raised on the ship, 1900 learned about the outside world through interactions with passengers, never setting foot on land, even for the love of his life. Years later, the ship may be destroyed, and a former band member fears that 1900 may still be aboard, willing to go down with the ship.",
+                "popularity": 2.8883,
+                "poster_path": "/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+                "release_date": "1998-10-28",
+                "title": "The Legend of 1900",
+                "video": false,
+                "vote_average": 8.25,
+                "vote_count": 2348,
+                "character": "Harbor Master",
+                "credit_id": "54b19a8e92514107e00012d0",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 197,
+                "original_language": "en",
+                "original_title": "Braveheart",
+                "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+                "popularity": 11.4772,
+                "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+                "release_date": "1995-05-24",
+                "title": "Braveheart",
+                "video": false,
+                "vote_average": 7.944,
+                "vote_count": 10594,
+                "character": "English General",
+                "credit_id": "55dca048c3a36865860002f0",
+                "order": 45
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1946-02-08",
+        "deathday": "2009-02-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 104758,
+        "imdb_id": "nm0639747",
+        "known_for_department": "Acting",
+        "name": "Niall O'Brien",
+        "place_of_birth": "Dublin, Ireland",
+        "popularity": 0.0672,
+        "profile_path": null
+    }
+}

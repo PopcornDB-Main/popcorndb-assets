@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "genre_ids": [
+                    9648,
+                    18
+                ],
+                "id": 15,
+                "original_language": "en",
+                "original_title": "Citizen Kane",
+                "overview": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+                "popularity": 6.1449,
+                "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+                "release_date": "1941-04-17",
+                "title": "Citizen Kane",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 5751,
+                "character": "Mr. Bernstein",
+                "credit_id": "52fe420ec3a36847f800089f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/loE8zQAj5GROl4BAYNcUTWFJKAx.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    53
+                ],
+                "id": 3766,
+                "original_language": "en",
+                "original_title": "The Lady from Shanghai",
+                "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife.",
+                "popularity": 4.165,
+                "poster_path": "/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+                "release_date": "1947-12-24",
+                "title": "The Lady from Shanghai",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 692,
+                "character": "Arthur Bannister",
+                "credit_id": "52fe43a4c3a36847f80640fb",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Everett H. Sloane"
+        ],
+        "biography": "Everett Sloane (October 1, 1909 \u2013 August 6, 1965) was an American stage, film and television actor, songwriter, and theatre director.\n\nDescription above from the Wikipedia article Everett Sloane , licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1909-10-01",
+        "deathday": "1965-08-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 11027,
+        "imdb_id": "nm0806041",
+        "known_for_department": "Acting",
+        "name": "Everett Sloane",
+        "place_of_birth": "Manhattan, New York City, New York, USA",
+        "popularity": 0.3879,
+        "profile_path": "/8R8nAUNgJYgzJxx3Wx9vdns8d8U.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jBkKw0GSAOTBsnar5RstD7MzkmL.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    9648
+                ],
+                "id": 171372,
+                "original_language": "en",
+                "original_title": "Frank",
+                "overview": "A young wannabe musician discovers he has bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+                "popularity": 5.6772,
+                "poster_path": "/mGzqs4CHW8LomreoPATnyrTXk7j.jpg",
+                "release_date": "2014-05-09",
+                "title": "Frank",
+                "video": false,
+                "vote_average": 6.868,
+                "vote_count": 1659,
+                "character": "Frank's Dad",
+                "credit_id": "54d505dec3a36871c100b6a3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5SGAJrTVpWXKNdEwspTG9s60YOp.jpg",
+                "genre_ids": [
+                    10749,
+                    12,
+                    878,
+                    18
+                ],
+                "id": 365942,
+                "original_language": "en",
+                "original_title": "The Space Between Us",
+                "overview": "A young man raised by scientists on Mars returns to Earth to find his father.",
+                "popularity": 2.3938,
+                "poster_path": "/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg",
+                "release_date": "2017-01-26",
+                "title": "The Space Between Us",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2495,
+                "character": "NASA Scientist",
+                "credit_id": "58e9016c92514152ac0177ce",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 87232,
+        "imdb_id": "nm0570637",
+        "known_for_department": "Acting",
+        "name": "Bruce McIntosh",
+        "place_of_birth": null,
+        "popularity": 0.4659,
+        "profile_path": "/gIornTW2SgYp8UQitDXGYfd3Kp5.jpg"
+    }
+}

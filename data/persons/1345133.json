@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
+                "genre_ids": [
+                    10752,
+                    18,
+                    28
+                ],
+                "id": 228150,
+                "original_language": "en",
+                "original_title": "Fury",
+                "overview": "April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened army sergeant named Wardaddy commands a Sherman tank and her five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, and with a rookie soldier thrust into their platoon, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+                "popularity": 17.3483,
+                "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+                "release_date": "2014-10-15",
+                "title": "Fury",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 12483,
+                "character": "Sergeant Peterson",
+                "credit_id": "5477f4f992514160e30082bb",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/l53K8Fp1WcOMRL33CMsnnMUPiWg.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 77016,
+                "original_language": "en",
+                "original_title": "End of Watch",
+                "overview": "Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.",
+                "popularity": 6.3696,
+                "poster_path": "/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
+                "release_date": "2012-09-20",
+                "title": "End of Watch",
+                "video": false,
+                "vote_average": 7.353,
+                "vote_count": 3428,
+                "character": "Ice Agent",
+                "credit_id": "556bab2ac3a3685931000165",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1345133,
+        "imdb_id": "nm5244059",
+        "known_for_department": "Acting",
+        "name": "Kevin Vance",
+        "place_of_birth": null,
+        "popularity": 0.5099,
+        "profile_path": "/w0CsNlqcGxBhIuJ94vEDMY7gcRz.jpg"
+    }
+}

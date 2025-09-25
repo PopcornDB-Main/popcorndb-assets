@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.8273,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.452,
+                "vote_count": 5608,
+                "character": "Susan Lovell",
+                "credit_id": "52fe4253c3a36847f8015991",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1984-03-27",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 8185,
+        "imdb_id": "nm0515973",
+        "known_for_department": "Acting",
+        "name": "Emily Ann Lloyd",
+        "place_of_birth": "Glendale, California, USA",
+        "popularity": 0.3839,
+        "profile_path": "/5ye8XuGxdHNiMQNw4Rt9xpUH4OR.jpg"
+    }
+}

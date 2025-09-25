@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    36
+                ],
+                "id": 407448,
+                "original_language": "en",
+                "original_title": "Detroit",
+                "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+                "popularity": 4.7886,
+                "poster_path": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+                "release_date": "2017-07-28",
+                "title": "Detroit",
+                "video": false,
+                "vote_average": 7.266,
+                "vote_count": 1689,
+                "character": "National Guardsman Matthew",
+                "credit_id": "5984b7b6925141437600afd8",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1191822,
+        "imdb_id": "nm3536375",
+        "known_for_department": "Acting",
+        "name": "Will Bouvier",
+        "place_of_birth": null,
+        "popularity": 0.0327,
+        "profile_path": null
+    }
+}

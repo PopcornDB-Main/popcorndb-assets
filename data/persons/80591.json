@@ -1,0 +1,173 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 37799,
+                "original_language": "en",
+                "original_title": "The Social Network",
+                "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+                "popularity": 8.9012,
+                "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+                "release_date": "2010-10-01",
+                "title": "The Social Network",
+                "video": false,
+                "vote_average": 7.37,
+                "vote_count": 12633,
+                "character": "Marylin Delpy",
+                "credit_id": "52fe466f9251416c91054745",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    18,
+                    35
+                ],
+                "id": 150540,
+                "original_language": "en",
+                "original_title": "Inside Out",
+                "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+                "popularity": 15.5054,
+                "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+                "release_date": "2015-06-17",
+                "title": "Inside Out",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 22791,
+                "character": "Cool Girl's Emotions (voice)",
+                "credit_id": "5580696bc3a368583e000375",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 508965,
+                "original_language": "en",
+                "original_title": "Klaus",
+                "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
+                "popularity": 6.8534,
+                "poster_path": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+                "release_date": "2019-11-08",
+                "title": "Klaus",
+                "video": false,
+                "vote_average": 8.235,
+                "vote_count": 4351,
+                "character": "Alva (voice)",
+                "credit_id": "5a9ae836c3a3680bb901f7cf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uG1v9Hk1XKICd6IJChRR20mBh8i.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 431693,
+                "original_language": "en",
+                "original_title": "Spies in Disguise",
+                "overview": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is\u2026 not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.",
+                "popularity": 5.7098,
+                "poster_path": "/e7rWcrnuNej3JeVjqmRu0jVeRa4.jpg",
+                "release_date": "2019-12-04",
+                "title": "Spies in Disguise",
+                "video": false,
+                "vote_average": 7.573,
+                "vote_count": 2876,
+                "character": "Marcy Kappel (voice)",
+                "credit_id": "5bde0c2d92514137cf015d43",
+                "order": 3
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    16,
+                    35,
+                    14
+                ],
+                "id": 301528,
+                "original_language": "en",
+                "original_title": "Toy Story 4",
+                "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+                "popularity": 12.4042,
+                "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+                "release_date": "2019-06-19",
+                "title": "Toy Story 4",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 10149,
+                "credit_id": "634db50bca7ec6007c979c24",
+                "department": "Writing",
+                "job": "Original Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    18,
+                    35
+                ],
+                "id": 150540,
+                "original_language": "en",
+                "original_title": "Inside Out",
+                "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+                "popularity": 15.5054,
+                "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+                "release_date": "2015-06-17",
+                "title": "Inside Out",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 22791,
+                "credit_id": "571d06d8c3a3685e1600057e",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Rashida Leah Jones",
+            "\u0631\u0634\u06cc\u062f\u0647 \u062c\u0648\u0646\u0632"
+        ],
+        "biography": "Rashida Leah Jones (born February 25, 1976) is an American actress, writer, and producer. She is known for starring as Ann Perkins on the NBC comedy series Parks and Recreation (2009\u20132015), for which she received critical acclaim.\n\nJones appeared as Louisa Fenn on the Fox drama series Boston Public (2000\u20132002) and as Karen Filippelli on the acclaimed NBC comedy series The Office (2006\u20132011). From 2016 to 2019, Jones starred as the lead eponymous role in the TBS comedy series Angie Tribeca.\n\nJones is also known for her roles in such films as I Love You, Man (2009), The Social Network (2010), Our Idiot Brother (2011), The Muppets (2011), Celeste and Jesse Forever (2012), which she co-wrote, and Tag (2018). Jones also co-wrote the story of Toy Story 4 (2019).\n\nAs a filmmaker, she directed the first episode of Hot Girls Wanted, a series that focused on the sex industry. She was also executive producer of the series. In 2018, her documentary Quincy, about her father, Quincy Jones, debuted on Netflix; it won the Grammy Award for Best Music Film in 2019.\n\nDescription above from the Wikipedia article Rashida Jones, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1976-02-25",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 80591,
+        "imdb_id": "nm0429069",
+        "known_for_department": "Acting",
+        "name": "Rashida Jones",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 2.1438,
+        "profile_path": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    14
+                ],
+                "id": 287947,
+                "original_language": "en",
+                "original_title": "Shazam!",
+                "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+                "popularity": 6.2104,
+                "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+                "release_date": "2019-03-29",
+                "title": "Shazam!",
+                "video": false,
+                "vote_average": 6.988,
+                "vote_count": 9869,
+                "character": "Young Billy",
+                "credit_id": "5aa2c7079251414c5a00ead6",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/brENMyyhk13WLzKHBK20rBKx0u7.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 527435,
+                "original_language": "en",
+                "original_title": "The Christmas Chronicles",
+                "overview": "Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.",
+                "popularity": 4.0637,
+                "poster_path": "/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
+                "release_date": "2018-11-22",
+                "title": "The Christmas Chronicles",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2272,
+                "character": "5 Year Old Teddy",
+                "credit_id": "5bf9175492514104d800cee8",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "2010-07-18",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1994215,
+        "imdb_id": "nm9680027",
+        "known_for_department": "Acting",
+        "name": "David Kohlsmith",
+        "place_of_birth": " Toronto, Ontario, Canada",
+        "popularity": 0.2898,
+        "profile_path": "/mSB1lVOqBmPyaEB7vWvgFsqSesi.jpg"
+    }
+}

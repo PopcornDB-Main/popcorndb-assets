@@ -1,0 +1,158 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tmP4COlAaowO0FniW30aatOcmMq.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749,
+                    10402
+                ],
+                "id": 243,
+                "original_language": "en",
+                "original_title": "High Fidelity",
+                "overview": "After his long-time girlfriend dumps him, a thirty-year-old record store owner seeks to understand why he is unlucky in love while recounting his \"top five breakups of all time\".",
+                "popularity": 3.5348,
+                "poster_path": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+                "release_date": "2000-03-17",
+                "title": "High Fidelity",
+                "video": false,
+                "vote_average": 7.12,
+                "vote_count": 2079,
+                "character": "Dick",
+                "credit_id": "52fe422cc3a36847f80098ef",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 9802,
+                "original_language": "en",
+                "original_title": "The Rock",
+                "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+                "popularity": 7.9267,
+                "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
+                "release_date": "1996-06-07",
+                "title": "The Rock",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 4925,
+                "character": "Marvin Isherwood",
+                "credit_id": "52fe4530c3a36847f80c12ed",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 9390,
+                "original_language": "en",
+                "original_title": "Jerry Maguire",
+                "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+                "popularity": 6.0348,
+                "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+                "release_date": "1996-12-13",
+                "title": "Jerry Maguire",
+                "video": false,
+                "vote_average": 6.971,
+                "vote_count": 3482,
+                "character": "Chad the Nanny",
+                "credit_id": "52fe44f1c3a36847f80b3407",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9475,
+                "original_language": "en",
+                "original_title": "Scent of a Woman",
+                "overview": "Charlie Simms is a student at a private preparatory school who comes from a poor family. To earn the money for his flight home to Gresham, Oregon for Christmas, Charlie takes a job over Thanksgiving looking after retired U.S. Army officer Lieutenant Colonel Frank Slade, a cantankerous middle-aged man who lives with his niece and her family.",
+                "popularity": 6.2929,
+                "poster_path": "/4adI7IaveWb7EidYXfLb3MK3CgO.jpg",
+                "release_date": "1992-12-23",
+                "title": "Scent of a Woman",
+                "video": false,
+                "vote_average": 7.782,
+                "vote_count": 3670,
+                "character": "Trent Potter",
+                "credit_id": "55cf713592514131a5004e92",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f2Gdaux9j6FF39oNj0Cpfooje4m.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 9388,
+                "original_language": "en",
+                "original_title": "Thank You for Smoking",
+                "overview": "Nick Naylor is a charismatic spin-doctor for Big Tobacco who'll fight to protect America's right to smoke -- even if it kills him -- while still remaining a role model for his 12-year old son. When he incurs the wrath of a senator bent on snuffing out cigarettes, Nick's powers of \"filtering the truth\" will be put to the test.",
+                "popularity": 2.9808,
+                "poster_path": "/cJpeM7U36diFinieBWNLVi0FlQz.jpg",
+                "release_date": "2005-09-09",
+                "title": "Thank You for Smoking",
+                "video": false,
+                "vote_average": 7.19,
+                "vote_count": 2274,
+                "character": "Ron Goode",
+                "credit_id": "5671a1b9925141664f015fd3",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 9.6409,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5605,
+                "character": "FAO White",
+                "credit_id": "5bc370000e0a266e5b04bb13",
+                "order": 36
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Todd Louiso (born January 27, 1970) is an American film actor and film director best known for his role as timid record store clerk Dick in High Fidelity, opposite Jack Black and John Cusack.\n\nOther supporting roles include School For Scoundrels. He has had minor roles in films like Jerry Maguire, Thank You for Smoking, 8 Heads in a Duffel Bag and Snakes on a Plane.\n\nLouiso started his directing career with Love Liza.",
+        "birthday": "1970-01-27",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3230,
+        "imdb_id": "nm0521974",
+        "known_for_department": "Acting",
+        "name": "Todd Louiso",
+        "place_of_birth": "Cincinnati, Ohio, USA",
+        "popularity": 0.4524,
+        "profile_path": "/dkvuAxxXoCqGQrPNYHlELxL75q2.jpg"
+    }
+}

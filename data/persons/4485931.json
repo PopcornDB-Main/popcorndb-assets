@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/iYqoT9VBGdGTuLl3cjfbG7ZXDkP.jpg",
+                "genre_ids": [
+                    99,
+                    18
+                ],
+                "id": 656690,
+                "original_language": "en",
+                "original_title": "The Social Dilemma",
+                "overview": "This documentary-drama hybrid explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
+                "popularity": 4.607,
+                "poster_path": "/jdmagxKK7g2rPkdltC7Kga2MBbp.jpg",
+                "release_date": "2020-01-26",
+                "title": "The Social Dilemma",
+                "video": false,
+                "vote_average": 7.443,
+                "vote_count": 1682,
+                "character": "Self",
+                "credit_id": "65a7fa2905b54900cba831e9",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 4485931,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Guillaume Chaslot",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

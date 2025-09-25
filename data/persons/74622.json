@@ -1,0 +1,50 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 13528,
+                "original_language": "en",
+                "original_title": "Gaslight",
+                "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+                "popularity": 2.535,
+                "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+                "release_date": "1944-05-04",
+                "title": "Gaslight",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 515,
+                "character": "Elizabeth",
+                "credit_id": "52fe45769251416c7505765f",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Barbara Mary Everest",
+            "Barbara Everst"
+        ],
+        "biography": "",
+        "birthday": "1890-06-18",
+        "deathday": "1968-02-09",
+        "gender": 1,
+        "homepage": null,
+        "id": 74622,
+        "imdb_id": "nm0263481",
+        "known_for_department": "Acting",
+        "name": "Barbara Everest",
+        "place_of_birth": "Southfields, Surrey, England, UK",
+        "popularity": 0.0858,
+        "profile_path": "/kZ3jJhDvBOAv7icymgtWgcSbYPd.jpg"
+    }
+}

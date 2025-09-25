@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    10751
+                ],
+                "id": 116149,
+                "original_language": "en",
+                "original_title": "Paddington",
+                "overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+                "popularity": 5.3396,
+                "poster_path": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+                "release_date": "2014-11-24",
+                "title": "Paddington",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 3989,
+                "character": "Second Geographer",
+                "credit_id": "55e419c692514137dd003504",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 346648,
+                "original_language": "en",
+                "original_title": "Paddington 2",
+                "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+                "popularity": 5.0191,
+                "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+                "release_date": "2017-11-09",
+                "title": "Paddington 2",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 2584,
+                "character": "St. Paul's Tour Guide",
+                "credit_id": "5a3975e20e0a264cd02057ed",
+                "order": 54
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 231229,
+        "imdb_id": "nm1476321",
+        "known_for_department": "Acting",
+        "name": "Gus Brown",
+        "place_of_birth": null,
+        "popularity": 0.5862,
+        "profile_path": "/yBAHXQEVn4RwBV2Lo3RjiKPA4fd.jpg"
+    }
+}

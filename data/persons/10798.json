@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nVpp3ZcIFtJJ3fJp65eJczehIN8.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 3063,
+                "original_language": "en",
+                "original_title": "Duck Soup",
+                "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+                "popularity": 2.3419,
+                "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+                "release_date": "1933-11-12",
+                "title": "Duck Soup",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 816,
+                "character": "Rufus T. Firefly",
+                "credit_id": "52fe4381c3a36847f8059431",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d7YwLX0PnX8vsaaQq9bz93jczGw.jpg",
+                "genre_ids": [
+                    35,
+                    10402
+                ],
+                "id": 37719,
+                "original_language": "en",
+                "original_title": "A Night at the Opera",
+                "overview": "The Marx Brothers take on high society and the opera world to bring two lovers together. A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+                "popularity": 2.2205,
+                "poster_path": "/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+                "release_date": "1935-11-15",
+                "title": "A Night at the Opera",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 519,
+                "character": "Otis B. Driftwood",
+                "credit_id": "52fe46679251416c910535b5",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Julius Henry Marx"
+        ],
+        "biography": "Julius Henry \"Groucho\" Marx (October 2, 1890 \u2013 August 19, 1977) was an American comedian and film star famed as a master of wit. His rapid-fire delivery of innuendo-laden patter earned him many admirers.He made 13 feature films with his siblings the Marx Brothers, of whom he was the third-born. He also had a successful solo career, most notably as the host of the radio and television game show You Bet Your Life. His distinctive appearance, carried over from his days in vaudeville, included quirks such as an exaggerated stooped posture, glasses, cigars, and a thick greasepaint mustache and eyebrows.",
+        "birthday": "1890-09-30",
+        "deathday": "1977-08-19",
+        "gender": 2,
+        "homepage": "https://grouchomarx.com",
+        "id": 10798,
+        "imdb_id": "nm0000050",
+        "known_for_department": "Acting",
+        "name": "Groucho Marx",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.5389,
+        "profile_path": "/pJEDzCd8XbvZkOvpn8SKLol5PEE.jpg"
+    }
+}

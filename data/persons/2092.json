@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t1ptcIJiPzxR4cM9q7i0RFizFd8.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    10751
+                ],
+                "id": 173,
+                "original_language": "en",
+                "original_title": "20,000 Leagues Under the Sea",
+                "overview": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
+                "popularity": 3.5629,
+                "poster_path": "/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+                "release_date": "1954-12-23",
+                "title": "20,000 Leagues Under the Sea",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 929,
+                "character": "Prof. Pierre Arronax",
+                "credit_id": "52fe4222c3a36847f8006a13",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/15HEZcSKtLcl69avXfmjoIJBuay.jpg",
+                "genre_ids": [
+                    9648,
+                    53
+                ],
+                "id": 940,
+                "original_language": "en",
+                "original_title": "The Lady Vanishes",
+                "overview": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
+                "popularity": 3.4055,
+                "poster_path": "/c1t9LB76LvEARPanfEzXmkm7fwY.jpg",
+                "release_date": "1938-10-07",
+                "title": "The Lady Vanishes",
+                "video": false,
+                "vote_average": 7.44,
+                "vote_count": 971,
+                "character": "Dr. Hartz",
+                "credit_id": "52fe4290c3a36847f8028a71",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "P\u00e1l Luk\u00e1cs",
+            "Luk\u00e1cs P\u00e1l",
+            "Paul Lukacs",
+            "\u041f\u043e\u043b \u041b\u0443\u043a\u0430\u0441"
+        ],
+        "biography": "Paul Lukas (originally named P\u00e1l Luk\u00e1cs) was a Hungarian born stage, screen, radio, and television actor, in Hollywood from 1927.",
+        "birthday": "1894-05-25",
+        "deathday": "1971-08-15",
+        "gender": 2,
+        "homepage": null,
+        "id": 2092,
+        "imdb_id": "nm0510134",
+        "known_for_department": "Acting",
+        "name": "Paul Lukas",
+        "place_of_birth": "Budapest, Austria-Hungary [now Hungary]",
+        "popularity": 0.8293,
+        "profile_path": "/uPN8hpMtacoFylb0Ez9j800bilZ.jpg"
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    9648
+                ],
+                "id": 141,
+                "original_language": "en",
+                "original_title": "Donnie Darko",
+                "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+                "popularity": 7.6738,
+                "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+                "release_date": "2001-01-19",
+                "title": "Donnie Darko",
+                "video": false,
+                "vote_average": 7.767,
+                "vote_count": 12907,
+                "character": "Kitty Farmer",
+                "credit_id": "52fe421dc3a36847f8005275",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 380,
+                "original_language": "en",
+                "original_title": "Rain Man",
+                "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+                "popularity": 8.4238,
+                "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+                "release_date": "1988-12-12",
+                "title": "Rain Man",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 6688,
+                "character": "Mother at Farm House",
+                "credit_id": "52fe423cc3a36847f800e8df",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1637,
+                "original_language": "en",
+                "original_title": "Speed",
+                "overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3\u00a0million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...",
+                "popularity": 8.2683,
+                "poster_path": "/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg",
+                "release_date": "1994-06-09",
+                "title": "Speed",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 6487,
+                "character": "Helen",
+                "credit_id": "52fe4307c3a36847f8034fad",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 1645,
+                "original_language": "en",
+                "original_title": "A Time to Kill",
+                "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+                "popularity": 6.7739,
+                "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+                "release_date": "1996-07-24",
+                "title": "A Time to Kill",
+                "video": false,
+                "vote_average": 7.383,
+                "vote_count": 2686,
+                "character": "Cora Mae Cobb",
+                "credit_id": "52fe4308c3a36847f803544b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    37
+                ],
+                "id": 6977,
+                "original_language": "en",
+                "original_title": "No Country for Old Men",
+                "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+                "popularity": 13.2983,
+                "poster_path": "/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+                "release_date": "2007-11-09",
+                "title": "No Country for Old Men",
+                "video": false,
+                "vote_average": 7.945,
+                "vote_count": 12662,
+                "character": "Carla Jean's Mother",
+                "credit_id": "52fe446dc3a36847f80957d7",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7HiMvoDSYW4fyu4rkmWH6pcKKuF.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    80,
+                    53
+                ],
+                "id": 7270,
+                "original_language": "en",
+                "original_title": "Matchstick Men",
+                "overview": "A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly.",
+                "popularity": 2.3306,
+                "poster_path": "/y5hBAMrOWUusHjnWUGLpFWPtPAP.jpg",
+                "release_date": "2003-09-12",
+                "title": "Matchstick Men",
+                "video": false,
+                "vote_average": 7.007,
+                "vote_count": 1837,
+                "character": "Laundry Lady",
+                "credit_id": "52fe4475c3a36847f8097563",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 74643,
+                "original_language": "fr",
+                "original_title": "The Artist",
+                "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+                "popularity": 3.4438,
+                "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+                "release_date": "2011-10-12",
+                "title": "The Artist",
+                "video": false,
+                "vote_average": 7.45,
+                "vote_count": 3365,
+                "character": "Peppy's Maid",
+                "credit_id": "52fe48d7c3a368484e10d8e3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 5.2704,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.693,
+                "vote_count": 7467,
+                "character": "Nancy Jenkins",
+                "credit_id": "577cf9cd9251413bd8002608",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obyCUbpZvMTizOqYWHqkTFgfvnf.jpg",
+                "genre_ids": [
+                    10752,
+                    10749,
+                    36,
+                    28
+                ],
+                "id": 676,
+                "original_language": "en",
+                "original_title": "Pearl Harbor",
+                "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+                "popularity": 9.0424,
+                "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+                "release_date": "2001-05-21",
+                "title": "Pearl Harbor",
+                "video": false,
+                "vote_average": 6.942,
+                "vote_count": 6742,
+                "character": "Motherly Secretary",
+                "credit_id": "5826f39ac3a3683601016c51",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/josJUt5eVMANf06mxSKnJlwjELB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 407449,
+                "original_language": "en",
+                "original_title": "Lucky",
+                "overview": "Follows the journey of a 90-year-old atheist and the quirky characters that inhabit his off-the-map desert town. He finds himself at the precipice of life, thrust into a journey of self-exploration.",
+                "popularity": 2.2308,
+                "poster_path": "/fy2K8jqCV9rNC8fHx9muPJTNaqs.jpg",
+                "release_date": "2017-09-29",
+                "title": "Lucky",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 605,
+                "character": "Elaine",
+                "credit_id": "58c010449251412e030080e3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v46Cqa8w2dS3beMLP2H2iEKf8M.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    10749
+                ],
+                "id": 25196,
+                "original_language": "en",
+                "original_title": "Crazy Heart",
+                "overview": "When reporter Jean Craddock interviews Bad Blake\u2014an alcoholic, seen-better-days country music legend\u2014they connect, and the hard-living crooner sees a possible saving grace in a life with Jean and her young son.",
+                "popularity": 2.6136,
+                "poster_path": "/zwao2YMsqf27IzNEtDNWSe0W9jH.jpg",
+                "release_date": "2009-12-16",
+                "title": "Crazy Heart",
+                "video": false,
+                "vote_average": 6.915,
+                "vote_count": 1105,
+                "character": "Jo Ann",
+                "credit_id": "58a9610cc3a3680bed004923",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    37,
+                    12
+                ],
+                "id": 44896,
+                "original_language": "en",
+                "original_title": "Rango",
+                "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
+                "popularity": 9.0087,
+                "poster_path": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+                "release_date": "2011-03-02",
+                "title": "Rango",
+                "video": false,
+                "vote_average": 6.881,
+                "vote_count": 6807,
+                "character": "Bonnie (voice)",
+                "credit_id": "58a960bc92514173f600519b",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xga9dXEIJHAjNLGMjw4VDPH7LJB.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 9090,
+                "original_language": "en",
+                "original_title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+                "overview": "Manhattan drag queens Vida Boheme and Noxeema Jackson impress regional judges in competition, securing berths in the Nationals in Los Angeles. When the two meet pathetic drag novice Chi-Chi Rodriguez \u2014 one of the losers that evening \u2014 the charmed Vida and Noxeema agree to take the hopeless youngster under their joined wing. Soon the three set off on a madcap road trip across America and struggle to make it to Los Angeles in time.",
+                "popularity": 3.4032,
+                "poster_path": "/xlRhO3TzTxCFn2s9LEcVi7s582t.jpg",
+                "release_date": "1995-09-08",
+                "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 708,
+                "character": "Loretta",
+                "credit_id": "5e0f3548681888001259b45d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vftMyaxyKlNKU5kdsKRlQLc57hY.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 523781,
+                "original_language": "en",
+                "original_title": "Words on Bathroom Walls",
+                "overview": "Diagnosed with a mental illness halfway through his senior year of high school, a witty, introspective teen struggles to keep it a secret while falling in love with a brilliant classmate who inspires him to open his heart and not be defined by his condition.",
+                "popularity": 3.0616,
+                "poster_path": "/sTtcwfTjE9jaU0928xjUXNtmmyr.jpg",
+                "release_date": "2020-08-21",
+                "title": "Words on Bathroom Walls",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 633,
+                "character": "Sister Catherine",
+                "credit_id": "5f0fa244dcf87500379d5b2c",
+                "order": 6
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0628\u062b \u06af\u0631\u0627\u0646\u062a"
+        ],
+        "biography": "Beth Grant (born September 18, 1949) is an American actress. She is known for often playing characters who are conservatives, religious zealots or sticklers for rules.\n\nShe has appeared in dozens of films, including Rain Man, Speed; To Wong Foo, Thanks for Everything! Julie Newmar; Love Field; Donnie Darko; A Time to Kill; Little Miss Sunshine; Child's Play 2; Daltry Calhoun; City Slickers 2; Don't Tell Her It's Me; Matchstick Men; Factory Girl; The Wizard; Sordid Lives; The Rookie; All About Steve; No Country for Old Men, Crazy Heart, and Rango.\n\nGrant has also appeared in many TV shows, including Everwood; Delta; The Golden Girls; Malcolm in the Middle; The X-Files; Friends; CSI; Six Feet Under; Wonderfalls; My Name Is Earl; Yes, Dear; King of the Hill; The Office; Angel; Judging Amy; Jericho; Sordid Lives: The Series; Criminal Minds, Sabrina The Teenage Witch; True Blood; How I Met Your Mother; and The Mentalist.\n\nGrant was born in Gadsden, Alabama, and is an alumna of East Carolina University. She is married to actor Michael Chieffo with whom she has one child.\n\nGrant played the same character, Marianne Marie Beetle, in the short-lived show Wonderfalls and Pushing Daisies, both created by Bryan Fuller.\n\nDescription above from the Wikipedia article Beth Grant, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1949-09-18",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 5151,
+        "imdb_id": "nm0335275",
+        "known_for_department": "Acting",
+        "name": "Beth Grant",
+        "place_of_birth": "Gadsden, Alabama, USA",
+        "popularity": 0.6918,
+        "profile_path": "/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+    }
+}

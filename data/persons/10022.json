@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    12
+                ],
+                "id": 665,
+                "original_language": "en",
+                "original_title": "Ben-Hur",
+                "overview": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+                "popularity": 5.7433,
+                "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+                "release_date": "1959-11-18",
+                "title": "Ben-Hur",
+                "video": false,
+                "vote_average": 7.886,
+                "vote_count": 2943,
+                "character": "Miriam",
+                "credit_id": "52fe4266c3a36847f801ba23",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 6844,
+                "original_language": "en",
+                "original_title": "The Ten Commandments",
+                "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+                "popularity": 10.0884,
+                "poster_path": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+                "release_date": "1956-10-05",
+                "title": "The Ten Commandments",
+                "video": false,
+                "vote_average": 7.769,
+                "vote_count": 1743,
+                "character": "Yochabel",
+                "credit_id": "52fe4466c3a36847f8093af5",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Martha Ellen Scott (1912\u20132003) was an American actress best known for her roles as mother of the lead character in numerous films and television shows.",
+        "birthday": "1912-09-22",
+        "deathday": "2003-05-28",
+        "gender": 1,
+        "homepage": null,
+        "id": 10022,
+        "imdb_id": "nm0779549",
+        "known_for_department": "Acting",
+        "name": "Martha Scott",
+        "place_of_birth": "Jamesport, Missouri, USA",
+        "popularity": 0.431,
+        "profile_path": "/oBR5i2WR0W7qHGzvyPApIUH3DxL.jpg"
+    }
+}

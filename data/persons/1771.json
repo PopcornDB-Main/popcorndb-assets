@@ -1,0 +1,327 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 153,
+                "original_language": "en",
+                "original_title": "Lost in Translation",
+                "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+                "popularity": 8.2819,
+                "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+                "release_date": "2003-09-18",
+                "title": "Lost in Translation",
+                "video": false,
+                "vote_average": 7.388,
+                "vote_count": 7675,
+                "character": "John",
+                "credit_id": "52fe421fc3a36847f8005b41",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "T/4 Medic Wade",
+                "credit_id": "52fe4283c3a36847f8024b2d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 638,
+                "original_language": "en",
+                "original_title": "Lost Highway",
+                "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelg\u00e4ngers, and an impossible transformation inside a prison cell.",
+                "popularity": 4.8503,
+                "poster_path": "/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+                "release_date": "1997-01-15",
+                "title": "Lost Highway",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2779,
+                "character": "Steve \"V\"",
+                "credit_id": "52fe4262c3a36847f801a2cb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    12,
+                    10749
+                ],
+                "id": 2289,
+                "original_language": "en",
+                "original_title": "Cold Mountain",
+                "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+                "popularity": 6.4908,
+                "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+                "release_date": "2003-12-24",
+                "title": "Cold Mountain",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1859,
+                "character": "Junior",
+                "credit_id": "52fe434ac3a36847f8049059",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 9591,
+                "original_language": "en",
+                "original_title": "That Thing You Do!",
+                "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+                "popularity": 3.2741,
+                "poster_path": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+                "release_date": "1996-10-04",
+                "title": "That Thing You Do!",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 874,
+                "character": "Chad",
+                "credit_id": "52fe450ec3a36847f80b9be5",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14,
+                    878
+                ],
+                "id": 19995,
+                "original_language": "en",
+                "original_title": "Avatar",
+                "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+                "popularity": 27.7146,
+                "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+                "release_date": "2009-12-15",
+                "title": "Avatar",
+                "video": false,
+                "vote_average": 7.594,
+                "vote_count": 32614,
+                "character": "Parker Selfridge",
+                "credit_id": "52fe48009251416c750ac9e1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6b6UpsOXmjO8mJKYsGTG9HW49CN.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1443,
+                "original_language": "en",
+                "original_title": "The Virgin Suicides",
+                "overview": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+                "popularity": 6.9826,
+                "poster_path": "/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+                "release_date": "2000-04-21",
+                "title": "The Virgin Suicides",
+                "video": false,
+                "vote_average": 7.12,
+                "vote_count": 3435,
+                "character": "Narrator (voice)",
+                "credit_id": "629365ecf2cf250064e4a1be",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kVGUdR1CXKAyCFj5Tt4uyR2bpFx.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 273895,
+                "original_language": "en",
+                "original_title": "Selma",
+                "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+                "popularity": 4.5908,
+                "poster_path": "/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg",
+                "release_date": "2014-12-25",
+                "title": "Selma",
+                "video": false,
+                "vote_average": 7.39,
+                "vote_count": 2256,
+                "character": "Lee White",
+                "credit_id": "53a851780e0a26143c005dd6",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ANHqBhbAhyIBRTLSVfENskpxon.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    53
+                ],
+                "id": 1029281,
+                "original_language": "en",
+                "original_title": "Strange Darling",
+                "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer\u2019s vicious murder spree.",
+                "popularity": 11.1815,
+                "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+                "release_date": "2024-08-14",
+                "title": "Strange Darling",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 701,
+                "character": "Art Pallone (voice)",
+                "credit_id": "659055f451a64e0271f43c9f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 932086,
+                "original_language": "en",
+                "original_title": "Horizon: An American Saga - Chapter 1",
+                "overview": "In 1859, families discover the lure of the Old West as they settle in territories from Wyoming to Kansas. Meanwhile, a gruff cowboy soon finds himself on the run with a prostitute and a young boy after killing a fellow gunman.",
+                "popularity": 5.8794,
+                "poster_path": "/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+                "release_date": "2024-06-26",
+                "title": "Horizon: An American Saga - Chapter 1",
+                "video": false,
+                "vote_average": 6.87,
+                "vote_count": 559,
+                "character": "Pickering",
+                "credit_id": "65dcc8a21cc4ff0149fbef05",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 76600,
+                "original_language": "en",
+                "original_title": "Avatar: The Way of Water",
+                "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+                "popularity": 23.3461,
+                "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+                "release_date": "2022-12-14",
+                "title": "Avatar: The Way of Water",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 12861,
+                "character": "Parker Selfridge",
+                "credit_id": "638ffd548566d2007f29756a",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2ANHqBhbAhyIBRTLSVfENskpxon.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    53
+                ],
+                "id": 1029281,
+                "original_language": "en",
+                "original_title": "Strange Darling",
+                "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer\u2019s vicious murder spree.",
+                "popularity": 11.1815,
+                "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+                "release_date": "2024-08-14",
+                "title": "Strange Darling",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 701,
+                "credit_id": "650dd4af4ccc5000e00b2db5",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ANHqBhbAhyIBRTLSVfENskpxon.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    53
+                ],
+                "id": 1029281,
+                "original_language": "en",
+                "original_title": "Strange Darling",
+                "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer\u2019s vicious murder spree.",
+                "popularity": 11.1815,
+                "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+                "release_date": "2024-08-14",
+                "title": "Strange Darling",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 701,
+                "credit_id": "666b6ffc6e318ee59b761b99",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc870\ubc18\ub2c8 \ub9ac\ube44\uc2dc",
+            "Antonino Giovanni Ribisi",
+            "\u062c\u06cc\u0648\u0648\u0627\u0646\u06cc \u0631\u06cc\u0628\u06cc\u0633\u06cc"
+        ],
+        "biography": "Giovanni Ribisi is an American actor. His film credits include Gone in 60 Seconds, Boiler Room, Saving Private Ryan, The Mod Squad, The Gift, Sky Captain and the World of Tomorrow, Lost in Translation and more recently, Public Enemies and Avatar. He is also known for his role as Phoebe Buffay's brother Frank on the sitcom Friends. He also appeared in music videos for Crystal Ball by Keane and Talk About The Blues by The Jon Spencer Blues Explosion.",
+        "birthday": "1974-12-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1771,
+        "imdb_id": "nm0000610",
+        "known_for_department": "Acting",
+        "name": "Giovanni Ribisi",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 2.2589,
+        "profile_path": "/nABPeuB360wvWnVMqgpJHq6wHFz.jpg"
+    }
+}

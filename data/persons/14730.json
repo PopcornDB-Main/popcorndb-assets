@@ -1,0 +1,284 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bbec0wDUaV8nQnQHC6Fb0fSYwNM.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 982,
+                "original_language": "en",
+                "original_title": "The Manchurian Candidate",
+                "overview": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco, finds himself plagued by strange nightmares and soon races to uncover a terrible plot.",
+                "popularity": 6.1899,
+                "poster_path": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+                "release_date": "1962-10-24",
+                "title": "The Manchurian Candidate",
+                "video": false,
+                "vote_average": 7.527,
+                "vote_count": 753,
+                "character": "Mrs. Iselin",
+                "credit_id": "52fe4296c3a36847f802a3cf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fwxOQkzYtRVKs3kzcyukdbsyIuh.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10150,
+                "original_language": "en",
+                "original_title": "The Last Unicorn",
+                "overview": "From a riddle-speaking butterfly, a unicorn learns that she is supposedly the last of her kind, all the others having been herded away by the Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a now middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+                "popularity": 4.9466,
+                "poster_path": "/2MhDPbadE2ha83qiFwUHPgmKLnV.jpg",
+                "release_date": "1982-11-19",
+                "title": "The Last Unicorn",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 545,
+                "character": "Mommy Fortuna (voice)",
+                "credit_id": "52fe43369251416c75007b09",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 11.4334,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.731,
+                "vote_count": 10301,
+                "character": "Mrs. Potts (voice)",
+                "credit_id": "52fe43099251416c75000fc3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
+                "genre_ids": [
+                    9648
+                ],
+                "id": 4192,
+                "original_language": "en",
+                "original_title": "Death on the Nile",
+                "overview": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board and every elegant passenger becomes a prime suspect.",
+                "popularity": 4.0426,
+                "poster_path": "/7qEymSp6wCT19AJxb7T3u6aKpi1.jpg",
+                "release_date": "1978-09-29",
+                "title": "Death on the Nile",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 851,
+                "character": "Salome Otterbourne",
+                "credit_id": "52fe43b1c3a36847f80682bb",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 9444,
+                "original_language": "en",
+                "original_title": "Anastasia",
+                "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
+                "popularity": 5.1878,
+                "poster_path": "/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+                "release_date": "1997-11-20",
+                "title": "Anastasia",
+                "video": false,
+                "vote_average": 7.605,
+                "vote_count": 5439,
+                "character": "Dowager Empress Marie (voice)",
+                "credit_id": "52fe44f8c3a36847f80b4e35",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jQAGYwpp00D9PN7qKIPb4HqNzoq.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    35,
+                    10751,
+                    10402,
+                    16
+                ],
+                "id": 12335,
+                "original_language": "en",
+                "original_title": "Bedknobs and Broomsticks",
+                "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+                "popularity": 3.9562,
+                "poster_path": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+                "release_date": "1971-10-07",
+                "title": "Bedknobs and Broomsticks",
+                "video": false,
+                "vote_average": 7.033,
+                "vote_count": 991,
+                "character": "Miss Price",
+                "credit_id": "52fe44db9251416c75043667",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 13528,
+                "original_language": "en",
+                "original_title": "Gaslight",
+                "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+                "popularity": 3.4134,
+                "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+                "release_date": "1944-05-04",
+                "title": "Gaslight",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 515,
+                "character": "Nancy",
+                "credit_id": "52fe45769251416c7505765b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 661374,
+                "original_language": "en",
+                "original_title": "Glass Onion: A Knives Out Mystery",
+                "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+                "popularity": 8.8316,
+                "poster_path": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+                "release_date": "2022-11-23",
+                "title": "Glass Onion: A Knives Out Mystery",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 6094,
+                "character": "Angela Lansbury",
+                "credit_id": "6340bc21fab3fa0082ce9109",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n92EzFFg2cMkJiEhnMfD5sKHSH3.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    10402
+                ],
+                "id": 49948,
+                "original_language": "en",
+                "original_title": "Fantasia 2000",
+                "overview": "Blending lively music and brilliant animation, this sequel to the original 'Fantasia' restores 'The Sorcerer's Apprentice' and adds seven new shorts.",
+                "popularity": 3.4257,
+                "poster_path": "/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg",
+                "release_date": "2000-01-01",
+                "title": "Fantasia 2000",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1324,
+                "character": "Self - Host",
+                "credit_id": "59079117c3a368587300114b",
+                "order": 8
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 661374,
+                "original_language": "en",
+                "original_title": "Glass Onion: A Knives Out Mystery",
+                "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+                "popularity": 8.8316,
+                "poster_path": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+                "release_date": "2022-11-23",
+                "title": "Glass Onion: A Knives Out Mystery",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 6094,
+                "credit_id": "63a9656aeda4b7007dd4593e",
+                "department": "Crew",
+                "job": "In Memory Of"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 546554,
+                "original_language": "en",
+                "original_title": "Knives Out",
+                "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+                "popularity": 10.7766,
+                "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+                "release_date": "2019-11-27",
+                "title": "Knives Out",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 13115,
+                "credit_id": "602da8cccedac4003e521618",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Angela Brigid Lansbury",
+            "\u0622\u0646\u062c\u0644\u0627 \u0644\u0646\u0633\u0628\u0648\u0631\u06cc"
+        ],
+        "biography": "Dame Angela Brigid Lansbury DBE was a British-American actress and singer who has appeared in theater, television, and film roles. Her career was spanned almost eight decades, much of it in the United States. Her work has received international attention. Her first film appearance was in the 1944 film Gaslight as a conniving maid, for which she received an Academy Award nomination. Among her other films are The Manchurian Candidate (1962), Bedknobs and Broomsticks (1971) Beauty and the Beast (1991), and Anastasia (1997).\n\nShe expanded her repertoire to Broadway musicals and television in the 1950s and was particularly successful in Broadway productions of Gypsy, Mame and Sweeney Todd. Lansbury is perhaps best known to modern audiences for her 12 year run as writer and sleuth Jessica Fletcher on the U.S. television series Murder, She Wrote, in which she starred from 1984 to 1996. Her recent roles include Lady Adelaide Stitch in the 2005 film Nanny McPhee, Leona Mullen in the 2007 Broadway play Deuce, Madame Arcati in the 2009 Broadway revival of the play Blithe Spirit and Madame Armfeldt in the 2010 Broadway revival of the musical A Little Night Music.\n\nRespected for her versatility, Lansbury has won five Tony Awards, six Golden Globes, an Honorary Academy Award, and has been nominated for numerous other industry awards, including the Academy Award for Best Supporting Actress on three occasions, and eighteen Emmy Awards.",
+        "birthday": "1925-10-16",
+        "deathday": "2022-10-11",
+        "gender": 1,
+        "homepage": null,
+        "id": 14730,
+        "imdb_id": "nm0001450",
+        "known_for_department": "Acting",
+        "name": "Angela Lansbury",
+        "place_of_birth": "London, England, UK",
+        "popularity": 1.4052,
+        "profile_path": "/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+    }
+}

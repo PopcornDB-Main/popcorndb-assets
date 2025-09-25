@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 4982,
+                "original_language": "en",
+                "original_title": "American Gangster",
+                "overview": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts.",
+                "popularity": 7.5255,
+                "poster_path": "/8sV6nWuKczuXRt0C6EWoXqJAj6G.jpg",
+                "release_date": "2007-11-02",
+                "title": "American Gangster",
+                "video": false,
+                "vote_average": 7.591,
+                "vote_count": 5725,
+                "character": "Chemist",
+                "credit_id": "56c4b2c2925141269600024f",
+                "order": 75
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/a8IFeO1BMn4QEfLsf41Ml7LodyC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 72570,
+                "original_language": "en",
+                "original_title": "The Vow",
+                "overview": "Happy young married couple Paige and Leo are, well, happy. Then a car accident puts Paige into a life-threatening coma. Upon awakening she has lost the previous five years of memories, including those of her beloved Leo, her wedding, a confusing relationship with her parents, or the ending of her relationship with her ex-fiance. Despite these complications, Leo endeavors to win her heart again and rebuild their marriage.",
+                "popularity": 6.671,
+                "poster_path": "/y5GUXzTvt7kSQbdQrSvbYNoa8HB.jpg",
+                "release_date": "2012-02-05",
+                "title": "The Vow",
+                "video": false,
+                "vote_average": 7.237,
+                "vote_count": 4141,
+                "character": "Josh",
+                "credit_id": "598acac5c3a36874ff02784e",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1140109,
+        "imdb_id": "nm1585729",
+        "known_for_department": "Acting",
+        "name": "Joey Klein",
+        "place_of_birth": null,
+        "popularity": 0.6997,
+        "profile_path": null
+    }
+}

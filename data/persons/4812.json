@@ -1,0 +1,227 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/s7lwxcX5iZuOdoQhM77WyQaPtWv.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 339,
+                "original_language": "en",
+                "original_title": "Night on Earth",
+                "overview": "A quintet of cabbies in five cities and their remarkable fares on the same eventful night.",
+                "popularity": 2.8902,
+                "poster_path": "/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
+                "release_date": "1991-12-12",
+                "title": "Night on Earth",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 973,
+                "character": "Cab Driver Paris",
+                "credit_id": "52fe423ac3a36847f800da59",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6q6iWqADBkXmOG7IJ3FgQxPzRNE.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 883,
+                "original_language": "en",
+                "original_title": "Coffee and Cigarettes",
+                "overview": "An anthology of eleven vignettes featuring star-studded casts of extremely unique individuals who all share the common activities of conversing while drinking coffee and smoking cigarettes.",
+                "popularity": 1.5338,
+                "poster_path": "/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg",
+                "release_date": "2004-03-12",
+                "title": "Coffee and Cigarettes",
+                "video": false,
+                "vote_average": 6.91,
+                "vote_count": 983,
+                "character": "Isaach (segment \"No Problem\")",
+                "credit_id": "52fe4287c3a36847f8025f3f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gs9Z5cPauxH9Gml2kO6oUYwkTgK.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 2013,
+                "original_language": "fr",
+                "original_title": "Le Scaphandre et le Papillon",
+                "overview": "The true story of Elle France editor Jean-Dominique Bauby, who, in 1995 at the age of 43, suffered a stroke that paralyzed his entire body, except his left eye. Using that eye to blink out his memoir, Bauby eloquently described the aspects of his interior world, from the psychological torment of being trapped inside his body to his imagined stories from lands he'd only visited in his mind.",
+                "popularity": 2.5882,
+                "poster_path": "/3MJUo4bCPai5r9zrw7nTS8sVzQ7.jpg",
+                "release_date": "2007-05-23",
+                "title": "The Diving Bell and the Butterfly",
+                "video": false,
+                "vote_average": 7.575,
+                "vote_count": 1213,
+                "character": "Laurent",
+                "credit_id": "52fe432cc3a36847f803fde9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/80A15cocDNupdJw5f5i9TogpBum.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 4816,
+                "original_language": "en",
+                "original_title": "Ghost Dog: The Way of the Samurai",
+                "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob.",
+                "popularity": 4.1956,
+                "poster_path": "/gkH4zOxIfbb4BEbk9Q4cVOEpDaY.jpg",
+                "release_date": "1999-10-06",
+                "title": "Ghost Dog: The Way of the Samurai",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 1301,
+                "character": "Raymond",
+                "credit_id": "52fe43dcc3a36847f807490b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GU0jS5ZG5MhfdDrpj8s9XxbgJJ.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 505642,
+                "original_language": "en",
+                "original_title": "Black Panther: Wakanda Forever",
+                "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+                "popularity": 16.1472,
+                "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+                "release_date": "2022-11-09",
+                "title": "Black Panther: Wakanda Forever",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 7016,
+                "character": "River Tribe Elder",
+                "credit_id": "618df435cb6db50042cee251",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c2gcLDxniE0lNmT2a7CcQVuW6En.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 36557,
+                "original_language": "en",
+                "original_title": "Casino Royale",
+                "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond\u2014on his maiden mission as a 00 Agent\u2014to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+                "popularity": 16.5461,
+                "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+                "release_date": "2006-11-14",
+                "title": "Casino Royale",
+                "video": false,
+                "vote_average": 7.564,
+                "vote_count": 11146,
+                "character": "Steven Obanno",
+                "credit_id": "52fe45f29251416c91043e87",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 549509,
+                "original_language": "en",
+                "original_title": "The Brutalist",
+                "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
+                "popularity": 8.0666,
+                "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+                "release_date": "2024-12-20",
+                "title": "The Brutalist",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1292,
+                "character": "Gordon",
+                "credit_id": "64358ad0e6357100d32d5257",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3JwLoQ98yofeGq8bu3Pjox5oI5s.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 157832,
+                "original_language": "en",
+                "original_title": "Calvary",
+                "overview": "After being threatened during a confession, a good-natured priest must battle the dark forces closing in around him.",
+                "popularity": 2.828,
+                "poster_path": "/dQMjyTA3L2pPkMGzh3bhrDQbhWy.jpg",
+                "release_date": "2014-04-11",
+                "title": "Calvary",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1000,
+                "character": "Simon",
+                "credit_id": "5347ceabc3a368671c00111f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284054,
+                "original_language": "en",
+                "original_title": "Black Panther",
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "popularity": 11.6614,
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "release_date": "2018-02-13",
+                "title": "Black Panther",
+                "video": false,
+                "vote_average": 7.369,
+                "vote_count": 22815,
+                "character": "River Tribe Elder",
+                "credit_id": "58debd68c3a3687c6f00f4b9",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Isaach De Bankole ",
+            "Isaac De Bankole",
+            "Zachari Bankol\u00e9"
+        ],
+        "biography": "Isaach or\u00a0Isaac de Bankol\u00e9 (born 12 August 1957; Abidjan, C\u00f4te d'Ivoire) is an Ivorian actor.\n\nDe Bankol\u00e9 was born in Abidjan, Ivory Coast, to Yoruba parents from Benin. His grandparents are from Nigeria. He moved to Paris in 1975 for his last year of lyc\u00e9e and pursued a master's degree in physics and mathematics. He then attended an aviation school and earned a private pilot licence, before a chance encounter with French director G\u00e9rard Vergez led him to enroll in the Cours Simon, a Parisian drama school.",
+        "birthday": "1957-08-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4812,
+        "imdb_id": "nm0207218",
+        "known_for_department": "Acting",
+        "name": "Isaach de Bankol\u00e9",
+        "place_of_birth": "Abidjan, C\u00f4te d'Ivoire",
+        "popularity": 1.8009,
+        "profile_path": "/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+    }
+}

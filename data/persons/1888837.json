@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 13626,
+                "character": "Vito",
+                "credit_id": "59bcce35925141356100b19a",
+                "order": 101
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    36
+                ],
+                "id": 398978,
+                "original_language": "en",
+                "original_title": "The Irishman",
+                "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+                "popularity": 6.0666,
+                "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+                "release_date": "2019-11-01",
+                "title": "The Irishman",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 7167,
+                "character": "Villa Roma Manager",
+                "credit_id": "5ddf3fedc51acd0011f2ba93",
+                "order": 70
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1941-03-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1888837,
+        "imdb_id": "nm0682011",
+        "known_for_department": "Acting",
+        "name": "Vito Picone",
+        "place_of_birth": "New York, New York",
+        "popularity": 0.0416,
+        "profile_path": "/eiy4FIaKL8hr5czpcgx3NLHvPTA.jpg"
+    }
+}

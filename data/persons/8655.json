@@ -1,0 +1,301 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35
+                ],
+                "id": 862,
+                "original_language": "en",
+                "original_title": "Toy Story",
+                "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+                "popularity": 30.4548,
+                "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+                "release_date": "1995-11-22",
+                "title": "Toy Story",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 19136,
+                "character": "Sergeant (voice)",
+                "credit_id": "52fe4284c3a36847f8024fb9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 863,
+                "original_language": "en",
+                "original_title": "Toy Story 2",
+                "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+                "popularity": 20.3119,
+                "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+                "release_date": "1999-10-30",
+                "title": "Toy Story 2",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 14366,
+                "character": "Sarge (voice)",
+                "credit_id": "52fe4284c3a36847f8025105",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 600,
+                "original_language": "en",
+                "original_title": "Full Metal Jacket",
+                "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+                "popularity": 6.665,
+                "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+                "release_date": "1987-06-26",
+                "title": "Full Metal Jacket",
+                "video": false,
+                "vote_average": 8.123,
+                "vote_count": 10970,
+                "character": "Gny. Sgt. Hartman",
+                "credit_id": "52fe425bc3a36847f8017d4b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gwRWQeHfPuA8mg73kydQsM8rdXq.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 687,
+                "original_language": "en",
+                "original_title": "Dead Man Walking",
+                "overview": "A death row inmate turns for spiritual guidance to a local nun in the days leading up to his scheduled execution for the murders of a young couple.",
+                "popularity": 3.3932,
+                "poster_path": "/eShxyjhWoFl3BwsuEmVsr4nLaMZ.jpg",
+                "release_date": "1995-12-29",
+                "title": "Dead Man Walking",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1415,
+                "character": "Clyde Percy",
+                "credit_id": "52fe426ac3a36847f801cf1f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aTJJ38M7zLAmJZ7vl0vyKn69zzw.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 1632,
+                "original_language": "en",
+                "original_title": "Mississippi Burning",
+                "overview": "Two FBI agents investigating the murder of civil rights workers during the 60s seek to breach the conspiracy of silence in a small Southern town where segregation divides black and white. The younger agent trained in FBI school runs up against the small town ways of his partner, a former sheriff.",
+                "popularity": 6.1616,
+                "poster_path": "/hTv8Bkq3W1vwKi1IWCLWQW9PNU4.jpg",
+                "release_date": "1988-12-08",
+                "title": "Mississippi Burning",
+                "video": false,
+                "vote_average": 7.678,
+                "vote_count": 1810,
+                "character": "Mayor Tilman",
+                "credit_id": "52fe4306c3a36847f8034c3d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 807,
+                "original_language": "en",
+                "original_title": "Se7en",
+                "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+                "popularity": 18.2401,
+                "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+                "release_date": "1995-09-22",
+                "title": "Se7en",
+                "video": false,
+                "vote_average": 8.377,
+                "vote_count": 22094,
+                "character": "Police Captain",
+                "credit_id": "52fe4279c3a36847f8021797",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2aGtsMLVOiBiAUwQmCqYgau5AJF.jpg",
+                "genre_ids": [
+                    27,
+                    35
+                ],
+                "id": 10779,
+                "original_language": "en",
+                "original_title": "The Frighteners",
+                "overview": "Once an architect, Frank Bannister now passes himself off as an exorcist of evil spirits. To bolster his facade, he claims his \"special\" gift is the result of a car accident that killed his wife. But what he does not count on is more people dying in the small town where he lives. As he tries to piece together the supernatural mystery of these killings, he falls in love with the wife of one of the victims and deals with a crazy FBI agent.",
+                "popularity": 3.984,
+                "poster_path": "/zcJbCMwFLJdn5OLjhYwMVaSB32R.jpg",
+                "release_date": "1996-07-18",
+                "title": "The Frighteners",
+                "video": false,
+                "vote_average": 6.916,
+                "vote_count": 1618,
+                "character": "Hiles",
+                "credit_id": "52fe43b59251416c7501b18b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35
+                ],
+                "id": 10193,
+                "original_language": "en",
+                "original_title": "Toy Story 3",
+                "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+                "popularity": 14.6828,
+                "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "release_date": "2010-06-16",
+                "title": "Toy Story 3",
+                "video": false,
+                "vote_average": 7.802,
+                "vote_count": 15172,
+                "character": "Sarge (voice)",
+                "credit_id": "552166b99251417be2002ef3",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/etiP3Mu3ze2j9m3FEAAyOKFYlH0.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 563,
+                "original_language": "en",
+                "original_title": "Starship Troopers",
+                "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+                "popularity": 7.9696,
+                "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+                "release_date": "1997-11-07",
+                "title": "Starship Troopers",
+                "video": false,
+                "vote_average": 7.09,
+                "vote_count": 5182,
+                "character": "Voice heard on speaker (voice) (uncredited)",
+                "credit_id": "63bb9bf1a6e2d200a866151f",
+                "order": 62
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 28,
+                "original_language": "en",
+                "original_title": "Apocalypse Now",
+                "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+                "popularity": 8.7178,
+                "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+                "release_date": "1979-05-19",
+                "title": "Apocalypse Now",
+                "video": false,
+                "vote_average": 8.271,
+                "vote_count": 8641,
+                "character": "Eagle Thrust Seven Helicopter Pilot (uncredited)",
+                "credit_id": "570d28449251413993000099",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5m5VhSN1lTk3egtrNzqNv5nwMuG.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 451,
+                "original_language": "en",
+                "original_title": "Leaving Las Vegas",
+                "overview": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything because of his drinking, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+                "popularity": 6.4496,
+                "poster_path": "/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+                "release_date": "1995-10-27",
+                "title": "Leaving Las Vegas",
+                "video": false,
+                "vote_average": 7.25,
+                "vote_count": 1534,
+                "character": "Conventioneer",
+                "credit_id": "5b6cd89e925141406a1393cf",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8uw6OCa4ofQ6A9xz5ldtgnEVPDr.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 8438,
+                "original_language": "en",
+                "original_title": "Murder in the First",
+                "overview": "A young, inexperienced public defender is assigned to defend an inmate accused of committing murder while behind bars.",
+                "popularity": 2.4464,
+                "poster_path": "/sU37ONoL9qUyYXUhubJSYH9tEoc.jpg",
+                "release_date": "1995-01-20",
+                "title": "Murder in the First",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 585,
+                "character": "Judge Clawson",
+                "credit_id": "5c5819f1c3a368478ca2e9f9",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ronald Lee Ermey ",
+            "Lee Emery",
+            "R. Lee Emrey",
+            "Lee Ermey",
+            "R. Lee Ermy"
+        ],
+        "biography": "Ronald Lee Ermey was a retired United States Marine Corps drill instructor and actor.\n\nErmey often played the roles of authority figures, such as his breakout performance as Gunnery Sergeant Hartman in Full Metal Jacket, Mayor Tilman in the Alan Parker film Mississippi Burning, Bill Bowerman in Prefontaine, Sheriff Hoyt in The Texas Chainsaw Massacre remake, and plastic army men leader Sarge in the Toy Story films.\n\nHe hosted two programs on the History Channel: Mail Call, in which he answered viewers' questions about various militaria both modern and historic; and Lock N' Load with R. Lee Ermey, which focused on the development of different types of weapons.\n\nHe was a candidate for the National Rifle Association board of directors.",
+        "birthday": "1944-03-24",
+        "deathday": "2018-04-15",
+        "gender": 2,
+        "homepage": "http://www.rleeermey.com",
+        "id": 8655,
+        "imdb_id": "nm0000388",
+        "known_for_department": "Acting",
+        "name": "R. Lee Ermey",
+        "place_of_birth": "Emporia, Kansas, USA",
+        "popularity": 0.5481,
+        "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+    }
+}

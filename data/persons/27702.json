@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rk56vslwBXUCcNlQ74s6gmpJqxa.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 9322,
+                "original_language": "fr",
+                "original_title": "Nikita",
+                "overview": "A beautiful felon, sentenced to life in prison for the murder of a policeman, is given a second chance \u2013 as a secret political assassin controlled by the government.",
+                "popularity": 3.8458,
+                "poster_path": "/1ulQDewUG4KKHOhpXdGKm3GdLFq.jpg",
+                "release_date": "1990-02-21",
+                "title": "Nikita",
+                "video": false,
+                "vote_average": 7.094,
+                "vote_count": 2042,
+                "character": "Lawyer",
+                "credit_id": "57db8562c3a3680796003749",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1047,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "character": "Un convive au d\u00eener de no\u00ebl chez les parents de \u00ab Katia \u00bb",
+                "credit_id": "5edd60af9c24fc002368e2d3",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 27702,
+        "imdb_id": "nm0228432",
+        "known_for_department": "Acting",
+        "name": "Jacques Disses",
+        "place_of_birth": null,
+        "popularity": 0.049,
+        "profile_path": null
+    }
+}

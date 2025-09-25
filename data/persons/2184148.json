@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lmVtUoozJqZdXRB3pFM5aOzZprk.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 380225,
+                "original_language": "it",
+                "original_title": "La pazza gioia",
+                "overview": "Two mental patients with opposite personalities ditch their Tuscan hospital and embark on an unpredictable exploration of the real world.",
+                "popularity": 2.563,
+                "poster_path": "/pSVdOFu22jGWRHyCoJwIJTYuDBD.jpg",
+                "release_date": "2016-05-17",
+                "title": "Like Crazy",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 887,
+                "character": "Suor Diletta",
+                "credit_id": "65f0c74e726fb1014ac3f863",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2184148,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Mimma Pirr\u00e9",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

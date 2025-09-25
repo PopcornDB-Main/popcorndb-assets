@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 15.5781,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 10314,
+                "character": "Dancer",
+                "credit_id": "64c200badb4ed600e4caae22",
+                "order": 113
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.5388,
+                "poster_path": "/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.932,
+                "vote_count": 2407,
+                "character": "Dancer",
+                "credit_id": "67758f5a3fc76ea58892d31e",
+                "order": 96
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 4182591,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Charlie Goddard",
+        "place_of_birth": null,
+        "popularity": 0.188,
+        "profile_path": "/rKdhEEliuIWvWjU155itDZ7ZLPH.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.8396,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "character": "Board Member",
+                "credit_id": "6390e3aed18fb900b05bfe5e",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 3.9434,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4045,
+                "character": "School Teacher",
+                "credit_id": "5e89ede460b58d0013ed0c5b",
+                "order": 69
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Gary Allen was born on September 4, 1942 in Camden, Tennessee, USA. He was an actor and writer, known for Annie Hall (1977), The Hudsucker Proxy (1994) and Buddy Buddy (1981). He died on June 6, 2020.",
+        "birthday": "1942-09-04",
+        "deathday": "2020-06-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 129665,
+        "imdb_id": "nm0020530",
+        "known_for_department": "Acting",
+        "name": "Gary Allen",
+        "place_of_birth": "Camden, Tennessee, USA",
+        "popularity": 0.149,
+        "profile_path": null
+    }
+}

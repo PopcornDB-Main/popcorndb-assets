@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fMlAg1CyHTsCktwQrp74rl9RMwJ.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 138843,
+                "original_language": "en",
+                "original_title": "The Conjuring",
+                "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+                "popularity": 82.1275,
+                "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+                "release_date": "2013-07-18",
+                "title": "The Conjuring",
+                "video": false,
+                "vote_average": 7.542,
+                "vote_count": 12162,
+                "character": "Reporter",
+                "credit_id": "61874019d388ae0043ff6097",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 381284,
+                "original_language": "en",
+                "original_title": "Hidden Figures",
+                "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+                "popularity": 12.5756,
+                "poster_path": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+                "release_date": "2016-12-10",
+                "title": "Hidden Figures",
+                "video": false,
+                "vote_average": 8.052,
+                "vote_count": 10083,
+                "character": "Professor Graves",
+                "credit_id": "5871c50d925141355b010cf7",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 181521,
+        "imdb_id": "nm1663776",
+        "known_for_department": "Acting",
+        "name": "Arnell Powell",
+        "place_of_birth": null,
+        "popularity": 0.651,
+        "profile_path": "/m7Zl9av9H9CX76AxPyaYhHYIJWi.jpg"
+    }
+}

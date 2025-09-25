@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35
+                ],
+                "id": 862,
+                "original_language": "en",
+                "original_title": "Toy Story",
+                "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+                "popularity": 30.4548,
+                "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+                "release_date": "1995-11-22",
+                "title": "Toy Story",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 19136,
+                "character": "Kid (voice)",
+                "credit_id": "5aa59ca4c3a3687c2502c393",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 3.3855,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.196,
+                "vote_count": 1172,
+                "character": "Boy on Plane",
+                "credit_id": "5e1f4a815c071b0016646005",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Scott Cody McAfee"
+        ],
+        "biography": "",
+        "birthday": "1981-09-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 79020,
+        "imdb_id": "nm0563902",
+        "known_for_department": "Acting",
+        "name": "Scott McAfee",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.1352,
+        "profile_path": "/meKYkzavWpSg2KheDlMlUmZC4za.jpg"
+    }
+}

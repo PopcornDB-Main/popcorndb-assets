@@ -1,0 +1,233 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    12
+                ],
+                "id": 665,
+                "original_language": "en",
+                "original_title": "Ben-Hur",
+                "overview": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+                "popularity": 5.7433,
+                "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+                "release_date": "1959-11-18",
+                "title": "Ben-Hur",
+                "video": false,
+                "vote_average": 7.886,
+                "vote_count": 2943,
+                "character": "Sportsman (uncredited)",
+                "credit_id": "5605e5809251413060000323",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+                "genre_ids": [
+                    36,
+                    10752,
+                    18,
+                    12
+                ],
+                "id": 967,
+                "original_language": "en",
+                "original_title": "Spartacus",
+                "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+                "popularity": 6.0939,
+                "poster_path": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+                "release_date": "1960-10-13",
+                "title": "Spartacus",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 2262,
+                "character": "Soldier (uncredited)",
+                "credit_id": "5601f4a192514122cd000615",
+                "order": 58
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    18,
+                    28
+                ],
+                "id": 871,
+                "original_language": "en",
+                "original_title": "Planet of the Apes",
+                "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+                "popularity": 7.6719,
+                "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+                "release_date": "1968-02-07",
+                "title": "Planet of the Apes",
+                "video": false,
+                "vote_average": 7.646,
+                "vote_count": 3740,
+                "credit_id": "56227f3492514171cd00b9fb",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
+                "genre_ids": [
+                    10752,
+                    18,
+                    36
+                ],
+                "id": 11202,
+                "original_language": "en",
+                "original_title": "Patton",
+                "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+                "popularity": 4.0879,
+                "poster_path": "/8IRufbzhMJSdlmD0cnTWERCtTN2.jpg",
+                "release_date": "1970-01-25",
+                "title": "Patton",
+                "video": false,
+                "vote_average": 7.48,
+                "vote_count": 1147,
+                "credit_id": "570e7f75c3a3685370000035",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cSHie9qJvujqN4tYq6gx88WDf7o.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 576,
+                "original_language": "en",
+                "original_title": "The Wild Bunch",
+                "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+                "popularity": 4.049,
+                "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+                "release_date": "1969-06-19",
+                "title": "The Wild Bunch",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 1265,
+                "credit_id": "6420c69b53466100cd405171",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rhwGCD3AosYcPK7rTFHmL4NdrP1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 6644,
+                "original_language": "en",
+                "original_title": "El Dorado",
+                "overview": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Harrah. Together with a fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+                "popularity": 5.6562,
+                "poster_path": "/poJxkMtTA3E95lJ6RnBgNxF0Vmx.jpg",
+                "release_date": "1966-12-17",
+                "title": "El Dorado",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 554,
+                "credit_id": "6438cca0ab684900bd012b9c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+                "genre_ids": [
+                    12,
+                    37,
+                    80,
+                    18,
+                    36
+                ],
+                "id": 642,
+                "original_language": "en",
+                "original_title": "Butch Cassidy and the Sundance Kid",
+                "overview": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+                "popularity": 18.3576,
+                "poster_path": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+                "release_date": "1969-09-23",
+                "title": "Butch Cassidy and the Sundance Kid",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2314,
+                "credit_id": "64c86f1af794ad013959907d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.4741,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 1337,
+                "credit_id": "5f6f4f178fdda90037f61e55",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.4741,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 1337,
+                "credit_id": "5f6f4f247314a1003699a67b",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1937-01-19",
+        "deathday": "2018-03-16",
+        "gender": 2,
+        "homepage": null,
+        "id": 217763,
+        "imdb_id": "nm0134828",
+        "known_for_department": "Acting",
+        "name": "Joe Canutt",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.681,
+        "profile_path": null
+    }
+}

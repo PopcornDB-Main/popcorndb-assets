@@ -1,0 +1,188 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4zzWj2pVmkjN9yjsQesEEnNtlZ4.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 94329,
+                "original_language": "id",
+                "original_title": "Serbuan Maut",
+                "overview": "Deep in the heart of Jakarta's slums lies an impenetrable safe house for the world's most dangerous killers and gangsters. Until now, the run-down apartment block has been considered untouchable to even the bravest of police. Cloaked under the cover of pre-dawn darkness and silence, an elite swat team is tasked with raiding the safe house in order to take down the notorious drug lord that runs it.  But when a chance encounter with a spotter blows their cover and news of their assault reaches the drug lord, the building's lights are cut and all the exits blocked. Stranded on the sixth floor with no way out, the unit must fight their way through the city's worst to survive their mission. Starring Indonesian martial arts sensation Iko Uwais.",
+                "popularity": 4.1057,
+                "poster_path": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+                "release_date": "2012-03-22",
+                "title": "The Raid",
+                "video": false,
+                "vote_average": 7.405,
+                "vote_count": 3642,
+                "character": "Rama",
+                "credit_id": "52fe49529251416c750c4457",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5dg3woJqG7kNBCEMZNGPUauHSnK.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 180299,
+                "original_language": "id",
+                "original_title": "The Raid 2: Berandal",
+                "overview": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.",
+                "popularity": 4.6939,
+                "poster_path": "/olA39iaXISiKEkACdELgr0ZRvIF.jpg",
+                "release_date": "2014-03-27",
+                "title": "The Raid 2",
+                "video": false,
+                "vote_average": 7.604,
+                "vote_count": 2457,
+                "character": "Rama",
+                "credit_id": "52fe4c449251416c7511520d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 11.5009,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19963,
+                "character": "Razoo Quin-Fee",
+                "credit_id": "55a3c8aa9251412979005085",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 449992,
+                "original_language": "id",
+                "original_title": "The Night Comes for Us",
+                "overview": "After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.",
+                "popularity": 5.8145,
+                "poster_path": "/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg",
+                "release_date": "2018-10-05",
+                "title": "The Night Comes for Us",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 744,
+                "character": "Arian",
+                "credit_id": "58deb9569251411b7a010e0e",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5dg3woJqG7kNBCEMZNGPUauHSnK.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 180299,
+                "original_language": "id",
+                "original_title": "The Raid 2: Berandal",
+                "overview": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.",
+                "popularity": 4.6939,
+                "poster_path": "/olA39iaXISiKEkACdELgr0ZRvIF.jpg",
+                "release_date": "2014-03-27",
+                "title": "The Raid 2",
+                "video": false,
+                "vote_average": 7.604,
+                "vote_count": 2457,
+                "credit_id": "5b75ebf59251411d87017d52",
+                "department": "Crew",
+                "job": "Fight Choreographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9uoZrTXUiByDECmWopkIJhZxSzw.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 449992,
+                "original_language": "id",
+                "original_title": "The Night Comes for Us",
+                "overview": "After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.",
+                "popularity": 5.8145,
+                "poster_path": "/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg",
+                "release_date": "2018-10-05",
+                "title": "The Night Comes for Us",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 744,
+                "credit_id": "5bcf1cfdc3a368662200f30e",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4zzWj2pVmkjN9yjsQesEEnNtlZ4.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 94329,
+                "original_language": "id",
+                "original_title": "Serbuan Maut",
+                "overview": "Deep in the heart of Jakarta's slums lies an impenetrable safe house for the world's most dangerous killers and gangsters. Until now, the run-down apartment block has been considered untouchable to even the bravest of police. Cloaked under the cover of pre-dawn darkness and silence, an elite swat team is tasked with raiding the safe house in order to take down the notorious drug lord that runs it.  But when a chance encounter with a spotter blows their cover and news of their assault reaches the drug lord, the building's lights are cut and all the exits blocked. Stranded on the sixth floor with no way out, the unit must fight their way through the city's worst to survive their mission. Starring Indonesian martial arts sensation Iko Uwais.",
+                "popularity": 4.1057,
+                "poster_path": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+                "release_date": "2012-03-22",
+                "title": "The Raid",
+                "video": false,
+                "vote_average": 7.405,
+                "vote_count": 3642,
+                "credit_id": "5e46e0b13dd126001a5d5df4",
+                "department": "Crew",
+                "job": "Choreographer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Uwais Qorny",
+            "\u0627\u06cc\u06a9\u0648 \u0627\u0648\u06cc\u0633"
+        ],
+        "biography": "Uwais Qorny, better known as Iko Uwais (born on February 12, 1983, in Jakarta) is an Indonesian actor, stuntman, fight choreographer, and martial artist. He is widely recognized for his roles in action films such as Merantau (2009), The Raid (2011), and The Raid 2 (2014).\n\nSince the age of 10, Iko has been practicing pencak silat, a traditional Indonesian martial art, under the guidance of his grandfather, H. Achmad Bunawar, who was a silat master and founder of a silat school. In 2005, Iko won the national championship in the Silat Demonstration category.\n\nIko's international career flourished with his role in Star Wars: The Force Awakens (2015) as Razoo Qin-Fee. He also starred in other Hollywood films such as Mile 22 (2018) and Stuber (2019). In 2019, Iko portrayed Kai Jin in the Netflix series Wu Assassins and reprised the role in its sequel film Fistful of Vengeance (2022).\n\nIn his personal life, Iko married singer Audy Item on June 25, 2012. The couple has been blessed with two daughters, Atreya Syahla Putri Uwais and Aneska Layla Putri Uwais.\n\nRecently, Iko made headlines after a Japanese fan, Norihiro Matsuo, became emotional upon meeting him, highlighting Iko's global popularity.\n\nWith his dedication and talent, Iko Uwais continues to make significant contributions to the action film industry, both in Indonesia and internationally.",
+        "birthday": "1983-02-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 113732,
+        "imdb_id": "nm3299397",
+        "known_for_department": "Acting",
+        "name": "Iko Uwais",
+        "place_of_birth": "Jakarta, Indonesia",
+        "popularity": 1.357,
+        "profile_path": "/gMm9HKBZorMDnGChbPduQ66uhxM.jpg"
+    }
+}

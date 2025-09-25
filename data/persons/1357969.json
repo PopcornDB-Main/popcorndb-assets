@@ -1,0 +1,182 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
+                "genre_ids": [
+                    35,
+                    28,
+                    12
+                ],
+                "id": 567604,
+                "original_language": "en",
+                "original_title": "Once Upon a Deadpool",
+                "overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2, as a Princess Bride-esque story that's full of magic, wonder, and zero Fs.",
+                "popularity": 5.1007,
+                "poster_path": "/w6Jk8BHohhoKBUcxGeSyDQGWGWc.jpg",
+                "release_date": "2018-12-11",
+                "title": "Once Upon a Deadpool",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 814,
+                "character": "Sergei Valishnikov",
+                "credit_id": "62f20944a1074b007e18e4b6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7MdbvcfkFj6Ft5wNITCKI3c7EEA.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    12
+                ],
+                "id": 383498,
+                "original_language": "en",
+                "original_title": "Deadpool 2",
+                "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+                "popularity": 11.3104,
+                "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+                "release_date": "2018-05-15",
+                "title": "Deadpool 2",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 18611,
+                "character": "Sergei Valishnikov",
+                "credit_id": "5af6cd96c3a3681254008b1b",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+                "genre_ids": [
+                    28,
+                    14
+                ],
+                "id": 547016,
+                "original_language": "en",
+                "original_title": "The Old Guard",
+                "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+                "popularity": 9.0096,
+                "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+                "release_date": "2020-07-09",
+                "title": "The Old Guard",
+                "video": false,
+                "vote_average": 7.125,
+                "vote_count": 4550,
+                "credit_id": "65592d45ca0e1700c6ab3f51",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7MdbvcfkFj6Ft5wNITCKI3c7EEA.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    12
+                ],
+                "id": 383498,
+                "original_language": "en",
+                "original_title": "Deadpool 2",
+                "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+                "popularity": 11.3104,
+                "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+                "release_date": "2018-05-15",
+                "title": "Deadpool 2",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 18611,
+                "credit_id": "65e32ede2e2b2c0185b5ec75",
+                "department": "Crew",
+                "job": "Utility Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 545609,
+                "original_language": "en",
+                "original_title": "Extraction",
+                "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+                "popularity": 7.1094,
+                "poster_path": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+                "release_date": "2020-04-23",
+                "title": "Extraction",
+                "video": false,
+                "vote_average": 7.31,
+                "vote_count": 6329,
+                "credit_id": "5ea35f9bdb72c00026bba8e9",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 545609,
+                "original_language": "en",
+                "original_title": "Extraction",
+                "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+                "popularity": 7.1094,
+                "poster_path": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+                "release_date": "2020-04-23",
+                "title": "Extraction",
+                "video": false,
+                "vote_average": 7.31,
+                "vote_count": 6329,
+                "credit_id": "5ea42abe5a46900025109211",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 697843,
+                "original_language": "en",
+                "original_title": "Extraction 2",
+                "overview": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
+                "popularity": 9.9178,
+                "poster_path": "/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+                "release_date": "2023-06-09",
+                "title": "Extraction 2",
+                "video": false,
+                "vote_average": 7.414,
+                "vote_count": 2673,
+                "credit_id": "66d673550f88a44bf9cb9864",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1357969,
+        "imdb_id": "nm2401762",
+        "known_for_department": "Acting",
+        "name": "Thayr Harris",
+        "place_of_birth": null,
+        "popularity": 0.4152,
+        "profile_path": "/1H3Ua3h20oDxnQMLjhKmfs7Tus4.jpg"
+    }
+}

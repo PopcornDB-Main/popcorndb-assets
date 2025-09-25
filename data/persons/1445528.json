@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "genre_ids": [
+                    80,
+                    36,
+                    18
+                ],
+                "id": 466420,
+                "original_language": "en",
+                "original_title": "Killers of the Flower Moon",
+                "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
+                "popularity": 10.9118,
+                "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+                "release_date": "2023-10-18",
+                "title": "Killers of the Flower Moon",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 3761,
+                "character": "Roy Bunch",
+                "credit_id": "65328f85efe37c011e744152",
+                "order": 104
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/u0nAnvRdzAGgDYLyfIbAUBDOcpb.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 157354,
+                "original_language": "en",
+                "original_title": "Fruitvale Station",
+                "overview": "Oakland, California. Young Afro-American Oscar Grant crosses paths with family members, friends, enemies and strangers before facing his fate on the platform at Fruitvale Station, in the early morning hours of New Year's Day 2009.",
+                "popularity": 3.3459,
+                "poster_path": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+                "release_date": "2013-07-26",
+                "title": "Fruitvale Station",
+                "video": false,
+                "vote_average": 7.36,
+                "vote_count": 1346,
+                "character": "Cale",
+                "credit_id": "5e87c5ab726fb1001351645f",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joey Olglesby"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1445528,
+        "imdb_id": "nm2824330",
+        "known_for_department": "Acting",
+        "name": "Joey Oglesby",
+        "place_of_birth": null,
+        "popularity": 0.1608,
+        "profile_path": "/o16OwfPJygq2HVxRlIW87hUWvUr.jpg"
+    }
+}

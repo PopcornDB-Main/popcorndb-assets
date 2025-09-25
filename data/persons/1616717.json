@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 314365,
+                "original_language": "en",
+                "original_title": "Spotlight",
+                "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+                "popularity": 4.8613,
+                "poster_path": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+                "release_date": "2015-11-06",
+                "title": "Spotlight",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 8479,
+                "character": "Kevin",
+                "credit_id": "572ec037c3a36818d1001b80",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 369972,
+                "original_language": "en",
+                "original_title": "First Man",
+                "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+                "popularity": 5.1642,
+                "poster_path": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+                "release_date": "2018-10-10",
+                "title": "First Man",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 5435,
+                "character": "Jim",
+                "credit_id": "5aeaa95992514167ee000d41",
+                "order": 51
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1616717,
+        "imdb_id": "nm1682927",
+        "known_for_department": "Acting",
+        "name": "Anthony Paolucci",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": "/yVrULSyAXyol950oHtm7qsMK6zb.jpg"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5SGAJrTVpWXKNdEwspTG9s60YOp.jpg",
+                "genre_ids": [
+                    10749,
+                    12,
+                    878,
+                    18
+                ],
+                "id": 365942,
+                "original_language": "en",
+                "original_title": "The Space Between Us",
+                "overview": "A young man raised by scientists on Mars returns to Earth to find his father.",
+                "popularity": 2.3019,
+                "poster_path": "/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg",
+                "release_date": "2017-01-26",
+                "title": "The Space Between Us",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2495,
+                "character": "Student",
+                "credit_id": "574665679251415e65000d64",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/55C8p02S7fLXHT8zlRjAA0j14bd.jpg",
+                "genre_ids": [
+                    37,
+                    80,
+                    18
+                ],
+                "id": 338766,
+                "original_language": "en",
+                "original_title": "Hell or High Water",
+                "overview": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+                "popularity": 3.7631,
+                "poster_path": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+                "release_date": "2016-08-11",
+                "title": "Hell or High Water",
+                "video": false,
+                "vote_average": 7.302,
+                "vote_count": 4638,
+                "character": "Justin Howard",
+                "credit_id": "5790e396c3a3681cb1002446",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "J.P. Howard"
+        ],
+        "biography": "",
+        "birthday": "1999-02-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 970508,
+        "imdb_id": "nm2934406",
+        "known_for_department": "Acting",
+        "name": "John-Paul Howard",
+        "place_of_birth": "Decatur, Alabama, USA",
+        "popularity": 0.2371,
+        "profile_path": "/bkOJ1GEcf7edI7ro0jB0fbzixjh.jpg"
+    }
+}

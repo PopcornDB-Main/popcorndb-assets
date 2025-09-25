@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2y2aqaScd7jsUee0ddI1iRNgwGq.jpg",
+                "genre_ids": [
+                    18,
+                    14,
+                    9648,
+                    10749
+                ],
+                "id": 428449,
+                "original_language": "en",
+                "original_title": "A Ghost Story",
+                "overview": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
+                "popularity": 6.7472,
+                "poster_path": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+                "release_date": "2017-04-24",
+                "title": "A Ghost Story",
+                "video": false,
+                "vote_average": 7.087,
+                "vote_count": 2403,
+                "character": "Gentleman Caller",
+                "credit_id": "58db090092514133a50019b7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bwgjIlMoSyU1Iw0IhNIFUeSbNDy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 68722,
+                "original_language": "en",
+                "original_title": "The Master",
+                "overview": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
+                "popularity": 5.8235,
+                "poster_path": "/jjVGdNt4fYb3T2hjISGZ2qnCuaV.jpg",
+                "release_date": "2012-09-14",
+                "title": "The Master",
+                "video": false,
+                "vote_average": 7.113,
+                "vote_count": 3105,
+                "character": "James Sullivan",
+                "credit_id": "59883e5dc3a3680d510262dd",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 71885,
+        "imdb_id": "nm2049889",
+        "known_for_department": "Acting",
+        "name": "Barlow Jacobs",
+        "place_of_birth": null,
+        "popularity": 0.1109,
+        "profile_path": "/rUwgyyRn6NhkZtmW3O1PnB7PJfY.jpg"
+    }
+}

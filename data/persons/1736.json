@@ -1,0 +1,211 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zf52xLEyao2xcVnpThmzW2Xl0aj.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 476,
+                "original_language": "en",
+                "original_title": "Drugstore Cowboy",
+                "overview": "Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a peculiar quartet, formed by his wife, Dianne, and another couple, Rick and Nadine, who skillfully steal from drugstores and hospital medicine cabinets in order to appease their insatiable need for drugs. But neither fun nor luck last forever.",
+                "popularity": 2.2909,
+                "poster_path": "/2bQXK39axyedUL6DE1pzdMYgAw1.jpg",
+                "release_date": "1989-10-20",
+                "title": "Drugstore Cowboy",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 581,
+                "character": "Gentry",
+                "credit_id": "52fe4248c3a36847f8012115",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 2062,
+                "original_language": "en",
+                "original_title": "Ratatouille",
+                "overview": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
+                "popularity": 18.3843,
+                "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+                "release_date": "2007-06-28",
+                "title": "Ratatouille",
+                "video": false,
+                "vote_average": 7.832,
+                "vote_count": 17792,
+                "character": "Larousse (voice)",
+                "credit_id": "52fe4331c3a36847f8041661",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i4Fp0AJsqAzbeVQyCoG0adRRfdh.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 11474,
+                "original_language": "en",
+                "original_title": "The Warriors",
+                "overview": "Prominent gang leader Cyrus calls a meeting of New York's gangs to set aside their turf wars and take over the city. At the meeting, a rival leader kills Cyrus, but a Coney Island gang called the Warriors is wrongly blamed for Cyrus' death. Before you know it, the cops and every gangbanger in town is hot on the Warriors' trail.",
+                "popularity": 3.3367,
+                "poster_path": "/fCDXAJcPvpsMd5CL1kBKkkNGW3X.jpg",
+                "release_date": "1979-02-01",
+                "title": "The Warriors",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 2251,
+                "character": "Ajax",
+                "credit_id": "52fe44479251416c7502f205",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 49538,
+                "original_language": "en",
+                "original_title": "X-Men: First Class",
+                "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                "popularity": 0.425,
+                "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+                "release_date": "2011-06-01",
+                "title": "X-Men: First Class",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 13120,
+                "character": "US General",
+                "credit_id": "52fe479bc3a36847f813ed13",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27056,
+                "character": "Butch Pooch / Ace Speck",
+                "credit_id": "52fe479fc3a368484e0d1305",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.113,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.05,
+                "vote_count": 10701,
+                "character": "Henry Stimson",
+                "credit_id": "6387ba611b157d007a447369",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    12,
+                    10751
+                ],
+                "id": 698687,
+                "original_language": "en",
+                "original_title": "Transformers One",
+                "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+                "popularity": 11.3434,
+                "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+                "release_date": "2024-09-11",
+                "title": "Transformers One",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 1378,
+                "character": "Zeta Prime (voice)",
+                "credit_id": "66bed67dfbfa4d8ee540532a",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 466272,
+                "original_language": "en",
+                "original_title": "Once Upon a Time... in Hollywood",
+                "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+                "popularity": 15.2012,
+                "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+                "release_date": "2019-07-24",
+                "title": "Once Upon a Time... in Hollywood",
+                "video": false,
+                "vote_average": 7.427,
+                "vote_count": 14150,
+                "character": "'Bounty Law' - 'Ugly Owl'",
+                "credit_id": "5d3aa660e54d5d09e8dd17a3",
+                "order": 53
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u0436\u0435\u0439\u043c\u0441 \u0420\u0438\u043c\u0430\u0440",
+            "\u03a4\u03b6\u03ad\u03b9\u03bc\u03c2 \u03a1\u03b5\u03bc\u03ac\u03c1",
+            "\u8a79\u59c6\u65af\u30fb\u745e\u99ac",
+            "\u062c\u06cc\u0645\u0632 \u0631\u0645\u0627\u0631",
+            "William James Remar"
+        ],
+        "biography": "William James Remar (born December 31, 1953) is an American actor. Some of his best known film roles are as Ajax in The Warriors (1979), as homicidal maniac Albert Ganz in 48 Hrs. (1982), as Dutch Schultz in The Cotton Club (1984), and as Lord Raiden in Mortal Kombat: Annihilation (1997). He has had smaller roles in many other notable films, including Drugstore Cowboy (1989), Boys on the Side (1995), Judge Dredd (1995), Psycho (1998), What Lies Beneath (2000), 2 Fast 2 Furious (2002), Blade: Trinity (2004), Ratatouille (2007), Pineapple Express (2008), RED (2010), X-Men: First Class (2011), Django Unchained (2012), Once Upon a Time in Hollywood (2019), Oppenheimer (2023), and Megalopolis (2024). He was originally cast as Corporal Hicks in Aliens (1986) before being replaced by Michael Biehn.\n\nOn television, Remar's recurring roles include Richard Wright, the on-off tycoon boyfriend of Samantha in Sex and the City (2001 - 2004), Harry Morgan in Dexter (2006 - 2013) and Dexter: Resurrection (2025 - present), the voice of Vilgax in Ben 10 (2009 - 2012), Tonraq in The Legend of Korra (2013 - 2014), and Peter Gambi in Black Lightning (2018 - 2021). He also voices Executor Hideo in the Destiny video game series.\n\nRemar has been married to Atsuko Remar since 1984. They have two children.",
+        "birthday": "1953-12-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1736,
+        "imdb_id": "nm0001664",
+        "known_for_department": "Acting",
+        "name": "James Remar",
+        "place_of_birth": "Boston, Massachusetts, USA",
+        "popularity": 2.9503,
+        "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    }
+}

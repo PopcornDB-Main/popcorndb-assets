@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jBz16NsAeKjpHNznl1EHlcr704P.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 9571,
+                "original_language": "en",
+                "original_title": "Dazed and Confused",
+                "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+                "popularity": 3.1038,
+                "poster_path": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+                "release_date": "1993-09-24",
+                "title": "Dazed and Confused",
+                "video": false,
+                "vote_average": 7.319,
+                "vote_count": 2143,
+                "character": "Party Guy",
+                "credit_id": "62fd140062f33500986f00af",
+                "order": 40
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 399579,
+                "original_language": "en",
+                "original_title": "Alita: Battle Angel",
+                "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+                "popularity": 9.1217,
+                "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+                "release_date": "2019-01-31",
+                "title": "Alita: Battle Angel",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 9591,
+                "credit_id": "5d3c6bca21621b0012eec7ca",
+                "department": "Camera",
+                "job": "Key Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2372250,
+        "imdb_id": null,
+        "known_for_department": "Camera",
+        "name": "Michael Gillespie",
+        "place_of_birth": null,
+        "popularity": 0.2942,
+        "profile_path": null
+    }
+}

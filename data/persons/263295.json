@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    28
+                ],
+                "id": 617653,
+                "original_language": "en",
+                "original_title": "The Last Duel",
+                "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+                "popularity": 5.1662,
+                "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+                "release_date": "2021-10-13",
+                "title": "The Last Duel",
+                "video": false,
+                "vote_average": 7.421,
+                "vote_count": 3610,
+                "character": "Clergy",
+                "credit_id": "62f10812d207f3007a0ad1da",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bvpYJgsC5jcMJd43HRHXUQw7j5O.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    36,
+                    10749
+                ],
+                "id": 11673,
+                "original_language": "fr",
+                "original_title": "Cyrano de Bergerac",
+                "overview": "Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.",
+                "popularity": 2.8143,
+                "poster_path": "/80XJ5UkGuYTKDuALeG03BLk1OT1.jpg",
+                "release_date": "1990-03-28",
+                "title": "Cyrano de Bergerac",
+                "video": false,
+                "vote_average": 7.33,
+                "vote_count": 792,
+                "character": "Baker's Boy",
+                "credit_id": "5fc9ada1ec8a43004042b7e7",
+                "order": 43
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.quentin-ogier.com/",
+        "id": 263295,
+        "imdb_id": "nm0644686",
+        "known_for_department": "Acting",
+        "name": "Quentin Ogier",
+        "place_of_birth": null,
+        "popularity": 0.0543,
+        "profile_path": "/p1x1kpxeUHelaPWwgQzWcVYgYNy.jpg"
+    }
+}

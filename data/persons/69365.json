@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1850,
+                "original_language": "en",
+                "original_title": "Man on the Moon",
+                "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+                "popularity": 3.9574,
+                "poster_path": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+                "release_date": "1999-12-22",
+                "title": "Man on the Moon",
+                "video": false,
+                "vote_average": 7.247,
+                "vote_count": 1869,
+                "character": "TV Cameraman (uncredited)",
+                "credit_id": "63904918f36a32007f4c5716",
+                "order": 197
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jeff Hoffman"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 69365,
+        "imdb_id": "nm0388949",
+        "known_for_department": "Camera",
+        "name": "Jeffrey M. Hoffman",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 157350,
+                "original_language": "en",
+                "original_title": "Divergent",
+                "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+                "popularity": 10.1286,
+                "poster_path": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+                "release_date": "2014-03-14",
+                "title": "Divergent",
+                "video": false,
+                "vote_average": 6.91,
+                "vote_count": 13101,
+                "character": "Older Abnegation Man",
+                "credit_id": "5f5d00f7fd7aa40039e17518",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 316029,
+                "original_language": "en",
+                "original_title": "The Greatest Showman",
+                "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+                "popularity": 8.3227,
+                "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+                "release_date": "2017-12-20",
+                "title": "The Greatest Showman",
+                "video": false,
+                "vote_average": 7.872,
+                "vote_count": 9738,
+                "character": "Bank Manager",
+                "credit_id": "60ad66a1d132d600570ec025",
+                "order": 51
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1953-04-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 104915,
+        "imdb_id": "nm0750142",
+        "known_for_department": "Acting",
+        "name": "Bob Rumnock",
+        "place_of_birth": "Abington, Pennsylvania, USA",
+        "popularity": 0.1755,
+        "profile_path": "/vrl0PJupGydqJuoq4gEGk3trsgr.jpg"
+    }
+}

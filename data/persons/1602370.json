@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 272,
+                "original_language": "en",
+                "original_title": "Batman Begins",
+                "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                "popularity": 16.5995,
+                "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+                "release_date": "2005-06-10",
+                "title": "Batman Begins",
+                "video": false,
+                "vote_average": 7.717,
+                "vote_count": 21791,
+                "character": "Dock Thug #2",
+                "credit_id": "57fa100992514120c50052b6",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kR48L1E3OLOkQcnlmpi5wDj7ZZt.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    80
+                ],
+                "id": 180863,
+                "original_language": "en",
+                "original_title": "T2 Trainspotting",
+                "overview": "After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud and Begbie.",
+                "popularity": 5.4278,
+                "poster_path": "/xlbpCwa9OXXIiNgXcwuompHFIk9.jpg",
+                "release_date": "2017-01-27",
+                "title": "T2 Trainspotting",
+                "video": false,
+                "vote_average": 6.945,
+                "vote_count": 3228,
+                "character": "Tom (Rehab Group)",
+                "credit_id": "58a30ca8925141538b007a3d",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1602370,
+        "imdb_id": "nm0443642",
+        "known_for_department": "Acting",
+        "name": "John Kazek",
+        "place_of_birth": "Glasgow, Scotland",
+        "popularity": 0.8601,
+        "profile_path": "/1HuWg2aZaVInAYo6FwstgFKRVbr.jpg"
+    }
+}

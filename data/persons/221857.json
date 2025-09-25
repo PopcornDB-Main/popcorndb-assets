@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 675,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Order of the Phoenix",
+                "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+                "popularity": 18.6683,
+                "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+                "release_date": "2007-07-08",
+                "title": "Harry Potter and the Order of the Phoenix",
+                "video": false,
+                "vote_average": 7.674,
+                "vote_count": 20146,
+                "character": "TV Weatherman",
+                "credit_id": "52fe4268c3a36847f801c54b",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80,
+                    9648
+                ],
+                "id": 10528,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes",
+                "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                "popularity": 10.0683,
+                "poster_path": "/fvnu6QHyR0gSV1JI6lMyXCny21a.jpg",
+                "release_date": "2009-12-23",
+                "title": "Sherlock Holmes",
+                "video": false,
+                "vote_average": 7.215,
+                "vote_count": 14333,
+                "character": "Waiter",
+                "credit_id": "52fe43819251416c75012f6b",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Miles Hugh Barrett Jupp"
+        ],
+        "biography": "Miles Hugh Barrett Jupp is an English comedian and actor. He began his career as a stand-up comedian.\n\nAlthough Jupp was born in Newcastle upon Tyne, he spent most of his childhood in London. He was educated at three independent schools: the Hall School in Hampstead, London;  St George's School in Windsor, and then at Oakham School in Rutland. He went on to study Divinity at the University of Edinburgh in Scotland and now lives in Monmouthshire, Wales.",
+        "birthday": "1979-09-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.milesjupp.co.uk/",
+        "id": 221857,
+        "imdb_id": "nm1402510",
+        "known_for_department": "Acting",
+        "name": "Miles Jupp",
+        "place_of_birth": "Newcastle upon Tyne, England, UK",
+        "popularity": 0.2302,
+        "profile_path": "/xVNI6kPi16lpIce0WQfS3DnIspT.jpg"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878,
+                    53
+                ],
+                "id": 154,
+                "original_language": "en",
+                "original_title": "Star Trek II: The Wrath of Khan",
+                "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+                "popularity": 3.3338,
+                "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+                "release_date": "1982-06-04",
+                "title": "Star Trek II: The Wrath of Khan",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 2014,
+                "character": "Captain Clark Terrell",
+                "credit_id": "52fe421fc3a36847f8005c65",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 218,
+                "original_language": "en",
+                "original_title": "The Terminator",
+                "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+                "popularity": 11.7566,
+                "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+                "release_date": "1984-10-26",
+                "title": "The Terminator",
+                "video": false,
+                "vote_average": 7.671,
+                "vote_count": 13843,
+                "character": "Traxler",
+                "credit_id": "52fe4228c3a36847f8008527",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Paul Edward Winfield",
+            "Paul E. Winfield",
+            "\u041f\u043e\u043b \u0423\u0438\u043d\u0444\u0438\u043b\u0434"
+        ],
+        "biography": "Paul Edward Winfield (May 22, 1939 \u2013 March 7, 2004) was an American actor.\n\nHe was known for his portrayal of a Louisiana sharecropper who struggles to support his family during the Great Depression in the landmark film Sounder which earned him an Academy Award nomination. Winfield also portrayed Dr. Martin Luther King, Jr. in the television miniseries King, for which he was nominated for an Emmy Award.\n\nDescription above from the Wikipedia article\u00a0 Paul Winfield, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1939-05-22",
+        "deathday": "2004-03-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 1818,
+        "imdb_id": "nm0934902",
+        "known_for_department": "Acting",
+        "name": "Paul Winfield",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.6226,
+        "profile_path": "/6NLUJEFJCJ2Hog1ZOz4K2iyDvMZ.jpg"
+    }
+}

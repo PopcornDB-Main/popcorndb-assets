@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+                "genre_ids": [
+                    10749,
+                    14,
+                    18,
+                    35
+                ],
+                "id": 137,
+                "original_language": "en",
+                "original_title": "Groundhog Day",
+                "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+                "popularity": 7.2346,
+                "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+                "release_date": "1993-02-11",
+                "title": "Groundhog Day",
+                "video": false,
+                "vote_average": 7.616,
+                "vote_count": 8408,
+                "character": "Man in Hallway",
+                "credit_id": "52fe421dc3a36847f8004f5f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ySmjHc3LZd4VmmIa6sgwkMIm6xl.jpg",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 771,
+                "original_language": "en",
+                "original_title": "Home Alone",
+                "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+                "popularity": 0.6992,
+                "poster_path": "/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
+                "release_date": "1990-11-16",
+                "title": "Home Alone",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 11855,
+                "character": "Santa",
+                "credit_id": "52fe4274c3a36847f801ffbf",
+                "order": 41
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ken Campbell"
+        ],
+        "biography": "Kenneth Hudson Campbell (born June 5, 1962) is an American television and voice actor.",
+        "birthday": "1962-06-05",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 236327,
+        "imdb_id": "nm0132637",
+        "known_for_department": "Acting",
+        "name": "Ken Hudson Campbell",
+        "place_of_birth": "Elmhurst, Illinois, USA",
+        "popularity": 0.3617,
+        "profile_path": "/5KmuInp11wKczUQMHlNP26STfzT.jpg"
+    }
+}

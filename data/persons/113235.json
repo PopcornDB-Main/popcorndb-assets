@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 748783,
+                "original_language": "en",
+                "original_title": "The Garfield Movie",
+                "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+                "popularity": 14.772,
+                "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
+                "release_date": "2024-04-30",
+                "title": "The Garfield Movie",
+                "video": false,
+                "vote_average": 7.037,
+                "vote_count": 1325,
+                "character": "Roadkill / Busboy (voice)",
+                "credit_id": "66500b82ddcc9a3defdd7e26",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "War Department Lieutenant",
+                "credit_id": "59f51584c3a3681f6301e8b7",
+                "order": 78
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 113235,
+        "imdb_id": "nm0520580",
+        "known_for_department": "Acting",
+        "name": "Eric Loren",
+        "place_of_birth": "Boston, Massachusetts, USA",
+        "popularity": 0.1215,
+        "profile_path": "/3Eaz5sDV4s7obHVSsWXSGmsEZy4.jpg"
+    }
+}

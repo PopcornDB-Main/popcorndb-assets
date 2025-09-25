@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3sRj3VnrSUYhp6j1V43LXgKKdux.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 227306,
+                "original_language": "en",
+                "original_title": "Unbroken",
+                "overview": "A chronicle of the life of Louis Zamperini, an Olympic runner who was taken prisoner by Japanese forces during World War II.",
+                "popularity": 5.9933,
+                "poster_path": "/vAlHUjHwLWMV5mg4epGR9WSIfiy.jpg",
+                "release_date": "2014-12-25",
+                "title": "Unbroken",
+                "video": false,
+                "vote_average": 7.428,
+                "vote_count": 4222,
+                "character": "British Soldier",
+                "credit_id": "548088cac3a36829ab002dfa",
+                "order": 63
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284053,
+                "original_language": "en",
+                "original_title": "Thor: Ragnarok",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+                "popularity": 12.1299,
+                "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "release_date": "2017-10-02",
+                "title": "Thor: Ragnarok",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 21397,
+                "character": "Asgardian (uncredited)",
+                "credit_id": "59146ffcc3a36842d600dbdd",
+                "order": 41
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1394464,
+        "imdb_id": "nm6845005",
+        "known_for_department": "Acting",
+        "name": "Connor Zegenhagen",
+        "place_of_birth": "Gold Coast, Queensland, Australia ",
+        "popularity": 0.0256,
+        "profile_path": "/wF18HGoPyH7qSb22pAuJTsYFLWB.jpg"
+    }
+}

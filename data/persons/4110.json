@@ -1,0 +1,235 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.486,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Rick Blaine",
+                "credit_id": "52fe4233c3a36847f800b83f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hSmX0ZyYZk2ECIWtJ1JSHINPZIK.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    53
+                ],
+                "id": 910,
+                "original_language": "en",
+                "original_title": "The Big Sleep",
+                "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+                "popularity": 4.7593,
+                "poster_path": "/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+                "release_date": "1946-08-23",
+                "title": "The Big Sleep",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1091,
+                "character": "Philip Marlowe",
+                "credit_id": "52fe428bc3a36847f8027193",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    53
+                ],
+                "id": 963,
+                "original_language": "en",
+                "original_title": "The Maltese Falcon",
+                "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+                "popularity": 5.0566,
+                "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+                "release_date": "1941-10-18",
+                "title": "The Maltese Falcon",
+                "video": false,
+                "vote_average": 7.712,
+                "vote_count": 1775,
+                "character": "Samuel Spade",
+                "credit_id": "52fe4294c3a36847f8029a27",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/doTKdtLfn2b7ZmeElmT6ZDW3XIk.jpg",
+                "genre_ids": [
+                    10749,
+                    12,
+                    18
+                ],
+                "id": 488,
+                "original_language": "en",
+                "original_title": "The African Queen",
+                "overview": "At the start of the First World War, in the middle of Africa\u2019s nowhere, a gin soaked riverboat captain is persuaded by a strong-willed missionary to go down river and face-off a German warship.",
+                "popularity": 3.6049,
+                "poster_path": "/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+                "release_date": "1952-01-07",
+                "title": "The African Queen",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 1000,
+                "character": "Charlie Allnut",
+                "credit_id": "52fe4249c3a36847f8012573",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    37
+                ],
+                "id": 3090,
+                "original_language": "en",
+                "original_title": "The Treasure of the Sierra Madre",
+                "overview": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
+                "popularity": 2.5536,
+                "poster_path": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+                "release_date": "1948-01-15",
+                "title": "The Treasure of the Sierra Madre",
+                "video": false,
+                "vote_average": 7.951,
+                "vote_count": 1263,
+                "character": "Fred C. Dobbs",
+                "credit_id": "52fe4385c3a36847f805a52b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m2SXRnAd0d5N6qH2cbgluRgMX4z.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 11016,
+                "original_language": "en",
+                "original_title": "Key Largo",
+                "overview": "A hurricane swells outside, but it's nothing compared to the storm within the hotel at Key Largo. There, sadistic mobster Johnny Rocco holes up - and holds at gunpoint hotel owner James Temple, his widowed daughter-in-law Nora, and ex-GI Frank McCloud.",
+                "popularity": 4.3138,
+                "poster_path": "/rySfmQQZhS7RswOiJcJrww6FcHy.jpg",
+                "release_date": "1948-07-16",
+                "title": "Key Largo",
+                "video": false,
+                "vote_average": 7.459,
+                "vote_count": 554,
+                "character": "Frank McCloud",
+                "credit_id": "52fe43e39251416c7502205f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 6620,
+                "original_language": "en",
+                "original_title": "Sabrina",
+                "overview": "Linus and David Larrabee are the two sons of a very wealthy family. Linus is all work \u2013 busily running the family corporate empire, he has no time for a wife and family. David is all play \u2013 technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to capture David's attention, while falling in love with Linus.",
+                "popularity": 3.856,
+                "poster_path": "/86ix9wBxiMAaISt4HpmXQm6Mlym.jpg",
+                "release_date": "1954-09-01",
+                "title": "Sabrina",
+                "video": false,
+                "vote_average": 7.505,
+                "vote_count": 1294,
+                "character": "Linus Larrabee",
+                "credit_id": "52fe445fc3a36847f8091fc9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uYRnUnBE4kk5ocvyBckRfMAsZpJ.jpg",
+                "genre_ids": [
+                    12,
+                    10749,
+                    10752
+                ],
+                "id": 22584,
+                "original_language": "en",
+                "original_title": "To Have and Have Not",
+                "overview": "A Martinique charter boat skipper gets mixed up with the underground French resistance operatives during WWII.",
+                "popularity": 1.7035,
+                "poster_path": "/m9RYIio23yClaO3fy5tcpYac1Gf.jpg",
+                "release_date": "1945-01-20",
+                "title": "To Have and Have Not",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 537,
+                "character": "Harry Morgan",
+                "credit_id": "52fe4446c3a368484e019e75",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/OfH6y4NfYpzHcA67nwT5TjhSzJ.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    9648
+                ],
+                "id": 17057,
+                "original_language": "en",
+                "original_title": "In a Lonely Place",
+                "overview": "A violent screenwriter and a female neighbor fall in love after she clears him of murder, but she begins to have second thoughts.",
+                "popularity": 2.2422,
+                "poster_path": "/vbdgtwzLOpE6MppZlyYChMagvQq.jpg",
+                "release_date": "1950-05-17",
+                "title": "In a Lonely Place",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 619,
+                "character": "Dixon Steele",
+                "credit_id": "52fe47029251416c7508ae87",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bogie",
+            "\u0425\u044a\u043c\u0444\u0440\u0438 \u0411\u043e\u0433\u0430\u0440\u0442",
+            "\u03a7\u03ac\u03bc\u03c6\u03c1\u03b5\u03ca \u039c\u03c0\u03cc\u03b3\u03ba\u03b1\u03c1\u03c4",
+            "Hamfri Boqart",
+            "Hamfrijs Bogarts",
+            "\u0647\u0627\u0645\u0641\u0631\u06cc \u0628\u0648\u06af\u0627\u0631\u062a"
+        ],
+        "biography": "Humphrey DeForest Bogart, nicknamed Bogie, was an American actor. His performances in Classical Hollywood films made him an American cultural icon. In 1999, the American Film Institute selected Bogart as the greatest male star of classic American cinema.\n\nBogart began acting in Broadway shows, beginning his career in motion pictures with Up the River (1930) for Fox and appeared in supporting roles for the next decade, regularly portraying gangsters. He was praised for his work as Duke Mantee in The Petrified Forest (1936), but remained cast secondary to other actors at Warner Bros. who received leading roles. Bogart also received positive reviews for his performance as gangster Hugh \"Baby Face\" Martin, in Dead End (1937), directed by William Wyler.\n\nHis breakthrough from supporting roles to stardom was set in motion with High Sierra (1941) and catapulted in The Maltese Falcon (1941), considered one of the first great noir films. Bogart's private detectives, Sam Spade (in The Maltese Falcon) and Philip Marlowe (in 1946's The Big Sleep), became the models for detectives in other noir films. His most significant romantic lead role was with Ingrid Bergman in Casablanca (1942), which earned him his first nomination for the Academy Award for Best Actor. 44-year-old Bogart and 19-year-old Lauren Bacall fell in love during filming of To Have and Have Not (1944). In 1945, a few months after principal photography for The Big Sleep, their second film together, he divorced his third wife and married Bacall. After their marriage, they played each other's love interest in the mystery thrillers Dark Passage (1947) and Key Largo (1948).\n\nBogart's performances in The Treasure of the Sierra Madre (1948) and In a Lonely Place (1950) are now considered among his best, although they were not recognized as such when the films were released. He reprised those unsettled, unstable characters as a World War II naval-vessel commander in The Caine Mutiny (1954), which was a critical and commercial hit and earned him another Best Actor nomination. He won the Academy Award for Best Actor for his portrayal of a cantankerous river steam launch skipper opposite Katharine Hepburn's missionary in the World War I African adventure The African Queen (1951). Other significant roles in his later years included The Barefoot Contessa (1954) with Ava Gardner and his on-screen competition with William Holden for Audrey Hepburn in Sabrina (1954). A heavy smoker and drinker, Bogart died from esophageal cancer in January 1957.",
+        "birthday": "1899-12-25",
+        "deathday": "1957-01-14",
+        "gender": 2,
+        "homepage": "https://humphreybogart.com",
+        "id": 4110,
+        "imdb_id": "nm0000007",
+        "known_for_department": "Acting",
+        "name": "Humphrey Bogart",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.8431,
+        "profile_path": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+    }
+}

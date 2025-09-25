@@ -1,0 +1,159 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14,
+                "original_language": "en",
+                "original_title": "American Beauty",
+                "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+                "popularity": 9.2546,
+                "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+                "release_date": "1999-09-15",
+                "title": "American Beauty",
+                "video": false,
+                "vote_average": 8.005,
+                "vote_count": 12548,
+                "character": "Carolyn Burnham",
+                "credit_id": "52fe420ec3a36847f80007cf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e65E7jH5bKMSgHJnWLw4ex02Dyu.jpg",
+                "genre_ids": [
+                    37,
+                    18,
+                    28,
+                    10749
+                ],
+                "id": 2055,
+                "original_language": "en",
+                "original_title": "Open Range",
+                "overview": "A former gunslinger is forced to take up arms again when he and his cattle crew are threatened by a corrupt lawman.",
+                "popularity": 3.1734,
+                "poster_path": "/5bmt52Fijy71W0E72on8xnnYHgP.jpg",
+                "release_date": "2003-08-11",
+                "title": "Open Range",
+                "video": false,
+                "vote_average": 7.221,
+                "vote_count": 1145,
+                "character": "Sue Barlow",
+                "credit_id": "52fe4330c3a36847f804120b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yJYFp97trLmcNAQb5A4SXXhNJU4.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    14,
+                    18
+                ],
+                "id": 103332,
+                "original_language": "en",
+                "original_title": "Ruby Sparks",
+                "overview": "Calvin is a young novelist who achieved phenomenal success early in his career but is now struggling with his writing \u2013 as well as his romantic life. Finally, he makes a breakthrough and creates a character named Ruby who inspires him. When Calvin finds Ruby, in the flesh, sitting on his couch about a week later, he is completely flabbergasted that his words have turned into a living, breathing person.",
+                "popularity": 8.7714,
+                "poster_path": "/zELurt0GVRkR5X5ymuk7KXUxhC8.jpg",
+                "release_date": "2012-07-25",
+                "title": "Ruby Sparks",
+                "video": false,
+                "vote_average": 7.119,
+                "vote_count": 1693,
+                "character": "Gertrude",
+                "credit_id": "52fe4a1cc3a36847f81ba30f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/x3mFfOKOzIi1ROSgy9bgyYq7zDH.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 342737,
+                "original_language": "en",
+                "original_title": "20th Century Women",
+                "overview": "In 1979 Santa Barbara, California, Dorothea Fields is a determined single mother in her mid-50s who is raising her adolescent son, Jamie, at a moment brimming with cultural change and rebellion. Dorothea enlists the help of two younger women \u2013 Abbie, a free-spirited punk artist living as a boarder in the Fields' home and Julie, a savvy and provocative teenage neighbour \u2013 to help with Jamie's upbringing.",
+                "popularity": 2.9095,
+                "poster_path": "/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
+                "release_date": "2016-12-28",
+                "title": "20th Century Women",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1186,
+                "character": "Dorothea",
+                "credit_id": "556c9b5bc3a368273b003dd5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zTMtN7DjyqYuTFwBXw1ywl3JyTO.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 446696,
+                "original_language": "en",
+                "original_title": "Life Itself",
+                "overview": "As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.",
+                "popularity": 2.4367,
+                "poster_path": "/pE2hxC8bPbIi9tGyhFg5xiFW6dA.jpg",
+                "release_date": "2018-09-21",
+                "title": "Life Itself",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 590,
+                "character": "Dr. Cait Morris",
+                "credit_id": "58c773f4c3a3683dc500613b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fnTrZiCRXCk3I6mnYvJwiMZf6pF.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 524348,
+                "original_language": "en",
+                "original_title": "The Report",
+                "overview": "The story of Daniel Jones, lead investigator for the US Senate\u2019s sweeping study into the CIA's Detention and Interrogation Program, which was found to be brutal, immoral and ineffective. With the truth at stake, Jones battled tirelessly to make public what many in power sought to keep hidden.",
+                "popularity": 4.3924,
+                "poster_path": "/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg",
+                "release_date": "2019-09-12",
+                "title": "The Report",
+                "video": false,
+                "vote_average": 7.045,
+                "vote_count": 1086,
+                "character": "Dianne Feinstein",
+                "credit_id": "5c6dc2b2c3a3683bf0e145bd",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u10d0\u10dc\u10d4\u10e2 \u10d1\u10d4\u10dc\u10d8\u10dc\u10d2\u10d8",
+            "\u0410\u043d\u043d\u0435\u0442\u0442 \u0411\u0435\u043d\u0456\u043d\u0433"
+        ],
+        "biography": "Annette Carol Bening is an American actress. In a career spanning more than four decades, she has received many accolades, including a BAFTA Award and two Golden Globes as well as nominations for a Primetime Emmy Award, two Tony Awards, and five Academy Awards.\n\nBening began her career on stage with the Colorado Shakespeare Festival company in 1980, and played Lady Macbeth in 1984 at the American Conservatory Theater. She made her Broadway debut in the Tina Howe play Coastal Disturbances (1987) for which she received a nomination for the Tony Award for Best Featured Actress in a Play. She played the title role in a Geffen Playhouse production of Hedda Gabler (1999). She returned to Broadway in the revival of Arthur Miller's All My Sons (2019) earning another Tony nomination for Best Actress in a Play.\n\nBening won the BAFTA Award for Best Actress in a Leading Role for playing a materialistic wife in American Beauty (1999), and received nominations for five Academy Awards for her roles in The Grifters (1990), American Beauty, Being Julia (2004), The Kids Are All Right (2010), and Nyad (2023). She was nominated for a Primetime Emmy Award for playing the title role in the television film Mrs. Harris (2005). Her other notable films include Postcards from the Edge (1990), Bugsy (1991), Richard III (1995), The American President (1995), 20th Century Women (2016), Film Stars Don't Die in Liverpool (2017), The Seagull (2018), The Report (2019), Captain Marvel (2019), and Death on the Nile (2022).",
+        "birthday": "1958-05-29",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 516,
+        "imdb_id": "nm0000906",
+        "known_for_department": "Acting",
+        "name": "Annette Bening",
+        "place_of_birth": "Topeka, Kansas, USA",
+        "popularity": 1.1081,
+        "profile_path": "/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
+    }
+}

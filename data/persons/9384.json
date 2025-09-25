@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 603,
+                "original_language": "en",
+                "original_title": "The Matrix",
+                "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+                "popularity": 19.2458,
+                "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+                "release_date": "1999-03-31",
+                "title": "The Matrix",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 26791,
+                "character": "Choi",
+                "credit_id": "52fe425bc3a36847f80181bd",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yfQXs8yXplCVXTLi9mxgvRf4ymE.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12,
+                    28
+                ],
+                "id": 695721,
+                "original_language": "en",
+                "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+                "popularity": 9.6645,
+                "poster_path": "/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg",
+                "release_date": "2023-11-15",
+                "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "video": false,
+                "vote_average": 6.996,
+                "vote_count": 3209,
+                "character": "Mayor Lipp",
+                "credit_id": "658c2230e18e3f79e9f9e060",
+                "order": 50
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Marc Gray",
+            "Marc Aden Grey",
+            "Marc Grey"
+        ],
+        "biography": "Marc Aden Gray is an actor and writer.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.marcadengray.com",
+        "id": 9384,
+        "imdb_id": "nm0336802",
+        "known_for_department": "Acting",
+        "name": "Marc Aden Gray",
+        "place_of_birth": null,
+        "popularity": 0.0956,
+        "profile_path": "/veXu6ByX3OKooI9WBX6dg9U75B5.jpg"
+    }
+}

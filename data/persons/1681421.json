@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 8.6103,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 4063,
+                "character": "Mugger",
+                "credit_id": "57def7349251413da3008986",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.8029,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 15864,
+                "character": "Engineer",
+                "credit_id": "5ed29d76528b2e001f67600d",
+                "order": 73
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jimmy Gavin"
+        ],
+        "biography": "American folk singer and actor.",
+        "birthday": "1935-11-15",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1681421,
+        "imdb_id": "nm0310545",
+        "known_for_department": "Acting",
+        "name": "Weston Gavin",
+        "place_of_birth": "Manhattan, New York City, New York, USA",
+        "popularity": 0.7289,
+        "profile_path": "/kzj1v6Au3lDjAhFQPApqIhcmJIz.jpg"
+    }
+}

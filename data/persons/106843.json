@@ -1,0 +1,50 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+                "genre_ids": [
+                    99,
+                    36,
+                    18
+                ],
+                "id": 549559,
+                "original_language": "en",
+                "original_title": "Apollo 11",
+                "overview": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilot Buzz Aldrin.",
+                "popularity": 2.851,
+                "poster_path": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+                "release_date": "2019-03-01",
+                "title": "Apollo 11",
+                "video": false,
+                "vote_average": 7.87,
+                "vote_count": 667,
+                "character": "Self (archive footage)",
+                "credit_id": "5c7db7f6925141737f485b11",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edwin Buzz Aldrin",
+            "Edwin Eugene Aldrin Jr.",
+            "\u039c\u03c0\u03b1\u03b6 \u038c\u03bb\u03bd\u03c4\u03c1\u03b9\u03bd"
+        ],
+        "biography": "Buzz Aldrin (/\u02c8\u0254\u02d0ldr\u026an/; born Edwin Eugene Aldrin Jr.; January 20, 1930) is an American former astronaut, engineer and fighter pilot. He made three spacewalks as pilot of the 1966 Gemini 12 mission. He was the Lunar Module Eagle pilot on the 1969 Apollo 11 mission and became the second person to walk on the Moon after mission commander Neil Armstrong.",
+        "birthday": "1930-01-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://buzzaldrin.com",
+        "id": 106843,
+        "imdb_id": "nm0004696",
+        "known_for_department": "Acting",
+        "name": "Buzz Aldrin",
+        "place_of_birth": "Glen Ridge, New Jersey, USA",
+        "popularity": 0.1707,
+        "profile_path": "/gUuAUCEAR3ut3ZX1a5iiz5tegk0.jpg"
+    }
+}

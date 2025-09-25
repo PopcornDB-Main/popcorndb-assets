@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pdhDFmVQSA0f5i5IL0gpWROjgZ5.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 621,
+                "original_language": "en",
+                "original_title": "Grease",
+                "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+                "popularity": 6.7872,
+                "poster_path": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+                "release_date": "1978-06-16",
+                "title": "Grease",
+                "video": false,
+                "vote_average": 7.373,
+                "vote_count": 7468,
+                "character": "Coach Calhoun",
+                "credit_id": "52fe425fc3a36847f8019443",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80
+                ],
+                "id": 11576,
+                "original_language": "en",
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+                "popularity": 7.9903,
+                "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+                "release_date": "1963-11-07",
+                "title": "It's a Mad, Mad, Mad, Mad World",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 637,
+                "character": "Melville Crump",
+                "credit_id": "52fe445f9251416c75032653",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Isaac Sidney Caesar"
+        ],
+        "biography": "Sid Caesar (September 8, 1922 \u2013 February 12, 2014) was an American comic actor and writer, known as the leading man on the 1950s television series Your Show of Shows and as Coach Calhoun in Grease and Grease 2.",
+        "birthday": "1922-09-08",
+        "deathday": "2014-02-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 8902,
+        "imdb_id": "nm0128377",
+        "known_for_department": "Acting",
+        "name": "Sid Caesar",
+        "place_of_birth": "Yonkers, New York, USA",
+        "popularity": 0.3466,
+        "profile_path": "/mMSjieicMCMBK7YsQREkX7BRcB2.jpg"
+    }
+}

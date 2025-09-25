@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 109424,
+                "original_language": "en",
+                "original_title": "Captain Phillips",
+                "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+                "popularity": 6.4893,
+                "poster_path": "/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+                "release_date": "2013-10-10",
+                "title": "Captain Phillips",
+                "video": false,
+                "vote_average": 7.538,
+                "vote_count": 7172,
+                "character": "USS Bainbridge VBSS Officer",
+                "credit_id": "62fdf49a25cd850083a3ebe0",
+                "order": 54
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zGCnIADWwpjGllYv8DgT8HIuIQl.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 26022,
+                "original_language": "hi",
+                "original_title": "My Name Is Khan",
+                "overview": "Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.",
+                "popularity": 3.5475,
+                "poster_path": "/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+                "release_date": "2010-02-10",
+                "title": "My Name Is Khan",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 1368,
+                "character": "Airport Security #3",
+                "credit_id": "667755cf20f343763e2488dc",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3668071,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Len Anderson IV",
+        "place_of_birth": null,
+        "popularity": 0.0256,
+        "profile_path": null
+    }
+}

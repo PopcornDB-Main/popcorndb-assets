@@ -1,0 +1,235 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 16869,
+                "original_language": "en",
+                "original_title": "Inglourious Basterds",
+                "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+                "popularity": 18.9435,
+                "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+                "release_date": "2009-08-02",
+                "title": "Inglourious Basterds",
+                "video": false,
+                "vote_average": 8.215,
+                "vote_count": 23209,
+                "character": "COL. Hans Landa",
+                "credit_id": "52fe46f29251416c75088c71",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "character": "Dr. King Schultz",
+                "credit_id": "52fe479fc3a368484e0d12df",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mntBeW6TRgm7GkYJwRDy3oJnKtn.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 72113,
+                "original_language": "en",
+                "original_title": "Carnage",
+                "overview": "Two pairs of parents hold a cordial meeting after their sons are involved in a fight, though as their time together progresses, increasingly childish behavior throws the discussion into chaos.",
+                "popularity": 3.4273,
+                "poster_path": "/3Imx53XV3T02ADlMxYazYXVNysZ.jpg",
+                "release_date": "2011-09-16",
+                "title": "Carnage",
+                "video": false,
+                "vote_average": 7.177,
+                "vote_count": 3016,
+                "character": "Alan Cowan",
+                "credit_id": "52fe4859c3a368484e0f4633",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/12xU204ABgr31iCTM57JT6wGFMg.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 55787,
+                "original_language": "en",
+                "original_title": "Water for Elephants",
+                "overview": "In this captivating Depression-era melodrama, impetuous veterinary student Jacob Jankowski joins a celebrated circus as an animal caretaker but faces a wrenching dilemma when he's transfixed by angelic married performer Marlena.",
+                "popularity": 3.3098,
+                "poster_path": "/8T7Hvb9trKvCAmbSI8cEIU0Sl2T.jpg",
+                "release_date": "2011-04-15",
+                "title": "Water for Elephants",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2562,
+                "character": "August Rosenbluth",
+                "credit_id": "52fe48e0c3a36847f817e3c7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zJeYB7rX1kg5kVmzB0kxbvxmYOl.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 87093,
+                "original_language": "en",
+                "original_title": "Big Eyes",
+                "overview": "In the late 1950s and early '60s, artist Walter Keane achieves unbelievable fame and success with portraits of saucer-eyed waifs. However, no one realizes that his wife, Margaret, is the real painter behind the brush. Although Margaret is horrified to learn that Walter is passing off her work as his own, she is too meek to protest too loudly. It isn't until the Keanes' marriage comes to an end and a lawsuit follows that the truth finally comes to light.",
+                "popularity": 3.84,
+                "poster_path": "/203HAjJcLMl7xThcTqZx4zmEGcV.jpg",
+                "release_date": "2014-12-24",
+                "title": "Big Eyes",
+                "video": false,
+                "vote_average": 6.979,
+                "vote_count": 3541,
+                "character": "Walter Keane",
+                "credit_id": "52fe49b59251416c910b623b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 399579,
+                "original_language": "en",
+                "original_title": "Alita: Battle Angel",
+                "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+                "popularity": 8.4575,
+                "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+                "release_date": "2019-01-31",
+                "title": "Alita: Battle Angel",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 9586,
+                "character": "Dr. Dyson Ido",
+                "credit_id": "57e59e37925141413d002289",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 542178,
+                "original_language": "en",
+                "original_title": "The French Dispatch",
+                "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+                "popularity": 4.5113,
+                "poster_path": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+                "release_date": "2021-10-21",
+                "title": "The French Dispatch",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 2781,
+                "character": "Paul Duval",
+                "credit_id": "5cb4e8000e0a266b9bebd55e",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bz7pwNGCbV576COsDcYN9MbEACC.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    12
+                ],
+                "id": 370172,
+                "original_language": "en",
+                "original_title": "No Time to Die",
+                "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+                "popularity": 8.5332,
+                "poster_path": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+                "release_date": "2021-09-29",
+                "title": "No Time to Die",
+                "video": false,
+                "vote_average": 7.356,
+                "vote_count": 6662,
+                "character": "Blofeld",
+                "credit_id": "5d297e99be4b3612f5a4595d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e782pDRAlu4BG0ahd777n8zfPzZ.jpg",
+                "genre_ids": [
+                    16,
+                    14,
+                    12,
+                    18
+                ],
+                "id": 555604,
+                "original_language": "en",
+                "original_title": "Guillermo del Toro's Pinocchio",
+                "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+                "popularity": 4.8713,
+                "poster_path": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+                "release_date": "2022-11-09",
+                "title": "Guillermo del Toro's Pinocchio",
+                "video": false,
+                "vote_average": 8.047,
+                "vote_count": 3121,
+                "character": "Count Volpe (voice)",
+                "credit_id": "5e474cd62d93750017a52674",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u041a\u0440\u0438\u0441\u0442\u043e\u0444 \u0412\u0430\u043b\u044c\u0446",
+            "\u0643\u0631\u064a\u0633\u062a\u0648\u0641 \u0641\u0627\u0644\u062a\u0632",
+            "\u514b\u91cc\u65af\u6258\u5f17\u00b7\u74e6\u5c14\u5179",
+            "\ud06c\ub9ac\uc2a4\ud1a0\ud504 \ubc1c\uce20",
+            "\u30af\u30ea\u30b9\u30c8\u30d5\u30fb\u30f4\u30a1\u30eb\u30c4",
+            "\u0e04\u0e23\u0e34\u0e2a\u0e17\u0e2d\u0e1f \u0e27\u0e31\u0e25\u0e0b\u0e4c",
+            "\ud06c\ub9ac\uc2a4\ud1a0\ud504 \uc648\uce20",
+            "\u514b\u91cc\u65af\u591a\u592b\u00b7\u83ef\u8332",
+            "\u06a9\u0631\u06cc\u0633\u062a\u0641 \u0648\u0627\u0644\u062a\u0633"
+        ],
+        "biography": "Christoph Waltz (born October 4, 1956) is an Austrian actor who also holds German citizenship. He received international acclaim for his portrayal of SS Colonel Hans Landa in the 2009 film Inglourious Basterds, for which he won the Best Actor Award at the Cannes Film Festival and the BAFTA, Golden Globe and Screen Actors Guild Award for Best Supporting Actor in 2009 and the Academy Award for Best Supporting Actor in 2010.",
+        "birthday": "1956-10-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 27319,
+        "imdb_id": "nm0910607",
+        "known_for_department": "Acting",
+        "name": "Christoph Waltz",
+        "place_of_birth": "Vienna, Austria",
+        "popularity": 3.7353,
+        "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+    }
+}

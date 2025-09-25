@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 37165,
+                "original_language": "en",
+                "original_title": "The Truman Show",
+                "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+                "popularity": 16.1854,
+                "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+                "release_date": "1998-06-04",
+                "title": "The Truman Show",
+                "video": false,
+                "vote_average": 8.149,
+                "vote_count": 19296,
+                "character": "News Vendor",
+                "credit_id": "5cd14c0ac3a3681fd7da12e5",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fwo0IsHudrMVmASe107UciIOlmR.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    35
+                ],
+                "id": 11616,
+                "original_language": "it",
+                "original_title": "Nati con la camicia",
+                "overview": "After Doug picks up hitchhiking Rosco with his truck, they are mistaken for two bank robbers by the traffic police. They manage to escape  only to be confused for two secret agents while trying to take a flight at the airport.",
+                "popularity": 2.0055,
+                "poster_path": "/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg",
+                "release_date": "1983-02-01",
+                "title": "Go for It",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 520,
+                "character": "Pain in the Neck in Prison (uncredited)",
+                "credit_id": "5e46b4dd9603310019f6aa06",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Malcolm G. Jones"
+        ],
+        "biography": "",
+        "birthday": "1927-05-17",
+        "deathday": "2014-01-05",
+        "gender": 2,
+        "homepage": null,
+        "id": 191009,
+        "imdb_id": "nm0428726",
+        "known_for_department": "Acting",
+        "name": "Mal Jones",
+        "place_of_birth": "USA",
+        "popularity": 0.6751,
+        "profile_path": "/kiVFhwj0QxSwvGf1ITTZRJokMrZ.jpg"
+    }
+}

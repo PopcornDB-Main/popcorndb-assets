@@ -1,0 +1,141 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9JcMUzQy9gPqDmJJGH3AcL145mv.jpg",
+                "genre_ids": [
+                    27,
+                    28,
+                    53,
+                    80
+                ],
+                "id": 755,
+                "original_language": "en",
+                "original_title": "From Dusk Till Dawn",
+                "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+                "popularity": 7.6557,
+                "poster_path": "/uBoQytp3KTQFaVqTe6d0ECGaKh9.jpg",
+                "release_date": "1996-01-19",
+                "title": "From Dusk Till Dawn",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 6185,
+                "character": "Manny",
+                "credit_id": "52fe4272c3a36847f801f2b5",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 5.6958,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.348,
+                "vote_count": 5421,
+                "character": "Hophead",
+                "credit_id": "52fe440dc3a36847f807f739",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18
+                ],
+                "id": 111,
+                "original_language": "en",
+                "original_title": "Scarface",
+                "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                "popularity": 14.4392,
+                "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+                "release_date": "1983-12-09",
+                "title": "Scarface",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 12451,
+                "character": "Gaspar's Bodyguard",
+                "credit_id": "55f4534892514131af000173",
+                "order": 56
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cgrQefMZspzBD2HXmZ8LYoCuN5m.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 16620,
+                "original_language": "en",
+                "original_title": "La Bamba",
+                "overview": "Los Angeles teenager Ritchie Valens becomes an overnight rock 'n' roll success in 1958, thanks to a love ballad called \"Donna\" that he wrote for his girlfriend. But as his star rises, Valens has conflicts with his jealous brother, Bob, and becomes haunted by a recurring nightmare of a plane crash just as he begins his first national tour alongside Buddy Holly.",
+                "popularity": 4.7234,
+                "poster_path": "/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg",
+                "release_date": "1987-07-24",
+                "title": "La Bamba",
+                "video": false,
+                "vote_average": 7.272,
+                "vote_count": 744,
+                "character": "Mexican Ed",
+                "credit_id": "58f61408925141279500cdbb",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rWFLgIRGXzECIbczgo7dmnwq55q.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    80
+                ],
+                "id": 8068,
+                "original_language": "en",
+                "original_title": "Desperado",
+                "overview": "El Mariachi plunges headfirst into the dark border underworld when he follows a trail of blood to the last of the infamous Mexican drug lords, Bucho, for an action-packed, bullet-riddled showdown. With the help of his friend and a beautiful bookstore owner, El Mariachi tracks Bucho, takes on his army of desperados, and leaves his own trail of blood.",
+                "popularity": 6.1183,
+                "poster_path": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+                "release_date": "1995-08-25",
+                "title": "Desperado",
+                "video": false,
+                "vote_average": 6.927,
+                "vote_count": 2979,
+                "character": "Shrug",
+                "credit_id": "5c5ad1490e0a2627a762d8c3",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Miguel Burceaga",
+            "Mike Moroff Burceaga"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 100260,
+        "imdb_id": "nm0120878",
+        "known_for_department": "Acting",
+        "name": "Mike Moroff",
+        "place_of_birth": "El Paso, Texas, USA",
+        "popularity": 0.5805,
+        "profile_path": "/ani0XQFTLNI6zf1PeKEkw0WtIHD.jpg"
+    }
+}

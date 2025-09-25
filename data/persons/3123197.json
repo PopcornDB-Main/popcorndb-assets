@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 467909,
+                "original_language": "en",
+                "original_title": "In the Heights",
+                "overview": "The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.",
+                "popularity": 2.8295,
+                "poster_path": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+                "release_date": "2021-06-10",
+                "title": "In the Heights",
+                "video": false,
+                "vote_average": 7.124,
+                "vote_count": 752,
+                "character": "Woman in Lobby",
+                "credit_id": "60c5755748333a005756314b",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 3123197,
+        "imdb_id": "nm12652464",
+        "known_for_department": "Acting",
+        "name": "Yesy Garcia",
+        "place_of_birth": null,
+        "popularity": 0.05,
+        "profile_path": null
+    }
+}

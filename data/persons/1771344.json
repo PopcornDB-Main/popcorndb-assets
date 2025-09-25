@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cJ6dqrHhts085zJTMaXECjp0RfX.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 353326,
+                "original_language": "en",
+                "original_title": "The Man Who Knew Infinity",
+                "overview": "Growing up poor in Madras, India, Srinivasa Ramanujan Iyengar earns admittance to Cambridge University during WWI, where he becomes a pioneer in mathematical theories with the guidance of his professor, G.H. Hardy.",
+                "popularity": 3.8035,
+                "poster_path": "/v2X1BtkxaV8pzLbmM8a5gTdpg7B.jpg",
+                "release_date": "2016-04-08",
+                "title": "The Man Who Knew Infinity",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1506,
+                "character": "Porter",
+                "credit_id": "61c1085085b1050092f97fb6",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10751,
+                    14,
+                    18
+                ],
+                "id": 10437,
+                "original_language": "en",
+                "original_title": "The Muppet Christmas Carol",
+                "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+                "popularity": 3.2047,
+                "poster_path": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+                "release_date": "1992-12-11",
+                "title": "The Muppet Christmas Carol",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1070,
+                "character": "Old Joe",
+                "credit_id": "5f3a43e0a3b5e60034f3d547",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David Shaw Parker"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1771344,
+        "imdb_id": "nm0789573",
+        "known_for_department": "Acting",
+        "name": "David Shaw-Parker",
+        "place_of_birth": "Egypt",
+        "popularity": 0.1249,
+        "profile_path": "/y7ymAZXZvk5pqiGLG7KCCDelqnn.jpg"
+    }
+}

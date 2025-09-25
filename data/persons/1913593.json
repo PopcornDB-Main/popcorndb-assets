@@ -1,0 +1,96 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "Soldier on the Beach",
+                "credit_id": "59f511359251414d0501f71e",
+                "order": 42
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/etiP3Mu3ze2j9m3FEAAyOKFYlH0.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 563,
+                "original_language": "en",
+                "original_title": "Starship Troopers",
+                "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+                "popularity": 7.9696,
+                "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+                "release_date": "1997-11-07",
+                "title": "Starship Troopers",
+                "video": false,
+                "vote_average": 7.09,
+                "vote_count": 5182,
+                "credit_id": "63f0a764a67254008202b8eb",
+                "department": "Crew",
+                "job": "Set Medic"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    878
+                ],
+                "id": 754,
+                "original_language": "en",
+                "original_title": "Face/Off",
+                "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
+                "popularity": 6.5593,
+                "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+                "release_date": "1997-06-27",
+                "title": "Face/Off",
+                "video": false,
+                "vote_average": 7.048,
+                "vote_count": 5600,
+                "credit_id": "6758f8372d200c84f1911303",
+                "department": "Crew",
+                "job": "Set Medic"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Bryan F. Maynard"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1913593,
+        "imdb_id": "nm0562733",
+        "known_for_department": "Crew",
+        "name": "Brian Maynard",
+        "place_of_birth": null,
+        "popularity": 0.3735,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 2604,
+                "original_language": "en",
+                "original_title": "Born on the Fourth of July",
+                "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+                "popularity": 8.7864,
+                "poster_path": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+                "release_date": "1989-12-20",
+                "title": "Born on the Fourth of July",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1790,
+                "character": "Agent #2 - Miami Convention",
+                "credit_id": "55e880fc9251413e41002ce4",
+                "order": 74
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 90,
+                "original_language": "en",
+                "original_title": "Beverly Hills Cop",
+                "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+                "popularity": 5.0898,
+                "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+                "release_date": "1984-12-05",
+                "title": "Beverly Hills Cop",
+                "video": false,
+                "vote_average": 7.202,
+                "vote_count": 4373,
+                "character": "Beverly Hills Cop #2",
+                "credit_id": "602de994a9117f004df58251",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "William Andrew Wallace",
+            "William A. Wallace"
+        ],
+        "biography": "",
+        "birthday": "1953-10-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 998535,
+        "imdb_id": "nm0908906",
+        "known_for_department": "Acting",
+        "name": "William Wallace",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.1007,
+        "profile_path": null
+    }
+}

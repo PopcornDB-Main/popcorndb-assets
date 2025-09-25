@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 646380,
+                "original_language": "en",
+                "original_title": "Don't Look Up",
+                "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+                "popularity": 10.246,
+                "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+                "release_date": "2021-12-08",
+                "title": "Don't Look Up",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 8787,
+                "character": "Federal Agent",
+                "credit_id": "64d7ec98f14dad013a8c0d34",
+                "order": 86
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1056360,
+                "original_language": "en",
+                "original_title": "American Fiction",
+                "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
+                "popularity": 3.759,
+                "poster_path": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+                "release_date": "2023-11-10",
+                "title": "American Fiction",
+                "video": false,
+                "vote_average": 7.305,
+                "vote_count": 1174,
+                "character": "Jelani",
+                "credit_id": "6507d4f4394a870139163515",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    36
+                ],
+                "id": 407448,
+                "original_language": "en",
+                "original_title": "Detroit",
+                "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+                "popularity": 4.7886,
+                "poster_path": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+                "release_date": "2017-07-28",
+                "title": "Detroit",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1688,
+                "character": "Vietnam Vet",
+                "credit_id": "5f93a30842bf010045455e1d",
+                "order": 48
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1942129,
+        "imdb_id": "nm7061107",
+        "known_for_department": "Acting",
+        "name": "Michael Jibrin",
+        "place_of_birth": null,
+        "popularity": 0.0492,
+        "profile_path": "/uyaW8ltNwdyRIR906uY1gzt4NE7.jpg"
+    }
+}

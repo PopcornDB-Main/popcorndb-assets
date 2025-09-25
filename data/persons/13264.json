@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    18,
+                    28
+                ],
+                "id": 871,
+                "original_language": "en",
+                "original_title": "Planet of the Apes",
+                "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+                "popularity": 8.0971,
+                "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+                "release_date": "1968-02-07",
+                "title": "Planet of the Apes",
+                "video": false,
+                "vote_average": 7.646,
+                "vote_count": 3741,
+                "character": "Dodge",
+                "credit_id": "52fe4285c3a36847f8025639",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1924-03-28",
+        "deathday": "1988-01-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 13264,
+        "imdb_id": "nm0123613",
+        "known_for_department": "Acting",
+        "name": "Jeff Burton",
+        "place_of_birth": "Worcester, Massachusetts, USA",
+        "popularity": 0.055,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10749
+                ],
+                "id": 11113,
+                "original_language": "en",
+                "original_title": "My Fair Lady",
+                "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+                "popularity": 4.1967,
+                "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+                "release_date": "1964-12-01",
+                "title": "My Fair Lady",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1368,
+                "character": "Professor Henry Higgins",
+                "credit_id": "52fe43fb9251416c75024eaf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qQGHkmLWPcMGkKws78pFh14SzUo.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 8095,
+                "original_language": "en",
+                "original_title": "Cleopatra",
+                "overview": "Determined to hold on to the throne, Cleopatra seduces the Roman emperor Julius Caesar. When Caesar is murdered, she redirects her attentions to his general, Marc Antony, who vows to take power\u2014but Caesar\u2019s successor has other plans.",
+                "popularity": 5.1374,
+                "poster_path": "/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+                "release_date": "1963-06-12",
+                "title": "Cleopatra",
+                "video": false,
+                "vote_average": 7.04,
+                "vote_count": 800,
+                "character": "Julius Caesar",
+                "credit_id": "52fe4493c3a36847f809de9d",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Reginald Carey Harrison",
+            "\u0631\u06a9\u0633 \u0647\u0631\u06cc\u0633\u0648\u0646"
+        ],
+        "biography": "Sir Reginald Carey \"Rex\" Harrison (5 March 1908 \u2013 2 June 1990) was an English actor.",
+        "birthday": "1908-03-05",
+        "deathday": "1990-06-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 35321,
+        "imdb_id": "nm0001322",
+        "known_for_department": "Acting",
+        "name": "Rex Harrison",
+        "place_of_birth": "Huyton, Lancashire, England, UK",
+        "popularity": 0.664,
+        "profile_path": "/hy8cyCpmV0iRSl4Thby01anz4FY.jpg"
+    }
+}

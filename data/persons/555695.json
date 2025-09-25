@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 5143,
+                "original_language": "en",
+                "original_title": "Hannah and Her Sisters",
+                "overview": "Between two Thanksgivings, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+                "popularity": 2.175,
+                "poster_path": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+                "release_date": "1986-02-07",
+                "title": "Hannah and Her Sisters",
+                "video": false,
+                "vote_average": 7.498,
+                "vote_count": 1088,
+                "character": "Ron",
+                "credit_id": "58640bb6c3a36852cc010155",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 555695,
+        "imdb_id": "nm0535865",
+        "known_for_department": "Sound",
+        "name": "Rusty Magee",
+        "place_of_birth": null,
+        "popularity": 0.0357,
+        "profile_path": null
+    }
+}

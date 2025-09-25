@@ -1,0 +1,75 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mGBmiWmi7JqeTWnrPicRbkXcsuO.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 410718,
+                "original_language": "en",
+                "original_title": "Before the Flood",
+                "overview": "A look at how climate change affects our environment and what society can do to prevent the demise of endangered species, ecosystems, and native communities across the planet.",
+                "popularity": 1.0583,
+                "poster_path": "/u0EfH2zsp6rLOvEKVvWGgzGRQn3.jpg",
+                "release_date": "2016-10-21",
+                "title": "Before the Flood",
+                "video": false,
+                "vote_average": 7.687,
+                "vote_count": 798,
+                "character": "Self",
+                "credit_id": "580aff99c3a3682961007a38",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cMIZsOYbsGalIm3isRH2zQwsUnV.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 551332,
+                "original_language": "en",
+                "original_title": "The Two Popes",
+                "overview": "Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church.",
+                "popularity": 5.5424,
+                "poster_path": "/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+                "release_date": "2019-11-27",
+                "title": "The Two Popes",
+                "video": false,
+                "vote_average": 7.493,
+                "vote_count": 3014,
+                "character": "Himself (archive footage)",
+                "credit_id": "5e024048c5840d001308c698",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jorge Mario Bergoglio",
+            "Franciscus",
+            "Francesco",
+            "Francisco",
+            "Bishop of Rome",
+            "Fran\u00e7ois",
+            "Pape\u017e Franti\u0161ek ",
+            "\uad50\ud669 \ud504\ub780\uce58\uc2a4\ucf54"
+        ],
+        "biography": "Pope Francis (born Jorge Mario Bergoglio; 17 December 1936 \u2013 21 April 2025) was the head of the Catholic Church and sovereign of the Vatican City State from 13 March 2013 until his death. He was the first pope from the Society of Jesus (the Jesuit Order), the first from the Americas and the Southern Hemisphere, and the first born or raised outside Europe since the 8th-century Syrian pope Gregory III.\n\nDescription above from the Wikipedia article Pope Francis licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1936-12-17",
+        "deathday": "2025-04-21",
+        "gender": 2,
+        "homepage": "https://www.vatican.va/content/francesco/en.html",
+        "id": 1523704,
+        "imdb_id": "nm5571029",
+        "known_for_department": "Acting",
+        "name": "Pope Francis",
+        "place_of_birth": "Buenos Aires, Federal District, Argentina",
+        "popularity": 0.163,
+        "profile_path": "/taIcvWkt6D0nWOdHIJeRnjLc7In.jpg"
+    }
+}

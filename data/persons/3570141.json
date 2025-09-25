@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bYJyQqqJV30RJX6VPE3Rz1lPZhH.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 2100,
+                "original_language": "en",
+                "original_title": "The Last Castle",
+                "overview": "A court-martialed general rallies together 1200 inmates to rise against the system that put him away.",
+                "popularity": 8.8341,
+                "poster_path": "/pYnUfauPVK6g8IRO2REYl4TUZ2p.jpg",
+                "release_date": "2001-10-19",
+                "title": "The Last Castle",
+                "video": false,
+                "vote_average": 7.168,
+                "vote_count": 1327,
+                "character": "Inmate",
+                "credit_id": "6294eadcca8354009a59c5f3",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3570141,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Jamie Roberto Mantecon",
+        "place_of_birth": null,
+        "popularity": 0.0527,
+        "profile_path": null
+    }
+}

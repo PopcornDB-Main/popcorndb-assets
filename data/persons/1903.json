@@ -1,0 +1,260 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 162,
+                "original_language": "en",
+                "original_title": "Edward Scissorhands",
+                "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+                "popularity": 10.8889,
+                "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+                "release_date": "1990-12-07",
+                "title": "Edward Scissorhands",
+                "video": false,
+                "vote_average": 7.719,
+                "vote_count": 13316,
+                "character": "Bill",
+                "credit_id": "52fe4221c3a36847f8006201",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fwxOQkzYtRVKs3kzcyukdbsyIuh.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10150,
+                "original_language": "en",
+                "original_title": "The Last Unicorn",
+                "overview": "From a riddle-speaking butterfly, a unicorn learns that she is supposedly the last of her kind, all the others having been herded away by the Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a now middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+                "popularity": 4.9466,
+                "poster_path": "/2MhDPbadE2ha83qiFwUHPgmKLnV.jpg",
+                "release_date": "1982-11-19",
+                "title": "The Last Unicorn",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 545,
+                "character": "Schmendrick (voice)",
+                "credit_id": "52fe43369251416c75007af9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 5.2704,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.693,
+                "vote_count": 7467,
+                "character": "Edwin Hoover",
+                "credit_id": "52fe4274c3a36847f80200cf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    9648,
+                    10749
+                ],
+                "id": 782,
+                "original_language": "en",
+                "original_title": "Gattaca",
+                "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+                "popularity": 6.9278,
+                "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+                "release_date": "1997-09-07",
+                "title": "Gattaca",
+                "video": false,
+                "vote_average": 7.564,
+                "vote_count": 6609,
+                "character": "Detective Hugo",
+                "credit_id": "52fe4275c3a36847f8020589",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3PYjmY1OiOq2LQ8ZvvLxzwbqIq.jpg",
+                "genre_ids": [
+                    53,
+                    27
+                ],
+                "id": 11206,
+                "original_language": "en",
+                "original_title": "Wait Until Dark",
+                "overview": "After a flight back home, Sam Hendrix returns with a doll he innocently acquired along the way. As it turns out, the doll is actually stuffed with heroin, and a group of criminals led by the ruthless Roat has followed Hendrix back to his place to retrieve it. When Hendrix leaves for business, the crooks make their move -- and find his blind wife, Susy, alone in the apartment. Soon, a life-threatening game begins between Susy and the thugs.",
+                "popularity": 3.429,
+                "poster_path": "/cNW3ewCB52KkxzSE47PcE5Bqvmr.jpg",
+                "release_date": "1967-10-26",
+                "title": "Wait Until Dark",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 562,
+                "character": "Roat / Roat Jr. / Roat Sr.",
+                "credit_id": "52fe44109251416c75027a69",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/paSilBRK7Qw3iIbf3xIYVDKnVF9.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    53,
+                    10749
+                ],
+                "id": 9434,
+                "original_language": "en",
+                "original_title": "Grosse Pointe Blank",
+                "overview": "Hitman Martin Blank becomes a moving target after he rebuffs a fellow assassin's invitation to form a union. On the advice of his quirky assistant and neurotic psychiatrist, Martin begrudgingly heads out to Grosse Pointe, Michigan for his ten-year high school reunion, where he soon comes across the woman he jilted on prom night.",
+                "popularity": 2.6571,
+                "poster_path": "/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg",
+                "release_date": "1997-04-11",
+                "title": "Grosse Pointe Blank",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 967,
+                "character": "Dr. Oatman",
+                "credit_id": "52fe44f7c3a36847f80b4941",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qukaw3P4MOFNdxjhNpClhT9unr8.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 9504,
+                "original_language": "en",
+                "original_title": "Glengarry Glen Ross",
+                "overview": "Times are tough at Premiere Properties. Shelley \"the machine\" Levene and Dave Moss are veteran salesmen, but only Ricky Roma is on a hot streak. The new Glengarry sales leads could turn everything around, but the front office is holding them back until these \"losers\" prove themselves. Then someone decides to take matters into his own hands, stealing the Glengarry leads and leaving everyone wondering who did it.",
+                "popularity": 3.3287,
+                "poster_path": "/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+                "release_date": "1992-09-10",
+                "title": "Glengarry Glen Ross",
+                "video": false,
+                "vote_average": 7.338,
+                "vote_count": 1489,
+                "character": "George Aaronow",
+                "credit_id": "52fe4500c3a36847f80b6d5b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tVoWbAAfTDIhTeo78SbA2V6mv8E.jpg",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 14306,
+                "original_language": "en",
+                "original_title": "Marley & Me",
+                "overview": "A newly married couple, in the process of starting a family, learn many of life's important lessons from their trouble-loving retriever, Marley. Packed with plenty of laughs to lighten the load, the film explores the highs and lows of marriage, maturity and confronting one's own mortality, as seen through the lens of family life with a dog.",
+                "popularity": 5.1733,
+                "poster_path": "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg",
+                "release_date": "2008-12-25",
+                "title": "Marley & Me",
+                "video": false,
+                "vote_average": 7.192,
+                "vote_count": 4670,
+                "character": "Arnie Klein",
+                "credit_id": "52fe45e49251416c7506610f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 68734,
+                "original_language": "en",
+                "original_title": "Argo",
+                "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+                "popularity": 6.3346,
+                "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+                "release_date": "2012-10-11",
+                "title": "Argo",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 8593,
+                "character": "Lester Siegel",
+                "credit_id": "52fe47a1c3a368484e0d1b71",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 438148,
+                "original_language": "en",
+                "original_title": "Minions: The Rise of Gru",
+                "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+                "popularity": 11.9003,
+                "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+                "release_date": "2022-06-29",
+                "title": "Minions: The Rise of Gru",
+                "video": false,
+                "vote_average": 7.286,
+                "vote_count": 3823,
+                "character": "Wild Knuckles (voice)",
+                "credit_id": "5e3ae8910c2710001a768bff",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Alan Wolf Arkin",
+            "\u827e\u4f26\u00b7\u963f\u91d1",
+            "\u0410\u043b\u0430\u043d \u0410\u0440\u043a\u0438\u043d",
+            "\uc54c\ub780 \uc544\ud0a8",
+            "\u05d0\u05dc\u05df \u05d5\u05d5\u05dc\u05e3 \u05d0\u05e8\u05e7\u05d9\u05df ",
+            "\u0622\u0644\u0646 \u0622\u0631\u06a9\u06cc\u0646"
+        ],
+        "biography": "Alan Wolf Arkin was an American actor, director, musician and singer. He was known for starring in such films as Wait Until Dark, The Russians Are Coming, the Russians Are Coming, Minions: The Rise of Gru, The Heart Is a Lonely Hunter, Catch-22, The In-Laws, Edward Scissorhands, Glengarry Glen Ross, Marley & Me, Argo and Little Miss Sunshine, for which he won an Academy Award for Best Supporting Actor in 2006. He was the father of actors Adam Arkin, Anthony Arkin, and Matthew Arkin.",
+        "birthday": "1934-03-26",
+        "deathday": "2023-06-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 1903,
+        "imdb_id": "nm0000273",
+        "known_for_department": "Acting",
+        "name": "Alan Arkin",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 1.1832,
+        "profile_path": "/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
+    }
+}

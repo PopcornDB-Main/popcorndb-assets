@@ -1,0 +1,49 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+                "genre_ids": [
+                    99,
+                    36,
+                    18
+                ],
+                "id": 549559,
+                "original_language": "en",
+                "original_title": "Apollo 11",
+                "overview": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilot Buzz Aldrin.",
+                "popularity": 2.851,
+                "poster_path": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+                "release_date": "2019-03-01",
+                "title": "Apollo 11",
+                "video": false,
+                "vote_average": 7.87,
+                "vote_count": 667,
+                "character": "Self - Flight Director White Team",
+                "credit_id": "62e993be303c85005d23b555",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Eugene Kranz",
+            "Eugene Francis Kranz"
+        ],
+        "biography": "",
+        "birthday": "1933-08-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 116302,
+        "imdb_id": "nm0469824",
+        "known_for_department": "Acting",
+        "name": "Gene Kranz",
+        "place_of_birth": "Toledo, Ohio, USA",
+        "popularity": 0.075,
+        "profile_path": "/egyLXQHEFZpFBv3xrxTkQvMLjKg.jpg"
+    }
+}

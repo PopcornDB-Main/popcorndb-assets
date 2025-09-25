@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8661,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 1118,
+                "character": "Hopper's Butler (uncredited)",
+                "credit_id": "555f232f9251417e51002811",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 13528,
+                "original_language": "en",
+                "original_title": "Gaslight",
+                "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+                "popularity": 3.4134,
+                "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+                "release_date": "1944-05-04",
+                "title": "Gaslight",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 515,
+                "character": "Pedestrian (uncredited)",
+                "credit_id": "5655f49cc3a3681984004bbb",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "George F. Benge",
+            "Wilson Binge"
+        ],
+        "biography": "",
+        "birthday": "1875-02-28",
+        "deathday": "1955-07-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 939842,
+        "imdb_id": "nm0071031",
+        "known_for_department": "Acting",
+        "name": "Wilson Benge",
+        "place_of_birth": "Greenwich, London, England, UK",
+        "popularity": 0.0777,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    14,
+                    18
+                ],
+                "id": 20312,
+                "original_language": "en",
+                "original_title": "Interstate 60",
+                "overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
+                "popularity": 4.6208,
+                "poster_path": "/zZQt29qBWLoVVOo8HEFzFYRAgYQ.jpg",
+                "release_date": "2002-04-13",
+                "title": "Interstate 60",
+                "video": false,
+                "vote_average": 7.392,
+                "vote_count": 730,
+                "character": "Jack Gas Attendant",
+                "credit_id": "610ee28aee43e80027d5f386",
+                "order": 22
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36657,
+                "original_language": "en",
+                "original_title": "X-Men",
+                "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+                "popularity": 0.5328,
+                "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+                "release_date": "2000-07-13",
+                "title": "X-Men",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 11762,
+                "credit_id": "66ae96f759bab78db70b6ac9",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Hoy 'Oyster' Chow ",
+            "Ho 'Oyster' Chow",
+            "Ho Oyster Chow",
+            "\u5468\u8c6a"
+        ],
+        "biography": "Ho Chow is a Canadian actor born Hong Kong and based in Toronto. Ho Chow immigrated to Canada in 1965.",
+        "birthday": "1956-10-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 168771,
+        "imdb_id": "nm0159456",
+        "known_for_department": "Acting",
+        "name": "Ho Chow",
+        "place_of_birth": "Hong Kong",
+        "popularity": 0.1314,
+        "profile_path": "/zCBGFIrMtHeCa2UfdtRp5yL4l5v.jpg"
+    }
+}

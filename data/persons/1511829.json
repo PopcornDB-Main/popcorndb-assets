@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hokXWehieJ2mdiward3L0qnGI7r.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 4553,
+                "original_language": "en",
+                "original_title": "The Machinist",
+                "overview": "Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.",
+                "popularity": 4.0569,
+                "poster_path": "/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+                "release_date": "2004-09-24",
+                "title": "The Machinist",
+                "video": false,
+                "vote_average": 7.524,
+                "vote_count": 5834,
+                "character": "Man in Crowd",
+                "credit_id": "656c585a4a4bf600e9efb448",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1511829,
+        "imdb_id": "nm1725461",
+        "known_for_department": "Acting",
+        "name": "Ewan Watson",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

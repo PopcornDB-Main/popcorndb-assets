@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mE2TjYsnqdWxPt45kIElw3az4O9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9800,
+                "original_language": "en",
+                "original_title": "Philadelphia",
+                "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+                "popularity": 3.0521,
+                "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+                "release_date": "1993-12-22",
+                "title": "Philadelphia",
+                "video": false,
+                "vote_average": 7.718,
+                "vote_count": 4416,
+                "character": "Alan",
+                "credit_id": "55ea2a1f9251413e45007554",
+                "order": 40
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/d9eONXYtCmQnPWw61w9pNMGlSzK.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 1262,
+                "original_language": "en",
+                "original_title": "Stranger Than Fiction",
+                "overview": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+                "popularity": 4.4245,
+                "poster_path": "/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+                "release_date": "2006-09-09",
+                "title": "Stranger Than Fiction",
+                "video": false,
+                "vote_average": 7.282,
+                "vote_count": 2388,
+                "credit_id": "56993391925141253400497e",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c6TjV0i5NzUV4MF8N5wxBW7NcrW.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 9344,
+                "original_language": "en",
+                "original_title": "Kids",
+                "overview": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+                "popularity": 4.0478,
+                "poster_path": "/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+                "release_date": "1995-07-28",
+                "title": "Kids",
+                "video": false,
+                "vote_average": 6.899,
+                "vote_count": 1206,
+                "credit_id": "5e18ecc666751d001288739e",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 20569,
+        "imdb_id": "nm0923820",
+        "known_for_department": "Art",
+        "name": "Ford Wheeler",
+        "place_of_birth": null,
+        "popularity": 0.0706,
+        "profile_path": null
+    }
+}

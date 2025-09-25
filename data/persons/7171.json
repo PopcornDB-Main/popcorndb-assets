@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.6755,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 4373,
+                "character": "'Joliet' Jake Blues",
+                "credit_id": "52fe424dc3a36847f8013ae7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2fmLLKSEzdfk41Iz76ewoKhyWgb.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 8469,
+                "original_language": "en",
+                "original_title": "Animal House",
+                "overview": "At a 1962 College, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+                "popularity": 3.4229,
+                "poster_path": "/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
+                "release_date": "1978-07-28",
+                "title": "Animal House",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1593,
+                "character": "John 'Bluto' Blutarski",
+                "credit_id": "52fe44acc3a36847f80a38cf",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "America's Guest",
+            "John Adam Belushi",
+            "\u062c\u0627\u0646 \u0628\u0644\u0648\u0634\u06cc"
+        ],
+        "biography": "John Adam Belushi (January 24, 1949 \u2013 March 5, 1982) was an American comedian, actor, and musician best known as one of the original cast members of the NBC sketch comedy show Saturday Night Live and for his roles in the films National Lampoon's Animal House and The Blues Brothers. He was the older brother of Jim Belushi.",
+        "birthday": "1949-01-24",
+        "deathday": "1982-03-05",
+        "gender": 2,
+        "homepage": null,
+        "id": 7171,
+        "imdb_id": "nm0000004",
+        "known_for_department": "Acting",
+        "name": "John Belushi",
+        "place_of_birth": "Chicago, Illinois, USA",
+        "popularity": 0.9507,
+        "profile_path": "/sgemxJjlaULrIQArfRb92mSd3rZ.jpg"
+    }
+}

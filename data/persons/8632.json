@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 599,
+                "original_language": "en",
+                "original_title": "Sunset Boulevard",
+                "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+                "popularity": 5.7842,
+                "poster_path": "/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+                "release_date": "1950-08-10",
+                "title": "Sunset Boulevard",
+                "video": false,
+                "vote_average": 8.293,
+                "vote_count": 2743,
+                "character": "Sheldrake",
+                "credit_id": "52fe425ac3a36847f8017c31",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cap8458wFeRCJSKxL758dI82TRK.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 15794,
+                "original_language": "en",
+                "original_title": "White Heat",
+                "overview": "A psychopathic criminal with a mother complex makes a daring break from prison and then leads his old gang in a chemical plant payroll heist. After the heist, events take a crazy turn.",
+                "popularity": 5.1305,
+                "poster_path": "/v7cPOHKKZI9qChi7HDUxNIhEcLR.jpg",
+                "release_date": "1949-09-02",
+                "title": "White Heat",
+                "video": false,
+                "vote_average": 7.656,
+                "vote_count": 506,
+                "character": "Daniel Winston",
+                "credit_id": "52fe467d9251416c75079faf",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Frederick Leonard Clark",
+            "Frederic Leonard Clark"
+        ],
+        "biography": "Fred Clark was an American stage, screen, radio, and television actor known for his versatile performances across film, television, and stage. He had a prolific career spanning from the 1940s to the 1960s. Clark often portrayed authoritative or comedic characters, excelling in both dramatic and comedic roles. His notable film appearances include \"Sunset Boulevard,\" \"The Solid Gold Cadillac,\" and \"How to Marry a Millionaire.\" On television, he was recognized for his role as Harry Morton on \"The George Burns and Gracie Allen Show.\" Clark's career showcased his ability to skillfully navigate between various genres, leaving a lasting impact on the entertainment industry.",
+        "birthday": "1914-03-19",
+        "deathday": "1968-12-05",
+        "gender": 2,
+        "homepage": null,
+        "id": 8632,
+        "imdb_id": "nm0163939",
+        "known_for_department": "Acting",
+        "name": "Fred Clark",
+        "place_of_birth": "Lincoln, California, USA",
+        "popularity": 0.2454,
+        "profile_path": "/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 1585,
+                "original_language": "en",
+                "original_title": "It's a Wonderful Life",
+                "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+                "popularity": 6.3809,
+                "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+                "release_date": "1946-12-20",
+                "title": "It's a Wonderful Life",
+                "video": false,
+                "vote_average": 8.272,
+                "vote_count": 4589,
+                "character": "The Bailey Child - Pete",
+                "credit_id": "52fe4301c3a36847f80335f5",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8661,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 1117,
+                "character": "Hopper Boy",
+                "credit_id": "52fe4384c3a36847f805a057",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Baby Dumpling",
+            "Larry Lee Simms"
+        ],
+        "biography": "",
+        "birthday": "1934-10-01",
+        "deathday": "2009-06-17",
+        "gender": 2,
+        "homepage": null,
+        "id": 30223,
+        "imdb_id": "nm0799982",
+        "known_for_department": "Acting",
+        "name": "Larry Simms",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.2303,
+        "profile_path": "/q5z02wJLuECyXnYDdxWmIe6IVvp.jpg"
+    }
+}

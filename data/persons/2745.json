@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
+                "genre_ids": [
+                    53,
+                    12
+                ],
+                "id": 213,
+                "original_language": "en",
+                "original_title": "North by Northwest",
+                "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+                "popularity": 3.6101,
+                "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+                "release_date": "1959-08-06",
+                "title": "North by Northwest",
+                "video": false,
+                "vote_average": 7.982,
+                "vote_count": 4292,
+                "character": "Maggie - Thornhill's Secretary (uncredited)",
+                "credit_id": "52fe4227c3a36847f800824d",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/il5zDHC5sGe3ZHLhVi3tNFZ9Tt5.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 571,
+                "original_language": "en",
+                "original_title": "The Birds",
+                "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+                "popularity": 4.7105,
+                "poster_path": "/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+                "release_date": "1963-03-28",
+                "title": "The Birds",
+                "video": false,
+                "vote_average": 7.52,
+                "vote_count": 4269,
+                "character": "Hysterical Mother in Diner",
+                "credit_id": "52fe4254c3a36847f8015ac1",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e0tZ5Kjg5mukFGcxEddCZymAxH4.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 22527,
+                "original_language": "en",
+                "original_title": "The Wrong Man",
+                "overview": "In 1953, an innocent man named Christopher Emmanuel \"Manny\" Balestrero is arrested after being mistaken for an armed robber.",
+                "popularity": 2.3417,
+                "poster_path": "/pO5XR2R56RAbVjdks9gGGn0fbOa.jpg",
+                "release_date": "1956-12-22",
+                "title": "The Wrong Man",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 583,
+                "character": "Ann James",
+                "credit_id": "52fe4444c3a368484e0196b3",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1915-02-15",
+        "deathday": "1999-04-21",
+        "gender": 1,
+        "homepage": null,
+        "id": 2745,
+        "imdb_id": "nm0485729",
+        "known_for_department": "Acting",
+        "name": "Doreen Lang",
+        "place_of_birth": "Gisborne, New Zealand",
+        "popularity": 0.2556,
+        "profile_path": "/cpbhdsv1A1oeDGbtWaYHs77tIFm.jpg"
+    }
+}

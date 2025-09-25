@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5CpXLhwcjnupeC5Ll3hMoCMJf1l.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27,
+                    35
+                ],
+                "id": 505706,
+                "original_language": "de",
+                "original_title": "Der Goldene Handschuh",
+                "overview": "A serial killer strikes fear in the hearts of residents of Hamburg during the early 1970s.",
+                "popularity": 2.7721,
+                "poster_path": "/tu4PfotoM2Fti033O9gwHt7XpJw.jpg",
+                "release_date": "2019-02-21",
+                "title": "The Golden Glove",
+                "video": false,
+                "vote_average": 6.931,
+                "vote_count": 603,
+                "character": "Anna",
+                "credit_id": "5c5f5b78c3a3683cc68eb940",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1821789,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Barbara Krabbe",
+        "place_of_birth": "Hamburg",
+        "popularity": 0.0416,
+        "profile_path": "/32ss11DaEkg6JV6TiF3sOyxbq7Q.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1628,
+                "original_language": "fr",
+                "original_title": "Jules et Jim",
+                "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+                "popularity": 2.8495,
+                "poster_path": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+                "release_date": "1962-01-23",
+                "title": "Jules and Jim",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 1013,
+                "character": "Jules",
+                "credit_id": "52fe4306c3a36847f8034a97",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 1714,
+                "original_language": "en",
+                "original_title": "Fahrenheit 451",
+                "overview": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as \u201cfiremen,\u201d to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation\u2026",
+                "popularity": 2.3756,
+                "poster_path": "/k2CTpexoS9MO9lKVFfnzwVdJuM.jpg",
+                "release_date": "1966-09-07",
+                "title": "Fahrenheit 451",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 1018,
+                "character": "Guy Montag",
+                "credit_id": "5edc447ab42242002291dec7",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Oscar Werner",
+            "Oskar Josef Bschliessmayer"
+        ],
+        "biography": "Oskar Werner (1922\u20131984) was an Austrian actor.",
+        "birthday": "1922-11-13",
+        "deathday": "1984-10-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 18216,
+        "imdb_id": "nm0921459",
+        "known_for_department": "Acting",
+        "name": "Oskar Werner",
+        "place_of_birth": "Vienna, Austria",
+        "popularity": 0.3538,
+        "profile_path": "/lioi0MRwO5ltEGIxzG19BLrcuPl.jpg"
+    }
+}

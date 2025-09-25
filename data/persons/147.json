@@ -1,0 +1,321 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 24,
+                "original_language": "en",
+                "original_title": "Kill Bill: Vol. 1",
+                "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+                "popularity": 10.6943,
+                "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+                "release_date": "2003-10-10",
+                "title": "Kill Bill: Vol. 1",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 18135,
+                "character": "Budd",
+                "credit_id": "52fe4210c3a36847f8001059",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+                "genre_ids": [
+                    80,
+                    28
+                ],
+                "id": 187,
+                "original_language": "en",
+                "original_title": "Sin City",
+                "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark\u2026 Hard-boiled. Then there are those who call it home \u2014 Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+                "popularity": 8.5603,
+                "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+                "release_date": "2005-04-01",
+                "title": "Sin City",
+                "video": false,
+                "vote_average": 7.465,
+                "vote_count": 8443,
+                "character": "Bob",
+                "credit_id": "52fe4224c3a36847f80073ef",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    18
+                ],
+                "id": 860,
+                "original_language": "en",
+                "original_title": "WarGames",
+                "overview": "High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.",
+                "popularity": 4.8652,
+                "poster_path": "/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg",
+                "release_date": "1983-06-03",
+                "title": "WarGames",
+                "video": false,
+                "vote_average": 7.073,
+                "vote_count": 2005,
+                "character": "Steve",
+                "credit_id": "52fe4283c3a36847f8024daf",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 393,
+                "original_language": "en",
+                "original_title": "Kill Bill: Vol. 2",
+                "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do \u2026 but kill Bill.",
+                "popularity": 9.333,
+                "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+                "release_date": "2004-04-16",
+                "title": "Kill Bill: Vol. 2",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 14449,
+                "character": "Budd 'Sidewinder'",
+                "credit_id": "52fe423ec3a36847f800efbd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eohMDv8x1XRSkPdjWv5xsFct4Dj.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 500,
+                "original_language": "en",
+                "original_title": "Reservoir Dogs",
+                "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+                "popularity": 10.7688,
+                "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+                "release_date": "1992-09-02",
+                "title": "Reservoir Dogs",
+                "video": false,
+                "vote_average": 8.118,
+                "vote_count": 14838,
+                "character": "Mr. Blonde / Vic Vega",
+                "credit_id": "52fe424ac3a36847f8012cc1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80,
+                    12
+                ],
+                "id": 1541,
+                "original_language": "en",
+                "original_title": "Thelma & Louise",
+                "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+                "popularity": 5.437,
+                "poster_path": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+                "release_date": "1991-05-24",
+                "title": "Thelma & Louise",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 3655,
+                "character": "Jimmy",
+                "credit_id": "52fe42fbc3a36847f8031a71",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sqZGYcHJWWNHsECBl57FOCfjpFX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11393,
+                "original_language": "en",
+                "original_title": "The Natural",
+                "overview": "An unknown middle-aged batter named Roy Hobbs with a mysterious past appears out of nowhere to take a losing 1930s baseball team to the top of the league.",
+                "popularity": 7.9889,
+                "poster_path": "/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+                "release_date": "1984-05-11",
+                "title": "The Natural",
+                "video": false,
+                "vote_average": 6.909,
+                "vote_count": 618,
+                "character": "Bump Bailey",
+                "credit_id": "52fe44379251416c7502cdef",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6a6AK1pANcl64BYeDA58HKqgzji.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9366,
+                "original_language": "en",
+                "original_title": "Donnie Brasco",
+                "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
+                "popularity": 4.1082,
+                "poster_path": "/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+                "release_date": "1997-02-27",
+                "title": "Donnie Brasco",
+                "video": false,
+                "vote_average": 7.536,
+                "vote_count": 4638,
+                "character": "Dominick 'Sonny Black' Napolitano",
+                "credit_id": "52fe44eec3a36847f80b2761",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 411,
+                "original_language": "en",
+                "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+                "popularity": 26.0316,
+                "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+                "release_date": "2005-12-07",
+                "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "video": false,
+                "vote_average": 7.133,
+                "vote_count": 11072,
+                "character": "Maugrim (voice)",
+                "credit_id": "61ed3dd9c669ad0058f48243",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    37
+                ],
+                "id": 273248,
+                "original_language": "en",
+                "original_title": "The Hateful Eight",
+                "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+                "popularity": 8.3615,
+                "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+                "release_date": "2015-12-25",
+                "title": "The Hateful Eight",
+                "video": false,
+                "vote_average": 7.755,
+                "vote_count": 14709,
+                "character": "Joe Gage",
+                "credit_id": "559d5fa0925141251b000129",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.8617,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "Tom Baker",
+                "credit_id": "55a5ce6fc3a3682bba000743",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/itcAHIwxKvSkFEVUsqSpOEIRwZy.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 414419,
+                "original_language": "en",
+                "original_title": "Kill Bill: The Whole Bloody Affair",
+                "overview": "An assassin is shot and almost killed by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+                "popularity": 2.7195,
+                "poster_path": "/nxbv9TPXrIpRKB5xQh6atWXAkPM.jpg",
+                "release_date": "2006-03-27",
+                "title": "Kill Bill: The Whole Bloody Affair",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 1078,
+                "character": "Budd (Sidewinder)",
+                "credit_id": "57ddd15bc3a3682dd2000ae5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 466272,
+                "original_language": "en",
+                "original_title": "Once Upon a Time... in Hollywood",
+                "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+                "popularity": 15.2012,
+                "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+                "release_date": "2019-07-24",
+                "title": "Once Upon a Time... in Hollywood",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 14151,
+                "character": "'Bounty Law' - Sheriff Hackett",
+                "credit_id": "5af204ee0e0a26688e0023a0",
+                "order": 51
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Maykl Medsen ",
+            "Michael S\u00f8ren Madsen"
+        ],
+        "biography": "Michael Madsen (September 25, 1957 \u2013 July 3, 2025) was an American actor, poet, and photographer. He starred in central roles in such films as Reservoir Dogs, Free Willy, Donnie Brasco, and Kill Bill, in addition to a supporting role in Sin City. Madsen is also credited with voice work in several video games, including Grand Theft Auto III, True Crime: Streets of L.A. and DRIV3R.",
+        "birthday": "1957-09-25",
+        "deathday": "2025-07-03",
+        "gender": 2,
+        "homepage": "https://www.michaelmadsen.com/",
+        "id": 147,
+        "imdb_id": "nm0000514",
+        "known_for_department": "Acting",
+        "name": "Michael Madsen",
+        "place_of_birth": "Chicago, Illinois, USA",
+        "popularity": 1.924,
+        "profile_path": "/69cqjkTNKI1muAfnvorfmWNVgIe.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/npFK2ywM4Bs96768eLeNLBmKktb.jpg",
+                "genre_ids": [
+                    14,
+                    53,
+                    9648,
+                    27
+                ],
+                "id": 2668,
+                "original_language": "en",
+                "original_title": "Sleepy Hollow",
+                "overview": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people \u2013 murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+                "popularity": 8.721,
+                "poster_path": "/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg",
+                "release_date": "1999-11-19",
+                "title": "Sleepy Hollow",
+                "video": false,
+                "vote_average": 7.188,
+                "vote_count": 7047,
+                "character": "Theodore",
+                "credit_id": "5c61bd0f9251412fc4fb2af5",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+                "genre_ids": [
+                    28,
+                    14
+                ],
+                "id": 547016,
+                "original_language": "en",
+                "original_title": "The Old Guard",
+                "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+                "popularity": 9.6389,
+                "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+                "release_date": "2020-07-09",
+                "title": "The Old Guard",
+                "video": false,
+                "vote_average": 7.123,
+                "vote_count": 4553,
+                "character": "Jean-Pierre",
+                "credit_id": "5f04240c5e12000037e053f5",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1973-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 83405,
+        "imdb_id": "nm0780539",
+        "known_for_department": "Acting",
+        "name": "Orlando Seale",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.1945,
+        "profile_path": "/wFWALeCRJyE4O7lu83FldzN8v3d.jpg"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11030,
+                "original_language": "en",
+                "original_title": "Zelig",
+                "overview": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+                "popularity": 3.1142,
+                "poster_path": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
+                "release_date": "1983-07-15",
+                "title": "Zelig",
+                "video": false,
+                "vote_average": 7.432,
+                "vote_count": 886,
+                "character": "Reporter (uncredited)",
+                "credit_id": "65c0025bb33903018797eeac",
+                "order": 65
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 620,
+                "original_language": "en",
+                "original_title": "Ghostbusters",
+                "overview": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+                "popularity": 7.2781,
+                "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+                "release_date": "1984-06-08",
+                "title": "Ghostbusters",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 9352,
+                "character": "Library Patron (uncredited)",
+                "credit_id": "5f45d416ec370c00305373d1",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6088,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "Featured Zombie",
+                "credit_id": "6015830ea9117f003de4dae5",
+                "order": 75
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1743088,
+        "imdb_id": "nm0370757",
+        "known_for_department": "Acting",
+        "name": "Jon Hayden",
+        "place_of_birth": "Atlanta, Georgia, USA",
+        "popularity": 0.0429,
+        "profile_path": "/aWIUfm5jz1Swd2ngmMm4DAlyPId.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sd37prLFqNbL9ES2OTUBiEAcwIH.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14359,
+                "original_language": "en",
+                "original_title": "Doubt",
+                "overview": "In 1964 Bronx, two Catholic school nuns question the new priest's ambiguous relationship with a troubled African-American student.",
+                "popularity": 2.1475,
+                "poster_path": "/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg",
+                "release_date": "2008-12-12",
+                "title": "Doubt",
+                "video": false,
+                "vote_average": 7.199,
+                "vote_count": 1798,
+                "character": "Sister Teresa",
+                "credit_id": "583fbd0a9251417f8000578e",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tEcojg2mgUe0WS7OLnbOP69h6w.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 11963,
+                "original_language": "en",
+                "original_title": "Three Days of the Condor",
+                "overview": "When bookish CIA researcher Joe Turner finds all his co-workers dead, he, together with a woman he has kidnapped, must work together to outwit those responsible until he determines who he can really trust.",
+                "popularity": 10.7434,
+                "poster_path": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+                "release_date": "1975-09-24",
+                "title": "Three Days of the Condor",
+                "video": false,
+                "vote_average": 7.282,
+                "vote_count": 1249,
+                "character": "Mrs. Edwina Russell (as Helen Stenbure)",
+                "credit_id": "59a5ba6dc3a368402500ff14",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Helen Stenbure",
+            "Helen Stenberg"
+        ],
+        "biography": "",
+        "birthday": "1925-01-24",
+        "deathday": "2011-03-22",
+        "gender": 1,
+        "homepage": null,
+        "id": 160261,
+        "imdb_id": "nm0826523",
+        "known_for_department": "Acting",
+        "name": "Helen Stenborg",
+        "place_of_birth": "Minneapolis, Minnesota, USA",
+        "popularity": 0.967,
+        "profile_path": "/xEmfBLdy9lwW005WN2zY5NGI0WI.jpg"
+    }
+}

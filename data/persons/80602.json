@@ -1,0 +1,392 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 13475,
+                "original_language": "en",
+                "original_title": "Star Trek",
+                "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "popularity": 9.6898,
+                "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+                "release_date": "2009-05-06",
+                "title": "Star Trek",
+                "video": false,
+                "vote_average": 7.426,
+                "vote_count": 10139,
+                "character": "Admiral Richard Barnett",
+                "credit_id": "52fe456d9251416c750561cd",
+                "order": 53
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1ufic9NSdolkgNkQSAVjlVp0uqn.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 210577,
+                "original_language": "en",
+                "original_title": "Gone Girl",
+                "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+                "popularity": 18.2364,
+                "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+                "release_date": "2014-10-01",
+                "title": "Gone Girl",
+                "video": false,
+                "vote_average": 7.89,
+                "vote_count": 19271,
+                "character": "Tanner Bolt",
+                "credit_id": "52fe4d7fc3a368484e1ec76b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7sgceUpkyQUT7HhlLYx164OPifF.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 340027,
+                "original_language": "en",
+                "original_title": "Brain on Fire",
+                "overview": "Susannah Cahalan, an up-and-coming journalist at the New York Post becomes plagued by voices in her head and seizures, causing a rapid descent into insanity.",
+                "popularity": 9.7525,
+                "poster_path": "/kEwI53HNDO0ajSUWh4HSsGrlF6l.jpg",
+                "release_date": "2017-02-22",
+                "title": "Brain on Fire",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1395,
+                "character": "Richard",
+                "credit_id": "55bbd893c3a36869590006e5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 429197,
+                "original_language": "en",
+                "original_title": "Vice",
+                "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive r\u00e9sum\u00e9 includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+                "popularity": 4.8304,
+                "poster_path": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+                "release_date": "2018-12-25",
+                "title": "Vice",
+                "video": false,
+                "vote_average": 7.016,
+                "vote_count": 3453,
+                "character": "Colin Powell",
+                "credit_id": "5a1918c49251410333025728",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t1AHkwkmNK18mNJTfu3reeIc2fZ.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 651070,
+                "original_language": "en",
+                "original_title": "A Fall from Grace",
+                "overview": "When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.",
+                "popularity": 5.0428,
+                "poster_path": "/h47JJZ015VF4neia33AFwTU37Yb.jpg",
+                "release_date": "2020-01-17",
+                "title": "A Fall from Grace",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 953,
+                "character": "Rory",
+                "credit_id": "5e2255e21bf2660016f7066c",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 646380,
+                "original_language": "en",
+                "original_title": "Don't Look Up",
+                "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+                "popularity": 6.1992,
+                "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+                "release_date": "2021-12-08",
+                "title": "Don't Look Up",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 8778,
+                "character": "Jack Bremmer",
+                "credit_id": "5fb8b8d72afb25003dfe0313",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 675445,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Movie",
+                "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+                "popularity": 6.1488,
+                "poster_path": "/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg",
+                "release_date": "2021-08-09",
+                "title": "PAW Patrol: The Movie",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1240,
+                "character": "Gus (voice)",
+                "credit_id": "607046c2befd91002990a6c7",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    36
+                ],
+                "id": 1061699,
+                "original_language": "en",
+                "original_title": "The Six Triple Eight",
+                "overview": "During World War II, the US Army's only all-Black, all-women battalion takes on an impossible mission: sorting through a three-year backlog of 17 million pieces of mail that hadn't been delivered to American soldiers and finish within six months.",
+                "popularity": 3.9893,
+                "poster_path": "/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+                "release_date": "2024-12-06",
+                "title": "The Six Triple Eight",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 564,
+                "credit_id": "639b5320f9a3fb00ca359637",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    36
+                ],
+                "id": 1061699,
+                "original_language": "en",
+                "original_title": "The Six Triple Eight",
+                "overview": "During World War II, the US Army's only all-Black, all-women battalion takes on an impossible mission: sorting through a three-year backlog of 17 million pieces of mail that hadn't been delivered to American soldiers and finish within six months.",
+                "popularity": 3.9893,
+                "poster_path": "/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+                "release_date": "2024-12-06",
+                "title": "The Six Triple Eight",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 564,
+                "credit_id": "639b4f91ecc7e8007d8a6f61",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    36
+                ],
+                "id": 1061699,
+                "original_language": "en",
+                "original_title": "The Six Triple Eight",
+                "overview": "During World War II, the US Army's only all-Black, all-women battalion takes on an impossible mission: sorting through a three-year backlog of 17 million pieces of mail that hadn't been delivered to American soldiers and finish within six months.",
+                "popularity": 3.9893,
+                "poster_path": "/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+                "release_date": "2024-12-06",
+                "title": "The Six Triple Eight",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 564,
+                "credit_id": "639b4fe78ddc3400b0c8a079",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t1AHkwkmNK18mNJTfu3reeIc2fZ.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 651070,
+                "original_language": "en",
+                "original_title": "A Fall from Grace",
+                "overview": "When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.",
+                "popularity": 5.0428,
+                "poster_path": "/h47JJZ015VF4neia33AFwTU37Yb.jpg",
+                "release_date": "2020-01-17",
+                "title": "A Fall from Grace",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 953,
+                "credit_id": "5e0f698f5907de0012d8374f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t1AHkwkmNK18mNJTfu3reeIc2fZ.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 651070,
+                "original_language": "en",
+                "original_title": "A Fall from Grace",
+                "overview": "When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.",
+                "popularity": 5.0428,
+                "poster_path": "/h47JJZ015VF4neia33AFwTU37Yb.jpg",
+                "release_date": "2020-01-17",
+                "title": "A Fall from Grace",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 953,
+                "credit_id": "5e2224ea8f26bc001574891d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t1AHkwkmNK18mNJTfu3reeIc2fZ.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 651070,
+                "original_language": "en",
+                "original_title": "A Fall from Grace",
+                "overview": "When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.",
+                "popularity": 5.0428,
+                "poster_path": "/h47JJZ015VF4neia33AFwTU37Yb.jpg",
+                "release_date": "2020-01-17",
+                "title": "A Fall from Grace",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 953,
+                "credit_id": "5e2355efcf4b8b0012f45cec",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    80
+                ],
+                "id": 1426776,
+                "original_language": "en",
+                "original_title": "STRAW",
+                "overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point \u2014 and into a shocking act of desperation.",
+                "popularity": 19.6708,
+                "poster_path": "/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+                "release_date": "2025-06-05",
+                "title": "STRAW",
+                "video": false,
+                "vote_average": 7.861,
+                "vote_count": 822,
+                "credit_id": "679df0a6a57909701acb3c4c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    80
+                ],
+                "id": 1426776,
+                "original_language": "en",
+                "original_title": "STRAW",
+                "overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point \u2014 and into a shocking act of desperation.",
+                "popularity": 19.6708,
+                "poster_path": "/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+                "release_date": "2025-06-05",
+                "title": "STRAW",
+                "video": false,
+                "vote_average": 7.861,
+                "vote_count": 822,
+                "credit_id": "679df0aea57909701acb3c50",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    80
+                ],
+                "id": 1426776,
+                "original_language": "en",
+                "original_title": "STRAW",
+                "overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point \u2014 and into a shocking act of desperation.",
+                "popularity": 19.6708,
+                "poster_path": "/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
+                "release_date": "2025-06-05",
+                "title": "STRAW",
+                "video": false,
+                "vote_average": 7.861,
+                "vote_count": 822,
+                "credit_id": "682d53a5bb2a3d77b7f56627",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud0c0\uc77c\ub7ec \ud398\ub9ac",
+            "\u062a\u0627\u06cc\u0644\u0631 \u067e\u0631\u06cc"
+        ],
+        "biography": "Tyler Perry (born Emmitt Perry, Jr.; September 13, 1969) is an African-American actor, director, playwright, screenwriter, producer, author, songwriter., and entrepreneur.\n\nAlready a successful artist in Southern theater, Perry began to make national celebrity status in 2005 with the release of his first film, Diary of a Mad Black Woman. He has won critical praise for playing Madea, a mentally strong woman who handles adversity with optimism and happiness; his critically acclaimed portrayal of her in the award-winning \"Madea\" series has caused him to be one of the most respected black actors in Hollywood.\n\nHe has produced multiple TV series as well as films, started a multiple year partnership with OWN (Oprah Winfrey Network), and opened his own film studio, Tyler Perry Studios, in Georgia.\n\nPerry was included in\u00a0Time's\u00a0list of the 100 most influential people\u00a0of 2020. In 2022, he was inducted into the\u00a0Black Music & Entertainment Walk of Fame.",
+        "birthday": "1969-09-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.tylerperry.com/",
+        "id": 80602,
+        "imdb_id": "nm1347153",
+        "known_for_department": "Acting",
+        "name": "Tyler Perry",
+        "place_of_birth": "New Orleans, Louisiana, USA",
+        "popularity": 1.1954,
+        "profile_path": "/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t9N0AYD6j2d3dSPDdeOhhLmz1nb.jpg",
+                "genre_ids": [
+                    14,
+                    35
+                ],
+                "id": 11687,
+                "original_language": "fr",
+                "original_title": "Les Visiteurs",
+                "overview": "After a wizard's spell goes awry, 12th-century Gallic knight Godefroy de Papincourt, Count of Montmirail finds himself transported to 1993, along with his dimwitted servant, Jacquouille la Fripouille. Startled and perplexed by modern technology, the duo run amok, destroying cars and causing chaos until they meet Beatrice de Montmirail, an aristocratic descendant of the nobleman, who may be able to help them get back to 1123.",
+                "popularity": 3.0936,
+                "poster_path": "/hPCq0buG5PaXgKjzT2ktjrjlpbj.jpg",
+                "release_date": "1993-01-27",
+                "title": "The Visitors",
+                "video": false,
+                "vote_average": 7.124,
+                "vote_count": 1990,
+                "character": "Ginette Sarcley",
+                "credit_id": "52fe44799251416c75036035",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3EJJClmGZwu7e6nsj1l0OBNdXfT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 33701,
+                "original_language": "fr",
+                "original_title": "Les Bronz\u00e9s font du ski",
+                "overview": "In this sequel to Les Bronzes (1978) summer has passed, but that doesn't mean the fun has to end for Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude, and Christiane.",
+                "popularity": 2.0673,
+                "poster_path": "/uTN0bp8yMUKesNTLXR1GnL2kLFs.jpg",
+                "release_date": "1979-11-22",
+                "title": "French Fried Vacation 2",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 1233,
+                "character": "Gis\u00e8le Andr\u00e9, aka 'Gigi'",
+                "credit_id": "52fe45319251416c9102a72d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1047,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "character": "Josette dite \u00ab Z\u00e9zette \u00bb, compagne de F\u00e9lix",
+                "credit_id": "52fe460b9251416c7506b3b7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qodtpClU5xHfaTjQBPnt37OGRBd.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 761,
+                "original_language": "fr",
+                "original_title": "L'Aile ou la Cuisse",
+                "overview": "Charles Duchemin, a well-known gourmet and publisher of a famous restaurant guide, is waging a war against fast food entrepreneur Tri- catel to save the French art of cooking. After having agreed to appear on a talk show to show his skills in naming food and wine by taste, he is confronted with two disasters: his son wants to become a clown rather than a restaurant tester and he, the famous Charles Duchemin, has lost his taste!",
+                "popularity": 2.7626,
+                "poster_path": "/ywkIu5l3iAgPZvLFEVBDYxLouH8.jpg",
+                "release_date": "1976-10-27",
+                "title": "The Wing or the Thigh?",
+                "video": false,
+                "vote_average": 7.205,
+                "vote_count": 926,
+                "character": "Circus Artist",
+                "credit_id": "5e8875e8d55c3d001a5168cd",
+                "order": 42
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3EJJClmGZwu7e6nsj1l0OBNdXfT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 33701,
+                "original_language": "fr",
+                "original_title": "Les Bronz\u00e9s font du ski",
+                "overview": "In this sequel to Les Bronzes (1978) summer has passed, but that doesn't mean the fun has to end for Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude, and Christiane.",
+                "popularity": 2.0673,
+                "poster_path": "/uTN0bp8yMUKesNTLXR1GnL2kLFs.jpg",
+                "release_date": "1979-11-22",
+                "title": "French Fried Vacation 2",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 1233,
+                "credit_id": "5300bf22c3a3683fcf31ec2d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1047,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "credit_id": "56698e91925141664f0014a8",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Marie-Anne France Jacqueline Chazel (born 19 September 1951) is a French actress, screenwriter and director, who has been active in both film and television since 1974.\n\nChazel was born to actress Louba Guertchikoff (birth name Louba Louise Pinon; 1919\u20131999) in Gap, Hautes-Alpes, France.\n\nFrom 1967, Chazel studied at Pasteur College, alongside Michel Blanc, Gerard Jugnot, Thierry Lhermitte and Christian Clavier. After the achievement of her baccalaureate and two years of studies of political sciences, she and her college comrades formed a theatrical troop in 1974 named Le Splendid, joined by Josiane Balasko.\n\nChazel achieved popularity as Gigi in Les Bronz\u00e9s (1978) directed by Patrice Leconte. She is best known for her role as Ginette in Les Visiteurs (1993).\n\nFrom 1976 to 2001, Chazel was married to actor Christian Clavier. They have one child, a daughter Margot Clavier (b. 1983).\n\nSource: Article \"Marie-Anne Chazel\" from Wikipedia in english, licensed under CC-BY-SA 3.0.",
+        "birthday": "1951-09-19",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 64913,
+        "imdb_id": "nm0154707",
+        "known_for_department": "Acting",
+        "name": "Marie-Anne Chazel",
+        "place_of_birth": "Gap, Hautes-Alpes, France",
+        "popularity": 0.2818,
+        "profile_path": "/iDfbfCk3uzlCaFypaIelkmIlhmi.jpg"
+    }
+}

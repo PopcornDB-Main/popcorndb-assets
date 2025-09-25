@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 640,
+                "original_language": "en",
+                "original_title": "Catch Me If You Can",
+                "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+                "popularity": 11.2084,
+                "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+                "release_date": "2002-12-16",
+                "title": "Catch Me If You Can",
+                "video": false,
+                "vote_average": 7.979,
+                "vote_count": 16345,
+                "character": "FBI Agent",
+                "credit_id": "596bf2369251413e9a0006e4",
+                "order": 69
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.5919,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5604,
+                "character": "Reporter",
+                "credit_id": "5bc37e220e0a266e5d04c03d",
+                "order": 81
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1961-10-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1852817,
+        "imdb_id": "nm0186976",
+        "known_for_department": "Acting",
+        "name": "Thomas Crawford",
+        "place_of_birth": "Tulsa, Oklahoma, USA",
+        "popularity": 0.1816,
+        "profile_path": "/evWOfbaQXyDsKELTVoqB29BsGdZ.jpg"
+    }
+}

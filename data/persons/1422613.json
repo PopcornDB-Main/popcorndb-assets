@@ -1,0 +1,111 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 103,
+                "original_language": "en",
+                "original_title": "Taxi Driver",
+                "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+                "popularity": 11.9039,
+                "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+                "release_date": "1976-02-09",
+                "title": "Taxi Driver",
+                "video": false,
+                "vote_average": 8.135,
+                "vote_count": 12865,
+                "character": "The John",
+                "credit_id": "633d33635ab81a0081c2ca49",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 8.4623,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.923,
+                "vote_count": 4523,
+                "character": "Jackie Curtie",
+                "credit_id": "63c2bb5f05a53300c110fcfa",
+                "order": 58
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 8.4623,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.923,
+                "vote_count": 4523,
+                "credit_id": "576185729251415c1c0000e2",
+                "department": "Crew",
+                "job": "Additional Writing"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 8.4623,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.923,
+                "vote_count": 4523,
+                "credit_id": "576186169251415c270000d8",
+                "department": "Production",
+                "job": "Associate Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": true,
+        "also_known_as": [
+            "Armand Peters"
+        ],
+        "biography": "Peter Savage was born on September 9, 1920 in Calabria, Italy. He was an actor and writer, known for Raging Bull (1980), Cauliflower Cupids (1970) and The Runaways (1965). He was married to Eleanor Smyrski. He died on December 29, 1981 in St. Maarten, Netherlands Antilles.",
+        "birthday": "1920-09-09",
+        "deathday": "1981-12-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 1422613,
+        "imdb_id": "nm0678014",
+        "known_for_department": "Acting",
+        "name": "Peter Savage",
+        "place_of_birth": "Calabria, Italy",
+        "popularity": 1.4,
+        "profile_path": "/eoHZFf7H6mMij561FWYUQoCFNMf.jpg"
+    }
+}

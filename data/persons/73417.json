@@ -1,0 +1,202 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fMlAg1CyHTsCktwQrp74rl9RMwJ.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 138843,
+                "original_language": "en",
+                "original_title": "The Conjuring",
+                "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+                "popularity": 80.6378,
+                "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+                "release_date": "2013-07-18",
+                "title": "The Conjuring",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 12172,
+                "character": "Bathsheba",
+                "credit_id": "5585413dc3a36850340029e6",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 49018,
+                "original_language": "en",
+                "original_title": "Insidious",
+                "overview": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+                "popularity": 10.5854,
+                "poster_path": "/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
+                "release_date": "2011-03-31",
+                "title": "Insidious",
+                "video": false,
+                "vote_average": 6.943,
+                "vote_count": 7048,
+                "character": "Lipstick-Face Demon",
+                "credit_id": "55853f9692514173ef00282f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rOwEWgbryAxp7D1xpzREqh3EOTX.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 259693,
+                "original_language": "en",
+                "original_title": "The Conjuring 2",
+                "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+                "popularity": 46.5233,
+                "poster_path": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+                "release_date": "2016-06-08",
+                "title": "The Conjuring 2",
+                "video": false,
+                "vote_average": 7.295,
+                "vote_count": 8818,
+                "character": "Demon",
+                "credit_id": "5967086f9251410bfa141504",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 49018,
+                "original_language": "en",
+                "original_title": "Insidious",
+                "overview": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+                "popularity": 10.5854,
+                "poster_path": "/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
+                "release_date": "2011-03-31",
+                "title": "Insidious",
+                "video": false,
+                "vote_average": 6.943,
+                "vote_count": 7048,
+                "credit_id": "52fe4780c3a36847f8139551",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fMlAg1CyHTsCktwQrp74rl9RMwJ.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 138843,
+                "original_language": "en",
+                "original_title": "The Conjuring",
+                "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+                "popularity": 80.6378,
+                "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+                "release_date": "2013-07-18",
+                "title": "The Conjuring",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 12172,
+                "credit_id": "566432b69251412ad90084a6",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rOwEWgbryAxp7D1xpzREqh3EOTX.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 259693,
+                "original_language": "en",
+                "original_title": "The Conjuring 2",
+                "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+                "popularity": 46.5233,
+                "poster_path": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+                "release_date": "2016-06-08",
+                "title": "The Conjuring 2",
+                "video": false,
+                "vote_average": 7.295,
+                "vote_count": 8818,
+                "credit_id": "6665b1c6cc7074d9b61c0d58",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    53
+                ],
+                "id": 423108,
+                "original_language": "en",
+                "original_title": "The Conjuring: The Devil Made Me Do It",
+                "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+                "popularity": 55.3483,
+                "poster_path": "/rQfX2xx8TUoNvyk892yKWNikJaM.jpg",
+                "release_date": "2021-05-25",
+                "title": "The Conjuring: The Devil Made Me Do It",
+                "video": false,
+                "vote_average": 7.394,
+                "vote_count": 6222,
+                "credit_id": "6665b25dcfd36b632b531d50",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qkOw5IZXESOiRH4wzdIYJlBZiCp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297802,
+                "original_language": "en",
+                "original_title": "Aquaman",
+                "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+                "popularity": 10.5768,
+                "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+                "release_date": "2018-12-07",
+                "title": "Aquaman",
+                "video": false,
+                "vote_average": 6.874,
+                "vote_count": 14478,
+                "credit_id": "5c12c5e792514132bd09426b",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joe Bishara"
+        ],
+        "biography": "Joseph Bishara (born July 26, 1970) is an American composer, music producer, and actor. He is best known for his work scoring horror films such as Insidious (2010), Dark Skies (2013), The Conjuring (2013) and Malignant (2021).",
+        "birthday": "1970-07-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://jbishara.com/",
+        "id": 73417,
+        "imdb_id": "nm1177766",
+        "known_for_department": "Sound",
+        "name": "Joseph Bishara",
+        "place_of_birth": "New Brunswick, New Jersey, USA",
+        "popularity": 2.4805,
+        "profile_path": "/jkFmkZcd16cEX2yGFNNAsNJyN5U.jpg"
+    }
+}

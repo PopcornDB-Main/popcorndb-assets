@@ -1,0 +1,165 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    10749
+                ],
+                "id": 10340,
+                "original_language": "en",
+                "original_title": "Lady and the Tramp",
+                "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
+                "popularity": 5.8597,
+                "poster_path": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+                "release_date": "1955-06-22",
+                "title": "Lady and the Tramp",
+                "video": false,
+                "vote_average": 7.122,
+                "vote_count": 5458,
+                "character": "Aunt Sarah (voice)",
+                "credit_id": "52fe435d9251416c7500d79d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 5.2054,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.943,
+                "vote_count": 5316,
+                "character": "Flora / Queen Leah (voice)",
+                "credit_id": "52fe43c99251416c7501e213",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    16,
+                    10749
+                ],
+                "id": 11224,
+                "original_language": "en",
+                "original_title": "Cinderella",
+                "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+                "popularity": 10.0219,
+                "poster_path": "/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+                "release_date": "1950-02-22",
+                "title": "Cinderella",
+                "video": false,
+                "vote_average": 7.046,
+                "vote_count": 6926,
+                "character": "Fairy Godmother (voice)",
+                "credit_id": "52fe44149251416c75028307",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 11360,
+                "original_language": "en",
+                "original_title": "Dumbo",
+                "overview": "Dumbo is a baby elephant born with over-sized ears and a supreme lack of confidence. But thanks to his even more diminutive buddy Timothy the Mouse,  the pint-sized pachyderm learns to surmount all obstacles.",
+                "popularity": 5.9929,
+                "poster_path": "/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
+                "release_date": "1941-10-31",
+                "title": "Dumbo",
+                "video": false,
+                "vote_average": 6.99,
+                "vote_count": 5130,
+                "character": "Elephant Matriarch / Mrs. Jumbo (voice) (uncredited)",
+                "credit_id": "52fe44309251416c7502be79",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 12092,
+                "original_language": "en",
+                "original_title": "Alice in Wonderland",
+                "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+                "popularity": 7.9458,
+                "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+                "release_date": "1951-07-28",
+                "title": "Alice in Wonderland",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 6057,
+                "character": "Queen of Hearts (voice)",
+                "credit_id": "52fe44b29251416c7503de09",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zj8XS0l1cWStpKnuD1LFMB3VoV1.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12
+                ],
+                "id": 9325,
+                "original_language": "en",
+                "original_title": "The Jungle Book",
+                "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+                "popularity": 7.8611,
+                "poster_path": "/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
+                "release_date": "1967-10-18",
+                "title": "The Jungle Book",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 6452,
+                "character": "Winifred (voice)",
+                "credit_id": "52fe44e8c3a36847f80b10c7",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Verna Arline Felton"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nVerna Felton (July 20, 1890 \u2013 December 14, 1966) was an American character actress who was best-known for providing many female voices in numerous Disney animated films, as well as voicing Fred Flintstone's mother-in-law Pearl Slaghoople for Hanna-Barbera. Her film appearances during the 1940s included If I Had My Way (1940), Girls of the Big House (1945) and The Fuller Brush Man (1948). She was much in demand as a movie character actress during the early 1950s, including Buccaneer's Girl (1950) Belles on Their Toes (1952) Don't Bother to Knock (1952) and her memorable supporting role of Mrs. Potts in the film of William Inge's Picnic (1956). She was also known for her distinctive husky voice and no-nonsense attitude.\n\nDescription above from the Wikipedia article Verna Felton, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1890-07-20",
+        "deathday": "1966-12-14",
+        "gender": 1,
+        "homepage": null,
+        "id": 67290,
+        "imdb_id": "nm0271658",
+        "known_for_department": "Acting",
+        "name": "Verna Felton",
+        "place_of_birth": "Salinas, California, USA",
+        "popularity": 0.3319,
+        "profile_path": "/xJ7mohLuufsNn6dkvzjKi5nlaFn.jpg"
+    }
+}

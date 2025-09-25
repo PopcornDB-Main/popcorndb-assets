@@ -1,0 +1,162 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 872,
+                "original_language": "en",
+                "original_title": "Singin' in the Rain",
+                "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
+                "popularity": 4.2669,
+                "poster_path": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+                "release_date": "1952-04-10",
+                "title": "Singin' in the Rain",
+                "video": false,
+                "vote_average": 8.146,
+                "vote_count": 3306,
+                "character": "Don Lockwood",
+                "credit_id": "52fe4285c3a36847f80256f9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hVvW015x8cD2X0KthGovw27EpF2.jpg",
+                "genre_ids": [
+                    10402,
+                    10749,
+                    35
+                ],
+                "id": 2769,
+                "original_language": "en",
+                "original_title": "An American in Paris",
+                "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+                "popularity": 4.0612,
+                "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+                "release_date": "1951-09-26",
+                "title": "An American in Paris",
+                "video": false,
+                "vote_average": 7.026,
+                "vote_count": 606,
+                "character": "Jerry Mulligan",
+                "credit_id": "52fe436cc3a36847f8052ff3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9x3yIrAJOkYSs0SBKcGCQlwPSNm.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "id": 2433,
+                "original_language": "fr",
+                "original_title": "Les Demoiselles de Rochefort",
+                "overview": "Delphine and Solange are two sisters living in Rochefort. Delphine is a dancing teacher and Solange composes and teaches the piano. Maxence is a poet and a painter. He is doing his military service. Simon owns a music shop, he left Paris one month ago to come back where he fell in love 10 years ago. They are looking for love, looking for each other, without being aware that their ideal partner is very close...",
+                "popularity": 1.7152,
+                "poster_path": "/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
+                "release_date": "1967-03-08",
+                "title": "The Young Girls of Rochefort",
+                "video": false,
+                "vote_average": 7.681,
+                "vote_count": 631,
+                "character": "Andy Miller",
+                "credit_id": "5ee43aa5197de4002292b9ba",
+                "order": 3
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 872,
+                "original_language": "en",
+                "original_title": "Singin' in the Rain",
+                "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
+                "popularity": 4.2669,
+                "poster_path": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+                "release_date": "1952-04-10",
+                "title": "Singin' in the Rain",
+                "video": false,
+                "vote_average": 8.146,
+                "vote_count": 3306,
+                "credit_id": "52fe4285c3a36847f80256bf",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 872,
+                "original_language": "en",
+                "original_title": "Singin' in the Rain",
+                "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
+                "popularity": 4.2669,
+                "poster_path": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+                "release_date": "1952-04-10",
+                "title": "Singin' in the Rain",
+                "video": false,
+                "vote_average": 8.146,
+                "vote_count": 3306,
+                "credit_id": "52fe4285c3a36847f802574d",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hVvW015x8cD2X0KthGovw27EpF2.jpg",
+                "genre_ids": [
+                    10402,
+                    10749,
+                    35
+                ],
+                "id": 2769,
+                "original_language": "en",
+                "original_title": "An American in Paris",
+                "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+                "popularity": 4.0612,
+                "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+                "release_date": "1951-09-26",
+                "title": "An American in Paris",
+                "video": false,
+                "vote_average": 7.026,
+                "vote_count": 606,
+                "credit_id": "5fbd3130175051003f0f5c9e",
+                "department": "Crew",
+                "job": "Choreographer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc9c4 \ucf08\ub9ac",
+            "\u062c\u06cc\u0646 \u06a9\u0644\u06cc"
+        ],
+        "biography": "Eugene Curran Kelly was an American actor, dancer, singer, filmmaker, and choreographer. He was known for his energetic and athletic dancing style, his good looks, and the likable characters that he played on screen. He starred in, choreographed, or co-directed some of the most well-regarded musical films of the 1940s and 1950s, until they fell out of fashion in the late 1950s.\n\nKelly is best known today for his performances in films such as Cover Girl (1944), Anchors Aweigh (1945), for which he was nominated for an Academy Award for Best Actor, On the Town (1949), which was his directorial debut, An American in Paris (1951), Singin' in the Rain (1952), Brigadoon (1954), and It's Always Fair Weather (1955). Kelly made his film debut with Judy Garland in For Me and My Gal (1942), and followed by Du Barry Was a Lady (1943), Thousands Cheer (1943), The Pirate (1948), Summer Stock (1950), and Les Girls (1957) among others. After musicals he starred in two films outside the musical genre: Inherit the Wind (1960) and What a Way to Go! (1964). In 1967, he appeared in French director Jacques Demy's musical comedy The Young Girls of Rochefort opposite Catherine Deneuve. Kelly solo directed the comedy A Guide for the Married Man (1967) starring Walter Matthau, and later the extravagant musical Hello, Dolly! (1969) starring Barbra Streisand, recognized with an Oscar nomination for Best Picture. Kelly co-hosted and appeared in Ziegfeld Follies (1946), That's Entertainment! (1974), That's Entertainment, Part II (1976), That's Dancing! (1985), and That's Entertainment, Part III (1994).\n\nHis many innovations transformed the Hollywood musical, and he is credited with almost single-handedly making the ballet form commercially acceptable to film audiences. Kelly received an Academy Honorary Award in 1952 for his career achievements; the same year, An American in Paris won six Academy Awards, including Best Picture. He later received lifetime achievement awards in the Kennedy Center Honors (1982) and from the Screen Actors Guild and American Film Institute. In 1999, the American Film Institute also ranked him as the 15th greatest male screen legend of Classic Hollywood Cinema.",
+        "birthday": "1912-08-23",
+        "deathday": "1996-02-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 13294,
+        "imdb_id": "nm0000037",
+        "known_for_department": "Acting",
+        "name": "Gene Kelly",
+        "place_of_birth": "Pittsburgh, Pennsylvania, USA",
+        "popularity": 0.6723,
+        "profile_path": "/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+    }
+}

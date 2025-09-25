@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 10.523,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.89,
+                "vote_count": 8180,
+                "character": "Mike",
+                "credit_id": "52fe422ec3a36847f800a1c7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qKxAghWoR2M8ZIheMpbHp8jeXFi.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    36
+                ],
+                "id": 9912,
+                "original_language": "en",
+                "original_title": "The World's Fastest Indian",
+                "overview": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle\u2014a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
+                "popularity": 6.0963,
+                "poster_path": "/vUIwPFAAXeCUuS040uGC0xSatcG.jpg",
+                "release_date": "2005-10-12",
+                "title": "The World's Fastest Indian",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 821,
+                "character": "Antarctic Angel",
+                "credit_id": "52fe4547c3a36847f80c52f7",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 57158,
+                "original_language": "en",
+                "original_title": "The Hobbit: The Desolation of Smaug",
+                "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+                "popularity": 12.9588,
+                "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+                "release_date": "2013-12-11",
+                "title": "The Hobbit: The Desolation of Smaug",
+                "video": false,
+                "vote_average": 7.573,
+                "vote_count": 13643,
+                "character": "Galion",
+                "credit_id": "5c8e9f1392514134409f728c",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Craig Hall (born 10 May 1974) is a New Zealand actor.",
+        "birthday": "1974-05-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://johnsonlaird.com/our-actors/Craig-Hall",
+        "id": 3496,
+        "imdb_id": "nm0355440",
+        "known_for_department": "Acting",
+        "name": "Craig Hall",
+        "place_of_birth": "Auckland, New Zealand",
+        "popularity": 0.5565,
+        "profile_path": "/bdTS3OgiIkSa4iPheVHKJFgMV9Z.jpg"
+    }
+}

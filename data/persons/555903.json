@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749
+                ],
+                "id": 770,
+                "original_language": "en",
+                "original_title": "Gone with the Wind",
+                "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+                "popularity": 7.332,
+                "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+                "release_date": "1939-12-15",
+                "title": "Gone with the Wind",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 4191,
+                "character": "'Big Sam'",
+                "credit_id": "52fe4274c3a36847f801fec1",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lYfHa1AtkUMtplrKx7SRLHpwonW.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    27
+                ],
+                "id": 244,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "Adventurous filmmaker Carl Denham sets out to produce a motion picture unlike anything the world has seen before. Alongside his leading lady Ann Darrow and his first mate Jack Driscoll, they arrive on an island and discover a legendary creature said to be neither beast nor man. Denham captures the monster to be displayed on Broadway as King Kong, the eighth wonder of the world.",
+                "popularity": 3.0805,
+                "poster_path": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+                "release_date": "1933-03-15",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1544,
+                "character": "Native in Ape Costume",
+                "credit_id": "65e594e4b7a15401867d3746",
+                "order": 35
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Everett G. Brown"
+        ],
+        "biography": "",
+        "birthday": "1902-01-01",
+        "deathday": "1953-10-14",
+        "gender": 2,
+        "homepage": null,
+        "id": 555903,
+        "imdb_id": "nm0113548",
+        "known_for_department": "Acting",
+        "name": "Everett Brown",
+        "place_of_birth": "Smith County, Texas, USA",
+        "popularity": 0.0985,
+        "profile_path": null
+    }
+}

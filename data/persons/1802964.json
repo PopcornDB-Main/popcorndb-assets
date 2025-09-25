@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    10749
+                ],
+                "id": 321612,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+                "popularity": 10.2932,
+                "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+                "release_date": "2017-03-16",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 15763,
+                "character": "Debutante",
+                "credit_id": "58fe4d2dc3a36879db036263",
+                "order": 101
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/85BQpS3lEA7wESlGUCFQZNoPoo8.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 11631,
+                "original_language": "en",
+                "original_title": "Mamma Mia!",
+                "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+                "popularity": 6.9821,
+                "poster_path": "/ejxnVdXrojc1K2MXlRvplqro4Jn.jpg",
+                "release_date": "2008-07-03",
+                "title": "Mamma Mia!",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 6777,
+                "character": "Hen",
+                "credit_id": "5abea75f9251416018017c18",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1802964,
+        "imdb_id": "nm3065325",
+        "known_for_department": "Acting",
+        "name": "Jennifer Leung",
+        "place_of_birth": null,
+        "popularity": 0.0555,
+        "profile_path": null
+    }
+}

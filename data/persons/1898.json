@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 161,
+                "original_language": "en",
+                "original_title": "Ocean's Eleven",
+                "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+                "popularity": 9.4093,
+                "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+                "release_date": "2001-12-07",
+                "title": "Ocean's Eleven",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 12045,
+                "character": "Livingston Dell",
+                "credit_id": "52fe4220c3a36847f8006193",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 308266,
+                "original_language": "en",
+                "original_title": "War Dogs",
+                "overview": "Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.",
+                "popularity": 6.6258,
+                "poster_path": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+                "release_date": "2016-08-18",
+                "title": "War Dogs",
+                "video": false,
+                "vote_average": 6.925,
+                "vote_count": 5188,
+                "character": "Hilldale Home Manager",
+                "credit_id": "587653e6c3a3682b0d009e89",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0627\u062f\u06cc \u062c\u0645\u06cc\u0633\u0648\u0646"
+        ],
+        "biography": "Edward Francis Jemison, Jr. (born November 25, 1963) is an American film and television actor. He is known for his roles as Livingston Dell in the Ocean's film trilogy and Mickey Duka in The Punisher, as well as the television series Hung, iZombie and Chicago Med.",
+        "birthday": "1963-11-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1898,
+        "imdb_id": "nm0420646",
+        "known_for_department": "Acting",
+        "name": "Eddie Jemison",
+        "place_of_birth": "New Orleans, Louisiana, USA",
+        "popularity": 0.688,
+        "profile_path": "/zGnEYsiIm4FUrujbDvMfQEivvnj.jpg"
+    }
+}

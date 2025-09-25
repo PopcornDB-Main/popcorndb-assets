@@ -1,0 +1,239 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bNMw3onveTYU7PpLQRK0HQK8JRb.jpg",
+                "genre_ids": [
+                    28,
+                    16,
+                    80,
+                    53
+                ],
+                "id": 69735,
+                "original_language": "en",
+                "original_title": "Batman: Year One",
+                "overview": "A wealthy playboy named Bruce Wayne and a Chicago cop named Jim Gordon both return to Gotham City where their lives unexpectedly intersect.",
+                "popularity": 2.4244,
+                "poster_path": "/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
+                "release_date": "2011-09-27",
+                "title": "Batman: Year One",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1005,
+                "character": "Jefferson Skeevers (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc9f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 137106,
+                "original_language": "en",
+                "original_title": "The Lego Movie",
+                "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+                "popularity": 8.681,
+                "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+                "release_date": "2014-02-06",
+                "title": "The Lego Movie",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 8133,
+                "character": "Han Solo (voice)",
+                "credit_id": "542f54c90e0a264f15000922",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    18,
+                    35
+                ],
+                "id": 150540,
+                "original_language": "en",
+                "original_title": "Inside Out",
+                "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+                "popularity": 15.5054,
+                "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+                "release_date": "2015-06-17",
+                "title": "Inside Out",
+                "video": false,
+                "vote_average": 7.91,
+                "vote_count": 22792,
+                "character": "Additional Voices (voice)",
+                "credit_id": "6672a1e46283a6acca169aa3",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 62211,
+                "original_language": "en",
+                "original_title": "Monsters University",
+                "overview": "A look at the relationship between Mike and Sulley during their days at Monsters University \u2014 when they weren't necessarily the best of friends.",
+                "popularity": 8.1277,
+                "poster_path": "/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+                "release_date": "2013-06-19",
+                "title": "Monsters University",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 10970,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5a9409000e0a265c4e01cba5",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sA50fD5aLbYPRU0fMCHIZ88gc5g.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    12,
+                    80
+                ],
+                "id": 581997,
+                "original_language": "en",
+                "original_title": "Batman vs Teenage Mutant Ninja Turtles",
+                "overview": "Batman, Batgirl, and Robin forge an alliance with the Teenage Mutant Ninja Turtles to fight against the Turtles' sworn enemy, The Shredder, who has apparently teamed up with Ra's Al Ghul and The League of Assassins.",
+                "popularity": 1.8513,
+                "poster_path": "/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg",
+                "release_date": "2019-03-31",
+                "title": "Batman vs Teenage Mutant Ninja Turtles",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 522,
+                "character": "Two-Face / Baxter Stockman (voice)",
+                "credit_id": "5c8c9dcc9251410fe79e0618",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35,
+                    10770
+                ],
+                "id": 677638,
+                "original_language": "en",
+                "original_title": "We Bare Bears: The Movie",
+                "overview": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.",
+                "popularity": 2.7006,
+                "poster_path": "/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg",
+                "release_date": "2020-06-30",
+                "title": "We Bare Bears: The Movie",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 831,
+                "character": "Officer Murphy / Additional Voices (voice)",
+                "credit_id": "5edefa9caad9c200202906dd",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q2haCPQUzeMlRlX0wKJgddMbE0o.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 355338,
+                "original_language": "en",
+                "original_title": "Riley's First Date?",
+                "overview": "Riley, now 12, who is hanging out with her parents at home when potential trouble comes knocking. Mom's and Dad's Emotions find themselves forced to deal with Riley going on her first \"date.\"",
+                "popularity": 1.8904,
+                "poster_path": "/cGLwfmLqg39822RFQMUDat0UJev.jpg",
+                "release_date": "2015-11-03",
+                "title": "Riley's First Date?",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1087,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5fab2f7c8de0ae0043b9d63a",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8LHSDyRizQ4kQz5rEHPKyXPvMG3.jpg",
+                "genre_ids": [
+                    16,
+                    10752,
+                    878
+                ],
+                "id": 736069,
+                "original_language": "en",
+                "original_title": "Justice Society: World War II",
+                "overview": "When the Flash finds himself dropped into the middle of World War II, he joins forces with Wonder Woman and her top-secret team known as the Justice Society of America.",
+                "popularity": 2.617,
+                "poster_path": "/tOUJvmdjppmPYZOoykWmerSspMT.jpg",
+                "release_date": "2021-04-27",
+                "title": "Justice Society: World War II",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 583,
+                "character": "Dr. Fate (voice)",
+                "credit_id": "5ff7d0f90cd32a00404836c8",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/orGlr1vHTgbDkGJPwuBjd8ncVjQ.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    14
+                ],
+                "id": 666243,
+                "original_language": "en",
+                "original_title": "The Witcher: Nightmare of the Wolf",
+                "overview": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past.",
+                "popularity": 2.8488,
+                "poster_path": "/ckjlfMg2lXQK5aav33BCBgtsYWh.jpg",
+                "release_date": "2021-08-22",
+                "title": "The Witcher: Nightmare of the Wolf",
+                "video": false,
+                "vote_average": 7.455,
+                "vote_count": 1029,
+                "character": "Lord Carlisle / Reidrich (voice)",
+                "credit_id": "61242ade4a52f80023588932",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Keith James Ferguson",
+            "\u06a9\u06cc\u062b \u0641\u0631\u06af\u0648\u0633\u0646"
+        ],
+        "biography": "Keith Ferguson (born February 26, 1972) is an American voice actor, well known as the voice of Blooregard Q. Kazoo (or \"Bloo\" for short) on the Cartoon Network animated series Foster's Home for Imaginary Friends. He also provides a number of \"sound-alike\" portrayals in the VO industry including Harrison Ford's Han Solo and Indiana Jones in Robot Chicken and the voice of Lightning McQueen in Cars Toons: Mater's Tall Tales, filling in for Owen Wilson (while Wilson continues his portrayal of McQueen for the big screen in Cars 2).\n\nDescription above from the Wikipedia article Keith Ferguson, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1972-02-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 143346,
+        "imdb_id": "nm1584992",
+        "known_for_department": "Acting",
+        "name": "Keith Ferguson",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.535,
+        "profile_path": "/8EvTlmOhP34EZFEGsznqjbr4o4q.jpg"
+    }
+}

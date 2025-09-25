@@ -1,0 +1,88 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mE2TjYsnqdWxPt45kIElw3az4O9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9800,
+                "original_language": "en",
+                "original_title": "Philadelphia",
+                "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+                "popularity": 3.7367,
+                "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+                "release_date": "1993-12-22",
+                "title": "Philadelphia",
+                "video": false,
+                "vote_average": 7.718,
+                "vote_count": 4416,
+                "character": "Dr. Armbruster",
+                "credit_id": "54887085c3a368414800167a",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648
+                ],
+                "id": 9741,
+                "original_language": "en",
+                "original_title": "Unbreakable",
+                "overview": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead \u2014 and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+                "popularity": 6.2453,
+                "poster_path": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+                "release_date": "2000-11-22",
+                "title": "Unbreakable",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 9590,
+                "character": "Bar Patron",
+                "credit_id": "59ada5e6c3a3682c9c045cda",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 207,
+                "original_language": "en",
+                "original_title": "Dead Poets Society",
+                "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+                "popularity": 16.509,
+                "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+                "release_date": "1989-06-02",
+                "title": "Dead Poets Society",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 11907,
+                "character": "Dormitory Porter",
+                "credit_id": "610c7313b234b90074e73315",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1397318,
+        "imdb_id": "nm0746478",
+        "known_for_department": "Acting",
+        "name": "Bill Rowe",
+        "place_of_birth": null,
+        "popularity": 0.051,
+        "profile_path": null
+    }
+}

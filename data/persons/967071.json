@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5SGAJrTVpWXKNdEwspTG9s60YOp.jpg",
+                "genre_ids": [
+                    10749,
+                    12,
+                    878,
+                    18
+                ],
+                "id": 365942,
+                "original_language": "en",
+                "original_title": "The Space Between Us",
+                "overview": "A young man raised by scientists on Mars returns to Earth to find his father.",
+                "popularity": 2.3938,
+                "poster_path": "/lRBl9mfvUbZeaAyXoP09XwPOo0W.jpg",
+                "release_date": "2017-01-26",
+                "title": "The Space Between Us",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2495,
+                "character": "NASA Chief Doctor",
+                "credit_id": "57466568c3a3680698000dd6",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 400535,
+                "original_language": "en",
+                "original_title": "Sicario: Day of the Soldado",
+                "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+                "popularity": 9.6734,
+                "poster_path": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+                "release_date": "2018-06-27",
+                "title": "Sicario: Day of the Soldado",
+                "video": false,
+                "vote_average": 6.938,
+                "vote_count": 3817,
+                "character": "Mother Victim",
+                "credit_id": "5b555bbac3a3685c8b00ecb2",
+                "order": 46
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 967071,
+        "imdb_id": "nm1544010",
+        "known_for_department": "Acting",
+        "name": "Beth Bailey",
+        "place_of_birth": null,
+        "popularity": 0.8936,
+        "profile_path": "/eoedvwzfma84LRwfCYhkb69wky7.jpg"
+    }
+}

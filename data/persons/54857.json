@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 8408,
+                "original_language": "en",
+                "original_title": "Day of the Dead",
+                "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+                "popularity": 3.2169,
+                "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+                "release_date": "1985-07-03",
+                "title": "Day of the Dead",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 1308,
+                "character": "Miguel",
+                "credit_id": "52fe44a5c3a36847f80a20eb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gYapxyWZXFYcCHtf5dVB2Ub9RTy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 2007,
+                "original_language": "en",
+                "original_title": "Lorenzo's Oil",
+                "overview": "Augusto and Michaela Odone are dealt a cruel blow by fate when their five-year-old son Lorenzo is diagnosed with a rare and incurable disease. But the Odones' persistence and faith leads to an unorthodox cure which saves their boy and re-writes medical history.",
+                "popularity": 2.6869,
+                "poster_path": "/suRf59zRu1h8Zq4Gxekn6UiLGaM.jpg",
+                "release_date": "1992-12-30",
+                "title": "Lorenzo's Oil",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 542,
+                "character": "Conference Parent",
+                "credit_id": "6074b5062faf4d004192593c",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Tim DiLeo",
+            "Antone DiLeo",
+            "Antone Di Leo"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 54857,
+        "imdb_id": "nm0226743",
+        "known_for_department": "Acting",
+        "name": "Anthony DiLeo Jr.",
+        "place_of_birth": null,
+        "popularity": 0.064,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6088,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "Mall Zombie Outside Gun Store",
+                "credit_id": "6015801a1b70ae003d5e5ee2",
+                "order": 64
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/v3ClsT59peXyGJ4XuDvIQAPwcZy.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 4133,
+                "original_language": "en",
+                "original_title": "Blow",
+                "overview": "A boy named George Jung grows up in a struggling family in the 1950's. His mother nags at her husband as he is trying to make a living for the family. It is finally revealed that George's father cannot make a living and the family goes bankrupt. George does not want the same thing to happen to him, and his friend Tuna, in the 1960's, suggests that he deal marijuana. He is a big hit in California in the 1960's, yet he goes to jail, where he finds out about the wonders of cocaine. As a result, when released, he gets rich by bringing cocaine to America. However, he soon pays the price.",
+                "popularity": 7.0493,
+                "poster_path": "/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg",
+                "release_date": "2001-04-04",
+                "title": "Blow",
+                "video": false,
+                "vote_average": 7.358,
+                "vote_count": 4437,
+                "credit_id": "60a1496c0f36550057444be5",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    9648
+                ],
+                "id": 4232,
+                "original_language": "en",
+                "original_title": "Scream",
+                "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+                "popularity": 10.8717,
+                "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+                "release_date": "1996-12-20",
+                "title": "Scream",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 7441,
+                "credit_id": "5574bcb5c3a3686b7d0047cd",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2eznGndOi8s9CGReAvcQ8PEULwm.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 5176,
+                "original_language": "en",
+                "original_title": "3:10 to Yuma",
+                "overview": "In Arizona in the late 1800s, infamous outlaw Ben Wade and his vicious gang of thieves and murderers have plagued the Southern Railroad. When Wade is captured, Civil War veteran Dan Evans, struggling to survive on his drought-plagued ranch, volunteers to deliver him alive to the \"3:10 to Yuma\", a train that will take the killer to trial.",
+                "popularity": 3.8907,
+                "poster_path": "/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg",
+                "release_date": "2007-09-06",
+                "title": "3:10 to Yuma",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 3796,
+                "credit_id": "56ff23d7c3a3686e980007ff",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    9648
+                ],
+                "id": 4232,
+                "original_language": "en",
+                "original_title": "Scream",
+                "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+                "popularity": 10.8717,
+                "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+                "release_date": "1996-12-20",
+                "title": "Scream",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 7441,
+                "credit_id": "58f38e7ec3a368081e013123",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qM08KBrvuzENc0G9RzlzyVjkSm.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    10749
+                ],
+                "id": 85446,
+                "original_language": "en",
+                "original_title": "Step Up Revolution",
+                "overview": "Emily arrives in Miami with aspirations to become a professional dancer. She sparks with Sean, the leader of a dance crew whose neighborhood is threatened by Emily's father's development plans.",
+                "popularity": 3.5978,
+                "poster_path": "/jMpwxmk3r7Aq36GcqMbCuP9DJYQ.jpg",
+                "release_date": "2012-07-26",
+                "title": "Step Up Revolution",
+                "video": false,
+                "vote_average": 6.913,
+                "vote_count": 2075,
+                "credit_id": "64a37f9111386c00e2159847",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6088,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "credit_id": "5faf66303a48c5003e7c4b83",
+                "department": "Camera",
+                "job": "Key Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Nicholas C. Mastandrea",
+            "Nick Mastandrea",
+            "Nick Mastanadrea"
+        ],
+        "biography": "Nicholas Mastandrea is an American assistant director and director with a career spanning several decades. He has worked as an assistant director on films such as The Host (2013) and Looper (2012).  In 2006, he directed The Breed, a horror film about genetically enhanced dogs. Mastandrea's extensive experience in the industry has contributed to the success of numerous film projects.",
+        "birthday": "1955-08-27",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 35582,
+        "imdb_id": "nm0557608",
+        "known_for_department": "Directing",
+        "name": "Nicholas Mastandrea",
+        "place_of_birth": "Pennsylvania, USA",
+        "popularity": 0.1391,
+        "profile_path": null
+    }
+}

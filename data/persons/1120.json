@@ -1,0 +1,164 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+                "genre_ids": [
+                    80,
+                    35
+                ],
+                "id": 107,
+                "original_language": "en",
+                "original_title": "Snatch",
+                "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+                "popularity": 8.3629,
+                "poster_path": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+                "release_date": "2000-09-01",
+                "title": "Snatch",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 9473,
+                "character": "Sol",
+                "credit_id": "52fe4219c3a36847f8003c01",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g1J3SBqxbeHLTatlzHp8bGhaAwO.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 4415,
+                "original_language": "en",
+                "original_title": "Les Mis\u00e9rables",
+                "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "popularity": 3.4857,
+                "poster_path": "/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
+                "release_date": "1998-05-01",
+                "title": "Les Mis\u00e9rables",
+                "video": false,
+                "vote_average": 7.225,
+                "vote_count": 654,
+                "character": "Enjolras",
+                "credit_id": "52fe43c0c3a36847f806cf3b",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kkuykQHWWTcmJ9yerrLF9elCtkc.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    53,
+                    80
+                ],
+                "id": 43539,
+                "original_language": "en",
+                "original_title": "The Next Three Days",
+                "overview": "A married couple's life is turned upside down when the wife is accused of murdering her boss. Her husband John would spend the next few years trying to get her released, but there's no evidence that negates the evidence against her. When the strain of being separated from her husband and son gets to her, John decides to find a way to break her out.",
+                "popularity": 3.8905,
+                "poster_path": "/wBaRZ3aHa7qoYTSY0ONbXrXYk4B.jpg",
+                "release_date": "2010-11-18",
+                "title": "The Next Three Days",
+                "video": false,
+                "vote_average": 7.082,
+                "vote_count": 2953,
+                "character": "Lieutenant Nabulsi",
+                "credit_id": "52fe464fc3a36847f80f81af",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 522478,
+                "original_language": "en",
+                "original_title": "Peter Rabbit 2: The Runaway",
+                "overview": "Peter Rabbit runs away from his human family when he learns they are going to portray him in a bad light in their book. Soon, he crosses paths with an older rabbit who ropes him into a heist.",
+                "popularity": 6.3852,
+                "poster_path": "/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg",
+                "release_date": "2021-03-25",
+                "title": "Peter Rabbit 2: The Runaway",
+                "video": false,
+                "vote_average": 7.065,
+                "vote_count": 853,
+                "character": "Barnabas (voice)",
+                "credit_id": "6606737fe1faed0164f9c6a6",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    16
+                ],
+                "id": 762509,
+                "original_language": "en",
+                "original_title": "Mufasa: The Lion King",
+                "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+                "popularity": 20.1476,
+                "poster_path": "/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+                "release_date": "2024-12-18",
+                "title": "Mufasa: The Lion King",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 2363,
+                "character": "Obasi (voice)",
+                "credit_id": "662fc737511d090124c59620",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 335984,
+                "original_language": "en",
+                "original_title": "Blade Runner 2049",
+                "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+                "popularity": 20.9551,
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "release_date": "2017-10-04",
+                "title": "Blade Runner 2049",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 14390,
+                "character": "Mister Cotton",
+                "credit_id": "579a3f939251411328003a68",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0644\u0646\u06cc \u062c\u06cc\u0645\u0632"
+        ],
+        "biography": "Lennie James (born October 11, 1965) is an English actor and playwright known for his compelling performances across film, television, and theatre. Born in Nottingham, England, James has showcased his acting talent in diverse roles. He gained recognition for his performances in television series such as \"Line of Duty\" and \"The Walking Dead,\" where his nuanced and intense portrayals stood out. James is also a prolific playwright, contributing to the stage with his writing skills. His ability to embody complex characters with depth and authenticity has earned him critical acclaim, establishing him as a respected and versatile figure in the entertainment industry.",
+        "birthday": "1965-10-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1120,
+        "imdb_id": "nm0416694",
+        "known_for_department": "Acting",
+        "name": "Lennie James",
+        "place_of_birth": "Nottingham, England, UK",
+        "popularity": 0.786,
+        "profile_path": "/lUcouck90jXNzyJr5uBJJiYMHAN.jpg"
+    }
+}

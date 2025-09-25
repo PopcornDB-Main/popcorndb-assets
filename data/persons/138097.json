@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 13626,
+                "character": "Mailman",
+                "credit_id": "56048b92925141027c00010e",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2pViauhiZLhAUb1lsY6wRir69SF.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 1621,
+                "original_language": "en",
+                "original_title": "Trading Places",
+                "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
+                "popularity": 6.727,
+                "poster_path": "/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+                "release_date": "1983-06-07",
+                "title": "Trading Places",
+                "video": false,
+                "vote_average": 7.23,
+                "vote_count": 3444,
+                "character": "Cop #2",
+                "credit_id": "5e0e18c5fd4f8000155f590b",
+                "order": 43
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    53,
+                    9648,
+                    10749
+                ],
+                "id": 251,
+                "original_language": "en",
+                "original_title": "Ghost",
+                "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+                "popularity": 8.268,
+                "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+                "release_date": "1990-07-13",
+                "title": "Ghost",
+                "video": false,
+                "vote_average": 7.226,
+                "vote_count": 5774,
+                "credit_id": "648dcb4726346200ca19f6ea",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 138097,
+        "imdb_id": "nm0387894",
+        "known_for_department": "Acting",
+        "name": "Peter Hock",
+        "place_of_birth": null,
+        "popularity": 0.231,
+        "profile_path": null
+    }
+}

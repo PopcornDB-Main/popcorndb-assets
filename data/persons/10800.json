@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nVpp3ZcIFtJJ3fJp65eJczehIN8.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 3063,
+                "original_language": "en",
+                "original_title": "Duck Soup",
+                "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+                "popularity": 2.3419,
+                "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+                "release_date": "1933-11-12",
+                "title": "Duck Soup",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 816,
+                "character": "Pinky",
+                "credit_id": "52fe4381c3a36847f8059435",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d7YwLX0PnX8vsaaQq9bz93jczGw.jpg",
+                "genre_ids": [
+                    35,
+                    10402
+                ],
+                "id": 37719,
+                "original_language": "en",
+                "original_title": "A Night at the Opera",
+                "overview": "The Marx Brothers take on high society and the opera world to bring two lovers together. A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+                "popularity": 2.2205,
+                "poster_path": "/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+                "release_date": "1935-11-15",
+                "title": "A Night at the Opera",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 519,
+                "character": "Tomasso",
+                "credit_id": "52fe46679251416c910535bd",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Adolph Marx"
+        ],
+        "biography": "Arthur Adolph \"Harpo\" Marx (November 23, 1888 \u2013 September 28, 1964) was an American comedian and film star. He was the second oldest of the Marx Brothers. His comic style was influenced by clown and pantomime traditions. He wore a curly reddish wig, and never spoke during performances (he blew a horn or whistled to communicate). Marx frequently used props such as a walking stick with a built-in bulb horn, and he played the harp in most of his films.\n\nDescription above from the Wikipedia article Harpo Marx, licensed under CC-BY-SA, full list  of contributors on Wikipedia.",
+        "birthday": "1888-11-23",
+        "deathday": "1964-09-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 10800,
+        "imdb_id": "nm0555617",
+        "known_for_department": "Acting",
+        "name": "Harpo Marx",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.1761,
+        "profile_path": "/oD5kj8uHtCi1KLm7uanUICUtDP7.jpg"
+    }
+}

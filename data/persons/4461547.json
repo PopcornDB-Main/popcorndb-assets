@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+                "genre_ids": [
+                    878,
+                    9648,
+                    12
+                ],
+                "id": 62,
+                "original_language": "en",
+                "original_title": "2001: A Space Odyssey",
+                "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+                "popularity": 12.3573,
+                "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+                "release_date": "1968-04-02",
+                "title": "2001: A Space Odyssey",
+                "video": false,
+                "vote_average": 8.065,
+                "vote_count": 12026,
+                "character": "Mission Controller (voice)",
+                "credit_id": "6594a2085907de27c463a564",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4461547,
+        "imdb_id": "nm15447157",
+        "known_for_department": "Acting",
+        "name": "Frank W. Miller",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

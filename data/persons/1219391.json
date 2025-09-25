@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.5468,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.157,
+                "vote_count": 1561,
+                "character": "Starfleet Communications Officer",
+                "credit_id": "546237ae0e0a2672b60025bd",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vfo2dzdXnoArYwrkM7kw1vgb7dL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 174,
+                "original_language": "en",
+                "original_title": "Star Trek VI: The Undiscovered Country",
+                "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+                "popularity": 2.1408,
+                "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+                "release_date": "1991-12-06",
+                "title": "Star Trek VI: The Undiscovered Country",
+                "video": false,
+                "vote_average": 7.03,
+                "vote_count": 1332,
+                "character": "Crewman Dax",
+                "credit_id": "60e057324ca676002ddc3bca",
+                "order": 34
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1219391,
+        "imdb_id": "nm0811523",
+        "known_for_department": "Acting",
+        "name": "Michael Snyder",
+        "place_of_birth": null,
+        "popularity": 0.0732,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uBLmfG7MyNXPXI50eMs1ZjxpbnV.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 338,
+                "original_language": "de",
+                "original_title": "Good Bye, Lenin!",
+                "overview": "Alex Kerner's mother was in a coma while the Berlin wall fell. When she wakes up he must try to keep her from learning what happened (as she was an avid communist supporter) to avoid shocking her which could lead to another heart attack.",
+                "popularity": 2.7808,
+                "poster_path": "/uHk1oGEbnvQGLnyiiYxTslZLoog.jpg",
+                "release_date": "2003-02-13",
+                "title": "Good Bye, Lenin!",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 2500,
+                "character": "Alex",
+                "credit_id": "52fe4239c3a36847f800d971",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 2503,
+                "original_language": "en",
+                "original_title": "The Bourne Ultimatum",
+                "overview": "Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company's best efforts to eradicate him.",
+                "popularity": 10.0826,
+                "poster_path": "/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
+                "release_date": "2007-08-03",
+                "title": "The Bourne Ultimatum",
+                "video": false,
+                "vote_average": 7.432,
+                "vote_count": 7981,
+                "character": "Martin Kreutz",
+                "credit_id": "52fe435bc3a36847f804e29b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5ChBhGXIX7RgOMSjIlXgBp6UjMf.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749,
+                    36
+                ],
+                "id": 11661,
+                "original_language": "fr",
+                "original_title": "Joyeux No\u00ebl",
+                "overview": "France, 1914, during World War I. On Christmas Eve, an extraordinary event takes place in the bloody no man's land that the French and the Scots dispute with the Germans\u2026",
+                "popularity": 4.1381,
+                "poster_path": "/9Ka8lKCIiWjnZiMslPQeakS5UhW.jpg",
+                "release_date": "2005-11-09",
+                "title": "Joyeux Noel",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 886,
+                "character": "Horstmayer",
+                "credit_id": "52fe44739251416c7503536f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 16869,
+                "original_language": "en",
+                "original_title": "Inglourious Basterds",
+                "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+                "popularity": 18.9435,
+                "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+                "release_date": "2009-08-02",
+                "title": "Inglourious Basterds",
+                "video": false,
+                "vote_average": 8.215,
+                "vote_count": 23207,
+                "character": "Fredrick Zoller",
+                "credit_id": "52fe46f29251416c75088cc3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 9.7222,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7473,
+                "character": "Niki Lauda",
+                "credit_id": "52fe49be9251416c750d20a7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 271110,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "popularity": 14.8673,
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "release_date": "2016-04-27",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 23402,
+                "character": "Zemo",
+                "credit_id": "546b762d92514101ec001e4f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cKrWGcWHKcergHyDKxKGbgcUsMm.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 304357,
+                "original_language": "en",
+                "original_title": "Woman in Gold",
+                "overview": "Maria Altmann, an octogenarian Jewish refugee, takes on the Austrian government to recover a world famous painting of her aunt plundered by the Nazis during World War II, she believes rightfully belongs to her family. She did so not just to regain what was rightfully hers, but also to obtain some measure of justice for the death, destruction, and massive art theft perpetrated by the Nazis.",
+                "popularity": 2.7153,
+                "poster_path": "/6eoj6bozvgwNuDV3vOrqlvrCrX.jpg",
+                "release_date": "2015-03-20",
+                "title": "Woman in Gold",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1413,
+                "character": "Hubertus Czernin",
+                "credit_id": "548939da92514161c9000d35",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6gtlv8NYhzEeRyfbIbfeXp5KVJR.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 318781,
+                "original_language": "en",
+                "original_title": "Colonia",
+                "overview": "A young woman's desperate search for her abducted boyfriend draws her into the infamous Colonia Dignidad, a sect nobody ever escaped from.",
+                "popularity": 3.6416,
+                "poster_path": "/p7oGFkMGaQR27R1olN9RoMzg4vS.jpg",
+                "release_date": "2015-06-24",
+                "title": "Colonia",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1931,
+                "character": "Daniel",
+                "credit_id": "54b979399251411d77004cbb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 289222,
+                "original_language": "en",
+                "original_title": "The Zookeeper's Wife",
+                "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+                "popularity": 2.6667,
+                "poster_path": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+                "release_date": "2017-03-24",
+                "title": "The Zookeeper's Wife",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1524,
+                "character": "Lutz Heck",
+                "credit_id": "55db583f92514143e40081a4",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    18
+                ],
+                "id": 49046,
+                "original_language": "de",
+                "original_title": "Im Westen nichts Neues",
+                "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+                "popularity": 8.332,
+                "poster_path": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+                "release_date": "2022-10-07",
+                "title": "All Quiet on the Western Front",
+                "video": false,
+                "vote_average": 7.729,
+                "vote_count": 4298,
+                "character": "Matthias Erzberger",
+                "credit_id": "5e63e861459ad60011575831",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    18
+                ],
+                "id": 49046,
+                "original_language": "de",
+                "original_title": "Im Westen nichts Neues",
+                "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+                "popularity": 8.332,
+                "poster_path": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+                "release_date": "2022-10-07",
+                "title": "All Quiet on the Western Front",
+                "video": false,
+                "vote_average": 7.729,
+                "vote_count": 4298,
+                "credit_id": "5e63e9fe357c00001635c945",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ub2e4\ub2c8\uc5d8 \ube0c\ub944",
+            "\u039d\u03c4\u03ac\u03bd\u03b9\u03b5\u03bb \u039c\u03c0\u03c1\u03bf\u03c5\u03bb",
+            "Daniel Bruehl",
+            "Daniel C\u00e9sar Mart\u00edn Br\u00fchl Gonz\u00e1lez",
+            "\u05d3\u05e0\u05d9\u05d0\u05dc \u05d1\u05e8\u05d9\u05d4\u05dc",
+            "\u0414\u0430\u043d\u0456\u0435\u043b\u044c \u0411\u0440\u044e\u043b\u044c",
+            "\u4e39\u5c3c\u723e\u00b7\u5e03\u723e",
+            "\u062f\u0627\u0646\u06cc\u0644 \u0628\u0631\u0648\u0644"
+        ],
+        "biography": "Daniel C\u00e9sar Mart\u00edn Br\u00fchl Gonz\u00e1lez (German: [\u02c8da\u02d0ni\u032fe\u02d0l \u02c8b\u0281y\u02d0l, -ni\u032f\u025bl -]; Spanish: [da\u02c8njel\u00a0\u02c8b\u027eul \u0261on\u02c8\u03b8ale\u03b8]; born 16 June 1978) is a German-Spanish actor. He has received various accolades, including three European Film Awards and\u00a0three German Film Awards, along with nominations for two Golden Globe Awards and a BAFTA Award. He received his first German Film Award for Best Actor for his roles in Das Weisse Rauschen (2001), Nichts Bereuen (2001), and Vaya con Dios (2002). His starring role in the German film Good Bye, Lenin! (2003) received widespread recognition and critical acclaim and garnered him the European Film Award for Best Actor and another German Film Award for Best Actor.\n\nHe was introduced to mainstream international audiences through his breakthrough performance as Fredrick Zoller, a Nazi German war hero in Quentin Tarantino's Inglourious Basterds (2009), and appearances in films like The Bourne Ultimatum (2007), The Fifth Estate (2013), and A Most Wanted Man (2014). Br\u00fchl received widespread critical acclaim and further recognition for his portrayal of former Formula 1 driver Niki Lauda in the biographical film Rush (2013), for which he earned nominations including the Golden Globe Award for Best Supporting Actor, the Critic's Choice Award for Best Supporting Actor, the Screen Actors Guild Award for Best Supporting Actor, and the BAFTA Award for Best Actor in a Supporting Role.\n\nIn the Marvel Cinematic Universe, Br\u00fchl portrays Helmut Zemo in Captain America: Civil War (2016) and the Disney+ series The Falcon and the Winter Soldier (2021). He also starred as Dr. L\u00e1szl\u00f3 Kreizler in the Emmy- and Golden Globe-nominated period drama television series The Alienist (2018\u20132020), for which he earned a nomination for the Golden Globe Award as Best Actor in a Television Motion Picture at the 76th Golden Globe Awards in 2018.\n\nDescription above from the Wikipedia article Daniel Br\u00fchl, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1978-06-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://danielbruehl.com/index.html",
+        "id": 3872,
+        "imdb_id": "nm0117709",
+        "known_for_department": "Acting",
+        "name": "Daniel Br\u00fchl",
+        "place_of_birth": " Barcelona, Catalonia, Spain",
+        "popularity": 1.5142,
+        "profile_path": "/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+    }
+}

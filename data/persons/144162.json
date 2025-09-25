@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    878
+                ],
+                "id": 1124,
+                "original_language": "en",
+                "original_title": "The Prestige",
+                "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+                "popularity": 11.832,
+                "poster_path": "/2ZOzyhoW08neG27DVySMCcq2emd.jpg",
+                "release_date": "2006-10-17",
+                "title": "The Prestige",
+                "video": false,
+                "vote_average": 8.204,
+                "vote_count": 16794,
+                "character": "Boy",
+                "credit_id": "56d9c47492514162b700b3dd",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eBmIaAm1CkBuuyIUQYorhQKzTTg.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 3580,
+                "original_language": "en",
+                "original_title": "Changeling",
+                "overview": "Los Angeles, 1928. When single mother Christine Collins leaves for work, her son vanishes without a trace. Five months later, the police reunite mother and son. But when Christine suspects that the boy returned to her isn't her child, her quest for truth exposes a world of corruption.",
+                "popularity": 4.9735,
+                "poster_path": "/y9Qi39dL3PceGCH8afyC7QrhbhI.jpg",
+                "release_date": "2008-10-24",
+                "title": "Changeling",
+                "video": false,
+                "vote_average": 7.584,
+                "vote_count": 4314,
+                "character": "Abducted Kid",
+                "credit_id": "56cc98b59251410a310001b8",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Anthony DeMarco"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 144162,
+        "imdb_id": "nm1556364",
+        "known_for_department": "Acting",
+        "name": "Anthony De Marco",
+        "place_of_birth": null,
+        "popularity": 0.1141,
+        "profile_path": null
+    }
+}

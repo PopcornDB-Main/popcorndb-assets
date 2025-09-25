@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.9553,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.867,
+                "vote_count": 3247,
+                "character": "Gerhard Falkstein",
+                "credit_id": "52fe437fc3a36847f805876f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 12092,
+                "original_language": "en",
+                "original_title": "Alice in Wonderland",
+                "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+                "popularity": 8.4198,
+                "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+                "release_date": "1951-07-28",
+                "title": "Alice in Wonderland",
+                "video": false,
+                "vote_average": 7.188,
+                "vote_count": 6057,
+                "character": "Caterpillar (voice)",
+                "credit_id": "52fe44b29251416c7503de11",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    10402,
+                    10749
+                ],
+                "id": 15121,
+                "original_language": "en",
+                "original_title": "The Sound of Music",
+                "overview": "In the years before the Second World War, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+                "popularity": 9.232,
+                "poster_path": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+                "release_date": "1965-03-29",
+                "title": "The Sound of Music",
+                "video": false,
+                "vote_average": 7.726,
+                "vote_count": 3443,
+                "character": "Max Detweiler",
+                "credit_id": "52fe463b9251416c75071a57",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Claud Curdle",
+            "George Richard Haydon"
+        ],
+        "biography": "Richard Haydn (March 10, 1905 \u2013 April 25, 1985) was an English comic actor in radio, films and television.",
+        "birthday": "1905-03-10",
+        "deathday": "1985-04-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 29283,
+        "imdb_id": "nm0370821",
+        "known_for_department": "Acting",
+        "name": "Richard Haydn",
+        "place_of_birth": "Camberwell, London, England, UK",
+        "popularity": 0.6273,
+        "profile_path": "/zPaYFZhis7PKycFBMnguWiSXgVy.jpg"
+    }
+}

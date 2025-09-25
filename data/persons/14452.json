@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    53
+                ],
+                "id": 963,
+                "original_language": "en",
+                "original_title": "The Maltese Falcon",
+                "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+                "popularity": 5.616,
+                "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+                "release_date": "1941-10-18",
+                "title": "The Maltese Falcon",
+                "video": false,
+                "vote_average": 7.712,
+                "vote_count": 1775,
+                "character": "Miles Archer",
+                "credit_id": "52fe4294c3a36847f8029a47",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rSnMQ82mFlpBLRt2UvohO6sgemd.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10751
+                ],
+                "id": 11881,
+                "original_language": "en",
+                "original_title": "Miracle on 34th Street",
+                "overview": "Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity.",
+                "popularity": 1.6625,
+                "poster_path": "/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+                "release_date": "1947-06-04",
+                "title": "Miracle on 34th Street",
+                "video": false,
+                "vote_average": 7.377,
+                "vote_count": 788,
+                "character": "Thomas Mara",
+                "credit_id": "52fe449a9251416c7503a83b",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jerome Palmer Cowan"
+        ],
+        "biography": "Jerome Palmer Cowan (October 6, 1897 \u2013 January 24, 1972) was an American stage, film, and television actor.",
+        "birthday": "1897-10-03",
+        "deathday": "1972-01-24",
+        "gender": 2,
+        "homepage": null,
+        "id": 14452,
+        "imdb_id": "nm0184578",
+        "known_for_department": "Acting",
+        "name": "Jerome Cowan",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.4552,
+        "profile_path": "/79be685su9LMAr41HMVKby0FsTg.jpg"
+    }
+}

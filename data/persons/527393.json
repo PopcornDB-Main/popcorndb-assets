@@ -1,0 +1,169 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dE0NoGwzU81sYTLY9gUGEzLjozG.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 84199,
+                "original_language": "en",
+                "original_title": "The First Time",
+                "overview": "A spark of attraction smolders, then ignites, between two teens from different high schools who meet by chance at a party.",
+                "popularity": 2.8228,
+                "poster_path": "/tG6jUndWd9FRuvI4j5Z2bhTuq0V.jpg",
+                "release_date": "2012-10-19",
+                "title": "The First Time",
+                "video": false,
+                "vote_average": 6.992,
+                "vote_count": 2127,
+                "character": "Dave Hodgman",
+                "credit_id": "52fe48e09251416c9109b397",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+                "genre_ids": [
+                    28,
+                    9648,
+                    878,
+                    53
+                ],
+                "id": 198663,
+                "original_language": "en",
+                "original_title": "The Maze Runner",
+                "overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+                "popularity": 23.2679,
+                "poster_path": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+                "release_date": "2014-09-10",
+                "title": "The Maze Runner",
+                "video": false,
+                "vote_average": 7.192,
+                "vote_count": 17558,
+                "character": "Thomas",
+                "credit_id": "52fe4d859251416c9111909d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 296524,
+                "original_language": "en",
+                "original_title": "Deepwater Horizon",
+                "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+                "popularity": 4.6993,
+                "poster_path": "/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+                "release_date": "2016-09-28",
+                "title": "Deepwater Horizon",
+                "video": false,
+                "vote_average": 6.886,
+                "vote_count": 4692,
+                "character": "Caleb Holloway",
+                "credit_id": "555a3063c3a368777200ca18",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 336843,
+                "original_language": "en",
+                "original_title": "Maze Runner: The Death Cure",
+                "overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+                "popularity": 9.6871,
+                "poster_path": "/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
+                "release_date": "2018-01-10",
+                "title": "Maze Runner: The Death Cure",
+                "video": false,
+                "vote_average": 7.096,
+                "vote_count": 8097,
+                "character": "Thomas",
+                "credit_id": "555bc7b792514163b50011a9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    878
+                ],
+                "id": 590223,
+                "original_language": "en",
+                "original_title": "Love and Monsters",
+                "overview": "Seven years since the Monsterpocalypse began, Joel Dawson has been living underground in order to survive. But after reconnecting over radio with his high school girlfriend Aimee, Joel decides to venture out to reunite with her, despite all the dangerous monsters that stand in his way.",
+                "popularity": 4.9567,
+                "poster_path": "/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+                "release_date": "2020-10-16",
+                "title": "Love and Monsters",
+                "video": false,
+                "vote_average": 7.283,
+                "vote_count": 4236,
+                "character": "Joel Dawson",
+                "credit_id": "5c96af9fc3a368419f398921",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jjXnYpRQMqzylAmYqKL7VFa3l9w.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 799876,
+                "original_language": "en",
+                "original_title": "The Outfit",
+                "overview": "Leonard is an English tailor who used to craft suits on London\u2019s world-famous Savile Row. After a personal tragedy, he\u2019s ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.",
+                "popularity": 5.4189,
+                "poster_path": "/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+                "release_date": "2022-02-25",
+                "title": "The Outfit",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 1234,
+                "character": "Richie Boyle",
+                "credit_id": "6035554297eab4003ed295aa",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ub51c\ub7f0 \uc624\ube0c\ub77c\uc774\uc5b8",
+            "\u0414\u0456\u043b\u0430\u043d \u041e'\u0411\u0440\u0430\u0454\u043d",
+            "Dylan Rhodes O'Brien",
+            "\u8fea\u4f26\u00b7\u5965\u5e03\u83b1\u6069",
+            "\u062f\u06cc\u0644\u0646 \u0627\u0648\u0628\u0631\u0627\u06cc\u0627\u0646"
+        ],
+        "biography": "Dylan Rhodes O'Brien\u00a0(born August 26, 1991) is an American actor. His first major role was as\u00a0Stiles Stilinski\u00a0in the\u00a0MTV\u00a0supernatural series\u00a0Teen Wolf\u00a0(2011\u20132017). He achieved further prominence for his lead role in the science fiction\u00a0Maze Runner\u00a0trilogy\u00a0(2014\u20132018), which led to more film appearances.\u00a0\n\nO'Brien played\u00a0Deepwater Horizon explosion survivor Caleb Holloway in the disaster film\u00a0Deepwater Horizon\u00a0(2016), fictional counterterrorist\u00a0Mitch Rapp\u00a0in the action thriller\u00a0American Assassin\u00a0(2017), and voiced the\u00a0title character\u00a0in the\u00a0Transformers\u00a0instalment\u00a0Bumblebee\u00a0(2018). He also played the lead role in the adventure film\u00a0Love and Monsters\u00a0(2020) and the horror film\u00a0Caddo Lake\u00a0(2024).\n\nDescription above from the Wikipedia article Dylan O'Brien, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1991-08-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://dylanobrien.org",
+        "id": 527393,
+        "imdb_id": "nm3729721",
+        "known_for_department": "Acting",
+        "name": "Dylan O'Brien",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 2.0652,
+        "profile_path": "/xN3GdvIlqsR838gDoblhPH0numP.jpg"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/x085XrfEmU31QeXgMFttmuoGr0Y.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    878
+                ],
+                "id": 170,
+                "original_language": "en",
+                "original_title": "28 Days Later",
+                "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+                "popularity": 17.8409,
+                "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+                "release_date": "2002-10-31",
+                "title": "28 Days Later",
+                "video": false,
+                "vote_average": 7.235,
+                "vote_count": 7832,
+                "character": "Scientist",
+                "credit_id": "52fe4222c3a36847f8006853",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 954,
+                "original_language": "en",
+                "original_title": "Mission: Impossible",
+                "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+                "popularity": 13.5362,
+                "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+                "release_date": "1996-05-22",
+                "title": "Mission: Impossible",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 9537,
+                "character": "Train Engineer",
+                "credit_id": "57f3c69b9251410c3100b6c2",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/x2FqFdUxRekbNdow3vZdtDqL96z.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 402897,
+                "original_language": "en",
+                "original_title": "The Death of Stalin",
+                "overview": "When dictator Joseph Stalin dies, his parasitic cronies square off in a frantic power struggle to become the next Soviet leader. As they bumble, brawl and back-stab their way to the top, the question remains \u2014 just who is running the government?",
+                "popularity": 2.4658,
+                "poster_path": "/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg",
+                "release_date": "2017-10-20",
+                "title": "The Death of Stalin",
+                "video": false,
+                "vote_average": 7.012,
+                "vote_count": 2009,
+                "credit_id": "5767db32c3a36843350003b1",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "David Schneider is a British actor, comedian, and director, best known for playing Tony Hayers in the Alan Partridge franchise.",
+        "birthday": "1963-05-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://daveschneider.co.uk",
+        "id": 2065,
+        "imdb_id": "nm0773768",
+        "known_for_department": "Acting",
+        "name": "David Schneider",
+        "place_of_birth": " London, England, UK",
+        "popularity": 0.2441,
+        "profile_path": "/g0H9HPTUa2rtt7MqOdyVOEkTNYS.jpg"
+    }
+}

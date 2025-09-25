@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    28
+                ],
+                "id": 617653,
+                "original_language": "en",
+                "original_title": "The Last Duel",
+                "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+                "popularity": 6.1744,
+                "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+                "release_date": "2021-10-13",
+                "title": "The Last Duel",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 3604,
+                "character": "Le Gris' Priest",
+                "credit_id": "62f10746df857c00824687ab",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 197,
+                "original_language": "en",
+                "original_title": "Braveheart",
+                "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+                "popularity": 11.4772,
+                "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+                "release_date": "1995-05-24",
+                "title": "Braveheart",
+                "video": false,
+                "vote_average": 7.944,
+                "vote_count": 10594,
+                "character": "Craig",
+                "credit_id": "55dc9c8ec3a368657a0002d3",
+                "order": 34
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u0436\u043e\u043d \u041a\u044d\u0432\u044d\u043d\u0430"
+        ],
+        "biography": "",
+        "birthday": "1946-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 20282,
+        "imdb_id": "nm0442559",
+        "known_for_department": "Acting",
+        "name": "John Kavanagh",
+        "place_of_birth": "Ireland",
+        "popularity": 0.4586,
+        "profile_path": "/wG5dUlNS4b7eUof6m32MaVFWdla.jpg"
+    }
+}

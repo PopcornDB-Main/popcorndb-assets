@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 11,
+                "original_language": "en",
+                "original_title": "Star Wars",
+                "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+                "popularity": 15.836,
+                "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+                "release_date": "1977-05-25",
+                "title": "Star Wars",
+                "video": false,
+                "vote_average": 8.206,
+                "vote_count": 21485,
+                "character": "General Motti",
+                "credit_id": "52fe420dc3a36847f80004c7",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    35,
+                    80
+                ],
+                "id": 856,
+                "original_language": "en",
+                "original_title": "Who Framed Roger Rabbit",
+                "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                "popularity": 5.972,
+                "poster_path": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+                "release_date": "1988-06-22",
+                "title": "Who Framed Roger Rabbit",
+                "video": false,
+                "vote_average": 7.531,
+                "vote_count": 5937,
+                "character": "Lt. Santino",
+                "credit_id": "52fe4283c3a36847f8024a1f",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard Parmentier"
+        ],
+        "biography": "Richard LeParmentier (July 16, 1946 \u2013 April 15, 2013) was an American actor who lived and worked primarily in the United Kingdom, best known for his role as Admiral Motti in Star Wars Episode IV: A New Hope (1977) and the acerbic police officer Lt. Santino in Who Framed Roger Rabbit (1988). He is credited under several variations of his name, including Richard Parmentier, Rick Le Parmentier and Richard LeParmentiere.\n\nFrom Wikipedia, the free encyclopedia",
+        "birthday": "1946-07-16",
+        "deathday": "2013-04-15",
+        "gender": 2,
+        "homepage": null,
+        "id": 12829,
+        "imdb_id": "nm0503236",
+        "known_for_department": "Acting",
+        "name": "Richard LeParmentier",
+        "place_of_birth": "Pittsburgh, Pennsylvania, USA",
+        "popularity": 0.1249,
+        "profile_path": "/sxKfuif3ngW26TZOhKgyc1beJzC.jpg"
+    }
+}

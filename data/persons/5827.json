@@ -1,0 +1,101 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t07Pdtl3rTbE5mBdV8hAggHcGVN.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 433,
+                "original_language": "en",
+                "original_title": "Mary Poppins",
+                "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
+                "popularity": 5.3935,
+                "poster_path": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
+                "release_date": "1964-12-17",
+                "title": "Mary Poppins",
+                "video": false,
+                "vote_average": 7.56,
+                "vote_count": 4833,
+                "character": "Ellen",
+                "credit_id": "52fe4243c3a36847f801081f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oM5mMTGBqsmMJO3l5tkQdQ0Xujm.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    12
+                ],
+                "id": 10112,
+                "original_language": "en",
+                "original_title": "The Aristocats",
+                "overview": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children\u2014Bonfamille\u2019s beloved family of cats\u2014the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O\u2019Malley Cat and his jazz-playing alley cats come to the aristocats\u2019 rescue.",
+                "popularity": 6.7171,
+                "poster_path": "/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+                "release_date": "1970-12-24",
+                "title": "The Aristocats",
+                "video": false,
+                "vote_average": 7.292,
+                "vote_count": 5222,
+                "character": "Madame (voice)",
+                "credit_id": "649e901e091e6200cae0b33b",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ppNc9wcpdHFvfxGuLeiXUpmB3oA.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    14,
+                    12,
+                    18,
+                    9648,
+                    878
+                ],
+                "id": 11704,
+                "original_language": "en",
+                "original_title": "The Secret of NIMH",
+                "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+                "popularity": 5.1077,
+                "poster_path": "/bqH0pbnt92C8WJ3lwLhllQZndeY.jpg",
+                "release_date": "1982-06-17",
+                "title": "The Secret of NIMH",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 879,
+                "character": "Auntie Shrew (voice)",
+                "credit_id": "5680d69c9251414f63008a48",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Youlanda Ruby Clinton-Baddeley",
+            "\u0413\u0435\u0440\u043c\u0438\u043e\u043d\u0430 \u0411\u0430\u0434\u0434\u0435\u043b\u0435\u0439",
+            "Hermione Youlanda Ruby Clinton-Baddeley"
+        ],
+        "biography": "Hermione Youlanda Ruby Clinton-Baddeley (13 November 1906 - 19 August 1986) was an English character actress of theatre, film and television.\n\nShe is the sister of Angela Baddeley, best known for playing Mrs Hudson in the television series 'Upstairs Downstairs'.\n\nShe died in California following a series of strokes on 19th August 1986.",
+        "birthday": "1906-11-13",
+        "deathday": "1986-08-19",
+        "gender": 1,
+        "homepage": null,
+        "id": 5827,
+        "imdb_id": "nm0045968",
+        "known_for_department": "Acting",
+        "name": "Hermione Baddeley",
+        "place_of_birth": "Broseley, Shropshire, England, UK",
+        "popularity": 0.239,
+        "profile_path": "/33ZEfseoz0NFa5wB76mW86ed5Re.jpg"
+    }
+}

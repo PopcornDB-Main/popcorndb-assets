@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    14
+                ],
+                "id": 287947,
+                "original_language": "en",
+                "original_title": "Shazam!",
+                "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+                "popularity": 6.2104,
+                "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+                "release_date": "2019-03-29",
+                "title": "Shazam!",
+                "video": false,
+                "vote_average": 6.988,
+                "vote_count": 9869,
+                "character": "Carnival Goer",
+                "credit_id": "62dc4ed00d9f5a0067b72301",
+                "order": 70
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3634937,
+        "imdb_id": "nm10600981",
+        "known_for_department": "Acting",
+        "name": "Anthony Gritsyuk",
+        "place_of_birth": null,
+        "popularity": 0.0327,
+        "profile_path": null
+    }
+}

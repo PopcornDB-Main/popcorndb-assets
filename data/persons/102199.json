@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cEsnLkTCJ4jh9Oym7nPAPGnOMm3.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 379,
+                "original_language": "en",
+                "original_title": "Miller's Crossing",
+                "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+                "popularity": 2.9485,
+                "poster_path": "/ab3pnsTKp3BgcAFy0FgWBFBg9FL.jpg",
+                "release_date": "1990-09-21",
+                "title": "Miller's Crossing",
+                "video": false,
+                "vote_average": 7.458,
+                "vote_count": 1740,
+                "character": "O'Doole",
+                "credit_id": "6473849a9408ec010025c422",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.9981,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "character": "Newsroom Reporter",
+                "credit_id": "6390e827d7107e009b5052e1",
+                "order": 63
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sd37prLFqNbL9ES2OTUBiEAcwIH.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14359,
+                "original_language": "en",
+                "original_title": "Doubt",
+                "overview": "In 1964 Bronx, two Catholic school nuns question the new priest's ambiguous relationship with a troubled African-American student.",
+                "popularity": 2.1905,
+                "poster_path": "/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg",
+                "release_date": "2008-12-12",
+                "title": "Doubt",
+                "video": false,
+                "vote_average": 7.199,
+                "vote_count": 1798,
+                "character": "Monsignor Benedict",
+                "credit_id": "583fbd1fc3a36862eb0060bd",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Thomas Toner"
+        ],
+        "biography": "",
+        "birthday": "1928-05-25",
+        "deathday": "2015-07-10",
+        "gender": 2,
+        "homepage": null,
+        "id": 102199,
+        "imdb_id": "nm0867177",
+        "known_for_department": "Acting",
+        "name": "Tom Toner",
+        "place_of_birth": "Homestead, Pennsylvania, USA",
+        "popularity": 0.1144,
+        "profile_path": null
+    }
+}

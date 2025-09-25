@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uGXid3UHMzoL2hyNfWSPDWkqbKC.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 10787,
+                "original_language": "en",
+                "original_title": "The Invisible Man",
+                "overview": "After experimenting on himself and becoming invisible, scientist Jack Griffin, now aggressive due to the drug's effects, seeks a way to reverse the experiment at any cost.",
+                "popularity": 2.034,
+                "poster_path": "/ewfUA5pMEJrmQCdI4TsHmLlIUbf.jpg",
+                "release_date": "1933-11-03",
+                "title": "The Invisible Man",
+                "video": false,
+                "vote_average": 7.507,
+                "vote_count": 893,
+                "character": "Townsman at Pub (uncredited)",
+                "credit_id": "64276e2ea3e4ba007792dfa4",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 13528,
+                "original_language": "en",
+                "original_title": "Gaslight",
+                "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+                "popularity": 2.535,
+                "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+                "release_date": "1944-05-04",
+                "title": "Gaslight",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 515,
+                "character": "Lamplighter (uncredited)",
+                "credit_id": "5655f6fdc3a3681984004c04",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bobbie Hale"
+        ],
+        "biography": "",
+        "birthday": "1886-05-27",
+        "deathday": "1977-09-27",
+        "gender": 2,
+        "homepage": null,
+        "id": 120458,
+        "imdb_id": "nm0354860",
+        "known_for_department": "Acting",
+        "name": "Bobby Hale",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.0725,
+        "profile_path": null
+    }
+}

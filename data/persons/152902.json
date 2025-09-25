@@ -1,0 +1,133 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6291,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "Officer at Police Dock",
+                "credit_id": "52fe428ec3a36847f8027bbd",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/22l5YKpMHBeh0o4uHQ079Y19PPg.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 222935,
+                "original_language": "en",
+                "original_title": "The Fault in Our Stars",
+                "overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+                "popularity": 6.4118,
+                "poster_path": "/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",
+                "release_date": "2014-05-16",
+                "title": "The Fault in Our Stars",
+                "video": false,
+                "vote_average": 7.595,
+                "vote_count": 11350,
+                "character": "Dr. Simmons",
+                "credit_id": "55507a2a92514173be00028e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fEaZwgkX2k91LJZ5APkaK0aDwg1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 321741,
+                "original_language": "en",
+                "original_title": "Concussion",
+                "overview": "A dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu's emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.",
+                "popularity": 2.4243,
+                "poster_path": "/uuRFr7Jhsq7bITDyyvxZrQMAr9e.jpg",
+                "release_date": "2015-11-12",
+                "title": "Concussion",
+                "video": false,
+                "vote_average": 7.082,
+                "vote_count": 2627,
+                "character": "Deputy Mayor",
+                "credit_id": "58b47618c3a368527d0185d8",
+                "order": 29
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 2907,
+                "original_language": "en",
+                "original_title": "The Addams Family",
+                "overview": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.",
+                "popularity": 10.6507,
+                "poster_path": "/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+                "release_date": "1991-11-22",
+                "title": "The Addams Family",
+                "video": false,
+                "vote_average": 7.066,
+                "vote_count": 4810,
+                "credit_id": "64d0ecec945d3600c5737b7b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6291,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "credit_id": "5faf5d53b54002003f58162c",
+                "department": "Costume & Make-Up",
+                "job": "Assistant Makeup Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1955-09-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.randykovitz.com/",
+        "id": 152902,
+        "imdb_id": "nm0468414",
+        "known_for_department": "Acting",
+        "name": "Randy Kovitz",
+        "place_of_birth": "Arlington, Virginia, USA",
+        "popularity": 0.2862,
+        "profile_path": "/24BP7ibxHyrFX6uU52YLtwvIToT.jpg"
+    }
+}

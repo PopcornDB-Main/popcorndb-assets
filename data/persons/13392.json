@@ -1,0 +1,213 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t07Pdtl3rTbE5mBdV8hAggHcGVN.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 433,
+                "original_language": "en",
+                "original_title": "Mary Poppins",
+                "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
+                "popularity": 5.8117,
+                "poster_path": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
+                "release_date": "1964-12-17",
+                "title": "Mary Poppins",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 4831,
+                "character": "Mr. Dawes Jr.",
+                "credit_id": "52fe4243c3a36847f801088b",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 948,
+                "original_language": "en",
+                "original_title": "Halloween",
+                "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+                "popularity": 7.377,
+                "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+                "release_date": "1978-10-24",
+                "title": "Halloween",
+                "video": false,
+                "vote_average": 7.563,
+                "vote_count": 5880,
+                "character": "Graveyard Keeper",
+                "credit_id": "52fe4292c3a36847f80290a7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.9553,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.867,
+                "vote_count": 3247,
+                "character": "Village Elder",
+                "credit_id": "52fe437fc3a36847f805878d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/knYZcpl08qhiEPCytyNXOq7Z1oS.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 10633,
+                "original_language": "en",
+                "original_title": "In the Heat of the Night",
+                "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
+                "popularity": 4.0963,
+                "poster_path": "/1zjS7aSgvOX98BSWEsshDw3kxe5.jpg",
+                "release_date": "1967-08-02",
+                "title": "In the Heat of the Night",
+                "video": false,
+                "vote_average": 7.649,
+                "vote_count": 1161,
+                "character": "Ulam",
+                "credit_id": "52fe43999251416c75016a7b",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ppNc9wcpdHFvfxGuLeiXUpmB3oA.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    14,
+                    12,
+                    18,
+                    9648,
+                    878
+                ],
+                "id": 11704,
+                "original_language": "en",
+                "original_title": "The Secret of NIMH",
+                "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+                "popularity": 5.3447,
+                "poster_path": "/bqH0pbnt92C8WJ3lwLhllQZndeY.jpg",
+                "release_date": "1982-06-17",
+                "title": "The Secret of NIMH",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 879,
+                "character": "Mr. Ages (voice)",
+                "credit_id": "52fe447d9251416c75036917",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 9444,
+                "original_language": "en",
+                "original_title": "Anastasia",
+                "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
+                "popularity": 5.1878,
+                "poster_path": "/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+                "release_date": "1997-11-20",
+                "title": "Anastasia",
+                "video": false,
+                "vote_average": 7.605,
+                "vote_count": 5439,
+                "character": "Travelling Man / Major Domo (voice)",
+                "credit_id": "628d1e149a64350065b1e38c",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jQAGYwpp00D9PN7qKIPb4HqNzoq.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    35,
+                    10751,
+                    10402,
+                    16
+                ],
+                "id": 12335,
+                "original_language": "en",
+                "original_title": "Bedknobs and Broomsticks",
+                "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+                "popularity": 3.9562,
+                "poster_path": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+                "release_date": "1971-10-07",
+                "title": "Bedknobs and Broomsticks",
+                "video": false,
+                "vote_average": 7.033,
+                "vote_count": 991,
+                "character": "Mr. Widdenfield (Museum Guard) (uncredited)",
+                "credit_id": "6331656ce86017007b141312",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tcMVpjdEpsXrbPtVrSmh4uDBSiy.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 19101,
+                "original_language": "en",
+                "original_title": "A Little Princess",
+                "overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
+                "popularity": 4.1734,
+                "poster_path": "/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+                "release_date": "1995-05-10",
+                "title": "A Little Princess",
+                "video": false,
+                "vote_average": 7.625,
+                "vote_count": 1004,
+                "character": "Charles Randolph",
+                "credit_id": "5c9cfc32c3a368182826e8fb",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "From Wikipedia, the free encyclopedia\n\nArthur Malet (born 24 September 1927) is an English actor.\n\nArthur Malet was born in Lee-on-Solent, Hampshire, England in 1927. He emigrated to the United States in the 1950s, starting out onstage and winning two Drama Desk Awards in 1957. He came to some prominence in the 1960s, starring in films playing characters much older than his real age, such as Mr. Dawes, Jr. in Mary Poppins.\n\nHe played Joe Fenwick in a 1972 episode of Columbo, \"Dagger of the Mind\". He went on to play a village elder in Mel Brooks' Young Frankenstein in 1974, and Tootles in Hook in 1991. His appearances on television include The Alfred Hitchcock Hour, \u201cThe McGregor Affair\u201d (original air date November 23, 1964).\n\nDescription above from the Wikipedia article Arthur Malet, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1927-09-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 13392,
+        "imdb_id": "nm0539395",
+        "known_for_department": "Acting",
+        "name": "Arthur Malet",
+        "place_of_birth": "Lee-on-Solent, Hampshire, England, UK",
+        "popularity": 0.3,
+        "profile_path": "/AbmKxci3EZMG2rBmFLQiUdNsySL.jpg"
+    }
+}

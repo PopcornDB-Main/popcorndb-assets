@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14,
+                "original_language": "en",
+                "original_title": "American Beauty",
+                "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+                "popularity": 9.2546,
+                "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+                "release_date": "1999-09-15",
+                "title": "American Beauty",
+                "video": false,
+                "vote_average": 8.005,
+                "vote_count": 12548,
+                "character": "Jim Berkley",
+                "credit_id": "52fe420ec3a36847f80007f3",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12
+                ],
+                "id": 644,
+                "original_language": "en",
+                "original_title": "A.I. Artificial Intelligence",
+                "overview": "David, a robotic boy\u2014the first of his kind programmed to love\u2014is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+                "popularity": 8.2332,
+                "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+                "release_date": "2001-06-29",
+                "title": "A.I. Artificial Intelligence",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 6384,
+                "character": "Henry Swinton",
+                "credit_id": "52fe4263c3a36847f801a9d7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aQFBJPlPv8wAe4qUWDMQC7CN9Za.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 10142,
+                "original_language": "en",
+                "original_title": "Casualties of War",
+                "overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+                "popularity": 6.5647,
+                "poster_path": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+                "release_date": "1989-08-18",
+                "title": "Casualties of War",
+                "video": false,
+                "vote_average": 7.157,
+                "vote_count": 942,
+                "character": "Chaplain Kirk",
+                "credit_id": "611b8db86654080047408c33",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Sam Prideaux Robards (born December 16, 1961) is an American actor. He is best known for his film roles in American Beauty (1999) and A.I. Artificial Intelligence (2001). For his performance in the Broadway production of The Man Who Had All the Luck, he received a nomination for the Tony Award for Best Featured Actor in a Play.\n\nDescription above from the Wikipedia article Sam Robards, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1961-12-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8213,
+        "imdb_id": "nm0730168",
+        "known_for_department": "Acting",
+        "name": "Sam Robards",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.5976,
+        "profile_path": "/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg"
+    }
+}

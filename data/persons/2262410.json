@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Rey Yees (uncredited)",
+                "credit_id": "6452f67287a27a00fe7223aa",
+                "order": 172
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    35,
+                    80
+                ],
+                "id": 856,
+                "original_language": "en",
+                "original_title": "Who Framed Roger Rabbit",
+                "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                "popularity": 5.972,
+                "poster_path": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+                "release_date": "1988-06-22",
+                "title": "Who Framed Roger Rabbit",
+                "video": false,
+                "vote_average": 7.531,
+                "vote_count": 5937,
+                "character": "Augie",
+                "credit_id": "5e87d5fe55c1f400168363af",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2262410,
+        "imdb_id": "nm0819752",
+        "known_for_department": "Acting",
+        "name": "Paul Springer",
+        "place_of_birth": null,
+        "popularity": 0.4516,
+        "profile_path": null
+    }
+}

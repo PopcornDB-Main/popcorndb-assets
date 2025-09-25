@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lFLQNIkNVIHLXNVDHbt4pow4lXc.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    36
+                ],
+                "id": 423612,
+                "original_language": "de",
+                "original_title": "Werk ohne Autor",
+                "overview": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
+                "popularity": 1.1593,
+                "poster_path": "/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg",
+                "release_date": "2018-10-03",
+                "title": "Never Look Away",
+                "video": false,
+                "vote_average": 7.77,
+                "vote_count": 714,
+                "character": "Ehrenfried May",
+                "credit_id": "5b8e8fddc3a368520f062f91",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5CpXLhwcjnupeC5Ll3hMoCMJf1l.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27,
+                    35
+                ],
+                "id": 505706,
+                "original_language": "de",
+                "original_title": "Der Goldene Handschuh",
+                "overview": "A serial killer strikes fear in the hearts of residents of Hamburg during the early 1970s.",
+                "popularity": 3.3757,
+                "poster_path": "/tu4PfotoM2Fti033O9gwHt7XpJw.jpg",
+                "release_date": "2019-02-21",
+                "title": "The Golden Glove",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 600,
+                "character": "Fritz Honka",
+                "credit_id": "5c12ffef0e0a2603823b363b",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1996-03-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1723252,
+        "imdb_id": "nm7179786",
+        "known_for_department": "Acting",
+        "name": "Jonas Dassler",
+        "place_of_birth": "Remscheid, Germany",
+        "popularity": 0.547,
+        "profile_path": "/tDjmGtSY3CPv7ktkifoKAWwZb90.jpg"
+    }
+}

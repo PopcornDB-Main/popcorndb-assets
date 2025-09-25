@@ -1,0 +1,306 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bdms9QMM4y6NBKIvXDINsKnK0Fj.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    36
+                ],
+                "id": 26428,
+                "original_language": "en",
+                "original_title": "Agora",
+                "overview": "A historical drama set in Roman Egypt, concerning philosopher Hypatia of Alexandria and her relationship with her slave Davus, who is torn between his love for her and the possibility of gaining his freedom by joining the rising tide of Christianity.",
+                "popularity": 2.5684,
+                "poster_path": "/1xsFa6I5vDd2UI1AJ1tsW7BUChv.jpg",
+                "release_date": "2009-05-17",
+                "title": "Agora",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1486,
+                "character": "Orestes",
+                "credit_id": "52fe4501c3a368484e043383",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 64690,
+                "original_language": "en",
+                "original_title": "Drive",
+                "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+                "popularity": 9.7245,
+                "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+                "release_date": "2011-09-15",
+                "title": "Drive",
+                "video": false,
+                "vote_average": 7.584,
+                "vote_count": 13070,
+                "character": "Standard",
+                "credit_id": "52fe46e4c3a368484e0a9b5f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    12,
+                    878
+                ],
+                "id": 569094,
+                "original_language": "en",
+                "original_title": "Spider-Man: Across the Spider-Verse",
+                "overview": "After reuniting with Gwen Stacy, Brooklyn\u2019s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse\u2019s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+                "popularity": 19.881,
+                "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+                "release_date": "2023-05-31",
+                "title": "Spider-Man: Across the Spider-Verse",
+                "video": false,
+                "vote_average": 8.341,
+                "vote_count": 7889,
+                "character": "Miguel O'Hara (voice)",
+                "credit_id": "6489a527e2726001287c06d5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kdkCTC6Cl20TJSf4B1eIJXAFeXl.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 86829,
+                "original_language": "en",
+                "original_title": "Inside Llewyn Davis",
+                "overview": "In Greenwich Village in the early 1960s, gifted but volatile folk musician Llewyn Davis struggles with money, relationships, and his uncertain future.",
+                "popularity": 3.8224,
+                "poster_path": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+                "release_date": "2013-10-18",
+                "title": "Inside Llewyn Davis",
+                "video": false,
+                "vote_average": 7.192,
+                "vote_count": 2792,
+                "character": "Llewyn Davis",
+                "credit_id": "52fe49a39251416c910b3b9d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 264660,
+                "original_language": "en",
+                "original_title": "Ex Machina",
+                "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+                "popularity": 8.345,
+                "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+                "release_date": "2015-01-21",
+                "title": "Ex Machina",
+                "video": false,
+                "vote_average": 7.573,
+                "vote_count": 13707,
+                "character": "Nathan",
+                "credit_id": "534c28c2c3a3682e07003423",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 12.8263,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19962,
+                "character": "Poe Dameron",
+                "credit_id": "535fd94ec3a3683084006cfd",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zTMtN7DjyqYuTFwBXw1ywl3JyTO.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 446696,
+                "original_language": "en",
+                "original_title": "Life Itself",
+                "overview": "As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.",
+                "popularity": 2.4367,
+                "poster_path": "/pE2hxC8bPbIi9tGyhFg5xiFW6dA.jpg",
+                "release_date": "2018-09-21",
+                "title": "Life Itself",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 590,
+                "character": "Will Dempsey",
+                "credit_id": "58c62ff4c3a368412800f0ad",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cOUZMd2Cr6uOHcdCDJtWRgVN4aN.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 491472,
+                "original_language": "en",
+                "original_title": "At Eternity's Gate",
+                "overview": "Famed but tormented artist Vincent van Gogh spends his final years in Arles, France, painting masterworks of the natural world that surrounds him.",
+                "popularity": 3.1132,
+                "poster_path": "/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg",
+                "release_date": "2018-11-15",
+                "title": "At Eternity's Gate",
+                "video": false,
+                "vote_average": 6.96,
+                "vote_count": 1497,
+                "character": "Paul Gauguin",
+                "credit_id": "5a2a91e30e0a264cc8130b44",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    12,
+                    878
+                ],
+                "id": 324857,
+                "original_language": "en",
+                "original_title": "Spider-Man: Into the Spider-Verse",
+                "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+                "popularity": 14.1819,
+                "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+                "release_date": "2018-12-06",
+                "title": "Spider-Man: Into the Spider-Verse",
+                "video": false,
+                "vote_average": 8.397,
+                "vote_count": 16441,
+                "character": "Interesting Person #1 (voice)",
+                "credit_id": "5bff1d95c3a36865bc053080",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 438631,
+                "original_language": "en",
+                "original_title": "Dune",
+                "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+                "popularity": 18.4986,
+                "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+                "release_date": "2021-09-15",
+                "title": "Dune",
+                "video": false,
+                "vote_average": 7.781,
+                "vote_count": 13921,
+                "character": "Duke Leto Atreides",
+                "credit_id": "5c50bc070e0a2612cccedcb3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 639721,
+                "original_language": "en",
+                "original_title": "The Addams Family 2",
+                "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+                "popularity": 6.2037,
+                "poster_path": "/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+                "release_date": "2021-10-01",
+                "title": "The Addams Family 2",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1352,
+                "character": "Gomez Addams (voice)",
+                "credit_id": "5f7e10450499f2003a62353d",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/kv9xVrxfLpudBLyYf1QvLCpUQuy.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 1182047,
+                "original_language": "en",
+                "original_title": "The Apprentice",
+                "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect prot\u00e9g\u00e9\u2014someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
+                "popularity": 5.1203,
+                "poster_path": "/zxA7bL9qOnU49NXIqpnyJlRvkqs.jpg",
+                "release_date": "2024-10-09",
+                "title": "The Apprentice",
+                "video": false,
+                "vote_average": 6.909,
+                "vote_count": 734,
+                "credit_id": "672be714ec5c6d529fc56963",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u5965\u65af\u5361\u00b7\u4f0a\u8428\u514b",
+            "\u30aa\u30b9\u30ab\u30fc\u30fb\u30a2\u30a4\u30b6\u30c3\u30af",
+            "\uc624\uc2a4\uce74 \uc544\uc774\uc791",
+            "\u0623\u0648\u0633\u0643\u0627\u0631 \u0625\u0633\u062d\u0627\u0642",
+            "\u00d3scar Isaac Hern\u00e1ndez Estrada",
+            "\u00d3scar Isaac",
+            "\u5967\u65af\u5361\u00b7\u4f0a\u85a9\u514b",
+            "\u0627\u0633\u06a9\u0627\u0631 \u0622\u06cc\u0632\u0627\u06a9"
+        ],
+        "biography": "\u00d3scar Isaac Hern\u00e1ndez Estrada (born March 9, 1979) is an American actor. After making his acting debut in the late 1990s, he studied acting at the Juilliard School and played small roles for a majority of the 2000s. For portraying Jos\u00e9 Ramos-Horta in the Australian film Balibo (2006), Isaac won the AACTA Award for Best Actor in a Supporting Role. Following supporting roles in major films such as Body of Lies (2008), Robin Hood (2010) and Drive (2011), Isaac had his breakthrough with the starring role of a singer in the Coen brothers' black comedy Inside Llewyn Davis (2013), earning a nomination for a Golden Globe Award.\n\nIsaac's career progressed with leading roles in the crime drama A Most Violent Year (2014), the thriller Ex Machina (2015), and the superhero film X-Men: Apocalypse (2016). He became a global star with his starring role as Poe Dameron in the Star Wars sequel trilogy (2015\u20132019). He has since starred in the science fiction films Annihilation (2018) and Dune (2021), and the crime drama The Card Counter (2021).\n\nOn television, Isaac has starred in the HBO miniseries Show Me a Hero (2015) and Scenes from a Marriage (2021), winning the Golden Globe Award for Best Actor \u2013 Miniseries or Television Film for portraying Nick Wasicsko in the former. In 2022, he began starring as the Marvel Cinematic Universe character Moon Knight in the Disney+ series Moon Knight (2022).\n\nDescription above from the Wikipedia article Oscar Isaac, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1979-03-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 25072,
+        "imdb_id": "nm1209966",
+        "known_for_department": "Acting",
+        "name": "Oscar Isaac",
+        "place_of_birth": "Guatemala City, Guatemala",
+        "popularity": 2.3685,
+        "profile_path": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    }
+}

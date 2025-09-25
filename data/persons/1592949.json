@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ks3WTeuEaenmMiizxXba65Rxpu1.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 823951,
+                "original_language": "fr",
+                "original_title": "Novembre",
+                "overview": "In November 2015, a series of unprecedented and deadly attacks hits Paris. The anti-terrorist police led by Heloise and her chief commander Fred - face an unprecedented level of pressure: in a race against the clock, they must find the perpetrators of the attacks as quickly as possible before they can strike again, travelling across Europe and beyond in one of the biggest manhunts in history.",
+                "popularity": 2.7574,
+                "poster_path": "/A5wae5M81jLTuv3WbCJfORxapRA.jpg",
+                "release_date": "2022-10-05",
+                "title": "November",
+                "video": false,
+                "vote_average": 7.072,
+                "vote_count": 821,
+                "character": "Julia",
+                "credit_id": "630383f64fd141008c4838bb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 398818,
+                "original_language": "en",
+                "original_title": "Call Me by Your Name",
+                "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+                "popularity": 9.6006,
+                "poster_path": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+                "release_date": "2017-07-28",
+                "title": "Call Me by Your Name",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 12428,
+                "character": "Chiara",
+                "credit_id": "5854c3a4c3a368258f031def",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rHJX9CMYk7FXxUV5la1dEFSPVCv.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    14
+                ],
+                "id": 586940,
+                "original_language": "fr",
+                "original_title": "J'ai perdu mon corps",
+                "overview": "A story of Naoufel, a young man who is in love with Gabrielle. In another part of town, a severed hand escapes from a dissection lab, determined to find its body again.",
+                "popularity": 1.7685,
+                "poster_path": "/z5dXCywyo8zEPNDkeQY7nbvkrz8.jpg",
+                "release_date": "2019-11-06",
+                "title": "I Lost My Body",
+                "video": false,
+                "vote_average": 7.487,
+                "vote_count": 1292,
+                "character": "Gabrielle (voice)",
+                "credit_id": "5c82c27bc3a3684e8fd895da",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Victoire Du Bois"
+        ],
+        "biography": "",
+        "birthday": "1988-06-14",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1592949,
+        "imdb_id": "nm4973460",
+        "known_for_department": "Acting",
+        "name": "Victoire du Bois",
+        "place_of_birth": "Nantes, Loire-Atlantique, France",
+        "popularity": 0.4793,
+        "profile_path": "/eQm8pA8ahuPZysSsqxd9oqmEBUy.jpg"
+    }
+}

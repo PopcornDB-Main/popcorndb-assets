@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    14
+                ],
+                "id": 765,
+                "original_language": "en",
+                "original_title": "Evil Dead II",
+                "overview": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording an evil power is unleashed taking over Linda's body.",
+                "popularity": 4.3932,
+                "poster_path": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+                "release_date": "1987-03-13",
+                "title": "Evil Dead II",
+                "video": false,
+                "vote_average": 7.549,
+                "vote_count": 3296,
+                "character": "Henrietta",
+                "credit_id": "52fe4273c3a36847f801f8ed",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 177,
+                "original_language": "en",
+                "original_title": "The Fisher King",
+                "overview": "Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves.",
+                "popularity": 4.2096,
+                "poster_path": "/hwIYw22HmAUMobV4zsX69MgfVUz.jpg",
+                "release_date": "1991-09-20",
+                "title": "The Fisher King",
+                "video": false,
+                "vote_average": 7.292,
+                "vote_count": 1390,
+                "character": "Nurse",
+                "credit_id": "658f8eb6f5f1c527b9005ea9",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1924-02-25",
+        "deathday": "1995-12-01",
+        "gender": 1,
+        "homepage": null,
+        "id": 11756,
+        "imdb_id": "nm0359393",
+        "known_for_department": "Acting",
+        "name": "Lou Hancock",
+        "place_of_birth": "Fort Worth, Texas, USA",
+        "popularity": 0.2137,
+        "profile_path": "/1NGv178QgomuVC9kTc9gAThATMv.jpg"
+    }
+}

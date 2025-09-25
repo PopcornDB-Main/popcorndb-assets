@@ -1,0 +1,157 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.486,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Berger",
+                "credit_id": "52fe4233c3a36847f800b867",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eMgflonfRY89Zj4LZykJKPpG4wg.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 596,
+                "original_language": "en",
+                "original_title": "The Grapes of Wrath",
+                "overview": "Tom Joad returns to his home after a jail sentence to find his family kicked out of their farm due to foreclosure. He catches up with them on his Uncle\u2019s farm, and joins them the next day as they head for California and a new life... Hopefully.",
+                "popularity": 5.7823,
+                "poster_path": "/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+                "release_date": "1940-03-15",
+                "title": "The Grapes of Wrath",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 1042,
+                "character": "Muley Graves",
+                "credit_id": "52fe425ac3a36847f8017867",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 3085,
+                "original_language": "en",
+                "original_title": "His Girl Friday",
+                "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper\u2019s star reporter, who also happens to be his estranged wife. She\u2019s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can\u2019t resist a juicy scoop.",
+                "popularity": 3.9935,
+                "poster_path": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+                "release_date": "1940-01-18",
+                "title": "His Girl Friday",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 878,
+                "character": "Earl Williams",
+                "credit_id": "52fe4384c3a36847f805a1a1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3114,
+                "original_language": "en",
+                "original_title": "The Searchers",
+                "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+                "popularity": 2.7123,
+                "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Searchers",
+                "video": false,
+                "vote_average": 7.703,
+                "vote_count": 1493,
+                "character": "Lars Jorgensen",
+                "credit_id": "52fe4388c3a36847f805b407",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/h1vBJ0uN4QCbBb5WVKxmtfTrHoY.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 11697,
+                "original_language": "en",
+                "original_title": "The Man Who Shot Liberty Valance",
+                "overview": "Questions arise when Senator Stoddard attends the funeral of a local man named Tom Doniphon in a small Western town. Flashing back, we learn Doniphon saved Stoddard, then a lawyer, when he was roughed up by a crew of outlaws terrorizing the town, led by Liberty Valance. As the territory's safety hung in the balance, Doniphon and Stoddard, two of the only people standing up to him, proved to be very important, but different, foes to Valance.",
+                "popularity": 2.5088,
+                "poster_path": "/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+                "release_date": "1962-04-13",
+                "title": "The Man Who Shot Liberty Valance",
+                "video": false,
+                "vote_average": 7.808,
+                "vote_count": 1216,
+                "character": "Peter Ericson",
+                "credit_id": "52fe447b9251416c75036533",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 93,
+                "original_language": "en",
+                "original_title": "Anatomy of a Murder",
+                "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+                "popularity": 4.3719,
+                "poster_path": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+                "release_date": "1959-07-01",
+                "title": "Anatomy of a Murder",
+                "video": false,
+                "vote_average": 7.848,
+                "vote_count": 1075,
+                "character": "Deputy Sheriff Sulo",
+                "credit_id": "56b8325892514116b4001bc7",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John M. Qualen",
+            "John T. Qualen",
+            "Johan Mandt Kvalen"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia\n\nJohn Qualen (born Johan Mandt Kvalen, December 8, 1899 \u2013 September 12, 1987) was a Canadian-American character actor of Norwegian heritage who specialized in Scandinavian roles.\n\nQualen was born in Vancouver, British Columbia, the son of immigrants from Norway; his father was a Lutheran minister and changed the family's original surname, \"Kvalen\", to \"Qualen\" \u2013 though some sources give Oleson, later Oleson Kvalen as Qualen's earlier surnames. His father's ministering meant many moves and John was 20 when he graduated from Elgin High School in 1920. Though he was awarded a scholarship to Northwestern University after he won an oratory contest he never attended college. In a Milwaukee Journal interview he said he needed to start working and did so with the Chattaqua Circuit. Eventually reaching Broadway, he gained his big break as the Swedish janitor in Elmer Rice's Street Scene. His movie career began when he recreated the role in the film version. This was followed by his appearance in John Ford's Arrowsmith (1931) which began a more than thirty year membership in the director's \"stock company\", with important supporting roles in The Searchers (1956), Two Rode Together (1961), The Man Who Shot Liberty Valance (1962) and Cheyenne Autumn (1964).\n\nAppearing in well over one hundred films, and acting extensively on television into the 1970s, Qualen performed many of his roles with various accents, usually Scandinavian, often intended for comic effect. Three of his more memorable roles showcase his versatility. Qualen assumed a Midwestern dialect as Muley, who recounts the destruction of his farm by the bank in Ford's The Grapes of Wrath (1940), and as the confused killer Earl Williams in Howard Hawks' classic comedy His Girl Friday (also 1940). As Berger, the jewelry-selling Norwegian resistance member in Michael Curtiz' Casablanca (1942), he essayed a light Scandinavian accent, but put on a thicker Mediterranean accent as the homeward-bound fisherman Locota in William Wellman's The High and the Mighty (1954)\n\nQualen was treasurer of The Authors Club and historian of The Masquers, Hollywood's social group for actors.\n\nJohn Qualen was blind in his later years. He died of heart failure in 1987 in Torrance, California, and was interred in the Forest Lawn Memorial Park in Glendale. He was survived by his three daughters.",
+        "birthday": "1899-12-06",
+        "deathday": "1987-09-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 4119,
+        "imdb_id": "nm0702798",
+        "known_for_department": "Acting",
+        "name": "John Qualen",
+        "place_of_birth": "Vancouver, British Columbia, Canada",
+        "popularity": 0.4494,
+        "profile_path": "/aMuzXYaBmblQm95JxHZrmseeIYh.jpg"
+    }
+}

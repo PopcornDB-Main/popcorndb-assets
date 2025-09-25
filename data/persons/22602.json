@@ -1,0 +1,168 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 12092,
+                "original_language": "en",
+                "original_title": "Alice in Wonderland",
+                "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+                "popularity": 8.4198,
+                "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+                "release_date": "1951-07-28",
+                "title": "Alice in Wonderland",
+                "video": false,
+                "vote_average": 7.188,
+                "vote_count": 6057,
+                "character": "Walrus / Carpenter / Dee / Dum (voice)",
+                "credit_id": "52fe44b29251416c7503de1d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 12230,
+                "original_language": "en",
+                "original_title": "One Hundred and One Dalmatians",
+                "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+                "popularity": 6.1939,
+                "poster_path": "/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
+                "release_date": "1961-01-25",
+                "title": "One Hundred and One Dalmatians",
+                "video": false,
+                "vote_average": 7.172,
+                "vote_count": 6461,
+                "character": "Colonel / Jasper (voice)",
+                "credit_id": "52fe44ce9251416c75041a43",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zj8XS0l1cWStpKnuD1LFMB3VoV1.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12
+                ],
+                "id": 9325,
+                "original_language": "en",
+                "original_title": "The Jungle Book",
+                "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+                "popularity": 7.3325,
+                "poster_path": "/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
+                "release_date": "1967-10-18",
+                "title": "The Jungle Book",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 6449,
+                "character": "Col. Hathi the Elephant / Buzzie (voice)",
+                "credit_id": "52fe44e8c3a36847f80b109b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 37257,
+                "original_language": "en",
+                "original_title": "Witness for the Prosecution",
+                "overview": "An ailing barrister agrees to defend a man in a sensational murder trial where the unconvincing testimony of the defendant's wife becomes a subject of confusion.",
+                "popularity": 4.358,
+                "poster_path": "/bCj4EfuehAlgBwVd3diyWyhuuau.jpg",
+                "release_date": "1957-12-17",
+                "title": "Witness for the Prosecution",
+                "video": false,
+                "vote_average": 8.214,
+                "vote_count": 1541,
+                "character": "Shorts Salesman (uncredited)",
+                "credit_id": "55f063d992514140b000049c",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nShxMuF04nA9m4FXYtyek6OzLH5.jpg",
+                "genre_ids": [
+                    878,
+                    27,
+                    53
+                ],
+                "id": 11549,
+                "original_language": "en",
+                "original_title": "Invasion of the Body Snatchers",
+                "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+                "popularity": 4.1416,
+                "poster_path": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+                "release_date": "1956-02-05",
+                "title": "Invasion of the Body Snatchers",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1130,
+                "character": "Railroad Baggage Handler (extra)",
+                "credit_id": "58be040f925141609b053290",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oegA1YBl1PszRbB0qj4UpVSr9Jt.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 11886,
+                "original_language": "en",
+                "original_title": "Robin Hood",
+                "overview": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
+                "popularity": 4.5631,
+                "poster_path": "/alcY9jZBgKw9OB7hiPYVNvh03Sb.jpg",
+                "release_date": "1973-11-08",
+                "title": "Robin Hood",
+                "video": false,
+                "vote_average": 7.301,
+                "vote_count": 4495,
+                "character": "Otto (voice) (uncredited)",
+                "credit_id": "5b0a3cabc3a3684b7500142a",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James Rudolph O'Malley",
+            "James Patrick O'Malley",
+            "Pat O'Malley",
+            "\u062c\u06cc. \u067e\u062a \u0627\u0648\u0645\u0627\u0644\u06cc"
+        ],
+        "biography": "James Rudolph O'Malley (15 March 1904 \u2013 27 February 1985) was an English singer and character actor who appeared in many American films and television programmes from the 1940s to 1982, using the stage name J. Pat O'Malley. He also appeared on the Broadway stage in Ten Little Indians (1944) and Dial M for Murder (1954).",
+        "birthday": "1904-03-15",
+        "deathday": "1985-02-27",
+        "gender": 2,
+        "homepage": null,
+        "id": 22602,
+        "imdb_id": "nm0641729",
+        "known_for_department": "Acting",
+        "name": "J. Pat O'Malley",
+        "place_of_birth": "Burnley, Lancashire, England, UK",
+        "popularity": 0.6477,
+        "profile_path": "/AaaALfecdxxSsW65eIQoznII0li.jpg"
+    }
+}

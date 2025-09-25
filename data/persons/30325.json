@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    18,
+                    53
+                ],
+                "id": 576845,
+                "original_language": "en",
+                "original_title": "Last Night in Soho",
+                "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+                "popularity": 5.6536,
+                "poster_path": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+                "release_date": "2021-10-21",
+                "title": "Last Night in Soho",
+                "video": false,
+                "vote_average": 7.29,
+                "vote_count": 3632,
+                "character": "Punter #1",
+                "credit_id": "617c314f0d5d850065f9b18a",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 346648,
+                "original_language": "en",
+                "original_title": "Paddington 2",
+                "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+                "popularity": 5.0191,
+                "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+                "release_date": "2017-11-09",
+                "title": "Paddington 2",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 2582,
+                "character": "Clerk of Court",
+                "credit_id": "5a3975140e0a265f77003fe8",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 30325,
+        "imdb_id": "nm0575223",
+        "known_for_department": "Acting",
+        "name": "Michael Mears",
+        "place_of_birth": null,
+        "popularity": 0.2486,
+        "profile_path": "/h2g6GLAIqZBXltY0ze6nF3xX9HW.jpg"
+    }
+}

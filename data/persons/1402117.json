@@ -1,0 +1,317 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 8337,
+                "original_language": "en",
+                "original_title": "They Live",
+                "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+                "popularity": 6.8443,
+                "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+                "release_date": "1988-11-04",
+                "title": "They Live",
+                "video": false,
+                "vote_average": 7.299,
+                "vote_count": 3232,
+                "character": "2nd Unit Guard",
+                "credit_id": "559e02249251412db2000bb9",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 28,
+                "original_language": "en",
+                "original_title": "Apocalypse Now",
+                "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+                "popularity": 8.7178,
+                "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+                "release_date": "1979-05-19",
+                "title": "Apocalypse Now",
+                "video": false,
+                "vote_average": 8.271,
+                "vote_count": 8641,
+                "character": "Mike from San Diego",
+                "credit_id": "570d2411c3a368508c0004da",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 161,
+                "original_language": "en",
+                "original_title": "Ocean's Eleven",
+                "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+                "popularity": 9.3456,
+                "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+                "release_date": "2001-12-07",
+                "title": "Ocean's Eleven",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 12040,
+                "character": "Flashback Security Guard (uncredited)",
+                "credit_id": "59812b17c3a3680caa0070d8",
+                "order": 73
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cDDyZ2qtBzNAepdTbgxKfFcxREl.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 4147,
+                "original_language": "en",
+                "original_title": "Road to Perdition",
+                "overview": "Mike Sullivan works as a hit man for crime boss John Rooney. Sullivan views Rooney as a father figure, however after his son is witness to a killing, Mike Sullivan finds himself on the run in attempt to save the life of his son and at the same time looking for revenge on those who wronged him.",
+                "popularity": 6.5311,
+                "poster_path": "/loSpBeirRfTPJ3cMIqpQArstGhh.jpg",
+                "release_date": "2002-07-12",
+                "title": "Road to Perdition",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 3796,
+                "character": "Rooney's Henchman",
+                "credit_id": "59812bf9c3a3680d32007f4f",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/fny1B9hmVilFtU3RRjkMZffBjUi.jpg",
+                "genre_ids": [
+                    878,
+                    10749,
+                    18
+                ],
+                "id": 9663,
+                "original_language": "en",
+                "original_title": "Starman",
+                "overview": "When an alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona, the government tries to stop them.",
+                "popularity": 4.6072,
+                "poster_path": "/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg",
+                "release_date": "1984-12-13",
+                "title": "Starman",
+                "video": false,
+                "vote_average": 6.946,
+                "vote_count": 923,
+                "credit_id": "60ead2f0194186007dfbe387",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4ZQIEbCwrD1cTvslORZcrNtQqYO.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 8769,
+                "original_language": "en",
+                "original_title": "Christine",
+                "overview": "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie's girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                "popularity": 3.6232,
+                "poster_path": "/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg",
+                "release_date": "1983-12-09",
+                "title": "Christine",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2090,
+                "credit_id": "65253efd447f9c00ad71323a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+                "genre_ids": [
+                    12,
+                    53,
+                    878
+                ],
+                "id": 2756,
+                "original_language": "en",
+                "original_title": "The Abyss",
+                "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+                "popularity": 7.9325,
+                "poster_path": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+                "release_date": "1989-08-09",
+                "title": "The Abyss",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 3203,
+                "credit_id": "634a926db0460500791b4cf7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    80
+                ],
+                "id": 497,
+                "original_language": "en",
+                "original_title": "The Green Mile",
+                "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+                "popularity": 17.2466,
+                "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+                "release_date": "1999-12-10",
+                "title": "The Green Mile",
+                "video": false,
+                "vote_average": 8.504,
+                "vote_count": 18370,
+                "credit_id": "56e76b88c3a368408f000b36",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/88wEXW9NIURi496KrIgD50dw87l.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 11615,
+                "original_language": "en",
+                "original_title": "The Life of David Gale",
+                "overview": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
+                "popularity": 4.5248,
+                "poster_path": "/7tcAvE82JyxIi79cwQV5br90KVz.jpg",
+                "release_date": "2003-02-21",
+                "title": "The Life of David Gale",
+                "video": false,
+                "vote_average": 7.44,
+                "vote_count": 2089,
+                "credit_id": "56e76b4dc3a3684086000bad",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 28,
+                "original_language": "en",
+                "original_title": "Apocalypse Now",
+                "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+                "popularity": 8.7178,
+                "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+                "release_date": "1979-05-19",
+                "title": "Apocalypse Now",
+                "video": false,
+                "vote_average": 8.271,
+                "vote_count": 8641,
+                "credit_id": "570d242a92514116f7000395",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1572,
+                "original_language": "en",
+                "original_title": "Die Hard: With a Vengeance",
+                "overview": "New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he'd seen it all, until a genius named Simon engages McClane, his new \"partner\" -- and his beloved city -- in a deadly game that demands their concentration.",
+                "popularity": 8.4761,
+                "poster_path": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+                "release_date": "1995-05-19",
+                "title": "Die Hard: With a Vengeance",
+                "video": false,
+                "vote_average": 7.273,
+                "vote_count": 6368,
+                "credit_id": "6420b8491dbc8800a04148a5",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zt3cmdZr3t0K64gzpwIc4LXiuDu.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 594,
+                "original_language": "en",
+                "original_title": "The Terminal",
+                "overview": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+                "popularity": 9.7136,
+                "poster_path": "/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg",
+                "release_date": "2004-06-17",
+                "title": "The Terminal",
+                "video": false,
+                "vote_average": 7.353,
+                "vote_count": 8261,
+                "credit_id": "64a1cb5d8c0a48011e1d4187",
+                "department": "Crew",
+                "job": "Utility Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ivGXj9i01x5FECAikQkP4X5ojmY.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80
+                ],
+                "id": 2109,
+                "original_language": "en",
+                "original_title": "Rush Hour",
+                "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+                "popularity": 10.7356,
+                "poster_path": "/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg",
+                "release_date": "1998-09-18",
+                "title": "Rush Hour",
+                "video": false,
+                "vote_average": 7.056,
+                "vote_count": 5308,
+                "credit_id": "679436b57660f09f3f485f05",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kerry Rossal"
+        ],
+        "biography": "Kerry Darrell Rossall (born June 23, 1947) is an American stunt coordinator, stuntman, actor and film producer known for three Taurus World Stunt nominations for Apocalypse Now Redux. He appeared in the films Apocalypse Now, They Live, The Crow: City of Angels, Tomorrow You're Gone and produced Friend of the World and Movin' Too Fast.\n\nThis article uses material from the Wikipedia article \"Kerry Rossall\", which is released under the Creative Commons Attribution-Share-Alike License 3.0.",
+        "birthday": "1947-06-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1402117,
+        "imdb_id": "nm0743953",
+        "known_for_department": "Crew",
+        "name": "Kerry Rossall",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.1667,
+        "profile_path": "/tttYalyq1zOMt8viYoAXoEMK8dF.jpg"
+    }
+}

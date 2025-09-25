@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 9.3956,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.89,
+                "vote_count": 8185,
+                "character": "Manny",
+                "credit_id": "52fe422ec3a36847f800a239",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bill Johnson"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": "2016-09-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 1166385,
+        "imdb_id": "nm0424592",
+        "known_for_department": "Acting",
+        "name": "William Johnson",
+        "place_of_birth": "Auckland, New Zealand",
+        "popularity": 0.6497,
+        "profile_path": "/qH3fXsfEQ484H9Sr0G1XdBcxdAM.jpg"
+    }
+}

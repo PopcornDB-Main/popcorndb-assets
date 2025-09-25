@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    53
+                ],
+                "id": 3767,
+                "original_language": "en",
+                "original_title": "Gilda",
+                "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+                "popularity": 4.004,
+                "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+                "release_date": "1946-04-25",
+                "title": "Gilda",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 609,
+                "character": "Assistant Croupier (uncredited)",
+                "credit_id": "638753eb2e069702a805996c",
+                "order": 81
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.0551,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Native Officer (uncredited)",
+                "credit_id": "55e828f7c3a3682c64001c46",
+                "order": 83
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uYRnUnBE4kk5ocvyBckRfMAsZpJ.jpg",
+                "genre_ids": [
+                    12,
+                    10749,
+                    10752
+                ],
+                "id": 22584,
+                "original_language": "en",
+                "original_title": "To Have and Have Not",
+                "overview": "A Martinique charter boat skipper gets mixed up with the underground French resistance operatives during WWII.",
+                "popularity": 1.4842,
+                "poster_path": "/m9RYIio23yClaO3fy5tcpYac1Gf.jpg",
+                "release_date": "1945-01-20",
+                "title": "To Have and Have Not",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 537,
+                "character": "French Officer (uncredited)",
+                "credit_id": "56131324c3a3682206004606",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "George S. Sorel",
+            "George Sorrell"
+        ],
+        "biography": "",
+        "birthday": "1901-03-24",
+        "deathday": "1948-01-19",
+        "gender": 2,
+        "homepage": null,
+        "id": 120703,
+        "imdb_id": "nm0814796",
+        "known_for_department": "Acting",
+        "name": "George Sorel",
+        "place_of_birth": "Odessa, Kherson Governorate, Russian Empire [now Ukraine]",
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

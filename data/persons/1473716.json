@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Max Rebo",
+                "credit_id": "556f67fe9251413c01000594",
+                "order": 102
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10751,
+                    14,
+                    18
+                ],
+                "id": 10437,
+                "original_language": "en",
+                "original_title": "The Muppet Christmas Carol",
+                "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+                "popularity": 3.9431,
+                "poster_path": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+                "release_date": "1992-12-11",
+                "title": "The Muppet Christmas Carol",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1070,
+                "character": "Additional Muppet Performer (voice)",
+                "credit_id": "5f3a4707be4b360033afdc18",
+                "order": 56
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1473716,
+        "imdb_id": "nm0932146",
+        "known_for_department": "Acting",
+        "name": "Simon J. Williamson",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

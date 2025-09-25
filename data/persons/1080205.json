@@ -1,0 +1,44 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 599,
+                "original_language": "en",
+                "original_title": "Sunset Boulevard",
+                "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+                "popularity": 5.7842,
+                "poster_path": "/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+                "release_date": "1950-08-10",
+                "title": "Sunset Boulevard",
+                "video": false,
+                "vote_average": 8.293,
+                "vote_count": 2743,
+                "character": "Camera Operator (uncredited)",
+                "credit_id": "57b5efd7c3a36875cf002f36",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1910-06-11",
+        "deathday": "1987-04-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 1080205,
+        "imdb_id": "nm0485233",
+        "known_for_department": "Acting",
+        "name": "Arthur Lane",
+        "place_of_birth": "Kings Norton, Birmingham, England, UK",
+        "popularity": 0.044,
+        "profile_path": null
+    }
+}

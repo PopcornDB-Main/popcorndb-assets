@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
+                "genre_ids": [
+                    9648,
+                    18,
+                    80
+                ],
+                "id": 1847,
+                "original_language": "en",
+                "original_title": "The Long Goodbye",
+                "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+                "popularity": 2.6676,
+                "poster_path": "/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg",
+                "release_date": "1973-03-08",
+                "title": "The Long Goodbye",
+                "video": false,
+                "vote_average": 7.389,
+                "vote_count": 704,
+                "character": "Detective Green",
+                "credit_id": "5cd190f4c3a3683697dd7975",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 651,
+                "original_language": "en",
+                "original_title": "M*A*S*H",
+                "overview": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+                "popularity": 3.3061,
+                "poster_path": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+                "release_date": "1970-02-18",
+                "title": "M*A*S*H",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 1090,
+                "character": "Motor Pool Sergeant (uncredited)",
+                "credit_id": "6034e1a6e78687003ed24324",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1927-02-16",
+        "deathday": "2012-11-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 153535,
+        "imdb_id": "nm0428372",
+        "known_for_department": "Acting",
+        "name": "Jerry Jones",
+        "place_of_birth": "Varner, Arkansas, USA",
+        "popularity": 0.363,
+        "profile_path": "/onzQuSYe0iUofjhH9Sf6kl5Zfp6.jpg"
+    }
+}

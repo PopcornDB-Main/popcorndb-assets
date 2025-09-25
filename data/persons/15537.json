@@ -1,0 +1,161 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8uQRpN3JkD24yL1NjUP2YdSsgNf.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 925,
+                "original_language": "en",
+                "original_title": "Do the Right Thing",
+                "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+                "popularity": 4.5675,
+                "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+                "release_date": "1989-06-14",
+                "title": "Do the Right Thing",
+                "video": false,
+                "vote_average": 7.768,
+                "vote_count": 1883,
+                "character": "Punchy",
+                "credit_id": "52fe428ec3a36847f8027dcf",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9oE1dqocQou2tdmt0Rne7uv4jSi.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 12143,
+                "original_language": "en",
+                "original_title": "Bad Lieutenant",
+                "overview": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
+                "popularity": 5.5825,
+                "poster_path": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+                "release_date": "1992-11-20",
+                "title": "Bad Lieutenant",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 906,
+                "character": "Cop #2",
+                "credit_id": "52fe44bd9251416c7503f585",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y4TbQOC9DCzZop9HwKuX73rKbYO.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9631,
+                "original_language": "en",
+                "original_title": "The Negotiator",
+                "overview": "The police try to arrest expert hostage negotiator Danny Roman, who insists he's being framed for his partner's murder in what he believes is an elaborate conspiracy. Thinking there's evidence in the Internal Affairs offices that might clear him, he takes everyone in the office hostage and demands that another well-known negotiator be brought in to handle the situation and secretly investigate the conspiracy.",
+                "popularity": 7.03,
+                "poster_path": "/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg",
+                "release_date": "1998-07-29",
+                "title": "The Negotiator",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 2221,
+                "character": "Allen",
+                "credit_id": "52fe4514c3a36847f80bb28d",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.2691,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "character": "Leon Davis",
+                "credit_id": "57c9eca4c3a36842a80016f3",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 1645,
+                "original_language": "en",
+                "original_title": "A Time to Kill",
+                "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+                "popularity": 6.1823,
+                "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+                "release_date": "1996-07-24",
+                "title": "A Time to Kill",
+                "video": false,
+                "vote_average": 7.383,
+                "vote_count": 2686,
+                "character": "Man in Lumberyard",
+                "credit_id": "5b645e13c3a368189406375b",
+                "order": 54
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 184,
+                "original_language": "en",
+                "original_title": "Jackie Brown",
+                "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan \u2014 with help from a bail bondsman \u2014 to keep the money for herself.",
+                "popularity": 5.4221,
+                "poster_path": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+                "release_date": "1997-12-25",
+                "title": "Jackie Brown",
+                "video": false,
+                "vote_average": 7.356,
+                "vote_count": 6638,
+                "credit_id": "5e5361d1a93d25001a4c193b",
+                "department": "Crew",
+                "job": "Driver"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Leonard Thomas "
+        ],
+        "biography": "Leonard Lee Thomas (born August 31, 1961) is an American film and television actor. He is perhaps best known for his role as Big Brother ADP General Patton in Spike Lee's film School Daze.\n\nSince the beginning of his acting career beginning with School Daze, Thomas has appeared in over twenty movies, often in a minor role alongside Samuel L. Jackson, and is frequently credited as his assistant. In particular, his most notable film roles are in Spike Lee movies including School Daze, Do the Right Thing, Mo' Better Blues, and Malcolm X. He also starred other movies such as Bad Lieutenant and Black Snake Moan and TV shows like Gemini Division and Law & Order.\n\nDescription above from the Wikipedia article Leonard L. Thomas, licensed under CC BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1961-08-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 15537,
+        "imdb_id": "nm0859150",
+        "known_for_department": "Acting",
+        "name": "Leonard L. Thomas",
+        "place_of_birth": "Muskogee, Oklahoma, USA",
+        "popularity": 0.5859,
+        "profile_path": "/tz9fJ5O7aa3a1vBt52bIZKYdaSK.jpg"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 278,
+                "original_language": "en",
+                "original_title": "The Shawshank Redemption",
+                "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                "popularity": 28.9882,
+                "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                "release_date": "1994-09-23",
+                "title": "The Shawshank Redemption",
+                "video": false,
+                "vote_average": 8.7,
+                "vote_count": 28883,
+                "character": "Heywood",
+                "credit_id": "52fe4231c3a36847f800b13d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1573,
+                "original_language": "en",
+                "original_title": "Die Hard 2",
+                "overview": "One year after his heroics in Los Angeles, John McClane is an off-duty cop who is the wrong guy in the wrong place at the wrong time. On a snowy Christmas Eve, as he waits for his wife's plane to land at Washington Dulles International Airport, terrorists take over the air traffic control system in a plot to free a South American army general and drug smuggler being flown into the US to face drug charges. It's now up to McClane to take on the terrorists, while coping with an inept airport police chief, an uncooperative anti-terrorist squad, and the life of his wife and everyone else trapped in planes circling overhead.",
+                "popularity": 10.2341,
+                "poster_path": "/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
+                "release_date": "1990-07-03",
+                "title": "Die Hard 2",
+                "video": false,
+                "vote_average": 6.959,
+                "vote_count": 6088,
+                "character": "Stuart",
+                "credit_id": "52fe42ffc3a36847f8032a3b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+                "genre_ids": [
+                    27,
+                    878,
+                    53
+                ],
+                "id": 5876,
+                "original_language": "en",
+                "original_title": "The Mist",
+                "overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+                "popularity": 5.3723,
+                "poster_path": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+                "release_date": "2007-11-21",
+                "title": "The Mist",
+                "video": false,
+                "vote_average": 6.939,
+                "vote_count": 5515,
+                "character": "Jim",
+                "credit_id": "52fe4429c3a36847f8085c93",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i3pONuqGZSR3UYOOdBeU2CiQnxj.jpg",
+                "genre_ids": [
+                    10751,
+                    18,
+                    10402
+                ],
+                "id": 5123,
+                "original_language": "en",
+                "original_title": "August Rush",
+                "overview": "Lyla and Louis, a singer and a musician, fall in love, but are soon compelled to separate. Lyla is forced to give up her newborn but unknown to her, he grows up to become a musical genius.",
+                "popularity": 4.9748,
+                "poster_path": "/oA6ZeICPINiS6YtD5WZeBaGVmuT.jpg",
+                "release_date": "2007-11-21",
+                "title": "August Rush",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 2764,
+                "character": "Thomas Novacek",
+                "credit_id": "52fe43f5c3a36847f807a5f3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 68721,
+                "original_language": "en",
+                "original_title": "Iron Man 3",
+                "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+                "popularity": 15.2639,
+                "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+                "release_date": "2013-04-18",
+                "title": "Iron Man 3",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 22819,
+                "character": "President Ellis",
+                "credit_id": "52fe479fc3a368484e0d1593",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    80
+                ],
+                "id": 497,
+                "original_language": "en",
+                "original_title": "The Green Mile",
+                "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+                "popularity": 18.5192,
+                "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+                "release_date": "1999-12-10",
+                "title": "The Green Mile",
+                "video": false,
+                "vote_average": 8.504,
+                "vote_count": 18370,
+                "character": "Klaus Detterick",
+                "credit_id": "55f5ade9c3a3686cfd0067d1",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8FgzQadEF68NYvmTVyuY4pCtred.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 306745,
+                "original_language": "en",
+                "original_title": "Freeheld",
+                "overview": "New Jersey car mechanic Stacie Andree and her police detective girlfriend Laurel Hester both battle to secure Hester's pension benefits after she was diagnosed with a terminal illness.",
+                "popularity": 2.5618,
+                "poster_path": "/794PfYjTz3yxMRdTRmdFYt6w6ff.jpg",
+                "release_date": "2015-10-02",
+                "title": "Freeheld",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 664,
+                "character": "Peter Santucci",
+                "credit_id": "5775a749c3a368090600088b",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "William Thomas Sadler",
+            "Bill Sadler",
+            "\u0393\u03bf\u03c5\u03af\u03bb\u03b9\u03b1\u03bc \u03a3\u03ac\u03bd\u03c4\u03bb\u03b5\u03c1",
+            "\u5a01\u5ec9\u00b7\u6258\u99ac\u65af\u00b7\u6851\u5fb7\u52d2",
+            "\u0648\u06cc\u0644\u06cc\u0627\u0645 \u0633\u062f\u0644\u0631"
+        ],
+        "biography": "William Thomas Sadler is an American actor who works in film and television. His television and motion picture roles have included Lewis Burwell \"Chesty\" Puller in The Pacific, Luther Sloan in Star Trek Deep Space Nine, Sheriff Jim Valenti in Roswell, and\u2014perhaps most notably\u2014the Grim Reaper in Bill & Ted's Bogus Journey, a role for which he was nominated for, and won, the Saturn Award for Best Supporting Actor, and his role as Colonel Stuart alongside Bruce Willis in Die Hard 2.",
+        "birthday": "1950-04-13",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 6573,
+        "imdb_id": "nm0006669",
+        "known_for_department": "Acting",
+        "name": "William Sadler",
+        "place_of_birth": "Buffalo, New York, USA",
+        "popularity": 1.292,
+        "profile_path": "/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+    }
+}

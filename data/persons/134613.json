@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.9553,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.867,
+                "vote_count": 3247,
+                "character": "Orderly in Frankenstein's Class",
+                "credit_id": "52fe437fc3a36847f80587a1",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kpTTUyVxWMTebmBkaxB2YAX8yyU.jpg",
+                "genre_ids": [
+                    10752,
+                    10749,
+                    18
+                ],
+                "id": 11426,
+                "original_language": "en",
+                "original_title": "From Here to Eternity",
+                "overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+                "popularity": 3.2305,
+                "poster_path": "/25Rm1YJSyhXAEu8abonZvW83aPL.jpg",
+                "release_date": "1953-08-28",
+                "title": "From Here to Eternity",
+                "video": false,
+                "vote_average": 7.283,
+                "vote_count": 669,
+                "character": "Sgt. Ike Galovitch",
+                "credit_id": "52fe443d9251416c7502dc2b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.4741,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 1337,
+                "character": "Wagner",
+                "credit_id": "52fe44b49251416c7503e2c1",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bob Brophy",
+            "Johnny Dennis"
+        ],
+        "biography": "",
+        "birthday": "1919-08-18",
+        "deathday": "2004-03-19",
+        "gender": 2,
+        "homepage": null,
+        "id": 134613,
+        "imdb_id": "nm0112392",
+        "known_for_department": "Acting",
+        "name": "John Dennis",
+        "place_of_birth": "Bronx, New York City, New York, USA",
+        "popularity": 1.0365,
+        "profile_path": "/78XDuxSpAlTxpxMVbFi1EQpmjPW.jpg"
+    }
+}

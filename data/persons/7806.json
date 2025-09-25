@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 575,
+                "original_language": "de",
+                "original_title": "Das Experiment",
+                "overview": "20 volunteers agree to take part in a seemingly well-paid experiment advertised by the university. It is supposed to be about aggressive behavior in an artificial prison situation. A journalist senses a story behind the ad and smuggles himself in among the test subjects. They are randomly divided into prisoners and guards. What seems like a game at the beginning soon turns into bloody seriousness.",
+                "popularity": 1.8131,
+                "poster_path": "/mfxXel8k2UWkgJ4MIsvVBsqnvFp.jpg",
+                "release_date": "2001-03-08",
+                "title": "The Experiment",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1140,
+                "character": "Prisoner Nr. 53",
+                "credit_id": "52fe4254c3a36847f8015d67",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6gtlv8NYhzEeRyfbIbfeXp5KVJR.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 318781,
+                "original_language": "en",
+                "original_title": "Colonia",
+                "overview": "A young woman's desperate search for her abducted boyfriend draws her into the infamous Colonia Dignidad, a sect nobody ever escaped from.",
+                "popularity": 3.2816,
+                "poster_path": "/p7oGFkMGaQR27R1olN9RoMzg4vS.jpg",
+                "release_date": "2015-06-24",
+                "title": "Colonia",
+                "video": false,
+                "vote_average": 7.258,
+                "vote_count": 1932,
+                "character": "Hospital Patient",
+                "credit_id": "5800458e9251414004001718",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Stephan Sz\u00e1sz"
+        ],
+        "biography": "",
+        "birthday": "1966-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.stephan-szasz.de/",
+        "id": 7806,
+        "imdb_id": "nm0843799",
+        "known_for_department": "Acting",
+        "name": "Stephan Szasz",
+        "place_of_birth": "Witzenhausen, Germany",
+        "popularity": 0.0767,
+        "profile_path": "/d2Ut1kQQrxRkdEQBkT0l1MSYaCM.jpg"
+    }
+}

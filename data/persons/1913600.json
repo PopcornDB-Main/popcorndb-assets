@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zONM403tEJuSi0kZhA3TxkUoS22.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 1535,
+                "original_language": "en",
+                "original_title": "Spy Game",
+                "overview": "On the day of his retirement, a veteran CIA agent learns that his former prot\u00e9g\u00e9 has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.",
+                "popularity": 8.609,
+                "poster_path": "/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+                "release_date": "2001-11-18",
+                "title": "Spy Game",
+                "video": false,
+                "vote_average": 6.909,
+                "vote_count": 2205,
+                "character": "Back Bencher",
+                "credit_id": "61d1d3e9e194b000413b54d7",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "Paratrooper #1",
+                "credit_id": "59f514cb9251414cfd01f24d",
+                "order": 70
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1913600,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Sam Scudder",
+        "place_of_birth": null,
+        "popularity": 0.1137,
+        "profile_path": null
+    }
+}

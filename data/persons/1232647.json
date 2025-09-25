@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gz1Lr0WcKJ1eg7mfN0AfAPXbI7h.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 353577,
+                "original_language": "en",
+                "original_title": "Love at First Sight",
+                "overview": "Hadley and Oliver begin falling in love on a flight from New York to London, but when they lose each other at customs, can they defy all odds to reunite?",
+                "popularity": 5.7684,
+                "poster_path": "/vCMGlarDrcmhclBmnYoH7JUCDuA.jpg",
+                "release_date": "2023-09-15",
+                "title": "Love at First Sight",
+                "video": false,
+                "vote_average": 7.198,
+                "vote_count": 645,
+                "character": "Mr. O'Callaghan",
+                "credit_id": "6505dd6c394a87013915419c",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5mct2hhoprq2dLTy7NHyGJNgaud.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 1544,
+                "original_language": "en",
+                "original_title": "Imagine Me & You",
+                "overview": "During her wedding ceremony, Rachel notices Luce in the audience and feels instantly drawn to her. The two women become close friends, and when Rachel learns that Luce is a lesbian, she realizes that despite her happy marriage to Heck, she is falling for Luce. As she questions her sexual orientation, Rachel must decide between her stable relationship with Heck and her exhilarating new romance with Luce.",
+                "popularity": 4.3575,
+                "poster_path": "/oF0wgVKumU52W7nBR6oHJb5FqSa.jpg",
+                "release_date": "2006-01-27",
+                "title": "Imagine Me & You",
+                "video": false,
+                "vote_average": 7.579,
+                "vote_count": 1068,
+                "character": "Auctioneer",
+                "credit_id": "5e45c30a41465c0016d3c70d",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1232647,
+        "imdb_id": "nm0083431",
+        "known_for_department": "Acting",
+        "name": "Philip Bird",
+        "place_of_birth": null,
+        "popularity": 0.1498,
+        "profile_path": null
+    }
+}

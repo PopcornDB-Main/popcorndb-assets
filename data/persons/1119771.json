@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9829,
+                "original_language": "en",
+                "original_title": "United 93",
+                "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+                "popularity": 4.4218,
+                "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+                "release_date": "2006-04-28",
+                "title": "United 93",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1560,
+                "character": "John Talignani",
+                "credit_id": "64ea946845819900e3532863",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 177,
+                "original_language": "en",
+                "original_title": "The Fisher King",
+                "overview": "Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves.",
+                "popularity": 3.9549,
+                "poster_path": "/hwIYw22HmAUMobV4zsX69MgfVUz.jpg",
+                "release_date": "1991-09-20",
+                "title": "The Fisher King",
+                "video": false,
+                "vote_average": 7.293,
+                "vote_count": 1391,
+                "character": "Guard",
+                "credit_id": "658f8e9ece4ddc3ee77d4543",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph Jamrog"
+        ],
+        "biography": "",
+        "birthday": "1932-12-21",
+        "deathday": "2017-10-14",
+        "gender": 2,
+        "homepage": null,
+        "id": 1119771,
+        "imdb_id": "nm0417251",
+        "known_for_department": "Acting",
+        "name": "Joe Jamrog",
+        "place_of_birth": "Flushing, New York, U.S.",
+        "popularity": 0.1526,
+        "profile_path": null
+    }
+}

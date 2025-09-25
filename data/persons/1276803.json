@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6M2IeELPSKZZ4iAPz2w0i7wdm6X.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 3432,
+                "original_language": "en",
+                "original_title": "Mr. Brooks",
+                "overview": "A psychological thriller about a man who is sometimes controlled by his murder-and-mayhem-loving alter ego.",
+                "popularity": 2.5607,
+                "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+                "release_date": "2007-05-31",
+                "title": "Mr. Brooks",
+                "video": false,
+                "vote_average": 6.935,
+                "vote_count": 1774,
+                "character": "Flight Attendant",
+                "credit_id": "5e1e06124df2910011c0afe5",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1276803,
+        "imdb_id": "nm2263081",
+        "known_for_department": "Acting",
+        "name": "Jon Paul Burkhart",
+        "place_of_birth": null,
+        "popularity": 0.1866,
+        "profile_path": null
+    }
+}

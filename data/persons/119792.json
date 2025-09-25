@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 87,
+                "original_language": "en",
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+                "popularity": 8.1711,
+                "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+                "release_date": "1984-05-23",
+                "title": "Indiana Jones and the Temple of Doom",
+                "video": false,
+                "vote_average": 7.303,
+                "vote_count": 9703,
+                "character": "Temple Guard",
+                "credit_id": "5497f6b3c3a3680fc6005d4d",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.4866,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.106,
+                "vote_count": 4470,
+                "character": "Marwan Al-Kirmani",
+                "credit_id": "5882d5df9251410457003c97",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bhasker",
+            "Bhaskar Patel",
+            "Bashker"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nBhasker Patel\u00a0(born 7 February 1956) is a British actor.\u00a0He appeared in more than a hundred films since 1981.",
+        "birthday": "1956-02-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 119792,
+        "imdb_id": "nm0080282",
+        "known_for_department": "Acting",
+        "name": "Bhasker Patel",
+        "place_of_birth": "Kampala, Uganda",
+        "popularity": 0.1939,
+        "profile_path": "/1OyDAhaJ5cmwRy5igRdeRtH3OUY.jpg"
+    }
+}

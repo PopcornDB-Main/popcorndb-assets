@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pP1UeRZ7shy1llOUTnpXWISOokK.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    53
+                ],
+                "id": 399121,
+                "original_language": "fr",
+                "original_title": "J'accuse",
+                "overview": "In 1894, French Captain Alfred Dreyfus is wrongfully convicted of treason and sentenced to life imprisonment at the Devil\u2019s Island penal colony.",
+                "popularity": 2.5328,
+                "poster_path": "/kqlzmKVBpGz7OMWfOXlK4y1m9Uz.jpg",
+                "release_date": "2019-09-30",
+                "title": "An Officer and a Spy",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1547,
+                "character": "General Darras",
+                "credit_id": "63e21a5d7776f0008344a099",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ujd2rMIVb0Z8orWrEbMWdJsBRYd.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    12
+                ],
+                "id": 484468,
+                "original_language": "fr",
+                "original_title": "Le Chant du loup",
+                "overview": "Shown from the perspective of a young submariner with unusually sensitive hearing and uncannily precise sound recognition. The fate of many often depends on his ability, and one time, whilst highly stressed, he makes a incorrect call which put his entire crew in mortal danger.  Trying to regain the confidence of his comrades, he conducts an unauthorised investigation of an apparent plot which, it turns out, risks escalating into a nuclear apocalypse. Suddenly working under pressure with the fleet admiral, they must do whatever is necessary, even the unthinkable, to prevent a nuclear war, since a confirmed nuclear strike order cannot be countermanded.",
+                "popularity": 11.6585,
+                "poster_path": "/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg",
+                "release_date": "2019-02-20",
+                "title": "The Wolf's Call",
+                "video": false,
+                "vote_average": 7.548,
+                "vote_count": 2088,
+                "character": "Captain",
+                "credit_id": "5c70422692514144d98ae972",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "St\u00e9fan Godin",
+            "St\u00e9phane Godin"
+        ],
+        "biography": "",
+        "birthday": "1960-12-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.stefangodin.fr",
+        "id": 1316048,
+        "imdb_id": "nm1138998",
+        "known_for_department": "Acting",
+        "name": "Stefan Godin",
+        "place_of_birth": "Abidjan, C\u00f4te d'Ivoire",
+        "popularity": 0.1131,
+        "profile_path": "/2ZhTomxLiyPVReNAq9isl0xuVRV.jpg"
+    }
+}

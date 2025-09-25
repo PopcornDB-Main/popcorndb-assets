@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "School Bus Girl",
+                "credit_id": "638f01b75800c4008bb4d8b7",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 9591,
+                "original_language": "en",
+                "original_title": "That Thing You Do!",
+                "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+                "popularity": 3.0265,
+                "poster_path": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+                "release_date": "1996-10-04",
+                "title": "That Thing You Do!",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 874,
+                "character": "Bored Girl in Dress Shop",
+                "credit_id": "6089a0370c27100040dc963c",
+                "order": 52
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Elizabeth Ann Hanks "
+        ],
+        "biography": "Elizabeth Ann Hanks is an actress and producer. She is the daughter of actor Tom Hanks and his first wife, actress Samantha Lewes. Her brother is actor Colin Hanks, her half-brothers are actor Chet Hanks and Truman Hanks, and actress Rita Wilson is her stepmother.",
+        "birthday": "1982-05-17",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2392748,
+        "imdb_id": "nm0360019",
+        "known_for_department": "Acting",
+        "name": "Elizabeth Hanks",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.2962,
+        "profile_path": "/hx4aVRRNEjbGmP0LMF1E8TSrQ7X.jpg"
+    }
+}

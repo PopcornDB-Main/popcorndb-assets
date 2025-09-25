@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.814,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5604,
+                "character": "Himself (archive footage)",
+                "credit_id": "5bc36cb392514179c10453dc",
+                "order": 85
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+                "genre_ids": [
+                    99,
+                    36,
+                    18
+                ],
+                "id": 549559,
+                "original_language": "en",
+                "original_title": "Apollo 11",
+                "overview": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilot Buzz Aldrin.",
+                "popularity": 2.9642,
+                "poster_path": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+                "release_date": "2019-03-01",
+                "title": "Apollo 11",
+                "video": false,
+                "vote_average": 7.87,
+                "vote_count": 667,
+                "character": "Self (archive footage)",
+                "credit_id": "5c7db80f9251415147485cd3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Self - Stepping onto the Moon (archive footage) (uncredited)",
+                "credit_id": "67178be98e05a8c9a84d3487",
+                "order": 170
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u039d\u03b7\u03bb \u038c\u03bb\u03bd\u03c4\u03b5\u03bd \u0386\u03c1\u03bc\u03c3\u03c4\u03c1\u03bf\u03bd\u03b3\u03ba",
+            "\u039d\u03b7\u03bb \u0386\u03c1\u03bc\u03c3\u03c4\u03c1\u03bf\u03bd\u03b3\u03ba",
+            "Neil Alden Armstrong"
+        ],
+        "biography": "Neil Alden Armstrong was an American astronaut and aeronautical engineer who was the first person to walk on the Moon on July 20, 1969.",
+        "birthday": "1930-08-05",
+        "deathday": "2012-08-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 87485,
+        "imdb_id": "nm0035842",
+        "known_for_department": "Acting",
+        "name": "Neil Armstrong",
+        "place_of_birth": "Wapakoneta, Ohio, USA",
+        "popularity": 1.6896,
+        "profile_path": "/qFvQ2fS9RTGnOgWIUGSWaB6qWsO.jpg"
+    }
+}

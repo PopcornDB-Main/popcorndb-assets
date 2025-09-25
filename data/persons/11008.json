@@ -1,0 +1,197 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36657,
+                "original_language": "en",
+                "original_title": "X-Men",
+                "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+                "popularity": 0.5468,
+                "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+                "release_date": "2000-07-13",
+                "title": "X-Men",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 11759,
+                "character": "Mystique",
+                "credit_id": "52fe45fe9251416c910457d1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36658,
+                "original_language": "en",
+                "original_title": "X2",
+                "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker's scheme to exterminate all mutants.",
+                "popularity": 0.4077,
+                "poster_path": "/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+                "release_date": "2003-04-27",
+                "title": "X2",
+                "video": false,
+                "vote_average": 7.032,
+                "vote_count": 10508,
+                "character": "Raven Darkholme / Mystique",
+                "credit_id": "52fe45fe9251416c91045881",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 49538,
+                "original_language": "en",
+                "original_title": "X-Men: First Class",
+                "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                "popularity": 0.425,
+                "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+                "release_date": "2011-06-01",
+                "title": "X-Men: First Class",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 13120,
+                "character": "Mystique - Older (uncredited)",
+                "credit_id": "52fe479bc3a36847f813ed27",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dSD9aSZtgFthuMQ78GD1QOQf54V.jpg",
+                "genre_ids": [
+                    878,
+                    16,
+                    28,
+                    18,
+                    14
+                ],
+                "id": 487670,
+                "original_language": "en",
+                "original_title": "The Death of Superman",
+                "overview": "When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.",
+                "popularity": 2.6698,
+                "poster_path": "/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
+                "release_date": "2018-07-24",
+                "title": "The Death of Superman",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 792,
+                "character": "Lois Lane (voice)",
+                "credit_id": "5ab9b0d20e0a26365100d2e4",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jdGfm589quvuyGNCv0BtqaAQrp4.jpg",
+                "genre_ids": [
+                    878,
+                    16,
+                    28,
+                    12,
+                    14
+                ],
+                "id": 487672,
+                "original_language": "en",
+                "original_title": "Reign of the Supermen",
+                "overview": "In the wake of The Death of Supermen, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world's greatest champion. Meanwhile, Superman's death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?",
+                "popularity": 2.0233,
+                "poster_path": "/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg",
+                "release_date": "2019-01-13",
+                "title": "Reign of the Supermen",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 668,
+                "character": "Lois Lane (voice)",
+                "credit_id": "5ab9b2cbc3a36871ce00d443",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qUGYUpDHpeNSjFXSrZpVpAWaTuL.jpg",
+                "genre_ids": [
+                    28,
+                    16,
+                    80,
+                    9648
+                ],
+                "id": 537056,
+                "original_language": "en",
+                "original_title": "Batman: Hush",
+                "overview": "A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman's crime-fighting career as well as Bruce Wayne's personal life, which has been further complicated by a relationship with Selina Kyle/Catwoman.",
+                "popularity": 3.7701,
+                "poster_path": "/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
+                "release_date": "2019-07-19",
+                "title": "Batman: Hush",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 920,
+                "character": "Lois Lane (voice)",
+                "credit_id": "5c9bed8d9251410a5209bd75",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A95j1q2bYsvRfIdCiTPPvNJVfjI.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    878,
+                    12,
+                    14
+                ],
+                "id": 618344,
+                "original_language": "en",
+                "original_title": "Justice League Dark: Apokolips War",
+                "overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good \u2013 the Justice League, Teen Titans, Suicide Squad and assorted others \u2013 must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
+                "popularity": 3.4634,
+                "poster_path": "/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+                "release_date": "2020-05-05",
+                "title": "Justice League Dark: Apokolips War",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 1510,
+                "character": "Lois Lane (voice)",
+                "credit_id": "5e5dd0ec87e63e001a74fcc7",
+                "order": 6
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Rebecca Romijn Stamos",
+            "Rebecca Alie Romijn",
+            "\ub808\ubca0\uce74 \ub85c\ubbf8\uc98c",
+            "\u30ec\u30d9\u30c3\u30ab\u30fb\u30ed\u30fc\u30df\u30f3",
+            "\u0631\u0628\u06a9\u0627 \u0631\u0648\u0645\u06cc\u0646"
+        ],
+        "biography": "Rebecca Alie O'Connell (n\u00e9e\u00a0Romijn/ro\u028a\u02c8me\u026an/\u00a0roh-MAYN,\u00a0Dutch:\u00a0[ro\u02d0\u02c8m\u025bin]; later\u00a0Romijn-Stamos; born November 6, 1972) is an American actress and former\u00a0model. She is known for her role as\u00a0Mystique\u00a0in the original trilogy (2000\u20132006) of the\u00a0X-Men\u00a0film series, as\u00a0Joan from\u00a0The Punisher\u00a0(2004) (both based on\u00a0Marvel Comics), the dual roles of Laure Ash and Lily Watts in\u00a0Femme Fatale\u00a0(2002), and\u00a0Una Chin-Riley\u00a0on\u00a0Star Trek: Discovery\u00a0(2019) and\u00a0Star Trek: Strange New Worlds\u00a0(2022\u2013present). She has also had a recurring role as\u00a0Alexis Meade on the\u00a0ABC\u00a0television series\u00a0Ugly Betty. Her other major roles include Eve Baird on the\u00a0TNT\u00a0series\u00a0The Librarians, voicing\u00a0Lois Lane\u00a0in the\u00a0DC Animated Movie Universe, and as the host of the reality competition show\u00a0Skin Wars.\n\nDescription above from the Wikipedia article Rebecca Romijn, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1972-11-06",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 11008,
+        "imdb_id": "nm0005381",
+        "known_for_department": "Acting",
+        "name": "Rebecca Romijn",
+        "place_of_birth": "Berkeley, California, USA",
+        "popularity": 2.5413,
+        "profile_path": "/5Jgmk7S3JxDUhdVLUFHUaJ42ovt.jpg"
+    }
+}

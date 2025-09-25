@@ -1,0 +1,184 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 2501,
+                "original_language": "en",
+                "original_title": "The Bourne Identity",
+                "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy\u2014but who does he work for?",
+                "popularity": 13.5372,
+                "poster_path": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+                "release_date": "2002-06-14",
+                "title": "The Bourne Identity",
+                "video": false,
+                "vote_average": 7.469,
+                "vote_count": 9646,
+                "character": "Research Tech",
+                "credit_id": "52fe435ac3a36847f804e06f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qHXdyDBgetOyetVkWGzHYGp7L72.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    36
+                ],
+                "id": 7305,
+                "original_language": "en",
+                "original_title": "Alive",
+                "overview": "The amazing true story of a Uruguayan rugby team's plane that crashed in the middle of the Andes mountains, and their immense will to survive and pull through alive, forced to do anything and everything they could to stay alive on meager rations and through the freezing cold.",
+                "popularity": 3.2373,
+                "poster_path": "/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg",
+                "release_date": "1993-01-15",
+                "title": "Alive",
+                "video": false,
+                "vote_average": 6.887,
+                "vote_count": 1513,
+                "character": "Roberto Canessa",
+                "credit_id": "52fe4479c3a36847f809833d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tKRUCk2yARbAADLwwwrir6F5gpa.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 121986,
+                "original_language": "en",
+                "original_title": "Frances Ha",
+                "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+                "popularity": 6.1662,
+                "poster_path": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+                "release_date": "2013-05-17",
+                "title": "Frances Ha",
+                "video": false,
+                "vote_average": 7.35,
+                "vote_count": 1728,
+                "character": "Andy",
+                "credit_id": "52fe4a73c3a368484e153f03",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    12
+                ],
+                "id": 425,
+                "original_language": "en",
+                "original_title": "Ice Age",
+                "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters \u2013 Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth \u2013 find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
+                "popularity": 15.0553,
+                "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+                "release_date": "2002-03-14",
+                "title": "Ice Age",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 13803,
+                "character": "Dodo / Aardvark (voice)",
+                "credit_id": "551645239251413eb2000afc",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wj2nLa0vfS0SLu2vJ6ABTRhMrok.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334541,
+                "original_language": "en",
+                "original_title": "Manchester by the Sea",
+                "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+                "popularity": 10.01,
+                "poster_path": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+                "release_date": "2016-11-17",
+                "title": "Manchester by the Sea",
+                "video": false,
+                "vote_average": 7.546,
+                "vote_count": 6109,
+                "character": "Wes (Joe's Lawyer)",
+                "credit_id": "586899cf9251414e7a007f97",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 489925,
+                "original_language": "en",
+                "original_title": "Eighth Grade",
+                "overview": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school \u2014 the end of her thus far disastrous eighth grade year \u2014 before she begins high school.",
+                "popularity": 3.9272,
+                "poster_path": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+                "release_date": "2018-01-19",
+                "title": "Eighth Grade",
+                "video": false,
+                "vote_average": 7.16,
+                "vote_count": 1590,
+                "character": "Mark Day",
+                "credit_id": "5a1f7be3c3a3680b8f0865ab",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gg9zZB9xLPWmuxOpKw0HX0QLMN6.jpg",
+                "genre_ids": [
+                    14,
+                    10749
+                ],
+                "id": 672647,
+                "original_language": "en",
+                "original_title": "The Map of Tiny Perfect Things",
+                "overview": "Two teenagers trapped in an endless time loop set out to find all the tiny things that make that one day perfect.",
+                "popularity": 6.4383,
+                "poster_path": "/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg",
+                "release_date": "2021-02-12",
+                "title": "The Map of Tiny Perfect Things",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 826,
+                "character": "Daniel",
+                "credit_id": "5e463fe141465c0016d48ec7",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joshua Hamilton",
+            "\u03a4\u03b6\u03bf\u03c2 \u03a7\u03ac\u03bc\u03b9\u03bb\u03c4\u03bf\u03bd"
+        ],
+        "biography": "Josh Hamilton (born June 9, 1969) is an American actor. He received a nomination for the Independent Spirit Award for Best Supporting Male for his performance in the indie film Eighth Grade.",
+        "birthday": "1969-06-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 52419,
+        "imdb_id": "nm0357979",
+        "known_for_department": "Acting",
+        "name": "Josh Hamilton",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.7543,
+        "profile_path": "/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+    }
+}

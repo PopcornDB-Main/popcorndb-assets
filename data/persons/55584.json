@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qZYvF1M7y8Gfp4S6OBHbYfB0Lgc.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 639933,
+                "original_language": "en",
+                "original_title": "The Northman",
+                "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+                "popularity": 8.5366,
+                "poster_path": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+                "release_date": "2022-04-07",
+                "title": "The Northman",
+                "video": false,
+                "vote_average": 7.036,
+                "vote_count": 4702,
+                "character": "He-Witch",
+                "credit_id": "5f56f3051511aa0036211712",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.7837,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.11,
+                "vote_count": 10399,
+                "character": "Mayor",
+                "credit_id": "60541e20f48e0d00281a84bd",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ingvar E. Sigurdsson",
+            "Ingvar Eggert Sigur\u00f0sson",
+            "Ingvar Sigurdsson"
+        ],
+        "biography": "Ingvar Sigurdsson was born on November 22, 1963 in Reykjavik, Iceland. He is an actor and producer, known for Everest (2015), The Northman (2022) and A White, White Day (2019).",
+        "birthday": "1963-11-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 55584,
+        "imdb_id": "nm0797614",
+        "known_for_department": "Acting",
+        "name": "Ingvar E. Sigur\u00f0sson",
+        "place_of_birth": "Reykjav\u00edk, Iceland",
+        "popularity": 0.5571,
+        "profile_path": "/m7pllSNc0HRorwZmT6flaR3LdRE.jpg"
+    }
+}

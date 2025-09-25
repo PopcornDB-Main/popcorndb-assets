@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.486,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Signor Ferrari",
+                "credit_id": "52fe4233c3a36847f800b853",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    53
+                ],
+                "id": 963,
+                "original_language": "en",
+                "original_title": "The Maltese Falcon",
+                "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+                "popularity": 5.0566,
+                "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+                "release_date": "1941-10-18",
+                "title": "The Maltese Falcon",
+                "video": false,
+                "vote_average": 7.712,
+                "vote_count": 1775,
+                "character": "Kasper Gutman",
+                "credit_id": "52fe4294c3a36847f8029a3f",
+                "order": 6
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Sydney Hughes Greenstreet",
+            "\u0421\u0456\u0434\u043d\u0456 \u0413'\u044e\u0437 \u0490\u0440\u0456\u043d\u0441\u0442\u0440\u0456\u0442",
+            "\u0421\u0438\u0434\u043d\u0438 \u0425\u044c\u044e\u0437 \u0413\u0440\u0438\u043d\u0441\u0442\u0440\u0438\u0442",
+            "\u03a3\u03af\u03bd\u03c4\u03bd\u03b5\u03ca \u0393\u03ba\u03c1\u03af\u03bd\u03c3\u03c4\u03c1\u03b9\u03c4"
+        ],
+        "biography": "Sydney Hughes Greenstreet was an English actor. He is best known for his Warner Bros. films with Humphrey Bogart and Peter Lorre, which include The Maltese Falcon (1941) and Casablanca (1942).",
+        "birthday": "1879-12-27",
+        "deathday": "1954-01-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 4114,
+        "imdb_id": "nm0002113",
+        "known_for_department": "Acting",
+        "name": "Sydney Greenstreet",
+        "place_of_birth": "Eastry, Kent, England, UK",
+        "popularity": 0.3298,
+        "profile_path": "/67bcDUjZEXrTpOTejsweP53KQGV.jpg"
+    }
+}

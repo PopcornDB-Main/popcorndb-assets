@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7kgDHoXEk0EySTczcmaYpPDBFQS.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 760774,
+                "original_language": "en",
+                "original_title": "One Life",
+                "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
+                "popularity": 4.5068,
+                "poster_path": "/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
+                "release_date": "2023-12-21",
+                "title": "One Life",
+                "video": false,
+                "vote_average": 7.77,
+                "vote_count": 851,
+                "character": "Leadbetter",
+                "credit_id": "662ee7d88a88b20127ce7e12",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 399404,
+                "original_language": "en",
+                "original_title": "Darkest Hour",
+                "overview": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler or fight on knowing that it could mean the end of the British Empire.",
+                "popularity": 5.6299,
+                "poster_path": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+                "release_date": "2017-11-22",
+                "title": "Darkest Hour",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 5297,
+                "character": "Lord Londonderry",
+                "credit_id": "5a7e73b70e0a262ab500403c",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.8692,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 15864,
+                "character": "Admiral Gorin",
+                "credit_id": "5ed29c85aaec71001f6c2893",
+                "order": 52
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1961-05-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1449370,
+        "imdb_id": "nm0332449",
+        "known_for_department": "Acting",
+        "name": "Michael Gould",
+        "place_of_birth": "Ealing, London, England, UK",
+        "popularity": 0.0753,
+        "profile_path": "/e94ofUQ5Vdev1IdQXZzHoB9TRIt.jpg"
+    }
+}

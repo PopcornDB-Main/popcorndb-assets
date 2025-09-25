@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 507089,
+                "original_language": "en",
+                "original_title": "Five Nights at Freddy's",
+                "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+                "popularity": 12.1057,
+                "poster_path": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+                "release_date": "2023-10-25",
+                "title": "Five Nights at Freddy's",
+                "video": false,
+                "vote_average": 7.396,
+                "vote_count": 4552,
+                "character": "Dr. Lillian",
+                "credit_id": "64f8e6314ccc5018753e1f2e",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "character": "Big Daddy's Main Pony (uncredited)",
+                "credit_id": "67bb1a18b7c35459adbee13b",
+                "order": 134
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2090109,
+        "imdb_id": "nm6746248",
+        "known_for_department": "Acting",
+        "name": "Tadasay Young",
+        "place_of_birth": "California, USA",
+        "popularity": 0.1354,
+        "profile_path": "/rWfRMo8GMtKa6K0PtnVJ5OIR4xL.jpg"
+    }
+}

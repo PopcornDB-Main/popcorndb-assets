@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "President Johnson (voice)",
+                "credit_id": "55d0c850c3a3681bee007a87",
+                "order": 75
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 2604,
+                "original_language": "en",
+                "original_title": "Born on the Fourth of July",
+                "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+                "popularity": 9.4567,
+                "poster_path": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+                "release_date": "1989-12-20",
+                "title": "Born on the Fourth of July",
+                "video": false,
+                "vote_average": 7.017,
+                "vote_count": 1790,
+                "character": "Fat Republican - Miami Convention",
+                "credit_id": "55e8816ec3a3682c64002a38",
+                "order": 77
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.828,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 2256,
+                "character": "L. B. J. voice",
+                "credit_id": "56185a71c3a3682441000a2b",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John Galt",
+            "John Gault"
+        ],
+        "biography": "",
+        "birthday": "1940-04-04",
+        "deathday": "2022-01-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 37827,
+        "imdb_id": "nm0303344",
+        "known_for_department": "Acting",
+        "name": "John William Galt",
+        "place_of_birth": "Jackson, Mississippi, USA",
+        "popularity": 2.3199,
+        "profile_path": "/2OGqivopEc0vcGnBjDXGA7viGb9.jpg"
+    }
+}

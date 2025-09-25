@@ -1,0 +1,327 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 590,
+                "original_language": "en",
+                "original_title": "The Hours",
+                "overview": "The story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.",
+                "popularity": 3.5989,
+                "poster_path": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+                "release_date": "2002-12-27",
+                "title": "The Hours",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 1801,
+                "character": "Kitty",
+                "credit_id": "52fe4258c3a36847f80172d9",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 745,
+                "original_language": "en",
+                "original_title": "The Sixth Sense",
+                "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+                "popularity": 8.5538,
+                "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+                "release_date": "1999-08-06",
+                "title": "The Sixth Sense",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 12255,
+                "character": "Lynn Sear",
+                "credit_id": "52fe426fc3a36847f801e753",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 5.2704,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.693,
+                "vote_count": 7467,
+                "character": "Sheryl Hoover",
+                "credit_id": "52fe4274c3a36847f80200c3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zUs2GW4rPSIsfzBp0GtXaQR2mqk.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 1808,
+                "original_language": "en",
+                "original_title": "Velvet Goldmine",
+                "overview": "Almost a decade since larger-than-life glam-rock enigma Brian Slade disappeared from public eye, an investigative journalist is on assignment to uncover the truth behind his former idol.",
+                "popularity": 2.3461,
+                "poster_path": "/bsuSac0PldPFcOtR1Vioe7VBF4l.jpg",
+                "release_date": "1998-08-28",
+                "title": "Velvet Goldmine",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 520,
+                "character": "Mandy Slade",
+                "credit_id": "52fe4316c3a36847f8039489",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    18
+                ],
+                "id": 24238,
+                "original_language": "en",
+                "original_title": "Mary and Max",
+                "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+                "popularity": 5.7849,
+                "poster_path": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+                "release_date": "2009-04-09",
+                "title": "Mary and Max",
+                "video": false,
+                "vote_average": 7.876,
+                "vote_count": 2110,
+                "character": "Mary (voice)",
+                "credit_id": "52fe448cc3a368484e028ed5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2u2MOaOLWSi6onaAo37Vf39xGy.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    35
+                ],
+                "id": 1040148,
+                "original_language": "en",
+                "original_title": "Ruby Gillman, Teenage Kraken",
+                "overview": "Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.",
+                "popularity": 6.4111,
+                "poster_path": "/8ChIb3WzYAcza1vrXR56v510MWk.jpg",
+                "release_date": "2023-06-28",
+                "title": "Ruby Gillman, Teenage Kraken",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1055,
+                "character": "Agatha Gillman (voice)",
+                "credit_id": "64107f74323eba00ef62e8a9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bPm5kQLlc2KypdYkUxGbrGfLJ82.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 147773,
+                "original_language": "en",
+                "original_title": "The Way Way Back",
+                "overview": "Shy 14-year-old Duncan goes on summer vacation with his mother, her overbearing boyfriend, and her boyfriend's daughter. Having a rough time fitting in, Duncan finds an unexpected friend in Owen, manager of the Water Wizz water park.",
+                "popularity": 3.4513,
+                "poster_path": "/4DgA0EDDVv37C8xISc3Vv0rhxlL.jpg",
+                "release_date": "2013-06-06",
+                "title": "The Way Way Back",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 1857,
+                "character": "Pam",
+                "credit_id": "52fe4bb39251416c7510b38f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
+                "genre_ids": [
+                    878,
+                    35,
+                    12
+                ],
+                "id": 696506,
+                "original_language": "en",
+                "original_title": "Mickey 17",
+                "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+                "popularity": 23.7672,
+                "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+                "release_date": "2025-02-28",
+                "title": "Mickey 17",
+                "video": false,
+                "vote_average": 6.867,
+                "vote_count": 2676,
+                "character": "Ylfa",
+                "credit_id": "6287ef12f10a1a33aaae103f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    53
+                ],
+                "id": 493922,
+                "original_language": "en",
+                "original_title": "Hereditary",
+                "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+                "popularity": 8.7789,
+                "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+                "release_date": "2018-06-07",
+                "title": "Hereditary",
+                "video": false,
+                "vote_average": 7.291,
+                "vote_count": 8121,
+                "character": "Annie Graham",
+                "credit_id": "5a3b9e629251415475099567",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 546554,
+                "original_language": "en",
+                "original_title": "Knives Out",
+                "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+                "popularity": 10.7766,
+                "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+                "release_date": "2019-11-27",
+                "title": "Knives Out",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 13115,
+                "character": "Joni Thrombey",
+                "credit_id": "5bdd53360e0a260593008858",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 597208,
+                "original_language": "en",
+                "original_title": "Nightmare Alley",
+                "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
+                "popularity": 5.0203,
+                "poster_path": "/680klE0dIreQQOyWKFgNnCAJtws.jpg",
+                "release_date": "2021-12-02",
+                "title": "Nightmare Alley",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 3123,
+                "character": "Zeena the Seer",
+                "credit_id": "5d44e83e0f2fbd7674ed1aeb",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ygiO8LyMEcHa8dwg0aLCpybPlP0.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 290762,
+                "original_language": "en",
+                "original_title": "Miss You Already",
+                "overview": "The friendship between two life-long girlfriends is put to the test when one starts a family and the other falls ill.",
+                "popularity": 2.0242,
+                "poster_path": "/eQ9ra8OrZML5w9A4yib8tscgDbY.jpg",
+                "release_date": "2015-09-12",
+                "title": "Miss You Already",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 676,
+                "character": "Milly",
+                "credit_id": "6784650a78cfcd77ed4ecce8",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    53
+                ],
+                "id": 493922,
+                "original_language": "en",
+                "original_title": "Hereditary",
+                "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+                "popularity": 8.7789,
+                "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+                "release_date": "2018-06-07",
+                "title": "Hereditary",
+                "video": false,
+                "vote_average": 7.291,
+                "vote_count": 8121,
+                "credit_id": "5b3261050e0a26400400e7ba",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud1a0\ub2c8 \ucf5c\ub81b",
+            "\u03a4\u03cc\u03bd\u03b9 \u039a\u03bf\u03bb\u03ad\u03c4",
+            "\u10e2\u10dd\u10dc\u10d8 \u10d9\u10dd\u10da\u10d4\u10e2\u10d8",
+            "Toni Collette Galafassi",
+            "\u6771\u59ae\u00b7\u514b\u8389\u8482",
+            "\u05d8\u05d5\u05e0\u05d9 \u05e7\u05d5\u05dc\u05d8",
+            "\u062a\u0648\u0646\u06cc \u06a9\u0648\u0644\u062a",
+            "Antonia \"Toni\" Collette"
+        ],
+        "biography": "Toni Collette Galafassi (November 1, 1972) is an Australian actress, producer, singer, and songwriter. Known for her work in television and independent films, she has received various accolades throughout her career, including a Golden Globe Award and a Primetime Emmy Award, in addition to nominations for an Academy Award, a Tony Award, and two British Academy Film Awards.\n\nAfter making her film debut in Spotswood (1992) and being nominated for the AACTA Award for Best Actress in a Supporting Role, her breakthrough role came in the comedy-drama Muriel's Wedding (1994), which earned her a Golden Globe Award nomination and won her the AACTA Award for Best Actress in a Leading Role. Collette achieved greater international recognition for her role in the psychological thriller film The Sixth Sense (1999), and was nominated for the Academy Award for Best Supporting Actress. She received BAFTA Award nominations for her performances in the romantic comedy About a Boy (2002) and the comedy-drama Little Miss Sunshine (2006).\n\nCollette's films include diverse genres, such as the period comedy Emma (1996), the action thriller Shaft (2000), the period drama The Hours (2002), the romantic drama Japanese Story (2003), the comedies In Her Shoes (2005) and The Way, Way Back (2013), the horror films Krampus (2015) and Hereditary (2018), and the mystery film Knives Out (2019). Her Broadway performances include the lead role in The Wild Party (2000), which earned her a Tony Award nomination. In television, she starred in the Showtime comedy-drama series United States of Tara (2008\u20132011) and the Netflix drama miniseries Unbelievable (2019). For the former, she won a Primetime Emmy Award and a Golden Globe Award. She has won five AACTA Awards, from eight nominations.\n\nCollette married Dave Galafassi, drummer of the band Gelbison, in January 2003. The couple have two children together. As the lead singer of Toni Collette & the Finish, she wrote all 11 tracks of their sole album, Beautiful Awkward Pictures (2006). The band toured Australia, but have not performed nor released any new material after 2007. In 2017, Collette and Jen Turner co-founded the film production company Vocab Films.",
+        "birthday": "1972-11-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 3051,
+        "imdb_id": "nm0001057",
+        "known_for_department": "Acting",
+        "name": "Toni Collette",
+        "place_of_birth": "Sydney, New South Wales, Australia",
+        "popularity": 1.9863,
+        "profile_path": "/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    }
+}

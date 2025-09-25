@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yCGCtDRIaEHSPd5pO8NPfTML6Jh.jpg",
+                "genre_ids": [
+                    28,
+                    14,
+                    10770
+                ],
+                "id": 877703,
+                "original_language": "en",
+                "original_title": "Teen Wolf: The Movie",
+                "overview": "The wolves are howling once again, as a terrifying ancient evil emerges in Beacon Hills. Scott McCall, no longer a teenager yet still an Alpha, must gather new allies and reunite trusted friends to fight back against this powerful and deadly enemy.",
+                "popularity": 5.83,
+                "poster_path": "/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg",
+                "release_date": "2023-01-18",
+                "title": "Teen Wolf: The Movie",
+                "video": false,
+                "vote_average": 7.527,
+                "vote_count": 898,
+                "character": "Harris",
+                "credit_id": "63d2919d5a07f5009e97d0c4",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 499932,
+                "original_language": "en",
+                "original_title": "The Devil All the Time",
+                "overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+                "popularity": 3.1388,
+                "poster_path": "/sdMZmKVvrnyYbl9Az4L6ehuIrFp.jpg",
+                "release_date": "2020-09-11",
+                "title": "The Devil All the Time",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 3488,
+                "character": "Priest",
+                "credit_id": "5cb5906e0e0a266ba4ecc835",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1975-12-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1287005,
+        "imdb_id": "nm3476561",
+        "known_for_department": "Acting",
+        "name": "Adam Fristoe",
+        "place_of_birth": null,
+        "popularity": 0.2562,
+        "profile_path": "/wh4G9YbcxM9B9zHjPoHR0l3U6Lf.jpg"
+    }
+}

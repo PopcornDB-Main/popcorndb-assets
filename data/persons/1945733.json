@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 17.5505,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 10314,
+                "character": "Doctor Receptionist",
+                "credit_id": "64b79738b1f68d0106956d24",
+                "order": 74
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8HKwxHZ23sW8wz4yb28IWnAM1M6.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 458423,
+                "original_language": "en",
+                "original_title": "Mamma Mia! Here We Go Again",
+                "overview": "Five years after meeting her three fathers, Sophie Sheridan prepares to open her mother\u2019s hotel. In 1979, young Donna Sheridan meets the men who each could be Sophie\u2019s biological father.",
+                "popularity": 5.2208,
+                "poster_path": "/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+                "release_date": "2018-07-18",
+                "title": "Mamma Mia! Here We Go Again",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 3473,
+                "character": "Ensemble Performer",
+                "credit_id": "5fa33ba7f925320042f6dde9",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1945733,
+        "imdb_id": "nm2106788",
+        "known_for_department": "Acting",
+        "name": "Kathryn Akin",
+        "place_of_birth": null,
+        "popularity": 0.0721,
+        "profile_path": "/1CR7rYwRCHmHi0504Nn8JJ4URVJ.jpg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/1tqzKtAWMRURxPTvs1hzcSOoKxe.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 234200,
+                "original_language": "en",
+                "original_title": "Pride",
+                "overview": "In 1984, a group of LGBT activists decide to raise money to support the National Union of Mineworkers during their lengthy strike. There is only one problem: the Union seems embarrassed to receive their support.",
+                "popularity": 3.2875,
+                "poster_path": "/mrITqHNw0XzT7egAPByDuiE3QZf.jpg",
+                "release_date": "2014-09-12",
+                "title": "Pride",
+                "video": false,
+                "vote_average": 7.704,
+                "vote_count": 1357,
+                "character": "Johnny",
+                "credit_id": "5ddc0e110cd44600142c4625",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    18
+                ],
+                "id": 374720,
+                "original_language": "en",
+                "original_title": "Dunkirk",
+                "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+                "popularity": 10.4146,
+                "poster_path": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+                "release_date": "2017-07-19",
+                "title": "Dunkirk",
+                "video": false,
+                "vote_average": 7.449,
+                "vote_count": 17004,
+                "character": "Junior Naval Officer",
+                "credit_id": "600ccf057776f000410f25ba",
+                "order": 36
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1379408,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Johnny Gibbon",
+        "place_of_birth": null,
+        "popularity": 0.0563,
+        "profile_path": "/9c2b6aRgh8lzmZZxJkBH5V6Mt8n.jpg"
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7qfRbS477Io8JnYz739P0aXbBVh.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 1073,
+                "original_language": "en",
+                "original_title": "Arlington Road",
+                "overview": "Bedraggled college professor Michael Faraday has been vexed \u2014 and increasingly paranoid \u2014 since his wife's accidental death in a botched FBI operation. When a seemingly all-American couple set up house next door, Michael begin to suspect there\u2019s more to them than meets the eye.",
+                "popularity": 4.8566,
+                "poster_path": "/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+                "release_date": "1999-03-19",
+                "title": "Arlington Road",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1162,
+                "character": "Dr. Archer Scobee",
+                "credit_id": "52fe42e6c3a36847f802b6cf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 557,
+                "original_language": "en",
+                "original_title": "Spider-Man",
+                "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+                "popularity": 24.6303,
+                "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+                "release_date": "2002-05-01",
+                "title": "Spider-Man",
+                "video": false,
+                "vote_average": 7.316,
+                "vote_count": 19892,
+                "character": "General Slocum",
+                "credit_id": "52fe4252c3a36847f8014f8f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/diGPtRd1p8Oanp5Vu51rV2bu4K5.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 11329,
+                "original_language": "en",
+                "original_title": "Runaway Jury",
+                "overview": "After a workplace shooting in New Orleans, a trial against the gun manufacturer pits lawyer Wendell Rohr against shady jury consultant Rankin Fitch, who uses illegal means to stack the jury with people sympathetic to the defense. But when juror Nicholas Easter and his girlfriend Marlee reveal their ability to sway the jury into delivering any verdict they want, a high-stakes cat-and-mouse game begins.",
+                "popularity": 4.2417,
+                "poster_path": "/g58RA1zzE39KnkRpKRfgA5RxoXP.jpg",
+                "release_date": "2003-01-16",
+                "title": "Runaway Jury",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1423,
+                "character": "Henry Jankle",
+                "credit_id": "53660cc60e0a2647db002e02",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/a4f6y7gbMmMLrwzJZrwmcNmEBM1.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 1592,
+                "original_language": "en",
+                "original_title": "Primal Fear",
+                "overview": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room.",
+                "popularity": 6.4438,
+                "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+                "release_date": "1996-03-06",
+                "title": "Primal Fear",
+                "video": false,
+                "vote_average": 7.656,
+                "vote_count": 3628,
+                "character": "Rushman",
+                "credit_id": "5a5d765fc3a3686a64002f4d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 9802,
+                "original_language": "en",
+                "original_title": "The Rock",
+                "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+                "popularity": 7.9267,
+                "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
+                "release_date": "1996-06-07",
+                "title": "The Rock",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 4925,
+                "character": "The President (uncredited)",
+                "credit_id": "5eed44fc59e8a90034c875da",
+                "order": 71
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27
+                ],
+                "id": 9533,
+                "original_language": "en",
+                "original_title": "Red Dragon",
+                "overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+                "popularity": 1.7677,
+                "poster_path": "/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+                "release_date": "2002-10-02",
+                "title": "Red Dragon",
+                "video": false,
+                "vote_average": 7.03,
+                "vote_count": 4466,
+                "character": "Jimmy",
+                "credit_id": "676819bd919287ef53912aa8",
+                "order": 47
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Stanley Anderson (October 23, 1939 \u2013 June 24, 2018) was an American actor. He was born in Billings, Montana.[1] He appeared in Deceived, RoboCop 3 and The Pelican Brief. He was known for starring as Drew Carey's father in The Drew Carey Show. He also starred in Seinfeld and in Spider-Man.",
+        "birthday": "1939-10-23",
+        "deathday": "2018-06-24",
+        "gender": 2,
+        "homepage": null,
+        "id": 15253,
+        "imdb_id": "nm0027454",
+        "known_for_department": "Acting",
+        "name": "Stanley Anderson",
+        "place_of_birth": "Billings, Montana, USA",
+        "popularity": 0.5686,
+        "profile_path": "/6kHp1SlLRw0NobVdY8X6DbBAPt8.jpg"
+    }
+}

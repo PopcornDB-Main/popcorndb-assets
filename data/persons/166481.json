@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vfzsU4VzupTeiyTMPpbKzZKmk4X.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 6615,
+                "original_language": "en",
+                "original_title": "Lars and the Real Girl",
+                "overview": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
+                "popularity": 5.0841,
+                "poster_path": "/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+                "release_date": "2007-10-12",
+                "title": "Lars and the Real Girl",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 1926,
+                "character": "Sandy",
+                "credit_id": "5ad6c791c3a36847d5004ee2",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 376290,
+                "original_language": "en",
+                "original_title": "Miss Sloane",
+                "overview": "An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.",
+                "popularity": 4.1171,
+                "poster_path": "/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+                "release_date": "2016-11-25",
+                "title": "Miss Sloane",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 1895,
+                "character": "Brenda Patterson",
+                "credit_id": "5c32755b925141635e727872",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 166481,
+        "imdb_id": "nm0899107",
+        "known_for_department": "Acting",
+        "name": "Angela Vint",
+        "place_of_birth": "Oshawa, Ontario, Canada",
+        "popularity": 0.1782,
+        "profile_path": "/nBzP92UT3YmzxXsD7sPrcHTMM8F.jpg"
+    }
+}

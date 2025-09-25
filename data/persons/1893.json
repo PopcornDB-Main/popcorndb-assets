@@ -1,0 +1,232 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 161,
+                "original_language": "en",
+                "original_title": "Ocean's Eleven",
+                "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+                "popularity": 9.3456,
+                "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+                "release_date": "2001-12-07",
+                "title": "Ocean's Eleven",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 12040,
+                "character": "Virgil Malloy",
+                "credit_id": "52fe4220c3a36847f800617b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oLsts7ct0NVkdYpx5rZg10MG6zh.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 489,
+                "original_language": "en",
+                "original_title": "Good Will Hunting",
+                "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+                "popularity": 13.8953,
+                "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+                "release_date": "1997-12-05",
+                "title": "Good Will Hunting",
+                "video": false,
+                "vote_average": 8.157,
+                "vote_count": 13095,
+                "character": "Morgan O'Mally",
+                "credit_id": "52fe4249c3a36847f8012667",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xcDiiWTFJ6T3D3qayL1DdlDeQz8.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 4771,
+                "original_language": "en",
+                "original_title": "Gone Baby Gone",
+                "overview": "When 4 year old Amanda McCready disappears from her home and the police make little headway in solving the case, the girl's aunt, Beatrice McCready hires two private detectives, Patrick Kenzie and Angie Gennaro. The detectives freely admit that they have little experience with this type of case, but the family wants them for two reasons\u2014they're not cops and they know the tough neighborhood in which they all live.",
+                "popularity": 3.4744,
+                "poster_path": "/wZR1dvctqODqNGv6LJBEj6DQ2zK.jpg",
+                "release_date": "2007-09-18",
+                "title": "Gone Baby Gone",
+                "video": false,
+                "vote_average": 7.306,
+                "vote_count": 3944,
+                "character": "Patrick Kenzie",
+                "credit_id": "52fe43d8c3a36847f8073c1f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 4512,
+                "original_language": "en",
+                "original_title": "The Assassination of Jesse James by the Coward Robert Ford",
+                "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+                "popularity": 6.7655,
+                "poster_path": "/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg",
+                "release_date": "2007-09-20",
+                "title": "The Assassination of Jesse James by the Coward Robert Ford",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 2620,
+                "character": "Robert Ford",
+                "credit_id": "52fe43c7c3a36847f806eedd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35
+                ],
+                "id": 77174,
+                "original_language": "en",
+                "original_title": "ParaNorman",
+                "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
+                "popularity": 8.3558,
+                "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+                "release_date": "2012-08-03",
+                "title": "ParaNorman",
+                "video": false,
+                "vote_average": 7.004,
+                "vote_count": 2630,
+                "character": "Mitch Downe (voice)",
+                "credit_id": "52fe4961c3a368484e1284f1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 63.1735,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37856,
+                "character": "Tom",
+                "credit_id": "52fe4bbf9251416c910e4805",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.113,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.05,
+                "vote_count": 10702,
+                "character": "Boris Pash",
+                "credit_id": "6328af3691b530007d0c4cff",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wj2nLa0vfS0SLu2vJ6ABTRhMrok.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334541,
+                "original_language": "en",
+                "original_title": "Manchester by the Sea",
+                "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+                "popularity": 11.4539,
+                "poster_path": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+                "release_date": "2016-11-17",
+                "title": "Manchester by the Sea",
+                "video": false,
+                "vote_average": 7.545,
+                "vote_count": 6103,
+                "character": "Lee Chandler",
+                "credit_id": "5521bb919251415c870040e1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2y2aqaScd7jsUee0ddI1iRNgwGq.jpg",
+                "genre_ids": [
+                    18,
+                    14,
+                    9648,
+                    10749
+                ],
+                "id": 428449,
+                "original_language": "en",
+                "original_title": "A Ghost Story",
+                "overview": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
+                "popularity": 3.9284,
+                "poster_path": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+                "release_date": "2017-04-24",
+                "title": "A Ghost Story",
+                "video": false,
+                "vote_average": 7.087,
+                "vote_count": 2398,
+                "character": "C",
+                "credit_id": "583f72859251417f890010ba",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u041a\u0435\u0439\u0441\u0438 \u0410\u0444\u0444\u043b\u0435\u043a",
+            "\u039a\u03ad\u03b9\u03c3\u03b9 \u0386\u03c6\u03bb\u03b5\u03ba",
+            "\ucf00\uc774\uc2dc \uc560\ud50c\ub809",
+            "\u5361\u897f\u00b7\u963f\u5f17\u83b1\u514b",
+            "\u06a9\u06cc\u0633\u06cc \u0627\u0641\u0644\u06a9",
+            "\u51f1\u897f\u827e\u4f5b\u5217\u514b"
+        ],
+        "biography": "Casey Affleck\u00a0(born\u00a0Caleb Casey McGuire Affleck-Boldt; August 12, 1975) is an American actor. He receives\u00a0various accolades, including an\u00a0Academy Award, a\u00a0British Academy Film Award, and a\u00a0Golden Globe Award. The younger brother of actor\u00a0Ben Affleck, he began his career as a child actor, appearing in the\u00a0PBS television film\u00a0Lemon Sky\u00a0(1988). He later appeared in three\u00a0Gus Van Sant\u00a0films:\u00a0To Die For (1995),\u00a0Good Will Hunting\u00a0(1997),\u00a0Gerry\u00a0(2002), and in\u00a0Steven Soderbergh's\u00a0Ocean's film series (2001\u20132007). His first role was in\u00a0Steve Buscemi's independent comedy-drama\u00a0Lonesome Jim\u00a0(2006).\n\nAffleck's breakthrough came in 2007 when he was nominated for the\u00a0Academy Award for Best Supporting Actor\u00a0for his performance as\u00a0Robert Ford\u00a0in the Western drama\u00a0The Assassination of Jesse James by the Coward Robert Ford\u00a0and starred in his brother's crime drama\u00a0Gone Baby Gone. In 2010, he directed the mockumentary\u00a0I'm Still Here. He went on to appear in\u00a0Tower Heist (2011),\u00a0ParaNorman\u00a0(2012), and\u00a0Interstellar(2014), and he received praise for his performance as an outlaw in\u00a0Ain't Them Bodies Saints\u00a0(2013).\n\nIn 2016, Affleck starred in the drama\u00a0Manchester by the Sea, in which his performance as a grieving man earned him the\u00a0Academy Award for Best Actor. He has since starred in the dramas\u00a0A Ghost Story\u00a0(2017) and\u00a0The Old Man & the Gun\u00a0(2018) and as\u00a0Boris Pash\u00a0in the biographical thriller\u00a0Oppenheimer\u00a0(2023), his highest-grossing release.\n\nDescription above from the Wikipedia article Casey Affleck, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1975-08-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1893,
+        "imdb_id": "nm0000729",
+        "known_for_department": "Acting",
+        "name": "Casey Affleck",
+        "place_of_birth": "Falmouth, Massachusetts, USA",
+        "popularity": 1.863,
+        "profile_path": "/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/l9WzjwHwF7I2DwCtK8DXVQExGjH.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    35
+                ],
+                "id": 8051,
+                "original_language": "en",
+                "original_title": "Punch-Drunk Love",
+                "overview": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers.",
+                "popularity": 5.5557,
+                "poster_path": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+                "release_date": "2002-10-11",
+                "title": "Punch-Drunk Love",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 2514,
+                "character": "Operator Carter (voice)",
+                "credit_id": "52fe448ec3a36847f809cb9b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mFfyE5DPFDqoes4HIcElHc2a15y.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334,
+                "original_language": "en",
+                "original_title": "Magnolia",
+                "overview": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+                "popularity": 8.4459,
+                "poster_path": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+                "release_date": "1999-12-17",
+                "title": "Magnolia",
+                "video": false,
+                "vote_average": 7.729,
+                "vote_count": 3746,
+                "character": "Doc",
+                "credit_id": "645feb84ef8b320138866643",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bQEIYntlPba76NN41uWxIzUmzBb.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 4995,
+                "original_language": "en",
+                "original_title": "Boogie Nights",
+                "overview": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+                "popularity": 11.9692,
+                "poster_path": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+                "release_date": "1997-10-10",
+                "title": "Boogie Nights",
+                "video": false,
+                "vote_average": 7.634,
+                "vote_count": 3315,
+                "character": "Johnny Limo Driver",
+                "credit_id": "5890dea0c3a368700d009336",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 177063,
+        "imdb_id": "nm0028690",
+        "known_for_department": "Acting",
+        "name": "Jason Andrews",
+        "place_of_birth": null,
+        "popularity": 1.5205,
+        "profile_path": null
+    }
+}

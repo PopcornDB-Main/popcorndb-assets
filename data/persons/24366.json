@@ -1,0 +1,114 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jM6KRCEIIY1pGUIGemnp1rNY6ko.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 10102,
+                "original_language": "fr",
+                "original_title": "La Grande Bouffe",
+                "overview": "Four friends gather at a villa with the intention of eating themselves to death.",
+                "popularity": 3.2171,
+                "poster_path": "/g4wOgslrQKprlQl927h0lQQ3P99.jpg",
+                "release_date": "1973-05-16",
+                "title": "La Grande Bouffe",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 525,
+                "character": "Philippe",
+                "credit_id": "52fe43269251416c75005741",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 11010,
+                "original_language": "it",
+                "original_title": "Il postino",
+                "overview": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+                "popularity": 1.7715,
+                "poster_path": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+                "release_date": "1994-04-07",
+                "title": "The Postman",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1173,
+                "character": "Pablo Neruda",
+                "credit_id": "52fe43e29251416c75021dd1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3q6XHCXII7qRZOx5EqU5NfYkVx8.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 20914,
+                "original_language": "it",
+                "original_title": "Amici miei",
+                "overview": "Four inseparable friends try to face their midlife crisis with daytrips and pranks at the expense of their families and the people around them.",
+                "popularity": 1.7835,
+                "poster_path": "/8Pm8SLjq2UHCwisd56ipHtzvZI1.jpg",
+                "release_date": "1975-10-24",
+                "title": "My Friends",
+                "video": false,
+                "vote_average": 8.1,
+                "vote_count": 721,
+                "character": "Il Perozzi",
+                "credit_id": "52fe4401c3a368484e00a2ad",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 11216,
+                "original_language": "it",
+                "original_title": "Nuovo Cinema Paradiso",
+                "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+                "popularity": 6.5115,
+                "poster_path": "/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+                "release_date": "1988-11-17",
+                "title": "Cinema Paradiso",
+                "video": false,
+                "vote_average": 8.433,
+                "vote_count": 4607,
+                "character": "Alfredo",
+                "credit_id": "52fe44129251416c75027f25",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0424\u0438\u043b\u0438\u043f\u043f \u041d\u0443\u0430\u0440\u0435",
+            "Philippe Pierre Fernand Noiret"
+        ],
+        "biography": "Philippe Noiret (born 1 October 1930 in Lille \u2013 died 23 November 2006 in Paris) was a French film actor.",
+        "birthday": "1930-10-01",
+        "deathday": "2006-11-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 24366,
+        "imdb_id": "nm0634159",
+        "known_for_department": "Acting",
+        "name": "Philippe Noiret",
+        "place_of_birth": "Lille, Nord, France",
+        "popularity": 1.0607,
+        "profile_path": "/f5DsqdoLxQnPMrOTMkm6dIHNyEs.jpg"
+    }
+}

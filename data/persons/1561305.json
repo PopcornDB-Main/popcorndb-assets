@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 9693,
+                "original_language": "en",
+                "original_title": "Children of Men",
+                "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+                "popularity": 9.0933,
+                "poster_path": "/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+                "release_date": "2006-09-22",
+                "title": "Children of Men",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 7443,
+                "character": "Emily",
+                "credit_id": "56924e2dc3a3684cf8001c10",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "genre_ids": [
+                    36,
+                    35,
+                    18
+                ],
+                "id": 375262,
+                "original_language": "en",
+                "original_title": "The Favourite",
+                "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+                "popularity": 6.455,
+                "poster_path": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+                "release_date": "2018-11-23",
+                "title": "The Favourite",
+                "video": false,
+                "vote_average": 7.504,
+                "vote_count": 5681,
+                "character": "Kitchen Servant",
+                "credit_id": "5c7273029251415edfb2d3f7",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1561305,
+        "imdb_id": "nm1439098",
+        "known_for_department": "Acting",
+        "name": "Denise Mack",
+        "place_of_birth": null,
+        "popularity": 0.0404,
+        "profile_path": "/maC04YQMXBmVhXpL8hdfnqmzkL0.jpg"
+    }
+}

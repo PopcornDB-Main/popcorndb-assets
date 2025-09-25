@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 8337,
+                "original_language": "en",
+                "original_title": "They Live",
+                "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+                "popularity": 6.5976,
+                "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+                "release_date": "1988-11-04",
+                "title": "They Live",
+                "video": false,
+                "vote_average": 7.299,
+                "vote_count": 3235,
+                "character": "Security Guard #2",
+                "credit_id": "559e0219c3a368080c000b9d",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1485667,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Jim Nickerson",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

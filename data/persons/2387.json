@@ -1,0 +1,216 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 199,
+                "original_language": "en",
+                "original_title": "Star Trek: First Contact",
+                "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+                "popularity": 5.392,
+                "poster_path": "/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+                "release_date": "1996-11-22",
+                "title": "Star Trek: First Contact",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1852,
+                "character": "Captain Jean-Luc Picard",
+                "credit_id": "52fe4226c3a36847f8007ba3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qrnNj4lCPcBzmeOaHb7pLV9JKyg.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 11527,
+                "original_language": "en",
+                "original_title": "Excalibur",
+                "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\" chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately, his death.",
+                "popularity": 3.5269,
+                "poster_path": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+                "release_date": "1981-04-10",
+                "title": "Excalibur",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 1069,
+                "character": "Leondegrance",
+                "credit_id": "52fe44529251416c75030b0f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kchiiKCtsOg0VoFUpLnu1H98AX.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    18,
+                    10751
+                ],
+                "id": 9837,
+                "original_language": "en",
+                "original_title": "The Prince of Egypt",
+                "overview": "The strong bond between two brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+                "popularity": 6.6557,
+                "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+                "release_date": "1998-12-16",
+                "title": "The Prince of Egypt",
+                "video": false,
+                "vote_average": 7.296,
+                "vote_count": 4134,
+                "character": "Seti (voice)",
+                "credit_id": "52fe4537c3a36847f80c2abf",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36657,
+                "original_language": "en",
+                "original_title": "X-Men",
+                "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+                "popularity": 0.5589,
+                "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+                "release_date": "2000-07-13",
+                "title": "X-Men",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 11761,
+                "character": "Xavier",
+                "credit_id": "52fe45fe9251416c910457b1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36658,
+                "original_language": "en",
+                "original_title": "X2",
+                "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker's scheme to exterminate all mutants.",
+                "popularity": 0.4027,
+                "poster_path": "/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+                "release_date": "2003-04-27",
+                "title": "X2",
+                "video": false,
+                "vote_average": 7.032,
+                "vote_count": 10511,
+                "character": "Professor Charles Xavier",
+                "credit_id": "52fe45fe9251416c91045865",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 127585,
+                "original_language": "en",
+                "original_title": "X-Men: Days of Future Past",
+                "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+                "popularity": 13.1726,
+                "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+                "release_date": "2014-05-15",
+                "title": "X-Men: Days of Future Past",
+                "video": false,
+                "vote_average": 7.529,
+                "vote_count": 15762,
+                "character": "Professor X",
+                "credit_id": "52fe4affc3a368484e171ffb",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 453395,
+                "original_language": "en",
+                "original_title": "Doctor Strange in the Multiverse of Madness",
+                "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+                "popularity": 13.4427,
+                "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+                "release_date": "2022-05-04",
+                "title": "Doctor Strange in the Multiverse of Madness",
+                "video": false,
+                "vote_average": 7.248,
+                "vote_count": 9771,
+                "character": "Professor Charles Xavier",
+                "credit_id": "6262a889c1ffbd10a231f8cf",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    878
+                ],
+                "id": 263115,
+                "original_language": "en",
+                "original_title": "Logan",
+                "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+                "popularity": 11.2749,
+                "poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+                "release_date": "2017-02-28",
+                "title": "Logan",
+                "video": false,
+                "vote_average": 7.82,
+                "vote_count": 19839,
+                "character": "Charles",
+                "credit_id": "54db4049c3a368122a0017f4",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Sir Patrick Hewes Stewart",
+            "\u03a3\u03b5\u03c1 \u03a0\u03ac\u03c4\u03c1\u03b9\u03ba \u03a3\u03c4\u03b9\u03bf\u03cd\u03b1\u03c1\u03c4",
+            "\ud328\ud2b8\ub9ad \uc2a4\ud29c\uc5b4\ud2b8",
+            "\u5e15\u7279\u91cc\u514b\u00b7\u65af\u56fe\u5c14\u7279",
+            "\u6d3e\u5d14\u514b\u00b7\u53f2\u90fd\u83ef",
+            "\u0e41\u0e1e\u0e17\u0e23\u0e34\u0e04 \u0e2a\u0e08\u0e4a\u0e27\u0e15",
+            "\u067e\u0627\u062a\u0631\u06cc\u06a9 \u0627\u0633\u062a\u0648\u0627\u0631\u062a"
+        ],
+        "biography": "An English film, television and stage actor. He has had a distinguished career in theatre and television for around half a century. He is most widely known for his television and film roles, as Captain Jean-Luc Picard in Star Trek: The Next Generation and as Professor Charles Xavier in the X-Men films. Stewart was born in Mirfield near Dewsbury in the West Riding of Yorkshire, England, the son of Gladys, a weaver and textile worker, and Alfred Stewart, a Regimental Sergeant Major in the British Army who served with the King's Own Yorkshire Light Infantry and previously worked as a general labourer and as a postman. Stewart and his first wife, Sheila Falconer, have two children: Daniel Freedom and Sophie Alexandra. Stewart and Falconer divorced in 1990. In 1997, he became engaged to Wendy Neuss, one of the producers of Star Trek: The Next Generation, and they married on 25 August 2000, divorcing three years later. Four months prior to his divorce from Neuss, Stewart played opposite actress Lisa Dillon in a production of The Master Builder. The two dated for four years, but are no longer together. He is now seeing Sunny Ozell; at 31, she is younger than his daughter. \"I just don't meet women of my age,\" he explains. Stewart has been a prolific actor in performances by the Royal Shakespeare Company, appearing in over 60 productions.",
+        "birthday": "1940-07-13",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2387,
+        "imdb_id": "nm0001772",
+        "known_for_department": "Acting",
+        "name": "Patrick Stewart",
+        "place_of_birth": "Mirfield, West Yorkshire, England, UK",
+        "popularity": 1.9629,
+        "profile_path": "/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg"
+    }
+}

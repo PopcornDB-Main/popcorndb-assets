@@ -1,0 +1,251 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.5919,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5604,
+                "character": "Deke Slayton",
+                "credit_id": "52fe4254c3a36847f80159ad",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 640,
+                "original_language": "en",
+                "original_title": "Catch Me If You Can",
+                "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+                "popularity": 11.2084,
+                "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+                "release_date": "2002-12-16",
+                "title": "Catch Me If You Can",
+                "video": false,
+                "vote_average": 7.979,
+                "vote_count": 16345,
+                "character": "Special Agent Witkins",
+                "credit_id": "52fe4263c3a36847f801a663",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uEoaOfvWibpvjBNxFoj4MxWn0OH.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10377,
+                "original_language": "en",
+                "original_title": "My Cousin Vinny",
+                "overview": "Two carefree pals from Brooklyn traveling through rural Alabama on their way back to college are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
+                "popularity": 10.6957,
+                "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+                "release_date": "1992-03-13",
+                "title": "My Cousin Vinny",
+                "video": false,
+                "vote_average": 7.499,
+                "vote_count": 1695,
+                "character": "J.T.",
+                "credit_id": "52fe43639251416c7500e583",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg",
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 13466,
+                "original_language": "en",
+                "original_title": "October Sky",
+                "overview": "Homer Hickam is a kid with only one future in sight, to work in the local coal mine like his father. However, in October 1957 everything changes when the first artificial satellite, Sputnik, goes into orbit. When Homer sees the Soviet satellite streak overhead, he becomes inspired to learn how to build rockets. With the help of his friends, and the local nerd, Homer sets to do just that by trial and a lot of error. Unfortunately, most of the town, and especially Homer's father, thinks that they are wasting their time. Only one teacher understands their efforts and lets them know that they could become contenders in the national science fair with college scholarships being the prize. Now the gang must learn to perfect their craft and overcome the many problems facing them as they shoot for the stars.",
+                "popularity": 5.3876,
+                "poster_path": "/1weUnrWqESWoLzMgSs64jd4GEwY.jpg",
+                "release_date": "1999-02-19",
+                "title": "October Sky",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1320,
+                "character": "Principal Turner",
+                "credit_id": "52fe456b9251416c75055ddf",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8KM1KWQt434blaRMbDOJ8ZZ3K3W.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 586,
+                "original_language": "en",
+                "original_title": "Wag the Dog",
+                "overview": "During the final weeks of a presidential race, the President is accused of sexual misconduct. To distract the public until the election, the President's adviser hires a Hollywood producer to help him stage a fake war.",
+                "popularity": 4.6999,
+                "poster_path": "/rYoEQzMBlB40ZlwVoe6y5s8B58z.jpg",
+                "release_date": "1997-12-25",
+                "title": "Wag the Dog",
+                "video": false,
+                "vote_average": 6.941,
+                "vote_count": 990,
+                "character": "Officer",
+                "credit_id": "61a209c50231f200614f7b54",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 9591,
+                "original_language": "en",
+                "original_title": "That Thing You Do!",
+                "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+                "popularity": 3.2741,
+                "poster_path": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+                "release_date": "1996-10-04",
+                "title": "That Thing You Do!",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 874,
+                "character": "Phil Horace",
+                "credit_id": "54b8cb2ec3a368145e000fa5",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tcMVpjdEpsXrbPtVrSmh4uDBSiy.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 19101,
+                "original_language": "en",
+                "original_title": "A Little Princess",
+                "overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
+                "popularity": 4.1734,
+                "poster_path": "/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+                "release_date": "1995-05-10",
+                "title": "A Little Princess",
+                "video": false,
+                "vote_average": 7.625,
+                "vote_count": 1004,
+                "character": "Policeman",
+                "credit_id": "638537ad0fb17f008932cdfd",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 18.3339,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23537,
+                "character": "Fr. Reilly",
+                "credit_id": "56219752c3a3680e10009290",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 2758,
+                "original_language": "en",
+                "original_title": "Addams Family Values",
+                "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+                "popularity": 10.4451,
+                "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+                "release_date": "1993-11-19",
+                "title": "Addams Family Values",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 3163,
+                "character": "Moving Man",
+                "credit_id": "5dab0dfcb2681f001292e019",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qKWQ9IEDkMawD7sgKnIGCdFAhct.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    18,
+                    10752
+                ],
+                "id": 8963,
+                "original_language": "en",
+                "original_title": "Crimson Tide",
+                "overview": "After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsey insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.",
+                "popularity": 6.0646,
+                "poster_path": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+                "release_date": "1995-05-12",
+                "title": "Crimson Tide",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1868,
+                "character": "Additional Magician",
+                "credit_id": "5fe6c5ad4539d0003da0bc61",
+                "order": 52
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Chris Ellis (born April 14, 1956) is an American film and television actor. Ellis always wanted to be an actor because of television. He grew up in the 50's in the deep south in a \"world of privation and violence\", but saw on television people who seemed to have lives of ease and privilege.\n\nIt took him seven years to finish college however, because \"I have always been shiftless\". During those years Chris became involved in community theatre in Memphis, where \"I did and do still think the quality of the work has always been quite good\". By the time he moved to New York, he had worked with many excellent actors in about two dozen plays, classical and contemporary. \"I cannot imagine what might have supplanted that background for a newcomer in New York.\"\n\nHis first part in either television or film came in 1979, where he played a truck driver in the TV movie The Suicide's Wife, which starred Angie Dickinson. The role resulted in very little TV or film work. After working in regional theatre for a year or so, Chris fell off the radar screen and did not work for about ten years. During that time he lived in \"bone-grinding poverty\" in Manhattan's Hell's Kitchen. In one nine-month period of 1987, Chris accepted 102 dinner invitations. \"I don't know why they kept arriving, nor why I counted them, though I do know why I accepted them.\"\n\nIn 1990, a break came when he got a part in Days of Thunder, which starred Tom Cruise, Nicole Kidman, Cary Elwes, Robert Duvall, and Randy Quaid. John C. Reilly and Fred Dalton Thompson also appear. This seemed to jump-start Ellis' career as parts in films like My Cousin Vinny with Joe Pesci and Marisa Tomei, a small part in Addams Family Values, and a larger one in Apollo 13 as former NASA Mercury Seven astronaut Deke Slayton, alongside Tom Hanks, followed. He also began picking up credits on well-known television shows like Melrose Place, NYPD Blue, and The X-Files.\n\nSince working with Hanks on Apollo 13, the two have worked together on That Thing You Do, the TV miniseries From the Earth to the Moon, and Catch Me If You Can. Ellis returned to a fictional NASA Mission Control when he played a Flight Director in 1998's Armageddon.\n\nAdditional films in which Ellis has appeared include Home Fries, October Sky, Live Free or Die Hard, and Transformers. His television credits also include The West Wing, Ghost Whisperer, Chicago Hope, The Pretender, Alias, JAG, CSI: NY, Burn Notice, and Cold Case. He appeared in three season one episodes of Millennium as group member Jim Panseayres. He has established a reputation as being particularly talented at portraying Southern lawmakers or serious military or police-type characters.\n\nHe also appeared in Criminal Minds as Sheriff Jimmy Rhodes who calls for the BAU's help in investigating a string of murders in New Mexico. In addition to that, he also had two guest appearances in NCIS as Gunnery Sergeant John Deluca. Ellis's appearance in the Season 1 episode, \"The Curse\" was uncredited while his second and final appearance in Season 2's \"The Bone Yard\" was credited.\n\nDescription above from the Wikipedia article Chris Ellis (actor), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1956-04-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8191,
+        "imdb_id": "nm0254760",
+        "known_for_department": "Acting",
+        "name": "Chris Ellis",
+        "place_of_birth": "Dallas, Texas, USA",
+        "popularity": 0.3969,
+        "profile_path": "/zSoBhmD7KtHi9YrBVrHK9QSl8DU.jpg"
+    }
+}

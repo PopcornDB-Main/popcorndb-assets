@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ieux01445tYkzGdAukUFiYZiDNn.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 41411,
+                "original_language": "fr",
+                "original_title": "La Rafle",
+                "overview": "A faithful retelling of the 1942 \"Vel' d'Hiv Roundup\" and the events surrounding it.",
+                "popularity": 3.1295,
+                "poster_path": "/9osPoGTddZZfMUzFDs82n57y2wQ.jpg",
+                "release_date": "2010-03-10",
+                "title": "The Round Up",
+                "video": false,
+                "vote_average": 7.546,
+                "vote_count": 1025,
+                "character": "L'Instituteur M. Joyeux",
+                "credit_id": "52fe45c7c3a36847f80da0f1",
+                "order": 60
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 77338,
+                "original_language": "fr",
+                "original_title": "Intouchables",
+                "overview": "A true story of two men who should never have met \u2013 a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
+                "popularity": 11.8848,
+                "poster_path": "/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg",
+                "release_date": "2011-11-02",
+                "title": "The Intouchables",
+                "video": false,
+                "vote_average": 8.271,
+                "vote_count": 17845,
+                "character": "Candidat",
+                "credit_id": "57585355c3a3687b10000736",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Fran\u00e7ois Burloup"
+        ],
+        "biography": "",
+        "birthday": "1969-07-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.francois.bureloup.com/",
+        "id": 544669,
+        "imdb_id": "nm2910150",
+        "known_for_department": "Acting",
+        "name": "Fran\u00e7ois Bureloup",
+        "place_of_birth": "Soyaux, Charente, France",
+        "popularity": 0.0832,
+        "profile_path": "/d9I0Qspe7U7V0VO1yMntaRvSG39.jpg"
+    }
+}

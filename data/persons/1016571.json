@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749
+                ],
+                "id": 770,
+                "original_language": "en",
+                "original_title": "Gone with the Wind",
+                "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+                "popularity": 7.332,
+                "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+                "release_date": "1939-12-15",
+                "title": "Gone with the Wind",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 4191,
+                "character": "Rafe Calvert (uncredited)",
+                "credit_id": "555a4c9392514125760006a8",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 6844,
+                "original_language": "en",
+                "original_title": "The Ten Commandments",
+                "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+                "popularity": 10.0884,
+                "poster_path": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+                "release_date": "1956-10-05",
+                "title": "The Ten Commandments",
+                "video": false,
+                "vote_average": 7.769,
+                "vote_count": 1743,
+                "character": "High Ranking Officer / Taskmaster / Slave / Officer",
+                "credit_id": "59feefd99251414705038407",
+                "order": 42
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1908-10-06",
+        "deathday": "1962-02-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 1016571,
+        "imdb_id": "nm0017458",
+        "known_for_department": "Acting",
+        "name": "Eric Alden",
+        "place_of_birth": "Alameda County, California, USA",
+        "popularity": 1.8609,
+        "profile_path": "/kEpWB8pReDI28FfFVzcomoyCoQc.jpg"
+    }
+}

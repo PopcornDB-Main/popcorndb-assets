@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p2U4wScUValTXnvikXy7kfQNDsH.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 891,
+                "original_language": "en",
+                "original_title": "All the President's Men",
+                "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+                "popularity": 9.3472,
+                "poster_path": "/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+                "release_date": "1976-04-09",
+                "title": "All the President's Men",
+                "video": false,
+                "vote_average": 7.656,
+                "vote_count": 1928,
+                "character": "White House Aide",
+                "credit_id": "63a0522c8ddc34149eeec9a0",
+                "order": 59
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 5825,
+                "original_language": "en",
+                "original_title": "National Lampoon's Christmas Vacation",
+                "overview": "It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon.",
+                "popularity": 4.1369,
+                "poster_path": "/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+                "release_date": "1989-11-30",
+                "title": "National Lampoon's Christmas Vacation",
+                "video": false,
+                "vote_average": 7.232,
+                "vote_count": 2527,
+                "character": "Parade Announcer (voice)",
+                "credit_id": "5db1cb02cb30840013adb973",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1938-11-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 178650,
+        "imdb_id": "nm0515770",
+        "known_for_department": "Acting",
+        "name": "Doug Llewelyn",
+        "place_of_birth": "Baltimore, Maryland, USA",
+        "popularity": 0.0416,
+        "profile_path": null
+    }
+}

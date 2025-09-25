@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 615,
+                "original_language": "en",
+                "original_title": "The Passion of the Christ",
+                "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+                "popularity": 8.8822,
+                "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+                "release_date": "2004-02-25",
+                "title": "The Passion of the Christ",
+                "video": false,
+                "vote_average": 7.518,
+                "vote_count": 4914,
+                "character": "Pedro",
+                "credit_id": "52fe425ec3a36847f8018d8d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bu0LiPEWKHWViRoaFwlTAzZ8wyS.jpg",
+                "genre_ids": [
+                    35,
+                    28,
+                    12
+                ],
+                "id": 203801,
+                "original_language": "en",
+                "original_title": "The Man from U.N.C.L.E.",
+                "overview": "At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo's only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.",
+                "popularity": 6.0136,
+                "poster_path": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+                "release_date": "2015-08-13",
+                "title": "The Man from U.N.C.L.E.",
+                "video": false,
+                "vote_average": 7.084,
+                "vote_count": 6558,
+                "character": "Night Manager",
+                "credit_id": "5633f46dc3a3681b54016451",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud504\ub780\uc2dc\uc2a4\ucf54 \ub4dc \ube44\ud1a0"
+        ],
+        "biography": "",
+        "birthday": "1970-08-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8770,
+        "imdb_id": "nm1357161",
+        "known_for_department": "Acting",
+        "name": "Francesco De Vito",
+        "place_of_birth": "Taranto, Italy",
+        "popularity": 1.3898,
+        "profile_path": "/s8uOepBCIS6dpZ0OnLjnjXjE6z2.jpg"
+    }
+}

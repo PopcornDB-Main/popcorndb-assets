@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1628,
+                "original_language": "fr",
+                "original_title": "Jules et Jim",
+                "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+                "popularity": 2.8495,
+                "poster_path": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+                "release_date": "1962-01-23",
+                "title": "Jules and Jim",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 1013,
+                "character": "Jim",
+                "credit_id": "52fe4306c3a36847f8034a9b",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Patrick Lachaume",
+            "Henri Jean Ren\u00e9 Serre"
+        ],
+        "biography": "",
+        "birthday": "1931-02-26",
+        "deathday": "2023-10-09",
+        "gender": 2,
+        "homepage": null,
+        "id": 18217,
+        "imdb_id": "nm0785676",
+        "known_for_department": "Acting",
+        "name": "Henri Serre",
+        "place_of_birth": "S\u00e8te, H\u00e9rault, France",
+        "popularity": 0.1984,
+        "profile_path": "/aFb8ElkFIV1AtVdHybJF8Z6M9WN.jpg"
+    }
+}

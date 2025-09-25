@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zVJWPKbyv8ZPIbO6qcjE19dTgyn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 25364,
+                "original_language": "en",
+                "original_title": "Ace in the Hole",
+                "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
+                "popularity": 1.7291,
+                "poster_path": "/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+                "release_date": "1951-06-29",
+                "title": "Ace in the Hole",
+                "video": false,
+                "vote_average": 7.866,
+                "vote_count": 703,
+                "character": "Smollett",
+                "credit_id": "52fe44c3c3a368484e0359c9",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8482,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 1118,
+                "character": "Senator Byron (uncredited)",
+                "credit_id": "555f266f9251415fff002244",
+                "order": 110
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Frank Garnier Jaquet",
+            "Frank Jacquet",
+            "Frank Joquet",
+            "Fred Jaquet"
+        ],
+        "biography": "",
+        "birthday": "1885-03-15",
+        "deathday": "1958-05-11",
+        "gender": 2,
+        "homepage": null,
+        "id": 83993,
+        "imdb_id": "nm0418490",
+        "known_for_department": "Acting",
+        "name": "Frank Jaquet",
+        "place_of_birth": "Milwaukee, Wisconsin, USA",
+        "popularity": 0.1091,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    28
+                ],
+                "id": 402900,
+                "original_language": "en",
+                "original_title": "Ocean's Eight",
+                "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+                "popularity": 9.568,
+                "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+                "release_date": "2018-06-07",
+                "title": "Ocean's Eight",
+                "video": false,
+                "vote_average": 6.968,
+                "vote_count": 8525,
+                "character": "Kim Kardashian West",
+                "credit_id": "5a08b9189251417834005931",
+                "order": 96
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 675445,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Movie",
+                "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+                "popularity": 6.4701,
+                "poster_path": "/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg",
+                "release_date": "2021-08-09",
+                "title": "PAW Patrol: The Movie",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 1241,
+                "character": "Delores (voice)",
+                "credit_id": "6044029150733c0045e6bb0b",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 893723,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Mighty Movie",
+                "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+                "popularity": 9.0376,
+                "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+                "release_date": "2023-09-21",
+                "title": "PAW Patrol: The Mighty Movie",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 510,
+                "character": "Delores (voice)",
+                "credit_id": "683a1e536559b7da4d969243",
+                "order": 6
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kim Kardashian West",
+            "\u91d1\u4f2f\u8389\u00b7\u8bfa\u57c3\u5c14\u00b7\u5361\u6234\u73ca",
+            "\u4e30\u81c0\u91d1",
+            "\u91d1\u4f2f\u8389\u00b7\u8afe\u57c3\u723e\u00b7\u5361\u6234\u73ca"
+        ],
+        "biography": "Kimberly Noel Kardashian (born October 21, 1980) is an American woman. She first gained media attention as a friend and stylist of Paris Hilton, but received wider notice after her family\u2019s reality show Keeping Up with the Kardashians began airing on E! in 2007.",
+        "birthday": "1980-10-21",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 212225,
+        "imdb_id": "nm2578007",
+        "known_for_department": "Acting",
+        "name": "Kim Kardashian",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 2.5336,
+        "profile_path": "/3TLSq0aHXyxtqaXe9p7yB5Daqsa.jpg"
+    }
+}

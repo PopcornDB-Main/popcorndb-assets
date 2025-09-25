@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 192,
+                "original_language": "en",
+                "original_title": "The Name of the Rose",
+                "overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
+                "popularity": 4.5432,
+                "poster_path": "/2BuVu0j6v2kNY2gGxtO3sDGyob2.jpg",
+                "release_date": "1986-09-24",
+                "title": "The Name of the Rose",
+                "video": false,
+                "vote_average": 7.494,
+                "vote_count": 3164,
+                "character": "Monk",
+                "credit_id": "59a43ef4c3a368483005a7a6",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 615,
+                "original_language": "en",
+                "original_title": "The Passion of the Christ",
+                "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+                "popularity": 8.8822,
+                "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+                "release_date": "2004-02-25",
+                "title": "The Passion of the Christ",
+                "video": false,
+                "vote_average": 7.518,
+                "vote_count": 4914,
+                "character": "Herod's Courtier",
+                "credit_id": "5acad0ddc3a3687dee007632",
+                "order": 66
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1942-01-19",
+        "deathday": "2014-04-03",
+        "gender": 2,
+        "homepage": null,
+        "id": 1862037,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Valerio Isidori",
+        "place_of_birth": null,
+        "popularity": 0.3798,
+        "profile_path": "/5tH9tinbTGCVHrhIi9I38PLed3.jpg"
+    }
+}

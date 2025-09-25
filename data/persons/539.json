@@ -1,0 +1,162 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+                "genre_ids": [
+                    9648,
+                    53
+                ],
+                "id": 77,
+                "original_language": "en",
+                "original_title": "Memento",
+                "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+                "popularity": 9.5002,
+                "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+                "release_date": "2000-10-11",
+                "title": "Memento",
+                "video": false,
+                "vote_average": 8.178,
+                "vote_count": 15537,
+                "character": "Doctor",
+                "credit_id": "52fe4214c3a36847f80024fb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9s58ybtK5rj4QGmAtzOMzVeiY5P.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 297270,
+                "original_language": "en",
+                "original_title": "Tinker Bell and the Legend of the NeverBeast",
+                "overview": "An ancient myth of a massive creature sparks the curiosity of Tinker Bell and her good friend Fawn, an animal fairy who\u2019s not afraid to break the rules to help an animal in need. But this creature is not welcome in Pixie Hollow \u2014 and the scout fairies are determined to capture the mysterious beast, who they fear will destroy their home. Fawn must convince her fairy friends to risk everything to rescue the NeverBeast.",
+                "popularity": 6.4832,
+                "poster_path": "/3S0mmmpYStB3GqodRghcfOt81wQ.jpg",
+                "release_date": "2014-12-12",
+                "title": "Tinker Bell and the Legend of the NeverBeast",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1139,
+                "character": "Scribble (voice)",
+                "credit_id": "561fa88ec3a3680e1d003998",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 18.3339,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23537,
+                "character": "Doctor",
+                "credit_id": "5621991192514171d000960d",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2AeE4Op9qjDSXe8GbfCtlbHFxhL.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 75258,
+                "original_language": "en",
+                "original_title": "Secret of the Wings",
+                "overview": "Tinkerbell wanders into the forbidden Winter woods and meets Periwinkle. Together they learn the secret of their wings and try to unite the warm fairies and the winter fairies to help Pixie Hollow.",
+                "popularity": 7.1253,
+                "poster_path": "/5q72GagtB9NM4i3z7M40EXLb3ut.jpg",
+                "release_date": "2012-08-17",
+                "title": "Secret of the Wings",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1316,
+                "character": "Reading Fairy (voice)",
+                "credit_id": "577bc5e2c3a3684c4100008f",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kzXUQnrUnHUGHuwWbgf9KpoU3qr.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 544401,
+                "original_language": "en",
+                "original_title": "Cherry",
+                "overview": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+                "popularity": 2.6428,
+                "poster_path": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+                "release_date": "2021-02-26",
+                "title": "Cherry",
+                "video": false,
+                "vote_average": 7.335,
+                "vote_count": 1322,
+                "character": "Cherry's Dad / Dr. Whomever",
+                "credit_id": "5e0176e5d236e60016926fe3",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qPlAgjG4xy7utjf5L14FZ8kaiWl.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 691179,
+                "original_language": "en",
+                "original_title": "Friends: The Reunion",
+                "overview": "The cast of Friends reunites for a once-in-a-lifetime celebration of the hit series, an unforgettable evening filled with iconic memories, uncontrollable laughter, happy tears, and special guests.",
+                "popularity": 3.0244,
+                "poster_path": "/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+                "release_date": "2021-05-27",
+                "title": "Friends: The Reunion",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1262,
+                "character": "Self",
+                "credit_id": "609d675ec1ffbd002936169c",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Tom Lennon",
+            "\u0422\u043e\u043c\u0430\u0441 \u041b\u0435\u043d\u043d\u043e\u043d"
+        ],
+        "biography": "Thomas Patrick Lennon (born August 9, 1970) is an American actor, comedian, writer, director and producer best known as a cast member on MTV's The State and for his role as Lieutenant Jim Dangle on the Comedy Central series Reno 911!. Andrei Novak on Santa Clarita Diet and Felix Unger on The Odd Couple. He is the screenwriter of several comedies released by major film studios with writing partner Robert Ben Garant. They wrote the Night at the Museum films, The Pacifier, Balls of Fury, and Baywatch\n\nLennon was born on August 9, 1970 in Oak Park, Illinois. Of Irish and Scottish descent, he is the son of Kathleen (n\u00e9e McSheehy) and Timothy Lennon.  He graduated from Oak Park and River Forest High School in 1988.\n\nAt 16, he met friend and future co-star Kerri Kenney at theater camp at Northwestern University. The two later attended NYU, where they joined a comedy troupe called The New Group.",
+        "birthday": "1970-08-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://improv.com/comic/thomas+lennon/",
+        "id": 539,
+        "imdb_id": "nm0502073",
+        "known_for_department": "Acting",
+        "name": "Thomas Lennon",
+        "place_of_birth": "Oak Park, Illinois, USA",
+        "popularity": 0.4876,
+        "profile_path": "/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg"
+    }
+}

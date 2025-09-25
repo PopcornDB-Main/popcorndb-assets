@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 4982,
+                "original_language": "en",
+                "original_title": "American Gangster",
+                "overview": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts.",
+                "popularity": 7.5255,
+                "poster_path": "/8sV6nWuKczuXRt0C6EWoXqJAj6G.jpg",
+                "release_date": "2007-11-02",
+                "title": "American Gangster",
+                "video": false,
+                "vote_average": 7.591,
+                "vote_count": 5725,
+                "character": "Mounted Policeman",
+                "credit_id": "6184489075f1ad00438296bc",
+                "order": 103
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/80A15cocDNupdJw5f5i9TogpBum.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 4816,
+                "original_language": "en",
+                "original_title": "Ghost Dog: The Way of the Samurai",
+                "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob.",
+                "popularity": 4.1956,
+                "poster_path": "/gkH4zOxIfbb4BEbk9Q4cVOEpDaY.jpg",
+                "release_date": "1999-10-06",
+                "title": "Ghost Dog: The Way of the Samurai",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 1301,
+                "credit_id": "65db6f354c1d9a017d703e55",
+                "department": "Crew",
+                "job": "Animal Wrangler"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 75656,
+                "original_language": "en",
+                "original_title": "Now You See Me",
+                "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+                "popularity": 10.9459,
+                "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+                "release_date": "2013-05-29",
+                "title": "Now You See Me",
+                "video": false,
+                "vote_average": 7.333,
+                "vote_count": 16013,
+                "credit_id": "64c116c0ede1b000af4c3ac3",
+                "department": "Crew",
+                "job": "Acting Double"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1761871,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Steve McAuliff",
+        "place_of_birth": null,
+        "popularity": 0.0478,
+        "profile_path": null
+    }
+}

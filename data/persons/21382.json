@@ -1,0 +1,156 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9475,
+                "original_language": "en",
+                "original_title": "Scent of a Woman",
+                "overview": "Charlie Simms is a student at a private preparatory school who comes from a poor family. To earn the money for his flight home to Gresham, Oregon for Christmas, Charlie takes a job over Thanksgiving looking after retired U.S. Army officer Lieutenant Colonel Frank Slade, a cantankerous middle-aged man who lives with his niece and her family.",
+                "popularity": 7.0364,
+                "poster_path": "/4adI7IaveWb7EidYXfLb3MK3CgO.jpg",
+                "release_date": "1992-12-23",
+                "title": "Scent of a Woman",
+                "video": false,
+                "vote_average": 7.782,
+                "vote_count": 3669,
+                "character": "Manny",
+                "credit_id": "55cf7193c3a3685875002328",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/38yjZWYBI0xxNqoBKiGyA4UZjk.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 6075,
+                "original_language": "en",
+                "original_title": "Carlito's Way",
+                "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+                "popularity": 6.055,
+                "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+                "release_date": "1993-11-10",
+                "title": "Carlito's Way",
+                "video": false,
+                "vote_average": 7.83,
+                "vote_count": 3307,
+                "character": "Train Conductor",
+                "credit_id": "55df456ec3a368347d0001ae",
+                "order": 57
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 13626,
+                "character": "Prison Guard in Booth",
+                "credit_id": "5604917ac3a3685c51000249",
+                "order": 124
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 11382,
+                "original_language": "en",
+                "original_title": "Bullets Over Broadway",
+                "overview": "After young playwright, David Shayne obtains funding for his play from gangster Nick Valenti, Nick's girlfriend Olive miraculously lands the role of a psychiatrist\u2014but not only is she a bimbo who could never pass for a psychiatrist\u2014she's a dreadful actress. David puts up with the leading man who is a compulsive eater, the grand dame who wants her part jazzed up, and Olive's interfering hitman/bodyguard\u2014but, eventually he must decide whether art or life is more important.",
+                "popularity": 3.4403,
+                "poster_path": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+                "release_date": "1994-10-14",
+                "title": "Bullets Over Broadway",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 639,
+                "character": "Waterfront Hood",
+                "credit_id": "5b798f8b0e0a264728030949",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o67MmFburfckl6iPa4DVkranLi3.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 297,
+                "original_language": "en",
+                "original_title": "Meet Joe Black",
+                "overview": "Bill Parrish has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black, who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe's earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill's beautiful daughter Susan?",
+                "popularity": 9.7605,
+                "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+                "release_date": "1998-11-12",
+                "title": "Meet Joe Black",
+                "video": false,
+                "vote_average": 7.348,
+                "vote_count": 5493,
+                "character": "Construction Foreman",
+                "credit_id": "5b70cc209251410341087f9b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9oE1dqocQou2tdmt0Rne7uv4jSi.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 12143,
+                "original_language": "en",
+                "original_title": "Bad Lieutenant",
+                "overview": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
+                "popularity": 4.4757,
+                "poster_path": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+                "release_date": "1992-11-20",
+                "title": "Bad Lieutenant",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 906,
+                "character": "Detective Gene",
+                "credit_id": "60e0600b9979d2002949ffa7",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Gene Canfield is known for Meet Joe Black (1998), Scent of a Woman (1992) and Murder by Numbers (2002).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 21382,
+        "imdb_id": "nm0133932",
+        "known_for_department": "Acting",
+        "name": "Gene Canfield",
+        "place_of_birth": null,
+        "popularity": 0.4369,
+        "profile_path": "/luiINXn3z8m8ABxaqdTSJd8q4vm.jpg"
+    }
+}

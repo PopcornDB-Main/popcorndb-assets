@@ -1,0 +1,340 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 218,
+                "original_language": "en",
+                "original_title": "The Terminator",
+                "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+                "popularity": 11.1748,
+                "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+                "release_date": "1984-10-26",
+                "title": "The Terminator",
+                "video": false,
+                "vote_average": 7.671,
+                "vote_count": 13841,
+                "character": "Punk Leader",
+                "credit_id": "52fe4228c3a36847f800853b",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.5919,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5604,
+                "character": "Fred Haise",
+                "credit_id": "52fe4253c3a36847f8015973",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 679,
+                "original_language": "en",
+                "original_title": "Aliens",
+                "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+                "popularity": 10.7593,
+                "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "release_date": "1986-07-18",
+                "title": "Aliens",
+                "video": false,
+                "vote_average": 7.952,
+                "vote_count": 10314,
+                "character": "Private Hudson",
+                "credit_id": "52fe4269c3a36847f801c9d3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 10223,
+                "original_language": "en",
+                "original_title": "A Simple Plan",
+                "overview": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
+                "popularity": 2.1694,
+                "poster_path": "/iJYGDwZmVEYRkSPbWQdxzvBLTcK.jpg",
+                "release_date": "1998-12-11",
+                "title": "A Simple Plan",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 994,
+                "character": "Hank Mitchell",
+                "credit_id": "52fe43459251416c7500a047",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+                "genre_ids": [
+                    37,
+                    28
+                ],
+                "id": 11969,
+                "original_language": "en",
+                "original_title": "Tombstone",
+                "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+                "popularity": 6.9673,
+                "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+                "release_date": "1993-12-25",
+                "title": "Tombstone",
+                "video": false,
+                "vote_average": 7.589,
+                "vote_count": 2284,
+                "character": "Morgan Earp",
+                "credit_id": "52fe44ac9251416c7503cfbd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fLqhMfRyMySsqORn0xq7iFWRdcM.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 11879,
+                "original_language": "en",
+                "original_title": "Near Dark",
+                "overview": "A farm boy reluctantly becomes a member of the undead when a girl he meets turns out to be part of a band of vampires who roam the highways in stolen cars.",
+                "popularity": 4.7521,
+                "poster_path": "/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg",
+                "release_date": "1987-10-02",
+                "title": "Near Dark",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 803,
+                "character": "Severen",
+                "credit_id": "52fe44999251416c7503a68d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2NI8J2dktpprOfXb65hsNQ5TNt6.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 12149,
+                "original_language": "en",
+                "original_title": "Frailty",
+                "overview": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+                "popularity": 3.8653,
+                "poster_path": "/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+                "release_date": "2002-04-12",
+                "title": "Frailty",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1227,
+                "character": "Dad Meiks",
+                "credit_id": "52fe44bf9251416c7503f853",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5e8V714wUtpPgMD9xD8NjTEqlyu.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 14746,
+                "original_language": "en",
+                "original_title": "Streets of Fire",
+                "overview": "Raven Shaddock and his gang of merciless biker friends kidnap rock singer Ellen Aim. Ellen's former lover, soldier-for-hire Tom Cody, happens to be passing through town on a visit. In an attempt to save his star act, Ellen's manager hires Tom to rescue her. Along with a former soldier, they battle through dangerous cityscapes, determined to get Ellen back.",
+                "popularity": 3.7895,
+                "poster_path": "/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+                "release_date": "1984-06-01",
+                "title": "Streets of Fire",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 520,
+                "character": "Clyde the Bartender",
+                "credit_id": "52fe46159251416c7506c855",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 36955,
+                "original_language": "en",
+                "original_title": "True Lies",
+                "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+                "popularity": 7.4541,
+                "poster_path": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+                "release_date": "1994-07-15",
+                "title": "True Lies",
+                "video": false,
+                "vote_average": 7.086,
+                "vote_count": 4319,
+                "character": "Simon",
+                "credit_id": "52fe461d9251416c91049913",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 137113,
+                "original_language": "en",
+                "original_title": "Edge of Tomorrow",
+                "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+                "popularity": 11.3812,
+                "poster_path": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+                "release_date": "2014-05-27",
+                "title": "Edge of Tomorrow",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 14420,
+                "character": "Master Sergeant Farell",
+                "credit_id": "52fe4c27c3a368484e1aa20d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yFPaqqXMGsdOKit3fsAJ9tqPJRP.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242582,
+                "original_language": "en",
+                "original_title": "Nightcrawler",
+                "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+                "popularity": 8.7404,
+                "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+                "release_date": "2014-10-23",
+                "title": "Nightcrawler",
+                "video": false,
+                "vote_average": 7.705,
+                "vote_count": 11228,
+                "character": "Joe Loder",
+                "credit_id": "52fe4ed0c3a36847f82a9b2d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tupgjqhWx5oieQrdyesO3aclUX9.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 597,
+                "original_language": "en",
+                "original_title": "Titanic",
+                "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+                "popularity": 23.0816,
+                "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+                "release_date": "1997-11-18",
+                "title": "Titanic",
+                "video": false,
+                "vote_average": 7.906,
+                "vote_count": 26321,
+                "character": "Brock Lovett",
+                "credit_id": "675afe61d9d5195fadaa312b",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2NI8J2dktpprOfXb65hsNQ5TNt6.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 12149,
+                "original_language": "en",
+                "original_title": "Frailty",
+                "overview": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+                "popularity": 3.8653,
+                "poster_path": "/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+                "release_date": "2002-04-12",
+                "title": "Frailty",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1227,
+                "credit_id": "52fe44bf9251416c7503f831",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nCzfXkipK6LCg9JAPkrYw2QA0GO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 15487,
+                "original_language": "en",
+                "original_title": "The Greatest Game Ever Played",
+                "overview": "A biopic of 20-year-old Francis Ouimet who defeated his golfing idol and 1900 US Open Champion, Harry Vardon.",
+                "popularity": 3.3771,
+                "poster_path": "/kh4vd6wKa6j9xVFzxhQrsT0p2YN.jpg",
+                "release_date": "2005-09-30",
+                "title": "The Greatest Game Ever Played",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 509,
+                "credit_id": "52fe465f9251416c75076401",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "William Paxton ",
+            "William \"Bill\" Paxton",
+            "\u0411\u0456\u043b\u043b \u041f\u0435\u043a\u0441\u0442\u043e\u043d",
+            "\u0628\u06cc\u0644 \u067e\u06a9\u0633\u062a\u0648\u0646"
+        ],
+        "biography": "Bill Paxton (May 17, 1955 \u2013 February 25, 2017) was an American actor. He appeared in films including Aliens and Titanic and starred as practising polygamist Bill Henrickson in the HBO series Big Love. On February 25, 2017 he died from complications following heart surgery.",
+        "birthday": "1955-05-17",
+        "deathday": "2017-02-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 2053,
+        "imdb_id": "nm0000200",
+        "known_for_department": "Acting",
+        "name": "Bill Paxton",
+        "place_of_birth": "Fort Worth, Texas, USA",
+        "popularity": 1.2178,
+        "profile_path": "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    }
+}

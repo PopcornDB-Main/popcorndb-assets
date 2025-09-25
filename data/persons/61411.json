@@ -1,0 +1,220 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 748783,
+                "original_language": "en",
+                "original_title": "The Garfield Movie",
+                "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+                "popularity": 14.772,
+                "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
+                "release_date": "2024-04-30",
+                "title": "The Garfield Movie",
+                "video": false,
+                "vote_average": 7.037,
+                "vote_count": 1325,
+                "character": "Sleep App Voice (voice)",
+                "credit_id": "66500a16ed26e32ff73507fd",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 11688,
+                "original_language": "en",
+                "original_title": "The Emperor's New Groove",
+                "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
+                "popularity": 12.6109,
+                "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
+                "release_date": "2000-12-15",
+                "title": "The Emperor's New Groove",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 7013,
+                "character": "Kitty Yzma (voice) (uncredited)",
+                "credit_id": "5f502aabc5840d0036780ad2",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 11688,
+                "original_language": "en",
+                "original_title": "The Emperor's New Groove",
+                "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
+                "popularity": 12.6109,
+                "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
+                "release_date": "2000-12-15",
+                "title": "The Emperor's New Groove",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 7013,
+                "credit_id": "52fe44799251416c7503608d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ze42e0l0bPYEcJXInUukvNfZKk.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 10144,
+                "original_language": "en",
+                "original_title": "The Little Mermaid",
+                "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+                "popularity": 11.7272,
+                "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+                "release_date": "1989-11-17",
+                "title": "The Little Mermaid",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 8149,
+                "credit_id": "572a4df0c3a36827a4000536",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 11688,
+                "original_language": "en",
+                "original_title": "The Emperor's New Groove",
+                "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
+                "popularity": 12.6109,
+                "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
+                "release_date": "2000-12-15",
+                "title": "The Emperor's New Groove",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 7013,
+                "credit_id": "591343b59251414e89059adb",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 748783,
+                "original_language": "en",
+                "original_title": "The Garfield Movie",
+                "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+                "popularity": 14.772,
+                "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
+                "release_date": "2024-04-30",
+                "title": "The Garfield Movie",
+                "video": false,
+                "vote_average": 7.037,
+                "vote_count": 1325,
+                "credit_id": "6650297357f21fa765cb159f",
+                "department": "Visual Effects",
+                "job": "Character Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 748783,
+                "original_language": "en",
+                "original_title": "The Garfield Movie",
+                "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+                "popularity": 14.772,
+                "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
+                "release_date": "2024-04-30",
+                "title": "The Garfield Movie",
+                "video": false,
+                "vote_average": 7.037,
+                "vote_count": 1325,
+                "credit_id": "6650264dfd717346b4dd80ed",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 748783,
+                "original_language": "en",
+                "original_title": "The Garfield Movie",
+                "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+                "popularity": 14.772,
+                "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
+                "release_date": "2024-04-30",
+                "title": "The Garfield Movie",
+                "video": false,
+                "vote_average": 7.037,
+                "vote_count": 1325,
+                "credit_id": "5f75bf1a29c626003975bab6",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mark L. Dindal"
+        ],
+        "biography": "Mark Dindal (born in Columbus, Ohio) is an American effects animator and director, who created The Emperor's New Groove as well as Cats Don't Dance. He worked in many Disney classic projects as an effects animator, and also led the special effects for several classic movies such as The Little Mermaid and The Rescuers Down Under.",
+        "birthday": "1960-05-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 61411,
+        "imdb_id": "nm0227540",
+        "known_for_department": "Writing",
+        "name": "Mark Dindal",
+        "place_of_birth": "Columbus, Ohio, USA",
+        "popularity": 0.5473,
+        "profile_path": "/333OWiQBGLBjAWUemWySFzxCbhx.jpg"
+    }
+}

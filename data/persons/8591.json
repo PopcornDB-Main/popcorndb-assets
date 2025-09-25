@@ -1,0 +1,322 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 85,
+                "original_language": "en",
+                "original_title": "Raiders of the Lost Ark",
+                "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+                "popularity": 11.5403,
+                "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "release_date": "1981-06-12",
+                "title": "Raiders of the Lost Ark",
+                "video": false,
+                "vote_average": 7.925,
+                "vote_count": 13066,
+                "character": "Peruvian Porter",
+                "credit_id": "5498a8f492514150390003e0",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 89,
+                "original_language": "en",
+                "original_title": "Indiana Jones and the Last Crusade",
+                "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+                "popularity": 7.0651,
+                "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+                "release_date": "1989-05-24",
+                "title": "Indiana Jones and the Last Crusade",
+                "video": false,
+                "vote_average": 7.847,
+                "vote_count": 10606,
+                "character": "Deputy Sheriff",
+                "credit_id": "549943629251411f400009e2",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 15.4912,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.677,
+                "vote_count": 11006,
+                "character": "Estuary Victim",
+                "credit_id": "55de5a40925141472d00038c",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 70,
+                "original_language": "en",
+                "original_title": "Million Dollar Baby",
+                "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
+                "popularity": 9.2322,
+                "poster_path": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+                "release_date": "2004-12-05",
+                "title": "Million Dollar Baby",
+                "video": false,
+                "vote_average": 7.955,
+                "vote_count": 9964,
+                "character": "Ring Doctor #2",
+                "credit_id": "57d74915c3a3682b54000575",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 9340,
+                "original_language": "en",
+                "original_title": "The Goonies",
+                "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition.",
+                "popularity": 7.9284,
+                "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+                "release_date": "1985-06-07",
+                "title": "The Goonies",
+                "video": false,
+                "vote_average": 7.514,
+                "vote_count": 5945,
+                "character": "FBI Man",
+                "credit_id": "594941bf9251411239001043",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 601,
+                "original_language": "en",
+                "original_title": "E.T. the Extra-Terrestrial",
+                "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+                "popularity": 10.0949,
+                "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+                "release_date": "1982-06-11",
+                "title": "E.T. the Extra-Terrestrial",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 11553,
+                "character": "Government Agent (uncredited)",
+                "credit_id": "5da8c3c76e44bf00170489f8",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 15.4912,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.677,
+                "vote_count": 11006,
+                "credit_id": "52fe4255c3a36847f801606d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 601,
+                "original_language": "en",
+                "original_title": "E.T. the Extra-Terrestrial",
+                "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+                "popularity": 10.0949,
+                "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+                "release_date": "1982-06-11",
+                "title": "E.T. the Extra-Terrestrial",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 11553,
+                "credit_id": "60df98389979d2007f4ae3b2",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 15.4912,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.677,
+                "vote_count": 11006,
+                "credit_id": "6517478cd4653709de5cad9f",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 240,
+                "original_language": "en",
+                "original_title": "The Godfather Part II",
+                "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+                "popularity": 16.3541,
+                "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+                "release_date": "1974-12-20",
+                "title": "The Godfather Part II",
+                "video": false,
+                "vote_average": 8.6,
+                "vote_count": 13187,
+                "credit_id": "652b233a024ec800aecb6728",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.5191,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "credit_id": "657dbf039dee58058a293466",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/le14c0VjhbBv475RAEQ13Wt2loo.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 10648,
+                "original_language": "en",
+                "original_title": "Magnum Force",
+                "overview": "\"Dirty\" Harry Callahan is a San Francisco Police Inspector on the trail of a group of rogue cops who have taken justice into their own hands. When shady characters are murdered one after another in grisly fashion, only Dirty Harry can stop them.",
+                "popularity": 3.1319,
+                "poster_path": "/1uX1uzn09seCftG3rTGLPyFXxV6.jpg",
+                "release_date": "1973-12-13",
+                "title": "Magnum Force",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1119,
+                "credit_id": "6438ddc9ab684900775e1242",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 87,
+                "original_language": "en",
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+                "popularity": 7.0403,
+                "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+                "release_date": "1984-05-23",
+                "title": "Indiana Jones and the Temple of Doom",
+                "video": false,
+                "vote_average": 7.303,
+                "vote_count": 9699,
+                "credit_id": "5c8d38b60e0a2612fc53b6b5",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Teddy Grossman",
+            "Ted M. Grossman"
+        ],
+        "biography": "Ted Grossman is a stuntman and actor who played the Peruvian Porter in Raiders of the Lost Ark and the Deputy Sheriff in Indiana Jones and the Last Crusade. He also provided stunts for The Temple of Doom and Kingdom of the Crystal Skull. He also played a Porter in footage fpr the Indiana Jones Adventure: Temple of the Forbidden Eye ride at Disney World.",
+        "birthday": "1931-04-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8591,
+        "imdb_id": "nm0343722",
+        "known_for_department": "Acting",
+        "name": "Ted Grossman",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 1.5367,
+        "profile_path": "/2L7S57LmXg1EFwVOkI06JS5oAhM.jpg"
+    }
+}

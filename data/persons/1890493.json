@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297762,
+                "original_language": "en",
+                "original_title": "Wonder Woman",
+                "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+                "popularity": 15.9217,
+                "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+                "release_date": "2017-05-30",
+                "title": "Wonder Woman",
+                "video": false,
+                "vote_average": 7.214,
+                "vote_count": 20445,
+                "character": "Mother",
+                "credit_id": "59bfdb49c3a3682fb8018505",
+                "order": 64
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.6828,
+                "poster_path": "/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2406,
+                "character": "Dancer",
+                "credit_id": "677588c85b8f422b6012ccf4",
+                "order": 61
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1890493,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Amber Doyle",
+        "place_of_birth": null,
+        "popularity": 0.1423,
+        "profile_path": "/NKO2Q0il3Hj5IFb2jK3LdTAWuU.jpg"
+    }
+}

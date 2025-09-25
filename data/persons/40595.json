@@ -1,0 +1,75 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c8P7vv4m4sFi5ul6Zppu9irnUVF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35
+                ],
+                "id": 11006,
+                "original_language": "en",
+                "original_title": "Smokey and the Bandit",
+                "overview": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+                "popularity": 3.6459,
+                "poster_path": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+                "release_date": "1977-05-27",
+                "title": "Smokey and the Bandit",
+                "video": false,
+                "vote_average": 6.983,
+                "vote_count": 757,
+                "character": "Junior Justice",
+                "credit_id": "52fe43e19251416c75021b51",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.0115,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.938,
+                "vote_count": 1340,
+                "character": "Kulozik",
+                "credit_id": "52fe44b49251416c7503e2a5",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michael D. Henry",
+            "Michael Dennis \"Mike\" Henry",
+            "Michael Dennis Henry",
+            "Michael Henry"
+        ],
+        "biography": "Michael Dennis Henry (August 15, 1936 \u2013 January 8, 2021) was a former American football linebacker and film and television actor, best known for playing the main role as Tarzan in the 1960s movies Tarzan and the Valley of Gold (1966), Tarzan and the Great River (1967), and Tarzan and the Jungle Boy (1968).",
+        "birthday": "1936-08-15",
+        "deathday": "2021-01-08",
+        "gender": 2,
+        "homepage": null,
+        "id": 40595,
+        "imdb_id": "nm0377947",
+        "known_for_department": "Acting",
+        "name": "Mike Henry",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.3333,
+        "profile_path": "/9QtyFNP5ep0SenvmOgUmr9l6Ram.jpg"
+    }
+}

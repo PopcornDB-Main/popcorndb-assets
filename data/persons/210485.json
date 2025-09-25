@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/34N9iKlR8FdXiu8r8pSpKcyFUVh.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 10360,
+                "original_language": "en",
+                "original_title": "Hunger",
+                "overview": "The story of Bobby Sands, the IRA member who led the 1981 hunger strike during The Troubles in which Irish Republican prisoners tried to win political status.",
+                "popularity": 3.3926,
+                "poster_path": "/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+                "release_date": "2008-05-15",
+                "title": "Hunger",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1152,
+                "character": "Gerry Campbell",
+                "credit_id": "59a17431925141779f029d29",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+                "genre_ids": [
+                    80,
+                    35
+                ],
+                "id": 107,
+                "original_language": "en",
+                "original_title": "Snatch",
+                "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+                "popularity": 8.3629,
+                "poster_path": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+                "release_date": "2000-09-01",
+                "title": "Snatch",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 9473,
+                "character": "Gypsy Man",
+                "credit_id": "59d81f53c3a36861a301a614",
+                "order": 45
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 210485,
+        "imdb_id": "nm0573054",
+        "known_for_department": "Acting",
+        "name": "Liam McMahon",
+        "place_of_birth": null,
+        "popularity": 0.2575,
+        "profile_path": "/dB0SCXoHUx3I2czPaxZyEcia9cH.jpg"
+    }
+}

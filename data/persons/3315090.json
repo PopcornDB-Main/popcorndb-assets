@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 342470,
+                "original_language": "en",
+                "original_title": "All the Bright Places",
+                "overview": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.",
+                "popularity": 3.2848,
+                "poster_path": "/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+                "release_date": "2020-02-28",
+                "title": "All the Bright Places",
+                "video": false,
+                "vote_average": 7.636,
+                "vote_count": 2937,
+                "character": "John Ivers",
+                "credit_id": "61967c19fc5f060027b84d39",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3315090,
+        "imdb_id": "nm12185503",
+        "known_for_department": "Acting",
+        "name": "John Ivers",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

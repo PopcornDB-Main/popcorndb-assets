@@ -1,0 +1,211 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 105,
+                "original_language": "en",
+                "original_title": "Back to the Future",
+                "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+                "popularity": 15.739,
+                "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+                "release_date": "1985-07-03",
+                "title": "Back to the Future",
+                "video": false,
+                "vote_average": 8.321,
+                "vote_count": 20870,
+                "character": "Mr. Strickland",
+                "credit_id": "52fe4218c3a36847f8003a3b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 165,
+                "original_language": "en",
+                "original_title": "Back to the Future Part II",
+                "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+                "popularity": 7.7522,
+                "poster_path": "/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+                "release_date": "1989-11-22",
+                "title": "Back to the Future Part II",
+                "video": false,
+                "vote_average": 7.773,
+                "vote_count": 13362,
+                "character": "Strickland",
+                "credit_id": "52fe4221c3a36847f800649b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 196,
+                "original_language": "en",
+                "original_title": "Back to the Future Part III",
+                "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+                "popularity": 6.4784,
+                "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+                "release_date": "1990-05-25",
+                "title": "Back to the Future Part III",
+                "video": false,
+                "vote_average": 7.488,
+                "vote_count": 11044,
+                "character": "Marshal Strickland",
+                "credit_id": "52fe4225c3a36847f8007915",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    18
+                ],
+                "id": 860,
+                "original_language": "en",
+                "original_title": "WarGames",
+                "overview": "High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.",
+                "popularity": 4.8652,
+                "poster_path": "/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg",
+                "release_date": "1983-06-03",
+                "title": "WarGames",
+                "video": false,
+                "vote_average": 7.073,
+                "vote_count": 2005,
+                "character": "Wigan",
+                "credit_id": "52fe4283c3a36847f8024d93",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 744,
+                "original_language": "en",
+                "original_title": "Top Gun",
+                "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+                "popularity": 12.7583,
+                "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+                "release_date": "1986-05-16",
+                "title": "Top Gun",
+                "video": false,
+                "vote_average": 7.063,
+                "vote_count": 9090,
+                "character": "Stinger",
+                "credit_id": "52fe426fc3a36847f801e6ed",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11686,
+                "original_language": "en",
+                "original_title": "Love and Death",
+                "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+                "popularity": 2.3679,
+                "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+                "release_date": "1975-06-10",
+                "title": "Love and Death",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 927,
+                "character": "Napoleon",
+                "credit_id": "538ce24e0e0a26670b004c03",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zvNMZl0l2qYq0x0ntq8sILiIpLw.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 9040,
+                "original_language": "en",
+                "original_title": "Serpico",
+                "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+                "popularity": 4.5185,
+                "poster_path": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+                "release_date": "1973-12-18",
+                "title": "Serpico",
+                "video": false,
+                "vote_average": 7.534,
+                "vote_count": 2056,
+                "character": "Steiger",
+                "credit_id": "57cd9952c3a3680a1700087f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+                "genre_ids": [
+                    37,
+                    27,
+                    18
+                ],
+                "id": 294963,
+                "original_language": "en",
+                "original_title": "Bone Tomahawk",
+                "overview": "During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. The doctor's assistant, wife of the local foreman, tends to him in prison. That night, the town is attacked and they both disappear\u2014only the arrow of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and the foreman's wife.",
+                "popularity": 3.4958,
+                "poster_path": "/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
+                "release_date": "2015-10-23",
+                "title": "Bone Tomahawk",
+                "video": false,
+                "vote_average": 6.872,
+                "vote_count": 2379,
+                "character": "Pianist",
+                "credit_id": "58e20d1992514127f600a345",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James Tolkin",
+            "Jim Tolkan",
+            "James S. Tolkan",
+            "James B. Tolkan",
+            "James Stewart Tolkan",
+            "\u0414\u0436\u0435\u0439\u043c\u0441 \u0422\u043e\u043b\u043a\u0430\u043d",
+            "\u062c\u06cc\u0645\u0632 \u062a\u0648\u0644\u06a9\u0627\u0646"
+        ],
+        "biography": "Fiery, forceful and intimidating character actor James Tolkan has carved out a nice little niche for himself in both movies and television alike as a formidable portrayer of fierce and flinty hard-boiled tough guy types. James Stewart Tolkan was born on June 20, 1931 in Calumet, Michigan. His father, Ralph M. Tolkan, was a cattle dealer. James attended the University of Iowa, Coe College and Eastern Arizona College. After serving a year-long stint in the United States Navy, Tolkan went to New York and studied acting with both Lee Strasberg and Stella Adler at the Actors Studio. Short and bald, with beady, intense eyes, a wiry, compact, muscular build, a gruff, jarring, high-decibel voice, and an aggressive, confrontational, blunt-as-a-battle-ax, rough-around-the-edges demeanor, Tolkan has been often cast as rugged, cynical no-nonsense cops, mean, domineering authority figures, and various ruthless and dangerous criminals.\n\nTolkan first began acting in movies in the late 1960s and was highly effective in two pictures for Sidney Lumet: He was a rabidly homophobic police lieutenant in the superbly gritty Serpico (1973) and a sneaky district attorney in the equally excellent Prince of the City (1981). Best known as the obnoxiously overzealous high school principal Gerard Strickland in the Back to the Future films, Tolkan's other most memorable roles include Napolean in Woody Allen's Love and Death (1975), a ramrod army officer in WarGames (1983), mayor Robert Culp's mordant, wisecracking assistant in Turk 182 (1985), the hard-nosed Stinger in Top Gun (1986), the choleric Detective Lubric in Masters of the Universe (1987), meek mob accountant Numbers in Dick Tracy (1990), and Wesley Snipes' bullish superior in Boiling Point (1993).",
+        "birthday": "1931-06-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1072,
+        "imdb_id": "nm0866055",
+        "known_for_department": "Acting",
+        "name": "James Tolkan",
+        "place_of_birth": "Calumet, Michigan, USA",
+        "popularity": 0.7276,
+        "profile_path": "/euEktcyVXm1pq5UBC16v3zuBq7J.jpg"
+    }
+}

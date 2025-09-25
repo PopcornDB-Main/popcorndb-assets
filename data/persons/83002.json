@@ -1,0 +1,322 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7HtE5hLVTEvFKQC33wK7XAnIdFk.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    27
+                ],
+                "id": 64720,
+                "original_language": "en",
+                "original_title": "Take Shelter",
+                "overview": "Plagued by a series of apocalyptic visions, a young husband and father questions whether to shelter his family from a coming storm, or from himself.",
+                "popularity": 2.8344,
+                "poster_path": "/dldIX0q5jewe8rSyCh8d5I1RYx3.jpg",
+                "release_date": "2011-09-30",
+                "title": "Take Shelter",
+                "video": false,
+                "vote_average": 7.039,
+                "vote_count": 1857,
+                "character": "Samantha LaForche",
+                "credit_id": "52fe46e6c3a368484e0aa289",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k2ZdjMXmqnw4RJeh8cwxCvcznJZ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 50014,
+                "original_language": "en",
+                "original_title": "The Help",
+                "overview": "Aibileen Clark is a middle-aged African-American maid who has spent her life raising white children and has recently lost her only son; Minny Jackson is an African-American maid who has often offended her employers despite her family's struggles with money and her desperate need for jobs; and Eugenia \"Skeeter\" Phelan is a young white woman who has recently moved back home after graduating college to find out her childhood maid has mysteriously disappeared. These three stories intertwine to explain how life in Jackson, Mississippi revolves around \"the help\"; yet they are always kept at a certain distance because of racial lines.",
+                "popularity": 11.3368,
+                "poster_path": "/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg",
+                "release_date": "2011-08-09",
+                "title": "The Help",
+                "video": false,
+                "vote_average": 8.204,
+                "vote_count": 8680,
+                "character": "Celia Foote",
+                "credit_id": "52fe47b5c3a36847f814404f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fEI7I233M9hkw1MRSBXEgauXhRl.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    37
+                ],
+                "id": 82633,
+                "original_language": "en",
+                "original_title": "Lawless",
+                "overview": "In 1931, the Bondurant brothers of Franklin County, Virginia, run a multipurpose backwoods establishment that hides their true business \u2014 bootlegging. Middle brother Forrest is the brain of the operation; older Howard is the brawn, and younger Jack, the lookout. Though the local police have taken bribes and left the brothers alone, a violent war erupts when a sadistic lawman from Chicago arrives and tries to shut down the Bondurants operation.",
+                "popularity": 5.112,
+                "poster_path": "/Ahtzwts22ayviD3LEVslfL4nRWB.jpg",
+                "release_date": "2012-08-29",
+                "title": "Lawless",
+                "video": false,
+                "vote_average": 7.061,
+                "vote_count": 3168,
+                "character": "Maggie Beauford",
+                "credit_id": "52fe48629251416c9108a71b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/evPzxMacNWsjkUKQO4NXKe5Rl6a.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 97630,
+                "original_language": "en",
+                "original_title": "Zero Dark Thirty",
+                "overview": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L. Team 6 in May, 2011.",
+                "popularity": 4.815,
+                "poster_path": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+                "release_date": "2012-12-19",
+                "title": "Zero Dark Thirty",
+                "video": false,
+                "vote_average": 6.993,
+                "vote_count": 4682,
+                "character": "Maya",
+                "credit_id": "52fe49e89251416c750d7415",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 63.1735,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 37855,
+                "character": "Murph",
+                "credit_id": "52fe4bbf9251416c910e47f1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 289222,
+                "original_language": "en",
+                "original_title": "The Zookeeper's Wife",
+                "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+                "popularity": 2.6667,
+                "poster_path": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+                "release_date": "2017-03-24",
+                "title": "The Zookeeper's Wife",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1524,
+                "character": "Antonina \u017babi\u0144ska",
+                "credit_id": "53ff8e4a0e0a2658de0007f0",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    878
+                ],
+                "id": 286217,
+                "original_language": "en",
+                "original_title": "The Martian",
+                "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+                "popularity": 11.2798,
+                "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Martian",
+                "video": false,
+                "vote_average": 7.689,
+                "vote_count": 20425,
+                "character": "Melissa Lewis",
+                "credit_id": "5466c78eeaeb8172820008e4",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 376290,
+                "original_language": "en",
+                "original_title": "Miss Sloane",
+                "overview": "An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.",
+                "popularity": 3.7223,
+                "poster_path": "/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+                "release_date": "2016-11-25",
+                "title": "Miss Sloane",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 1895,
+                "character": "Madeline Elizabeth Sloane",
+                "credit_id": "568d95759251416b470006ee",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yvbXGWjg30sj7rohEZvSe90jSJC.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 396371,
+                "original_language": "en",
+                "original_title": "Molly's Game",
+                "overview": "Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.",
+                "popularity": 4.3144,
+                "poster_path": "/in43bQ7k0ttr666IPP94IlbQbTR.jpg",
+                "release_date": "2017-12-07",
+                "title": "Molly's Game",
+                "video": false,
+                "vote_average": 7.146,
+                "vote_count": 3845,
+                "character": "Molly Bloom",
+                "credit_id": "572d60a7c3a3680f3f001214",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/x2U0R60Z7hmJxZixzsGZfjFJbve.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    9648
+                ],
+                "id": 541134,
+                "original_language": "en",
+                "original_title": "The Good Nurse",
+                "overview": "Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth.",
+                "popularity": 3.1436,
+                "poster_path": "/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg",
+                "release_date": "2022-10-19",
+                "title": "The Good Nurse",
+                "video": false,
+                "vote_average": 6.87,
+                "vote_count": 1332,
+                "character": "Amy Loughren",
+                "credit_id": "5b6a4af79251410341012437",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 758679,
+                "original_language": "en",
+                "original_title": "Mothers' Instinct",
+                "overview": "Housewives Alice and Celine are best friends and neighbours who seem to have it all. However, when a tragic accident shatters the harmony of their lives, guilt, suspicion and paranoia begin to unravel their sisterly bond.",
+                "popularity": 2.3462,
+                "poster_path": "/6EtPToJlGpjyuIxkIoztnBXYFgJ.jpg",
+                "release_date": "2024-01-11",
+                "title": "Mothers' Instinct",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 527,
+                "character": "Alice",
+                "credit_id": "5f9ae31b6eecee003790df71",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 758679,
+                "original_language": "en",
+                "original_title": "Mothers' Instinct",
+                "overview": "Housewives Alice and Celine are best friends and neighbours who seem to have it all. However, when a tragic accident shatters the harmony of their lives, guilt, suspicion and paranoia begin to unravel their sisterly bond.",
+                "popularity": 2.3462,
+                "poster_path": "/6EtPToJlGpjyuIxkIoztnBXYFgJ.jpg",
+                "release_date": "2024-01-11",
+                "title": "Mothers' Instinct",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 527,
+                "credit_id": "627be53194d8a80052697562",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 289222,
+                "original_language": "en",
+                "original_title": "The Zookeeper's Wife",
+                "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+                "popularity": 2.6667,
+                "poster_path": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+                "release_date": "2017-03-24",
+                "title": "The Zookeeper's Wife",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1524,
+                "credit_id": "57a1e617c3a3682cb10015e5",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc81c\uc2dc\uce74 \ucc44\uc2a4\ud14c\uc778",
+            "Jessica Michelle Chastain",
+            "\u52b3\u6a21\u59d0",
+            "\u05d2'\u05e1\u05d9\u05e7\u05d4 \u05de\u05d9\u05e9\u05dc \u05e6'\u05e1\u05d8\u05d9\u05d9\u05df"
+        ],
+        "biography": "Jessica Michelle Chastain (born March 24, 1977) is an American actress and film producer. Known for her roles in films with feminist themes, she has received various accolades, including an Academy Award, a Golden Globe Award, in addition to nominations for two British Academy Film Awards. Time magazine named her one of the 100 most influential people in the world in 2012.\n\nBorn and raised in Sacramento, California, Chastain developed an interest in acting from an early age. In 1998, she made her professional stage debut as Shakespeare's Juliet. After studying acting at the Juilliard School, she was signed to a talent holding deal with the television producer John Wells. She was a recurring guest star in several television series, including Law & Order: Trial by Jury. She also took on roles in the stage productions of Anton Chekhov's play The Cherry Orchard in 2004 and Oscar Wilde's tragedy Salome in 2006.\n\nChastain made her film debut in the drama Jolene (2008), and gained wide recognition for her starring roles in the dramas Take Shelter (2011) and The Tree of Life (2011). Her performance as an aspiring socialite in The Help (2011) earned her a nomination for the Academy Award for Best Supporting Actress. In 2012, she won a Golden Globe Award and received a nomination for the Academy Award for Best Actress for playing a CIA analyst in the thriller Zero Dark Thirty. Chastain made her Broadway debut in a revival of The Heiress in the same year. Her highest-grossing releases came with the science fiction films Interstellar (2014) and The Martian (2015), and the horror film It Chapter Two (2019), and she continued to receive critical acclaim for her performances in the dramas A Most Violent Year (2014), Miss Sloane (2016), Molly's Game (2017) and The Good Nurse (2022). For her portrayal of Tammy Faye in the biopic The Eyes of Tammy Faye (2021), which she also produced, Chastain won the Academy Award for Best Actress.\n\nIn television, Chastain starred in drama miniseries Scenes from a Marriage (2021) and George & Tammy (2022). For the latter, she won a SAG Award. Her performance also garnered her nominations for a Primetime Emmy Award and a Golden Globe Award.\n\nChastain is the founder of the production company Freckle Films, which was created to promote diversity in film. She is vocal about mental health issues, as well as gender and racial equality. She is married to fashion executive Gian Luca Passi de Preposulo, with whom she has two children.\n\nDescription above from the Wikipedia article Jessica Chastain, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1977-03-24",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 83002,
+        "imdb_id": "nm1567113",
+        "known_for_department": "Acting",
+        "name": "Jessica Chastain",
+        "place_of_birth": "Southern California, California, USA",
+        "popularity": 4.2052,
+        "profile_path": "/xRvRzxiiHhgUErl0yf9w8WariRE.jpg"
+    }
+}

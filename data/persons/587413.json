@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+                "genre_ids": [
+                    18,
+                    37,
+                    12
+                ],
+                "id": 581032,
+                "original_language": "en",
+                "original_title": "News of the World",
+                "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+                "popularity": 2.4656,
+                "poster_path": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+                "release_date": "2020-12-25",
+                "title": "News of the World",
+                "video": false,
+                "vote_average": 6.949,
+                "vote_count": 1833,
+                "character": "Red River Heckler",
+                "credit_id": "62258c40c51acd0044000a48",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g6QPI70Kzt91Q0lGyLfsVqZAwlJ.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    18
+                ],
+                "id": 193756,
+                "original_language": "en",
+                "original_title": "Lone Survivor",
+                "overview": "Four Navy SEALs on a covert mission to neutralize a high-level Taliban operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.",
+                "popularity": 6.8759,
+                "poster_path": "/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",
+                "release_date": "2013-12-24",
+                "title": "Lone Survivor",
+                "video": false,
+                "vote_average": 7.434,
+                "vote_count": 4524,
+                "character": "CJSOTF Marine",
+                "credit_id": "52fe4cd89251416c9110201b",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 587413,
+        "imdb_id": "nm2097963",
+        "known_for_department": "Acting",
+        "name": "Justin Tade",
+        "place_of_birth": null,
+        "popularity": 0.0388,
+        "profile_path": null
+    }
+}

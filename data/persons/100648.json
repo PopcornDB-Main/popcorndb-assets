@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7gH1lRzboLTBxiqTwscrkOeaaau.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53,
+                    10749,
+                    18
+                ],
+                "id": 916,
+                "original_language": "en",
+                "original_title": "Bullitt",
+                "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed.",
+                "popularity": 5.4943,
+                "poster_path": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+                "release_date": "1968-10-17",
+                "title": "Bullitt",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 1213,
+                "character": "1st Aide",
+                "credit_id": "576497da92514112880003cf",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1573,
+                "original_language": "en",
+                "original_title": "Die Hard 2",
+                "overview": "One year after his heroics in Los Angeles, John McClane is an off-duty cop who is the wrong guy in the wrong place at the wrong time. On a snowy Christmas Eve, as he waits for his wife's plane to land at Washington Dulles International Airport, terrorists take over the air traffic control system in a plot to free a South American army general and drug smuggler being flown into the US to face drug charges. It's now up to McClane to take on the terrorists, while coping with an inept airport police chief, an uncooperative anti-terrorist squad, and the life of his wife and everyone else trapped in planes circling overhead.",
+                "popularity": 9.1325,
+                "poster_path": "/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
+                "release_date": "1990-07-03",
+                "title": "Die Hard 2",
+                "video": false,
+                "vote_average": 6.958,
+                "vote_count": 6090,
+                "character": "WNTW Chopper Pilot",
+                "credit_id": "60a9c9ac501cf20059322c2d",
+                "order": 52
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1943-11-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 100648,
+        "imdb_id": "nm0513868",
+        "known_for_department": "Acting",
+        "name": "Robert Lipton",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.7575,
+        "profile_path": "/zYowWzubVC3q9bGw9Hx8qlbliCR.jpg"
+    }
+}

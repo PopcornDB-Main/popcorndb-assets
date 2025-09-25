@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9Ocq5X0MNHsTpSONcaRvNDWPiz6.jpg",
+                "genre_ids": [
+                    16,
+                    18
+                ],
+                "id": 41201,
+                "original_language": "fr",
+                "original_title": "L'Illusionniste",
+                "overview": "A French illusionist travels to Scotland to work. He meets a young woman in a small village. Their ensuing adventure in Edinburgh changes both their lives forever.",
+                "popularity": 1.5902,
+                "poster_path": "/Ac2tNYW9sRaOhmtMJQuhf2mvo00.jpg",
+                "release_date": "2010-06-16",
+                "title": "The Illusionist",
+                "video": false,
+                "vote_average": 7.249,
+                "vote_count": 641,
+                "character": "Additional Voices (voice)",
+                "credit_id": "672b984bec5c6d529fc55a64",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 5044123,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "James T. Muir",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

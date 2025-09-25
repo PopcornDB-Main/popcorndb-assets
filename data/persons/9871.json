@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ptcXbbxTyjHfEE4d4QocNP0YQct.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 646,
+                "original_language": "en",
+                "original_title": "Dr. No",
+                "overview": "Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.",
+                "popularity": 6.7308,
+                "poster_path": "/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg",
+                "release_date": "1962-10-07",
+                "title": "Dr. No",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 3811,
+                "character": "Honey Ryder",
+                "credit_id": "52fe4263c3a36847f801aaa1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ozo1BNadCZ2w0rRf1e4ioOnIEqf.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 10323,
+                "original_language": "en",
+                "original_title": "Clash of the Titans",
+                "overview": "To win the right to marry his love, the beautiful princess Andromeda, and fulfil his destiny, half-God-half-mortal Perseus must complete various tasks including taming Pegasus, capturing Medusa's head and battling the feared Kraken.",
+                "popularity": 3.2907,
+                "poster_path": "/5JCLODNLJH6alc3KmyoiC21Nlob.jpg",
+                "release_date": "1981-06-12",
+                "title": "Clash of the Titans",
+                "video": false,
+                "vote_average": 6.905,
+                "vote_count": 808,
+                "character": "Aphrodite",
+                "credit_id": "52fe43599251416c7500cf53",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0627\u0648\u0631\u0632\u0648\u0644\u0627 \u0627\u0646\u062f\u0631\u0633"
+        ],
+        "biography": "Ursula Andress (born March 19, 1936) is a Swiss actress and former model who often appeared in American, British, and Italian films. A popular sex symbol of the 1960s, she was often cast in risqu\u00e9 roles which earned the nickname \"Ursula Undress\". She is best remembered today for her role as Honey Ryder in the first Bond film Dr. No (1962).",
+        "birthday": "1936-03-19",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 9871,
+        "imdb_id": "nm0000266",
+        "known_for_department": "Acting",
+        "name": "Ursula Andress",
+        "place_of_birth": "Ostermundigen, Bern, Switzerland",
+        "popularity": 0.9769,
+        "profile_path": "/mZSFE3vayIgXmfot4btC7K1rECZ.jpg"
+    }
+}

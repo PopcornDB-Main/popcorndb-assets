@@ -1,0 +1,96 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 105,
+                "original_language": "en",
+                "original_title": "Back to the Future",
+                "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+                "popularity": 16.8774,
+                "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+                "release_date": "1985-07-03",
+                "title": "Back to the Future",
+                "video": false,
+                "vote_average": 8.321,
+                "vote_count": 20869,
+                "character": "Cop",
+                "credit_id": "52fe4218c3a36847f8003a8f",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ctzKCslTsMRsOJNvAm1Mw8ytiHY.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    18,
+                    37
+                ],
+                "id": 9359,
+                "original_language": "en",
+                "original_title": "Maverick",
+                "overview": "Bret Maverick is a gambler who would rather con someone than fight them, and needs an additional $3k in order to enter a winner-takes-all poker game beginning in a few days. He joins forces with a woman with a marvelous Southern accent, and the two try and enter the game.",
+                "popularity": 4.176,
+                "poster_path": "/mTVbGGi5PIexmxVzeyFd2RYKwfM.jpg",
+                "release_date": "1994-05-20",
+                "title": "Maverick",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1661,
+                "character": "Dealer",
+                "credit_id": "52fe44edc3a36847f80b248f",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3w2YSii9wQZsKKucAYwVxzOwm7s.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10752
+                ],
+                "id": 11589,
+                "original_language": "en",
+                "original_title": "Kelly's Heroes",
+                "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+                "popularity": 4.421,
+                "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+                "release_date": "1970-06-22",
+                "title": "Kelly's Heroes",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 757,
+                "character": "U.S. Lieutenant",
+                "credit_id": "59a418f2925141774f0587e9",
+                "order": 34
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Reed Morgan"
+        ],
+        "biography": "",
+        "birthday": "1931-01-30",
+        "deathday": "2022-04-20",
+        "gender": 2,
+        "homepage": null,
+        "id": 99725,
+        "imdb_id": "nm0604968",
+        "known_for_department": "Acting",
+        "name": "Read Morgan",
+        "place_of_birth": "Chicago, Illinois, USA",
+        "popularity": 0.5416,
+        "profile_path": "/rJOGKIbGGrMVbmmXD3cYWv0i3uv.jpg"
+    }
+}

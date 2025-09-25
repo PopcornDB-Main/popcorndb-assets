@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 369972,
+                "original_language": "en",
+                "original_title": "First Man",
+                "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+                "popularity": 3.8495,
+                "poster_path": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+                "release_date": "2018-10-10",
+                "title": "First Man",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 5437,
+                "character": "Booster Flight Controller",
+                "credit_id": "5bd6a5e6c3a368210b03c80f",
+                "order": 71
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2163742,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Andrew Armstrong",
+        "place_of_birth": null,
+        "popularity": 0.0,
+        "profile_path": null
+    }
+}

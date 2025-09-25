@@ -1,0 +1,166 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    80
+                ],
+                "id": 497,
+                "original_language": "en",
+                "original_title": "The Green Mile",
+                "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+                "popularity": 17.2466,
+                "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+                "release_date": "1999-12-10",
+                "title": "The Green Mile",
+                "video": false,
+                "vote_average": 8.504,
+                "vote_count": 18370,
+                "character": "Harry Terwilliger",
+                "credit_id": "52fe424ac3a36847f8012c3b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2YIzEKCMfexbLIoeVUkR8MPayB2.jpg",
+                "genre_ids": [
+                    9648,
+                    878,
+                    53
+                ],
+                "id": 846,
+                "original_language": "en",
+                "original_title": "The X-Files",
+                "overview": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+                "popularity": 4.8582,
+                "poster_path": "/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg",
+                "release_date": "1998-06-19",
+                "title": "The X-Files",
+                "video": false,
+                "vote_average": 6.889,
+                "vote_count": 1691,
+                "character": "Bronschweig",
+                "credit_id": "52fe4281c3a36847f8024187",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+                "genre_ids": [
+                    27,
+                    878,
+                    53
+                ],
+                "id": 5876,
+                "original_language": "en",
+                "original_title": "The Mist",
+                "overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+                "popularity": 4.8947,
+                "poster_path": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+                "release_date": "2007-11-21",
+                "title": "The Mist",
+                "video": false,
+                "vote_average": 6.939,
+                "vote_count": 5515,
+                "character": "Dan Miller",
+                "credit_id": "52fe4429c3a36847f8085c87",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qLhoEKvkG3SgjyBrgn6wMxaTHr4.jpg",
+                "genre_ids": [
+                    27,
+                    28,
+                    53
+                ],
+                "id": 9542,
+                "original_language": "en",
+                "original_title": "The Hitcher",
+                "overview": "On a stormy night, young Jim, who transports a luxury car from Chicago to California to deliver it to its owner, feeling tired and sleepy, picks up a mysterious hitchhiker, who has appeared out of nowhere, thinking that a good conversation will help him not to fall asleep. He will have enough time to deeply regret such an unmeditated decision.",
+                "popularity": 2.3767,
+                "poster_path": "/89giuiFssSVCUxkCP386v66cry8.jpg",
+                "release_date": "1986-01-17",
+                "title": "The Hitcher",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 992,
+                "character": "Captain Esteridge",
+                "credit_id": "52fe4507c3a36847f80b8057",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 278,
+                "original_language": "en",
+                "original_title": "The Shawshank Redemption",
+                "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                "popularity": 28.0345,
+                "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                "release_date": "1994-09-23",
+                "title": "The Shawshank Redemption",
+                "video": false,
+                "vote_average": 8.7,
+                "vote_count": 28883,
+                "character": "1946 D.A.",
+                "credit_id": "540dc040c3a36879b200546e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8nh70OvIsJKpfZdTMZoMJMb8aVE.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 392982,
+                "original_language": "en",
+                "original_title": "Marshall",
+                "overview": "Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.",
+                "popularity": 3.0399,
+                "poster_path": "/2KfdXsXTCbMie0wB1mSmIX60C2F.jpg",
+                "release_date": "2017-10-13",
+                "title": "Marshall",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 640,
+                "character": "Dr. Sayer",
+                "credit_id": "594b40b6925141310c008bf5",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u0436\u0435\u0444\u0444\u0440\u0438 \u0414\u0435\u041c\u0430\u043d\u043d",
+            "Jeffrey De Munn",
+            "Jeff De Munn",
+            "Jeff DeMunn",
+            "Jeff Demunn",
+            "Jeffrey Demunn",
+            "\u062c\u0641\u0631\u06cc \u062f\u06cc \u0645\u0627\u0646"
+        ],
+        "biography": "Jeffrey DeMunn is an American theatre, film and television actor. He is known as a favorite of director Frank Darabont, who has cast him in all four of his films, The Green Mile, The Shawshank Redemption, The Majestic and The Mist (he also appeared in the 1988 remake of The Blob, which Darabont co-wrote). He also has an extensive television r\u00e9sum\u00e9, appearing in shows such as Kojak, Law & Order, and two of its spin-offs, SVU and Trial by Jury.\n\nHe has been involved in more Stephen King adaptations than any other actor. He has acted in film adaptations of Rita Hayworth and Shawshank Redemption, The Green Mile, The Mist and the T.V. miniseries Storm of the Century. He also narrated the audiobooks for Dreamcatcher and The Colorado Kid.\n\nIn 1995, he won a CableACE Award as Best Supporting Actor in a Movie or Miniseries for his portrayal of serial killer Andrei Chikatilo in the HBO film Citizen X.",
+        "birthday": "1947-04-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12645,
+        "imdb_id": "nm0218810",
+        "known_for_department": "Acting",
+        "name": "Jeffrey DeMunn",
+        "place_of_birth": "Buffalo, New York, USA",
+        "popularity": 1.144,
+        "profile_path": "/eSouAAduXaziFpqLw59AG55jtGY.jpg"
+    }
+}

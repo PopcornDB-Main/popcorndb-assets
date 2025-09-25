@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eBmIaAm1CkBuuyIUQYorhQKzTTg.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 3580,
+                "original_language": "en",
+                "original_title": "Changeling",
+                "overview": "Los Angeles, 1928. When single mother Christine Collins leaves for work, her son vanishes without a trace. Five months later, the police reunite mother and son. But when Christine suspects that the boy returned to her isn't her child, her quest for truth exposes a world of corruption.",
+                "popularity": 4.1584,
+                "poster_path": "/y9Qi39dL3PceGCH8afyC7QrhbhI.jpg",
+                "release_date": "2008-10-24",
+                "title": "Changeling",
+                "video": false,
+                "vote_average": 7.584,
+                "vote_count": 4314,
+                "character": "Sandy",
+                "credit_id": "52fe439ec3a36847f80622cb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nJbWAc8wakV3BncyF4643SyFWPr.jpg",
+                "genre_ids": [
+                    35,
+                    878,
+                    12
+                ],
+                "id": 774752,
+                "original_language": "en",
+                "original_title": "The Guardians of the Galaxy Holiday Special",
+                "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+                "popularity": 4.5357,
+                "poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+                "release_date": "2022-11-24",
+                "title": "The Guardians of the Galaxy Holiday Special",
+                "video": false,
+                "vote_average": 7.103,
+                "vote_count": 2196,
+                "character": "Tourist Mom",
+                "credit_id": "6380f603a4af8f007eece7f2",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michelle Martin"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 85101,
+        "imdb_id": "nm1162421",
+        "known_for_department": "Acting",
+        "name": "Michelle Gunn",
+        "place_of_birth": null,
+        "popularity": 0.4361,
+        "profile_path": "/PQLBS7BG3KXh0Hh3I5Y3De9GRC.jpg"
+    }
+}

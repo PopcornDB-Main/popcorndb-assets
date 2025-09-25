@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 758323,
+                "original_language": "en",
+                "original_title": "The Pope's Exorcist",
+                "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+                "popularity": 9.8464,
+                "poster_path": "/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg",
+                "release_date": "2023-04-05",
+                "title": "The Pope's Exorcist",
+                "video": false,
+                "vote_average": 6.945,
+                "vote_count": 2960,
+                "character": "Vatican Doctor",
+                "credit_id": "6403bf1767dcc9008819d3f1",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q9mF0HhnKT5deOIRAQSFjhLC8c1.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    12,
+                    28
+                ],
+                "id": 420809,
+                "original_language": "en",
+                "original_title": "Maleficent: Mistress of Evil",
+                "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+                "popularity": 7.3162,
+                "poster_path": "/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+                "release_date": "2019-10-16",
+                "title": "Maleficent: Mistress of Evil",
+                "video": false,
+                "vote_average": 7.303,
+                "vote_count": 6301,
+                "character": "Priest",
+                "credit_id": "5ead9704ba131b001d445a53",
+                "order": 65
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1347129,
+        "imdb_id": "nm3090338",
+        "known_for_department": "Acting",
+        "name": "Tom Bonington",
+        "place_of_birth": null,
+        "popularity": 0.6464,
+        "profile_path": "/2atuaW9Aw0bNKebJoRrX0ZGkqlz.jpg"
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 73,
+                "original_language": "en",
+                "original_title": "American History X",
+                "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+                "popularity": 7.533,
+                "poster_path": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+                "release_date": "1998-07-01",
+                "title": "American History X",
+                "video": false,
+                "vote_average": 8.335,
+                "vote_count": 12035,
+                "character": "Seth",
+                "credit_id": "52fe4213c3a36847f800219b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9RNJ0pKYA8EQiMa0lFZ68gzeElH.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    878,
+                    10749
+                ],
+                "id": 1381,
+                "original_language": "en",
+                "original_title": "The Fountain",
+                "overview": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+                "popularity": 4.1662,
+                "poster_path": "/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+                "release_date": "2006-11-22",
+                "title": "The Fountain",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2924,
+                "character": "Manny",
+                "credit_id": "52fe42f2c3a36847f802edc7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    12,
+                    10749
+                ],
+                "id": 2289,
+                "original_language": "en",
+                "original_title": "Cold Mountain",
+                "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+                "popularity": 6.4908,
+                "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+                "release_date": "2003-12-24",
+                "title": "Cold Mountain",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1859,
+                "character": "Pangle",
+                "credit_id": "52fe434ac3a36847f8049097",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qaTlXgurqg85Ya5AW4Ab8RixqD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2295,
+                "original_language": "en",
+                "original_title": "Clerks II",
+                "overview": "A calamity at Dante and Randall's shops sends them looking for new horizons - but they ultimately settle at Mooby's, a fictional Disney-McDonald's-style fast-food empire.",
+                "popularity": 3.7157,
+                "poster_path": "/cLSW0nW94XT0DmBS69ublcLfQ9c.jpg",
+                "release_date": "2006-07-21",
+                "title": "Clerks II",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1404,
+                "character": "Teen #2",
+                "credit_id": "52fe434bc3a36847f80494bb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v3ClsT59peXyGJ4XuDvIQAPwcZy.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 4133,
+                "original_language": "en",
+                "original_title": "Blow",
+                "overview": "A boy named George Jung grows up in a struggling family in the 1950's. His mother nags at her husband as he is trying to make a living for the family. It is finally revealed that George's father cannot make a living and the family goes bankrupt. George does not want the same thing to happen to him, and his friend Tuna, in the 1960's, suggests that he deal marijuana. He is a big hit in California in the 1960's, yet he goes to jail, where he finds out about the wonders of cocaine. As a result, when released, he gets rich by bringing cocaine to America. However, he soon pays the price.",
+                "popularity": 6.9266,
+                "poster_path": "/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg",
+                "release_date": "2001-04-04",
+                "title": "Blow",
+                "video": false,
+                "vote_average": 7.358,
+                "vote_count": 4437,
+                "character": "Tuna",
+                "credit_id": "52fe43aec3a36847f8067547",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sBB39VMtByFltGGGW2c5N6LOAvj.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 8470,
+                "original_language": "en",
+                "original_title": "John Q",
+                "overview": "John Quincy Archibald is a father and husband whose son is diagnosed with an enlarged heart and then finds out he cannot receive a transplant because HMO insurance will not cover it. Therefore, he decides to take a hospital full of patients hostage until the hospital puts his son's name on the donor's list.",
+                "popularity": 4.8531,
+                "poster_path": "/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg",
+                "release_date": "2002-02-15",
+                "title": "John Q",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 2485,
+                "character": "Guard Max Conlin",
+                "credit_id": "52fe44adc3a36847f80a3ad9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cGnaZm6EQOJESde3Vv4v53Zk4gN.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 626735,
+                "original_language": "en",
+                "original_title": "Dog",
+                "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
+                "popularity": 3.522,
+                "poster_path": "/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
+                "release_date": "2022-02-17",
+                "title": "Dog",
+                "video": false,
+                "vote_average": 7.309,
+                "vote_count": 1670,
+                "character": "Noah",
+                "credit_id": "62115e623520e8001dc620cf",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 106646,
+                "original_language": "en",
+                "original_title": "The Wolf of Wall Street",
+                "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+                "popularity": 27.2678,
+                "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+                "release_date": "2013-12-25",
+                "title": "The Wolf of Wall Street",
+                "video": false,
+                "vote_average": 8.028,
+                "vote_count": 24976,
+                "character": "Toby Welch",
+                "credit_id": "52fe4a6dc3a36847f81cd503",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 7445,
+                "original_language": "en",
+                "original_title": "Brothers",
+                "overview": "When his helicopter goes down during his fourth tour of duty in Afghanistan, Marine Sam Cahill is presumed dead. Back home, brother Tommy steps in to look over Sam\u2019s wife, Grace, and two children. Sam\u2019s surprise homecoming triggers domestic mayhem.",
+                "popularity": 5.6184,
+                "poster_path": "/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
+                "release_date": "2009-12-02",
+                "title": "Brothers",
+                "video": false,
+                "vote_average": 7.32,
+                "vote_count": 3752,
+                "character": "Sweeney",
+                "credit_id": "5301edde9251412195260b04",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg",
+                "genre_ids": [
+                    878,
+                    53
+                ],
+                "id": 1954,
+                "original_language": "en",
+                "original_title": "The Butterfly Effect",
+                "overview": "A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every change he makes has unexpected consequences.",
+                "popularity": 8.9354,
+                "poster_path": "/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg",
+                "release_date": "2004-01-17",
+                "title": "The Butterfly Effect",
+                "video": false,
+                "vote_average": 7.574,
+                "vote_count": 7840,
+                "character": "Thumper",
+                "credit_id": "53a446fa0e0a2667c90015ae",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 615777,
+                "original_language": "en",
+                "original_title": "Babylon",
+                "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+                "popularity": 9.3328,
+                "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+                "release_date": "2022-12-22",
+                "title": "Babylon",
+                "video": false,
+                "vote_average": 7.379,
+                "vote_count": 3480,
+                "character": "Wilson",
+                "credit_id": "6377d669156cc700763125d6",
+                "order": 102
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10637,
+                "original_language": "en",
+                "original_title": "Remember the Titans",
+                "overview": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone \u2013 tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+                "popularity": 5.5255,
+                "poster_path": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+                "release_date": "2000-09-29",
+                "title": "Remember the Titans",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2783,
+                "character": "Louie Lastik",
+                "credit_id": "55ed47449251413e3201372a",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 296524,
+                "original_language": "en",
+                "original_title": "Deepwater Horizon",
+                "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+                "popularity": 5.576,
+                "poster_path": "/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+                "release_date": "2016-09-28",
+                "title": "Deepwater Horizon",
+                "video": false,
+                "vote_average": 6.885,
+                "vote_count": 4690,
+                "character": "Jason Anderson",
+                "credit_id": "57478cb9c3a3686bb60001ba",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12
+                ],
+                "id": 1832,
+                "original_language": "en",
+                "original_title": "Dogma",
+                "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+                "popularity": 4.8091,
+                "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+                "release_date": "1999-10-04",
+                "title": "Dogma",
+                "video": false,
+                "vote_average": 6.925,
+                "vote_count": 2645,
+                "character": "Norman (voice)",
+                "credit_id": "5c95a77c0e0a2645f7518ae0",
+                "order": 36
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0418\u0442\u0430\u043d \u0421\u0430\u043f\u043b\u0438",
+            "Stan Dubar",
+            "\u0627\u06cc\u062a\u0627\u0646 \u0633\u0648\u067e\u0644\u06cc",
+            "\u0627\u06cc\u062b\u0646 \u0633\u0648\u067e\u0644\u06cc"
+        ],
+        "biography": "Ethan Suplee (born May 25, 1976) is an American film and television actor best known for his roles as Seth Ryan in American History X, Louie Lastik in Remember the Titans, Frankie in Boy Meets World, Randy Hickey in My Name Is Earl, Thumper in The Butterfly Effect, Dewey in Unstoppable, and his roles in Kevin Smith films.\n\nDescription above from the Wikipedia article Ethan Suplee, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1976-05-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 824,
+        "imdb_id": "nm0839486",
+        "known_for_department": "Acting",
+        "name": "Ethan Suplee",
+        "place_of_birth": "Manhattan, New York, USA",
+        "popularity": 1.0584,
+        "profile_path": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+    }
+}

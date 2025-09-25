@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+                "genre_ids": [
+                    18,
+                    37,
+                    12
+                ],
+                "id": 581032,
+                "original_language": "en",
+                "original_title": "News of the World",
+                "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+                "popularity": 2.5062,
+                "poster_path": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+                "release_date": "2020-12-25",
+                "title": "News of the World",
+                "video": false,
+                "vote_average": 6.949,
+                "vote_count": 1833,
+                "character": "Red River Heckler",
+                "credit_id": "62258c27c9044c006db4225a",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 559969,
+                "original_language": "en",
+                "original_title": "El Camino: A Breaking Bad Movie",
+                "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+                "popularity": 6.824,
+                "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+                "release_date": "2019-10-11",
+                "title": "El Camino: A Breaking Bad Movie",
+                "video": false,
+                "vote_average": 6.965,
+                "vote_count": 5184,
+                "character": "Sean",
+                "credit_id": "5da13d1ab84f94001897a603",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1128308,
+        "imdb_id": "nm3856319",
+        "known_for_department": "Acting",
+        "name": "Chris Bylsma",
+        "place_of_birth": null,
+        "popularity": 0.8015,
+        "profile_path": "/ckGu8M5UdMZXrDKpxlkQCYLz5TC.jpg"
+    }
+}

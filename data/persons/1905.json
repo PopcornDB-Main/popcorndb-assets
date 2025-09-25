@@ -1,0 +1,212 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 162,
+                "original_language": "en",
+                "original_title": "Edward Scissorhands",
+                "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+                "popularity": 10.8889,
+                "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+                "release_date": "1990-12-07",
+                "title": "Edward Scissorhands",
+                "video": false,
+                "vote_average": 7.719,
+                "vote_count": 13316,
+                "character": "The Inventor",
+                "credit_id": "52fe4221c3a36847f8006209",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
+                "genre_ids": [
+                    18,
+                    9648
+                ],
+                "id": 1939,
+                "original_language": "en",
+                "original_title": "Laura",
+                "overview": "A police detective falls in love with the woman whose murder he's investigating.",
+                "popularity": 2.1817,
+                "poster_path": "/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg",
+                "release_date": "1944-11-26",
+                "title": "Laura",
+                "video": false,
+                "vote_average": 7.634,
+                "vote_count": 853,
+                "character": "Shelby Carpenter",
+                "credit_id": "52fe4324c3a36847f803d72b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 6844,
+                "original_language": "en",
+                "original_title": "The Ten Commandments",
+                "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+                "popularity": 10.0884,
+                "poster_path": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+                "release_date": "1956-10-05",
+                "title": "The Ten Commandments",
+                "video": false,
+                "vote_average": 7.769,
+                "vote_count": 1743,
+                "character": "Baka",
+                "credit_id": "52fe4466c3a36847f8093afd",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wpz62HFxCGaMX6jImELAspwqjT1.jpg",
+                "genre_ids": [
+                    878,
+                    27,
+                    18
+                ],
+                "id": 11815,
+                "original_language": "en",
+                "original_title": "The Fly",
+                "overview": "Industrialist Fran\u00e7ois Delambre is called late at night by his sister-in-law, Helene Delambre, who tells him that she has just killed her husband, Andr\u00e9. Reluctant at first, she eventually explains to the police that Andr\u00e9 invented a matter transportation apparatus and, while experimenting on himself, a fly entered the chamber during the matter transference.",
+                "popularity": 3.0392,
+                "poster_path": "/kXdBcDh2EbgSIf4Oo1dxKapZM2f.jpg",
+                "release_date": "1958-07-16",
+                "title": "The Fly",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 571,
+                "character": "Fran\u00e7ois Delambre",
+                "credit_id": "52fe448a9251416c750386d9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7OY9BSM5CYQiHvonQhlQiJGaEnL.jpg",
+                "genre_ids": [
+                    16,
+                    14
+                ],
+                "id": 32085,
+                "original_language": "en",
+                "original_title": "Vincent",
+                "overview": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams that annoy his mother.",
+                "popularity": 1.9822,
+                "poster_path": "/sH8CMLnuXbQv9T61mUCPHxZotDJ.jpg",
+                "release_date": "1982-10-01",
+                "title": "Vincent",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 884,
+                "character": "Narrator (voice)",
+                "credit_id": "52fe44b99251416c9101ab47",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rXP1DHEk2pnSCnwe3qT1Vp1lps3.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    9648
+                ],
+                "id": 9994,
+                "original_language": "en",
+                "original_title": "The Great Mouse Detective",
+                "overview": "When the diabolical Professor Ratigan kidnaps London's master toymaker, the brilliant master of disguise Basil of Baker Street and his trusted sidekick Dawson try to elude the ultimate trap and foil the perfect crime.",
+                "popularity": 3.6719,
+                "poster_path": "/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
+                "release_date": "1986-07-02",
+                "title": "The Great Mouse Detective",
+                "video": false,
+                "vote_average": 7.046,
+                "vote_count": 1731,
+                "character": "Professor Ratigan (voice)",
+                "credit_id": "52fe455ac3a36847f80c95bd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aVefEnQsfNPUrgsuMszTDt165P0.jpg",
+                "genre_ids": [
+                    27,
+                    10402,
+                    9648
+                ],
+                "id": 92060,
+                "original_language": "en",
+                "original_title": "Michael Jackson's Thriller",
+                "overview": "A night at the movies turns into a nightmare when Michael and his date are attacked by a horde of bloody-thirsty zombies. On top of the success of the Thriller album and Michael Jackson's electrifying performance at Motown 25, the short film/music video for \"Thriller\" established Jackson as an international superstar and global phenomenon. Thriller is credited for transforming music videos into a serious art form, breaking down racial barriers in popular entertainment, popularizing the making-of documentary format and creating a home video market. The success transformed Jackson into a dominant force in global pop culture. In 2009, it became the first music video inducted into the United States National Film Registry by the Library of Congress as \"culturally, historically or aesthetically significant\". \"Thriller\" was also Jackson's seventh and final U.S. Hot 100 Top 10 hit from the Thriller album. It was the first album in history to have seven U.S. Top 10s.",
+                "popularity": 2.6936,
+                "poster_path": "/dYHGoPMkZMVuBA4EydmDQMo1EEv.jpg",
+                "release_date": "1983-11-14",
+                "title": "Michael Jackson's Thriller",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 718,
+                "character": "Narrator (voice)",
+                "credit_id": "52fe48f09251416c750b823d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kpPp3HxKdQpDBCJZzijntdK3k0X.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 203,
+                "original_language": "en",
+                "original_title": "Mean Streets",
+                "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+                "popularity": 2.5135,
+                "poster_path": "/rzVTH9ylCw0owKkMZQVz2Eve97E.jpg",
+                "release_date": "1973-10-14",
+                "title": "Mean Streets",
+                "video": false,
+                "vote_average": 7.079,
+                "vote_count": 2183,
+                "character": "Verden Fell (archive footage)",
+                "credit_id": "67bb483abd48e8924cbed085",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Vincent Leonard Price Jr.",
+            "The King of the Grand Guignol",
+            "The Merchant of Menace",
+            "The Renaissance Man",
+            "\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u041f\u0440\u0430\u0439\u0441",
+            "Vincent Leonard Price",
+            "\u0648\u06cc\u0646\u0633\u0646\u062a \u067e\u0631\u0627\u06cc\u0633"
+        ],
+        "biography": "Vincent Leonard Price, Jr. (May 27, 1911 \u2013 October 25, 1993) was an American actor, well known for his distinctive voice and performances in horror films. His career spanned other genres, including film noir, drama, mystery, thriller, and comedy. He appeared on stage, television, radio, and in over one hundred films. He has two stars on the Hollywood Walk of Fame: one for motion pictures, and one for television.\n\nPrice was an art collector and consultant, with a degree in art history. He lectured and wrote books on the subject. He was the founder of the Vincent Price Art Museum in California. He was also a noted gourmet cook.\n\nDescription above from the Wikipedia article Vincent Price, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1911-05-27",
+        "deathday": "1993-10-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 1905,
+        "imdb_id": "nm0001637",
+        "known_for_department": "Acting",
+        "name": "Vincent Price",
+        "place_of_birth": "Saint Louis, Missouri, USA",
+        "popularity": 0.8935,
+        "profile_path": "/7JIv7U5kwveryP7hrPYgHlKea4d.jpg"
+    }
+}

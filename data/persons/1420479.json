@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8661,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 1117,
+                "character": "Hoodlum (uncredited)",
+                "credit_id": "555f2aab9251417e4d002942",
+                "order": 138
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 3082,
+                "original_language": "en",
+                "original_title": "Modern Times",
+                "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+                "popularity": 4.5373,
+                "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+                "release_date": "1936-02-05",
+                "title": "Modern Times",
+                "video": false,
+                "vote_average": 8.283,
+                "vote_count": 3884,
+                "character": "Worker (uncredited)",
+                "credit_id": "562277eb92514127d400069b",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John Henry \"Jack\" Low",
+            "John Henry Low"
+        ],
+        "biography": "John Henry \"Jack\" Low was born on August 2, 1897 in Pueblo, Colorado. Low died on February 21, 1958 in Hollywood, California.",
+        "birthday": "1897-08-02",
+        "deathday": "1958-02-21",
+        "gender": 2,
+        "homepage": null,
+        "id": 1420479,
+        "imdb_id": "nm0522816",
+        "known_for_department": "Acting",
+        "name": "Jack Low",
+        "place_of_birth": "Pueblo, Colorado, USA",
+        "popularity": 0.0605,
+        "profile_path": null
+    }
+}

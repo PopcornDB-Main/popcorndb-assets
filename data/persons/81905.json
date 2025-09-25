@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 2640,
+                "original_language": "en",
+                "original_title": "Heathers",
+                "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+                "popularity": 4.9217,
+                "poster_path": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+                "release_date": "1988-10-01",
+                "title": "Heathers",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 1793,
+                "character": "Veronica's Dad",
+                "credit_id": "52fe4361c3a36847f8050017",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    53,
+                    9648,
+                    10749
+                ],
+                "id": 251,
+                "original_language": "en",
+                "original_title": "Ghost",
+                "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+                "popularity": 7.9429,
+                "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+                "release_date": "1990-07-13",
+                "title": "Ghost",
+                "video": false,
+                "vote_average": 7.226,
+                "vote_count": 5775,
+                "character": "Bank Co-Worker",
+                "credit_id": "5e1a469d1e9225001377a7b6",
+                "order": 34
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bill Cort"
+        ],
+        "biography": "",
+        "birthday": "1936-07-08",
+        "deathday": "1993-09-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 81905,
+        "imdb_id": "nm0181186",
+        "known_for_department": "Acting",
+        "name": "William Cort",
+        "place_of_birth": "El Paso, Texas, USA",
+        "popularity": 0.5625,
+        "profile_path": "/sphrI8zIfQi1FD1BcoFzGJxXvuo.jpg"
+    }
+}

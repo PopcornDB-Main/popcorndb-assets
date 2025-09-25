@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.5468,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.157,
+                "vote_count": 1561,
+                "character": "Controller #2",
+                "credit_id": "672c5e344b30e929cd6ef835",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12
+                ],
+                "id": 1832,
+                "original_language": "en",
+                "original_title": "Dogma",
+                "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+                "popularity": 4.9491,
+                "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+                "release_date": "1999-10-04",
+                "title": "Dogma",
+                "video": false,
+                "vote_average": 6.925,
+                "vote_count": 2645,
+                "credit_id": "658f479bca0e177889ba763f",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Martin Pistone"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3561983,
+        "imdb_id": "nm0685589",
+        "known_for_department": "Acting",
+        "name": "Marty Pistone",
+        "place_of_birth": null,
+        "popularity": 0.7079,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
+                "genre_ids": [
+                    53,
+                    9648,
+                    80
+                ],
+                "id": 915935,
+                "original_language": "fr",
+                "original_title": "Anatomie d'une chute",
+                "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
+                "popularity": 4.0436,
+                "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+                "release_date": "2023-08-23",
+                "title": "Anatomy of a Fall",
+                "video": false,
+                "vote_average": 7.532,
+                "vote_count": 2927,
+                "character": "The Tribunal",
+                "credit_id": "65b81b8d8c7b0f01834a905e",
+                "order": 41
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 4507369,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Philippe Jubien",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

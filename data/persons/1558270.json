@@ -1,0 +1,250 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 787699,
+                "original_language": "en",
+                "original_title": "Wonka",
+                "overview": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
+                "popularity": 10.2119,
+                "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+                "release_date": "2023-12-06",
+                "title": "Wonka",
+                "video": false,
+                "vote_average": 7.06,
+                "vote_count": 4036,
+                "character": "Oompa Loompa Guard 2",
+                "credit_id": "6581af0d226c5607fe9f22a6",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 120467,
+                "original_language": "en",
+                "original_title": "The Grand Budapest Hotel",
+                "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+                "popularity": 10.2456,
+                "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+                "release_date": "2014-02-26",
+                "title": "The Grand Budapest Hotel",
+                "video": false,
+                "vote_average": 8.036,
+                "vote_count": 15411,
+                "character": "Soldier",
+                "credit_id": "568b212f92514132db02a925",
+                "order": 94
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.7837,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.11,
+                "vote_count": 10399,
+                "credit_id": "60541b6d8cfcc700539e827a",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AmzVV7kqds8BJBXwnQtx5YpqFdU.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 638449,
+                "original_language": "en",
+                "original_title": "The Last Letter from Your Lover",
+                "overview": "A young journalist in London becomes obsessed with a series of letters she discovers that recounts an intense star-crossed love affair from the 1960s.",
+                "popularity": 3.7148,
+                "poster_path": "/fDKK51YdOfu9pTmSRw7sHUhGFxm.jpg",
+                "release_date": "2021-07-23",
+                "title": "The Last Letter from Your Lover",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 632,
+                "credit_id": "6112edaea127e500459cb2d5",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 787699,
+                "original_language": "en",
+                "original_title": "Wonka",
+                "overview": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
+                "popularity": 10.2119,
+                "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+                "release_date": "2023-12-06",
+                "title": "Wonka",
+                "video": false,
+                "vote_average": 7.06,
+                "vote_count": 4036,
+                "credit_id": "6528fc30ea84c7012d6f0582",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 120467,
+                "original_language": "en",
+                "original_title": "The Grand Budapest Hotel",
+                "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+                "popularity": 10.2456,
+                "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+                "release_date": "2014-02-26",
+                "title": "The Grand Budapest Hotel",
+                "video": false,
+                "vote_average": 8.036,
+                "vote_count": 15411,
+                "credit_id": "61c8999a8d52c90043017fb1",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
+                "genre_ids": [
+                    878,
+                    35,
+                    12
+                ],
+                "id": 696506,
+                "original_language": "en",
+                "original_title": "Mickey 17",
+                "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+                "popularity": 23.7672,
+                "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+                "release_date": "2025-02-28",
+                "title": "Mickey 17",
+                "video": false,
+                "vote_average": 6.867,
+                "vote_count": 2676,
+                "credit_id": "65ba502890fca3017b08e31d",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/npFPqZeHlEPOlLEpykP6kuSsi6v.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    18
+                ],
+                "id": 49047,
+                "original_language": "en",
+                "original_title": "Gravity",
+                "overview": "Dr. Ryan Stone, a brilliant medical engineer, is on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
+                "popularity": 8.0905,
+                "poster_path": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+                "release_date": "2013-10-03",
+                "title": "Gravity",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 15796,
+                "credit_id": "5bbe06710e0a266618030f08",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 542178,
+                "original_language": "en",
+                "original_title": "The French Dispatch",
+                "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+                "popularity": 4.5113,
+                "poster_path": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+                "release_date": "2021-10-21",
+                "title": "The French Dispatch",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 2781,
+                "credit_id": "5c38f9c0c3a368086245675a",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    35
+                ],
+                "id": 749170,
+                "original_language": "en",
+                "original_title": "Heads of State",
+                "overview": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
+                "popularity": 29.3877,
+                "poster_path": "/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+                "release_date": "2025-06-24",
+                "title": "Heads of State",
+                "video": false,
+                "vote_average": 6.913,
+                "vote_count": 726,
+                "credit_id": "68916aedbc4b318ee4f3e9d1",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1558270,
+        "imdb_id": "nm0003054",
+        "known_for_department": "Directing",
+        "name": "Ben Howard",
+        "place_of_birth": null,
+        "popularity": 0.1664,
+        "profile_path": "/1SlABb5wF8iah78E4T8iB0tRFU8.jpg"
+    }
+}

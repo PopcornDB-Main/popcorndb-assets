@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 9.4091,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 4063,
+                "character": "Assistant",
+                "credit_id": "57deff3ac3a36808ec0097c4",
+                "order": 77
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+                "genre_ids": [
+                    80,
+                    35
+                ],
+                "id": 107,
+                "original_language": "en",
+                "original_title": "Snatch",
+                "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+                "popularity": 8.264,
+                "poster_path": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+                "release_date": "2000-09-01",
+                "title": "Snatch",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 9473,
+                "character": "Michael",
+                "credit_id": "59d81b22925141252c01a26b",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 199104,
+        "imdb_id": "nm0432192",
+        "known_for_department": "Acting",
+        "name": "Chuck Julian",
+        "place_of_birth": "Willesden, London, England, UK",
+        "popularity": 0.1004,
+        "profile_path": null
+    }
+}

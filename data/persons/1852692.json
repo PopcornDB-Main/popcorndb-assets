@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    18,
+                    28
+                ],
+                "id": 871,
+                "original_language": "en",
+                "original_title": "Planet of the Apes",
+                "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+                "popularity": 8.0971,
+                "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+                "release_date": "1968-02-07",
+                "title": "Planet of the Apes",
+                "video": false,
+                "vote_average": 7.646,
+                "vote_count": 3741,
+                "character": "Child Ape (uncredited)",
+                "credit_id": "5dd0ae372d531a0013d8c9ae",
+                "order": 41
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.5076,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2588,
+                "credit_id": "6438def881a7fc00e1fe1eee",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1852692,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Emory Souza",
+        "place_of_birth": null,
+        "popularity": 0.0261,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 1585,
+                "original_language": "en",
+                "original_title": "It's a Wonderful Life",
+                "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+                "popularity": 6.3809,
+                "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+                "release_date": "1946-12-20",
+                "title": "It's a Wonderful Life",
+                "video": false,
+                "vote_average": 8.272,
+                "vote_count": 4589,
+                "character": "Tom (Bldg. & Loan)",
+                "credit_id": "52fe4301c3a36847f80335e9",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d7YwLX0PnX8vsaaQq9bz93jczGw.jpg",
+                "genre_ids": [
+                    35,
+                    10402
+                ],
+                "id": 37719,
+                "original_language": "en",
+                "original_title": "A Night at the Opera",
+                "overview": "The Marx Brothers take on high society and the opera world to bring two lovers together. A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+                "popularity": 2.1823,
+                "poster_path": "/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+                "release_date": "1935-11-15",
+                "title": "A Night at the Opera",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 519,
+                "character": "Captain",
+                "credit_id": "52fe46679251416c910535d1",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edward Kelley",
+            "Edward Kean",
+            "Eddie Keane",
+            "Edmund Keane",
+            "Ed Keane",
+            "Edward Keene"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia\n\nEdward Keane (May 28, 1884 \u2013 October 12, 1959) was an American film actor. He appeared in more than 300 films between 1921 and 1955.",
+        "birthday": "1884-05-28",
+        "deathday": "1959-10-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 120708,
+        "imdb_id": "nm0443849",
+        "known_for_department": "Acting",
+        "name": "Edward Keane",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2349,
+        "profile_path": "/4PLA77BDa27cI9gMzOuadJmbt2t.jpg"
+    }
+}

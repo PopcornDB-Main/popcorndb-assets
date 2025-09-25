@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 35,
+                "original_language": "en",
+                "original_title": "The Simpsons Movie",
+                "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+                "popularity": 8.068,
+                "poster_path": "/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+                "release_date": "2007-07-25",
+                "title": "The Simpsons Movie",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 8276,
+                "character": "Mike Dirnt (voice)",
+                "credit_id": "58d409adc3a368126f01606b",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Green Day"
+        ],
+        "biography": "Michael Ryan Pritchard (born May 4, 1972), better known by his stage name Mike Dirnt, is an American rock musician who is the co-founder, bassist, backing and occasional lead vocalist, and former guitarist of Green Day. He has also played in several other bands, including the Frustrators. His stage name Dirnt was originally a nickname that his friends from grade school gave him, as he constantly played \"air bass/guitar\" and made a \"dirnt, dirnt, dirnt\" noise while pretending to pluck the strings.",
+        "birthday": "1972-05-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 95867,
+        "imdb_id": "nm0228238",
+        "known_for_department": "Acting",
+        "name": "Mike Dirnt",
+        "place_of_birth": "Oakland, California, USA",
+        "popularity": 0.4094,
+        "profile_path": "/gEhFkRqN50YWjjrHnk2XqYdOMJH.jpg"
+    }
+}

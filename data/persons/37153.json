@@ -1,0 +1,238 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/l7gkk5K0NnVSqZ0Qr4zkNskH9AC.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 43923,
+                "original_language": "en",
+                "original_title": "It's Kind of a Funny Story",
+                "overview": "A clinically depressed teenager gets a new start after he checks himself into an adult psychiatric ward.",
+                "popularity": 3.9479,
+                "poster_path": "/hQE4q8Szeaae4davgB7o8MTLmwr.jpg",
+                "release_date": "2010-10-08",
+                "title": "It's Kind of a Funny Story",
+                "video": false,
+                "vote_average": 6.96,
+                "vote_count": 2387,
+                "character": "Nia",
+                "credit_id": "52fe466bc3a36847f80fdfad",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 49538,
+                "original_language": "en",
+                "original_title": "X-Men: First Class",
+                "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                "popularity": 0.425,
+                "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+                "release_date": "2011-06-01",
+                "title": "X-Men: First Class",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 13120,
+                "character": "Angel Salvadore",
+                "credit_id": "52fe479bc3a36847f813ecd7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 76341,
+                "original_language": "en",
+                "original_title": "Mad Max: Fury Road",
+                "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+                "popularity": 13.4718,
+                "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+                "release_date": "2015-05-13",
+                "title": "Mad Max: Fury Road",
+                "video": false,
+                "vote_average": 7.626,
+                "vote_count": 23363,
+                "character": "Toast the Knowing",
+                "credit_id": "52fe4933c3a368484e11f787",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 157350,
+                "original_language": "en",
+                "original_title": "Divergent",
+                "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+                "popularity": 10.1286,
+                "poster_path": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+                "release_date": "2014-03-14",
+                "title": "Divergent",
+                "video": false,
+                "vote_average": 6.91,
+                "vote_count": 13101,
+                "character": "Christina",
+                "credit_id": "52fe4bc09251416c910e49d5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4Yihb0wD1Jd2sQtNrKo9TOs8S3l.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 308639,
+                "original_language": "en",
+                "original_title": "Dope",
+                "overview": "Malcolm is carefully surviving life in a tough neighborhood in Los Angeles while juggling college applications, academic interviews, and the SAT. A chance invitation to an underground party leads him into an adventure that could allow him to go from being a geek, to being dope, to ultimately being himself.",
+                "popularity": 3.5711,
+                "poster_path": "/n6u00imN7AX2NiyWUc5kTgHXmEf.jpg",
+                "release_date": "2015-06-19",
+                "title": "Dope",
+                "video": false,
+                "vote_average": 7.064,
+                "vote_count": 1522,
+                "character": "Nakia",
+                "credit_id": "54828359c3a36817a5007a36",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+                "genre_ids": [
+                    14,
+                    12
+                ],
+                "id": 259316,
+                "original_language": "en",
+                "original_title": "Fantastic Beasts and Where to Find Them",
+                "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+                "popularity": 13.9527,
+                "poster_path": "/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+                "release_date": "2016-11-16",
+                "title": "Fantastic Beasts and Where to Find Them",
+                "video": false,
+                "vote_average": 7.311,
+                "vote_count": 19236,
+                "character": "Leta Lestrange",
+                "credit_id": "57b78c0492514174b60010d8",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g01B5oD3j2sIupAQY2Ykm4TIRks.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    35,
+                    10751
+                ],
+                "id": 324849,
+                "original_language": "en",
+                "original_title": "The Lego Batman Movie",
+                "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+                "popularity": 8.6984,
+                "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+                "release_date": "2017-02-08",
+                "title": "The Lego Batman Movie",
+                "video": false,
+                "vote_average": 7.23,
+                "vote_count": 5203,
+                "character": "Catwoman (voice)",
+                "credit_id": "5896bc329251412e0d013ff5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    12,
+                    878
+                ],
+                "id": 324857,
+                "original_language": "en",
+                "original_title": "Spider-Man: Into the Spider-Verse",
+                "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+                "popularity": 14.1819,
+                "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+                "release_date": "2018-12-06",
+                "title": "Spider-Man: Into the Spider-Verse",
+                "video": false,
+                "vote_average": 8.396,
+                "vote_count": 16440,
+                "character": "Mary Jane (voice)",
+                "credit_id": "5bff1d8e0e0a26360e051a61",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 20.696,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.659,
+                "vote_count": 11222,
+                "character": "Selina Kyle",
+                "credit_id": "5da4e941afe2240015eeec00",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Zo\u00eb Isabella Kravitz",
+            "Zoe Kravitz",
+            "\u4f50\u4f0a\u00b7\u514b\u7f57\u7ef4\u5179",
+            "\u0417\u043e\u0457 \u041a\u0440\u0430\u0432\u0456\u0446",
+            "\u30be\u30fc\u30a4\u30fb\u30a4\u30b6\u30d9\u30e9\u30fb\u30af\u30e9\u30f4\u30a3\u30c3\u30c4",
+            "\u30be\u30fc\u30a4\u30fb\u30af\u30e9\u30d3\u30c3\u30c4",
+            "\u0632\u0648\u06cc\u06cc \u06a9\u0631\u064e\u0648\u06cc\u062a\u0632"
+        ],
+        "biography": "Zo\u00eb Isabella Kravitz (born December 1, 1988) is an American actress, singer, and model. The daughter of actor-musician Lenny Kravitz and actress Lisa Bonet, she made her acting debut in the romantic comedy film No Reservations (2007), and had her breakthrough portraying Angel Salvadore in the superhero film X-Men: First Class (2011), which earned her nominations for a Teen Choice Award and a Scream Award. She rose to prominence playing Christina in The Divergent Series (2014\u20132016) and Leta Lestrange in the Fantastic Beasts film series (2016\u20132018).\n\nKravitz earned acclaim for her lead roles in the HBO drama series Big Little Lies (2017\u20132019), which earned her a Screen Actors Guild Award nomination, and the Hulu romantic comedy series High Fidelity (2020), for which she won a Black Reel Award and received a nomination for a Satellite Award. She voiced Catwoman in The Lego Batman Movie (2017), and will reprise the role in Matt Reeves' DC film The Batman (2022); she additionally provided the voice of Mary Jane Watson in Spider-Man: Into the Spider-Verse (2018). She appeared as Toast the Knowing in Mad Max: Fury Road (2015), and has starred in numerous independent films, including Dope (2015), Adam Green's Aladdin (2016), and Gemini (2017).\n\nIn addition to acting, Kravitz works as a fashion model and musician. As of 2017, she is the face of YSL Beaut\u00e9. Kravitz has also starred in campaigns for Tiffany & Co., Vera Wang, Balenciaga, Alexander Wang, Coach New York, Tumi, and Calvin Klein. She fronts the band Lolawolf and released the albums Calm Down in 2014 and Tenderness in 2020.",
+        "birthday": "1988-12-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 37153,
+        "imdb_id": "nm2368789",
+        "known_for_department": "Acting",
+        "name": "Zo\u00eb Kravitz",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 1.7073,
+        "profile_path": "/hJKmhbuzDjmfw2nPBDWGbLagj16.jpg"
+    }
+}

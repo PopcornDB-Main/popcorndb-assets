@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/d9eONXYtCmQnPWw61w9pNMGlSzK.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 1262,
+                "original_language": "en",
+                "original_title": "Stranger Than Fiction",
+                "overview": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+                "popularity": 4.5539,
+                "poster_path": "/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+                "release_date": "2006-09-09",
+                "title": "Stranger Than Fiction",
+                "video": false,
+                "vote_average": 7.282,
+                "vote_count": 2389,
+                "character": "Head ER Nurse",
+                "credit_id": "56993bc5c3a3687608004546",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    18
+                ],
+                "id": 5503,
+                "original_language": "en",
+                "original_title": "The Fugitive",
+                "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+                "popularity": 7.3656,
+                "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+                "release_date": "1993-08-06",
+                "title": "The Fugitive",
+                "video": false,
+                "vote_average": 7.465,
+                "vote_count": 4511,
+                "character": "O.R. Doctor",
+                "credit_id": "56a26c34c3a36838900001a6",
+                "order": 69
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 23355,
+        "imdb_id": "nm0115440",
+        "known_for_department": "Acting",
+        "name": "Cheryl Lynn Bruce",
+        "place_of_birth": null,
+        "popularity": 0.3427,
+        "profile_path": "/u3Na9OzrjiJpqQ4Hpp7S1hT0oTF.jpg"
+    }
+}

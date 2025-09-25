@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 549509,
+                "original_language": "en",
+                "original_title": "The Brutalist",
+                "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
+                "popularity": 8.9075,
+                "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+                "release_date": "2024-12-20",
+                "title": "The Brutalist",
+                "video": false,
+                "vote_average": 6.968,
+                "vote_count": 1303,
+                "character": "Bar Manager",
+                "credit_id": "654ef09029383543f485e139",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.2886,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.106,
+                "vote_count": 4470,
+                "character": "Master Sgt. Robinson",
+                "credit_id": "5533ea12925141529b0057a9",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James Butler",
+            "Jaymes E. Butler"
+        ],
+        "biography": "Jaymes Butler was born in Columbus, Ohio. He is known for his work on Snowden (2016), Resident Evil (2002), Big Game (2014), and The Boys in the Boat (2023).",
+        "birthday": "1959-11-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 74225,
+        "imdb_id": "nm0124964",
+        "known_for_department": "Acting",
+        "name": "Jaymes Butler",
+        "place_of_birth": "Columbus, Ohio, USA",
+        "popularity": 0.202,
+        "profile_path": "/i22INNLIiq0h3W26UwdcLed1O4N.jpg"
+    }
+}

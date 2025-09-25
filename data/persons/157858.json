@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10435,
+                "original_language": "en",
+                "original_title": "Chaplin",
+                "overview": "An aged Charlie Chaplin narrates his life to his autobiography's editor, including his rise to wealth and comedic fame from poverty, his turbulent personal life and his run-ins with the FBI.",
+                "popularity": 3.3076,
+                "poster_path": "/Aeltt5tl02zrEj4GoMynHc94lWG.jpg",
+                "release_date": "1992-12-17",
+                "title": "Chaplin",
+                "video": false,
+                "vote_average": 7.438,
+                "vote_count": 1131,
+                "character": "Reporter",
+                "credit_id": "642d50fb0d2f5300f4f74769",
+                "order": 132
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 4.4836,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.693,
+                "vote_count": 7467,
+                "character": "Funeral Home Worker",
+                "credit_id": "577d7a40c3a36817e60029da",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 157858,
+        "imdb_id": "nm0318466",
+        "known_for_department": "Acting",
+        "name": "Jerry Giles",
+        "place_of_birth": null,
+        "popularity": 0.1023,
+        "profile_path": null
+    }
+}

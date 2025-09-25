@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    36
+                ],
+                "id": 167073,
+                "original_language": "en",
+                "original_title": "Brooklyn",
+                "overview": "In 1950s Ireland and New York, young Eilis Lacey has to choose between two men and two countries.",
+                "popularity": 2.8023,
+                "poster_path": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+                "release_date": "2015-10-20",
+                "title": "Brooklyn",
+                "video": false,
+                "vote_average": 7.313,
+                "vote_count": 3166,
+                "character": "George Sheridan",
+                "credit_id": "56623fe6c3a3682bde0012c8",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yB35bWnl0hBsc7bgMrO98d4s3Kj.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    10402,
+                    35
+                ],
+                "id": 369557,
+                "original_language": "en",
+                "original_title": "Sing Street",
+                "overview": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.",
+                "popularity": 2.6986,
+                "poster_path": "/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg",
+                "release_date": "2016-03-11",
+                "title": "Sing Street",
+                "video": false,
+                "vote_average": 7.862,
+                "vote_count": 2365,
+                "character": "Evan",
+                "credit_id": "586ed52dc3a3683b7600c097",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Peter Campion"
+        ],
+        "biography": "Peter Campion is an actor, known for Sing Street (2016), Brooklyn (2015) and Redwater (2017).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1544911,
+        "imdb_id": "nm4113743",
+        "known_for_department": "Acting",
+        "name": "Art Campion",
+        "place_of_birth": "Birr, Offaly, Ireland",
+        "popularity": 0.4044,
+        "profile_path": "/4tlbi3o1KeFfwckgKEwcE4r4hfP.jpg"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+                "genre_ids": [
+                    9648,
+                    53
+                ],
+                "id": 77,
+                "original_language": "en",
+                "original_title": "Memento",
+                "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+                "popularity": 9.5002,
+                "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+                "release_date": "2000-10-11",
+                "title": "Memento",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 15537,
+                "character": "Natalie",
+                "credit_id": "52fe4214c3a36847f80024df",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/63ItW5WInTWZkRdyTfCZIn6ZvbH.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 392,
+                "original_language": "en",
+                "original_title": "Chocolat",
+                "overview": "A mother and daughter move to a small French town where they open a chocolate shop. The town, religious and morally strict, is against them, as they represent free-thinking and indulgence. When a group of gypsies arrive by riverboat, the Mayor's prejudices lead to a crisis.",
+                "popularity": 3.3086,
+                "poster_path": "/7sUfspdrvxLMgGkrOq46lPh0Scj.jpg",
+                "release_date": "2000-12-22",
+                "title": "Chocolat",
+                "video": false,
+                "vote_average": 6.971,
+                "vote_count": 3380,
+                "character": "Caroline Clairmont",
+                "credit_id": "52fe423dc3a36847f800ee6f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 603,
+                "original_language": "en",
+                "original_title": "The Matrix",
+                "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+                "popularity": 19.2458,
+                "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+                "release_date": "1999-03-31",
+                "title": "The Matrix",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 26791,
+                "character": "Trinity",
+                "credit_id": "52fe425bc3a36847f8018191",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/96WHK0TiIslmM8rGVIejMtMtaPG.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 604,
+                "original_language": "en",
+                "original_title": "The Matrix Reloaded",
+                "overview": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+                "popularity": 9.1637,
+                "poster_path": "/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+                "release_date": "2003-05-15",
+                "title": "The Matrix Reloaded",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 11439,
+                "character": "Trinity",
+                "credit_id": "52fe425cc3a36847f8018377",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7a4WHNllmX5ZGR0MfYJDPhV69eM.jpg",
+                "genre_ids": [
+                    16,
+                    878
+                ],
+                "id": 55931,
+                "original_language": "en",
+                "original_title": "The Animatrix",
+                "overview": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated.",
+                "popularity": 4.3296,
+                "poster_path": "/g52SOsTvdjzY8oPIn5znLJMzLHG.jpg",
+                "release_date": "2003-05-09",
+                "title": "The Animatrix",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 1663,
+                "character": "Trinity (\"Kid's Story\" and \"A Detective Story\") (voice)",
+                "credit_id": "52fe48e6c3a36847f817f775",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7sgceUpkyQUT7HhlLYx164OPifF.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 340027,
+                "original_language": "en",
+                "original_title": "Brain on Fire",
+                "overview": "Susannah Cahalan, an up-and-coming journalist at the New York Post becomes plagued by voices in her head and seizures, causing a rapid descent into insanity.",
+                "popularity": 9.7525,
+                "poster_path": "/kEwI53HNDO0ajSUWh4HSsGrlF6l.jpg",
+                "release_date": "2017-02-22",
+                "title": "Brain on Fire",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1395,
+                "character": "Rhona Nack",
+                "credit_id": "55bbd4029251413e4f0006b1",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Carrie Anne Moss",
+            "Carrie-Ann Moss",
+            "Carrie Ann Moss",
+            "\u039a\u03ac\u03c1\u03b9-\u0391\u03bd \u039c\u03bf\u03c2",
+            "\u51ef\u8389\u00b7\u5b89\u59ae\u00b7\u83ab\u65af",
+            "\u51f1\u8389-\u5b89\u00b7\u6469\u7d72",
+            "\u041a\u0435\u0440\u0440\u0456 \u0415\u043d\u043d \u041c\u043e\u0441\u0441",
+            "\u06a9\u0631\u06cc \u0627\u0646 \u0645\u0627\u0633",
+            "\u06a9\u0631\u06cc-\u0627\u0646 \u0645\u0627\u0633",
+            "\u06a9\u064e\u0631\u06cc-\u0627\u0646 \u0645\u0627\u0633"
+        ],
+        "biography": "Carrie-Anne Moss is a Canadian actress. After early roles on television, she rose to international prominence for her role of Trinity in The Matrix franchise. She has starred in Memento (2000) for which she won the Independent Spirit Award for Best Supporting Female, Red Planet (2000), Chocolat (2000), Fido (2006), Snow Cake (2006) for which she won the Genie Award for Best Performance by an Actress in a Supporting Role, Disturbia (2007), Unthinkable (2010), Silent Hill: Revelation (2012), and Pompeii (2014). She also portrayed Jeri Hogarth in several television series produced by Marvel Television for Netflix, most notably Jessica Jones (2015\u20132019).",
+        "birthday": "1967-08-21",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "http://annapurnaliving.com",
+        "id": 530,
+        "imdb_id": "nm0005251",
+        "known_for_department": "Acting",
+        "name": "Carrie-Anne Moss",
+        "place_of_birth": "Burnaby, British Columbia, Canada",
+        "popularity": 2.2104,
+        "profile_path": "/gc7JwuLDD0kXHUlGx5vWzdlqSIT.jpg"
+    }
+}

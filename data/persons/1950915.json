@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sItIskd5xpiE64bBWYwZintkGf3.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 541671,
+                "original_language": "en",
+                "original_title": "Ballerina",
+                "overview": "Taking place during the events of John Wick: Chapter 3 \u2013 Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+                "popularity": 84.1738,
+                "poster_path": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+                "release_date": "2025-06-04",
+                "title": "Ballerina",
+                "video": false,
+                "vote_average": 7.371,
+                "vote_count": 1667,
+                "character": "Prague Manager",
+                "credit_id": "68462a7b3f83a7a421bb2f89",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/led6mPvEAMsF5fpJUqiUy07ZPty.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 397538,
+                "original_language": "sv",
+                "original_title": "Borg vs McEnroe",
+                "overview": "The Swedish Bj\u00f6rn Borg and the American John McEnroe, the best tennis players in the world, maintain a legendary duel during the 1980 Wimbledon tournament.",
+                "popularity": 1.8674,
+                "poster_path": "/9jdg8VxleYb1DhPiEfHM7DzfvGw.jpg",
+                "release_date": "2017-09-08",
+                "title": "Borg vs McEnroe",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1170,
+                "character": "American Commentator",
+                "credit_id": "68462bee472507208bfd5cd2",
+                "order": 47
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Marc Dexter Cram"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1950915,
+        "imdb_id": "nm0186116",
+        "known_for_department": "Acting",
+        "name": "Marc Cram",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": "/g8uF2VbAlkSBhu5MB04d5tCdB8z.jpg"
+    }
+}

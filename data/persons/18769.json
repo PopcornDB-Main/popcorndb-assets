@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1675,
+                "original_language": "fr",
+                "original_title": "La Nuit am\u00e9ricaine",
+                "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+                "popularity": 2.5822,
+                "poster_path": "/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+                "release_date": "1973-05-24",
+                "title": "Day for Night",
+                "video": false,
+                "vote_average": 7.773,
+                "vote_count": 622,
+                "character": "Doctor Michael Nelson",
+                "credit_id": "52fe430bc3a36847f80362c9",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ubICMSUij3ntP9BjnQsV3rTVnAF.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 783,
+                "original_language": "en",
+                "original_title": "Gandhi",
+                "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+                "popularity": 4.2391,
+                "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+                "release_date": "1982-12-01",
+                "title": "Gandhi",
+                "video": false,
+                "vote_average": 7.557,
+                "vote_count": 2390,
+                "character": "Older Englishman",
+                "credit_id": "55f764fac3a3686d0b00c422",
+                "order": 64
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1913-04-03",
+        "deathday": "1983-12-15",
+        "gender": 2,
+        "homepage": null,
+        "id": 18769,
+        "imdb_id": "nm0548432",
+        "known_for_department": "Acting",
+        "name": "David Markham",
+        "place_of_birth": "Wick, Worcestershire, UK",
+        "popularity": 0.0994,
+        "profile_path": null
+    }
+}

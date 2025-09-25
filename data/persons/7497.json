@@ -1,0 +1,298 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 550,
+                "original_language": "en",
+                "original_title": "Fight Club",
+                "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+                "popularity": 21.4235,
+                "poster_path": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+                "release_date": "1999-10-15",
+                "title": "Fight Club",
+                "video": false,
+                "vote_average": 8.438,
+                "vote_count": 30752,
+                "character": "The Mechanic",
+                "credit_id": "52fe4250c3a36847f8014a59",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6van4BavoNXaZhCPdzLHNQ4Uc8H.jpg",
+                "genre_ids": [
+                    53,
+                    28
+                ],
+                "id": 1087891,
+                "original_language": "en",
+                "original_title": "The Amateur",
+                "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+                "popularity": 26.237,
+                "poster_path": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+                "release_date": "2025-04-09",
+                "title": "The Amateur",
+                "video": false,
+                "vote_average": 6.992,
+                "vote_count": 1186,
+                "character": "Director Moore",
+                "credit_id": "64ca752485b1050139aa6de3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 575265,
+                "original_language": "en",
+                "original_title": "Mission: Impossible - The Final Reckoning",
+                "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity \u2014 which has infiltrated intelligence networks all over the globe \u2014 with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+                "popularity": 161.3495,
+                "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+                "release_date": "2025-05-17",
+                "title": "Mission: Impossible - The Final Reckoning",
+                "video": false,
+                "vote_average": 7.288,
+                "vote_count": 1724,
+                "character": "Serling",
+                "credit_id": "62e2b904b234b900525660ff",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 850165,
+                "original_language": "en",
+                "original_title": "The Iron Claw",
+                "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+                "popularity": 5.3754,
+                "poster_path": "/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
+                "release_date": "2023-12-21",
+                "title": "The Iron Claw",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1072,
+                "character": "Fritz Von Erich",
+                "credit_id": "633bdad36d000c007afa3ed2",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 363676,
+                "original_language": "en",
+                "original_title": "Sully",
+                "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+                "popularity": 6.6344,
+                "poster_path": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+                "release_date": "2016-09-07",
+                "title": "Sully",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 7436,
+                "character": "Mike Cleary",
+                "credit_id": "561c1df39251415a64001eeb",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fEaZwgkX2k91LJZ5APkaK0aDwg1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 321741,
+                "original_language": "en",
+                "original_title": "Concussion",
+                "overview": "A dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu's emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.",
+                "popularity": 2.9517,
+                "poster_path": "/uuRFr7Jhsq7bITDyyvxZrQMAr9e.jpg",
+                "release_date": "2015-11-12",
+                "title": "Concussion",
+                "video": false,
+                "vote_average": 7.082,
+                "vote_count": 2627,
+                "character": "Angry Neurologist",
+                "credit_id": "58b4752dc3a368522001b663",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9j3gGPnnsBGXaj6FgN2wS8zsOFP.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 339692,
+                "original_language": "en",
+                "original_title": "Shot Caller",
+                "overview": "A newly-released prison gangster is forced by the leaders of his gang to orchestrate a major crime with a brutal rival gang on the streets of Southern California.",
+                "popularity": 5.9848,
+                "poster_path": "/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg",
+                "release_date": "2017-07-07",
+                "title": "Shot Caller",
+                "video": false,
+                "vote_average": 6.962,
+                "vote_count": 2125,
+                "character": "Jerry 'The Beast' Manning",
+                "credit_id": "597947e5925141081c00674f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aQFBJPlPv8wAe4qUWDMQC7CN9Za.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 10142,
+                "original_language": "en",
+                "original_title": "Casualties of War",
+                "overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+                "popularity": 6.5647,
+                "poster_path": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+                "release_date": "1989-08-18",
+                "title": "Casualties of War",
+                "video": false,
+                "vote_average": 7.157,
+                "vote_count": 942,
+                "character": "Lt. Kramer",
+                "credit_id": "5a4b3c80c3a36805cc022829",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11978,
+                "original_language": "en",
+                "original_title": "Men of Honor",
+                "overview": "Against formidable odds -- and an old-school diving instructor embittered by the U.S. Navy's new, less prejudicial policies -- Carl Brashear sets his sights on becoming the Navy's first African-American master diver in this uplifting true story. Their relationship starts out on the rocks, but fate ultimately conspires to bring the men together into a setting of mutual respect, triumph and honor.",
+                "popularity": 3.5316,
+                "poster_path": "/wNUAnXV1mzOOfvnVBIYsalkk078.jpg",
+                "release_date": "2000-09-13",
+                "title": "Men of Honor",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2386,
+                "character": "MM1 Dylan Rourke",
+                "credit_id": "5a4b3e4d9251415c9e021ec9",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 637649,
+                "original_language": "en",
+                "original_title": "Wrath of Man",
+                "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+                "popularity": 15.9688,
+                "poster_path": "/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+                "release_date": "2021-04-22",
+                "title": "Wrath of Man",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 5738,
+                "character": "Bullet",
+                "credit_id": "5db3c790d40d4c0012f91ef9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 597208,
+                "original_language": "en",
+                "original_title": "Nightmare Alley",
+                "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
+                "popularity": 5.0203,
+                "poster_path": "/680klE0dIreQQOyWKFgNnCAJtws.jpg",
+                "release_date": "2021-12-02",
+                "title": "Nightmare Alley",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 3123,
+                "character": "Anderson",
+                "credit_id": "5dd5ebb5af85de00157cccd5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    28
+                ],
+                "id": 524047,
+                "original_language": "en",
+                "original_title": "Greenland",
+                "overview": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+                "popularity": 7.1849,
+                "poster_path": "/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+                "release_date": "2020-07-29",
+                "title": "Greenland",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4770,
+                "character": "Twin Otter Pilot",
+                "credit_id": "5fb1c827c15f890041864cc8",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Holt Mccallany ",
+            "Holt McAloney",
+            "\ud640\ud2b8 \ub9e5\uce7c\ub77c\ub2c8",
+            "\u0413\u043e\u043b\u0442 \u041c\u0430\u043a\u041a\u0435\u043b\u043b\u0430\u043d\u0456",
+            "\u0647\u0648\u0644\u062a \u0645\u06a9 \u06a9\u0627\u0644\u0627\u0646\u06cc",
+            "\u05d4\u05d5\u05dc\u05d8 \u05de\u05e7'\u05e7\u05dc\u05e0\u05d9"
+        ],
+        "biography": "Holt McCallany\u00a0(born\u00a0Holt Quinn McAloney; September 3, 1963) is an American actor. He is known for portraying FBI Special Agent Bill Tench on the Mindhunter\u00a0(2017\u201319) series. He has had leading and supporting roles in various television series and films, including\u00a0Lights Out,\u00a0Fight Club,\u00a0Three Kings,\u00a0Shot Caller,\u00a0Wrath of Man,\u00a0Nightmare Alley, and\u00a0The Iron Claw.\n\nDescription above from the Wikipedia article Holt McCallany, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1963-09-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://holtmccallany.net",
+        "id": 7497,
+        "imdb_id": "nm0564697",
+        "known_for_department": "Acting",
+        "name": "Holt McCallany",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 2.4686,
+        "profile_path": "/nHZgHsBc8P69LFTGsDSrZYt2PmS.jpg"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5HVwz8cImMEwcV2z1SMFyJHY51q.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9609,
+                "original_language": "en",
+                "original_title": "Of Mice and Men",
+                "overview": "Two drifters, one a gentle but slow giant, try to make money working the fields during the Depression so they can fulfill their dreams.",
+                "popularity": 3.9162,
+                "poster_path": "/qAHLUMZyoW3iwj2b01B2nKcePTA.jpg",
+                "release_date": "1992-09-16",
+                "title": "Of Mice and Men",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 681,
+                "character": "Jack",
+                "credit_id": "5497fe649251417a8100595c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 70,
+                "original_language": "en",
+                "original_title": "Million Dollar Baby",
+                "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
+                "popularity": 9.2322,
+                "poster_path": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+                "release_date": "2004-12-05",
+                "title": "Million Dollar Baby",
+                "video": false,
+                "vote_average": 7.955,
+                "vote_count": 9964,
+                "character": "Cut Man",
+                "credit_id": "56da1d7e9251413b43000068",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9lzBxaGXQ2Uy62caE1pzEnDko1h.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    10749
+                ],
+                "id": 319,
+                "original_language": "en",
+                "original_title": "True Romance",
+                "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+                "popularity": 5.0652,
+                "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+                "release_date": "1993-09-09",
+                "title": "True Romance",
+                "video": false,
+                "vote_average": 7.549,
+                "vote_count": 2868,
+                "character": "Police Radio Operator",
+                "credit_id": "58a5c52ac3a3683da1006efb",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph D'Angerio"
+        ],
+        "biography": "",
+        "birthday": "1949-02-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 120257,
+        "imdb_id": "nm0195311",
+        "known_for_department": "Acting",
+        "name": "Joe D'Angerio",
+        "place_of_birth": "Newark, New Jersey, USA ",
+        "popularity": 0.1597,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 9802,
+                "original_language": "en",
+                "original_title": "The Rock",
+                "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+                "popularity": 8.0552,
+                "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
+                "release_date": "1996-06-07",
+                "title": "The Rock",
+                "video": false,
+                "vote_average": 7.136,
+                "vote_count": 4929,
+                "character": "Larry Henderson",
+                "credit_id": "658ac28ce039f1569cbdf126",
+                "order": 54
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.5564,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.119,
+                "vote_count": 1507,
+                "character": "Sullivan's Producer",
+                "credit_id": "65b99f77f90b19016304adbb",
+                "order": 52
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1960-09-25",
+        "deathday": "2002-06-03",
+        "gender": 2,
+        "homepage": null,
+        "id": 155905,
+        "imdb_id": "nm0924196",
+        "known_for_department": "Acting",
+        "name": "Sam Whipple",
+        "place_of_birth": "Venice, California, USA",
+        "popularity": 0.154,
+        "profile_path": "/3Cz8zNe2nmb3v0NW61KYObwJ1Oh.jpg"
+    }
+}

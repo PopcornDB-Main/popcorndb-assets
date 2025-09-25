@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3wwMtp2F7CgmOl2EX9q1r2yjOEk.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10749
+                ],
+                "id": 10849,
+                "original_language": "en",
+                "original_title": "The Purple Rose of Cairo",
+                "overview": "Cecilia is a waitress in New Jersey, living a dreary life during the Great Depression. Her only escape from her mundane reality is the movie theatre. After losing her job, Cecilia goes to see 'The Purple Rose of Cairo' in hopes of raising her spirits, where she watches dashing archaeologist Tom Baxter time and again.",
+                "popularity": 4.4532,
+                "poster_path": "/ccsint43E44B7NGceEhVimD93Yt.jpg",
+                "release_date": "1985-03-01",
+                "title": "The Purple Rose of Cairo",
+                "video": false,
+                "vote_average": 7.403,
+                "vote_count": 1083,
+                "character": "Reporter",
+                "credit_id": "61aaea20498ef9001c82f7af",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11030,
+                "original_language": "en",
+                "original_title": "Zelig",
+                "overview": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+                "popularity": 3.1142,
+                "poster_path": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
+                "release_date": "1983-07-15",
+                "title": "Zelig",
+                "video": false,
+                "vote_average": 7.432,
+                "vote_count": 886,
+                "character": "On-Camera Interviewer",
+                "credit_id": "61aee267387651006263dac3",
+                "order": 52
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1929-08-14",
+        "deathday": "2006-10-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 2498160,
+        "imdb_id": "nm0152177",
+        "known_for_department": "Acting",
+        "name": "Ken Chapin",
+        "place_of_birth": null,
+        "popularity": 0.0336,
+        "profile_path": null
+    }
+}

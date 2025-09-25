@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 7326,
+                "original_language": "en",
+                "original_title": "Juno",
+                "overview": "Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.",
+                "popularity": 5.36,
+                "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+                "release_date": "2007-12-05",
+                "title": "Juno",
+                "video": false,
+                "vote_average": 7.052,
+                "vote_count": 7374,
+                "character": "Keith",
+                "credit_id": "56ccd6d29251415cd40001a9",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1582008,
+        "imdb_id": "nm0574576",
+        "known_for_department": "Acting",
+        "name": "Colin McSween",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

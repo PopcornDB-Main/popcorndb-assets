@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p2U4wScUValTXnvikXy7kfQNDsH.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 891,
+                "original_language": "en",
+                "original_title": "All the President's Men",
+                "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+                "popularity": 9.3472,
+                "poster_path": "/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+                "release_date": "1976-04-09",
+                "title": "All the President's Men",
+                "video": false,
+                "vote_average": 7.656,
+                "vote_count": 1925,
+                "character": "Bernard L. Barker",
+                "credit_id": "63a04c6cda10f01c51588172",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mO5rgg8mr4fUIMrZykwP2MjPVmZ.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    27
+                ],
+                "id": 27327,
+                "original_language": "en",
+                "original_title": "Phantom of the Paradise",
+                "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+                "popularity": 5.1675,
+                "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+                "release_date": "1974-10-31",
+                "title": "Phantom of the Paradise",
+                "video": false,
+                "vote_average": 7.482,
+                "vote_count": 703,
+                "character": "Nightwatchman",
+                "credit_id": "5ab7d7a0c3a3680a2801f4f9",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 13730,
+        "imdb_id": "nm0130806",
+        "known_for_department": "Acting",
+        "name": "Henry Calvert",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 640,
+                "original_language": "en",
+                "original_title": "Catch Me If You Can",
+                "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+                "popularity": 11.2084,
+                "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+                "release_date": "2002-12-16",
+                "title": "Catch Me If You Can",
+                "video": false,
+                "vote_average": 7.979,
+                "vote_count": 16345,
+                "character": "Captain Oliver",
+                "credit_id": "596bf3959251413b60006408",
+                "order": 74
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 881,
+                "original_language": "en",
+                "original_title": "A Few Good Men",
+                "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
+                "popularity": 5.6735,
+                "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+                "release_date": "1992-12-11",
+                "title": "A Few Good Men",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3874,
+                "character": "Jury Foreman",
+                "credit_id": "5df65689d1a893001479dbf2",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36
+                ],
+                "id": 359724,
+                "original_language": "en",
+                "original_title": "Ford v Ferrari",
+                "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+                "popularity": 13.8559,
+                "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                "release_date": "2019-11-13",
+                "title": "Ford v Ferrari",
+                "video": false,
+                "vote_average": 8.007,
+                "vote_count": 8493,
+                "character": "Edwin Turley",
+                "credit_id": "600cf99bdd83fa003f930754",
+                "order": 65
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1952-06-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 109762,
+        "imdb_id": "nm0613197",
+        "known_for_department": "Acting",
+        "name": "Jan Munroe",
+        "place_of_birth": "Iowa City, Iowa, USA",
+        "popularity": 0.2586,
+        "profile_path": "/xqMzbX29GHewe48va3eQdyGlJL7.jpg"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    53
+                ],
+                "id": 78,
+                "original_language": "en",
+                "original_title": "Blade Runner",
+                "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+                "popularity": 12.7734,
+                "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+                "release_date": "1982-06-25",
+                "title": "Blade Runner",
+                "video": false,
+                "vote_average": 7.941,
+                "vote_count": 14371,
+                "character": "Gaff",
+                "credit_id": "52fe4214c3a36847f80025ab",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kcBlY5FasH8ti150aYExULw53ui.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    36
+                ],
+                "id": 16052,
+                "original_language": "en",
+                "original_title": "Selena",
+                "overview": "In this biographical drama, Selena Quintanilla is born into a musical Mexican-American family in Texas. Her father, Abraham, realizes that his young daughter is talented and begins performing with her at small venues. She finds success and falls for her guitarist, Chris Perez, who draws the ire of her father. Seeking mainstream stardom, Selena begins recording an English-language album which, tragically, she would never complete.",
+                "popularity": 3.676,
+                "poster_path": "/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg",
+                "release_date": "1997-03-21",
+                "title": "Selena",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1262,
+                "character": "Abraham Quintanilla",
+                "credit_id": "52fe46999251416c7507d67f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    16,
+                    35,
+                    80,
+                    14
+                ],
+                "id": 10501,
+                "original_language": "en",
+                "original_title": "The Road to El Dorado",
+                "overview": "Stowing away after a failed con, a pair of swindlers end up on El Dorado, the fabled \"city of gold\", where they quickly get in over their heads when they are mistaken as gods by the inhabitants.",
+                "popularity": 9.1264,
+                "poster_path": "/ryXm7xp4aqQyda0FU2eMfHehPBg.jpg",
+                "release_date": "2000-03-31",
+                "title": "The Road to El Dorado",
+                "video": false,
+                "vote_average": 7.251,
+                "vote_count": 3889,
+                "character": "Chief (voice)",
+                "credit_id": "5846de1ec3a36844c000f5cc",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 335984,
+                "original_language": "en",
+                "original_title": "Blade Runner 2049",
+                "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+                "popularity": 20.9551,
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "release_date": "2017-10-04",
+                "title": "Blade Runner 2049",
+                "video": false,
+                "vote_average": 7.586,
+                "vote_count": 14390,
+                "character": "Gaff",
+                "credit_id": "58c7f555c3a3683df300ebb6",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    10402,
+                    12
+                ],
+                "id": 354912,
+                "original_language": "en",
+                "original_title": "Coco",
+                "overview": "Despite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+                "popularity": 21.5358,
+                "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+                "release_date": "2017-10-27",
+                "title": "Coco",
+                "video": false,
+                "vote_average": 8.202,
+                "vote_count": 20232,
+                "character": "Chicharr\u00f3n (voice)",
+                "credit_id": "59392ed9925141088e00fd20",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/w7MsyOpP003FYhsiTgVHa3rNsrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    10751
+                ],
+                "id": 508763,
+                "original_language": "en",
+                "original_title": "A Dog's Way Home",
+                "overview": "The adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
+                "popularity": 4.0395,
+                "poster_path": "/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",
+                "release_date": "2019-01-10",
+                "title": "A Dog's Way Home",
+                "video": false,
+                "vote_average": 7.387,
+                "vote_count": 1153,
+                "character": "Axel",
+                "credit_id": "5a99b5e992514128be00f837",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u042d\u0434\u0432\u0430\u0440\u0434 \u0414\u0436\u0435\u0439\u043c\u0441 \u041e\u043b\u043c\u043e\u0441",
+            "\u0627\u062f\u0648\u0631\u0627\u062f \u062c\u06cc\u0645\u0632 \u0627\u0648\u0644\u0645\u0648\u0633"
+        ],
+        "biography": "Edward James Olmos (born February 24, 1947) is an American actor, director, producer, and activist.  He is best known for his roles as Lieutenant Martin \"Marty\" Castillo in Miami Vice (1984\u20131989), actor in and director of American Me (1992), William Adama in the re-imagined Battlestar Galactica (2004\u20132009), teacher Jaime Escalante in Stand and Deliver (1988), and Detective Gaff in Blade Runner (1982), and its sequel Blade Runner 2049 (2017). In 2018, he played the father of two members of an outlaw motorcycle club in the FX series Mayans MC.\n\nFor his work in Miami Vice, Olmos won the 1985 Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series, as well as the Golden Globe Award for Best Supporting Actor \u2013 Series, Miniseries or Television Film. For his performance in Stand and Deliver, Olmos was nominated for a Golden Globe Award and the Academy Award for Best Actor in a Leading Role.\n\nHe is also known for his roles as patriarch Abraham Quintanilla in the film Selena, narrator El Pachuco in both the stage and film versions of Zoot Suit, and the voice of Chicharr\u00f3n in Coco.\n\nOver the course of his career, Olmos has been a pioneer for more diversified roles and images of Hispanics in the U.S. media. His notable direction, production, and starring roles for films, made-for-TV movies, and TV shows include Wolfen, Triumph of the Spirit, Talent for the Game, American Me, The Burning Season, My Family/Mi Familia, Caught, 12 Angry Men, The Disappearance of Garcia Lorca, Walkout, The Wonderful Ice Cream Suit, American Family, and Dexter.  Description above from the Wikipedia article\u00a0Edward James Olmos, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1947-02-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://edwardjamesolmos.com/",
+        "id": 587,
+        "imdb_id": "nm0001579",
+        "known_for_department": "Acting",
+        "name": "Edward James Olmos",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 1.8606,
+        "profile_path": "/mXnilUrQBIMLHSQkPjQk99mX70x.jpg"
+    }
+}

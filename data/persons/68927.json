@@ -1,0 +1,88 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 274,
+                "original_language": "en",
+                "original_title": "The Silence of the Lambs",
+                "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+                "popularity": 3.9428,
+                "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+                "release_date": "1991-02-14",
+                "title": "The Silence of the Lambs",
+                "video": false,
+                "vote_average": 8.347,
+                "vote_count": 17103,
+                "character": "Mr. Lang",
+                "credit_id": "52fe4230c3a36847f800ae61",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sgsW7aqUXg4jG2GcoLKotSvp807.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 24226,
+                "original_language": "en",
+                "original_title": "The Verdict",
+                "overview": "Frank Galvin is a down-on-his-luck lawyer and reduced to drinking and ambulance chasing, when a former associate reminds him of his obligations in a medical malpractice suit by serving it to Galvin on a silver platter\u2014all parties are willing to settle out of court. Blundering his way through the preliminaries, Galvin suddenly realizes that the case should actually go to court\u2014to punish the guilty, to get a decent settlement for his clients... and to restore his standing as a lawyer.",
+                "popularity": 4.6861,
+                "poster_path": "/m3DdNJZfBcsTiFe0SwsLChWavrG.jpg",
+                "release_date": "1982-12-08",
+                "title": "The Verdict",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 674,
+                "character": "Wheelchair Patient",
+                "credit_id": "619222a053866e008761e3cd",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11686,
+                "original_language": "en",
+                "original_title": "Love and Death",
+                "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+                "popularity": 2.3679,
+                "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+                "release_date": "1975-06-10",
+                "title": "Love and Death",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 927,
+                "character": "Father Andre",
+                "credit_id": "538cddebc3a36871550032d2",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1903-12-15",
+        "deathday": "1991-05-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 68927,
+        "imdb_id": "nm0502229",
+        "known_for_department": "Acting",
+        "name": "Leib Lensky",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.6934,
+        "profile_path": null
+    }
+}

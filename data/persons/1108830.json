@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 109424,
+                "original_language": "en",
+                "original_title": "Captain Phillips",
+                "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+                "popularity": 5.8353,
+                "poster_path": "/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+                "release_date": "2013-10-10",
+                "title": "Captain Phillips",
+                "video": false,
+                "vote_average": 7.538,
+                "vote_count": 7173,
+                "character": "Navy SEAL Group",
+                "credit_id": "62fdf41590cf51007f7c52f0",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ytclDXEffquvzjwNXbiYEU1b6F2.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 4643,
+                "original_language": "en",
+                "original_title": "The Guardian",
+                "overview": "A high school swim champion with a troubled past enrolls in the U.S. Coast Guard's 'A' School, where legendary rescue swimmer Ben Randall teaches him some hard lessons about loss, love, and self-sacrifice.",
+                "popularity": 4.9033,
+                "poster_path": "/zFhFjrckfmdb33VDeRykumMmebU.jpg",
+                "release_date": "2006-09-28",
+                "title": "The Guardian",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 1578,
+                "character": "Roger Cable",
+                "credit_id": "611dde73cc9683005c376081",
+                "order": 60
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1981-12-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1108830,
+        "imdb_id": "nm2399892",
+        "known_for_department": "Acting",
+        "name": "Roger Edwards",
+        "place_of_birth": "Oakland, California, USA",
+        "popularity": 1.7183,
+        "profile_path": "/ugqD5HLCH9oGLtNGvMikBlVaTsI.jpg"
+    }
+}

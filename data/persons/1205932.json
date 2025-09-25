@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6291,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "Motorcycle Raider",
+                "credit_id": "601586abbb1057003c92065f",
+                "order": 90
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "original_title": "Night of the Living Dead",
+                "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+                "popularity": 2.7691,
+                "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+                "release_date": "1968-10-04",
+                "title": "Night of the Living Dead",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2568,
+                "character": "Zombie",
+                "credit_id": "605ac09dd37197004060cbae",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/14h57Khhp9hi11aJivH58u5tFyR.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    878
+                ],
+                "id": 10925,
+                "original_language": "en",
+                "original_title": "The Return of the Living Dead",
+                "overview": "When foreman Frank shows new employee Freddy a secret military experiment in a supply warehouse in Louisville, Kentucky, the two klutzes accidentally release a gas that reanimates corpses into flesh-eating zombies. As the epidemic spreads throughout the town, and the creatures satisfy their hunger in gory and outlandish ways, Frank and Freddy fight to survive with the help of their boss and a mysterious mortician.",
+                "popularity": 4.2373,
+                "poster_path": "/oNsV9BychAe4Sk6xFKp558Rlpyz.jpg",
+                "release_date": "1985-04-25",
+                "title": "The Return of the Living Dead",
+                "video": false,
+                "vote_average": 7.182,
+                "vote_count": 2195,
+                "credit_id": "591613c2c3a368371b014094",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Rudy Ricci was an American writer and actor notable for his contributions to the horror genre. He co-wrote the story for The Return of the Living Dead (1985), a film that blended horror and comedy elements.  Ricci also appeared as a zombie in George A. Romero's Night of the Living Dead (1968) and portrayed a motorcycle raider in Dawn of the Dead (1978).  His work has left a lasting impact on horror cinema.",
+        "birthday": "1940-04-14",
+        "deathday": "2012-03-08",
+        "gender": 2,
+        "homepage": null,
+        "id": 1205932,
+        "imdb_id": "nm0723248",
+        "known_for_department": "Writing",
+        "name": "Rudy Ricci",
+        "place_of_birth": "McKeesport, Pennsylvania, USA",
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

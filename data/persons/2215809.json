@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 639721,
+                "original_language": "en",
+                "original_title": "The Addams Family 2",
+                "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+                "popularity": 6.0037,
+                "poster_path": "/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+                "release_date": "2021-10-01",
+                "title": "The Addams Family 2",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1352,
+                "character": "Pongo (voice)",
+                "credit_id": "6166b10cd43f01002a2cdee0",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 260513,
+                "original_language": "en",
+                "original_title": "Incredibles 2",
+                "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.",
+                "popularity": 22.17,
+                "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+                "release_date": "2018-06-14",
+                "title": "Incredibles 2",
+                "video": false,
+                "vote_average": 7.454,
+                "vote_count": 13263,
+                "character": "Additional Voices (voice)",
+                "credit_id": "682f4031c2aa37a24f343fa8",
+                "order": 41
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2215809,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Ted Evans",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

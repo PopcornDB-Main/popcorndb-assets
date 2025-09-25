@@ -1,0 +1,311 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c8P7vv4m4sFi5ul6Zppu9irnUVF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35
+                ],
+                "id": 11006,
+                "original_language": "en",
+                "original_title": "Smokey and the Bandit",
+                "overview": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+                "popularity": 3.7092,
+                "poster_path": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+                "release_date": "1977-05-27",
+                "title": "Smokey and the Bandit",
+                "video": false,
+                "vote_average": 6.979,
+                "vote_count": 756,
+                "character": "Little Enos",
+                "credit_id": "52fe43e19251416c75021b55",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mO5rgg8mr4fUIMrZykwP2MjPVmZ.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    27
+                ],
+                "id": 27327,
+                "original_language": "en",
+                "original_title": "Phantom of the Paradise",
+                "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+                "popularity": 4.7856,
+                "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+                "release_date": "1974-10-31",
+                "title": "Phantom of the Paradise",
+                "video": false,
+                "vote_average": 7.482,
+                "vote_count": 703,
+                "character": "Swan",
+                "credit_id": "52fe4541c3a368484e04fda1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    10402
+                ],
+                "id": 11176,
+                "original_language": "en",
+                "original_title": "The Muppet Movie",
+                "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+                "popularity": 2.6122,
+                "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+                "release_date": "1979-06-22",
+                "title": "The Muppet Movie",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 657,
+                "character": "El Sleazo Pianist",
+                "credit_id": "548012a59251416e7b0016a4",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.6067,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.119,
+                "vote_count": 1507,
+                "character": "Warhol PR",
+                "credit_id": "55d8a683c3a36832070024be",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oVD3ClJBoomSQHtnJPAlMfes8YD.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 339403,
+                "original_language": "en",
+                "original_title": "Baby Driver",
+                "overview": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+                "popularity": 10.7756,
+                "poster_path": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+                "release_date": "2017-06-28",
+                "title": "Baby Driver",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 16254,
+                "character": "The Butcher",
+                "credit_id": "594b11cfc3a36832ad005db3",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uehwVV9xuALZ2SXeHGiX4Ay5dR7.jpg",
+                "genre_ids": [
+                    878,
+                    16,
+                    28
+                ],
+                "id": 618355,
+                "original_language": "en",
+                "original_title": "Superman: Red Son",
+                "overview": "Set in the thick of the Cold War, Red Son introduces us to a Superman who landed in the USSR during the 1950s and grows up to become a Soviet symbol that fights for the preservation of Stalin\u2019s brand of communism.",
+                "popularity": 2.0466,
+                "poster_path": "/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg",
+                "release_date": "2020-02-24",
+                "title": "Superman: Red Son",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 861,
+                "character": "Brainiac (voice)",
+                "credit_id": "5effaa62f031740036577b28",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    10402
+                ],
+                "id": 11176,
+                "original_language": "en",
+                "original_title": "The Muppet Movie",
+                "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+                "popularity": 2.6122,
+                "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+                "release_date": "1979-06-22",
+                "title": "The Muppet Movie",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 657,
+                "credit_id": "52fe44089251416c75026aab",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mO5rgg8mr4fUIMrZykwP2MjPVmZ.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    27
+                ],
+                "id": 27327,
+                "original_language": "en",
+                "original_title": "Phantom of the Paradise",
+                "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+                "popularity": 4.7856,
+                "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+                "release_date": "1974-10-31",
+                "title": "Phantom of the Paradise",
+                "video": false,
+                "vote_average": 7.482,
+                "vote_count": 703,
+                "credit_id": "52fe4542c3a368484e04fddb",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mO5rgg8mr4fUIMrZykwP2MjPVmZ.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    27
+                ],
+                "id": 27327,
+                "original_language": "en",
+                "original_title": "Phantom of the Paradise",
+                "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+                "popularity": 4.7856,
+                "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+                "release_date": "1974-10-31",
+                "title": "Phantom of the Paradise",
+                "video": false,
+                "vote_average": 7.482,
+                "vote_count": 703,
+                "credit_id": "6526af01fd63005d7d91e0ad",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10751,
+                    14,
+                    18
+                ],
+                "id": 10437,
+                "original_language": "en",
+                "original_title": "The Muppet Christmas Carol",
+                "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+                "popularity": 3.2047,
+                "poster_path": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+                "release_date": "1992-12-11",
+                "title": "The Muppet Christmas Carol",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1070,
+                "credit_id": "6413e93ee18e3f08403d0a16",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    10402
+                ],
+                "id": 11176,
+                "original_language": "en",
+                "original_title": "The Muppet Movie",
+                "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+                "popularity": 2.6122,
+                "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+                "release_date": "1979-06-22",
+                "title": "The Muppet Movie",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 657,
+                "credit_id": "6413e97fe18e3f08403d0a39",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ppNc9wcpdHFvfxGuLeiXUpmB3oA.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    14,
+                    12,
+                    18,
+                    9648,
+                    878
+                ],
+                "id": 11704,
+                "original_language": "en",
+                "original_title": "The Secret of NIMH",
+                "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+                "popularity": 5.3554,
+                "poster_path": "/bqH0pbnt92C8WJ3lwLhllQZndeY.jpg",
+                "release_date": "1982-06-17",
+                "title": "The Secret of NIMH",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 879,
+                "credit_id": "67e08ff3f6a0fcbd004dc203",
+                "department": "Writing",
+                "job": "Lyricist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Paul Hamilton Williams Jr.",
+            "\u067e\u0627\u0626\u0648\u0644 \u0648\u06cc\u0644\u06cc\u0627\u0645\u0632"
+        ],
+        "biography": "Paul Hamilton Williams Jr. (born September 19, 1940) is an American composer, singer, songwriter, and actor. He is known for writing and co-writing popular songs performed by a number of acts in the 1970s, including Three Dog Night's \"An Old Fashioned Love Song\" and \"Out in the Country\", Helen Reddy's \"You and Me Against the World\", Biff Rose's \"Fill Your Heart\", and the Carpenters' \"We've Only Just Begun\" and \"Rainy Days and Mondays\".\n\nWilliams is also known for writing the score and lyrics for Bugsy Malone (1976) and his musical contributions to other films, including the Oscar-nominated song \"Rainbow Connection\" from The Muppet Movie, and writing the lyrics to the #1 chart-topping song \"Evergreen\", the love theme from the Barbra Streisand film A Star Is Born, for which he won a Grammy for Song of the Year and an Academy Award for Best Original Song. He wrote the lyrics to the opening theme for the television show The Love Boat, with music previously composed by Charles Fox, which was originally sung by Jack Jones and, later, by Dionne Warwick.\n\nWilliams had a variety of high-profile acting roles, such as Little Enos Burdette in the action-comedy Smokey and the Bandit (1977) and the villainous Swan in Brian De Palma's Phantom of the Paradise (1974), which Williams also co-scored, receiving an Oscar nomination in the process.[6] Since 2009, Williams has been the president and chairman of the American songwriting society ASCAP.\n\nFrom Wikipedia, the free encyclopedia",
+        "birthday": "1940-09-19",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.paulwilliamsofficial.com",
+        "id": 35040,
+        "imdb_id": "nm0931437",
+        "known_for_department": "Sound",
+        "name": "Paul Williams",
+        "place_of_birth": "Bennington, Omaha, Nebraska, USA",
+        "popularity": 2.4747,
+        "profile_path": "/x6O4XO0aaSapJvbNjMs1ON8pQLu.jpg"
+    }
+}

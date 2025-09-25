@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gcGaSXzmodu53ABb0wOWrVWjKeg.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1360,
+                "original_language": "en",
+                "original_title": "Frida",
+                "overview": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
+                "popularity": 4.1616,
+                "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+                "release_date": "2002-08-29",
+                "title": "Frida",
+                "video": false,
+                "vote_average": 7.402,
+                "vote_count": 2084,
+                "character": "Cristina Kahlo",
+                "credit_id": "52fe42eec3a36847f802dc41",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o6Ln9kTC4ZrHZNUhWLOwBfUvqXU.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1653,
+                "original_language": "es",
+                "original_title": "Diarios de motocicleta",
+                "overview": "Based on the journals of Che Guevara, leader of the Cuban Revolution. In his memoirs, Guevara recounts adventures he and best friend Alberto Granado had while crossing South America by motorcycle in the early 1950s.",
+                "popularity": 2.8384,
+                "poster_path": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+                "release_date": "2004-02-06",
+                "title": "The Motorcycle Diaries",
+                "video": false,
+                "vote_average": 7.423,
+                "vote_count": 1353,
+                "character": "Chichina Ferreyra",
+                "credit_id": "52fe4309c3a36847f803594f",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mia Maestro"
+        ],
+        "biography": "M\u00eda Maestro (born June 19, 1978) is an Argentine actress and singer. She is known for her roles as Nora Martinez in The Strain, as Nadia Santos in the television drama Alias, as Cristina Kahlo in Frida, as Chichina Ferreyra in The Motorcycle Diaries, and as Carmen in The Twilight Saga.",
+        "birthday": "1978-06-19",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "https://www.miamaestro.com/",
+        "id": 6859,
+        "imdb_id": "nm0535502",
+        "known_for_department": "Acting",
+        "name": "M\u00eda Maestro",
+        "place_of_birth": "Buenos Aires, Argentina",
+        "popularity": 0.8744,
+        "profile_path": "/qRbV2yIrviokWENK7yhzNGGiWrr.jpg"
+    }
+}

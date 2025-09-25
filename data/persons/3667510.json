@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yYEOYzgqPB31mkSsuPdCvXH3zHv.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 626332,
+                "original_language": "en",
+                "original_title": "Flamin' Hot",
+                "overview": "The inspiring true story of Richard Monta\u00f1ez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin' Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
+                "popularity": 4.6114,
+                "poster_path": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+                "release_date": "2023-03-11",
+                "title": "Flamin' Hot",
+                "video": false,
+                "vote_average": 7.964,
+                "vote_count": 761,
+                "character": "Steven Monta\u00f1ez",
+                "credit_id": "648549b3b6c264011ecda473",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 893723,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Mighty Movie",
+                "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+                "popularity": 8.8,
+                "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+                "release_date": "2023-09-21",
+                "title": "PAW Patrol: The Mighty Movie",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 510,
+                "character": "Tot (voice)",
+                "credit_id": "683a1eba01f41580d799b10a",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3667510,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Brice Gonz\u00e1lez",
+        "place_of_birth": null,
+        "popularity": 0.112,
+        "profile_path": null
+    }
+}

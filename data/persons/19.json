@@ -1,0 +1,250 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 12,
+                "original_language": "en",
+                "original_title": "Finding Nemo",
+                "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+                "popularity": 13.6566,
+                "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+                "release_date": "2003-05-30",
+                "title": "Finding Nemo",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 19911,
+                "character": "Peach (voice)",
+                "credit_id": "52fe420ec3a36847f8000685",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14,
+                "original_language": "en",
+                "original_title": "American Beauty",
+                "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+                "popularity": 9.2546,
+                "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+                "release_date": "1999-09-15",
+                "title": "American Beauty",
+                "video": false,
+                "vote_average": 8.005,
+                "vote_count": 12548,
+                "character": "Barbara Fitts",
+                "credit_id": "52fe420ec3a36847f80007ef",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 590,
+                "original_language": "en",
+                "original_title": "The Hours",
+                "overview": "The story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.",
+                "popularity": 3.5989,
+                "poster_path": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+                "release_date": "2002-12-27",
+                "title": "The Hours",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 1801,
+                "character": "Sally Lester",
+                "credit_id": "52fe4258c3a36847f80172e1",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 4951,
+                "original_language": "en",
+                "original_title": "10 Things I Hate About You",
+                "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+                "popularity": 11.2158,
+                "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+                "release_date": "1999-03-30",
+                "title": "10 Things I Hate About You",
+                "video": false,
+                "vote_average": 7.595,
+                "vote_count": 8523,
+                "character": "Ms. Perky",
+                "credit_id": "52fe43e6c3a36847f8077341",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 7326,
+                "original_language": "en",
+                "original_title": "Juno",
+                "overview": "Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.",
+                "popularity": 5.7708,
+                "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+                "release_date": "2007-12-05",
+                "title": "Juno",
+                "video": false,
+                "vote_average": 7.052,
+                "vote_count": 7373,
+                "character": "Bren MacGuff",
+                "credit_id": "52fe4479c3a36847f80984d7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 670292,
+                "original_language": "en",
+                "original_title": "The Creator",
+                "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war\u2014and mankind itself.",
+                "popularity": 9.3767,
+                "poster_path": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+                "release_date": "2023-09-27",
+                "title": "The Creator",
+                "video": false,
+                "vote_average": 7.035,
+                "vote_count": 3497,
+                "character": "Colonel Howell",
+                "credit_id": "61d8ad660d1e7f008c314c4d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k2ZdjMXmqnw4RJeh8cwxCvcznJZ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 50014,
+                "original_language": "en",
+                "original_title": "The Help",
+                "overview": "Aibileen Clark is a middle-aged African-American maid who has spent her life raising white children and has recently lost her only son; Minny Jackson is an African-American maid who has often offended her employers despite her family's struggles with money and her desperate need for jobs; and Eugenia \"Skeeter\" Phelan is a young white woman who has recently moved back home after graduating college to find out her childhood maid has mysteriously disappeared. These three stories intertwine to explain how life in Jackson, Mississippi revolves around \"the help\"; yet they are always kept at a certain distance because of racial lines.",
+                "popularity": 11.3368,
+                "poster_path": "/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg",
+                "release_date": "2011-08-09",
+                "title": "The Help",
+                "video": false,
+                "vote_average": 8.204,
+                "vote_count": 8680,
+                "character": "Charlotte Phelan",
+                "credit_id": "52fe47b5c3a36847f814407b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bPm5kQLlc2KypdYkUxGbrGfLJ82.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 147773,
+                "original_language": "en",
+                "original_title": "The Way Way Back",
+                "overview": "Shy 14-year-old Duncan goes on summer vacation with his mother, her overbearing boyfriend, and her boyfriend's daughter. Having a rough time fitting in, Duncan finds an unexpected friend in Owen, manager of the Water Wizz water park.",
+                "popularity": 3.4513,
+                "poster_path": "/4DgA0EDDVv37C8xISc3Vv0rhxlL.jpg",
+                "release_date": "2013-06-06",
+                "title": "The Way Way Back",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 1857,
+                "character": "Betty Thompson",
+                "credit_id": "52fe4bb39251416c7510b39b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o11rDwFa7nZMVI57Mm3C44YwmmF.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 127380,
+                "original_language": "en",
+                "original_title": "Finding Dory",
+                "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+                "popularity": 7.1829,
+                "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+                "release_date": "2016-06-16",
+                "title": "Finding Dory",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 12360,
+                "character": "Peach (voice)",
+                "credit_id": "575a9ef8c3a3683ada000fa7",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gXIuss4Ajlex0E6iJPjkSTR8Qip.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 389015,
+                "original_language": "en",
+                "original_title": "I, Tonya",
+                "overview": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
+                "popularity": 3.5328,
+                "poster_path": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+                "release_date": "2017-12-07",
+                "title": "I, Tonya",
+                "video": false,
+                "vote_average": 7.478,
+                "vote_count": 5980,
+                "character": "LaVona",
+                "credit_id": "58542d209251416f10033403",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc568\ub9ac\uc2a8 \uc81c\ub2c8",
+            "\u827e\u8389\u68ee\u00b7\u73cd\u59ae",
+            "Allison Brooks Janney",
+            "\u0627\u0644\u06cc\u0633\u0648\u0646 \u062c\u0646\u06cc"
+        ],
+        "biography": "Allison Brooks Janney (born November 19, 1959) is an American actress. In a career spanning three decades, she is known for her performances across multiple genres of screen and stage. Janney has received various accolades, including an Academy Award, a British Academy Film Award, a Golden Globe Award, and seven Primetime Emmy Awards, in addition to nominations for two Tony Awards.\n\nBorn in Boston and raised in Dayton, Ohio, Janney received a scholarship to study at the Royal Academy of Dramatic Art following her graduation from Kenyon College. After years of minor and uncredited film and television appearances, Janney's breakthrough came with the role of C. J. Cregg in the NBC political drama The West Wing (1999\u20132006), for which she received four Primetime Emmy Awards. In 2014, she won the Primetime Emmy Award for Outstanding Guest Actress in a Drama Series for her role as Margaret Scully on the Showtime period drama Masters of Sex. For her portrayal of Bonnie Plunkett, a cynical recovering addict on the CBS sitcom Mom (2013\u20132021), Janney received six Primetime Emmy Award nominations and won twice for Outstanding Supporting Actress in a Comedy Series.\n\nJanney made her professional stage debut with the Off-Broadway production Ladies (1989), and followed with numerous bit parts in various similar productions, before making her Broadway debut with the 1996 revival of Present Laughter. She won two Drama Desk Awards and has been nominated for two Tony Awards: for Best Actress in a Play for her performance in the Broadway revival of A View from the Bridge (1997), and for Best Actress in a Musical for her role in the original Broadway production of the musical 9 to 5 (2009).\n\nHer film roles include Private Parts (1997), Primary Colors (1998), 10 Things I Hate About You (1999), Drop Dead Gorgeous (1999), American Beauty (1999), Nurse Betty (2000), The Hours (2002), Hairspray (2007), Juno (2007), The Help (2011), The Way, Way Back (2013), Tammy (2014), The Rewrite (2014), Spy (2015), Tallulah (2016), The Girl on the Train (2016), Bad Education (2019) and Bombshell (2019). She voiced roles in Finding Nemo (2003), Over the Hedge (2006), Minions (2015), and The Addams Family (2019). For her performance in the black comedy I, Tonya (2017), Janney won an Academy Award, a BAFTA Award, and a Golden Globe Award, all for Best Supporting Actress.",
+        "birthday": "1959-11-19",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 19,
+        "imdb_id": "nm0005049",
+        "known_for_department": "Acting",
+        "name": "Allison Janney",
+        "place_of_birth": "Boston, Massachusetts, USA",
+        "popularity": 1.571,
+        "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+    }
+}

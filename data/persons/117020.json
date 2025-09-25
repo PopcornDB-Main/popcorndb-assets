@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3sRj3VnrSUYhp6j1V43LXgKKdux.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 227306,
+                "original_language": "en",
+                "original_title": "Unbroken",
+                "overview": "A chronicle of the life of Louis Zamperini, an Olympic runner who was taken prisoner by Japanese forces during World War II.",
+                "popularity": 5.3619,
+                "poster_path": "/vAlHUjHwLWMV5mg4epGR9WSIfiy.jpg",
+                "release_date": "2014-12-25",
+                "title": "Unbroken",
+                "video": false,
+                "vote_average": 7.428,
+                "vote_count": 4223,
+                "character": "Bully",
+                "credit_id": "548087b7c3a36829a7002d1f",
+                "order": 45
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hVvW015x8cD2X0KthGovw27EpF2.jpg",
+                "genre_ids": [
+                    10402,
+                    10749,
+                    35
+                ],
+                "id": 2769,
+                "original_language": "en",
+                "original_title": "An American in Paris",
+                "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+                "popularity": 4.0564,
+                "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+                "release_date": "1951-09-26",
+                "title": "An American in Paris",
+                "video": false,
+                "vote_average": 7.026,
+                "vote_count": 606,
+                "credit_id": "666349e860b6cc6fbb08ad7e",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 117020,
+        "imdb_id": "nm0550925",
+        "known_for_department": "Sound",
+        "name": "Jack Marshall",
+        "place_of_birth": null,
+        "popularity": 0.0628,
+        "profile_path": null
+    }
+}

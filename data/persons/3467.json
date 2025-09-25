@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/iiusvOLB4ytkZ6FSFMlGHvt33uW.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35
+                ],
+                "id": 252,
+                "original_language": "en",
+                "original_title": "Willy Wonka & the Chocolate Factory",
+                "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+                "popularity": 6.5103,
+                "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+                "release_date": "1971-06-29",
+                "title": "Willy Wonka & the Chocolate Factory",
+                "video": false,
+                "vote_average": 7.478,
+                "vote_count": 3764,
+                "character": "Mr. Beauregarde",
+                "credit_id": "52fe422dc3a36847f800a02d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.3848,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 1337,
+                "character": "Charles",
+                "credit_id": "52fe44b49251416c7503e2b1",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Leonard Stone (born Leonard Steinbock; November 3, 1923 \u2013 November 2, 2011) was an American character actor who played supporting roles in over 120 television shows and 35 films.",
+        "birthday": "1923-11-03",
+        "deathday": "2011-11-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 3467,
+        "imdb_id": "nm0832007",
+        "known_for_department": "Acting",
+        "name": "Leonard Stone",
+        "place_of_birth": " Salem, Oregon, USA",
+        "popularity": 0.3511,
+        "profile_path": "/wjcAfMlcIry9YOdmrlaSCA3F6PQ.jpg"
+    }
+}

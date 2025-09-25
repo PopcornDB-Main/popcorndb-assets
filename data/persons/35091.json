@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.113,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.05,
+                "vote_count": 10701,
+                "character": "Counsel",
+                "credit_id": "6328af4ed7a70a007c79bfe9",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qKWQ9IEDkMawD7sgKnIGCdFAhct.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    18,
+                    10752
+                ],
+                "id": 8963,
+                "original_language": "en",
+                "original_title": "Crimson Tide",
+                "overview": "After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsey insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.",
+                "popularity": 6.0646,
+                "poster_path": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+                "release_date": "1995-05-12",
+                "title": "Crimson Tide",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1868,
+                "character": "Petty Officer Hilaire",
+                "credit_id": "595c12659251410a5905e6c0",
+                "order": 44
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u65af\u79d1\u7279\u00b7\u683c\u745e\u6069\u65af"
+        ],
+        "biography": "Scott Grimes (born July 9, 1971) is an American actor, voice artist and musician. Some of his most prominent roles are his appearances on ER, Party of Five, Band of Brothers, and American Dad.",
+        "birthday": "1971-07-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 35091,
+        "imdb_id": "nm0342241",
+        "known_for_department": "Acting",
+        "name": "Scott Grimes",
+        "place_of_birth": "Lowell, Massachusetts, USA",
+        "popularity": 1.3033,
+        "profile_path": "/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ct2I74zKDrK1Ts2jJa9WixJrigg.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 440472,
+                "original_language": "en",
+                "original_title": "The Upside",
+                "overview": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
+                "popularity": 5.4825,
+                "poster_path": "/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+                "release_date": "2019-01-10",
+                "title": "The Upside",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1333,
+                "character": "Applicant #4",
+                "credit_id": "5a865fdcc3a3686316033171",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jRqHItD7rORpbB0lx2ke8StSntb.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 552178,
+                "original_language": "en",
+                "original_title": "Dark Waters",
+                "overview": "A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths to one of the world's largest corporations. In the process, he risks everything \u2014 his future, his family, and his own life \u2014 to expose the truth.",
+                "popularity": 5.7192,
+                "poster_path": "/bzvzaHqKBSuGIIWhinTQPHvT0zf.jpg",
+                "release_date": "2019-11-22",
+                "title": "Dark Waters",
+                "video": false,
+                "vote_average": 7.539,
+                "vote_count": 2347,
+                "character": "David",
+                "credit_id": "5e4a721e1e92250018c42111",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 92803,
+        "imdb_id": "nm3125601",
+        "known_for_department": "Acting",
+        "name": "Brian Gallagher",
+        "place_of_birth": null,
+        "popularity": 0.082,
+        "profile_path": "/wysCc9RAfTNuM3vZg5ljgrCG9fx.jpg"
+    }
+}

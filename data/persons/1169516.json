@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7RxhC2ntrglVl1nkKjAgNoO0XP.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 998022,
+                "original_language": "de",
+                "original_title": "Das Lehrerzimmer",
+                "overview": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
+                "popularity": 3.0872,
+                "poster_path": "/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg",
+                "release_date": "2023-05-04",
+                "title": "The Teachers' Lounge",
+                "video": false,
+                "vote_average": 7.238,
+                "vote_count": 604,
+                "character": "Dr. Bettina B\u00f6hm",
+                "credit_id": "62c9f586595a56094ee317f9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n4S9IhJI3UTq5GQMFg7qwC3kcI3.jpg",
+                "genre_ids": [
+                    18,
+                    9648
+                ],
+                "id": 37903,
+                "original_language": "de",
+                "original_title": "Das wei\u00dfe Band - Eine deutsche Kindergeschichte",
+                "overview": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
+                "popularity": 2.8708,
+                "poster_path": "/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+                "release_date": "2009-09-24",
+                "title": "The White Ribbon",
+                "video": false,
+                "vote_average": 7.488,
+                "vote_count": 1067,
+                "character": "Eva's Mother",
+                "credit_id": "59765884c3a3680d2b019e9f",
+                "order": 36
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1964-01-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1169516,
+        "imdb_id": "nm1178556",
+        "known_for_department": "Acting",
+        "name": "Anne-Kathrin Gummich",
+        "place_of_birth": "Berlin, East Germany",
+        "popularity": 0.0964,
+        "profile_path": "/l7qUsGVIPVODcPqHO6HclK9NkUI.jpg"
+    }
+}

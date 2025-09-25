@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/s2Cu1y9Al9RbwRU5blAH8wMCrBI.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    9648
+                ],
+                "id": 45612,
+                "original_language": "en",
+                "original_title": "Source Code",
+                "overview": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
+                "popularity": 9.3903,
+                "poster_path": "/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+                "release_date": "2011-03-30",
+                "title": "Source Code",
+                "video": false,
+                "vote_average": 7.302,
+                "vote_count": 8693,
+                "character": "Conductor",
+                "credit_id": "52fe46cbc3a36847f81129c7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/emsVRCzClwdu30KP2lQkMaFMAxI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 10130,
+                "original_language": "en",
+                "original_title": "Gorillas in the Mist",
+                "overview": "The story of Dian Fossey, a scientist who came to Africa to study the vanishing mountain gorillas, and later fought to protect them.",
+                "popularity": 2.0819,
+                "poster_path": "/utptKpx6cXxmbEGu4N4HIoSZ6IS.jpg",
+                "release_date": "1988-09-23",
+                "title": "Gorillas in the Mist",
+                "video": false,
+                "vote_average": 7.003,
+                "vote_count": 616,
+                "character": "Photographer",
+                "credit_id": "5835990cc3a36828710160a4",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Gordon James Masten"
+        ],
+        "biography": "James Gordon Masten (August 30, 1950 - July 26, 2020) was a Canadian actor and voice actor.",
+        "birthday": "1950-08-30",
+        "deathday": "2020-07-26",
+        "gender": 2,
+        "homepage": null,
+        "id": 179421,
+        "imdb_id": "nm0557619",
+        "known_for_department": "Acting",
+        "name": "Gordon Masten",
+        "place_of_birth": "Lacolle, Qu\u00e9bec, Canada",
+        "popularity": 0.1461,
+        "profile_path": null
+    }
+}

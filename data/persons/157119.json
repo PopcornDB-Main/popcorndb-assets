@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 68734,
+                "original_language": "en",
+                "original_title": "Argo",
+                "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+                "popularity": 4.5663,
+                "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+                "release_date": "2012-10-11",
+                "title": "Argo",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 8597,
+                "character": "Hal Saunders",
+                "credit_id": "52fe47a1c3a368484e0d1c19",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    35,
+                    53,
+                    80
+                ],
+                "id": 941,
+                "original_language": "en",
+                "original_title": "Lethal Weapon",
+                "overview": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces.",
+                "popularity": 7.0058,
+                "poster_path": "/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
+                "release_date": "1987-03-06",
+                "title": "Lethal Weapon",
+                "video": false,
+                "vote_average": 7.285,
+                "vote_count": 4778,
+                "character": "Beat Cop",
+                "credit_id": "5f6a3046c4ad590036fdbd00",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.buffalojumpproductions.com/",
+        "id": 157119,
+        "imdb_id": "nm0436105",
+        "known_for_department": "Acting",
+        "name": "Bill Kalmenson",
+        "place_of_birth": null,
+        "popularity": 0.3902,
+        "profile_path": "/oxiwLtPqMle4wgNmgVvst7hXNVu.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg",
+                "genre_ids": [
+                    53,
+                    36,
+                    18
+                ],
+                "id": 522241,
+                "original_language": "en",
+                "original_title": "The Courier",
+                "overview": "Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.",
+                "popularity": 3.9675,
+                "poster_path": "/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg",
+                "release_date": "2020-01-24",
+                "title": "The Courier",
+                "video": false,
+                "vote_average": 7.046,
+                "vote_count": 1222,
+                "character": "Lovett",
+                "credit_id": "61a0a338be4b360029a843d3",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 37724,
+                "original_language": "en",
+                "original_title": "Skyfall",
+                "overview": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+                "popularity": 12.9214,
+                "poster_path": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+                "release_date": "2012-10-24",
+                "title": "Skyfall",
+                "video": false,
+                "vote_average": 7.254,
+                "vote_count": 15612,
+                "character": "Q's Assistant",
+                "credit_id": "5fecdac60f36550040aa95ae",
+                "order": 41
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Oliver Johnston"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1470702,
+        "imdb_id": "nm4916360",
+        "known_for_department": "Acting",
+        "name": "Oliver Johnstone",
+        "place_of_birth": null,
+        "popularity": 0.9497,
+        "profile_path": "/MneN7rLXYJ6fuuuFVYV73mTskL.jpg"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 2640,
+                "original_language": "en",
+                "original_title": "Heathers",
+                "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+                "popularity": 4.9217,
+                "poster_path": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+                "release_date": "1988-10-01",
+                "title": "Heathers",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 1793,
+                "character": "Kurt's Dad",
+                "credit_id": "52fe4361c3a36847f805002f",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 6.3886,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 5425,
+                "character": "Miller",
+                "credit_id": "5d600026e375c03edc1c3e8e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 8.61,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 6102,
+                "character": "Bartender",
+                "credit_id": "5e777625357c00001650a65b",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1945-01-15",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 94557,
+        "imdb_id": "nm0138210",
+        "known_for_department": "Acting",
+        "name": "Mark Carlton",
+        "place_of_birth": "Tuscaloosa, Alabama, USA",
+        "popularity": 1.7168,
+        "profile_path": null
+    }
+}

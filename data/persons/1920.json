@@ -1,0 +1,363 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 162,
+                "original_language": "en",
+                "original_title": "Edward Scissorhands",
+                "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+                "popularity": 10.8889,
+                "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+                "release_date": "1990-12-07",
+                "title": "Edward Scissorhands",
+                "video": false,
+                "vote_average": 7.719,
+                "vote_count": 13316,
+                "character": "Kim",
+                "credit_id": "52fe4221c3a36847f8006253",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s7lwxcX5iZuOdoQhM77WyQaPtWv.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 339,
+                "original_language": "en",
+                "original_title": "Night on Earth",
+                "overview": "A quintet of cabbies in five cities and their remarkable fares on the same eventful night.",
+                "popularity": 2.8728,
+                "poster_path": "/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
+                "release_date": "1991-12-12",
+                "title": "Night on Earth",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 973,
+                "character": "Corky",
+                "credit_id": "52fe4239c3a36847f800da39",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/im6mZxeUMq71cBqqQmzLGDVdIXd.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 2259,
+                "original_language": "en",
+                "original_title": "The House of the Spirits",
+                "overview": "A rancher, his clairvoyant wife and their family face turbulent years in South America.",
+                "popularity": 3.7207,
+                "poster_path": "/pS5xqILNBxcjRqLZROIkO4wszrU.jpg",
+                "release_date": "1993-10-21",
+                "title": "The House of the Spirits",
+                "video": false,
+                "vote_average": 6.936,
+                "vote_count": 711,
+                "character": "Blanca Trueba",
+                "credit_id": "52fe4346c3a36847f8047e0b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ajKmVMSIr0BgRKn8tLSdIFrptTX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 3558,
+                "original_language": "en",
+                "original_title": "Girl, Interrupted",
+                "overview": "Set in the changing world of the late 1960s, Susanna Kaysen's prescribed \"short rest\" from a psychiatrist she had met only once becomes a strange, unknown journey into Alice's Wonderland, where she struggles with the thin line between normal and crazy. Susanna soon realizes how hard it is to get out once she has been committed, and she ultimately has to choose between the world of people who belong inside or the difficult world of reality outside.",
+                "popularity": 4.9369,
+                "poster_path": "/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+                "release_date": "1999-12-21",
+                "title": "Girl, Interrupted",
+                "video": false,
+                "vote_average": 7.568,
+                "vote_count": 3987,
+                "character": "Susanna",
+                "credit_id": "52fe439cc3a36847f80618bb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 2640,
+                "original_language": "en",
+                "original_title": "Heathers",
+                "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+                "popularity": 4.6428,
+                "poster_path": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+                "release_date": "1988-10-01",
+                "title": "Heathers",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1790,
+                "character": "Veronica Sawyer",
+                "credit_id": "52fe4361c3a36847f804ffcb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+                "genre_ids": [
+                    14,
+                    35
+                ],
+                "id": 4011,
+                "original_language": "en",
+                "original_title": "Beetlejuice",
+                "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+                "popularity": 8.3153,
+                "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+                "release_date": "1988-03-30",
+                "title": "Beetlejuice",
+                "video": false,
+                "vote_average": 7.372,
+                "vote_count": 8050,
+                "character": "Lydia",
+                "credit_id": "52fe43abc3a36847f8066743",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/auR595U8Inw58Fg2NuZMP05lYcV.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 10436,
+                "original_language": "en",
+                "original_title": "The Age of Innocence",
+                "overview": "In 19th century New York high society, a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+                "popularity": 3.4062,
+                "poster_path": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+                "release_date": "1993-09-10",
+                "title": "The Age of Innocence",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1149,
+                "character": "May Welland",
+                "credit_id": "52fe43709251416c750106a1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lmMVUuu2hHX6qrpcusiuSGU8HaC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 9587,
+                "original_language": "en",
+                "original_title": "Little Women",
+                "overview": "With their father away as a chaplain in the Civil War, Jo, Meg, Beth and Amy grow up with their mother in somewhat reduced circumstances. They are a close family who inevitably have their squabbles and tragedies. But the bond holds even when, later, male friends start to become a part of the household.",
+                "popularity": 3.694,
+                "poster_path": "/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg",
+                "release_date": "1994-12-21",
+                "title": "Little Women",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1275,
+                "character": "Jo March",
+                "credit_id": "52fe450dc3a36847f80b9a15",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 13475,
+                "original_language": "en",
+                "original_title": "Star Trek",
+                "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "popularity": 9.6898,
+                "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+                "release_date": "2009-05-06",
+                "title": "Star Trek",
+                "video": false,
+                "vote_average": 7.426,
+                "vote_count": 10139,
+                "character": "Amanda Grayson",
+                "credit_id": "52fe456c9251416c75056179",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 62214,
+                "original_language": "en",
+                "original_title": "Frankenweenie",
+                "overview": "When a car hits young Victor's pet dog Sparky, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked \"monster\" wreaks havoc and terror in the hearts of Victor's neighbors, he has to convince them that Sparky's still the good, loyal friend he was.",
+                "popularity": 6.5974,
+                "poster_path": "/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg",
+                "release_date": "2012-10-04",
+                "title": "Frankenweenie",
+                "video": false,
+                "vote_average": 7.001,
+                "vote_count": 3463,
+                "character": "Elsa Van Helsing (voice)",
+                "credit_id": "52fe4676c3a368484e091f53",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    27
+                ],
+                "id": 44214,
+                "original_language": "en",
+                "original_title": "Black Swan",
+                "overview": "The story of Nina, a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her retired ballerina mother Erica who zealously supports her daughter's professional ambition. When artistic director Thomas Leroy decides to replace prima ballerina Beth MacIntyre for the opening production of their new season, Swan Lake, Nina is his first choice.",
+                "popularity": 7.9638,
+                "poster_path": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+                "release_date": "2010-12-03",
+                "title": "Black Swan",
+                "video": false,
+                "vote_average": 7.688,
+                "vote_count": 15007,
+                "character": "Beth Macintyre / The Dying Swan",
+                "credit_id": "52fe467ec3a36847f8102155",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    14
+                ],
+                "id": 917496,
+                "original_language": "en",
+                "original_title": "Beetlejuice Beetlejuice",
+                "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+                "popularity": 12.7667,
+                "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+                "release_date": "2024-09-04",
+                "title": "Beetlejuice Beetlejuice",
+                "video": false,
+                "vote_average": 6.983,
+                "vote_count": 2734,
+                "character": "Lydia",
+                "credit_id": "645d34b577d23b01365fa6de",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kT8orKwz2bmRdHBLnG44yucYtFy.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 204082,
+                "original_language": "en",
+                "original_title": "Homefront",
+                "overview": "Phil Broker is a former DEA agent who has gone through a crisis after his action against a biker gang went horribly wrong and it cost the life of his boss' son. He is recently widowed and is left with a 9-years-old daughter, Maddy. He decides to quit the turbulent and demanding life of thrill for Maddy's sake and retires to a small town. His daughter fights off a boy who was bullying her at school and this sets in motion a round of events that end in his direct confrontation with the local Meth drug lord. His past history with the biker gang also enters the arena, making matters more complex. But he has a mission in his mind to protect his daughter and he is ready to pay any cost that it demands.",
+                "popularity": 11.5808,
+                "poster_path": "/6pF8D9bDIAmuHgCqGKEfuNWRQam.jpg",
+                "release_date": "2013-11-12",
+                "title": "Homefront",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 3646,
+                "character": "Sheryl Marie Mott",
+                "credit_id": "52fe4cecc3a368484e1cd1a7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+                "genre_ids": [
+                    10749,
+                    27
+                ],
+                "id": 6114,
+                "original_language": "en",
+                "original_title": "Bram Stoker's Dracula",
+                "overview": "In 19th century England, Count Dracula travels to London and meets Mina Harker, a young woman who appears as the reincarnation of his lost love.",
+                "popularity": 7.7561,
+                "poster_path": "/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+                "release_date": "1992-11-13",
+                "title": "Bram Stoker's Dracula",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 5436,
+                "character": "Mina Murray / Elisabeta",
+                "credit_id": "5e8d5f32ce997a0013b8ba7b",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ajKmVMSIr0BgRKn8tLSdIFrptTX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 3558,
+                "original_language": "en",
+                "original_title": "Girl, Interrupted",
+                "overview": "Set in the changing world of the late 1960s, Susanna Kaysen's prescribed \"short rest\" from a psychiatrist she had met only once becomes a strange, unknown journey into Alice's Wonderland, where she struggles with the thin line between normal and crazy. Susanna soon realizes how hard it is to get out once she has been committed, and she ultimately has to choose between the world of people who belong inside or the difficult world of reality outside.",
+                "popularity": 4.9369,
+                "poster_path": "/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+                "release_date": "1999-12-21",
+                "title": "Girl, Interrupted",
+                "video": false,
+                "vote_average": 7.568,
+                "vote_count": 3987,
+                "credit_id": "583a0746c3a36843df008021",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Wynona Ryder",
+            "Winona Laura Horowitz",
+            "\u30a6\u30a3\u30ce\u30ca \u30e9\u30a4\u30c0\u30fc",
+            "\u30a6\u30a3\u30ce\u30ca\u30fb\u30ed\u30fc\u30e9\u30fb\u30db\u30ed\u30a6\u30a3\u30c3\u30c4",
+            "\u0648\u06cc\u0646\u0648\u0646\u0627 \u0631\u0627\u06cc\u062f\u0631"
+        ],
+        "biography": "Winona Laura Horowitz, known professionally as Winona Ryder, is an American actress. She is the recipient of several awards, including a Golden Globe Award, and has been nominated for two Academy Awards. She is known for taking on quirky roles in her earlier films, later playing more prominent roles in the 1990s.\n\nAfter Ryder's film debut in Lucas (1986), she gained attention with her performance in Tim Burton's Beetlejuice (1988). She further rose to prominence with major roles in Heathers (1989), Mermaids (1990), Edward Scissorhands (1990), and Bram Stoker's Dracula (1992). She garnered critical acclaim and two consecutive Academy Award nominations for her portrayals of socialite May Welland in Martin Scorsese's The Age of Innocence (1993) and Jo March in the fifth film adaptation of Little Women (1994). Her other films during this period were Reality Bites (1994), How to Make an American Quilt (1995), The Crucible (1996), Alien Resurrection (1997), Celebrity (1998), and Girl, Interrupted (1999), which she also executive-produced.\n\nIn 2002, Ryder starred in the critically panned box office hit Mr. Deeds, after which her career declined and she took a break from films. In 2009, she returned in the high-profile film Star Trek. In 2010, she was nominated for two Screen Actors Guild Awards: as the lead actress in the television film When Love Is Not Enough: The Lois Wilson Story and as part of the cast of Black Swan. She also reunited with Burton for Frankenweenie (2012). She has starred as Joyce Byers in the Netflix science fiction horror series Stranger Things (2016\u2013present), for which she has received Golden Globe and Screen Actors Guild nominations; and in 2020, she starred in the HBO drama miniseries The Plot Against America.\n\nHer relationship with Johnny Depp in the early 1990s and a 2001 arrest for shoplifting were both subjects of tabloid journalism. She has been open about her personal struggles with anxiety and depression. In 2000, Ryder received a star on the Hollywood Walk of Fame.",
+        "birthday": "1971-10-29",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1920,
+        "imdb_id": "nm0000213",
+        "known_for_department": "Acting",
+        "name": "Winona Ryder",
+        "place_of_birth": "Winona, Minnesota, USA",
+        "popularity": 2.7854,
+        "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+    }
+}

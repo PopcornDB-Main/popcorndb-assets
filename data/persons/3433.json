@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    53,
+                    9648,
+                    10749
+                ],
+                "id": 251,
+                "original_language": "en",
+                "original_title": "Ghost",
+                "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+                "popularity": 8.268,
+                "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+                "release_date": "1990-07-13",
+                "title": "Ghost",
+                "video": false,
+                "vote_average": 7.226,
+                "vote_count": 5774,
+                "character": "Emergency Room Ghost",
+                "credit_id": "52fe422dc3a36847f8009f97",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    53
+                ],
+                "id": 805,
+                "original_language": "en",
+                "original_title": "Rosemary's Baby",
+                "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+                "popularity": 3.3933,
+                "poster_path": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+                "release_date": "1968-06-12",
+                "title": "Rosemary's Baby",
+                "video": false,
+                "vote_average": 7.825,
+                "vote_count": 4132,
+                "character": "Dr. Shand",
+                "credit_id": "52fe4279c3a36847f80215f3",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1916-04-06",
+        "deathday": "1998-08-16",
+        "gender": 2,
+        "homepage": null,
+        "id": 3433,
+        "imdb_id": "nm0498609",
+        "known_for_department": "Acting",
+        "name": "Phil Leeds",
+        "place_of_birth": null,
+        "popularity": 0.3684,
+        "profile_path": "/hcPPhwWl12wKYWHCwrKVURWugjn.jpg"
+    }
+}

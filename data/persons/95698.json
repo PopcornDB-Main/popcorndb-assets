@@ -1,0 +1,75 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 1726,
+                "original_language": "en",
+                "original_title": "Iron Man",
+                "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+                "popularity": 16.604,
+                "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+                "release_date": "2008-04-30",
+                "title": "Iron Man",
+                "video": false,
+                "vote_average": 7.654,
+                "vote_count": 27317,
+                "character": "Jimmy",
+                "credit_id": "52fe4311c3a36847f8037f4b",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/f1azMRlp6YOLHf2PkzukyGPcpnX.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 718032,
+                "original_language": "en",
+                "original_title": "Licorice Pizza",
+                "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+                "popularity": 9.176,
+                "poster_path": "/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+                "release_date": "2021-11-26",
+                "title": "Licorice Pizza",
+                "video": false,
+                "vote_average": 6.962,
+                "vote_count": 2442,
+                "credit_id": "6566949089d97f00e173336c",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kevin \"Reno\" Foster",
+            "Kevin Reno Foster",
+            "Kevin 'Reno' Foster",
+            "Kevin R. Foster"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 95698,
+        "imdb_id": "nm1080555",
+        "known_for_department": "Acting",
+        "name": "Kevin Foster",
+        "place_of_birth": "Las Vegas, Nevada, USA",
+        "popularity": 0.1803,
+        "profile_path": "/x2HRAzaFtIPUnuuX4GjOukyg0O5.jpg"
+    }
+}

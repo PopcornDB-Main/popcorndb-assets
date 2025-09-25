@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2256,
+                "character": "B Team Shooter",
+                "credit_id": "6245022b470ead00475b7830",
+                "order": 82
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.445,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "New Haven Cop",
+                "credit_id": "62450265f263ba008acd7a7f",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 3.153,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.196,
+                "vote_count": 1172,
+                "character": "Stanley",
+                "credit_id": "5e1f4a8fe24e3a0010e7d31b",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2013971,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Stanley White",
+        "place_of_birth": null,
+        "popularity": 0.0363,
+        "profile_path": null
+    }
+}

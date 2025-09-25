@@ -1,0 +1,363 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 17.5242,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 23539,
+                "character": "Bomb Truck Driver",
+                "credit_id": "5621a64ac3a3680e100095a7",
+                "order": 75
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 318846,
+                "original_language": "en",
+                "original_title": "The Big Short",
+                "overview": "The men who made millions from a global economic meltdown.",
+                "popularity": 10.3106,
+                "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+                "release_date": "2015-12-11",
+                "title": "The Big Short",
+                "video": false,
+                "vote_average": 7.359,
+                "vote_count": 9395,
+                "character": "Man Stealing Cab",
+                "credit_id": "578b1b289251413264003b8a",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 114,
+                "original_language": "en",
+                "original_title": "Pretty Woman",
+                "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+                "popularity": 8.5335,
+                "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+                "release_date": "1990-03-23",
+                "title": "Pretty Woman",
+                "video": false,
+                "vote_average": 7.46,
+                "vote_count": 8618,
+                "character": "Usher",
+                "credit_id": "5e4086dd3dd1260018544594",
+                "order": 66
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 2758,
+                "original_language": "en",
+                "original_title": "Addams Family Values",
+                "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+                "popularity": 10.2923,
+                "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+                "release_date": "1993-11-19",
+                "title": "Addams Family Values",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 3163,
+                "credit_id": "60f46160f2883800457596e3",
+                "department": "Art",
+                "job": "Assistant Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 646380,
+                "original_language": "en",
+                "original_title": "Don't Look Up",
+                "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+                "popularity": 8.1404,
+                "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+                "release_date": "2021-12-08",
+                "title": "Don't Look Up",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 8782,
+                "credit_id": "61c98664cdbaff004272079e",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 3.153,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.196,
+                "vote_count": 1172,
+                "credit_id": "657a98997a3c52012d01be58",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 823464,
+                "original_language": "en",
+                "original_title": "Godzilla x Kong: The New Empire",
+                "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence \u2013 and our own.",
+                "popularity": 17.66,
+                "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+                "release_date": "2024-03-27",
+                "title": "Godzilla x Kong: The New Empire",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 4330,
+                "credit_id": "66075a8e590086017cb80955",
+                "department": "Crew",
+                "job": "Armorer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    10749
+                ],
+                "id": 9820,
+                "original_language": "en",
+                "original_title": "The Parent Trap",
+                "overview": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
+                "popularity": 13.2463,
+                "poster_path": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+                "release_date": "1998-07-28",
+                "title": "The Parent Trap",
+                "video": false,
+                "vote_average": 7.218,
+                "vote_count": 4348,
+                "credit_id": "5948529dc3a368265f0271b0",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 17.5242,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 23539,
+                "credit_id": "594851dac3a36816f6048d7d",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 5915,
+                "original_language": "en",
+                "original_title": "Into the Wild",
+                "overview": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+                "popularity": 7.5113,
+                "poster_path": "/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+                "release_date": "2007-09-21",
+                "title": "Into the Wild",
+                "video": false,
+                "vote_average": 7.797,
+                "vote_count": 9796,
+                "credit_id": "5948522a9251413fdd046941",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vTNzXPvFRn8Z4vn2myhkNpq26J6.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 290250,
+                "original_language": "en",
+                "original_title": "The Nice Guys",
+                "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+                "popularity": 6.4382,
+                "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+                "release_date": "2016-05-15",
+                "title": "The Nice Guys",
+                "video": false,
+                "vote_average": 7.127,
+                "vote_count": 8253,
+                "credit_id": "5948525f9251413fb6046b20",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 318846,
+                "original_language": "en",
+                "original_title": "The Big Short",
+                "overview": "The men who made millions from a global economic meltdown.",
+                "popularity": 10.3106,
+                "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+                "release_date": "2015-12-11",
+                "title": "The Big Short",
+                "video": false,
+                "vote_average": 7.359,
+                "vote_count": 9395,
+                "credit_id": "594851c1c3a36816f6048d68",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10950,
+                "original_language": "en",
+                "original_title": "I Am Sam",
+                "overview": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+                "popularity": 5.113,
+                "poster_path": "/3MUXRSyx9gnA2lLSSTGLN8cQQ42.jpg",
+                "release_date": "2001-12-28",
+                "title": "I Am Sam",
+                "video": false,
+                "vote_average": 7.561,
+                "vote_count": 2366,
+                "credit_id": "594914039251413fb1056d28",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 114,
+                "original_language": "en",
+                "original_title": "Pretty Woman",
+                "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+                "popularity": 8.5335,
+                "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+                "release_date": "1990-03-23",
+                "title": "Pretty Woman",
+                "video": false,
+                "vote_average": 7.46,
+                "vote_count": 8618,
+                "credit_id": "5cf2a324c3a36827ab209bf2",
+                "department": "Art",
+                "job": "Assistant Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 491418,
+                "original_language": "en",
+                "original_title": "Instant Family",
+                "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+                "popularity": 4.4738,
+                "poster_path": "/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+                "release_date": "2018-11-13",
+                "title": "Instant Family",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3099,
+                "credit_id": "60214c1dc2b9df003f9dae18",
+                "department": "Art",
+                "job": "Property Master"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1417415,
+        "imdb_id": "nm0060995",
+        "known_for_department": "Art",
+        "name": "Mychael Bates",
+        "place_of_birth": null,
+        "popularity": 0.0985,
+        "profile_path": null
+    }
+}

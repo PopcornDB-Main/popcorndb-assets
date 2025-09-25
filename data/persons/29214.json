@@ -1,0 +1,257 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 18240,
+                "original_language": "en",
+                "original_title": "The Proposal",
+                "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+                "popularity": 9.8618,
+                "poster_path": "/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg",
+                "release_date": "2009-06-02",
+                "title": "The Proposal",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 7156,
+                "character": "Jill",
+                "credit_id": "56c6651a92514124490045ea",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tupgjqhWx5oieQrdyesO3aclUX9.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 597,
+                "original_language": "en",
+                "original_title": "Titanic",
+                "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+                "popularity": 23.5868,
+                "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+                "release_date": "1997-11-18",
+                "title": "Titanic",
+                "video": false,
+                "vote_average": 7.906,
+                "vote_count": 26320,
+                "character": "Dancer",
+                "credit_id": "5880cb36c3a368310900bd47",
+                "order": 95
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k3AGi4UD8Ql2dKosXh6FrBSKm0s.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 9762,
+                "original_language": "en",
+                "original_title": "Step Up",
+                "overview": "Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.",
+                "popularity": 6.3586,
+                "poster_path": "/fmw52kXk2kN8AQil7tgOD41gt4Q.jpg",
+                "release_date": "2006-08-11",
+                "title": "Step Up",
+                "video": false,
+                "vote_average": 6.872,
+                "vote_count": 3783,
+                "character": "Ms. Stephanie",
+                "credit_id": "58989d829251417a8200a783",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bQEIYntlPba76NN41uWxIzUmzBb.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 4995,
+                "original_language": "en",
+                "original_title": "Boogie Nights",
+                "overview": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+                "popularity": 12.2021,
+                "poster_path": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+                "release_date": "1997-10-10",
+                "title": "Boogie Nights",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 3314,
+                "character": "Hot Traxx Dancer",
+                "credit_id": "5890e6fd92514103e4009db2",
+                "order": 74
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1FWSGQZo6HAzqO52VHL405VxJ07.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 10229,
+                "original_language": "en",
+                "original_title": "A Walk to Remember",
+                "overview": "When the popular, restless Landon Carter is forced to participate in the school drama production, he falls in love with Jamie Sullivan, the daughter of the town's minister. Jamie has a \"to-do\" list for her life, as well as a very big secret she must keep from Landon.",
+                "popularity": 5.7234,
+                "poster_path": "/8lUYMvWdHA0Q0k5F76RQCeCBUkA.jpg",
+                "release_date": "2002-01-25",
+                "title": "A Walk to Remember",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 4141,
+                "character": "School Play Dancer",
+                "credit_id": "589355769251416ef2006ee6",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/k3AGi4UD8Ql2dKosXh6FrBSKm0s.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 9762,
+                "original_language": "en",
+                "original_title": "Step Up",
+                "overview": "Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.",
+                "popularity": 6.3586,
+                "poster_path": "/fmw52kXk2kN8AQil7tgOD41gt4Q.jpg",
+                "release_date": "2006-08-11",
+                "title": "Step Up",
+                "video": false,
+                "vote_average": 6.872,
+                "vote_count": 3783,
+                "credit_id": "52fe4528c3a36847f80bf939",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 18240,
+                "original_language": "en",
+                "original_title": "The Proposal",
+                "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+                "popularity": 9.8618,
+                "poster_path": "/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg",
+                "release_date": "2009-06-02",
+                "title": "The Proposal",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 7156,
+                "credit_id": "52fe476d9251416c75098e3d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ml8YBTJq7UkALfI022FWscCQuQW.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10751
+                ],
+                "id": 642885,
+                "original_language": "en",
+                "original_title": "Hocus Pocus 2",
+                "overview": "29 years since the Black Flame Candle was last lit, the 17th-century Sanderson sisters are resurrected, and they are looking for revenge. Now it's up to three high school students to stop the ravenous witches from wreaking a new kind of havoc on Salem before dawn on All Hallow's Eve.",
+                "popularity": 6.3023,
+                "poster_path": "/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg",
+                "release_date": "2022-09-27",
+                "title": "Hocus Pocus 2",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1746,
+                "credit_id": "60a694ae4b0c630078d2abd1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k3AGi4UD8Ql2dKosXh6FrBSKm0s.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 9762,
+                "original_language": "en",
+                "original_title": "Step Up",
+                "overview": "Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.",
+                "popularity": 6.3586,
+                "poster_path": "/fmw52kXk2kN8AQil7tgOD41gt4Q.jpg",
+                "release_date": "2006-08-11",
+                "title": "Step Up",
+                "video": false,
+                "vote_average": 6.872,
+                "vote_count": 3783,
+                "credit_id": "6876dfb3768916457143cecb",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    18
+                ],
+                "id": 39254,
+                "original_language": "en",
+                "original_title": "Real Steel",
+                "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+                "popularity": 13.6779,
+                "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+                "release_date": "2011-09-28",
+                "title": "Real Steel",
+                "video": false,
+                "vote_average": 7.061,
+                "vote_count": 8728,
+                "credit_id": "6876dfe3f7f33c30b9779762",
+                "department": "Crew",
+                "job": "Choreographer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Anne 'Mama' Fletcher",
+            "Anne M. Fletcher",
+            "Ann Fletcher"
+        ],
+        "biography": "Anne Fletcher (born May 1, 1966) is an American film director and choreographer.\n\nFletcher took dance lessons as a child. At the age of 15, she appeared on the show Salute to the Superstars; later she moved to California, where she was trained by Joe Tremaine. She worked as a choreographer and worked in this capacity for six years with Jeff Andrews. The duo worked among other things on television work and music videos.\n\nIn her first film roles Fletcher appeared as a dancer, including The Flintstones (1994), The Mask (1994) and Tank Girl (1995). She developed choreography for the Oscar-nominated film drama Boogie Nights (1997) with Mark Wahlberg, Burt Reynolds, Julianne Moore and Heather Graham \u2013 in which she appeared herself as a dancer \u2013 as well as for the comedy A Life Less Ordinary with Ewan McGregor and Cameron Diaz.\n\n\u200bFrom Wikipedia, the free encyclopedia",
+        "birthday": "1966-05-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 29214,
+        "imdb_id": "nm0281945",
+        "known_for_department": "Directing",
+        "name": "Anne Fletcher",
+        "place_of_birth": "Detroit, Michigan, USA",
+        "popularity": 0.4856,
+        "profile_path": "/8gD32nqf3fghg6FZhDbHxuowtyu.jpg"
+    }
+}

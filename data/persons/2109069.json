@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 324786,
+                "original_language": "en",
+                "original_title": "Hacksaw Ridge",
+                "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+                "popularity": 17.0287,
+                "poster_path": "/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+                "release_date": "2016-10-07",
+                "title": "Hacksaw Ridge",
+                "video": false,
+                "vote_average": 8.193,
+                "vote_count": 14313,
+                "character": "Stretcher Bearer",
+                "credit_id": "5b75f9a60e0a264ef5008673",
+                "order": 51
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s72jkxT7xPbfGxnE1lETq5OywvY.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 283552,
+                "original_language": "en",
+                "original_title": "The Light Between Oceans",
+                "overview": "A lighthouse keeper and his wife living off the coast of Western Australia raise a baby they rescue from an adrift rowboat.",
+                "popularity": 3.4344,
+                "poster_path": "/c9S6VKZPllNgdxBUuI3GYJiqcKO.jpg",
+                "release_date": "2016-09-02",
+                "title": "The Light Between Oceans",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1380,
+                "character": "Bluey Smart",
+                "credit_id": "5b75fa719251411d87018921",
+                "order": 42
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2109069,
+        "imdb_id": "nm6549122",
+        "known_for_department": "Acting",
+        "name": "Thomas Unger",
+        "place_of_birth": null,
+        "popularity": 0.0536,
+        "profile_path": "/9iQs2v658pmTVVeuoVCoKUGoMTn.jpg"
+    }
+}

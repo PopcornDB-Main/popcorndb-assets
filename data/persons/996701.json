@@ -1,0 +1,206 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cUqXHZtnptgvyAE1hN47Wsf3ami.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 57214,
+                "original_language": "en",
+                "original_title": "Project X",
+                "overview": "Three high school seniors throw a party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+                "popularity": 8.0753,
+                "poster_path": "/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg",
+                "release_date": "2012-03-01",
+                "title": "Project X",
+                "video": false,
+                "vote_average": 6.887,
+                "vote_count": 6562,
+                "character": "Miles Teller",
+                "credit_id": "52fe4929c3a36847f818c1ef",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 157350,
+                "original_language": "en",
+                "original_title": "Divergent",
+                "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+                "popularity": 10.1286,
+                "poster_path": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+                "release_date": "2014-03-14",
+                "title": "Divergent",
+                "video": false,
+                "vote_average": 6.91,
+                "vote_count": 13101,
+                "character": "Peter Hayes",
+                "credit_id": "52fe4bc09251416c910e49e5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bF8eIIIJJoMZf2mFibAejqEGQcX.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 244786,
+                "original_language": "en",
+                "original_title": "Whiplash",
+                "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+                "popularity": 17.4549,
+                "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+                "release_date": "2014-10-10",
+                "title": "Whiplash",
+                "video": false,
+                "vote_average": 8.4,
+                "vote_count": 15913,
+                "character": "Andrew",
+                "credit_id": "52fe4ef7c3a36847f82b3fc3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+                "genre_ids": [
+                    10749,
+                    878,
+                    53
+                ],
+                "id": 950396,
+                "original_language": "en",
+                "original_title": "The Gorge",
+                "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+                "popularity": 33.6211,
+                "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+                "release_date": "2025-02-13",
+                "title": "The Gorge",
+                "video": false,
+                "vote_average": 7.699,
+                "vote_count": 3007,
+                "character": "Levi",
+                "credit_id": "63079ceb65c26c007fe572a4",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 308266,
+                "original_language": "en",
+                "original_title": "War Dogs",
+                "overview": "Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.",
+                "popularity": 7.4446,
+                "poster_path": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+                "release_date": "2016-08-18",
+                "title": "War Dogs",
+                "video": false,
+                "vote_average": 6.926,
+                "vote_count": 5185,
+                "character": "David Packouz",
+                "credit_id": "551883d89251412c1e0034ad",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zaX6d5GCtb2CmOH9jrHBl58xxBY.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 395991,
+                "original_language": "en",
+                "original_title": "Only the Brave",
+                "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+                "popularity": 8.6385,
+                "poster_path": "/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg",
+                "release_date": "2017-09-22",
+                "title": "Only the Brave",
+                "video": false,
+                "vote_average": 7.444,
+                "vote_count": 1715,
+                "character": "Brendan \"Donut\" McDonough",
+                "credit_id": "572998cac3a3682aa6000498",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kBSSbN1sOiJtXjAGVZXxHJR9Kox.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 361743,
+                "original_language": "en",
+                "original_title": "Top Gun: Maverick",
+                "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+                "popularity": 19.095,
+                "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+                "release_date": "2022-05-21",
+                "title": "Top Gun: Maverick",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 10180,
+                "character": "Lt. Bradley 'Rooster' Bradshaw",
+                "credit_id": "5b3bf2b992514102e2002a1d",
+                "order": 2
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+                "genre_ids": [
+                    10749,
+                    878,
+                    53
+                ],
+                "id": 950396,
+                "original_language": "en",
+                "original_title": "The Gorge",
+                "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+                "popularity": 33.6211,
+                "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+                "release_date": "2025-02-13",
+                "title": "The Gorge",
+                "video": false,
+                "vote_average": 7.699,
+                "vote_count": 3007,
+                "credit_id": "6345b159b7a1540090c42c82",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ub9c8\uc77c\uc988 \ud154\ub7ec",
+            "\u0645\u0627\u06cc\u0644\u0632 \u062a\u0644\u0631"
+        ],
+        "biography": "Miles Teller\u00a0(born February 20, 1987) is an American actor. He debuted his feature film with the independent drama\u00a0Rabbit Hole\u00a0(2010). He gained wider recognition for his roles in the coming-of-age film\u00a0The Spectacular Now\u00a0(2013) and the\u00a0Divergent\u00a0film trilogy\u00a0(2014\u20132016). His breakthrough role came in the drama\u00a0Whiplash (2014), which earned him critical acclaim.\n\nTeller starred in the\u00a0superhero\u00a0film\u00a0Fantastic Four\u00a0(2015) and the biographical film\u00a0War Dogs\u00a0(2016). He garnered a mainstream resurgence for his starring role in the action film\u00a0Top Gun: Maverick\u00a0(2022).\u00a0In television, he has starred in the\u00a0Amazon Prime Video\u00a0crime drama\u00a0Too Old to Die Young\u00a0(2019) and the\u00a0Paramount+miniseries\u00a0The Offer\u00a0(2022).\n\nDescription above from the Wikipedia article Miles Teller, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1987-02-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 996701,
+        "imdb_id": "nm1886602",
+        "known_for_department": "Acting",
+        "name": "Miles Teller",
+        "place_of_birth": "Downingtown, Pennsylvania, USA",
+        "popularity": 1.7229,
+        "profile_path": "/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+    }
+}

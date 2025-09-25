@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/arFPEDEW4PzPaMBXgTPzJlumfGw.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 203833,
+                "original_language": "en",
+                "original_title": "The Book Thief",
+                "overview": "While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+                "popularity": 3.0586,
+                "poster_path": "/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+                "release_date": "2013-11-08",
+                "title": "The Book Thief",
+                "video": false,
+                "vote_average": 7.496,
+                "vote_count": 4414,
+                "character": "Grave Digger",
+                "credit_id": "55132f58925141045c00201e",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    36,
+                    10749
+                ],
+                "id": 853,
+                "original_language": "en",
+                "original_title": "Enemy at the Gates",
+                "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
+                "popularity": 6.4347,
+                "poster_path": "/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+                "release_date": "2001-02-28",
+                "title": "Enemy at the Gates",
+                "video": false,
+                "vote_average": 7.423,
+                "vote_count": 3834,
+                "character": "Corpse Robber",
+                "credit_id": "5a5cdf440e0a26154a001ac6",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1967-12-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 42445,
+        "imdb_id": "nm0486124",
+        "known_for_department": "Acting",
+        "name": "Gotthard Lange",
+        "place_of_birth": "Geseke, Germany",
+        "popularity": 0.6679,
+        "profile_path": "/gsIYCR5Un2d3IVOB23JUsp7XPKM.jpg"
+    }
+}

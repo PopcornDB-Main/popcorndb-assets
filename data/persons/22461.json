@@ -1,0 +1,241 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/im6mZxeUMq71cBqqQmzLGDVdIXd.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 2259,
+                "original_language": "en",
+                "original_title": "The House of the Spirits",
+                "overview": "A rancher, his clairvoyant wife and their family face turbulent years in South America.",
+                "popularity": 3.7207,
+                "poster_path": "/pS5xqILNBxcjRqLZROIkO4wszrU.jpg",
+                "release_date": "1993-10-21",
+                "title": "The House of the Spirits",
+                "video": false,
+                "vote_average": 6.936,
+                "vote_count": 711,
+                "character": "Esteban Garc\u00eda",
+                "credit_id": "52fe4347c3a36847f8047e23",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i4VUKbHE2XFwX5LRkTg3oRE9opN.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 11044,
+                "original_language": "en",
+                "original_title": "Arizona Dream",
+                "overview": "An Inuit hunter races his sled home with a fresh-caught halibut. This fish pervades the entire film, in real and imaginary form. Meanwhile, Axel tags fish in New York as a naturalist's gofer. He's happy there, but a messenger arrives to bring him to Arizona for his uncle's wedding. It's a ruse to get Axel into the family business. In Arizona, Axel meets two odd women: vivacious, needy, and plagued by neuroses and familial discord. He gets romantically involved with one, while the other, rich but depressed, plays accordion tunes to a gaggle of pet turtles.",
+                "popularity": 6.7796,
+                "poster_path": "/jNhRjc1Q9l6tFo5aHdl8UZJPdKy.jpg",
+                "release_date": "1993-01-06",
+                "title": "Arizona Dream",
+                "video": false,
+                "vote_average": 7.173,
+                "vote_count": 720,
+                "character": "Paul Leger",
+                "credit_id": "52fe43ea9251416c75022e37",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCcRRoalUWy83x3gqhCIl6pPUAi.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 9464,
+                "original_language": "en",
+                "original_title": "Buffalo '66",
+                "overview": "Billy is released after five years in prison. In the next moment, he kidnaps teenage student Layla and visits his parents with her, pretending she is his girlfriend and they will soon marry.",
+                "popularity": 4.5826,
+                "poster_path": "/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+                "release_date": "1998-01-20",
+                "title": "Buffalo '66",
+                "video": false,
+                "vote_average": 7.128,
+                "vote_count": 986,
+                "character": "Billy Brown",
+                "credit_id": "52fe44fac3a36847f80b58a7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.455,
+                "vote_count": 13625,
+                "character": "Henry's 70's Crew",
+                "credit_id": "56049049c3a3685c510001f6",
+                "order": 109
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/oCcRRoalUWy83x3gqhCIl6pPUAi.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 9464,
+                "original_language": "en",
+                "original_title": "Buffalo '66",
+                "overview": "Billy is released after five years in prison. In the next moment, he kidnaps teenage student Layla and visits his parents with her, pretending she is his girlfriend and they will soon marry.",
+                "popularity": 4.5826,
+                "poster_path": "/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+                "release_date": "1998-01-20",
+                "title": "Buffalo '66",
+                "video": false,
+                "vote_average": 7.128,
+                "vote_count": 986,
+                "credit_id": "52fe44fbc3a36847f80b58c3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCcRRoalUWy83x3gqhCIl6pPUAi.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 9464,
+                "original_language": "en",
+                "original_title": "Buffalo '66",
+                "overview": "Billy is released after five years in prison. In the next moment, he kidnaps teenage student Layla and visits his parents with her, pretending she is his girlfriend and they will soon marry.",
+                "popularity": 4.5826,
+                "poster_path": "/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+                "release_date": "1998-01-20",
+                "title": "Buffalo '66",
+                "video": false,
+                "vote_average": 7.128,
+                "vote_count": 986,
+                "credit_id": "52fe44fbc3a36847f80b58bd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCcRRoalUWy83x3gqhCIl6pPUAi.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 9464,
+                "original_language": "en",
+                "original_title": "Buffalo '66",
+                "overview": "Billy is released after five years in prison. In the next moment, he kidnaps teenage student Layla and visits his parents with her, pretending she is his girlfriend and they will soon marry.",
+                "popularity": 4.5826,
+                "poster_path": "/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+                "release_date": "1998-01-20",
+                "title": "Buffalo '66",
+                "video": false,
+                "vote_average": 7.128,
+                "vote_count": 986,
+                "credit_id": "5afdb1ff0e0a267ecc0005e0",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCcRRoalUWy83x3gqhCIl6pPUAi.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 9464,
+                "original_language": "en",
+                "original_title": "Buffalo '66",
+                "overview": "Billy is released after five years in prison. In the next moment, he kidnaps teenage student Layla and visits his parents with her, pretending she is his girlfriend and they will soon marry.",
+                "popularity": 4.5826,
+                "poster_path": "/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+                "release_date": "1998-01-20",
+                "title": "Buffalo '66",
+                "video": false,
+                "vote_average": 7.128,
+                "vote_count": 986,
+                "credit_id": "5b3001799251417470008423",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCcRRoalUWy83x3gqhCIl6pPUAi.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 9464,
+                "original_language": "en",
+                "original_title": "Buffalo '66",
+                "overview": "Billy is released after five years in prison. In the next moment, he kidnaps teenage student Layla and visits his parents with her, pretending she is his girlfriend and they will soon marry.",
+                "popularity": 4.5826,
+                "poster_path": "/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg",
+                "release_date": "1998-01-20",
+                "title": "Buffalo '66",
+                "video": false,
+                "vote_average": 7.128,
+                "vote_count": 986,
+                "credit_id": "6801b3ad2e8958f0f999636e",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Enzo Gallo",
+            "Prince Vince",
+            "Vinnie Gallo",
+            "Vincent Vito Gallo",
+            "\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8\u30fb\u30ae\u30e3\u30ed",
+            "\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0413\u0430\u043b\u043b\u043e",
+            "Bohack",
+            "\u6587\u68ee\u7279\u00b7\u52a0\u6d1b",
+            "\ube48\uc13c\ud2b8 \uac08\ub85c",
+            "\u0648\u06cc\u0646\u0633\u0646\u062a \u06af\u0627\u0644\u0648"
+        ],
+        "biography": "Vincent Gallo\u00a0(born April 11, 1961) is an American film actor, director, producer, screenwriter, singer-songwriter, and painter. Although he has had minor roles in mainstream films such as Goodfellas, he is most associated with independent movies, including Buffalo '66, which he wrote, directed, did the music for and starred in; The Brown Bunny, which he also wrote, directed, produced, starred in and photographed; Arizona Dream; The Funeral; and Palookaville. In the late 1970s and early 1980s, Gallo was a painter in the New York City art scene showing with famed art dealer Annina Nosei, performed in a rap duo and was part of the first hip hop television broadcast Graffiti Rock, and played in an industrial band called Bohack which released an album title It Took Several Wives.\n\nIn the early 2000s, he released several solo recordings on WARP records. Gallo is known for his outspoken views and generally sarcastic nature, once stating: \"I stopped painting in 1990 at the peak of my success just to deny people my beautiful paintings; and I did it out of spite.\" Gallo was awarded the Coppa Volpi for Best Actor at the 67th Venice International Film Festival for his performance as a wordless escaping Muslim prisoner in Jerzy Skolimowski's Essential Killing. His own feature film Promises Written In Water, which he wrote, directed, produced and starred in, also screened In Competition at the festival.",
+        "birthday": "1961-04-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.vincentgallo.com/",
+        "id": 22461,
+        "imdb_id": "nm0001252",
+        "known_for_department": "Acting",
+        "name": "Vincent Gallo",
+        "place_of_birth": "Buffalo - New York - USA",
+        "popularity": 0.5815,
+        "profile_path": "/2H8ucxG6LWAHCJAJf9OGfhSXpqQ.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+                "genre_ids": [
+                    12,
+                    10749,
+                    36
+                ],
+                "id": 10907,
+                "original_language": "en",
+                "original_title": "The Adventures of Robin Hood",
+                "overview": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
+                "popularity": 2.6754,
+                "poster_path": "/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
+                "release_date": "1938-05-13",
+                "title": "The Adventures of Robin Hood",
+                "video": false,
+                "vote_average": 7.484,
+                "vote_count": 800,
+                "character": "Sir Mortimer",
+                "credit_id": "56fecdcd9251415d0e000833",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oa6yoeeZtjxdgzAcZtbCSW3GEE9.jpg",
+                "genre_ids": [
+                    9648,
+                    10749,
+                    53
+                ],
+                "id": 11462,
+                "original_language": "en",
+                "original_title": "Suspicion",
+                "overview": "A sheltered young heiress elopes with a handsome playboy. Gradually, she discovers his dishonest nature.",
+                "popularity": 2.0008,
+                "poster_path": "/clWNlzlbyaEoIK63lcFjqBmXoQz.jpg",
+                "release_date": "1941-11-14",
+                "title": "Suspicion",
+                "video": false,
+                "vote_average": 7.134,
+                "vote_count": 853,
+                "character": "Sir Gerald (uncredited)",
+                "credit_id": "5dce9894b76cbb001376e40a",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1882-02-19",
+        "deathday": "1961-12-21",
+        "gender": 2,
+        "homepage": null,
+        "id": 951488,
+        "imdb_id": "nm0402905",
+        "known_for_department": "Acting",
+        "name": "Kenneth Hunter",
+        "place_of_birth": "Capetown, South Africa",
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

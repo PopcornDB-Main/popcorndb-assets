@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 600,
+                "original_language": "en",
+                "original_title": "Full Metal Jacket",
+                "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+                "popularity": 6.665,
+                "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+                "release_date": "1987-06-26",
+                "title": "Full Metal Jacket",
+                "video": false,
+                "vote_average": 8.1,
+                "vote_count": 10970,
+                "character": "Lt. Cleves",
+                "credit_id": "52fe425bc3a36847f8017d77",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2EfbAWLq8s2f1LxTAIuLGYpKETV.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    14
+                ],
+                "id": 8009,
+                "original_language": "en",
+                "original_title": "Highlander",
+                "overview": "He fought his first battle on the Scottish Highlands in 1536. He will fight his greatest battle on the streets of New York City in 1986. His name is Connor MacLeod. He is immortal.",
+                "popularity": 6.6347,
+                "poster_path": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+                "release_date": "1986-03-07",
+                "title": "Highlander",
+                "video": false,
+                "vote_average": 6.873,
+                "vote_count": 2743,
+                "character": "Lab Technician",
+                "credit_id": "5a4a4dbf0e0a262dc2012727",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8665,
+        "imdb_id": "nm0878829",
+        "known_for_department": "Acting",
+        "name": "Ian Tyler",
+        "place_of_birth": null,
+        "popularity": 0.1993,
+        "profile_path": "/gKNqQXGV0hBaE3txgNBXqbNqPgt.jpg"
+    }
+}

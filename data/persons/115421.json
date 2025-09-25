@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lFLQNIkNVIHLXNVDHbt4pow4lXc.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    36
+                ],
+                "id": 423612,
+                "original_language": "de",
+                "original_title": "Werk ohne Autor",
+                "overview": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
+                "popularity": 1.1593,
+                "poster_path": "/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg",
+                "release_date": "2018-10-03",
+                "title": "Never Look Away",
+                "video": false,
+                "vote_average": 7.77,
+                "vote_count": 714,
+                "character": "Andreas",
+                "credit_id": "5869880cc3a3680f58010d3a",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qmCCXB6fn1Sjztm4t56Xviw0uDI.jpg",
+                "genre_ids": [
+                    28,
+                    10752,
+                    12,
+                    36,
+                    18
+                ],
+                "id": 633515,
+                "original_language": "nl",
+                "original_title": "De Slag om de Schelde",
+                "overview": "In WWII's final years, a soldier in the German army, a British glider pilot, and a Dutch resistance fighter's paths intertwine. Their choices shape destinies, impacting not only their freedom but also that of others.",
+                "popularity": 5.12,
+                "poster_path": "/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+                "release_date": "2020-12-14",
+                "title": "The Forgotten Battle",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 728,
+                "character": "Friedrich Fisher",
+                "credit_id": "5ddebd391c63290014002430",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1988-11-30",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 115421,
+        "imdb_id": "nm1460749",
+        "known_for_department": "Acting",
+        "name": "Pit Bukowski",
+        "place_of_birth": "Berlin, Germany",
+        "popularity": 0.757,
+        "profile_path": "/h4nHsMTehfJvtdZENWy7g9dr7k3.jpg"
+    }
+}

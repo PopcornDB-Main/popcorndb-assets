@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fKrFGB96kVeJ9uE83Jc4fIWBgqO.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 1116,
+                "original_language": "en",
+                "original_title": "The Wind That Shakes the Barley",
+                "overview": "In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job in a London hospital. As he says his goodbyes at a friend's farm, British Black and Tans arrive, and a young man is killed. Damien joins his brother Teddy in the Irish Republican Army, but political events are soon set in motion that tear the brothers apart.",
+                "popularity": 5.3847,
+                "poster_path": "/9XquDdOGrlC0EAbPoOXALqS2dDh.jpg",
+                "release_date": "2006-06-23",
+                "title": "The Wind That Shakes the Barley",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 846,
+                "character": "Ceilidh Band",
+                "credit_id": "59ce77e99251416c5901a6e8",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GZVHgJUcVyytQRJ533GpMavAcL.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 7984,
+                "original_language": "en",
+                "original_title": "In the Name of the Father",
+                "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
+                "popularity": 2.6913,
+                "poster_path": "/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+                "release_date": "1993-12-12",
+                "title": "In the Name of the Father",
+                "video": false,
+                "vote_average": 7.896,
+                "vote_count": 1845,
+                "character": "Dixon's Wife",
+                "credit_id": "5f209001d100b6003742eda4",
+                "order": 64
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1856261,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Aine O'Connor",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

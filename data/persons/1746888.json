@@ -1,0 +1,155 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 45317,
+                "original_language": "en",
+                "original_title": "The Fighter",
+                "overview": "Boxer \"Irish\" Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer who rebounded in life after nearly being KO'd by drugs and crime.",
+                "popularity": 8.3465,
+                "poster_path": "/xfsFerGhO1h6rLk8vwLgMyQ8WVJ.jpg",
+                "release_date": "2010-12-10",
+                "title": "The Fighter",
+                "video": false,
+                "vote_average": 7.381,
+                "vote_count": 4511,
+                "character": "Fight Announcer",
+                "credit_id": "62c0b8530bb0760dcc4c8fa9",
+                "order": 81
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 312221,
+                "original_language": "en",
+                "original_title": "Creed",
+                "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+                "popularity": 9.8762,
+                "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+                "release_date": "2015-11-25",
+                "title": "Creed",
+                "video": false,
+                "vote_average": 7.407,
+                "vote_count": 7690,
+                "character": "Jim Lampley",
+                "credit_id": "588d9f71c3a36874a3004401",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1tXlUvfhLVjM5rZcN2783IhCkbu.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 307081,
+                "original_language": "en",
+                "original_title": "Southpaw",
+                "overview": "Billy \"The Great\" Hope, the reigning junior middleweight boxing champion, has an impressive career, a loving wife and daughter, and a lavish lifestyle. However, when tragedy strikes, Billy hits rock bottom, losing his family, his house and his manager. He soon finds an unlikely savior in Tick Willis, a former fighter who trains the city's toughest amateur boxers. With his future on the line, Hope fights to reclaim the trust of those he loves the most.",
+                "popularity": 8.7038,
+                "poster_path": "/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg",
+                "release_date": "2015-03-24",
+                "title": "Southpaw",
+                "video": false,
+                "vote_average": 7.366,
+                "vote_count": 5617,
+                "character": "Himself",
+                "credit_id": "58de29f99251411b7f009d6d",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 480530,
+                "original_language": "en",
+                "original_title": "Creed II",
+                "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+                "popularity": 9.2946,
+                "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+                "release_date": "2018-11-21",
+                "title": "Creed II",
+                "video": false,
+                "vote_average": 7.035,
+                "vote_count": 5601,
+                "character": "Jim Lampley",
+                "credit_id": "5c06d5f2c3a3685c370e0f0f",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g1QkFTSkqA0Pq1p63jTsPIEA7zy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1246,
+                "original_language": "en",
+                "original_title": "Rocky Balboa",
+                "overview": "When he loses a highly publicized virtual boxing match to ex-champ Rocky Balboa, reigning heavyweight titleholder Mason Dixon retaliates by challenging the Italian Stallion to a 10-round exhibition bout. To the surprise of his son and friends, Rocky agrees to come out of retirement and face an opponent who's faster, stronger and thirty years his junior. Rocky takes on Dixon in what will become the greatest fight in boxing history!",
+                "popularity": 7.0922,
+                "poster_path": "/byBlJvZwCqgtIwrZNv0pyE974jC.jpg",
+                "release_date": "2006-12-20",
+                "title": "Rocky Balboa",
+                "video": false,
+                "vote_average": 6.873,
+                "vote_count": 3635,
+                "character": "HBO Commentator",
+                "credit_id": "5e73b41c357c0000114bf970",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 161,
+                "original_language": "en",
+                "original_title": "Ocean's Eleven",
+                "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+                "popularity": 9.4093,
+                "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+                "release_date": "2001-12-07",
+                "title": "Ocean's Eleven",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 12043,
+                "character": "Jim Lampley",
+                "credit_id": "5eb5b0c07d2bc1001ef9c7a5",
+                "order": 49
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James Clifford Lampley"
+        ],
+        "biography": "",
+        "birthday": "1949-04-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1746888,
+        "imdb_id": "nm0483915",
+        "known_for_department": "Acting",
+        "name": "Jim Lampley",
+        "place_of_birth": "Hendersonville, North Carolina, USA",
+        "popularity": 0.2905,
+        "profile_path": "/dU7YRcSHN8tt7hTHhZCQQ49KsDV.jpg"
+    }
+}

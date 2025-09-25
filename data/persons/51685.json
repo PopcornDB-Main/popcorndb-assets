@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/b6XrxL6iRfhRn4PrZ4JehrLpgdD.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 391713,
+                "original_language": "en",
+                "original_title": "Lady Bird",
+                "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+                "popularity": 5.1322,
+                "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+                "release_date": "2017-09-01",
+                "title": "Lady Bird",
+                "video": false,
+                "vote_average": 7.254,
+                "vote_count": 8778,
+                "character": "Luis Cruz",
+                "credit_id": "5a45425c925141740305b152",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10402
+                ],
+                "id": 583689,
+                "original_language": "en",
+                "original_title": "Moxie",
+                "overview": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+                "popularity": 2.5057,
+                "poster_path": "/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg",
+                "release_date": "2021-03-03",
+                "title": "Moxie",
+                "video": false,
+                "vote_average": 7.254,
+                "vote_count": 826,
+                "character": "Custodian",
+                "credit_id": "6044bcc96cf3d500461586ec",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Victor Wolf",
+            "Roman Alexander Arabia"
+        ],
+        "biography": "Roman Arabia is an American film and television actor.",
+        "birthday": "1980-12-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 51685,
+        "imdb_id": "nm1695381",
+        "known_for_department": "Acting",
+        "name": "Roman Arabia",
+        "place_of_birth": "Inglewood, California, USA",
+        "popularity": 0.1359,
+        "profile_path": "/9HnOoeFNoDAHF8dflirbZee4OOg.jpg"
+    }
+}

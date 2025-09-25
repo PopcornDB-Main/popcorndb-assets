@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 10474,
+                "original_language": "en",
+                "original_title": "The Basketball Diaries",
+                "overview": "A high school basketball player\u2019s life turns upside down after free-falling into the harrowing world of drug addiction.",
+                "popularity": 4.6751,
+                "poster_path": "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+                "release_date": "1995-04-21",
+                "title": "The Basketball Diaries",
+                "video": false,
+                "vote_average": 7.405,
+                "vote_count": 2096,
+                "character": "Drug Dealer #1",
+                "credit_id": "66aa312cbd0fc4b00687fe42",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2236489,
+        "imdb_id": null,
+        "known_for_department": "Lighting",
+        "name": "Eric Betts",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

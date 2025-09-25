@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 406,
+                "original_language": "fr",
+                "original_title": "La Haine",
+                "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Sa\u00efd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+                "popularity": 5.141,
+                "poster_path": "/a6DGCZC2fHNr07tyRumM30ALEKE.jpg",
+                "release_date": "1995-05-31",
+                "title": "La Haine",
+                "video": false,
+                "vote_average": 8.084,
+                "vote_count": 4287,
+                "character": "Hospital Police Chief",
+                "credit_id": "5eae2ea1edeb430023c6a0ed",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zhceTJ7NOzgtTRkvmD5bumw74Lj.jpg",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 19100,
+                "original_language": "fr",
+                "original_title": "Nos jours heureux",
+                "overview": "Set in 1992, a manager Vincent has to run a children's holiday camp for three weeks and to face the unexpected concerning the place, his colleagues, various problems linked to children about the rooms, trips, their belongings...",
+                "popularity": 2.8782,
+                "poster_path": "/507mUw7mtYpmjwJncOggw9gBZcG.jpg",
+                "release_date": "2006-06-28",
+                "title": "Those Happy Days",
+                "video": false,
+                "vote_average": 7.352,
+                "vote_count": 1064,
+                "character": "le m\u00e9decin 1",
+                "credit_id": "606b55aa0d2f530040a30b89",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 145767,
+        "imdb_id": "nm0869567",
+        "known_for_department": "Acting",
+        "name": "Fran\u00e7ois Toumarkine",
+        "place_of_birth": null,
+        "popularity": 0.0811,
+        "profile_path": "/uVj3RWhHD5OFEd0pnpCmGvrLK7i.jpg"
+    }
+}

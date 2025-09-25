@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lNRkFZpP5pXd5jRUJqzLpVnZyiW.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    9648
+                ],
+                "id": 167,
+                "original_language": "en",
+                "original_title": "K-PAX",
+                "overview": "Prot is a patient at a mental hospital who claims to be from a far away planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+                "popularity": 4.4994,
+                "poster_path": "/tafXZX0I6rso7EyoEzfygfTqxq6.jpg",
+                "release_date": "2001-10-26",
+                "title": "K-PAX",
+                "video": false,
+                "vote_average": 7.209,
+                "vote_count": 2557,
+                "character": "Russell",
+                "credit_id": "56ec4e34c3a36822600032b7",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 3.3153,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 1174,
+                "character": "Monroe Bouchet",
+                "credit_id": "5e1f4a22511d09001483941b",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 42316,
+        "imdb_id": "nm0866019",
+        "known_for_department": "Acting",
+        "name": "John Toles-Bey",
+        "place_of_birth": null,
+        "popularity": 0.3026,
+        "profile_path": "/c46vTz8nBrzjbFyvG2kG8tqx5Mf.jpg"
+    }
+}

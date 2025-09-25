@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    53
+                ],
+                "id": 78,
+                "original_language": "en",
+                "original_title": "Blade Runner",
+                "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+                "popularity": 12.7734,
+                "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+                "release_date": "1982-06-25",
+                "title": "Blade Runner",
+                "video": false,
+                "vote_average": 7.941,
+                "vote_count": 14371,
+                "character": "Bear",
+                "credit_id": "52fe4214c3a36847f8002629",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Ewok",
+                "credit_id": "54ec40ce9251417965001400",
+                "order": 97
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kevin Edward Thompson",
+            "Kevin E. Thompson"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 53760,
+        "imdb_id": "nm0860385",
+        "known_for_department": "Acting",
+        "name": "Kevin Thompson",
+        "place_of_birth": null,
+        "popularity": 0.1246,
+        "profile_path": "/hhJNd4If3wWmhlKV1MLkDpWA6E5.jpg"
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/k0ACyZCXdqx50464BlE0ZeWR5cu.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    28
+                ],
+                "id": 13012,
+                "original_language": "en",
+                "original_title": "Felon",
+                "overview": "A family man convicted of killing an intruder must cope with life afterward in the violent penal system.",
+                "popularity": 5.4292,
+                "poster_path": "/1eYGh6DETJFXQt5PWjV8lp8YZvx.jpg",
+                "release_date": "2008-07-17",
+                "title": "Felon",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 914,
+                "character": "ADSEG Guard",
+                "credit_id": "55abbbbbc3a3682d63004ef7",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 273481,
+                "original_language": "en",
+                "original_title": "Sicario",
+                "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+                "popularity": 9.6411,
+                "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+                "release_date": "2015-09-17",
+                "title": "Sicario",
+                "video": false,
+                "vote_average": 7.416,
+                "vote_count": 9091,
+                "character": "Delta #2",
+                "credit_id": "57ca0566c3a3684b84000460",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9j3gGPnnsBGXaj6FgN2wS8zsOFP.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 339692,
+                "original_language": "en",
+                "original_title": "Shot Caller",
+                "overview": "A newly-released prison gangster is forced by the leaders of his gang to orchestrate a major crime with a brutal rival gang on the streets of Southern California.",
+                "popularity": 5.9,
+                "poster_path": "/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg",
+                "release_date": "2017-07-07",
+                "title": "Shot Caller",
+                "video": false,
+                "vote_average": 6.961,
+                "vote_count": 2126,
+                "character": "SHU Guard",
+                "credit_id": "59b1510cc3a3682c4807dd92",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zaX6d5GCtb2CmOH9jrHBl58xxBY.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 395991,
+                "original_language": "en",
+                "original_title": "Only the Brave",
+                "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+                "popularity": 9.0122,
+                "poster_path": "/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg",
+                "release_date": "2017-09-22",
+                "title": "Only the Brave",
+                "video": false,
+                "vote_average": 7.442,
+                "vote_count": 1717,
+                "character": "Chiricahua IC",
+                "credit_id": "5a6f7b9ac3a3684808004002",
+                "order": 44
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/55C8p02S7fLXHT8zlRjAA0j14bd.jpg",
+                "genre_ids": [
+                    37,
+                    80,
+                    18
+                ],
+                "id": 338766,
+                "original_language": "en",
+                "original_title": "Hell or High Water",
+                "overview": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+                "popularity": 3.9636,
+                "poster_path": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+                "release_date": "2016-08-11",
+                "title": "Hell or High Water",
+                "video": false,
+                "vote_average": 7.302,
+                "vote_count": 4638,
+                "credit_id": "653edd3ebc2cb300c97f29af",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 559969,
+                "original_language": "en",
+                "original_title": "El Camino: A Breaking Bad Movie",
+                "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+                "popularity": 6.2639,
+                "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+                "release_date": "2019-10-11",
+                "title": "El Camino: A Breaking Bad Movie",
+                "video": false,
+                "vote_average": 6.966,
+                "vote_count": 5182,
+                "credit_id": "6445c314fba6250908705cbd",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 400535,
+                "original_language": "en",
+                "original_title": "Sicario: Day of the Soldado",
+                "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+                "popularity": 10.1192,
+                "poster_path": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+                "release_date": "2018-06-27",
+                "title": "Sicario: Day of the Soldado",
+                "video": false,
+                "vote_average": 6.938,
+                "vote_count": 3816,
+                "credit_id": "64827398bf31f25057052272",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "John Trejo is known for his work on Sicario (2015), Only the Brave (2017) and The Night Shift (2014).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1488513,
+        "imdb_id": "nm2823321",
+        "known_for_department": "Acting",
+        "name": "John Trejo",
+        "place_of_birth": null,
+        "popularity": 0.1426,
+        "profile_path": null
+    }
+}

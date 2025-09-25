@@ -1,0 +1,327 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 17.5242,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23539,
+                "character": "Older Prison Child",
+                "credit_id": "52fe4781c3a36847f8139931",
+                "order": 66
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fMlAg1CyHTsCktwQrp74rl9RMwJ.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 138843,
+                "original_language": "en",
+                "original_title": "The Conjuring",
+                "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+                "popularity": 80.6378,
+                "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+                "release_date": "2013-07-18",
+                "title": "The Conjuring",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 12170,
+                "character": "Christine",
+                "credit_id": "52fe4c56c3a368484e1b3285",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/inPupECvfe7cHuAwaEVBkDJjXZO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 2355,
+                "original_language": "en",
+                "original_title": "Reign Over Me",
+                "overview": "A man who lost his family in the September 11 attack on New York City runs into his old college roommate. Rekindling the friendship is the one thing that appears able to help the man recover from his grief.",
+                "popularity": 5.1355,
+                "poster_path": "/b5EtDvwj2gdG1qMBLijamlLfJLB.jpg",
+                "release_date": "2007-03-22",
+                "title": "Reign Over Me",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1123,
+                "character": "Gina Fineman (uncredited)",
+                "credit_id": "65843cace295b43c6368b697",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 50646,
+                "original_language": "en",
+                "original_title": "Crazy, Stupid, Love.",
+                "overview": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.",
+                "popularity": 7.2235,
+                "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+                "release_date": "2011-07-29",
+                "title": "Crazy, Stupid, Love.",
+                "video": false,
+                "vote_average": 7.27,
+                "vote_count": 8888,
+                "character": "Molly",
+                "credit_id": "54d1e7c8c3a3683080002470",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    16,
+                    878
+                ],
+                "id": 519182,
+                "original_language": "en",
+                "original_title": "Despicable Me 4",
+                "overview": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+                "popularity": 29.7746,
+                "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+                "release_date": "2024-06-20",
+                "title": "Despicable Me 4",
+                "video": false,
+                "vote_average": 7.013,
+                "vote_count": 2921,
+                "character": "Poppy Prescott (voice)",
+                "credit_id": "65b6c6ef8cfcc7017ce4c398",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aqrDUkuzksLhOD8pbyBXLO0dz5t.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 454983,
+                "original_language": "en",
+                "original_title": "The Kissing Booth",
+                "overview": "When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.",
+                "popularity": 7.27,
+                "poster_path": "/eFpm76o5KPNt1qJ8wogtiq9XZu1.jpg",
+                "release_date": "2018-05-11",
+                "title": "The Kissing Booth",
+                "video": false,
+                "vote_average": 7.173,
+                "vote_count": 7334,
+                "character": "Elle Evans",
+                "credit_id": "5903d1ddc3a3684a68001de8",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bXdCpL1A1mW2sEBiTmYYFnb10XN.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 583083,
+                "original_language": "en",
+                "original_title": "The Kissing Booth 2",
+                "overview": "With college decisions looming, Elle juggles her long-distance romance with Noah, changing relationship with bestie Lee and feelings for a new classmate.",
+                "popularity": 5.2514,
+                "poster_path": "/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+                "release_date": "2020-07-24",
+                "title": "The Kissing Booth 2",
+                "video": false,
+                "vote_average": 7.622,
+                "vote_count": 5065,
+                "character": "Elle Evans",
+                "credit_id": "5f1abfe62afb25003414b13e",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oOZM1C3wZtsZtdidVgEazeas7U4.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 727745,
+                "original_language": "en",
+                "original_title": "The Kissing Booth 3",
+                "overview": "It\u2019s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed and has to decide if she should stay or not.",
+                "popularity": 4.7786,
+                "poster_path": "/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg",
+                "release_date": "2021-08-11",
+                "title": "The Kissing Booth 3",
+                "video": false,
+                "vote_average": 6.877,
+                "vote_count": 1965,
+                "character": "Elle Evans",
+                "credit_id": "5f1de49e0e597b00353b0c6d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    53
+                ],
+                "id": 718930,
+                "original_language": "en",
+                "original_title": "Bullet Train",
+                "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.",
+                "popularity": 14.0512,
+                "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+                "release_date": "2022-08-03",
+                "title": "Bullet Train",
+                "video": false,
+                "vote_average": 7.427,
+                "vote_count": 6907,
+                "character": "Prince",
+                "credit_id": "5f28837dc8a5ac0037fb36c5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6a33h1vTe9smgilmXLrDZ6lepI.jpg",
+                "genre_ids": [
+                    10749,
+                    878,
+                    18
+                ],
+                "id": 818750,
+                "original_language": "en",
+                "original_title": "The In Between",
+                "overview": "After surviving a car accident that took the life of her boyfriend, a teenage girl believes he's attempting to reconnect with her from the after world.",
+                "popularity": 3.64,
+                "poster_path": "/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg",
+                "release_date": "2022-02-11",
+                "title": "The In Between",
+                "video": false,
+                "vote_average": 7.352,
+                "vote_count": 802,
+                "character": "Tessa",
+                "credit_id": "607870d77464570029d85e3e",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6a33h1vTe9smgilmXLrDZ6lepI.jpg",
+                "genre_ids": [
+                    10749,
+                    878,
+                    18
+                ],
+                "id": 818750,
+                "original_language": "en",
+                "original_title": "The In Between",
+                "overview": "After surviving a car accident that took the life of her boyfriend, a teenage girl believes he's attempting to reconnect with her from the after world.",
+                "popularity": 3.64,
+                "poster_path": "/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg",
+                "release_date": "2022-02-11",
+                "title": "The In Between",
+                "video": false,
+                "vote_average": 7.352,
+                "vote_count": 802,
+                "credit_id": "607871972938350071e1a0d3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oOZM1C3wZtsZtdidVgEazeas7U4.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 727745,
+                "original_language": "en",
+                "original_title": "The Kissing Booth 3",
+                "overview": "It\u2019s the summer before Elle heads to college, and she has a secret decision to make. Elle has been accepted into Harvard, where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee is headed and has to decide if she should stay or not.",
+                "popularity": 4.7786,
+                "poster_path": "/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg",
+                "release_date": "2021-08-11",
+                "title": "The Kissing Booth 3",
+                "video": false,
+                "vote_average": 6.877,
+                "vote_count": 1965,
+                "credit_id": "60ff7a58e24b930075c2380a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bXdCpL1A1mW2sEBiTmYYFnb10XN.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 583083,
+                "original_language": "en",
+                "original_title": "The Kissing Booth 2",
+                "overview": "With college decisions looming, Elle juggles her long-distance romance with Noah, changing relationship with bestie Lee and feelings for a new classmate.",
+                "popularity": 5.2514,
+                "poster_path": "/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+                "release_date": "2020-07-24",
+                "title": "The Kissing Booth 2",
+                "video": false,
+                "vote_average": 7.622,
+                "vote_count": 5065,
+                "credit_id": "5f1b31b072a2c90033bf22e8",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u03a4\u03b6\u03cc\u03b9 \u039a\u03b9\u03bd\u03b3\u03ba",
+            "Joey Lynn King",
+            "\uc870\uc774 \ud0b9",
+            "\u4e54\u4f0a\u00b7\u91d1",
+            "\u55ac\u4f0a\u00b7\u91d1",
+            "\u30b8\u30e7\u30fc\u30a4\u30fb\u30ea\u30f3\u30fb\u30ad\u30f3\u30b0",
+            "\u0414\u0436\u043e\u0457 \u041a\u0456\u043d\u0433",
+            "\u0414\u0436\u043e\u0438 \u041a\u0438\u043d\u0433",
+            "\u062c\u0648\u06cc\u06cc \u06a9\u06cc\u0646\u06af"
+        ],
+        "biography": "Joey Lynn King\u00a0(born July 30, 1999) is an American actress. She starred as\u00a0Ramona Quimby\u00a0in the comedy film\u00a0Ramona and Beezus (2010). She gained wider recognition for her lead role as a late-blooming teenager in\u00a0The Kissing Booth\u00a0film series\u00a0(2018\u20132021). King received critical acclaim for playing\u00a0Gypsy-Rose Blanchard in the crime drama series\u00a0The Act\u00a0(2019), for which she was nominated for a\u00a0Primetime Emmy Award\u00a0and a\u00a0Golden Globe Award.\n\nKing has also appeared in the films\u00a0Battle: Los Angeles\u00a0(2011),\u00a0Crazy, Stupid, Love\u00a0(2011),\u00a0The Dark Knight Rises\u00a0(2012),\u00a0The Conjuring\u00a0(2013),\u00a0White House Down\u00a0(2013),\u00a0Oz the Great and Powerful\u00a0(2013),\u00a0Independence Day: Resurgence (2016), and\u00a0Going in Style\u00a0(2017), as well as in the\u00a0FX\u00a0black comedy series\u00a0Fargo\u00a0(2014\u20132015). She has since taken on lead roles in the action films\u00a0Bullet Train\u00a0(2022) and\u00a0The Princess\u00a0(2022), romantic comedy\u00a0A Family Affair\u00a0(2024), and performed a voice role in\u00a0Despicable Me 4\u00a0(2024).\n\nDescription above from the Wikipedia article Joey King, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1999-07-30",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 125025,
+        "imdb_id": "nm1428821",
+        "known_for_department": "Acting",
+        "name": "Joey King",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 4.3932,
+        "profile_path": "/b0diEOPPAxOOInWOP9koaqvqUvi.jpg"
+    }
+}

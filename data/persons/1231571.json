@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 585,
+                "original_language": "en",
+                "original_title": "Monsters, Inc.",
+                "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+                "popularity": 16.8078,
+                "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+                "release_date": "2001-11-01",
+                "title": "Monsters, Inc.",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 19114,
+                "character": "Additional Voices (voice)",
+                "credit_id": "52fe4258c3a36847f8016e69",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 12,
+                "original_language": "en",
+                "original_title": "Finding Nemo",
+                "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+                "popularity": 12.7855,
+                "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+                "release_date": "2003-05-30",
+                "title": "Finding Nemo",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 19911,
+                "character": "Additional Voices  (voice)",
+                "credit_id": "61f05d566af9dd00ba6b38e7",
+                "order": 67
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9mxDXwoNLLX1SOeq2uiqEfGg4sN.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 4464,
+                "original_language": "en",
+                "original_title": "Seabiscuit",
+                "overview": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+                "popularity": 2.6907,
+                "poster_path": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+                "release_date": "2003-07-22",
+                "title": "Seabiscuit",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 869,
+                "character": "Pollard Child",
+                "credit_id": "63b73c98f04d01007ce91da9",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1231571,
+        "imdb_id": "nm1130985",
+        "known_for_department": "Camera",
+        "name": "Noah Luke",
+        "place_of_birth": null,
+        "popularity": 0.1122,
+        "profile_path": "/mwRQJiwaJfmcAZLZDrgZxTuXNWy.jpg"
+    }
+}

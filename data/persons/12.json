@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 12,
+                "original_language": "en",
+                "original_title": "Finding Nemo",
+                "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+                "popularity": 13.6566,
+                "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+                "release_date": "2003-05-30",
+                "title": "Finding Nemo",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 19911,
+                "character": "Nemo (voice)",
+                "credit_id": "52fe420ec3a36847f8000675",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o11rDwFa7nZMVI57Mm3C44YwmmF.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 127380,
+                "original_language": "en",
+                "original_title": "Finding Dory",
+                "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+                "popularity": 7.1829,
+                "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+                "release_date": "2016-06-16",
+                "title": "Finding Dory",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 12360,
+                "character": "Passenger Carl (voice)",
+                "credit_id": "575a9ef6c3a3684188000f8c",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u4e9e\u6b77\u5c71\u5927\u00b7\u53e4\u723e\u5fb7"
+        ],
+        "biography": "Alexander Jerome Gould (born May 4, 1994) is an American television actor and voice artist. He is best known for his role as Shane Botwin on the Showtime TV series Weeds and for having provided the voice of Nemo in Pixar's Finding Nemo.",
+        "birthday": "1994-05-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12,
+        "imdb_id": "nm1071252",
+        "known_for_department": "Acting",
+        "name": "Alexander Gould",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.6135,
+        "profile_path": "/fe4mUSp0XotA6Ku4Bs69Q9o2lqU.jpg"
+    }
+}

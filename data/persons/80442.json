@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Ww2p8mXVVOyj3RLKRg6GzeYIAv.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    27
+                ],
+                "id": 13008,
+                "original_language": "en",
+                "original_title": "An American Crime",
+                "overview": "The true story of suburban housewife Gertrude Baniszewski, who kept a teenage girl locked in the basement of her Indiana home during the 1960s.",
+                "popularity": 2.7915,
+                "poster_path": "/bLsE0sMI1bycBxZX7QNYghy5iyi.jpg",
+                "release_date": "2007-07-27",
+                "title": "An American Crime",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 740,
+                "character": "Johnny Baniszewski",
+                "credit_id": "52fe452e9251416c7504e617",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3aGsZdB5ud6LmU9lppwTLh2fqH1.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 16320,
+                "original_language": "en",
+                "original_title": "Serenity",
+                "overview": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything \u2013 or anyone \u2013 to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
+                "popularity": 7.4779,
+                "poster_path": "/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+                "release_date": "2005-09-25",
+                "title": "Serenity",
+                "video": false,
+                "vote_average": 7.363,
+                "vote_count": 3675,
+                "character": "Lilac Son",
+                "credit_id": "52fe46c59251416c75083061",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1994-06-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://tristanjarred.net/",
+        "id": 80442,
+        "imdb_id": "nm1363701",
+        "known_for_department": "Acting",
+        "name": "Tristan Jarred",
+        "place_of_birth": "Saint Joseph, Michigan, USA",
+        "popularity": 1.7497,
+        "profile_path": "/tvSxu5wxI6yDogKekprZWTORWrH.jpg"
+    }
+}

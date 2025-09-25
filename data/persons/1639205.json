@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bz7pwNGCbV576COsDcYN9MbEACC.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    12
+                ],
+                "id": 370172,
+                "original_language": "en",
+                "original_title": "No Time to Die",
+                "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+                "popularity": 9.304,
+                "poster_path": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+                "release_date": "2021-09-29",
+                "title": "No Time to Die",
+                "video": false,
+                "vote_average": 7.355,
+                "vote_count": 6670,
+                "character": "Alison Smith",
+                "credit_id": "615b01ef8e2ba60021468294",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 1100099,
+                "original_language": "en",
+                "original_title": "We Live in Time",
+                "overview": "An up-and-coming chef and a recent divorc\u00e9e find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+                "popularity": 8.5081,
+                "poster_path": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+                "release_date": "2024-10-10",
+                "title": "We Live in Time",
+                "video": false,
+                "vote_average": 7.295,
+                "vote_count": 1038,
+                "character": "Leah",
+                "credit_id": "66d0c8b4de9e844993c09def",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1639205,
+        "imdb_id": "nm1632762",
+        "known_for_department": "Acting",
+        "name": "Amy Morgan",
+        "place_of_birth": null,
+        "popularity": 0.8399,
+        "profile_path": "/qV4vtFOVcKFR7UxcuSxCXaxW5H1.jpg"
+    }
+}

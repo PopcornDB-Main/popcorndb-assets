@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fny1B9hmVilFtU3RRjkMZffBjUi.jpg",
+                "genre_ids": [
+                    878,
+                    10749,
+                    18
+                ],
+                "id": 9663,
+                "original_language": "en",
+                "original_title": "Starman",
+                "overview": "When an alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona, the government tries to stop them.",
+                "popularity": 4.3244,
+                "poster_path": "/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg",
+                "release_date": "1984-12-13",
+                "title": "Starman",
+                "video": false,
+                "vote_average": 6.945,
+                "vote_count": 925,
+                "character": "Sergeant Lemon",
+                "credit_id": "53344fb2c3a3682a8e0023f1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.5468,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.157,
+                "vote_count": 1561,
+                "character": "Pilot",
+                "credit_id": "672c61a950e15e8f5a5865e9",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 170644,
+        "imdb_id": "nm0250415",
+        "known_for_department": "Acting",
+        "name": "Tony Edwards",
+        "place_of_birth": null,
+        "popularity": 0.1109,
+        "profile_path": "/vmbrsMS8HSGh91FC2uglYKQ5I2b.jpg"
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/isnJGDrfR9dIrHMsPTvHtJaGEpc.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 504608,
+                "original_language": "en",
+                "original_title": "Rocketman",
+                "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+                "popularity": 4.8286,
+                "poster_path": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+                "release_date": "2019-05-17",
+                "title": "Rocketman",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4817,
+                "character": "Doorman (uncredited)",
+                "credit_id": "64333df26dea3a00b54f8f94",
+                "order": 167
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "genre_ids": [
+                    36,
+                    35,
+                    18
+                ],
+                "id": 375262,
+                "original_language": "en",
+                "original_title": "The Favourite",
+                "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+                "popularity": 6.455,
+                "poster_path": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+                "release_date": "2018-11-23",
+                "title": "The Favourite",
+                "video": false,
+                "vote_average": 7.504,
+                "vote_count": 5681,
+                "character": "Wig",
+                "credit_id": "67cc4963f23e9940105ba22f",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg",
+                "genre_ids": [
+                    53,
+                    36,
+                    18
+                ],
+                "id": 522241,
+                "original_language": "en",
+                "original_title": "The Courier",
+                "overview": "Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.",
+                "popularity": 4.2333,
+                "poster_path": "/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg",
+                "release_date": "2020-01-24",
+                "title": "The Courier",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1222,
+                "character": "MI6 Worker",
+                "credit_id": "67cc498b42c7521252f5b050",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 21.1918,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 11225,
+                "character": "Detective Lujack",
+                "credit_id": "67cc4ad442c7521252f5b14a",
+                "order": 83
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2OaA7Je0fgcVnfJM7xDJoPny7x.jpg",
+                "genre_ids": [
+                    12,
+                    9648,
+                    80
+                ],
+                "id": 829280,
+                "original_language": "en",
+                "original_title": "Enola Holmes 2",
+                "overview": "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends \u2014 and Sherlock himself \u2014 to unravel.",
+                "popularity": 4.959,
+                "poster_path": "/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+                "release_date": "2022-11-30",
+                "title": "Enola Holmes 2",
+                "video": false,
+                "vote_average": 7.34,
+                "vote_count": 1599,
+                "character": "Upper Middle Class Gentleman",
+                "credit_id": "67cc4c2342c7521252f5b22c",
+                "order": 71
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7kgDHoXEk0EySTczcmaYpPDBFQS.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 760774,
+                "original_language": "en",
+                "original_title": "One Life",
+                "overview": "British stockbroker Nicholas Winton visits Czechoslovakia in the 1930s and forms plans to assist in the rescue of Jewish children before the onset of World War II, in an operation that came to be known as the Kindertransport.",
+                "popularity": 4.5068,
+                "poster_path": "/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg",
+                "release_date": "2023-12-21",
+                "title": "One Life",
+                "video": false,
+                "vote_average": 7.77,
+                "vote_count": 851,
+                "character": "Diner",
+                "credit_id": "67cc4dd37c70c42a034f8547",
+                "order": 64
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 1100099,
+                "original_language": "en",
+                "original_title": "We Live in Time",
+                "overview": "An up-and-coming chef and a recent divorc\u00e9e find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+                "popularity": 7.2312,
+                "poster_path": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+                "release_date": "2024-10-10",
+                "title": "We Live in Time",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1032,
+                "character": "CEO Weetabix",
+                "credit_id": "67cc4e922fe71b8c45f59bc6",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Kemal shah was born in London United Kingdom on 10 September 1963 and is one of two children. Kemal in his youth was enrolled in a London stage school, and studied acting and dance. In later years studied acting at the actors Institute in London. His earlier appearances were for TV in Z Cars.",
+        "birthday": "1963-09-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4002466,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Kemal Shah",
+        "place_of_birth": "North London, England, UK",
+        "popularity": 0.0807,
+        "profile_path": "/7x9nxyDMnVBcbiOWAk41rJLvKnt.jpg"
+    }
+}

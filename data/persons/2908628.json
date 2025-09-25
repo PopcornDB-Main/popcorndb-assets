@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2cBCFvMDLZowXKvMaCGot5dmHUz.jpg",
+                "genre_ids": [
+                    99,
+                    80,
+                    36
+                ],
+                "id": 22074,
+                "original_language": "en",
+                "original_title": "Capitalism: A Love Story",
+                "overview": "Michael Moore comes home to the issue he's been examining throughout his career: the disastrous impact of corporate dominance on the everyday lives of Americans (and by default, the rest of the world).",
+                "popularity": 3.0707,
+                "poster_path": "/zJBkIPakBXdu3cEgGqKCPHUNXVE.jpg",
+                "release_date": "2009-09-06",
+                "title": "Capitalism: A Love Story",
+                "video": false,
+                "vote_average": 7.097,
+                "vote_count": 543,
+                "character": "Self",
+                "credit_id": "5fe4940631644b003df75748",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 407806,
+                "original_language": "en",
+                "original_title": "13th",
+                "overview": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+                "popularity": 1.9336,
+                "poster_path": "/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+                "release_date": "2016-10-07",
+                "title": "13th",
+                "video": false,
+                "vote_average": 7.886,
+                "vote_count": 762,
+                "character": "Self (archive footage)",
+                "credit_id": "60b4f749c740d90079d95c25",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bernard Sanders",
+            "Senator Bernie Sanders"
+        ],
+        "biography": "Bernard Sanders (born September 8, 1941) is an American politician and activist serving as the senior United States senator from Vermont, a seat he has held since 2007. He was the U.S. representative for the state's at-large congressional district from 1991 to 2007. Sanders is the longest serving independent in U.S. congressional history. He has a close relationship with the Democratic Party, having caucused with House and Senate Democrats for most of his congressional career and emerging as a key ally of President Joe Biden. A self-described democratic socialist, he is often seen as a leader of the progressive movement in the United States. Sanders unsuccessfully sought the Democratic Party nomination for president of the United States in 2016 and 2020, finishing in second place in both campaigns. Before his election to Congress, he was mayor of Burlington, Vermont.",
+        "birthday": "1941-09-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://berniesanders.com",
+        "id": 2908628,
+        "imdb_id": "nm0761471",
+        "known_for_department": "Acting",
+        "name": "Bernie Sanders",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 0.3937,
+        "profile_path": "/pFNsAj47mejjvZv3iWqT0nj35ES.jpg"
+    }
+}

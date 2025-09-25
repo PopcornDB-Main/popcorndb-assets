@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6088,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "Officer in Project Apt.",
+                "credit_id": "52fe428ec3a36847f8027bb5",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 4.0805,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.49,
+                "vote_count": 2409,
+                "character": "Conservative Man",
+                "credit_id": "5616fbc4c3a3680fae000738",
+                "order": 37
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6088,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "credit_id": "5faf67d3e24e3a003ee5517c",
+                "department": "Directing",
+                "job": "Continuity"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 162074,
+        "imdb_id": "nm0723466",
+        "known_for_department": "Acting",
+        "name": "John Rice",
+        "place_of_birth": null,
+        "popularity": 0.0389,
+        "profile_path": "/olYzjAsd8kMHpgjHoWd7kDp2wCs.jpg"
+    }
+}

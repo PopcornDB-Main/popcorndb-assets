@@ -1,0 +1,172 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 508,
+                "original_language": "en",
+                "original_title": "Love Actually",
+                "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+                "popularity": 7.0488,
+                "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+                "release_date": "2003-09-07",
+                "title": "Love Actually",
+                "video": false,
+                "vote_average": 7.103,
+                "vote_count": 7044,
+                "character": "Sam",
+                "credit_id": "52fe424cc3a36847f80133c9",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ouMbyjN1WJKyRqgvwovGl58e4eR.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 33511,
+                "original_language": "en",
+                "original_title": "Nowhere Boy",
+                "overview": "A rebellious teenager, future Beatle John Lennon lives with his Aunt Mimi in working-class mid-1950s Liverpool, England. Mimi's husband suddenly dies, and John spies his mother Julia at the funeral. Despite Mimi's misgivings, John intends to have a real relationship with his mother. Julia introduces him to popular music and the banjo and, though a family conflict looms, young John is inspired to form his own band.",
+                "popularity": 3.8807,
+                "poster_path": "/1rFcosLtBnGL2ru0IPtwx3QSeKK.jpg",
+                "release_date": "2009-12-25",
+                "title": "Nowhere Boy",
+                "video": false,
+                "vote_average": 7.175,
+                "vote_count": 834,
+                "character": "Paul McCartney",
+                "credit_id": "52fe451f9251416c910283c9",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    10770,
+                    878,
+                    12,
+                    28,
+                    10402
+                ],
+                "id": 71689,
+                "original_language": "en",
+                "original_title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+                "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
+                "popularity": 4.2913,
+                "poster_path": "/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
+                "release_date": "2011-08-05",
+                "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+                "video": false,
+                "vote_average": 7.095,
+                "vote_count": 580,
+                "character": "Ferb Fletcher (voice)",
+                "credit_id": "52fe4843c3a368484e0f02db",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+                "genre_ids": [
+                    28,
+                    9648,
+                    878,
+                    53
+                ],
+                "id": 198663,
+                "original_language": "en",
+                "original_title": "The Maze Runner",
+                "overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+                "popularity": 23.2679,
+                "poster_path": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+                "release_date": "2014-09-10",
+                "title": "The Maze Runner",
+                "video": false,
+                "vote_average": 7.192,
+                "vote_count": 17558,
+                "character": "Newt",
+                "credit_id": "52fe4d859251416c911190a1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 336843,
+                "original_language": "en",
+                "original_title": "Maze Runner: The Death Cure",
+                "overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+                "popularity": 9.6871,
+                "poster_path": "/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
+                "release_date": "2018-01-10",
+                "title": "Maze Runner: The Death Cure",
+                "video": false,
+                "vote_average": 7.096,
+                "vote_count": 8097,
+                "character": "Newt",
+                "credit_id": "555bc89692514163b50011ba",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 11.7739,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19968,
+                "character": "First Order Officer",
+                "credit_id": "586346219251413cd6003286",
+                "order": 62
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Thomas Sangster",
+            "Thomas Brodie Sangster",
+            "\ud1a0\ub9c8\uc2a4 \uc0dd\uc2a4\ud130",
+            "\u062a\u0648\u0645\u0627\u0633 \u0628\u0631\u0648\u062f\u06cc \u0633\u0646\u06af\u0633\u062a\u0631",
+            "\u0e42\u0e17\u0e21\u0e31\u0e2a \u0e42\u0e1a\u0e23\u0e14\u0e35\u0e49-\u0e41\u0e0b\u0e07\u0e2a\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+        ],
+        "biography": "Thomas Brodie-Sangster (born 16 May 1990), is an English actor. He is known for playing Sam in Love Actually (2003), Simon in Nanny McPhee (2005), Ferb in Phineas and Ferb (2007\u20132015), Jojen Reed in Game of Thrones (2013\u20132014), Newt in the Maze Runner film series (2014\u20132018), and Benny Watts in the Netflix miniseries The Queen's Gambit (2020), for which he was nominated for the Primetime Emmy Award for Outstanding Supporting Actor in a Limited Series or Movie.\n\nBrodie-Sangster also grew in popularity for starring in critically acclaimed cult films such as Death of a Superhero (2011), Bright Star (2009), and as Paul McCartney in Nowhere Boy (2009). He played Jake Murray in the series Accused (2010\u20132012). He also had a cameo as an officer of the First Order in Star Wars: The Force Awakens (2015), a role as Whitey Winn in the Netflix miniseries Godless (2017) and voiced John Tracy in Thunderbirds Are Go (2015\u20132020).",
+        "birthday": "1990-05-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 25663,
+        "imdb_id": "nm1032473",
+        "known_for_department": "Acting",
+        "name": "Thomas Brodie-Sangster",
+        "place_of_birth": "Southwark, London, England, UK",
+        "popularity": 2.5212,
+        "profile_path": "/ovfgjgaE7aAXKYaemABX6pJFwRk.jpg"
+    }
+}

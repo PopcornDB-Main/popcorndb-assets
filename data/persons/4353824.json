@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+                "genre_ids": [
+                    10749,
+                    14,
+                    18,
+                    35
+                ],
+                "id": 137,
+                "original_language": "en",
+                "original_title": "Groundhog Day",
+                "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+                "popularity": 7.2346,
+                "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+                "release_date": "1993-02-11",
+                "title": "Groundhog Day",
+                "video": false,
+                "vote_average": 7.616,
+                "vote_count": 8408,
+                "character": "Bank Guard Felix",
+                "credit_id": "6543fbcb8c7b0f011d9e1630",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d9eONXYtCmQnPWw61w9pNMGlSzK.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 1262,
+                "original_language": "en",
+                "original_title": "Stranger Than Fiction",
+                "overview": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+                "popularity": 4.842,
+                "poster_path": "/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+                "release_date": "2006-09-09",
+                "title": "Stranger Than Fiction",
+                "video": false,
+                "vote_average": 7.282,
+                "vote_count": 2388,
+                "character": "Man in Tweed",
+                "credit_id": "65c8e3164350110183e9b215",
+                "order": 45
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1926-03-13",
+        "deathday": "2008-06-11",
+        "gender": 2,
+        "homepage": null,
+        "id": 4353824,
+        "imdb_id": "nm0239551",
+        "known_for_department": "Acting",
+        "name": "Chet Dubowski",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

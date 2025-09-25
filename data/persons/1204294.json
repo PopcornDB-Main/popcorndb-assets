@@ -1,0 +1,204 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/u9ZLyLvqHY5VDjn0Rs4LKAklsAV.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 840,
+                "original_language": "en",
+                "original_title": "Close Encounters of the Third Kind",
+                "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+                "popularity": 5.357,
+                "poster_path": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+                "release_date": "1977-12-14",
+                "title": "Close Encounters of the Third Kind",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 4399,
+                "character": "Special Forces Commander / Helicopter Pilot (uncredited)",
+                "credit_id": "52fe427fc3a36847f8023597",
+                "order": 53
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Weequay Skiff Guard (uncredited)",
+                "credit_id": "5ec543aa140bad001d17869e",
+                "order": 149
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1573,
+                "original_language": "en",
+                "original_title": "Die Hard 2",
+                "overview": "One year after his heroics in Los Angeles, John McClane is an off-duty cop who is the wrong guy in the wrong place at the wrong time. On a snowy Christmas Eve, as he waits for his wife's plane to land at Washington Dulles International Airport, terrorists take over the air traffic control system in a plot to free a South American army general and drug smuggler being flown into the US to face drug charges. It's now up to McClane to take on the terrorists, while coping with an inept airport police chief, an uncooperative anti-terrorist squad, and the life of his wife and everyone else trapped in planes circling overhead.",
+                "popularity": 10.1465,
+                "poster_path": "/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
+                "release_date": "1990-07-03",
+                "title": "Die Hard 2",
+                "video": false,
+                "vote_average": 6.959,
+                "vote_count": 6088,
+                "credit_id": "641625c5357c0000f5f0875e",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 280,
+                "original_language": "en",
+                "original_title": "Terminator 2: Judgment Day",
+                "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+                "popularity": 13.7182,
+                "poster_path": "/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+                "release_date": "1991-07-03",
+                "title": "Terminator 2: Judgment Day",
+                "video": false,
+                "vote_average": 8.133,
+                "vote_count": 13562,
+                "credit_id": "64481c5a140bad04fda786e3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 106,
+                "original_language": "en",
+                "original_title": "Predator",
+                "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                "popularity": 12.1249,
+                "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+                "release_date": "1987-06-12",
+                "title": "Predator",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 8541,
+                "credit_id": "5a5b8741c3a36867de022387",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 17529,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+                "popularity": 4.1273,
+                "poster_path": "/9TjGjAD2deCtIG4ebi8LhIyFK6j.jpg",
+                "release_date": "1969-06-11",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 818,
+                "credit_id": "647fefbb99259c00ff0c2253",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 218,
+                "original_language": "en",
+                "original_title": "The Terminator",
+                "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+                "popularity": 11.1748,
+                "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+                "release_date": "1984-10-26",
+                "title": "The Terminator",
+                "video": false,
+                "vote_average": 7.671,
+                "vote_count": 13841,
+                "credit_id": "648db50142bf0100c7fb33a9",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/u9ZLyLvqHY5VDjn0Rs4LKAklsAV.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 840,
+                "original_language": "en",
+                "original_title": "Close Encounters of the Third Kind",
+                "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+                "popularity": 5.357,
+                "poster_path": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+                "release_date": "1977-12-14",
+                "title": "Close Encounters of the Third Kind",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 4399,
+                "credit_id": "64bde4a6b865eb00ada0fe6b",
+                "department": "Crew",
+                "job": "Utility Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1204294,
+        "imdb_id": "nm0430114",
+        "known_for_department": "Acting",
+        "name": "Monty Jordan",
+        "place_of_birth": null,
+        "popularity": 0.1439,
+        "profile_path": null
+    }
+}

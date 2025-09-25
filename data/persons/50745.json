@@ -1,0 +1,163 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/DNb1rBm6R75IJ88PKOd0wfCHm6.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    14
+                ],
+                "id": 526,
+                "original_language": "en",
+                "original_title": "Ladyhawke",
+                "overview": "Captain Etienne Navarre is a man on whose shoulders lies a cruel curse. Punished for loving each other, Navarre must become a wolf by night whilst his lover, Lady Isabeau, takes the form of a hawk by day. Together, with the thief Philippe Gaston, they must try to overthrow the corrupt Bishop and in doing so break the spell.",
+                "popularity": 3.9379,
+                "poster_path": "/vJA2Fhw2uBMiVFdBde2kH7kZ2gw.jpg",
+                "release_date": "1985-03-27",
+                "title": "Ladyhawke",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 1192,
+                "character": "Fornac's Man (uncredited)",
+                "credit_id": "5a34027fc3a368148f02976c",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11051,
+                "original_language": "en",
+                "original_title": "The Last Temptation of Christ",
+                "overview": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt.",
+                "popularity": 2.8102,
+                "poster_path": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+                "release_date": "1988-05-28",
+                "title": "The Last Temptation of Christ",
+                "video": false,
+                "vote_average": 7.231,
+                "vote_count": 1126,
+                "character": "Roman Soldier (uncredited)",
+                "credit_id": "5a8c94020e0a26540c0947cd",
+                "order": 53
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cywruBlB6MyvBeITya7aN4zeri3.jpg",
+                "genre_ids": [
+                    28,
+                    35
+                ],
+                "id": 11689,
+                "original_language": "it",
+                "original_title": "I due superpiedi quasi piatti",
+                "overview": "An attempted robbery turns to be an unexpected recruitment when two unemployed men mistakenly break into a police office instead of a store.",
+                "popularity": 3.3562,
+                "poster_path": "/z35E0qY8wkkSPIBT5ptQAyWvr8k.jpg",
+                "release_date": "1977-04-01",
+                "title": "Crime Busters",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 673,
+                "character": "Racket in the bowling alley",
+                "credit_id": "5e46af839603310015f747fb",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7aO5Xua7NTi0nLkcdGYRGx15tIP.jpg",
+                "genre_ids": [
+                    28,
+                    35
+                ],
+                "id": 6916,
+                "original_language": "it",
+                "original_title": "...altrimenti ci arrabbiamo!",
+                "overview": "After a tied 1st place in a local stunt race, two drivers start a contest to decide who of them will own the prize, a dune buggy. But when a mobster destroys the car, they are determined to get it back.",
+                "popularity": 2.5054,
+                "poster_path": "/oERikPHC3cr9UDCale6YrQxkyNW.jpg",
+                "release_date": "1974-03-29",
+                "title": "Watch Out, We're Mad",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 841,
+                "character": "Boxeador (uncredited)",
+                "credit_id": "5e47e57c1e92250015bff0d9",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7aO5Xua7NTi0nLkcdGYRGx15tIP.jpg",
+                "genre_ids": [
+                    28,
+                    35
+                ],
+                "id": 6916,
+                "original_language": "it",
+                "original_title": "...altrimenti ci arrabbiamo!",
+                "overview": "After a tied 1st place in a local stunt race, two drivers start a contest to decide who of them will own the prize, a dune buggy. But when a mobster destroys the car, they are determined to get it back.",
+                "popularity": 2.5054,
+                "poster_path": "/oERikPHC3cr9UDCale6YrQxkyNW.jpg",
+                "release_date": "1974-03-29",
+                "title": "Watch Out, We're Mad",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 841,
+                "credit_id": "66e6666c050f14e4fccf535a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11051,
+                "original_language": "en",
+                "original_title": "The Last Temptation of Christ",
+                "overview": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt.",
+                "popularity": 2.8102,
+                "poster_path": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+                "release_date": "1988-05-28",
+                "title": "The Last Temptation of Christ",
+                "video": false,
+                "vote_average": 7.231,
+                "vote_count": 1126,
+                "credit_id": "66f71bcba7c4376a46920be6",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ken Wood",
+            "Giovanni Cianfrilla",
+            "Giovanni Gianfriglia",
+            "Phil Karson",
+            "Alfred Raichlin",
+            "John Richmond",
+            "Jody Wanger"
+        ],
+        "biography": "Giovanni Cianfriglia (born 5 April 1935) is an Italian film actor. He has appeared in more than 100 films since 1958.\n\nBorn in Anzio, Cianfriglia debuted as the body double of Steve Reeves in Hercules, then he started appearing, often uncredited, as a stuntman in dozens of genre films. Since the second half of the sixties he starred in several adventure films and Spaghetti Westerns in leading roles using the stage name Ken Wood.\n\nSource: Article \"Giovanni Cianfriglia\" from Wikipedia in English, licensed under CC-BY-SA 3.0.",
+        "birthday": "1935-04-05",
+        "deathday": "2024-10-30",
+        "gender": 2,
+        "homepage": null,
+        "id": 50745,
+        "imdb_id": "nm0161836",
+        "known_for_department": "Acting",
+        "name": "Giovanni Cianfriglia",
+        "place_of_birth": "Anzio, Lazio, Italy",
+        "popularity": 0.2886,
+        "profile_path": "/74UX7pAsLoFeF5ot4uOPcXEVKsf.jpg"
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bHePzkyRcMhnab2qZbhj1bCElnf.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 300,
+                "original_language": "fr",
+                "original_title": "La Science des r\u00eaves",
+                "overview": "A man entranced by his dreams and imagination is lovestruck with a French woman and feels he can show her his world.",
+                "popularity": 4.9355,
+                "poster_path": "/8bummqwU6MV65ZJvNtKx8Y3NIEk.jpg",
+                "release_date": "2006-06-25",
+                "title": "The Science of Sleep",
+                "video": false,
+                "vote_average": 6.994,
+                "vote_count": 798,
+                "character": "Guy",
+                "credit_id": "52fe4234c3a36847f800bff5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1Cuaush5VwesuZJzJRy2ptfalCh.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35,
+                    12
+                ],
+                "id": 2899,
+                "original_language": "fr",
+                "original_title": "Ast\u00e9rix & Ob\u00e9lix : Mission Cl\u00e9op\u00e2tre",
+                "overview": "History's favorite Gauls assist Queen Cleopatra when she wagers that the Egyptian people can build a palace for Julius Caesar in just three months.",
+                "popularity": 5.6606,
+                "poster_path": "/5gMmVSkY7RAxb5xRk7ej7JVhXyl.jpg",
+                "release_date": "2002-01-30",
+                "title": "Asterix & Obelix: Mission Cleopatra",
+                "video": false,
+                "vote_average": 7.375,
+                "vote_count": 3653,
+                "character": "Jules C\u00e9sar",
+                "credit_id": "52fe4373c3a36847f8055191",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMT2nS6ou3xwzp1XX40v8rJKl7U.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 15097,
+                "original_language": "fr",
+                "original_title": "La Cit\u00e9 de la peur",
+                "overview": "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown.",
+                "popularity": 3.4282,
+                "poster_path": "/xaTVWUrPbGM4SgrLOaaWLeUEafI.jpg",
+                "release_date": "1994-03-09",
+                "title": "Fear City: A Family-Style Comedy",
+                "video": false,
+                "vote_average": 7.468,
+                "vote_count": 1304,
+                "character": "Serge Karamazov / Youri / Jacques, TV journalist",
+                "credit_id": "52fe46399251416c750714bd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lBcXozUeABairkTavz3X3ZAtOL0.jpg",
+                "genre_ids": [
+                    10749,
+                    80,
+                    18
+                ],
+                "id": 959604,
+                "original_language": "fr",
+                "original_title": "L'Amour ouf",
+                "overview": "Local rebellious teenager Clotaire falls for his schoolmate Jackie, but gang violence leads him to a darker destructive path. After years apart, the star-crossed lovers discover that every path they've taken leads them back together.",
+                "popularity": 4.8103,
+                "poster_path": "/yu9dRyKcUHTfKcqsomUtpord4t3.jpg",
+                "release_date": "2024-10-16",
+                "title": "Beating Hearts",
+                "video": false,
+                "vote_average": 7.219,
+                "vote_count": 880,
+                "character": "Le p\u00e8re de Jackie",
+                "credit_id": "6467d8bc2bcf670172b0c1c5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dsqlBtXS5DJBrFYTIYJuSD5YatF.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 179150,
+                "original_language": "fr",
+                "original_title": "R\u00e9alit\u00e9",
+                "overview": "A wanna-be director is given 48 hours by a producer to find the best groan of pain, worthy of an Oscar, as the only condition to back his film.",
+                "popularity": 1.8043,
+                "poster_path": "/l6aty0lfqsTefZ5xduwT7D44N1q.jpg",
+                "release_date": "2015-02-18",
+                "title": "Reality",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 532,
+                "character": "Jason",
+                "credit_id": "5325865392514113b9001a7c",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/1Cuaush5VwesuZJzJRy2ptfalCh.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35,
+                    12
+                ],
+                "id": 2899,
+                "original_language": "fr",
+                "original_title": "Ast\u00e9rix & Ob\u00e9lix : Mission Cl\u00e9op\u00e2tre",
+                "overview": "History's favorite Gauls assist Queen Cleopatra when she wagers that the Egyptian people can build a palace for Julius Caesar in just three months.",
+                "popularity": 5.6606,
+                "poster_path": "/5gMmVSkY7RAxb5xRk7ej7JVhXyl.jpg",
+                "release_date": "2002-01-30",
+                "title": "Asterix & Obelix: Mission Cleopatra",
+                "video": false,
+                "vote_average": 7.375,
+                "vote_count": 3653,
+                "credit_id": "52fe4373c3a36847f80551c5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1Cuaush5VwesuZJzJRy2ptfalCh.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35,
+                    12
+                ],
+                "id": 2899,
+                "original_language": "fr",
+                "original_title": "Ast\u00e9rix & Ob\u00e9lix : Mission Cl\u00e9op\u00e2tre",
+                "overview": "History's favorite Gauls assist Queen Cleopatra when she wagers that the Egyptian people can build a palace for Julius Caesar in just three months.",
+                "popularity": 5.6606,
+                "poster_path": "/5gMmVSkY7RAxb5xRk7ej7JVhXyl.jpg",
+                "release_date": "2002-01-30",
+                "title": "Asterix & Obelix: Mission Cleopatra",
+                "video": false,
+                "vote_average": 7.375,
+                "vote_count": 3653,
+                "credit_id": "52fe4373c3a36847f805517b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMT2nS6ou3xwzp1XX40v8rJKl7U.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 15097,
+                "original_language": "fr",
+                "original_title": "La Cit\u00e9 de la peur",
+                "overview": "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown.",
+                "popularity": 3.4282,
+                "poster_path": "/xaTVWUrPbGM4SgrLOaaWLeUEafI.jpg",
+                "release_date": "1994-03-09",
+                "title": "Fear City: A Family-Style Comedy",
+                "video": false,
+                "vote_average": 7.468,
+                "vote_count": 1304,
+                "credit_id": "52fe46399251416c750714ad",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1Cuaush5VwesuZJzJRy2ptfalCh.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35,
+                    12
+                ],
+                "id": 2899,
+                "original_language": "fr",
+                "original_title": "Ast\u00e9rix & Ob\u00e9lix : Mission Cl\u00e9op\u00e2tre",
+                "overview": "History's favorite Gauls assist Queen Cleopatra when she wagers that the Egyptian people can build a palace for Julius Caesar in just three months.",
+                "popularity": 5.6606,
+                "poster_path": "/5gMmVSkY7RAxb5xRk7ej7JVhXyl.jpg",
+                "release_date": "2002-01-30",
+                "title": "Asterix & Obelix: Mission Cleopatra",
+                "video": false,
+                "vote_average": 7.375,
+                "vote_count": 3653,
+                "credit_id": "5eb14bea0b7316001c4250b7",
+                "department": "Production",
+                "job": "Co-Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Les Nuls"
+        ],
+        "biography": "Alain Chabat (born 24 November 1958) is a French actor and director who appeared in La Cit\u00e9 de la peur, French Twist, The Taste of Others and The Science of Sleep.",
+        "birthday": "1958-11-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4275,
+        "imdb_id": "nm0149260",
+        "known_for_department": "Acting",
+        "name": "Alain Chabat",
+        "place_of_birth": "Oran, Oranie, Alg\u00e9rie",
+        "popularity": 0.4984,
+        "profile_path": "/xRjymE6LIJd0useKWN2R1WgKDRy.jpg"
+    }
+}

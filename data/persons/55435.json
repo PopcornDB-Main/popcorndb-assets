@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ioqaIhJSkwa9DGRHGtOOUTiGRs2.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 8358,
+                "original_language": "en",
+                "original_title": "Cast Away",
+                "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+                "popularity": 7.9895,
+                "poster_path": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+                "release_date": "2000-12-22",
+                "title": "Cast Away",
+                "video": false,
+                "vote_average": 7.661,
+                "vote_count": 11818,
+                "character": "Dick Peterson",
+                "credit_id": "52fe44a2c3a36847f80a1521",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    53
+                ],
+                "id": 11454,
+                "original_language": "en",
+                "original_title": "Manhunter",
+                "overview": "FBI Agent Will Graham, who retired after catching Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+                "popularity": 0.1617,
+                "poster_path": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+                "release_date": "1986-08-14",
+                "title": "Manhunter",
+                "video": false,
+                "vote_average": 7.017,
+                "vote_count": 1437,
+                "character": "Mr. Leeds",
+                "credit_id": "58cdedf2c3a36850d7013f76",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.445,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "Roadie",
+                "credit_id": "68b680cb5890b17f293cd8c5",
+                "order": 76
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David A. Brooks",
+            "David Alan Brooks",
+            "David Brooks"
+        ],
+        "biography": "David Allen Brooks (born January 9, 1947 in Los Angeles, California) is an American actor.",
+        "birthday": "1947-01-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 55435,
+        "imdb_id": "nm0111944",
+        "known_for_department": "Acting",
+        "name": "David Allen Brooks",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.1441,
+        "profile_path": "/gGf6nbzTRBipuBcLFAw4nW0mdEI.jpg"
+    }
+}

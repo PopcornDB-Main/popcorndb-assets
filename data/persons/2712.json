@@ -1,0 +1,187 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 218,
+                "original_language": "en",
+                "original_title": "The Terminator",
+                "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+                "popularity": 11.1748,
+                "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+                "release_date": "1984-10-26",
+                "title": "The Terminator",
+                "video": false,
+                "vote_average": 7.671,
+                "vote_count": 13841,
+                "character": "Kyle Reese",
+                "credit_id": "52fe4228c3a36847f800851f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 679,
+                "original_language": "en",
+                "original_title": "Aliens",
+                "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+                "popularity": 10.7593,
+                "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "release_date": "1986-07-18",
+                "title": "Aliens",
+                "video": false,
+                "vote_average": 7.952,
+                "vote_count": 10315,
+                "character": "Corporal Hicks",
+                "credit_id": "52fe4269c3a36847f801c9c7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+                "genre_ids": [
+                    12,
+                    53,
+                    878
+                ],
+                "id": 2756,
+                "original_language": "en",
+                "original_title": "The Abyss",
+                "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+                "popularity": 7.9325,
+                "poster_path": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+                "release_date": "1989-08-09",
+                "title": "The Abyss",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 3203,
+                "character": "Lieutenant Hiram Coffey",
+                "credit_id": "52fe436ac3a36847f8052901",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+                "genre_ids": [
+                    37,
+                    28
+                ],
+                "id": 11969,
+                "original_language": "en",
+                "original_title": "Tombstone",
+                "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+                "popularity": 6.9673,
+                "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+                "release_date": "1993-12-25",
+                "title": "Tombstone",
+                "video": false,
+                "vote_average": 7.589,
+                "vote_count": 2284,
+                "character": "Johnny Ringo",
+                "credit_id": "52fe44ac9251416c7503cfcf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 9802,
+                "original_language": "en",
+                "original_title": "The Rock",
+                "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+                "popularity": 7.9286,
+                "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
+                "release_date": "1996-06-07",
+                "title": "The Rock",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 4924,
+                "character": "Commander Charles Anderson",
+                "credit_id": "52fe4530c3a36847f80c12b9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3EQrwVqg3px97hpzmoefT4tb1sO.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 621,
+                "original_language": "en",
+                "original_title": "Grease",
+                "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+                "popularity": 6.8711,
+                "poster_path": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+                "release_date": "1978-06-16",
+                "title": "Grease",
+                "video": false,
+                "vote_average": 7.374,
+                "vote_count": 7466,
+                "character": "Mike (uncredited)",
+                "credit_id": "5c80826e0e0a26430a5d934e",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/a3F9cXjRH488qcOqFmFZwqawBMU.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    878,
+                    53
+                ],
+                "id": 1376434,
+                "original_language": "en",
+                "original_title": "Predator: Killer of Killers",
+                "overview": "While three of the fiercest warriors in human history\u2014a Viking raider, a ninja in feudal Japan, and a WWII pilot\u2014are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+                "popularity": 21.6219,
+                "poster_path": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+                "release_date": "2025-06-05",
+                "title": "Predator: Killer of Killers",
+                "video": false,
+                "vote_average": 7.892,
+                "vote_count": 854,
+                "character": "Vandy (voice)",
+                "credit_id": "67f6ab57de5e4dec62acf883",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michael Connell Biehn",
+            "\u041c\u0430\u0439\u043a\u043b \u0411\u0456\u043d",
+            "\u0645\u0627\u06cc\u06a9\u0644 \u0628\u06cc\u0646"
+        ],
+        "biography": "Michael Connell Biehn (/\u02c8bi\u02d0n/ BEEN or Bean; born July 31, 1956) is an American actor, primarily known for his roles in science fiction films directed by James Cameron; as Sgt. Kyle Reese in The Terminator (1984), Cpl. Dwayne Hicks in Aliens (1986), and Lt. Coffey in The Abyss (1989). His other films include The Fan (1981), The Seventh Sign (1988), Navy SEALs (1990), Tombstone (1993), The Rock (1996), Mojave Moon (1996), Megiddo: The Omega Code 2 (2001), Clockstoppers (2002), and Planet Terror (2007). On television, he has appeared in Hill Street Blues (1984), The Magnificent Seven (1998\u20132000), and Adventure Inc. (2002\u20132003). Biehn received a Best Actor Saturn Award nomination for Aliens.\n\nDescription above from the Wikipedia article\u00a0 Michael Biehn, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1956-07-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2712,
+        "imdb_id": "nm0000299",
+        "known_for_department": "Acting",
+        "name": "Michael Biehn",
+        "place_of_birth": "Anniston, Alabama, USA",
+        "popularity": 0.9624,
+        "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    }
+}

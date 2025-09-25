@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9U4Di9iOslz3eJ9eRkdg5Qrf9JY.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1371,
+                "original_language": "en",
+                "original_title": "Rocky III",
+                "overview": "Following Rocky Balboa's intense battle with his most powerful adversary yet \u2013 the ferocious Clubber Lang \u2013 Rocky joins forces with former rival Apollo Creed in an effort to get back his fighting spirit.",
+                "popularity": 6.0596,
+                "poster_path": "/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+                "release_date": "1982-05-28",
+                "title": "Rocky III",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 4307,
+                "character": "Clubber Lang's Manager",
+                "credit_id": "52fe42f0c3a36847f802e56f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iukXiB3Guz5VyTlraZiBnHT8Y0B.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 1103,
+                "original_language": "en",
+                "original_title": "Escape from New York",
+                "overview": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+                "popularity": 5.0979,
+                "poster_path": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+                "release_date": "1981-05-23",
+                "title": "Escape from New York",
+                "video": false,
+                "vote_average": 7.052,
+                "vote_count": 3338,
+                "character": "Controller",
+                "credit_id": "648efdd2c2ff3d00ffbbef6c",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1930-07-14",
+        "deathday": "2012-10-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 6771,
+        "imdb_id": "nm0853321",
+        "known_for_department": "Acting",
+        "name": "Wally Taylor",
+        "place_of_birth": "Maywood, Illinois, USA",
+        "popularity": 0.5768,
+        "profile_path": "/4e1YcTFGkYp1YcdR80I5lSrXzSY.jpg"
+    }
+}

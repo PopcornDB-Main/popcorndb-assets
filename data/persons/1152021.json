@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 76600,
+                "original_language": "en",
+                "original_title": "Avatar: The Way of Water",
+                "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+                "popularity": 23.3461,
+                "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+                "release_date": "2022-12-14",
+                "title": "Avatar: The Way of Water",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 12861,
+                "character": "Tarsem",
+                "credit_id": "60f10e07839018002d5e0188",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    10751
+                ],
+                "id": 1184918,
+                "original_language": "en",
+                "original_title": "The Wild Robot",
+                "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+                "popularity": 22.1036,
+                "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+                "release_date": "2024-09-12",
+                "title": "The Wild Robot",
+                "video": false,
+                "vote_average": 8.316,
+                "vote_count": 5354,
+                "character": "Weasel 1 (voice)",
+                "credit_id": "66f74a6d393cda1d1dcbef5e",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Keeston John"
+        ],
+        "biography": "",
+        "birthday": "1984-08-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.kestonjohn.com/",
+        "id": 1152021,
+        "imdb_id": "nm1929609",
+        "known_for_department": "Acting",
+        "name": "Keston John",
+        "place_of_birth": "Randolph, Massachusetts, USA",
+        "popularity": 0.4291,
+        "profile_path": "/zEqkvuCDDgiErHg3XNyoG5TulUg.jpg"
+    }
+}

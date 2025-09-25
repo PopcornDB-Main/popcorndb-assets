@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+                "genre_ids": [
+                    53,
+                    27,
+                    9648
+                ],
+                "id": 399366,
+                "original_language": "es",
+                "original_title": "El secreto de Marrowbone",
+                "overview": "A young man and his three younger siblings are plagued by a sinister presence in the sprawling manor in which they live.",
+                "popularity": 3.6366,
+                "poster_path": "/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
+                "release_date": "2017-10-27",
+                "title": "Marrowbone",
+                "video": false,
+                "vote_average": 7.28,
+                "vote_count": 1711,
+                "character": "Thelma (uncredited)",
+                "credit_id": "57ce6d97c3a3683d760018ed",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 954,
+                "original_language": "en",
+                "original_title": "Mission: Impossible",
+                "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+                "popularity": 13.5362,
+                "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+                "release_date": "1996-05-22",
+                "title": "Mission: Impossible",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 9537,
+                "character": "Margaret Hunt",
+                "credit_id": "5eadc374cdbaff001cb08e31",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1675331,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Laura Brook",
+        "place_of_birth": null,
+        "popularity": 0.058,
+        "profile_path": null
+    }
+}

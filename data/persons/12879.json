@@ -1,0 +1,243 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5JaR6UEoCJJLtLpqFOVMY4O4R7P.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 949,
+                "original_language": "en",
+                "original_title": "Heat",
+                "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+                "popularity": 10.0455,
+                "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+                "release_date": "1995-12-15",
+                "title": "Heat",
+                "video": false,
+                "vote_average": 7.922,
+                "vote_count": 7791,
+                "character": "Driver at Drive-in",
+                "credit_id": "52fe4292c3a36847f8029283",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5e8V714wUtpPgMD9xD8NjTEqlyu.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 14746,
+                "original_language": "en",
+                "original_title": "Streets of Fire",
+                "overview": "Raven Shaddock and his gang of merciless biker friends kidnap rock singer Ellen Aim. Ellen's former lover, soldier-for-hire Tom Cody, happens to be passing through town on a visit. In an attempt to save his star act, Ellen's manager hires Tom to rescue her. Along with a former soldier, they battle through dangerous cityscapes, determined to get Ellen back.",
+                "popularity": 3.7895,
+                "poster_path": "/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+                "release_date": "1984-06-01",
+                "title": "Streets of Fire",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 520,
+                "character": "The Roadmasters",
+                "credit_id": "592590429251413b4a010564",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7qfRbS477Io8JnYz739P0aXbBVh.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 1073,
+                "original_language": "en",
+                "original_title": "Arlington Road",
+                "overview": "Bedraggled college professor Michael Faraday has been vexed \u2014 and increasingly paranoid \u2014 since his wife's accidental death in a botched FBI operation. When a seemingly all-American couple set up house next door, Michael begin to suspect there\u2019s more to them than meets the eye.",
+                "popularity": 5.0857,
+                "poster_path": "/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+                "release_date": "1999-03-19",
+                "title": "Arlington Road",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1162,
+                "credit_id": "6106f9b69715ae005e0108cf",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tupgjqhWx5oieQrdyesO3aclUX9.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 597,
+                "original_language": "en",
+                "original_title": "Titanic",
+                "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+                "popularity": 23.0816,
+                "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+                "release_date": "1997-11-18",
+                "title": "Titanic",
+                "video": false,
+                "vote_average": 7.906,
+                "vote_count": 26323,
+                "credit_id": "652a070ef2883802a009f1e9",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    37
+                ],
+                "id": 44264,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find\u2014a man with 'true grit'\u2014Reuben J. 'Rooster' Cogburn.",
+                "popularity": 6.0586,
+                "poster_path": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+                "release_date": "2010-12-22",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 5471,
+                "credit_id": "658f3459d861af3c54ac24c3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 90,
+                "original_language": "en",
+                "original_title": "Beverly Hills Cop",
+                "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+                "popularity": 4.9556,
+                "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+                "release_date": "1984-12-05",
+                "title": "Beverly Hills Cop",
+                "video": false,
+                "vote_average": 7.203,
+                "vote_count": 4371,
+                "credit_id": "64299f5a0f36550110793394",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7qfRbS477Io8JnYz739P0aXbBVh.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 1073,
+                "original_language": "en",
+                "original_title": "Arlington Road",
+                "overview": "Bedraggled college professor Michael Faraday has been vexed \u2014 and increasingly paranoid \u2014 since his wife's accidental death in a botched FBI operation. When a seemingly all-American couple set up house next door, Michael begin to suspect there\u2019s more to them than meets the eye.",
+                "popularity": 5.0857,
+                "poster_path": "/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+                "release_date": "1999-03-19",
+                "title": "Arlington Road",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1162,
+                "credit_id": "5a1c87a9c3a3680b8f05af4f",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 9.361,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.309,
+                "vote_count": 6101,
+                "credit_id": "66b3d4dc7f5f34cc9de6833f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 1726,
+                "original_language": "en",
+                "original_title": "Iron Man",
+                "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+                "popularity": 17.4542,
+                "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+                "release_date": "2008-04-30",
+                "title": "Iron Man",
+                "video": false,
+                "vote_average": 7.654,
+                "vote_count": 27318,
+                "credit_id": "5f597577a294f00039248325",
+                "department": "Crew",
+                "job": "Stunt Double"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Vincent Deadrick Jr.",
+            "Vince Paul Deadrick Jr.",
+            "Vincent K. Deadrick Jr.",
+            "Vincent P. Deadrick Jr.",
+            "Vincent Paul Deadrick Jr.",
+            "Vinnie Deadrick Jr.",
+            "Paul Deadrick",
+            "Vincent P. Deadrick",
+            "Vincent Deadrick",
+            "Vince Deadrick",
+            "Vincent Dedrick",
+            "Vince Deadrick, Jr."
+        ],
+        "biography": "",
+        "birthday": "1954-09-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12879,
+        "imdb_id": "nm0212604",
+        "known_for_department": "Crew",
+        "name": "Vince Deadrick Jr.",
+        "place_of_birth": "USA",
+        "popularity": 0.5744,
+        "profile_path": "/sC1sdK5wObOuwtjHhMXKjg42FoJ.jpg"
+    }
+}

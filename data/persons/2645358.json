@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 11.7739,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19968,
+                "character": "Stormtrooper (uncredited)",
+                "credit_id": "5eca66c1b3e6270021306b90",
+                "order": 106
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/k63j5qexRlpD3wxzETKfuZRVWiT.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749,
+                    14
+                ],
+                "id": 9007,
+                "original_language": "en",
+                "original_title": "Just Like Heaven",
+                "overview": "Shortly after David Abbott moves into his new San Francisco digs, he has an unwelcome visitor on his hands: winsome Elizabeth Masterson, who asserts that the apartment is hers -- and promptly vanishes. When she starts appearing and disappearing at will, David thinks she's a ghost, while Elizabeth is convinced she's alive.",
+                "popularity": 4.4954,
+                "poster_path": "/2cLbyVNhEEaUJGg7rfbLtX6454I.jpg",
+                "release_date": "2005-09-16",
+                "title": "Just Like Heaven",
+                "video": false,
+                "vote_average": 6.954,
+                "vote_count": 2472,
+                "credit_id": "679db2320d19f30ac195367d",
+                "department": "Crew",
+                "job": "Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2645358,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Jamie Clay",
+        "place_of_birth": null,
+        "popularity": 0.0664,
+        "profile_path": null
+    }
+}

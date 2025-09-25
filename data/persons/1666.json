@@ -1,0 +1,162 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6DdQDPNz5yB8LwO1GRUKhMhycJe.jpg",
+                "genre_ids": [
+                    18,
+                    14
+                ],
+                "id": 866,
+                "original_language": "en",
+                "original_title": "Finding Neverland",
+                "overview": "During a writing slump, playwright J.M. Barrie meets a widow and her four children, all young boys\u2014who soon become an important part of Barrie\u2019s life and the inspiration that lead him to create his masterpiece. Peter Pan.",
+                "popularity": 3.4018,
+                "poster_path": "/5JyDPH4qdr0I6pF7Bjh1Qrf1Jhh.jpg",
+                "release_date": "2004-10-17",
+                "title": "Finding Neverland",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 3634,
+                "character": "Mrs. Emma du Maurier",
+                "credit_id": "52fe4284c3a36847f8025323",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rgy1Nf2kf7UodG4BI6awfQqttac.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    10752
+                ],
+                "id": 907,
+                "original_language": "en",
+                "original_title": "Doctor Zhivago",
+                "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+                "popularity": 4.3467,
+                "poster_path": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+                "release_date": "1965-12-22",
+                "title": "Doctor Zhivago",
+                "video": false,
+                "vote_average": 7.542,
+                "vote_count": 1206,
+                "character": "Lara Antipova",
+                "credit_id": "52fe428bc3a36847f8026fdf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gsP414XS7iJ5Xe8bX4e1l7HH07M.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    27
+                ],
+                "id": 931,
+                "original_language": "en",
+                "original_title": "Don't Look Now",
+                "overview": "While grieving a terrible loss, a married couple meet two mysterious sisters, one of whom gives them a message sent from the afterlife.",
+                "popularity": 2.3204,
+                "poster_path": "/mq3TW9GiF9MNlIEjnlL7D9X9tbx.jpg",
+                "release_date": "1973-10-11",
+                "title": "Don't Look Now",
+                "video": false,
+                "vote_average": 6.937,
+                "vote_count": 1122,
+                "character": "Laura Baxter",
+                "credit_id": "52fe428fc3a36847f80284dd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    36
+                ],
+                "id": 652,
+                "original_language": "en",
+                "original_title": "Troy",
+                "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+                "popularity": 17.2139,
+                "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+                "release_date": "2004-05-13",
+                "title": "Troy",
+                "video": false,
+                "vote_average": 7.165,
+                "vote_count": 10604,
+                "character": "Thetis",
+                "credit_id": "52fe4265c3a36847f801b0b3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 673,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Prisoner of Azkaban",
+                "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+                "popularity": 22.2183,
+                "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+                "release_date": "2004-05-31",
+                "title": "Harry Potter and the Prisoner of Azkaban",
+                "video": false,
+                "vote_average": 8.011,
+                "vote_count": 22394,
+                "character": "Madam Rosmerta",
+                "credit_id": "57e6efe99251416c69001dbd",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 1714,
+                "original_language": "en",
+                "original_title": "Fahrenheit 451",
+                "overview": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as \u201cfiremen,\u201d to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation\u2026",
+                "popularity": 1.8335,
+                "poster_path": "/k2CTpexoS9MO9lKVFfnzwVdJuM.jpg",
+                "release_date": "1966-09-07",
+                "title": "Fahrenheit 451",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 1018,
+                "character": "Clarisse / Linda Montag",
+                "credit_id": "5edc444bf36a32001f88b53c",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jules",
+            "Julie Frances Christie",
+            "\u062c\u0648\u0644\u06cc \u06a9\u0631\u06cc\u0633\u062a\u06cc"
+        ],
+        "biography": "Julie Frances Christie (born 14 April 1941) is a British actress. Born in British India to English parents, at the age of six Christie moved to England where she attended boarding school. In 1961, she began her acting career in a BBC television series, and the following year, she had her first major film role in a romantic comedy. In 1965, she became known to international audiences as the model \"Diana Scott\" in the film Darling. That same year she played the part of \"Lara\" in David Lean's Doctor Zhivago. A pop icon of the \"swinging London\" era of the 1960s, she has won the Academy Award, Golden Globe, BAFTA, and Screen Actors Guild Awards.",
+        "birthday": "1940-04-14",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1666,
+        "imdb_id": "nm0001046",
+        "known_for_department": "Acting",
+        "name": "Julie Christie",
+        "place_of_birth": "Chabua, Assam, India",
+        "popularity": 1.0275,
+        "profile_path": "/o4yCBrDoUGSFGG02A1yMBRE36SF.jpg"
+    }
+}

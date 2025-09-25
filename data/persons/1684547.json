@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.2972,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4469,
+                "character": "NSA Dep. Director Lowell",
+                "credit_id": "5882d69a9251410451003ec6",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bHjrGR0Fzn4QEBhvjiwdyMPaYVH.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    27
+                ],
+                "id": 1813,
+                "original_language": "en",
+                "original_title": "The Devil's Advocate",
+                "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+                "popularity": 10.8501,
+                "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+                "release_date": "1997-10-17",
+                "title": "The Devil's Advocate",
+                "video": false,
+                "vote_average": 7.471,
+                "vote_count": 6393,
+                "character": "Jogger #1",
+                "credit_id": "67d596ad0525f3d74f013523",
+                "order": 66
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1684547,
+        "imdb_id": "nm0126341",
+        "known_for_department": "Acting",
+        "name": "Patrick Joseph Byrnes",
+        "place_of_birth": null,
+        "popularity": 0.3971,
+        "profile_path": "/flPGLDMwveAlop3qb4PADrAHvhz.jpg"
+    }
+}

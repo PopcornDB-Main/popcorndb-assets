@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    18
+                ],
+                "id": 860,
+                "original_language": "en",
+                "original_title": "WarGames",
+                "overview": "High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.",
+                "popularity": 5.0774,
+                "poster_path": "/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg",
+                "release_date": "1983-06-03",
+                "title": "WarGames",
+                "video": false,
+                "vote_average": 7.073,
+                "vote_count": 2006,
+                "character": "Corporal in the Infirmary",
+                "credit_id": "52fe4283c3a36847f8024d9f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.0664,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2588,
+                "character": "Tunnel Hoodlum (uncredited)",
+                "credit_id": "560d6614c3a368681f008e20",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    18
+                ],
+                "id": 860,
+                "original_language": "en",
+                "original_title": "WarGames",
+                "overview": "High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.",
+                "popularity": 5.0774,
+                "poster_path": "/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg",
+                "release_date": "1983-06-03",
+                "title": "WarGames",
+                "video": false,
+                "vote_average": 7.073,
+                "vote_count": 2006,
+                "credit_id": "5fb680678741c4003e36efdf",
+                "department": "Crew",
+                "job": "Dialogue Coach"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 950548,
+        "imdb_id": "nm0304950",
+        "known_for_department": "Acting",
+        "name": "John Garber",
+        "place_of_birth": null,
+        "popularity": 0.1167,
+        "profile_path": null
+    }
+}

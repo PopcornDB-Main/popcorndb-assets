@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/px0d4Kzn9683SHLMS9K3e5OHk2H.jpg",
+                "genre_ids": [
+                    35,
+                    9648
+                ],
+                "id": 10440,
+                "original_language": "en",
+                "original_title": "Manhattan Murder Mystery",
+                "overview": "A middle-aged couple suspects foul play when their neighbor's wife suddenly drops dead.",
+                "popularity": 2.3401,
+                "poster_path": "/axriUXXcBVZMZT8I9boo07Jgptw.jpg",
+                "release_date": "1993-05-02",
+                "title": "Manhattan Murder Mystery",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1119,
+                "character": "Policeman",
+                "credit_id": "5814a3f4c3a3687aa0031f36",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 13626,
+                "character": "Johnny Dio",
+                "credit_id": "59bcbbf89251413506009aa5",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Frank Joseph Pellegrino (May 19, 1944 \u2013 January 31, 2017) was an American actor and restaurateur.",
+        "birthday": "1944-05-19",
+        "deathday": "2017-01-31",
+        "gender": 2,
+        "homepage": null,
+        "id": 1701137,
+        "imdb_id": "nm0671023",
+        "known_for_department": "Acting",
+        "name": "Frank Pellegrino",
+        "place_of_birth": "East Harlem, New York City, New York, USA",
+        "popularity": 0.1319,
+        "profile_path": "/2AZaN40NdbZcohOwsZZ3z1NL76G.jpg"
+    }
+}

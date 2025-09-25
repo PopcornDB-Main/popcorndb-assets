@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t7Cn1A0hM5iuTKZHEArXgrCmKqd.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 521,
+                "original_language": "en",
+                "original_title": "Dial M for Murder",
+                "overview": "When American writer Mark Halliday visits the very married Margot Wendice in London, he unknowingly sets off a chain of blackmail and murder.",
+                "popularity": 5.6489,
+                "poster_path": "/4KKiFDvtEusJzqzlwHp7iMceXKS.jpg",
+                "release_date": "1954-05-29",
+                "title": "Dial M for Murder",
+                "video": false,
+                "vote_average": 8.014,
+                "vote_count": 2718,
+                "character": "First Detective",
+                "credit_id": "5f62836c93388b00366ac651",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2781081,
+        "imdb_id": "nm0017579",
+        "known_for_department": "Acting",
+        "name": "George Alderson",
+        "place_of_birth": null,
+        "popularity": 0.0363,
+        "profile_path": null
+    }
+}

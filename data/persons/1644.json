@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nY2faCdUVHzuH6FmDI6QsAURE68.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 145,
+                "original_language": "da",
+                "original_title": "Breaking the Waves",
+                "overview": "In a small, conservative Scottish village, an oilman is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when he urges her to have sex with another.",
+                "popularity": 3.595,
+                "poster_path": "/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+                "release_date": "1996-07-05",
+                "title": "Breaking the Waves",
+                "video": false,
+                "vote_average": 7.499,
+                "vote_count": 1053,
+                "character": "Priest",
+                "credit_id": "52fe421ec3a36847f8005521",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 5902,
+                "original_language": "en",
+                "original_title": "A Bridge Too Far",
+                "overview": "The story of Operation Market Garden\u2014a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+                "popularity": 8.6245,
+                "poster_path": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+                "release_date": "1977-06-15",
+                "title": "A Bridge Too Far",
+                "video": false,
+                "vote_average": 7.224,
+                "vote_count": 869,
+                "character": "Glider Pilot",
+                "credit_id": "5a0761a9c3a368341c002bc0",
+                "order": 78
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1644,
+        "imdb_id": "nm0352470",
+        "known_for_department": "Acting",
+        "name": "Jonathan Hackett",
+        "place_of_birth": null,
+        "popularity": 0.2153,
+        "profile_path": null
+    }
+}

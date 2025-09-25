@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 350,
+                "original_language": "en",
+                "original_title": "The Devil Wears Prada",
+                "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
+                "popularity": 11.9396,
+                "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+                "release_date": "2006-06-29",
+                "title": "The Devil Wears Prada",
+                "video": false,
+                "vote_average": 7.393,
+                "vote_count": 12508,
+                "character": "Nate",
+                "credit_id": "5301f37092514161a2003466",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12
+                ],
+                "id": 644,
+                "original_language": "en",
+                "original_title": "A.I. Artificial Intelligence",
+                "overview": "David, a robotic boy\u2014the first of his kind programmed to love\u2014is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+                "popularity": 7.626,
+                "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+                "release_date": "2001-06-29",
+                "title": "A.I. Artificial Intelligence",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 6388,
+                "character": "Teen in Van",
+                "credit_id": "5ae9d6100e0a26395d008c53",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u05d0\u05d3\u05e8\u05d9\u05d0\u05df \u05d2\u05e8\u05e0\u05d9\u05d9\u05d4"
+        ],
+        "biography": "Adrian Grenier (born July 10, 1976) is an American actor, musician and director. He is best known for his lead role on the HBO original series, Entourage, as Vincent Chase.",
+        "birthday": "1976-07-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5090,
+        "imdb_id": "nm0004978",
+        "known_for_department": "Acting",
+        "name": "Adrian Grenier",
+        "place_of_birth": "Santa Fe, New Mexico, USA",
+        "popularity": 1.1831,
+        "profile_path": "/xs1h6ei4JHCwAr3Q5b8Ds9w250T.jpg"
+    }
+}

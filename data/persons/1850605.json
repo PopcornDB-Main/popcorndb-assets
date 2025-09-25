@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 13626,
+                "character": "Henry's 70's Crew",
+                "credit_id": "59bccf29925141356100b2c6",
+                "order": 110
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6a6AK1pANcl64BYeDA58HKqgzji.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9366,
+                "original_language": "en",
+                "original_title": "Donnie Brasco",
+                "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
+                "popularity": 4.1082,
+                "poster_path": "/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+                "release_date": "1997-02-27",
+                "title": "Donnie Brasco",
+                "video": false,
+                "vote_average": 7.536,
+                "vote_count": 4638,
+                "character": "Wiseguy",
+                "credit_id": "5cfbb6d70e0a261b12cac593",
+                "order": 49
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Gaetano 'Tommy' LoGiudice",
+            "Gaetano LoGuidice"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1850605,
+        "imdb_id": "nm0517752",
+        "known_for_department": "Acting",
+        "name": "Gaetano LoGiudice",
+        "place_of_birth": null,
+        "popularity": 0.1141,
+        "profile_path": "/664ooysdFcVXELuNe0poRXp4u0G.jpg"
+    }
+}

@@ -1,0 +1,391 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 411,
+                "original_language": "en",
+                "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+                "popularity": 26.0316,
+                "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+                "release_date": "2005-12-07",
+                "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "video": false,
+                "vote_average": 7.133,
+                "vote_count": 11072,
+                "character": "Ginarrbrik",
+                "credit_id": "52fe4240c3a36847f800fce5",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mBh3NXCkSCasZGovzAuc9UlFCru.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    35
+                ],
+                "id": 14506,
+                "original_language": "en",
+                "original_title": "The Adventures of Baron Munchausen",
+                "overview": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+                "popularity": 4.2594,
+                "poster_path": "/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+                "release_date": "1988-12-07",
+                "title": "The Adventures of Baron Munchausen",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 947,
+                "character": "Executioner's Assistant",
+                "credit_id": "6290b701d48cee0f2ab4082a",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 85,
+                "original_language": "en",
+                "original_title": "Raiders of the Lost Ark",
+                "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+                "popularity": 10.9389,
+                "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "release_date": "1981-06-12",
+                "title": "Raiders of the Lost Ark",
+                "video": false,
+                "vote_average": 7.925,
+                "vote_count": 13066,
+                "character": "Abu",
+                "credit_id": "54989b9c92514150390002f8",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Ewok",
+                "credit_id": "54ec3ce3c3a3686d64001485",
+                "order": 92
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 12.8263,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19962,
+                "character": "Teedo",
+                "credit_id": "582ad9589251417b2c040b5a",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 3.9881,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1186,
+                "character": "Additional Performer",
+                "credit_id": "5b65a487925141406006f46e",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 49051,
+                "original_language": "en",
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+                "popularity": 16.5982,
+                "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+                "release_date": "2012-12-12",
+                "title": "The Hobbit: An Unexpected Journey",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 18991,
+                "character": "Goblin Scribe",
+                "credit_id": "5c8da1550e0a2612f1549170",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 7.199,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 15862,
+                "character": "Oolin Musters (uncredited)",
+                "credit_id": "5ed2a227aaec7100216a1448",
+                "order": 154
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 49051,
+                "original_language": "en",
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+                "popularity": 16.5982,
+                "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+                "release_date": "2012-12-12",
+                "title": "The Hobbit: An Unexpected Journey",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 18991,
+                "credit_id": "64da7d68d100b6011c834b3a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/LTjGvAf92YLudl5zqJP9tHLuSo.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 4518,
+                "original_language": "en",
+                "original_title": "Elizabeth",
+                "overview": "The story of the ascension to the throne and the early reign of Queen Elizabeth the First, the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+                "popularity": 6.5001,
+                "poster_path": "/qEk48VLOdibXFVIEzE9ETZUBcCs.jpg",
+                "release_date": "1998-09-13",
+                "title": "Elizabeth",
+                "video": false,
+                "vote_average": 7.176,
+                "vote_count": 1437,
+                "credit_id": "62896e60e267de009d34c2fb",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tupgjqhWx5oieQrdyesO3aclUX9.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 597,
+                "original_language": "en",
+                "original_title": "Titanic",
+                "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+                "popularity": 23.0816,
+                "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+                "release_date": "1997-11-18",
+                "title": "Titanic",
+                "video": false,
+                "vote_average": 7.906,
+                "vote_count": 26320,
+                "credit_id": "652a09d40cb33516f882a331",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "credit_id": "657dbf547ad08c06795011fc",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 3.9881,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1186,
+                "credit_id": "592ae1299251413b5405e029",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 120,
+                "original_language": "en",
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+                "popularity": 27.0563,
+                "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+                "release_date": "2001-12-18",
+                "title": "The Lord of the Rings: The Fellowship of the Ring",
+                "video": false,
+                "vote_average": 8.425,
+                "vote_count": 26375,
+                "credit_id": "6699c06d2f53c1b2c54b8e05",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 679,
+                "original_language": "en",
+                "original_title": "Aliens",
+                "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+                "popularity": 10.7593,
+                "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "release_date": "1986-07-18",
+                "title": "Aliens",
+                "video": false,
+                "vote_average": 7.952,
+                "vote_count": 10314,
+                "credit_id": "5e559bb61e922500161f9204",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mBh3NXCkSCasZGovzAuc9UlFCru.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    35
+                ],
+                "id": 14506,
+                "original_language": "en",
+                "original_title": "The Adventures of Baron Munchausen",
+                "overview": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+                "popularity": 4.2594,
+                "poster_path": "/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+                "release_date": "1988-12-07",
+                "title": "The Adventures of Baron Munchausen",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 947,
+                "credit_id": "6886d343ee63f2da1116c5d2",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kieron Shah"
+        ],
+        "biography": "Kiran Jethalal Shah MBE (born 28 September 1956) is a Kenyan actor and stunt double. Shah was born in Nairobi, Kenya to an Indian family. He lived in Kenya until he was twelve years old, when he moved to India with his family. While living in India, he became interested in films, and when his family moved to Feltham, he became involved in show business. His first film was Candleshoe (1977), as a stand-in. When stunt coordinator Bob Anderson asked him to do stunts as well, his career was started. Shah played the part of Bolum in The People That Time Forgot (1977).  Shah is often confused with Deep Roy; they are both dwarf Nairobi-born Kenyan actors of Indian descent who got their starts in film and television in the late 1970s. He is the world's shortest stuntman according to the Guinness World Records. He has appeared as an actor in 31 films; and 37 as stuntman or body double.",
+        "birthday": "1956-09-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.littlekiran.com/",
+        "id": 5531,
+        "imdb_id": "nm0787449",
+        "known_for_department": "Acting",
+        "name": "Kiran Shah",
+        "place_of_birth": "Nairobi, Kenya",
+        "popularity": 0.334,
+        "profile_path": "/cBE8YAZeCMVUu4eAxr6PNUmNjCh.jpg"
+    }
+}

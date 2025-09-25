@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 5.2063,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "Dr. James Foster",
+                "credit_id": "52fe428dc3a36847f8027b8d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zP6pqpSRRiOCjjC5oWKZKkHqoSB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 595,
+                "original_language": "en",
+                "original_title": "To Kill a Mockingbird",
+                "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+                "popularity": 4.5981,
+                "poster_path": "/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+                "release_date": "1962-12-20",
+                "title": "To Kill a Mockingbird",
+                "video": false,
+                "vote_average": 7.991,
+                "vote_count": 2724,
+                "character": "David Robinson (uncredited)",
+                "credit_id": "55f3042ec3a3680a0d000242",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 15073,
+        "imdb_id": "nm0186740",
+        "known_for_department": "Acting",
+        "name": "David Crawford",
+        "place_of_birth": null,
+        "popularity": 0.1216,
+        "profile_path": "/98IC2KPp5Y6TveAYUniX2VXvonH.jpg"
+    }
+}

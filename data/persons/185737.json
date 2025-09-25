@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 23483,
+                "original_language": "en",
+                "original_title": "Kick-Ass",
+                "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+                "popularity": 9.1963,
+                "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+                "release_date": "2010-03-26",
+                "title": "Kick-Ass",
+                "video": false,
+                "vote_average": 7.123,
+                "vote_count": 11999,
+                "character": "Baby Goon",
+                "credit_id": "52fe446ac3a368484e021e3d",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pzMrxeP9XkKOtQVUBPTq5yk4ck5.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    18,
+                    14
+                ],
+                "id": 116745,
+                "original_language": "en",
+                "original_title": "The Secret Life of Walter Mitty",
+                "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+                "popularity": 6.7989,
+                "poster_path": "/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+                "release_date": "2013-12-18",
+                "title": "The Secret Life of Walter Mitty",
+                "video": false,
+                "vote_average": 7.204,
+                "vote_count": 7911,
+                "character": "Mover",
+                "credit_id": "5ee5a1ca3ff2df002168500b",
+                "order": 45
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 185737,
+        "imdb_id": "nm1443325",
+        "known_for_department": "Acting",
+        "name": "Anthony Desio",
+        "place_of_birth": null,
+        "popularity": 0.0752,
+        "profile_path": null
+    }
+}

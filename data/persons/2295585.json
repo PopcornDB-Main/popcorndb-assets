@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 10.1157,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7475,
+                "character": "Ferrari Mechanic",
+                "credit_id": "5cbf9598c3a3687f8f894e43",
+                "order": 62
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2295585,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Francesco Fronte",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

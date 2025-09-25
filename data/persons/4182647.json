@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 15.5781,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 10314,
+                "character": "Dancer",
+                "credit_id": "64c2045bdf86a801446c6c3d",
+                "order": 145
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    35
+                ],
+                "id": 749170,
+                "original_language": "en",
+                "original_title": "Heads of State",
+                "overview": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
+                "popularity": 29.7976,
+                "poster_path": "/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+                "release_date": "2025-06-24",
+                "title": "Heads of State",
+                "video": false,
+                "vote_average": 6.915,
+                "vote_count": 737,
+                "character": "White House Aide",
+                "credit_id": "686599e6446ba0f7659c2b9b",
+                "order": 53
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Dominic Sibanda"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4182647,
+        "imdb_id": "nm13227308",
+        "known_for_department": "Acting",
+        "name": "Kingdom Sibanda",
+        "place_of_birth": null,
+        "popularity": 0.0453,
+        "profile_path": null
+    }
+}

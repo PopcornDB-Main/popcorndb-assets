@@ -1,0 +1,169 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 438148,
+                "original_language": "en",
+                "original_title": "Minions: The Rise of Gru",
+                "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+                "popularity": 11.9003,
+                "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+                "release_date": "2022-06-29",
+                "title": "Minions: The Rise of Gru",
+                "video": false,
+                "vote_average": 7.286,
+                "vote_count": 3823,
+                "character": "Henchman 1 (voice)",
+                "credit_id": "62bcf03384f2491739394040",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    36,
+                    53
+                ],
+                "id": 388399,
+                "original_language": "en",
+                "original_title": "Patriots Day",
+                "overview": "In the aftermath of an unspeakable act of terror, Police Sergeant Tommy Saunders joins courageous survivors, first responders and investigators in a race against the clock to hunt down the Boston Marathon bombers before they strike again.",
+                "popularity": 5.9051,
+                "poster_path": "/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg",
+                "release_date": "2016-12-12",
+                "title": "Patriots Day",
+                "video": false,
+                "vote_average": 7.058,
+                "vote_count": 2725,
+                "character": "Dun Meng",
+                "credit_id": "5739565692514177b0000141",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 455207,
+                "original_language": "en",
+                "original_title": "Crazy Rich Asians",
+                "overview": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+                "popularity": 5.5716,
+                "poster_path": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+                "release_date": "2018-08-15",
+                "title": "Crazy Rich Asians",
+                "video": false,
+                "vote_average": 7.063,
+                "vote_count": 3801,
+                "character": "Bernard Tai",
+                "credit_id": "59396e7fc3a36878190135d7",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pO1SnM5a1fEsYrFaVZW78Wb0zRJ.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35,
+                    10770
+                ],
+                "id": 677638,
+                "original_language": "en",
+                "original_title": "We Bare Bears: The Movie",
+                "overview": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos get out of hand, the brothers are now chased away from their home and embark on a trip to Canada, where they can live in peace.",
+                "popularity": 2.7006,
+                "poster_path": "/kPzcvxBwt7kEISB9O4jJEuBn72t.jpg",
+                "release_date": "2020-06-30",
+                "title": "We Bare Bears: The Movie",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 831,
+                "character": "Joey Raccoon (voice)",
+                "credit_id": "5ec857e70fb17f001d7d4241",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pa0Mq5rGm2QnzdpFmugTu4Mghf.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 734265,
+                "original_language": "en",
+                "original_title": "Love Hard",
+                "overview": "An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she's been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.",
+                "popularity": 2.9999,
+                "poster_path": "/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg",
+                "release_date": "2021-11-05",
+                "title": "Love Hard",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1537,
+                "character": "Josh Lin",
+                "credit_id": "5f3b4ed0a3b5e60034f8e228",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14
+                ],
+                "id": 550205,
+                "original_language": "en",
+                "original_title": "Wish Dragon",
+                "overview": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+                "popularity": 6.0287,
+                "poster_path": "/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+                "release_date": "2021-01-15",
+                "title": "Wish Dragon",
+                "video": false,
+                "vote_average": 7.88,
+                "vote_count": 1407,
+                "character": "Short Goon / Security Guard 2 (voice)",
+                "credit_id": "60e9e6d3b7d3520075c07cc4",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jimmy Ouyang",
+            "Au-yeung Man-Sing",
+            "\u062c\u06cc\u0645\u06cc \u0627\u0648. \u06cc\u0627\u0646\u06af"
+        ],
+        "biography": "Jimmy O. Yang (born June 11, 1987) is a stand-up comedian and actor. He stars as Jian-Yang on HBO's Silicon Valley (2014), Bernard Tai in the film Crazy Rich Asians and as real-life hero Dun Meng in the film Patriots Day (2016). As a stand-up, he performed on The Arsenio Hall Show and received a rare standing ovation. Jimmy can also be seen on season 9 of It's Always Sunny in Philadelphia as Charlie's dear friend Tang-See. Jimmy is fluent in three Chinese dialects: Mandarin, Cantonese, Shanghainese.",
+        "birthday": "1987-06-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.jimmycomedy.com",
+        "id": 1468779,
+        "imdb_id": "nm4497202",
+        "known_for_department": "Acting",
+        "name": "Jimmy O. Yang",
+        "place_of_birth": "British Hong Kong",
+        "popularity": 0.5641,
+        "profile_path": "/1QfCVmdNo4AqBdN54kc9DTBx84X.jpg"
+    }
+}

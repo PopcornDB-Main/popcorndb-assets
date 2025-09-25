@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eY6bnNP10bWljC19v8UXAScHyuP.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 1538,
+                "original_language": "en",
+                "original_title": "Collateral",
+                "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+                "popularity": 7.0771,
+                "poster_path": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+                "release_date": "2004-08-04",
+                "title": "Collateral",
+                "video": false,
+                "vote_average": 7.233,
+                "vote_count": 5925,
+                "character": "Sylvester Clarke",
+                "credit_id": "582375149251410cbb00f946",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vfo2dzdXnoArYwrkM7kw1vgb7dL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 174,
+                "original_language": "en",
+                "original_title": "Star Trek VI: The Undiscovered Country",
+                "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+                "popularity": 2.1408,
+                "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+                "release_date": "1991-12-06",
+                "title": "Star Trek VI: The Undiscovered Country",
+                "video": false,
+                "vote_average": 7.03,
+                "vote_count": 1332,
+                "character": "Excelsior Navigator",
+                "credit_id": "60e0563d071650002d65406b",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 154696,
+        "imdb_id": "nm0863007",
+        "known_for_department": "Acting",
+        "name": "Angelo Tiffe",
+        "place_of_birth": null,
+        "popularity": 0.2127,
+        "profile_path": "/lPHzW9gqNUzSbcm6P3gXxfISLIk.jpg"
+    }
+}

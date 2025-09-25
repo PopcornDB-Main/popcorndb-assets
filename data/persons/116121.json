@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.0664,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2588,
+                "character": "TV Watcher (uncredited)",
+                "credit_id": "560d64d29251414feb000372",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 838,
+                "original_language": "en",
+                "original_title": "American Graffiti",
+                "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+                "popularity": 5.6975,
+                "poster_path": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+                "release_date": "1973-08-11",
+                "title": "American Graffiti",
+                "video": false,
+                "vote_average": 7.04,
+                "vote_count": 1509,
+                "character": "Man at Accident",
+                "credit_id": "5e3f492c3dd12600185266b6",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Charles Barclay Dorsett",
+            "Charles B. Dorsett",
+            "Charles Dorsett"
+        ],
+        "biography": "",
+        "birthday": "1927-10-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 116121,
+        "imdb_id": "nm0234127",
+        "known_for_department": "Acting",
+        "name": "Chuck Dorsett",
+        "place_of_birth": "San Francisco, California, USA",
+        "popularity": 0.0434,
+        "profile_path": null
+    }
+}

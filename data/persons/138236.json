@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gC0zFICTbsmJrUfAcHJl76nA0GC.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    28
+                ],
+                "id": 8333,
+                "original_language": "en",
+                "original_title": "The Taking of Pelham One Two Three",
+                "overview": "In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away?",
+                "popularity": 3.9958,
+                "poster_path": "/vNhywp9w1DVG6BytxKp4kjtaaGC.jpg",
+                "release_date": "1974-10-02",
+                "title": "The Taking of Pelham One Two Three",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 576,
+                "character": "T.A. Chairman",
+                "credit_id": "6223ab598d52c90068451ef5",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/auR595U8Inw58Fg2NuZMP05lYcV.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 10436,
+                "original_language": "en",
+                "original_title": "The Age of Innocence",
+                "overview": "In 19th century New York high society, a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+                "popularity": 3.6287,
+                "poster_path": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+                "release_date": "1993-09-10",
+                "title": "The Age of Innocence",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1149,
+                "character": "Archer Guest",
+                "credit_id": "6373da5bab1bc70082d2ab7e",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 138236,
+        "imdb_id": "nm0053856",
+        "known_for_department": "Acting",
+        "name": "Thomas Barbour",
+        "place_of_birth": null,
+        "popularity": 1.9456,
+        "profile_path": null
+    }
+}

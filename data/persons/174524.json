@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80,
+                    9648
+                ],
+                "id": 10528,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes",
+                "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                "popularity": 10.6595,
+                "poster_path": "/fvnu6QHyR0gSV1JI6lMyXCny21a.jpg",
+                "release_date": "2009-12-23",
+                "title": "Sherlock Holmes",
+                "video": false,
+                "vote_average": 7.215,
+                "vote_count": 14338,
+                "character": "Coach Driver",
+                "credit_id": "52fe43819251416c75012f4b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 5902,
+                "original_language": "en",
+                "original_title": "A Bridge Too Far",
+                "overview": "The story of Operation Market Garden\u2014a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+                "popularity": 8.5375,
+                "poster_path": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+                "release_date": "1977-06-15",
+                "title": "A Bridge Too Far",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 871,
+                "character": "Sgt. Treadwell",
+                "credit_id": "5a0763c9c3a368341c002eb6",
+                "order": 103
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0421\u0435\u0431\u0430\u0441\u0442\u044c\u044f\u043d \u0410\u0431\u0438\u043d\u0435\u0440\u0438"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 174524,
+        "imdb_id": "nm0008758",
+        "known_for_department": "Acting",
+        "name": "Sebastian Abineri",
+        "place_of_birth": null,
+        "popularity": 0.3022,
+        "profile_path": "/5Z4QzU2SSa7IyRyS5htckz3cIoZ.jpg"
+    }
+}

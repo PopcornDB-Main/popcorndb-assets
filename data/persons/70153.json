@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36,
+                    53
+                ],
+                "id": 612,
+                "original_language": "en",
+                "original_title": "Munich",
+                "overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+                "popularity": 4.7229,
+                "poster_path": "/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+                "release_date": "2005-12-23",
+                "title": "Munich",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2803,
+                "character": "Camera Crew at Munich",
+                "credit_id": "624a54faec0c5800992318c4",
+                "order": 113
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/arFPEDEW4PzPaMBXgTPzJlumfGw.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 203833,
+                "original_language": "en",
+                "original_title": "The Book Thief",
+                "overview": "While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+                "popularity": 3.0586,
+                "poster_path": "/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+                "release_date": "2013-11-08",
+                "title": "The Book Thief",
+                "video": false,
+                "vote_average": 7.496,
+                "vote_count": 4414,
+                "character": "Herr Lehmann",
+                "credit_id": "5475da64c3a3683012000ca8",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1963-10-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 70153,
+        "imdb_id": "nm0648921",
+        "known_for_department": "Acting",
+        "name": "Martin Ontrop",
+        "place_of_birth": "Hamm, Germany",
+        "popularity": 0.089,
+        "profile_path": "/gdCvJdPGm8lP0BQfFYoimjbUOSN.jpg"
+    }
+}

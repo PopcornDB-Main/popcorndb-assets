@@ -1,0 +1,184 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hdi07iPiYKVVzYUSKVU00r4j3ck.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 10734,
+                "original_language": "en",
+                "original_title": "Escape from Alcatraz",
+                "overview": "San Francisco Bay, January 18, 1960. Frank Lee Morris is transferred to Alcatraz, a maximum security prison located on a rocky island. Although no one has ever managed to escape from there, Frank and other inmates begin to carefully prepare an escape plan.",
+                "popularity": 8.2846,
+                "poster_path": "/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+                "release_date": "1979-06-22",
+                "title": "Escape from Alcatraz",
+                "video": false,
+                "vote_average": 7.513,
+                "vote_count": 2970,
+                "character": "Helicopter Pilot",
+                "credit_id": "57cb00d3c3a36872b9003f46",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/aQFBJPlPv8wAe4qUWDMQC7CN9Za.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 10142,
+                "original_language": "en",
+                "original_title": "Casualties of War",
+                "overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager.",
+                "popularity": 6.1577,
+                "poster_path": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+                "release_date": "1989-08-18",
+                "title": "Casualties of War",
+                "video": false,
+                "vote_average": 7.157,
+                "vote_count": 942,
+                "credit_id": "5e953df7db72c00012acfa7a",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 3.153,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.196,
+                "vote_count": 1172,
+                "credit_id": "5e953e49db72c00014acec46",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kPlCjRGUv5okUM8Zsa3xE0sSJHI.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 17443,
+                "original_language": "en",
+                "original_title": "...And Justice for All",
+                "overview": "An ethical Baltimore defense lawyer disgusted with rampant legal corruption is forced to defend a judge he despises in a rape trial under the threat of being disbarred.",
+                "popularity": 1.7678,
+                "poster_path": "/AiAXiqN883MYQMzxeEzAtV9jkU0.jpg",
+                "release_date": "1979-10-19",
+                "title": "...And Justice for All",
+                "video": false,
+                "vote_average": 7.07,
+                "vote_count": 546,
+                "credit_id": "5e9545d0af58cb0014db9924",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 1547,
+                "original_language": "en",
+                "original_title": "The Lost Boys",
+                "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+                "popularity": 6.6944,
+                "poster_path": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+                "release_date": "1987-07-31",
+                "title": "The Lost Boys",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2166,
+                "credit_id": "5e95400a2dda89001bcf4514",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 87,
+                "original_language": "en",
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+                "popularity": 6.4156,
+                "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+                "release_date": "1984-05-23",
+                "title": "Indiana Jones and the Temple of Doom",
+                "video": false,
+                "vote_average": 7.303,
+                "vote_count": 9700,
+                "credit_id": "5e954232a349110014419118",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qLhoEKvkG3SgjyBrgn6wMxaTHr4.jpg",
+                "genre_ids": [
+                    27,
+                    28,
+                    53
+                ],
+                "id": 9542,
+                "original_language": "en",
+                "original_title": "The Hitcher",
+                "overview": "On a stormy night, young Jim, who transports a luxury car from Chicago to California to deliver it to its owner, feeling tired and sleepy, picks up a mysterious hitchhiker, who has appeared out of nowhere, thinking that a good conversation will help him not to fall asleep. He will have enough time to deeply regret such an unmeditated decision.",
+                "popularity": 2.3052,
+                "poster_path": "/89giuiFssSVCUxkCP386v66cry8.jpg",
+                "release_date": "1986-01-17",
+                "title": "The Hitcher",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 992,
+                "credit_id": "5e9540c687f3f2001449d745",
+                "department": "Crew",
+                "job": "Pilot"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 91915,
+        "imdb_id": "nm0721936",
+        "known_for_department": "Crew",
+        "name": "Ross Reynolds",
+        "place_of_birth": null,
+        "popularity": 0.139,
+        "profile_path": null
+    }
+}

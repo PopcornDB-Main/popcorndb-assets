@@ -1,0 +1,222 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1271,
+                "original_language": "en",
+                "original_title": "300",
+                "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+                "popularity": 10.1488,
+                "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+                "release_date": "2007-03-07",
+                "title": "300",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 14203,
+                "character": "Partisan",
+                "credit_id": "52fe42ecc3a36847f802d2eb",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/T5xXoFqyc9jNXZIbH4Sw0jwWjw.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 605886,
+                "original_language": "en",
+                "original_title": "To Catch a Killer",
+                "overview": "Baltimore. New Year's Eve. A talented but troubled police officer is recruited by the FBI's chief investigator to help profile and track down a mass murderer.",
+                "popularity": 7.2718,
+                "poster_path": "/anikluX0onmtzTe46WlazvaetwH.jpg",
+                "release_date": "2023-04-06",
+                "title": "To Catch a Killer",
+                "video": false,
+                "vote_average": 6.877,
+                "vote_count": 1181,
+                "character": "Forensics Chief",
+                "credit_id": "6257c28ed400f3009becea7b",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eWUJTW9HFDmlIACchS6Ohnk5Aom.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 323677,
+                "original_language": "en",
+                "original_title": "Race",
+                "overview": "Based on the story of Jesse Owens, the athlete whose quest to become the greatest track and field athlete in history thrusts him onto the world stage of the 1936 Olympics, where he faces off against Adolf Hitler's vision of Aryan supremacy.",
+                "popularity": 4.3769,
+                "poster_path": "/3pKLVyz6LGQU8xEDhYHSHsfy5Bg.jpg",
+                "release_date": "2016-02-19",
+                "title": "Race",
+                "video": false,
+                "vote_average": 7.251,
+                "vote_count": 1575,
+                "character": "Rudolf Dassler",
+                "credit_id": "56544b95925141701300399e",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vVk0HV9HAqvvSfWiNGjpsOekLBS.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 2567,
+                "original_language": "en",
+                "original_title": "The Aviator",
+                "overview": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
+                "popularity": 7.1998,
+                "poster_path": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+                "release_date": "2004-12-17",
+                "title": "The Aviator",
+                "video": false,
+                "vote_average": 7.22,
+                "vote_count": 5556,
+                "character": "Radio Announcer",
+                "credit_id": "57ca1a32925141278f000ed1",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 127585,
+                "original_language": "en",
+                "original_title": "X-Men: Days of Future Past",
+                "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+                "popularity": 13.1726,
+                "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+                "release_date": "2014-05-15",
+                "title": "X-Men: Days of Future Past",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 15762,
+                "character": "Blue Suit Traveler",
+                "credit_id": "57f87c9fc3a3682cc8001939",
+                "order": 67
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 381283,
+                "original_language": "en",
+                "original_title": "mother!",
+                "overview": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+                "popularity": 7.3798,
+                "poster_path": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+                "release_date": "2017-09-13",
+                "title": "mother!",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 6864,
+                "character": "Lingerer",
+                "credit_id": "59b10800c3a3682cc80825b4",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iRl2k4TMhfESV2W3ygu3OmIVVwh.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 339380,
+                "original_language": "en",
+                "original_title": "On the Basis of Sex",
+                "overview": "Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of sex discrimination.",
+                "popularity": 1.8606,
+                "poster_path": "/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg",
+                "release_date": "2018-12-25",
+                "title": "On the Basis of Sex",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1073,
+                "character": "Wyland Leadbetter",
+                "credit_id": "5a6bc7c1c3a3685562000800",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nCzfXkipK6LCg9JAPkrYw2QA0GO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 15487,
+                "original_language": "en",
+                "original_title": "The Greatest Game Ever Played",
+                "overview": "A biopic of 20-year-old Francis Ouimet who defeated his golfing idol and 1900 US Open Champion, Harry Vardon.",
+                "popularity": 3.6718,
+                "poster_path": "/kh4vd6wKa6j9xVFzxhQrsT0p2YN.jpg",
+                "release_date": "2005-09-30",
+                "title": "The Greatest Game Ever Played",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 509,
+                "character": "Club Secretary",
+                "credit_id": "5fb17eed7caa47003e8aa90f",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/miOnymJ0dN2psWBB8Vleo3fUyrc.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 607259,
+                "original_language": "en",
+                "original_title": "Fatherhood",
+                "overview": "A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own. Inspired by a true story.",
+                "popularity": 3.2666,
+                "poster_path": "/wvqO1gTAMZIFGi3Ioq1BN6KV95R.jpg",
+                "release_date": "2021-06-18",
+                "title": "Fatherhood",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1475,
+                "character": "Sympathizer #2",
+                "credit_id": "60ccde544539d0003fd87543",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Arthur Holden (born August 28, 1959) is a Canadian voice actor. He voices Baba-Miao in Sagwa, the Chinese Siamese Cat, Mr. Ratburn in Arthur, and Mr. Larkin from What's With Andy.",
+        "birthday": "1959-08-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 115596,
+        "imdb_id": "nm0390161",
+        "known_for_department": "Acting",
+        "name": "Arthur Holden",
+        "place_of_birth": "Montr\u00e9al, Qu\u00e9bec, Canada",
+        "popularity": 0.5559,
+        "profile_path": "/c8FXyHhiVXCsjvwxXOzuVi28z3i.jpg"
+    }
+}

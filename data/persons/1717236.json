@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 1061474,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+                "popularity": 233.0212,
+                "poster_path": "/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+                "release_date": "2025-07-09",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.507,
+                "vote_count": 3183,
+                "character": "Ma Kent",
+                "credit_id": "66201ecea39d0b016355ab6c",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg",
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 13466,
+                "original_language": "en",
+                "original_title": "October Sky",
+                "overview": "Homer Hickam is a kid with only one future in sight, to work in the local coal mine like his father. However, in October 1957 everything changes when the first artificial satellite, Sputnik, goes into orbit. When Homer sees the Soviet satellite streak overhead, he becomes inspired to learn how to build rockets. With the help of his friends, and the local nerd, Homer sets to do just that by trial and a lot of error. Unfortunately, most of the town, and especially Homer's father, thinks that they are wasting their time. Only one teacher understands their efforts and lets them know that they could become contenders in the national science fair with college scholarships being the prize. Now the gang must learn to perfect their craft and overcome the many problems facing them as they shoot for the stars.",
+                "popularity": 5.4863,
+                "poster_path": "/1weUnrWqESWoLzMgSs64jd4GEwY.jpg",
+                "release_date": "1999-02-19",
+                "title": "October Sky",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1320,
+                "character": "Neighbor",
+                "credit_id": "5fe898d615959f003d9ca8b7",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Neva J. Howell",
+            "Neva Joanie Howell"
+        ],
+        "biography": "Neva Howell is an American actress.",
+        "birthday": "1955-10-31",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1717236,
+        "imdb_id": "nm0398027",
+        "known_for_department": "Acting",
+        "name": "Neva Howell",
+        "place_of_birth": null,
+        "popularity": 1.2973,
+        "profile_path": "/r3x56SNHOXdaGXe0k2oU8lXPNIE.jpg"
+    }
+}

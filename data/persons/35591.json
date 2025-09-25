@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11686,
+                "original_language": "en",
+                "original_title": "Love and Death",
+                "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+                "popularity": 2.6098,
+                "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+                "release_date": "1975-06-10",
+                "title": "Love and Death",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 927,
+                "character": "Andre",
+                "credit_id": "538cdb54c3a36871430031f0",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bXPKTWAuRO8Mu5rLCORFagX0YZ1.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 574,
+                "original_language": "en",
+                "original_title": "The Man Who Knew Too Much",
+                "overview": "A couple vacationing in Morocco with their young son accidentally stumble upon an assassination plot. When the child is kidnapped to ensure their silence, they have to take matters into their own hands to save him.",
+                "popularity": 3.1649,
+                "poster_path": "/gy8YBRjCQRIT9x9G9F5fpnFD4xw.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Man Who Knew Too Much",
+                "video": false,
+                "vote_average": 7.456,
+                "vote_count": 1476,
+                "character": "Police Inspector",
+                "credit_id": "56c8b262925141173c003b0d",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Yves Ren\u00e9 Marie de La Chevardi\u00e8re de La Grandville"
+        ],
+        "biography": "",
+        "birthday": "1914-03-08",
+        "deathday": "1993-11-16",
+        "gender": 2,
+        "homepage": null,
+        "id": 35591,
+        "imdb_id": "nm0104064",
+        "known_for_department": "Acting",
+        "name": "Yves Brainville",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.1115,
+        "profile_path": "/ntRB8WMCuIcB8YjOujTLyMlGcdS.jpg"
+    }
+}

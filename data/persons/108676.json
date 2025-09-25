@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8d2s5MP8mc1OXaq7zn6PHv9kWY4.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    53
+                ],
+                "id": 246355,
+                "original_language": "en",
+                "original_title": "Saw",
+                "overview": "David, an orderly at a hospital, tells his horrific story of being kidnapped and forced to play a vile game of survival.",
+                "popularity": 2.2259,
+                "poster_path": "/uvjBl6LHmb5JpAbmSZzeWA1c7Sv.jpg",
+                "release_date": "2003-10-16",
+                "title": "Saw",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 641,
+                "character": "Cop",
+                "credit_id": "52fe4f13c3a36847f82bbc03",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+                "genre_ids": [
+                    878,
+                    53
+                ],
+                "id": 206487,
+                "original_language": "en",
+                "original_title": "Predestination",
+                "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+                "popularity": 5.1957,
+                "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+                "release_date": "2014-08-28",
+                "title": "Predestination",
+                "video": false,
+                "vote_average": 7.424,
+                "vote_count": 6752,
+                "character": "Boxing Commentator 1",
+                "credit_id": "54bf7e529251416e9b008946",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Paul Modor"
+        ],
+        "biography": "Paul Moder is an actor.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 108676,
+        "imdb_id": "nm0388023",
+        "known_for_department": "Acting",
+        "name": "Paul Moder",
+        "place_of_birth": null,
+        "popularity": 1.4069,
+        "profile_path": "/gByftbxalQBSK0QCSVgeXee2Fqg.jpg"
+    }
+}

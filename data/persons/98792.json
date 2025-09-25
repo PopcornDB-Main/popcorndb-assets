@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "original_title": "Night of the Living Dead",
+                "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+                "popularity": 2.7691,
+                "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+                "release_date": "1968-10-04",
+                "title": "Night of the Living Dead",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2568,
+                "character": "Zombie",
+                "credit_id": "605ac0b601e4d1006a28a6fa",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 98792,
+        "imdb_id": "nm0723245",
+        "known_for_department": "Acting",
+        "name": "Richard Ricci",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

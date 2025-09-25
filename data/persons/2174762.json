@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/isnJGDrfR9dIrHMsPTvHtJaGEpc.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 504608,
+                "original_language": "en",
+                "original_title": "Rocketman",
+                "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+                "popularity": 4.1114,
+                "poster_path": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+                "release_date": "2019-05-17",
+                "title": "Rocketman",
+                "video": false,
+                "vote_average": 7.318,
+                "vote_count": 4818,
+                "character": "Dancer",
+                "credit_id": "6433301dec455200d45d36a7",
+                "order": 70
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    18
+                ],
+                "id": 361292,
+                "original_language": "en",
+                "original_title": "Suspiria",
+                "overview": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+                "popularity": 7.7183,
+                "poster_path": "/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+                "release_date": "2018-10-26",
+                "title": "Suspiria",
+                "video": false,
+                "vote_average": 6.904,
+                "vote_count": 2646,
+                "character": "Marianne",
+                "credit_id": "5beabdf50e0a263c0a054d1a",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Navala 'Niko' Chaudhari"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2174762,
+        "imdb_id": "nm5721156",
+        "known_for_department": "Acting",
+        "name": "Navala Chaudhari",
+        "place_of_birth": null,
+        "popularity": 0.0261,
+        "profile_path": "/dh5gsnMeaWYA4NqJ8PlTazOdr1Z.jpg"
+    }
+}

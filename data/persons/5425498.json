@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5CpXLhwcjnupeC5Ll3hMoCMJf1l.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27,
+                    35
+                ],
+                "id": 505706,
+                "original_language": "de",
+                "original_title": "Der Goldene Handschuh",
+                "overview": "A serial killer strikes fear in the hearts of residents of Hamburg during the early 1970s.",
+                "popularity": 2.7721,
+                "poster_path": "/tu4PfotoM2Fti033O9gwHt7XpJw.jpg",
+                "release_date": "2019-02-21",
+                "title": "The Golden Glove",
+                "video": false,
+                "vote_average": 6.931,
+                "vote_count": 604,
+                "character": "",
+                "credit_id": "681ccd1864b851065bc1dc29",
+                "order": 61
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 5425498,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Selma Alaalaoui",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

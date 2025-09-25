@@ -1,0 +1,167 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 18,
+                "original_language": "fr",
+                "original_title": "Le Cinqui\u00e8me \u00c9l\u00e9ment",
+                "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+                "popularity": 13.3241,
+                "poster_path": "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+                "release_date": "1997-05-02",
+                "title": "The Fifth Element",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 11202,
+                "character": "Mactilburgh",
+                "credit_id": "52fe420fc3a36847f8000bef",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 533,
+                "original_language": "en",
+                "original_title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+                "overview": "Cheese-loving eccentric Wallace and his cunning canine pal, Gromit, investigate a mystery in Nick Park's animated adventure, in which the lovable inventor and his intrepid pup run a business ridding the town of garden pests. Using only humane methods that turn their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest.",
+                "popularity": 6.0615,
+                "poster_path": "/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+                "release_date": "2005-09-15",
+                "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 2934,
+                "character": "Additional Voice (voice)",
+                "credit_id": "52fe424ec3a36847f8013f0b",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28,
+                    35
+                ],
+                "id": 447365,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 3",
+                "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+                "popularity": 16.4234,
+                "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+                "release_date": "2023-05-03",
+                "title": "Guardians of the Galaxy Vol. 3",
+                "video": false,
+                "vote_average": 7.931,
+                "vote_count": 7651,
+                "character": "Broker",
+                "credit_id": "644dc72df90b19061613380a",
+                "order": 74
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 118340,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy",
+                "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                "popularity": 8.0535,
+                "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+                "release_date": "2014-07-30",
+                "title": "Guardians of the Galaxy",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 28875,
+                "character": "The Broker",
+                "credit_id": "549fe6dfc3a3685542007334",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    80
+                ],
+                "id": 268,
+                "original_language": "en",
+                "original_title": "Batman",
+                "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+                "popularity": 8.3215,
+                "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+                "release_date": "1989-06-21",
+                "title": "Batman",
+                "video": false,
+                "vote_average": 7.235,
+                "vote_count": 8195,
+                "character": "Nic",
+                "credit_id": "58932a649251416eeb0047de",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lfMtVr5hkFeGy4dMaEf3XUQr76d.jpg",
+                "genre_ids": [
+                    12,
+                    80,
+                    18
+                ],
+                "id": 433498,
+                "original_language": "en",
+                "original_title": "Papillon",
+                "overview": "Henri \u201cPapillon\u201d Charri\u00e8re, a safecracker from the Parisian underworld, is wrongfully convicted and sentenced to life imprisonment in the penal colony of French Guiana, where he forges a strong friendship with Louis Dega, a counterfeiter who needs his protection.",
+                "popularity": 6.6642,
+                "poster_path": "/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg",
+                "release_date": "2017-09-07",
+                "title": "Papillon",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 2030,
+                "character": "Jean Castili",
+                "credit_id": "5b2faf400e0a265a1e005a7c",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Chris Fairbank",
+            "Christopher E. Fairbank",
+            "Chris Faibank"
+        ],
+        "biography": "Christopher Fairbank\u00a0(sometimes credited as\u00a0Chris Fairbank; born October 4, 1953)\u00a0is an\u00a0English\u00a0actor best known for his role as Moxey in the hit comedy-drama series\u00a0Auf Wiedersehen, Pet. Fairbank was born in Hertfordshire, England. He has numerous television credits to his name, notably in\u00a0Sapphire and Steel,\u00a0The Professionals,\u00a0The Scarlet Pimpernel\u00a0and provided minor voice talent for both the hit\u00a0Wallace and Gromit\u00a0feature-length film\u00a0Curse of the Were-Rabbit\u00a0and\u00a0Flushed Away\u00a0(both produced by\u00a0Aardman). Fairbank also appeared as one of the pair of muggers who rob an out-of-town family, heralding the first appearance of the\u00a0Batman\u00a0in\u00a0Tim Burton's\u00a01989 film. Fairbank also had roles as Mactilburgh the scientist in the film\u00a0The Fifth Element,\u00a0the prisoner Murphy in\u00a0Alien 3, and the Player Queen in the\u00a0Franco Zeffirelli\u00a0version of\u00a0Hamlet, opposite\u00a0Mel Gibson. Recently, he provided the voice of Old King Doran in the video game\u00a0Demon's Souls\u00a0and provides a number of voice accents in the PS2 video game\u00a0Prisoner of War. Chris also appeared in\u00a0Goal!\u00a0trilogy in the character of a\u00a0Newcastle United\u00a0fan. In 2010, Chris appeared as a detective in the BBC Drama,\u00a0Five Daughters, and as\u00a0Alfred \"Freddie\" Lennon\u00a0in the biopicLennon Naked\u00a0with\u00a0Christopher Eccleston.\u00a0In 2011 Fairbank starred in\u00a0Pirates of the Caribbean: On Stranger Tidesas a pirate called Ezekiel. In 2012 he appeared as an\u00a0Australian\u00a0in Sky 1's Starlings.",
+        "birthday": "1953-10-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://chrisfairbank.com/",
+        "id": 8399,
+        "imdb_id": "nm0265457",
+        "known_for_department": "Acting",
+        "name": "Christopher Fairbank",
+        "place_of_birth": "Hertfordshire, England, UK",
+        "popularity": 1.15,
+        "profile_path": "/6bO8JmhkC0GzU4gIBdSMY48E3CD.jpg"
+    }
+}

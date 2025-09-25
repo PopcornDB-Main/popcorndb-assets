@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    18,
+                    28
+                ],
+                "id": 871,
+                "original_language": "en",
+                "original_title": "Planet of the Apes",
+                "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+                "popularity": 8.0971,
+                "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+                "release_date": "1968-02-07",
+                "title": "Planet of the Apes",
+                "video": false,
+                "vote_average": 7.646,
+                "vote_count": 3741,
+                "character": "Chimpanzee (uncredited)",
+                "credit_id": "5dd0ae1a57d3780018d7c1fd",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 37136,
+                "original_language": "en",
+                "original_title": "The Naked Gun: From the Files of Police Squad!",
+                "overview": "When the bumbling Lieutenant Frank Drebin investigates events following the shooting of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+                "popularity": 9.0343,
+                "poster_path": "/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+                "release_date": "1988-12-02",
+                "title": "The Naked Gun: From the Files of Police Squad!",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4111,
+                "character": "Reception Guest (uncredited)",
+                "credit_id": "685e27c649ba92d44c155a9e",
+                "order": 69
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k1YVyPL1ZvEXAOeBvNEuPweA3XY.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2609,
+                "original_language": "en",
+                "original_title": "Planes, Trains and Automobiles",
+                "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.",
+                "popularity": 2.8144,
+                "poster_path": "/3RSucVsX96Ste8WDJfZP1hbNGqQ.jpg",
+                "release_date": "1987-11-26",
+                "title": "Planes, Trains and Automobiles",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 2054,
+                "character": "Plane Passenger (uncredited)",
+                "credit_id": "685e27ef0382286525dd0916",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 620,
+                "original_language": "en",
+                "original_title": "Ghostbusters",
+                "overview": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+                "popularity": 7.5242,
+                "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+                "release_date": "1984-06-08",
+                "title": "Ghostbusters",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 9352,
+                "character": "Hotel Guest (uncredited)",
+                "credit_id": "685e28bca2034349e874495c",
+                "order": 73
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878,
+                    53
+                ],
+                "id": 154,
+                "original_language": "en",
+                "original_title": "Star Trek II: The Wrath of Khan",
+                "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+                "popularity": 3.3338,
+                "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+                "release_date": "1982-06-04",
+                "title": "Star Trek II: The Wrath of Khan",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 2014,
+                "character": "Crewmember at Spock's Funeral (uncredited)",
+                "credit_id": "685e295d38dd5806a830342b",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.6755,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 4373,
+                "character": "Restaurant Patron (uncredited)",
+                "credit_id": "685e29f8acbe6cd3cc4d1315",
+                "order": 67
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1931-05-10",
+        "deathday": "2020-11-10",
+        "gender": 2,
+        "homepage": null,
+        "id": 2459932,
+        "imdb_id": "nm0765776",
+        "known_for_department": "Acting",
+        "name": "George Sasaki",
+        "place_of_birth": null,
+        "popularity": 0.0461,
+        "profile_path": null
+    }
+}

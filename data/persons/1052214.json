@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2ze42e0l0bPYEcJXInUukvNfZKk.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 10144,
+                "original_language": "en",
+                "original_title": "The Little Mermaid",
+                "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+                "popularity": 11.7272,
+                "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+                "release_date": "1989-11-17",
+                "title": "The Little Mermaid",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 8149,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5ab81438c3a3680a280245dc",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 12.7162,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 10095,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5f338b8c8a88b200359fe871",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1052214,
+        "imdb_id": "nm0101928",
+        "known_for_department": "Acting",
+        "name": "Susan Boyd",
+        "place_of_birth": null,
+        "popularity": 0.1177,
+        "profile_path": "/13hsDXQ319OQEP1bJpknx5opAR0.jpg"
+    }
+}

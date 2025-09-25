@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 314365,
+                "original_language": "en",
+                "original_title": "Spotlight",
+                "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+                "popularity": 4.6333,
+                "poster_path": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+                "release_date": "2015-11-06",
+                "title": "Spotlight",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 8479,
+                "character": "Red Sox Announcer (voice)",
+                "credit_id": "572ec214c3a3680fe5005150",
+                "order": 71
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1616735,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Edward Brickley",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

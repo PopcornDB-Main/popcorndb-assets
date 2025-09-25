@@ -1,0 +1,170 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    35
+                ],
+                "id": 9056,
+                "original_language": "cn",
+                "original_title": "\u8b66\u5bdf\u6545\u4e8b",
+                "overview": "Officer Chan Ka Kui manages to put a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum. Now, he must protect the boss' secretary, Selina, who will testify against the gangster in court.",
+                "popularity": 5.4166,
+                "poster_path": "/h2wxvGUK0ops0R3A7AA1QSXGOqV.jpg",
+                "release_date": "1985-12-14",
+                "title": "Police Story",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 949,
+                "character": "Keung (One of Koo's Men) (uncredited)",
+                "credit_id": "62435bf50d2944005be348f5",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f8ag2cxqaQGqvqMvThtu73pPnEM.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 10753,
+                "original_language": "cn",
+                "original_title": "\u8b66\u5bdf\u6545\u4e8b\u7e8c\u96c6",
+                "overview": "The Hong Kong super-cop must stop a group of blackmailing bombers at the same time that the villains of the first Police Story are out for revenge.",
+                "popularity": 5.1512,
+                "poster_path": "/cZKuFo3nQbyRqGZtVmx3WsitJRB.jpg",
+                "release_date": "1988-08-13",
+                "title": "Police Story 2",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 577,
+                "character": "Mute Blackmailer",
+                "credit_id": "53d62577c3a3686b9400584b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leHpAsKAJGnNuv5EPAUZUbqrRxq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80,
+                    53
+                ],
+                "id": 10975,
+                "original_language": "cn",
+                "original_title": "\u98db\u9df9\u8a08\u5283",
+                "overview": "Hired by a Spanish baron, Hong Kong treasure hunter Jackie, a.k.a. \"Asian Hawk\" and his entourage seek WWII Nazi gold buried in the Sahara Desert.",
+                "popularity": 6.487,
+                "poster_path": "/vkj5JxVgY1ZYhX4pBHHgwdRNEkl.jpg",
+                "release_date": "1991-02-07",
+                "title": "Operation Condor",
+                "video": false,
+                "vote_average": 7.338,
+                "vote_count": 594,
+                "character": "",
+                "credit_id": "53f9eafec3a368734c002e58",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    35
+                ],
+                "id": 9056,
+                "original_language": "cn",
+                "original_title": "\u8b66\u5bdf\u6545\u4e8b",
+                "overview": "Officer Chan Ka Kui manages to put a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum. Now, he must protect the boss' secretary, Selina, who will testify against the gangster in court.",
+                "popularity": 5.4166,
+                "poster_path": "/h2wxvGUK0ops0R3A7AA1QSXGOqV.jpg",
+                "release_date": "1985-12-14",
+                "title": "Police Story",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 949,
+                "credit_id": "665f3a1b8ddc320de29d7b76",
+                "department": "Crew",
+                "job": "Martial Arts Choreographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f8ag2cxqaQGqvqMvThtu73pPnEM.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 10753,
+                "original_language": "cn",
+                "original_title": "\u8b66\u5bdf\u6545\u4e8b\u7e8c\u96c6",
+                "overview": "The Hong Kong super-cop must stop a group of blackmailing bombers at the same time that the villains of the first Police Story are out for revenge.",
+                "popularity": 5.1512,
+                "poster_path": "/cZKuFo3nQbyRqGZtVmx3WsitJRB.jpg",
+                "release_date": "1988-08-13",
+                "title": "Police Story 2",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 577,
+                "credit_id": "6660696d050224c824a225cd",
+                "department": "Crew",
+                "job": "Martial Arts Choreographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leHpAsKAJGnNuv5EPAUZUbqrRxq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80,
+                    53
+                ],
+                "id": 10975,
+                "original_language": "cn",
+                "original_title": "\u98db\u9df9\u8a08\u5283",
+                "overview": "Hired by a Spanish baron, Hong Kong treasure hunter Jackie, a.k.a. \"Asian Hawk\" and his entourage seek WWII Nazi gold buried in the Sahara Desert.",
+                "popularity": 6.487,
+                "poster_path": "/vkj5JxVgY1ZYhX4pBHHgwdRNEkl.jpg",
+                "release_date": "1991-02-07",
+                "title": "Operation Condor",
+                "video": false,
+                "vote_average": 7.338,
+                "vote_count": 594,
+                "credit_id": "66af18ac54093e3fd5dc2c89",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u9ece\u5f37\u6b0a",
+            "Lai Kuen",
+            "K. Lai",
+            "\u9ece\u5f3a\u6743",
+            "Lai Keung-Kung"
+        ],
+        "biography": "Was a member of Jackie Chan's Stuntmen Association.",
+        "birthday": "1954-12-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1121128,
+        "imdb_id": "nm0450640",
+        "known_for_department": "Acting",
+        "name": "Benny Lai Keung-Kuen",
+        "place_of_birth": "Hong Kong, British Crown Colony",
+        "popularity": 0.3215,
+        "profile_path": "/aSuPzMM2jf74Og3lWor20gbZoUE.jpg"
+    }
+}

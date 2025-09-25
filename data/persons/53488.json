@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
+                "genre_ids": [
+                    35,
+                    878,
+                    14,
+                    27
+                ],
+                "id": 36685,
+                "original_language": "en",
+                "original_title": "The Rocky Horror Picture Show",
+                "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr. Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+                "popularity": 4.9078,
+                "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+                "release_date": "1975-08-14",
+                "title": "The Rocky Horror Picture Show",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 2953,
+                "character": "The Transylvanians",
+                "credit_id": "5bd9e9cec3a3683cc5011f42",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mTsbahr4SLqgVZkKRN0O8t5iA9y.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10402
+                ],
+                "id": 71,
+                "original_language": "en",
+                "original_title": "Billy Elliot",
+                "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+                "popularity": 5.0851,
+                "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+                "release_date": "2000-09-28",
+                "title": "Billy Elliot",
+                "video": false,
+                "vote_average": 7.597,
+                "vote_count": 3953,
+                "character": "Tutor 1",
+                "credit_id": "61062c877719d70072bddc1a",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Immogen Clare",
+            "Imogen Clare"
+        ],
+        "biography": "",
+        "birthday": "1943-11-02",
+        "deathday": "2005-06-24",
+        "gender": 1,
+        "homepage": null,
+        "id": 53488,
+        "imdb_id": "nm0163256",
+        "known_for_department": "Acting",
+        "name": "Imogen Claire",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.2023,
+        "profile_path": "/esXgYz2Qlh5zi36wwab29nYxeDu.jpg"
+    }
+}

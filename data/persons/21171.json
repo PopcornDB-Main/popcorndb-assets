@@ -1,0 +1,183 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eWYrrdCKd4bjOKB9DB0HtRUhI1o.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 5528,
+                "original_language": "fr",
+                "original_title": "Les Choristes",
+                "overview": "In 1940s France, a new teacher at a school for disruptive boys gives hope and inspiration.",
+                "popularity": 6.0653,
+                "poster_path": "/hUl7gSvkGygyk9wt3zy5NqpC5bb.jpg",
+                "release_date": "2004-03-17",
+                "title": "The Chorus",
+                "video": false,
+                "vote_average": 7.731,
+                "vote_count": 2507,
+                "character": "Cl\u00e9ment Mathieu",
+                "credit_id": "52fe440cc3a36847f807f4f3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/foS1hXCMagcl3GnK0hJHslNw9Ne.jpg",
+                "genre_ids": [
+                    53,
+                    27,
+                    9648,
+                    18
+                ],
+                "id": 11482,
+                "original_language": "en",
+                "original_title": "Le locataire",
+                "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+                "popularity": 2.6188,
+                "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+                "release_date": "1976-05-26",
+                "title": "The Tenant",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1174,
+                "character": "Office Clerk",
+                "credit_id": "52fe44499251416c7502f5e7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3EJJClmGZwu7e6nsj1l0OBNdXfT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 33701,
+                "original_language": "fr",
+                "original_title": "Les Bronz\u00e9s font du ski",
+                "overview": "In this sequel to Les Bronzes (1978) summer has passed, but that doesn't mean the fun has to end for Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude, and Christiane.",
+                "popularity": 2.1371,
+                "poster_path": "/uTN0bp8yMUKesNTLXR1GnL2kLFs.jpg",
+                "release_date": "1979-11-22",
+                "title": "French Fried Vacation 2",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 1233,
+                "character": "Bernard Morin",
+                "credit_id": "52fe45319251416c9102a73f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1395,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "character": "F\u00e9lix",
+                "credit_id": "52fe460b9251416c7506b3c3",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3EJJClmGZwu7e6nsj1l0OBNdXfT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 33701,
+                "original_language": "fr",
+                "original_title": "Les Bronz\u00e9s font du ski",
+                "overview": "In this sequel to Les Bronzes (1978) summer has passed, but that doesn't mean the fun has to end for Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude, and Christiane.",
+                "popularity": 2.1371,
+                "poster_path": "/uTN0bp8yMUKesNTLXR1GnL2kLFs.jpg",
+                "release_date": "1979-11-22",
+                "title": "French Fried Vacation 2",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 1233,
+                "credit_id": "5300bf3fc3a3683fd532b141",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1395,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "credit_id": "56698ea59251415ec5001657",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eWYrrdCKd4bjOKB9DB0HtRUhI1o.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 5528,
+                "original_language": "fr",
+                "original_title": "Les Choristes",
+                "overview": "In 1940s France, a new teacher at a school for disruptive boys gives hope and inspiration.",
+                "popularity": 6.0653,
+                "poster_path": "/hUl7gSvkGygyk9wt3zy5NqpC5bb.jpg",
+                "release_date": "2004-03-17",
+                "title": "The Chorus",
+                "video": false,
+                "vote_average": 7.731,
+                "vote_count": 2507,
+                "credit_id": "57bb2846c3a3686f5d000c80",
+                "department": "Production",
+                "job": "Associate Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u70ed\u62c9\u5c14\u00b7\u6731\u5c3c\u5965",
+            "\u70ed\u62c9\u5c14\u00b7\u6731\u8bfa",
+            "\u6770\u62c9\u5fb7\u00b7\u5982\u5965\u7279",
+            "Le Splendid",
+            "L'Equipe du Splendid",
+            "L'\u00e9quipe du Splendid",
+            "Gerard Jugnot",
+            "\u0416\u0435\u0440\u0430\u0440 \u0416\u044e\u043d\u044c\u043e"
+        ],
+        "biography": "Gerard Jugnot (born 4 May 1951 in Paris) is a French actor, film director, screenwriter and producer.\n\nJugnot was one of the founders of the comedy troupe Le Splendid in the 1970s, along with, among others, his high-school friends Christian Clavier, Thierry Lhermitte, and Michel Blanc. The group adapted a number of its stage hits for the cinema, was extremely successful in films such as Les Bronz\u00e9s (1978), Les Bronz\u00e9s font du ski (1979) and Le P\u00e8re No\u00ebl est une ordure (1982).\n\nJugnot gained international fame for his lead role in Les Choristes in which he played Cl\u00e9ment Mathieu. The last movie he directed was Rose et Noir (2008).\n\nJugnot is the father of comedian Arthur Jugnot, born in 1980 to Jugnot and wardrobe designer C\u00e9cile Magnan.\n\nHe was made Chevalier (Knight) of the L\u00e9gion d'honneur in 2004.\n\nDescription above from the Wikipedia article Gerard Jugnot, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1951-05-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 21171,
+        "imdb_id": "nm0432040",
+        "known_for_department": "Acting",
+        "name": "G\u00e9rard Jugnot",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.3647,
+        "profile_path": "/lzhsTTRrlOCkxombuKHusukGOjz.jpg"
+    }
+}

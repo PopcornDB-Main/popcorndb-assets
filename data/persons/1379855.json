@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.2691,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "character": "The Judge",
+                "credit_id": "62f72f09a313b8007cf36a60",
+                "order": 296
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.445,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "Lawyer",
+                "credit_id": "68b684e1304a858e879e2881",
+                "order": 89
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "William Moses Kunstler (1919-1995) was an American attorney and civil rights activist, known for defending the Chicago Seven.",
+        "birthday": "1919-07-07",
+        "deathday": "1995-09-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 1379855,
+        "imdb_id": "nm0475267",
+        "known_for_department": "Acting",
+        "name": "William Kunstler",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.0556,
+        "profile_path": null
+    }
+}

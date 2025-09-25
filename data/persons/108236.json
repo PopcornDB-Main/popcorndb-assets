@@ -1,0 +1,162 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 17529,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+                "popularity": 3.8165,
+                "poster_path": "/9TjGjAD2deCtIG4ebi8LhIyFK6j.jpg",
+                "release_date": "1969-06-11",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 818,
+                "character": "Red - Ferryman (uncredited)",
+                "credit_id": "63370f1d0a517c009cd539f4",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+                "genre_ids": [
+                    37,
+                    35
+                ],
+                "id": 11072,
+                "original_language": "en",
+                "original_title": "Blazing Saddles",
+                "overview": "A town\u2014where everyone seems to be named Johnson\u2014stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+                "popularity": 3.8676,
+                "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+                "release_date": "1974-02-07",
+                "title": "Blazing Saddles",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 1969,
+                "character": "Outlaw (uncredited)",
+                "credit_id": "633551f1e2102300830cdb55",
+                "order": 94
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.0664,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2588,
+                "character": "Krausgrill Tough (uncredited)",
+                "credit_id": "6712420316caa8b0f09c3a55",
+                "order": 63
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.0664,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2588,
+                "credit_id": "6438dec5ab684900e01b43eb",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/le14c0VjhbBv475RAEQ13Wt2loo.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 10648,
+                "original_language": "en",
+                "original_title": "Magnum Force",
+                "overview": "\"Dirty\" Harry Callahan is a San Francisco Police Inspector on the trail of a group of rogue cops who have taken justice into their own hands. When shady characters are murdered one after another in grisly fashion, only Dirty Harry can stop them.",
+                "popularity": 3.2049,
+                "poster_path": "/1uX1uzn09seCftG3rTGLPyFXxV6.jpg",
+                "release_date": "1973-12-13",
+                "title": "Magnum Force",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1119,
+                "credit_id": "6438dda34a52f800d5e3b72c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 17529,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+                "popularity": 3.8165,
+                "poster_path": "/9TjGjAD2deCtIG4ebi8LhIyFK6j.jpg",
+                "release_date": "1969-06-11",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 818,
+                "credit_id": "647fefcbd2b209012dfadb42",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Boyd Red Morgan",
+            "Red Boyd Morgan",
+            "Boyd Morgan",
+            "Red Morgan"
+        ],
+        "biography": "",
+        "birthday": "1915-10-24",
+        "deathday": "1988-01-08",
+        "gender": 2,
+        "homepage": null,
+        "id": 108236,
+        "imdb_id": "nm0604508",
+        "known_for_department": "Acting",
+        "name": "Boyd 'Red' Morgan",
+        "place_of_birth": "Waurika, Oklahoma, USA",
+        "popularity": 0.1151,
+        "profile_path": "/xdRf08XIB24BZrXDwNisYHNnJf3.jpg"
+    }
+}

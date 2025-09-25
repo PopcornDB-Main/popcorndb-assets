@@ -1,0 +1,255 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 18,
+                "original_language": "fr",
+                "original_title": "Le Cinqui\u00e8me \u00c9l\u00e9ment",
+                "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+                "popularity": 13.3241,
+                "poster_path": "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+                "release_date": "1997-05-02",
+                "title": "The Fifth Element",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 11202,
+                "character": "Diva",
+                "credit_id": "52fe420fc3a36847f8000c03",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5BFpmELJKE5cZxtOpGJYAdIRybF.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 921452,
+                "original_language": "fr",
+                "original_title": "Jeanne du Barry",
+                "overview": "The life of Jeanne B\u00e9cu, who was born as the illegitimate daughter of an impoverished seamstress in 1743 and went on to rise through the Court of Louis XV to become his last official mistress.",
+                "popularity": 2.3432,
+                "poster_path": "/rSTtGXebezwZ6GVTeZVaeJ9ZQF1.jpg",
+                "release_date": "2023-05-16",
+                "title": "Jeanne du Barry",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 609,
+                "character": "Jeanne Du Barry",
+                "credit_id": "61cdc88bb6cff10042d1c346",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1nR9mCsJD02j13wet0yAnVhEG6Y.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 71157,
+                "original_language": "fr",
+                "original_title": "Polisse",
+                "overview": "Paris, France. Fred and his colleagues, members of the BPM, the Police Child Protection Unit, dedicated to pursuing all sorts of offenses committed against the weakest, must endure the scrutiny of Melissa, a photographer commissioned to graphically document the daily routine of the team.",
+                "popularity": 2.8603,
+                "poster_path": "/cKs3XSFVbFeZcH3g9geAvr6ApOl.jpg",
+                "release_date": "2011-10-06",
+                "title": "Polisse",
+                "video": false,
+                "vote_average": 7.781,
+                "vote_count": 1268,
+                "character": "Melissa",
+                "credit_id": "52fe4826c3a368484e0eb6f3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 101,
+                "original_language": "fr",
+                "original_title": "L\u00e9on",
+                "overview": "L\u00e9on, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in L\u00e9on's footsteps.",
+                "popularity": 11.642,
+                "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+                "release_date": "1994-09-14",
+                "title": "L\u00e9on: The Professional",
+                "video": false,
+                "vote_average": 8.301,
+                "vote_count": 15445,
+                "character": "Blond Babe",
+                "credit_id": "57e6c932c3a368474300110a",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/1nR9mCsJD02j13wet0yAnVhEG6Y.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 71157,
+                "original_language": "fr",
+                "original_title": "Polisse",
+                "overview": "Paris, France. Fred and his colleagues, members of the BPM, the Police Child Protection Unit, dedicated to pursuing all sorts of offenses committed against the weakest, must endure the scrutiny of Melissa, a photographer commissioned to graphically document the daily routine of the team.",
+                "popularity": 2.8603,
+                "poster_path": "/cKs3XSFVbFeZcH3g9geAvr6ApOl.jpg",
+                "release_date": "2011-10-06",
+                "title": "Polisse",
+                "video": false,
+                "vote_average": 7.781,
+                "vote_count": 1268,
+                "credit_id": "52fe4826c3a368484e0eb6c1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1nR9mCsJD02j13wet0yAnVhEG6Y.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 71157,
+                "original_language": "fr",
+                "original_title": "Polisse",
+                "overview": "Paris, France. Fred and his colleagues, members of the BPM, the Police Child Protection Unit, dedicated to pursuing all sorts of offenses committed against the weakest, must endure the scrutiny of Melissa, a photographer commissioned to graphically document the daily routine of the team.",
+                "popularity": 2.8603,
+                "poster_path": "/cKs3XSFVbFeZcH3g9geAvr6ApOl.jpg",
+                "release_date": "2011-10-06",
+                "title": "Polisse",
+                "video": false,
+                "vote_average": 7.781,
+                "vote_count": 1268,
+                "credit_id": "52fe4826c3a368484e0eb6c7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5BFpmELJKE5cZxtOpGJYAdIRybF.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 921452,
+                "original_language": "fr",
+                "original_title": "Jeanne du Barry",
+                "overview": "The life of Jeanne B\u00e9cu, who was born as the illegitimate daughter of an impoverished seamstress in 1743 and went on to rise through the Court of Louis XV to become his last official mistress.",
+                "popularity": 2.3432,
+                "poster_path": "/rSTtGXebezwZ6GVTeZVaeJ9ZQF1.jpg",
+                "release_date": "2023-05-16",
+                "title": "Jeanne du Barry",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 609,
+                "credit_id": "64ef5e1477d23b012e89778d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g3yflwqajsVEYdUr7B84fMHBkAw.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 329805,
+                "original_language": "fr",
+                "original_title": "Mon roi",
+                "overview": "Tony is admitted to a rehabilitation center after a serious ski accident. Dependent on the medical staff and pain relievers, she takes time to look back on a turbulent relationship that she experienced with Georgio.",
+                "popularity": 2.2664,
+                "poster_path": "/kOhRkC7J3jpAgHGC0Uh3SoCqU4c.jpg",
+                "release_date": "2015-10-21",
+                "title": "My King",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 792,
+                "credit_id": "54fee4d4c3a3681098001564",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g3yflwqajsVEYdUr7B84fMHBkAw.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 329805,
+                "original_language": "fr",
+                "original_title": "Mon roi",
+                "overview": "Tony is admitted to a rehabilitation center after a serious ski accident. Dependent on the medical staff and pain relievers, she takes time to look back on a turbulent relationship that she experienced with Georgio.",
+                "popularity": 2.2664,
+                "poster_path": "/kOhRkC7J3jpAgHGC0Uh3SoCqU4c.jpg",
+                "release_date": "2015-10-21",
+                "title": "My King",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 792,
+                "credit_id": "54fee516c3a368150c0014b9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5BFpmELJKE5cZxtOpGJYAdIRybF.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 921452,
+                "original_language": "fr",
+                "original_title": "Jeanne du Barry",
+                "overview": "The life of Jeanne B\u00e9cu, who was born as the illegitimate daughter of an impoverished seamstress in 1743 and went on to rise through the Court of Louis XV to become his last official mistress.",
+                "popularity": 2.3432,
+                "poster_path": "/rSTtGXebezwZ6GVTeZVaeJ9ZQF1.jpg",
+                "release_date": "2023-05-16",
+                "title": "Jeanne du Barry",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 609,
+                "credit_id": "61cdc2fafdf8b70065d52fb4",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ma\u00efwenn Le Besco",
+            "Maiwen Lebesco",
+            "Maiwen",
+            "\u05de\u05d9\u05d9\u05d5\u05d5\u05df",
+            "Ma\u00efwenn Aur\u00e9lia Nedjma Le Besco"
+        ],
+        "biography": "Ma\u00efwenn Aur\u00e9lia Nedjma Le Besco, known mononymously as Ma\u00efwenn, is a French actress and filmmaker.\n\nMa\u00efwenn starred in several films as a child, then teen, actress\u2014notably as \"Elle, as a child\" (the child version of the lead role played by Isabelle Adjani) in the 1983 hit film L'\u00e9t\u00e9 meurtrier (One Deadly Summer).\n\nFollowing her marriage to director Luc Besson and the birth of their daughter in 1993, Ma\u00efwenn interrupted her career for several years. During this period, she only appeared in a supporting part in Besson's L\u00e9on (1994), in which she was credited as Ouin-Ouin. She also directed the film's making-of. Perhaps Ma\u00efwenn's most internationally-seen film role was her appearance as the alien Diva Plavalaguna in Besson's The Fifth Element (1997).\n\nAfter she and Besson divorced, Ma\u00efwenn returned to France. She performed as a stand-up comedian in an autobiographical one-woman-show, and reentered the movie business after several filmmakers saw her comedy routine in Paris. She appeared in several notable movies, including the horror film Haute Tension (English title: High Tension), in which she starred opposite C\u00e9cile de France. By the time the film came out in 2003, she had decided she wanted to try directing.\n\nIn 2006, Ma\u00efwenn wrote and directed her first feature film, Pardonnez-moi, a drama about a dysfunctional family.[6][10] She also starred in the film which earned her nominations for the C\u00e9sar Award for Best First Feature Film and C\u00e9sar Award for Most Promising Actress in the 2007. Her second film was Le bal des actrices (2009, All About Actresses), in which she appears as herself making a documentary. She achieved international recognition when her third film, the social drama Polisse (2011), won the Jury Prize at the 2011 Cannes Film Festival.\n\nMa\u00efwenn's 2015 film Mon roi was selected to compete for the Palme d'Or at the 2015 Cannes Film Festival. She co-wrote, directed, and starred in the 2020 film, DNA, an Official Selection of the 2020 Cannes Film Festival which was cancelled due to COVID-19 pandemic. She co-wrote, directed, and starred in her first period film, the 2023 film Jeanne du Barry about the life of Madame du Barry with Louis XV portrayed by Johnny Depp, which opened the 2023 Cannes Film Festival out of competition and earned the highest French gross for a Cannes opening film since 2013.",
+        "birthday": "1976-04-17",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 64210,
+        "imdb_id": "nm0494069",
+        "known_for_department": "Acting",
+        "name": "Ma\u00efwenn",
+        "place_of_birth": "Les Lilas, Seine-Saint-Denis, France",
+        "popularity": 0.8232,
+        "profile_path": "/p5eS3Zq4V9eau8Xcf77bm5hrVUM.jpg"
+    }
+}

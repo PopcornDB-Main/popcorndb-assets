@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tKyaXRcVAxYCqU9edDgjRmEKkMX.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 565179,
+                "original_language": "la",
+                "original_title": "Il primo re",
+                "overview": "Romulus and Remus, two shepherds and loyal brothers, end up taking part to a journey that will lead one of them to be the founder of the greatest nation ever seen. However, the fate of the chosen one will pass from killing his own brother.",
+                "popularity": 2.3125,
+                "poster_path": "/dqBU63M3cKy7pfVsmhrbgY5X8iv.jpg",
+                "release_date": "2019-01-31",
+                "title": "The First King",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1116,
+                "character": "Veltur",
+                "credit_id": "5c54ef80c3a36826a6818c06",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    10752
+                ],
+                "id": 403300,
+                "original_language": "en",
+                "original_title": "A Hidden Life",
+                "overview": "Austrian farmer Franz J\u00e4gerst\u00e4tter faces the threat of execution for refusing to fight for the Nazis during World War II.",
+                "popularity": 2.04,
+                "poster_path": "/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg",
+                "release_date": "2019-08-27",
+                "title": "A Hidden Life",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 735,
+                "character": "Max",
+                "credit_id": "5eac34710e597b002687d69c",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1970-05-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1272358,
+        "imdb_id": "nm0538991",
+        "known_for_department": "Acting",
+        "name": "Max Malatesta",
+        "place_of_birth": "Rome, Italy",
+        "popularity": 0.0955,
+        "profile_path": "/H7nkF7RUy7us6tSNZCOJwysbYH.jpg"
+    }
+}

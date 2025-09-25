@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7NzsBCM8cj53yLEPWYhN0YfGZG.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1630,
+                "original_language": "en",
+                "original_title": "The People vs. Larry Flynt",
+                "overview": "Larry Flynt is the hedonistically obnoxious, but indomitable, publisher of Hustler magazine. The film recounts his struggle to make an honest living publishing his girlie magazine and how it changes into a battle to protect the freedom of speech for all people.",
+                "popularity": 2.7647,
+                "poster_path": "/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg",
+                "release_date": "1996-12-25",
+                "title": "The People vs. Larry Flynt",
+                "video": false,
+                "vote_average": 6.963,
+                "vote_count": 1166,
+                "character": "Georgia Reporter",
+                "credit_id": "61434cd09450fe0064f40ff2",
+                "order": 79
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bYJyQqqJV30RJX6VPE3Rz1lPZhH.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 2100,
+                "original_language": "en",
+                "original_title": "The Last Castle",
+                "overview": "A court-martialed general rallies together 1200 inmates to rise against the system that put him away.",
+                "popularity": 7.9798,
+                "poster_path": "/pYnUfauPVK6g8IRO2REYl4TUZ2p.jpg",
+                "release_date": "2001-10-19",
+                "title": "The Last Castle",
+                "video": false,
+                "vote_average": 7.166,
+                "vote_count": 1326,
+                "character": "Honor Guard",
+                "credit_id": "6294ea2ea410c815a35f0716",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bYk4H2MSvNWckhrYhZNQHe8v90o.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10751,
+                    10749
+                ],
+                "id": 21542,
+                "original_language": "en",
+                "original_title": "Love Don't Co$t a Thing",
+                "overview": "A high school outcast pays a cheerleader to pose as his girlfriend so he can be considered cool.",
+                "popularity": 4.3182,
+                "poster_path": "/88zspc72LIkfiuMnGpHnsWCuqEH.jpg",
+                "release_date": "2003-12-12",
+                "title": "Love Don't Co$t a Thing",
+                "video": false,
+                "vote_average": 7.536,
+                "vote_count": 604,
+                "character": "Junior (as Michael Davis)",
+                "credit_id": "68748ebda46a022c97a98324",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1585792,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Michael Q. Davis",
+        "place_of_birth": null,
+        "popularity": 0.0389,
+        "profile_path": null
+    }
+}

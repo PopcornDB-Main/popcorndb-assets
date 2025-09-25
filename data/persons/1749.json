@@ -1,0 +1,281 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878,
+                    53
+                ],
+                "id": 154,
+                "original_language": "en",
+                "original_title": "Star Trek II: The Wrath of Khan",
+                "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+                "popularity": 3.0596,
+                "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+                "release_date": "1982-06-04",
+                "title": "Star Trek II: The Wrath of Khan",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 2015,
+                "character": "Captain Spock",
+                "credit_id": "52fe421fc3a36847f8005c07",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.0494,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1560,
+                "character": "Spock",
+                "credit_id": "52fe4221c3a36847f80066ab",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vfo2dzdXnoArYwrkM7kw1vgb7dL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 174,
+                "original_language": "en",
+                "original_title": "Star Trek VI: The Undiscovered Country",
+                "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+                "popularity": 2.135,
+                "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+                "release_date": "1991-12-06",
+                "title": "Star Trek VI: The Undiscovered Country",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1331,
+                "character": "Captain Spock",
+                "credit_id": "52fe4222c3a36847f8006acf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ekppa3eJm51s389jBX6dgt7CjYc.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    28,
+                    12,
+                    10751
+                ],
+                "id": 1857,
+                "original_language": "en",
+                "original_title": "The Transformers: The Movie",
+                "overview": "The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.",
+                "popularity": 2.9213,
+                "poster_path": "/j4HTorvJdGOuIgGyE56fMCLmcCg.jpg",
+                "release_date": "1986-08-08",
+                "title": "The Transformers: The Movie",
+                "video": false,
+                "vote_average": 7.149,
+                "vote_count": 560,
+                "character": "Galvatron (voice)",
+                "credit_id": "52fe431bc3a36847f803ab39",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fYr0fqT9NImOuaN1QgnDHgGh4Ci.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    878
+                ],
+                "id": 10865,
+                "original_language": "en",
+                "original_title": "Atlantis: The Lost Empire",
+                "overview": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+                "popularity": 5.1489,
+                "poster_path": "/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg",
+                "release_date": "2001-06-02",
+                "title": "Atlantis: The Lost Empire",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 4944,
+                "character": "King Kashekim Nedakh (voice)",
+                "credit_id": "52fe43c69251416c7501da11",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lyHnFsWafILUlizalpCSikJT7Ui.jpg",
+                "genre_ids": [
+                    878,
+                    27
+                ],
+                "id": 11850,
+                "original_language": "en",
+                "original_title": "Invasion of the Body Snatchers",
+                "overview": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+                "popularity": 4.7115,
+                "poster_path": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+                "release_date": "1978-12-20",
+                "title": "Invasion of the Body Snatchers",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1209,
+                "character": "Dr. David Kibner",
+                "credit_id": "52fe44939251416c75039911",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 13475,
+                "original_language": "en",
+                "original_title": "Star Trek",
+                "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "popularity": 9.3534,
+                "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+                "release_date": "2009-05-06",
+                "title": "Star Trek",
+                "video": false,
+                "vote_average": 7.426,
+                "vote_count": 10141,
+                "character": "Ambassador Spock",
+                "credit_id": "52fe456c9251416c75056195",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k3PqsPLkKLDyjZupZ6gqZHPxMv3.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 54138,
+                "original_language": "en",
+                "original_title": "Star Trek Into Darkness",
+                "overview": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+                "popularity": 5.4297,
+                "poster_path": "/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg",
+                "release_date": "2013-05-05",
+                "title": "Star Trek Into Darkness",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 9340,
+                "character": "Ambassador Spock",
+                "credit_id": "52fe488dc3a36847f816d86b",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.0494,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1560,
+                "credit_id": "52fe4221c3a36847f8006685",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vfo2dzdXnoArYwrkM7kw1vgb7dL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 174,
+                "original_language": "en",
+                "original_title": "Star Trek VI: The Undiscovered Country",
+                "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+                "popularity": 2.135,
+                "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+                "release_date": "1991-12-06",
+                "title": "Star Trek VI: The Undiscovered Country",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1331,
+                "credit_id": "60e057741e9225007ed13957",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.0494,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1560,
+                "credit_id": "6438bf3b87f3f20096087c4e",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Leonard Simon Nimoy"
+        ],
+        "biography": "Leonard Simon Nimoy (March 26, 1931 \u2013 February 27, 2015) was an American actor, film director, poet, musician and photographer. Nimoy's most famous role is that of Spock in the original Star Trek series 1966\u20131969, multiple films, television and video game sequels.\n\nNimoy began his career in his early twenties, teaching acting classes in Hollywood and making minor film and television appearances through the 1950s, as well as playing the title role in Kid Monk Baroni. In 1953, he served in the United States Army. In 1965, he made his first appearance in the rejected Star Trek pilot, \"The Cage\", and would go on to play the character of Mr. Spock until 1969, followed by seven further films and a number of guest slots in various sequels. His character of Spock generated a significant cultural impact and three Emmy Award nominations; TV Guide named Spock one of the 50 greatest TV characters. Nimoy also had a recurring role in Mission: Impossible and a narrating role in Civilization IV, as well as several well-received stage appearances. Nimoy's fame as Spock is such that both his autobiographies, I Am Not Spock (1977) and I Am Spock (1995) detail his existence as being shared between the character and himself.\n\nNimoy was born to Yiddish-speaking Orthodox Jewish immigrants from Iziaslav, Ukraine. His father, Max Nimoy, owned a barbershop in the Mattapan section of the city. His mother, Dora Nimoy (n\u00e9e Spinner), was a homemaker. Nimoy began acting at the age of eight in children's and neighborhood theater. His parents wanted him to attend college and pursue a stable career, or even learn to play the accordion\u2014which, his father advised, Nimoy could always make a living with\u2014but his grandfather encouraged him to become an actor. His first major role was at 17, as Ralphie in an amateur production of Clifford Odets' Awake and Sing!. Nimoy took Drama classes at Boston College in 1953 but failed to complete his studies, and in the 1970s studied photography at the University of California, Los Angeles. He has an MA in Education and an honorary doctorate from Antioch University in Ohio. Nimoy served as a sergeant in the U.S. Army from 1953 through 1955, alongside fellow actor Ken Berry and architect Frank Gehry.",
+        "birthday": "1931-03-26",
+        "deathday": "2015-02-27",
+        "gender": 2,
+        "homepage": null,
+        "id": 1749,
+        "imdb_id": "nm0000559",
+        "known_for_department": "Acting",
+        "name": "Leonard Nimoy",
+        "place_of_birth": "Boston, Massachusetts, USA",
+        "popularity": 0.8818,
+        "profile_path": "/vyo1sOdwEIP8adhts3UpelyiBwn.jpg"
+    }
+}

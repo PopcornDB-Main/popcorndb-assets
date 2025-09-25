@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/33dV6HAnXBmwKl640gO3U4auqUN.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    18
+                ],
+                "id": 110415,
+                "original_language": "ko",
+                "original_title": "\uc124\uad6d\uc5f4\ucc28",
+                "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+                "popularity": 13.1839,
+                "poster_path": "/9JPx09Rr0Txq2eSQfjq1DEBR5cx.jpg",
+                "release_date": "2013-08-01",
+                "title": "Snowpiercer",
+                "video": false,
+                "vote_average": 6.908,
+                "vote_count": 9997,
+                "character": "Painter",
+                "credit_id": "52fe4ad6c3a36847f81e44c9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 194662,
+                "original_language": "en",
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+                "popularity": 9.7886,
+                "poster_path": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+                "release_date": "2014-10-17",
+                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "video": false,
+                "vote_average": 7.452,
+                "vote_count": 13165,
+                "character": "Sydney",
+                "credit_id": "55e3f77c92514137e9002e65",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+                "genre_ids": [
+                    80,
+                    28
+                ],
+                "id": 187,
+                "original_language": "en",
+                "original_title": "Sin City",
+                "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark\u2026 Hard-boiled. Then there are those who call it home \u2014 Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+                "popularity": 8.5603,
+                "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+                "release_date": "2005-04-01",
+                "title": "Sin City",
+                "video": false,
+                "vote_average": 7.465,
+                "vote_count": 8443,
+                "character": "Schutz",
+                "credit_id": "59b0362d925141072306ffcd",
+                "order": 51
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wuMBQLrFJXPp1J8xTq5TjMUId8F.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 9778,
+                "original_language": "en",
+                "original_title": "Serendipity",
+                "overview": "Although strangers Sara and Jonathan are both already in relationships, they realize they have genuine chemistry after a chance encounter \u2013 but part company soon after. Years later, they each yearn to reunite, despite being destined for the altar. But to give true love a chance, they have to find one another again.",
+                "popularity": 4.8312,
+                "poster_path": "/4jS66Qmq2Ru5S2YzHVknGd4xJyT.jpg",
+                "release_date": "2001-10-05",
+                "title": "Serendipity",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 2015,
+                "character": "Airport Cab Driver",
+                "credit_id": "5c8e52c70e0a2612ed5615ce",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/itcAHIwxKvSkFEVUsqSpOEIRwZy.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 414419,
+                "original_language": "en",
+                "original_title": "Kill Bill: The Whole Bloody Affair",
+                "overview": "An assassin is shot and almost killed by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+                "popularity": 2.7195,
+                "poster_path": "/nxbv9TPXrIpRKB5xQh6atWXAkPM.jpg",
+                "release_date": "2006-03-27",
+                "title": "Kill Bill: The Whole Bloody Affair",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 1078,
+                "character": "Ernie",
+                "credit_id": "5f00383af031740037538451",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 393,
+                "original_language": "en",
+                "original_title": "Kill Bill: Vol. 2",
+                "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do \u2026 but kill Bill.",
+                "popularity": 9.333,
+                "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+                "release_date": "2004-04-16",
+                "title": "Kill Bill: Vol. 2",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 14449,
+                "character": "Ernie",
+                "credit_id": "5f77a29c944a570034c94d9e",
+                "order": 44
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Clark Tinsley Middleton"
+        ],
+        "biography": "Clark Middleton (April 13, 1957 \u2013 October 4, 2020) was an American actor.",
+        "birthday": "1957-04-13",
+        "deathday": "2020-10-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 171538,
+        "imdb_id": "nm0585485",
+        "known_for_department": "Acting",
+        "name": "Clark Middleton",
+        "place_of_birth": "Bristol, Tennessee, USA",
+        "popularity": 0.553,
+        "profile_path": "/pZM07erVJsj1xtE7S1MkxvlHPhA.jpg"
+    }
+}

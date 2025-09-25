@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/djRD1jAXkUEQIFnG6fFFQAh9LD4.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18,
+                    28
+                ],
+                "id": 10518,
+                "original_language": "en",
+                "original_title": "Marathon Man",
+                "overview": "A graduate student and obsessive runner in New York is drawn into a mysterious plot involving his brother, a member of the secretive Division.",
+                "popularity": 2.7391,
+                "poster_path": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+                "release_date": "1976-10-08",
+                "title": "Marathon Man",
+                "video": false,
+                "vote_average": 7.175,
+                "vote_count": 1146,
+                "character": "Street Gang",
+                "credit_id": "5cf3b39d0e0a2619d3caf560",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2327915,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Tricoche",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

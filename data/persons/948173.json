@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+                "genre_ids": [
+                    878,
+                    9648,
+                    12
+                ],
+                "id": 62,
+                "original_language": "en",
+                "original_title": "2001: A Space Odyssey",
+                "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+                "popularity": 12.3573,
+                "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+                "release_date": "1968-04-02",
+                "title": "2001: A Space Odyssey",
+                "video": false,
+                "vote_average": 8.065,
+                "vote_count": 12026,
+                "character": "Astronaut",
+                "credit_id": "52fe4212c3a36847f8001a87",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 935,
+                "original_language": "en",
+                "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+                "popularity": 5.4072,
+                "poster_path": "/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
+                "release_date": "1964-01-29",
+                "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "video": false,
+                "vote_average": 8.123,
+                "vote_count": 5883,
+                "character": "Lt. Kivel",
+                "credit_id": "53e0a47a0e0a265a860068bf",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qegwTsiVjrNY9nwkwzLJQ5r4204.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    878
+                ],
+                "id": 416494,
+                "original_language": "en",
+                "original_title": "Status Update",
+                "overview": "After being uprooted by his parents' separation and unable to fit into his new hometown, a teenager stumbles upon a magical app that causes his social media updates to come true.",
+                "popularity": 2.9101,
+                "poster_path": "/E4twRNScyq3g6tRpvK6X8LdD1z.jpg",
+                "release_date": "2018-02-09",
+                "title": "Status Update",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 553,
+                "character": "Ferris Wheel Man",
+                "credit_id": "67264821e725848a193ac075",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Glenn Curtis Beck",
+            "Glen Beck"
+        ],
+        "biography": "Glenn Beck was born on June 1, 1935 in Cranbrook, British Columbia, Canada. He is an actor, known for 2001: A Space Odyssey (1968), National Treasure: Book of Secrets (2007) and Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964).",
+        "birthday": "1935-06-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 948173,
+        "imdb_id": "nm0065140",
+        "known_for_department": "Acting",
+        "name": "Glenn Beck",
+        "place_of_birth": "Cranbrook, British Columbia, Canada",
+        "popularity": 1.3156,
+        "profile_path": "/9QeeMaBYTPSQYxm6GlMSuowu3GE.jpg"
+    }
+}

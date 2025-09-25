@@ -1,0 +1,50 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9wLetxZRpBtq3kyaNwBhWPAapUe.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 10110,
+                "original_language": "en",
+                "original_title": "Empire of the Sun",
+                "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+                "popularity": 3.1973,
+                "poster_path": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+                "release_date": "1987-12-09",
+                "title": "Empire of the Sun",
+                "video": false,
+                "vote_average": 7.508,
+                "vote_count": 2022,
+                "character": "Sgt. Uchida",
+                "credit_id": "56a36c2fc3a36838a3002758",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u94c3\u6728\u77f3\u677e",
+            "\u9234\u6728\u77f3\u677e",
+            "\u9234\u6728\u6709\u4e8c\uff08\u672c\u540d\uff09"
+        ],
+        "biography": "Yuji Suzuki, known as Guts Ishimatsu or Ishimatsu Suzuki, is a former boxing world champion from Kanumashi, Japan. After retiring from boxing, he has gained popularity as an actor and comedian.",
+        "birthday": "1949-06-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.guts-ishimatsu.com/",
+        "id": 553969,
+        "imdb_id": "nm0411105",
+        "known_for_department": "Acting",
+        "name": "Guts Ishimatsu",
+        "place_of_birth": "Tochigi, Japan",
+        "popularity": 0.5158,
+        "profile_path": "/QC3KS2oPOoDX3AjGvTpiMBeVLf.jpg"
+    }
+}

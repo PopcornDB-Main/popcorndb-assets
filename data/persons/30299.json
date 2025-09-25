@@ -1,0 +1,184 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2lfDV3DCNumvNyEhgsIGsrB19fs.jpg",
+                "genre_ids": [
+                    37,
+                    12
+                ],
+                "id": 995,
+                "original_language": "en",
+                "original_title": "Stagecoach",
+                "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+                "popularity": 3.4391,
+                "poster_path": "/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+                "release_date": "1939-03-02",
+                "title": "Stagecoach",
+                "video": false,
+                "vote_average": 7.625,
+                "vote_count": 1172,
+                "character": "Cavalryman (uncredited)",
+                "credit_id": "52fe4298c3a36847f802ad43",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/agUD7Wp6LAwpaB3phx6yiRmFoSY.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3089,
+                "original_language": "en",
+                "original_title": "Red River",
+                "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and prot\u00e9g\u00e9.",
+                "popularity": 4.1486,
+                "poster_path": "/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+                "release_date": "1948-09-17",
+                "title": "Red River",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 558,
+                "character": "Simms Reeves",
+                "credit_id": "52fe4385c3a36847f805a4c1",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3114,
+                "original_language": "en",
+                "original_title": "The Searchers",
+                "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+                "popularity": 2.951,
+                "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Searchers",
+                "video": false,
+                "vote_average": 7.703,
+                "vote_count": 1494,
+                "character": "Mose Harper",
+                "credit_id": "52fe4388c3a36847f805b41f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9GHsA3bt6MYW7Cpur91GeVBQKIC.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    18,
+                    12
+                ],
+                "id": 11893,
+                "original_language": "en",
+                "original_title": "Runaway Train",
+                "overview": "A hardened convict and a younger prisoner escape from a brutal prison in the middle of winter only to find themselves on an out-of-control train with a female railway worker while being pursued by the vengeful head of security.",
+                "popularity": 3.9108,
+                "poster_path": "/A9pf9KjhqCGthu6PKAKE5E1qRNn.jpg",
+                "release_date": "1985-11-15",
+                "title": "Runaway Train",
+                "video": false,
+                "vote_average": 6.965,
+                "vote_count": 612,
+                "character": "Old Con",
+                "credit_id": "52fe449c9251416c7503ac89",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c8P7vv4m4sFi5ul6Zppu9irnUVF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35
+                ],
+                "id": 11006,
+                "original_language": "en",
+                "original_title": "Smokey and the Bandit",
+                "overview": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+                "popularity": 3.8993,
+                "poster_path": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+                "release_date": "1977-05-27",
+                "title": "Smokey and the Bandit",
+                "video": false,
+                "vote_average": 6.979,
+                "vote_count": 756,
+                "character": "Trucker (uncredited)",
+                "credit_id": "64f0f120caa508010ae6bf54",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jQAGYwpp00D9PN7qKIPb4HqNzoq.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    35,
+                    10751,
+                    10402,
+                    16
+                ],
+                "id": 12335,
+                "original_language": "en",
+                "original_title": "Bedknobs and Broomsticks",
+                "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+                "popularity": 4.0307,
+                "poster_path": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+                "release_date": "1971-10-07",
+                "title": "Bedknobs and Broomsticks",
+                "video": false,
+                "vote_average": 7.033,
+                "vote_count": 991,
+                "character": "Old Home Guardsman (uncredited)",
+                "credit_id": "6331662ce860170092ac2aeb",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 17529,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+                "popularity": 3.7222,
+                "poster_path": "/9TjGjAD2deCtIG4ebi8LhIyFK6j.jpg",
+                "release_date": "1969-06-11",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 818,
+                "character": "R. Ryan - Undertaker (uncredited)",
+                "credit_id": "633710acb076e5007e5c6c9b",
+                "order": 47
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Norton Earl Worden",
+            "Worden Norten"
+        ],
+        "biography": "Raised on a cattle ranch in Montana. Educated at Stanford and the University of Nevada as an engineer. Washed out as an Army pilot. Toured the country in rodeos as a saddle bronc rider. Broke his neck in a horsefall in his 20s, but didn't know it until his 40s. Chosen along with\u00a0Tex Ritter\u00a0from a rodeo at Madison Square Garden in New York to appear in the Broadway play \"Green Grow the Lilacs\", the play from which the musical \"Oklahoma\" was later derived. Drove a cab in New York, then worked on dude ranches as a wrangler and as a guide on the Bright Angel trail of the Grand Canyon. Recommended by\u00a0Billie Burke\u00a0to several movie producers. Became friends with\u00a0John Wayne,\u00a0Howard Hawks, and later\u00a0John Ford, all of whom provided him with much work. Survived by adopted daughter Dawn Henry.\n\nDate of Death:\u00a0 6\u00a0December\u00a01992,\u00a0Los Angeles, California, USA\u00a0\u00a0(natural causes)",
+        "birthday": "1901-07-23",
+        "deathday": "1992-12-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 30299,
+        "imdb_id": "nm0941401",
+        "known_for_department": "Acting",
+        "name": "Hank Worden",
+        "place_of_birth": "Rolfe, Iowa, USA",
+        "popularity": 0.3471,
+        "profile_path": "/8GL5cWYfYuMFLpAH7oQxqDD6kcp.jpg"
+    }
+}

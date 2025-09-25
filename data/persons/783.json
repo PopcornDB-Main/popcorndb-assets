@@ -1,0 +1,183 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 90,
+                "original_language": "en",
+                "original_title": "Beverly Hills Cop",
+                "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+                "popularity": 4.9829,
+                "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+                "release_date": "1984-12-05",
+                "title": "Beverly Hills Cop",
+                "video": false,
+                "vote_average": 7.203,
+                "vote_count": 4372,
+                "character": "Zack",
+                "credit_id": "52fe4216c3a36847f8002f1f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 8.2774,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 4779,
+                "character": "Gunderson",
+                "credit_id": "52fe427ac3a36847f8021bdb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/inPupECvfe7cHuAwaEVBkDJjXZO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 2355,
+                "original_language": "en",
+                "original_title": "Reign Over Me",
+                "overview": "A man who lost his family in the September 11 attack on New York City runs into his old college roommate. Rekindling the friendship is the one thing that appears able to help the man recover from his grief.",
+                "popularity": 4.9538,
+                "poster_path": "/b5EtDvwj2gdG1qMBLijamlLfJLB.jpg",
+                "release_date": "2007-03-22",
+                "title": "Reign Over Me",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1123,
+                "character": "Stelter",
+                "credit_id": "52fe4350c3a36847f804af65",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m0CrcOOSUK6Ylf0pkGfGX0BdDq7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 414425,
+                "original_language": "en",
+                "original_title": "Mudbound",
+                "overview": "In the post\u2013World War II South, two families are pitted against a barbaric social hierarchy and an unrelenting landscape as they simultaneously fight the battle at home and the battle abroad.",
+                "popularity": 2.8281,
+                "poster_path": "/tf21kSKepMOlnorszWaiFwksKU4.jpg",
+                "release_date": "2017-11-16",
+                "title": "Mudbound",
+                "video": false,
+                "vote_average": 7.383,
+                "vote_count": 1260,
+                "character": "Pappy McAllan",
+                "credit_id": "57ce41d8c3a3683d76000444",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+                "genre_ids": [
+                    14,
+                    27,
+                    35
+                ],
+                "id": 927,
+                "original_language": "en",
+                "original_title": "Gremlins",
+                "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+                "popularity": 7.2208,
+                "poster_path": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+                "release_date": "1984-06-08",
+                "title": "Gremlins",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 6658,
+                "character": "Deputy Brent",
+                "credit_id": "5948241e9251413fbb043b3e",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 260513,
+                "original_language": "en",
+                "original_title": "Incredibles 2",
+                "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.",
+                "popularity": 22.17,
+                "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+                "release_date": "2018-06-14",
+                "title": "Incredibles 2",
+                "video": false,
+                "vote_average": 7.454,
+                "vote_count": 13263,
+                "character": "Rick Dicker (voice)",
+                "credit_id": "5a86ffd29251410a1f039a13",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 559969,
+                "original_language": "en",
+                "original_title": "El Camino: A Breaking Bad Movie",
+                "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+                "popularity": 6.2639,
+                "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+                "release_date": "2019-10-11",
+                "title": "El Camino: A Breaking Bad Movie",
+                "video": false,
+                "vote_average": 6.966,
+                "vote_count": 5182,
+                "character": "Mike",
+                "credit_id": "5d8d1960172d7f0027514f73",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jonathan Ray Banks",
+            "\uc870\ub098\ub2e8 \ubc45\uc2a4",
+            "\u062c\u0627\u0646\u0627\u062a\u0627\u0646 \u0628\u0646\u06a9\u0633"
+        ],
+        "biography": "Jonathan Banks (born January 31, 1947) is an American character actor in film and television.\n\nBanks dropped out of Indiana University to join a touring company as a stage manager. He went to Australia with the company and stayed on working in theatre there. In 1974, he moved to Los Angeles and performed on stage before picking up bit parts on television. Probably his best-known movie roles are in two films starring Eddie Murphy: 48 Hrs. and Beverly Hills Cop. In 48 Hrs. he plays a character who is a friend of the lead and is killed by the villain, beginning the lead characters' story. In Beverly Hills Cop, he plays a villain who kills the lead characters' friend and begins his story. Other movie roles include appearances in Armed and Dangerous, Freejack, Flipper, Airplane!, Gremlins, Murder Me, Murder You, and Under Siege 2: Dark Territory.\n\nHis biggest break on television, came with the series Wiseguy, in which he played Frank McPike for four years, a role which led to an Emmy award nomination. Although his character was primarily the hero's mentor, stories occasionally featured McPike as hero. In 1981 he appeared as Dutch Schultz on the NBC series the Gangster Chronicles. He also starred on the short-lived science fiction TV series Otherworld, as Kommander Neveen Kroll and in the sitcom Fired Up.\n\nBanks has also made guest appearances on TV shows including Alias, CSI, Day Break, Highlander: The Series, Matlock, SeaQuest DSV, Star Trek: Deep Space Nine, Women of the House and Walker Texas Ranger. Most recently, Banks appeared in the final Season Two episodes of Dexter, and in episodes of ER, Cold Case, and Shark, Modern Family. In the second season finale of Breaking Bad, Banks appeared as a mysterious character named Mike. Banks was made a series regular for the third season.",
+        "birthday": "1947-01-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 783,
+        "imdb_id": "nm0052186",
+        "known_for_department": "Acting",
+        "name": "Jonathan Banks",
+        "place_of_birth": "Washington, D.C., USA",
+        "popularity": 2.8473,
+        "profile_path": "/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+    }
+}

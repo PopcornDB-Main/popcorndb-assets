@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2256,
+                "character": "Reporter",
+                "credit_id": "66e59d3c64dbb3be182e5295",
+                "order": 154
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.445,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "Partygoer",
+                "credit_id": "68b67f4739a2115ab81f2f38",
+                "order": 66
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 4941963,
+        "imdb_id": "nm0362812",
+        "known_for_department": "Acting",
+        "name": "Kristina Hare",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/huf42HJE04aFDr6RZEGw1Xxb6Pv.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    36
+                ],
+                "id": 921,
+                "original_language": "en",
+                "original_title": "Cinderella Man",
+                "overview": "The true story of boxer Jim Braddock who, following his retirement in the 1930s, makes a surprise comeback in order to lift his family out of poverty.",
+                "popularity": 8.1407,
+                "poster_path": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+                "release_date": "2005-06-02",
+                "title": "Cinderella Man",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2287,
+                "character": "Braddock Cornerman",
+                "credit_id": "5fefba5960620a003c41df36",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mgcbG1w3lgj9lajGBXVUjLQti8P.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 37724,
+                "original_language": "en",
+                "original_title": "Skyfall",
+                "overview": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+                "popularity": 9.5669,
+                "poster_path": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+                "release_date": "2012-10-24",
+                "title": "Skyfall",
+                "video": false,
+                "vote_average": 7.254,
+                "vote_count": 15606,
+                "character": "Silva's Mercenary",
+                "credit_id": "5fecdbf50fb398003fbc64ab",
+                "order": 56
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1336359,
+        "imdb_id": "nm1445482",
+        "known_for_department": "Acting",
+        "name": "Wayne Gordon",
+        "place_of_birth": null,
+        "popularity": 0.1858,
+        "profile_path": "/vq0ihshp7fbZWDkAmYTzsQAOTdH.jpg"
+    }
+}

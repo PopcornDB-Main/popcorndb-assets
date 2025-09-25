@@ -1,0 +1,44 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/CAC2F6C6R8hZ3AoByDX6Jj2VOw.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 7979,
+                "original_language": "en",
+                "original_title": "The Kite Runner",
+                "overview": "After spending years in California, Amir returns to his homeland in Afghanistan to help his old friend Hassan, whose son is in trouble.",
+                "popularity": 2.2142,
+                "poster_path": "/dom2esWWW8C9jS2v7dOhW48LwHh.jpg",
+                "release_date": "2007-12-14",
+                "title": "The Kite Runner",
+                "video": false,
+                "vote_average": 7.326,
+                "vote_count": 1198,
+                "character": "Young Hassan",
+                "credit_id": "52fe448bc3a36847f809bdf5",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1997-12-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 53483,
+        "imdb_id": "nm2520301",
+        "known_for_department": "Acting",
+        "name": "Ahmad Khan Mahmoodzada",
+        "place_of_birth": "Kabul, Afghanistan",
+        "popularity": 0.1166,
+        "profile_path": "/86famKyP0NkhxpkCtgEGcxiZmwT.jpg"
+    }
+}

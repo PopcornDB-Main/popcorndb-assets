@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 103,
+                "original_language": "en",
+                "original_title": "Taxi Driver",
+                "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+                "popularity": 11.9039,
+                "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+                "release_date": "1976-02-09",
+                "title": "Taxi Driver",
+                "video": false,
+                "vote_average": 8.135,
+                "vote_count": 12865,
+                "character": "Andy, Gun Salesman",
+                "credit_id": "633d334c5ab81a0079bf56db",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    14
+                ],
+                "id": 9081,
+                "original_language": "en",
+                "original_title": "Waking Life",
+                "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+                "popularity": 3.7125,
+                "poster_path": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+                "release_date": "2001-10-19",
+                "title": "Waking Life",
+                "video": false,
+                "vote_average": 7.471,
+                "vote_count": 906,
+                "character": "Man Talking to the Bartender",
+                "credit_id": "5ebb5ffe1dbc88001bda7772",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 76155,
+        "imdb_id": "nm2402623",
+        "known_for_department": "Acting",
+        "name": "Steven Prince",
+        "place_of_birth": null,
+        "popularity": 0.1088,
+        "profile_path": "/d1M8XiUfSbafKfkR3biqlAXElVK.jpg"
+    }
+}

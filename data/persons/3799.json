@@ -1,0 +1,168 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    80
+                ],
+                "id": 268,
+                "original_language": "en",
+                "original_title": "Batman",
+                "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+                "popularity": 8.8329,
+                "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+                "release_date": "1989-06-21",
+                "title": "Batman",
+                "video": false,
+                "vote_average": 7.235,
+                "vote_count": 8194,
+                "character": "Harvey Dent",
+                "credit_id": "52fe422fc3a36847f800aa15",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.5191,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Lando Calrissian",
+                "credit_id": "52fe431ec3a36847f803bc1f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1891,
+                "original_language": "en",
+                "original_title": "The Empire Strikes Back",
+                "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+                "popularity": 6.9175,
+                "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+                "release_date": "1980-05-20",
+                "title": "The Empire Strikes Back",
+                "video": false,
+                "vote_average": 8.395,
+                "vote_count": 17683,
+                "character": "Lando Calrissian",
+                "credit_id": "52fe431ec3a36847f803bb7b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 137106,
+                "original_language": "en",
+                "original_title": "The Lego Movie",
+                "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+                "popularity": 9.0781,
+                "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+                "release_date": "2014-02-06",
+                "title": "The Lego Movie",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 8133,
+                "character": "Lando (voice)",
+                "credit_id": "542f58c90e0a264f07000a4f",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ioo6AH0qmqdfVCejFoMRi9gPePr.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 592,
+                "original_language": "en",
+                "original_title": "The Conversation",
+                "overview": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
+                "popularity": 4.1764,
+                "poster_path": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+                "release_date": "1974-04-07",
+                "title": "The Conversation",
+                "video": false,
+                "vote_average": 7.517,
+                "vote_count": 1894,
+                "character": "Man in Yellow Hat (uncredited)",
+                "credit_id": "661efe9821621b017df11917",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g01B5oD3j2sIupAQY2Ykm4TIRks.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    35,
+                    10751
+                ],
+                "id": 324849,
+                "original_language": "en",
+                "original_title": "The Lego Batman Movie",
+                "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+                "popularity": 7.6431,
+                "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+                "release_date": "2017-02-08",
+                "title": "The Lego Batman Movie",
+                "video": false,
+                "vote_average": 7.23,
+                "vote_count": 5203,
+                "character": "Two-Face (voice)",
+                "credit_id": "585c55ba9251416e8f0013c7",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u6bd4\u5229\u00b7\u8fea\u00b7\u5a01\u5ec9\u65af",
+            "\u0628\u06cc\u0644\u06cc \u062f\u06cc \u0648\u06cc\u0644\u06cc\u0627\u0645\u0632",
+            "William December Williams Jr."
+        ],
+        "biography": "William December \"Billy Dee\" Williams Jr. (born April 6, 1937) is an American actor, voice actor, and artist. He is best known as Lando Calrissian in the Star Wars franchise, first in the early 1980s, and nearly forty years later in The Rise of Skywalker (2019), marking one of the longest intervals between onscreen portrayals of a character by the same actor in American film history.",
+        "birthday": "1937-04-06",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.bdwworldart.com/",
+        "id": 3799,
+        "imdb_id": "nm0001850",
+        "known_for_department": "Acting",
+        "name": "Billy Dee Williams",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 1.3921,
+        "profile_path": "/q1pi6gpoKyRlIJuUlDXsqFqgIZA.jpg"
+    }
+}

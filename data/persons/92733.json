@@ -1,0 +1,237 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    18
+                ],
+                "id": 24238,
+                "original_language": "en",
+                "original_title": "Mary and Max",
+                "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+                "popularity": 5.7849,
+                "poster_path": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+                "release_date": "2009-04-09",
+                "title": "Mary and Max",
+                "video": false,
+                "vote_average": 7.876,
+                "vote_count": 2110,
+                "character": "Various Voices (voice)",
+                "credit_id": "65896324b7b69d09066db573",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    35
+                ],
+                "id": 1064486,
+                "original_language": "en",
+                "original_title": "Memoir of a Snail",
+                "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+                "popularity": 11.1601,
+                "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+                "release_date": "2024-10-17",
+                "title": "Memoir of a Snail",
+                "video": false,
+                "vote_average": 8.06,
+                "vote_count": 636,
+                "character": "Denise Floyd (voice)",
+                "credit_id": "6746b42264f7e203eab17361",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    18
+                ],
+                "id": 24238,
+                "original_language": "en",
+                "original_title": "Mary and Max",
+                "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+                "popularity": 5.7849,
+                "poster_path": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+                "release_date": "2009-04-09",
+                "title": "Mary and Max",
+                "video": false,
+                "vote_average": 7.876,
+                "vote_count": 2110,
+                "credit_id": "52fe448cc3a368484e028eef",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    18
+                ],
+                "id": 24238,
+                "original_language": "en",
+                "original_title": "Mary and Max",
+                "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+                "popularity": 5.7849,
+                "poster_path": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+                "release_date": "2009-04-09",
+                "title": "Mary and Max",
+                "video": false,
+                "vote_average": 7.876,
+                "vote_count": 2110,
+                "credit_id": "52fe448cc3a368484e028f2b",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    18
+                ],
+                "id": 24238,
+                "original_language": "en",
+                "original_title": "Mary and Max",
+                "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+                "popularity": 5.7849,
+                "poster_path": "/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+                "release_date": "2009-04-09",
+                "title": "Mary and Max",
+                "video": false,
+                "vote_average": 7.876,
+                "vote_count": 2110,
+                "credit_id": "52fe448cc3a368484e028f31",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    35
+                ],
+                "id": 1064486,
+                "original_language": "en",
+                "original_title": "Memoir of a Snail",
+                "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+                "popularity": 11.1601,
+                "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+                "release_date": "2024-10-17",
+                "title": "Memoir of a Snail",
+                "video": false,
+                "vote_average": 8.06,
+                "vote_count": 636,
+                "credit_id": "63a4c3b809ed8f00881e3dad",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    35
+                ],
+                "id": 1064486,
+                "original_language": "en",
+                "original_title": "Memoir of a Snail",
+                "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+                "popularity": 11.1601,
+                "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+                "release_date": "2024-10-17",
+                "title": "Memoir of a Snail",
+                "video": false,
+                "vote_average": 8.06,
+                "vote_count": 636,
+                "credit_id": "63a4c3c13344c600c8207b56",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    35
+                ],
+                "id": 1064486,
+                "original_language": "en",
+                "original_title": "Memoir of a Snail",
+                "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+                "popularity": 11.1601,
+                "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+                "release_date": "2024-10-17",
+                "title": "Memoir of a Snail",
+                "video": false,
+                "vote_average": 8.06,
+                "vote_count": 636,
+                "credit_id": "63a4c3cbc2ff3d00a75d5e5a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    35
+                ],
+                "id": 1064486,
+                "original_language": "en",
+                "original_title": "Memoir of a Snail",
+                "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+                "popularity": 11.1601,
+                "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+                "release_date": "2024-10-17",
+                "title": "Memoir of a Snail",
+                "video": false,
+                "vote_average": 8.06,
+                "vote_count": 636,
+                "credit_id": "6747116cd7a205715b616bee",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc560\ub364 \uc5d8\ub9ac\uc5c7",
+            "\uc544\ub2f4 \uc5d8\ub9ac\uc5c7",
+            "\uc544\ub2f4 \uc5d8\ub9ac\uc5b4\ud2b8",
+            "\uc560\ub364 \uc5d8\ub9ac\uc5b4\ud2b8",
+            "Adam Benjamin Elliot"
+        ],
+        "biography": "Adam Elliot (born 2 January 1972 in Berwick, Victoria, Australia) is an independent stop-motion animation writer and director based in Melbourne, Australia. His five films have collectively participated in over six-hundred film festivals and have received over one hundred awards, including an Oscar for Harvie Krumpet[2] and the Annecy Cristal for Mary and Max. Elliot calls himself an auteur filmmaker and each of his films have a bittersweet nature to them. Based loosely on his family and friends, Elliot calls each of his works a Clayography - clay animated biographies - a portmanteau term of the words clay and biography. Utilising a large team of animators and modelmakers each film takes several years to complete. He is noted for his use of traditional 'in-camera' techniques, which means every prop set and character is a 'real' miniature handcrafted object. Elliot does not use digital additions or computer generated imagery to enhance his visual aesthetic. His company, Adam Elliot Pictures, produce the films and Elliot\u2019s work practices adhere to the French auteur methodology. Each film has been voiced by notable actors including, Philip Seymour Hoffman, Toni Collette, Geoffrey Rush, Eric Bana, William McInnes and Barry Humphries. Elliot is also a voting member of the Academy of Motion Picture Arts and Sciences and in 1999 was awarded The Young Achiever of the Year for Victoria.",
+        "birthday": "1972-01-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.adamelliot.com.au/",
+        "id": 92733,
+        "imdb_id": "nm0254178",
+        "known_for_department": "Directing",
+        "name": "Adam Elliot",
+        "place_of_birth": "Berwick, Victoria, Australia",
+        "popularity": 0.9822,
+        "profile_path": "/yTNizUKqeUIn7WWabFQhnSi0GmS.jpg"
+    }
+}

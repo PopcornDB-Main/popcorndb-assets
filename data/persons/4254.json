@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eOn6EtViFLxXAmPPjJR861Dx4PX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 290,
+                "original_language": "en",
+                "original_title": "Barton Fink",
+                "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+                "popularity": 3.9922,
+                "poster_path": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+                "release_date": "1991-08-01",
+                "title": "Barton Fink",
+                "video": false,
+                "vote_average": 7.454,
+                "vote_count": 1765,
+                "character": "Garland Stanford",
+                "credit_id": "52fe4233c3a36847f800b981",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 30890,
+                "original_language": "en",
+                "original_title": "Radio Days",
+                "overview": "The Narrator tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+                "popularity": 4.1435,
+                "poster_path": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+                "release_date": "1987-01-30",
+                "title": "Radio Days",
+                "video": false,
+                "vote_average": 7.056,
+                "vote_count": 602,
+                "character": "Roger",
+                "credit_id": "5ea0daa4ea37e0001e27c2f9",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1934-12-28",
+        "deathday": "1995-08-17",
+        "gender": 2,
+        "homepage": null,
+        "id": 4254,
+        "imdb_id": "nm0913099",
+        "known_for_department": "Acting",
+        "name": "David Warrilow",
+        "place_of_birth": null,
+        "popularity": 0.4606,
+        "profile_path": "/w6APS9AwQk3WlNLMJ1En0fdYjDL.jpg"
+    }
+}

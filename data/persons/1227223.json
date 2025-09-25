@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    37
+                ],
+                "id": 44264,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find\u2014a man with 'true grit'\u2014Reuben J. 'Rooster' Cogburn.",
+                "popularity": 6.588,
+                "poster_path": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+                "release_date": "2010-12-22",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 5473,
+                "character": "Yarnell",
+                "credit_id": "52fe4681c3a36847f8102c73",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 1949,
+                "original_language": "en",
+                "original_title": "Zodiac",
+                "overview": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+                "popularity": 7.951,
+                "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+                "release_date": "2007-03-02",
+                "title": "Zodiac",
+                "video": false,
+                "vote_average": 7.528,
+                "vote_count": 11041,
+                "character": "Distraught African American Male",
+                "credit_id": "5f29d4bad8cc4a00381d6124",
+                "order": 75
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1227223,
+        "imdb_id": "nm1268936",
+        "known_for_department": "Acting",
+        "name": "Roy Lee Jones",
+        "place_of_birth": null,
+        "popularity": 0.1395,
+        "profile_path": "/guCJT6ReRyQq83sFCMjNijYZQXX.jpg"
+    }
+}

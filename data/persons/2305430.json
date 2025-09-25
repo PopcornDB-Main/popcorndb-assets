@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    28
+                ],
+                "id": 402900,
+                "original_language": "en",
+                "original_title": "Ocean's Eight",
+                "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+                "popularity": 10.9396,
+                "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+                "release_date": "2018-06-07",
+                "title": "Ocean's Eight",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 8524,
+                "character": "Omaha Banker",
+                "credit_id": "5ccf046fc3a36836b7e0a72f",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gZWl93sf8AxavYpVT1Un6EF3oCj.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 475557,
+                "original_language": "en",
+                "original_title": "Joker",
+                "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+                "popularity": 15.2359,
+                "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+                "release_date": "2019-10-01",
+                "title": "Joker",
+                "video": false,
+                "vote_average": 8.133,
+                "vote_count": 26800,
+                "character": "WBC News Anchor",
+                "credit_id": "5e17f598ffd44d00175cc041",
+                "order": 42
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2305430,
+        "imdb_id": "nm0316930",
+        "known_for_department": "Acting",
+        "name": "David Gibson",
+        "place_of_birth": null,
+        "popularity": 0.0771,
+        "profile_path": "/erQQp4lU9pOcFClh6O4pDF8ICrY.jpg"
+    }
+}

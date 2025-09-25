@@ -1,0 +1,78 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t07Pdtl3rTbE5mBdV8hAggHcGVN.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 433,
+                "original_language": "en",
+                "original_title": "Mary Poppins",
+                "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
+                "popularity": 5.3935,
+                "poster_path": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
+                "release_date": "1964-12-17",
+                "title": "Mary Poppins",
+                "video": false,
+                "vote_average": 7.56,
+                "vote_count": 4833,
+                "character": "Mr. Banks",
+                "credit_id": "52fe4243c3a36847f8010817",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jQAGYwpp00D9PN7qKIPb4HqNzoq.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    35,
+                    10751,
+                    10402,
+                    16
+                ],
+                "id": 12335,
+                "original_language": "en",
+                "original_title": "Bedknobs and Broomsticks",
+                "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+                "popularity": 4.0307,
+                "poster_path": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+                "release_date": "1971-10-07",
+                "title": "Bedknobs and Broomsticks",
+                "video": false,
+                "vote_average": 7.033,
+                "vote_count": 991,
+                "character": "Emelius",
+                "credit_id": "52fe44db9251416c7504366b",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u044d\u0432\u0438\u0434 \u0421\u0435\u0441\u0438\u043b \u041c\u0430\u043a\u0430\u043b\u0438\u0441\u0442\u0435\u0440 \u0422\u043e\u043c\u043b\u0438\u043d\u0441\u043e\u043d",
+            "\u0414\u044d\u0432\u0438\u0434 \u0422\u043e\u043c\u043b\u0438\u043d\u0441\u043e\u043d",
+            "\u0414\u044d\u0439\u0432\u0438\u0434 \u0422\u043e\u043c\u043b\u0438\u043d\u0441\u043e\u043d",
+            "David Cecil MacAlister Tomlinson",
+            "\u062f\u06cc\u0648\u06cc\u062f \u062a\u0627\u0645\u0644\u06cc\u0646\u0633\u0648\u0646"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nDavid Cecil MacAlister Tomlinson (7 May 1917 \u2013 24 June 2000) was an English film actor. He is primarily remembered for his roles as authority figure George Banks in Mary Poppins, fraudulent magician Professor Emelius Browne in Bedknobs and Broomsticks and as hapless antagonist Peter Thorndyke in The Love Bug.\n\nDescription above from the Wikipedia article David Tomlinson, licensed under CC-BY-SA, full list of contributors on Wikipedia\u200b",
+        "birthday": "1917-05-07",
+        "deathday": "2000-06-24",
+        "gender": 2,
+        "homepage": null,
+        "id": 5825,
+        "imdb_id": "nm0866835",
+        "known_for_department": "Acting",
+        "name": "David Tomlinson",
+        "place_of_birth": "Henley on Thames, Oxfordshire, England, UK",
+        "popularity": 2.5074,
+        "profile_path": "/s4vye5TiGDNG8HiwOAm4KQqees8.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/foS1hXCMagcl3GnK0hJHslNw9Ne.jpg",
+                "genre_ids": [
+                    53,
+                    27,
+                    9648,
+                    18
+                ],
+                "id": 11482,
+                "original_language": "en",
+                "original_title": "Le locataire",
+                "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+                "popularity": 2.821,
+                "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+                "release_date": "1976-05-26",
+                "title": "The Tenant",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1174,
+                "character": "Cafe Owner",
+                "credit_id": "5415aa600e0a261c38002080",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.1065,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.024,
+                "vote_count": 2226,
+                "character": "The Police Commissioner",
+                "credit_id": "65b70da00fb17f0162336249",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0416\u0430\u043a \u041c\u043e\u043d\u043e"
+        ],
+        "biography": "Jacques Monod (21 August 1918 \u2013 25 December 1985) was a French actor. He appeared in more than one hundred films from 1947 to 1985.\n\nSource: Article \"Jacques Monod (actor)\" from Wikipedia in english, licensed under CC-BY-SA 3.0.",
+        "birthday": "1918-08-21",
+        "deathday": "1985-12-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 24933,
+        "imdb_id": "nm0598388",
+        "known_for_department": "Acting",
+        "name": "Jacques Monod",
+        "place_of_birth": "Casablanca, Morocco",
+        "popularity": 0.145,
+        "profile_path": "/nFMqgmyLtfN969gRVLcc78zU84I.jpg"
+    }
+}

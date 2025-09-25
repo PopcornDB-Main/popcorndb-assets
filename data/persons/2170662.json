@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lghWedsBBl3lPlIs4EpZpP64mUT.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 603661,
+                "original_language": "en",
+                "original_title": "The Hating Game",
+                "overview": "Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.",
+                "popularity": 5.405,
+                "poster_path": "/prbZxJxGcy07y60eq8lCGMciTYz.jpg",
+                "release_date": "2021-12-09",
+                "title": "The Hating Game",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1133,
+                "character": "Pilgrim",
+                "credit_id": "648df95dc3c89100eb328e9b",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lqmNJ2dEqC5afCmYeLUiC6bYDUI.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 426613,
+                "original_language": "en",
+                "original_title": "The Miseducation of Cameron Post",
+                "overview": "Pennsylvania, 1993. After getting caught with another girl, teenager Cameron Post is sent to a conversion therapy center run by the strict Dr. Lydia Marsh and her brother, Reverend Rick, whose treatment consists in repenting for feeling \u201csame sex attraction.\u201d Cameron befriends fellow sinners Jane and Adam, thus creating a new family to deal with the surrounding intolerance.",
+                "popularity": 4.1329,
+                "poster_path": "/xFLJDW3na8AADFzQJT6bM1VU5zs.jpg",
+                "release_date": "2018-07-18",
+                "title": "The Miseducation of Cameron Post",
+                "video": false,
+                "vote_average": 6.923,
+                "vote_count": 989,
+                "credit_id": "5be350abc3a36810bf01d845",
+                "department": "Camera",
+                "job": "Still Photographer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2170662,
+        "imdb_id": "nm0404245",
+        "known_for_department": "Camera",
+        "name": "Richard Hutchings",
+        "place_of_birth": null,
+        "popularity": 0.0357,
+        "profile_path": null
+    }
+}

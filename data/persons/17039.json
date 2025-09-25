@@ -1,0 +1,256 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lxCUDgZ54myV7goBrkpFoHRt9Ms.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80
+                ],
+                "id": 64688,
+                "original_language": "en",
+                "original_title": "21 Jump Street",
+                "overview": "When cops Schmidt and Jenko join the secret Jump Street unit, they use their youthful appearances to go undercover as high school students. They trade in their guns and badges for backpacks, and set out to shut down a dangerous drug ring. But, as time goes on, Schmidt and Jenko discover that high school is nothing like it was just a few years earlier -- and, what's more, they must again confront the teenage terror and anxiety they thought they had left behind.",
+                "popularity": 6.9884,
+                "poster_path": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+                "release_date": "2012-03-14",
+                "title": "21 Jump Street",
+                "video": false,
+                "vote_average": 6.883,
+                "vote_count": 10610,
+                "character": "Deputy Chief Hardy",
+                "credit_id": "52fe46e4c3a368484e0a9991",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8aTHhowlxO3nBQjianlIyns1ZIt.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 156700,
+                "original_language": "en",
+                "original_title": "The Kings of Summer",
+                "overview": "Joe Toy, on the verge of adolescence, finds himself increasingly frustrated by his single father, Frank's attempts to manage his life. Declaring his freedom once and for all, he escapes to a clearing in the woods with his best friend, Patrick, and a strange kid named Biaggio. He announces that they are going to build a house there, free from responsibility and parents. Once their makeshift abode is finished, the three young men find themselves masters of their own destiny, alone in the woods.",
+                "popularity": 2.6651,
+                "poster_path": "/6dcIbwJuxlEnzLe0EaGFvsh4ZdS.jpg",
+                "release_date": "2013-01-19",
+                "title": "The Kings of Summer",
+                "video": false,
+                "vote_average": 6.982,
+                "vote_count": 1176,
+                "character": "Frank Toy",
+                "credit_id": "52fe4baa9251416c910e1de5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 137106,
+                "original_language": "en",
+                "original_title": "The Lego Movie",
+                "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+                "popularity": 8.681,
+                "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+                "release_date": "2014-02-06",
+                "title": "The Lego Movie",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 8134,
+                "character": "Metal Beard (voice)",
+                "credit_id": "52fe4c27c3a368484e1aa0bb",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 575265,
+                "original_language": "en",
+                "original_title": "Mission: Impossible - The Final Reckoning",
+                "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity \u2014 which has infiltrated intelligence networks all over the globe \u2014 with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+                "popularity": 161.3495,
+                "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+                "release_date": "2025-05-17",
+                "title": "Mission: Impossible - The Final Reckoning",
+                "video": false,
+                "vote_average": 7.286,
+                "vote_count": 1736,
+                "character": "General Sidney",
+                "credit_id": "62e81d571c635b0058c619c0",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4sOeeDX9uBteu81ty2bcdbzU933.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 308369,
+                "original_language": "en",
+                "original_title": "Me and Earl and the Dying Girl",
+                "overview": "Greg is coasting through senior year of high school as anonymously as possible, avoiding social interactions like the plague while secretly making spirited, bizarre films with Earl, his only friend. But both his anonymity and friendship threaten to unravel when his mother forces him to befriend a classmate with leukemia.",
+                "popularity": 2.6036,
+                "poster_path": "/eLjS2bLMjln2n2I73Xu6TaANPDZ.jpg",
+                "release_date": "2015-06-12",
+                "title": "Me and Earl and the Dying Girl",
+                "video": false,
+                "vote_average": 7.532,
+                "vote_count": 2641,
+                "character": "Greg's Dad",
+                "credit_id": "548104a1c3a368299f003830",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+                "genre_ids": [
+                    80,
+                    28
+                ],
+                "id": 187,
+                "original_language": "en",
+                "original_title": "Sin City",
+                "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark\u2026 Hard-boiled. Then there are those who call it home \u2014 Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+                "popularity": 8.5603,
+                "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+                "release_date": "2005-04-01",
+                "title": "Sin City",
+                "video": false,
+                "vote_average": 7.465,
+                "vote_count": 8444,
+                "character": "Shlubb",
+                "credit_id": "54caacc9925141678c01242f",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wDLgGI6Rswo30YkWoM6TGq0VWVy.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 13198,
+                "original_language": "en",
+                "original_title": "Wristcutters: A Love Story",
+                "overview": "Zia, distraught over breaking up with his girlfriend, decides to end it all. Unfortunately, he discovers that there is no real ending, only a run-down afterlife that is strikingly similar to his old one, just a bit worse. Discovering that his ex-girlfriend has also \"offed\" herself, he sets out on a road trip to find her.",
+                "popularity": 4.3784,
+                "poster_path": "/qModiIR60IMLP28ruGZluQOtsOj.jpg",
+                "release_date": "2007-10-19",
+                "title": "Wristcutters: A Love Story",
+                "video": false,
+                "vote_average": 6.965,
+                "vote_count": 579,
+                "character": "Cop",
+                "credit_id": "54f155c3c3a3683242000ce6",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 310307,
+                "original_language": "en",
+                "original_title": "The Founder",
+                "overview": "The true story of how Ray Kroc, a salesman from Illinois, met Mac and Dick McDonald, who were running a burger operation in 1950s Southern California. Kroc was impressed by the brothers\u2019 speedy system of making the food and saw franchise potential. He maneuvered himself into a position to be able to pull the company from the brothers and create a billion-dollar empire.",
+                "popularity": 5.9053,
+                "poster_path": "/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
+                "release_date": "2016-11-24",
+                "title": "The Founder",
+                "video": false,
+                "vote_average": 7.136,
+                "vote_count": 5176,
+                "character": "Dick McDonald",
+                "credit_id": "558b8944c3a3687e5f0021f0",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mtw5Chh2Ffl0qARklvIjGdaUygz.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    10402,
+                    16
+                ],
+                "id": 335797,
+                "original_language": "en",
+                "original_title": "Sing",
+                "overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+                "popularity": 10.3997,
+                "poster_path": "/b8UiFXwMrSXVTHM0fb2twl8uE8a.jpg",
+                "release_date": "2016-11-23",
+                "title": "Sing",
+                "video": false,
+                "vote_average": 7.12,
+                "vote_count": 8203,
+                "character": "Norman (voice)",
+                "credit_id": "5654c822c3a368414f000233",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    10402,
+                    16
+                ],
+                "id": 438695,
+                "original_language": "en",
+                "original_title": "Sing 2",
+                "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+                "popularity": 12.3504,
+                "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+                "release_date": "2021-12-01",
+                "title": "Sing 2",
+                "video": false,
+                "vote_average": 7.845,
+                "vote_count": 4617,
+                "character": "Norman (voice)",
+                "credit_id": "60d716d9880551005d625c40",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Nicholas David Offerman"
+        ],
+        "biography": "Nicholas David Offerman\u00a0(born June 26, 1970) is an American actor. He became widely known for his role as\u00a0Ron Swanson\u00a0in the\u00a0NBC\u00a0sitcom\u00a0Parks and Recreation\u00a0(2009\u20132015), for which he received the\u00a0Television Critics Association Award for Individual Achievement in Comedy and was twice nominated for the\u00a0Critics' Choice Television Award for Best Supporting Actor in a Comedy Series.\u00a0\n\nOfferman has also appeared in the\u00a0second season\u00a0of the\u00a0FX\u00a0series\u00a0Fargo\u00a0(2015), for which he received a nomination for the\u00a0Critics' Choice Television Award, as well as the\u00a0FX on Huluseries\u00a0Pam & Tommy\u00a0(2022) and the\u00a0HBO\u00a0series\u00a0The Last of Us\u00a0(2023), for which he won the\u00a0Primetime Emmy Award for Outstanding Guest Actor in a Drama Series. He has acted in numerous independent films, including\u00a0The Kings of Summer\u00a0(2013),\u00a0Me and Earl and the Dying Girl\u00a0(2015),\u00a0The Founder\u00a0(2016), and\u00a0Hearts Beat Loud\u00a0(2018).\n\nOfferman's other work includes executive producing and starring in the film\u00a0The House of Tomorrow\u00a0(2017). He also played the\u00a0President of the United States\u00a0in the movie\u00a0Civil War(2024), directed by\u00a0Alex Garland. He voiced Agent Powers on\u00a0Gravity Falls\u00a0(2012\u20132016) and has provided voice acting work for\u00a0The Lego Movie\u00a0franchise\u00a0(2014\u20132019),\u00a0Hotel Transylvania 2\u00a0(2015),\u00a0Ice Age: Collision Course\u00a0(2016), and the\u00a0Sing\u00a0film franchise\u00a0(2016\u2013present). He hosted\u00a0Have a Good Trip: Adventures in Psychedelics\u00a0(2020).\u00a0\n\nHe began co-hosting the NBC reality competition series\u00a0Making It\u00a0(2018\u20132021) with\u00a0Parks and Recreation\u00a0co-star\u00a0Amy Poehler; the duo received three nominations for the\u00a0Primetime Emmy Award for Outstanding Host for a Reality or Competition Program.\n\nDescription above from the Wikipedia article about Nick Offerman, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1970-06-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://nickofferman.co/",
+        "id": 17039,
+        "imdb_id": "nm0644406",
+        "known_for_department": "Acting",
+        "name": "Nick Offerman",
+        "place_of_birth": "Joliet, Illinois, USA",
+        "popularity": 1.1962,
+        "profile_path": "/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+    }
+}

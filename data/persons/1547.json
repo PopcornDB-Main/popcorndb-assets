@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cemjdP7HrUyJAry85vRT19Hidbi.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 138,
+                "original_language": "en",
+                "original_title": "Dracula",
+                "overview": "British estate agent Renfield travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a castle in London. After Dracula enslaves Renfield and drives him to insanity, the pair sail to London together and Dracula, a secret vampire, begins preying on London socialites.",
+                "popularity": 2.612,
+                "poster_path": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
+                "release_date": "1931-02-12",
+                "title": "Dracula",
+                "video": false,
+                "vote_average": 7.153,
+                "vote_count": 1286,
+                "character": "Count Dracula",
+                "credit_id": "52fe421dc3a36847f8004fcd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwMWJ8G5173SGCHzrm0mVjvESaY.jpg",
+                "genre_ids": [
+                    27,
+                    18
+                ],
+                "id": 13666,
+                "original_language": "en",
+                "original_title": "The Wolf Man",
+                "overview": "After his brother's death, Larry Talbot returns home to his father and the family estate. Events soon take a turn for the worse when Larry is bitten by a werewolf.",
+                "popularity": 1.2664,
+                "poster_path": "/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg",
+                "release_date": "1941-12-12",
+                "title": "The Wolf Man",
+                "video": false,
+                "vote_average": 7.012,
+                "vote_count": 645,
+                "character": "Bela",
+                "credit_id": "52fe45889251416c75059cff",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "B\u00e9la Ferenc Dezs\u00f5 Blask\u00f3",
+            "Olt Arisztid",
+            "Mr. Blasko",
+            "Albert Lugesi",
+            "Belo Lugosi",
+            "Arisztid Olt",
+            "\u0411\u0435\u043b\u0430 \u041b\u0443\u0433\u043e\u0448\u0456"
+        ],
+        "biography": "Blask\u00f3 B\u00e9la Ferenc Dezs\u0151 (October 20, 1882 \u2013 August 16, 1956), better known by the stage name Bela Lugosi, was a Hungarian stage, screen, and television actor. He is best remembered for his iconic portrayal of Count Dracula in the classic 1931 Dracula film.",
+        "birthday": "1882-10-17",
+        "deathday": "1956-08-16",
+        "gender": 2,
+        "homepage": "http://belalugosi.com",
+        "id": 1547,
+        "imdb_id": "nm0000509",
+        "known_for_department": "Acting",
+        "name": "Bela Lugosi",
+        "place_of_birth": "Lugos, Kingdom of Hungary, Austria-Hungary [now Lugoj, Timis County, Romania]",
+        "popularity": 0.3997,
+        "profile_path": "/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg"
+    }
+}

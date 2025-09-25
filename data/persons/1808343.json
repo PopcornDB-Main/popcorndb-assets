@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7EazpcvoCfNZZysgljUAkQCBvW.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 614917,
+                "original_language": "en",
+                "original_title": "King Richard",
+                "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+                "popularity": 5.0956,
+                "poster_path": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+                "release_date": "2021-11-18",
+                "title": "King Richard",
+                "video": false,
+                "vote_average": 7.622,
+                "vote_count": 2673,
+                "character": "Neighbor",
+                "credit_id": "619a6a0b35db45008b167587",
+                "order": 58
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 577922,
+                "original_language": "en",
+                "original_title": "Tenet",
+                "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+                "popularity": 9.8222,
+                "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+                "release_date": "2020-08-22",
+                "title": "Tenet",
+                "video": false,
+                "vote_average": 7.175,
+                "vote_count": 10478,
+                "character": "Young Sator",
+                "credit_id": "64ba68da06f9840138bc9cd3",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1808343,
+        "imdb_id": "nm7745065",
+        "known_for_department": "Acting",
+        "name": "Adam Cropper",
+        "place_of_birth": null,
+        "popularity": 0.1578,
+        "profile_path": "/cGaKAabwEzBRq8KfyD4kh14dGv.jpg"
+    }
+}

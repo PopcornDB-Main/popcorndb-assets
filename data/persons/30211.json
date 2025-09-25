@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8661,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 1118,
+                "character": "Jim Taylor",
+                "credit_id": "52fe4383c3a36847f8059fc1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVpp3ZcIFtJJ3fJp65eJczehIN8.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 3063,
+                "original_language": "en",
+                "original_title": "Duck Soup",
+                "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+                "popularity": 2.4872,
+                "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+                "release_date": "1933-11-12",
+                "title": "Duck Soup",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 816,
+                "character": "Politician (uncredited)",
+                "credit_id": "568f0c0fc3a368324600025a",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Gunther Edward Arnold Schneider"
+        ],
+        "biography": "Edward Arnold (born Gunther Edward Arnold Schneider; February 17, 1890 \u2013 April 26, 1956) was an American actor. Arnold began his acting career on the New York stage and became a film actor in 1916. A burly man with a commanding style and superb baritone voice, he was a popular screen personality for decades, and was the star of such film classics as Diamond Jim (1935) (a role he reprised in Le roman de Lillian Russell (1940)) Arnold appeared in over 150 films and was President of The Screen Actors Guild shortly before his death in 1956.",
+        "birthday": "1890-02-17",
+        "deathday": "1956-04-26",
+        "gender": 2,
+        "homepage": null,
+        "id": 30211,
+        "imdb_id": "nm0036427",
+        "known_for_department": "Acting",
+        "name": "Edward Arnold",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.4568,
+        "profile_path": "/iQfNbKGtR5SL5CCfFhsuqTbQw3D.jpg"
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 10.3845,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10625,
+                "character": "Martin Hansen",
+                "credit_id": "52fe4245c3a36847f80113bb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    80
+                ],
+                "id": 1359,
+                "original_language": "en",
+                "original_title": "American Psycho",
+                "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+                "popularity": 10.9344,
+                "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+                "release_date": "2000-04-13",
+                "title": "American Psycho",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 11590,
+                "character": "Craig McDermott",
+                "credit_id": "52fe42eec3a36847f802db05",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qHXdyDBgetOyetVkWGzHYGp7L72.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    36
+                ],
+                "id": 7305,
+                "original_language": "en",
+                "original_title": "Alive",
+                "overview": "The amazing true story of a Uruguayan rugby team's plane that crashed in the middle of the Andes mountains, and their immense will to survive and pull through alive, forced to do anything and everything they could to stay alive on meager rations and through the freezing cold.",
+                "popularity": 2.938,
+                "poster_path": "/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg",
+                "release_date": "1993-01-15",
+                "title": "Alive",
+                "video": false,
+                "vote_average": 6.887,
+                "vote_count": 1513,
+                "character": "Felipe Restano",
+                "credit_id": "52fe4479c3a36847f8098355",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bWN6ZBr6nJNEuHigL9fQWhZ78hd.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 9918,
+                "original_language": "en",
+                "original_title": "Glory Road",
+                "overview": "In 1966, Texas Western coach Don Haskins led the first all-black starting line-up for a college basketball team to the NCAA national championship.",
+                "popularity": 4.5433,
+                "poster_path": "/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
+                "release_date": "2006-01-13",
+                "title": "Glory Road",
+                "video": false,
+                "vote_average": 7.427,
+                "vote_count": 752,
+                "character": "Don Haskins",
+                "credit_id": "52fe4548c3a36847f80c58f9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fMQGVBk0ZyzxMQOBGkUazCkvMMR.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 38408,
+                "original_language": "en",
+                "original_title": "Life As We Know It",
+                "overview": "After a disastrous first date for caterer Holly and network sports director Messer, all they have in common is a dislike for each other and their love for their goddaughter Sophie. But when they suddenly become all Sophie has in this world, Holly and Messer must set their differences aside. Juggling careers and social calendars, they'll have to find common ground while living under the same roof.",
+                "popularity": 5.0653,
+                "poster_path": "/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg",
+                "release_date": "2010-10-02",
+                "title": "Life As We Know It",
+                "video": false,
+                "vote_average": 6.905,
+                "vote_count": 3193,
+                "character": "Sam",
+                "credit_id": "52fe46b69251416c9105d35b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/j9QaQVuyQIEwckUbjHpAgA7E4jJ.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 50348,
+                "original_language": "en",
+                "original_title": "The Lincoln Lawyer",
+                "overview": "Mick Haller is a charismatic defense attorney who does business out of his Lincoln Continental sedan. Mick spends most of his time defending petty crooks and other bottom-feeders, so it comes as quite a surprise when he lands the case of a lifetime: defending a Beverly Hills playboy who is accused of attempted murder. However, what Mick initially thinks is an open-and-shut case with a big monetary reward develops into something more sinister.",
+                "popularity": 5.5523,
+                "poster_path": "/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg",
+                "release_date": "2011-03-17",
+                "title": "The Lincoln Lawyer",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 3434,
+                "character": "Ted Minton",
+                "credit_id": "52fe47c4c3a36847f8147175",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
+                "genre_ids": [
+                    10751,
+                    35
+                ],
+                "id": 13156,
+                "original_language": "en",
+                "original_title": "Secondhand Lions",
+                "overview": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+                "popularity": 2.6234,
+                "poster_path": "/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+                "release_date": "2003-09-19",
+                "title": "Secondhand Lions",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 794,
+                "character": "Adult Walter",
+                "credit_id": "58b443d7c3a36852850177b6",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fYuWuPZyXSc3s0iPIZ4ZWpEremy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 514439,
+                "original_language": "en",
+                "original_title": "Breakthrough",
+                "overview": "Tragedy strikes when a woman named Joyce's son falls through the ice on a frozen lake and is trapped underwater for over 15 minutes. After being rushed to the hospital, the 14-year-old boy continues to fight for his life as Joyce, her husband and their pastor stay by his bedside and pray for a miracle.",
+                "popularity": 5.4827,
+                "poster_path": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg",
+                "release_date": "2019-04-10",
+                "title": "Breakthrough",
+                "video": false,
+                "vote_average": 7.647,
+                "vote_count": 1121,
+                "character": "Brian Smith",
+                "credit_id": "5ab9e3c1c3a36871e300f892",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kN8SMfKfca655F97pqRnWPmFAiZ.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 550231,
+                "original_language": "en",
+                "original_title": "The Secret: Dare to Dream",
+                "overview": "A widow with three children hires a handyman to fix her house during a major storm. When not doing home repairs, he shares his philosophy of believing in the power of the universe to deliver what we want.",
+                "popularity": 2.8516,
+                "poster_path": "/5mCqEeBA0MW7H6akFrFQXJu68rU.jpg",
+                "release_date": "2020-04-16",
+                "title": "The Secret: Dare to Dream",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 634,
+                "character": "Bray Johnson",
+                "credit_id": "5ba941db0e0a2635f905841a",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36
+                ],
+                "id": 359724,
+                "original_language": "en",
+                "original_title": "Ford v Ferrari",
+                "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+                "popularity": 11.5586,
+                "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                "release_date": "2019-11-13",
+                "title": "Ford v Ferrari",
+                "video": false,
+                "vote_average": 8.007,
+                "vote_count": 8492,
+                "character": "Leo Beebe",
+                "credit_id": "5ca5811bc3a368669baeb220",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ciKBP3tgzUxp7sHFNZxofBXUS8k.jpg",
+                "genre_ids": [
+                    28,
+                    27,
+                    53
+                ],
+                "id": 602223,
+                "original_language": "en",
+                "original_title": "The Forever Purge",
+                "overview": "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end as they chase a group of immigrants who they want to punish because of their harsh historical past.",
+                "popularity": 7.5701,
+                "poster_path": "/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg",
+                "release_date": "2021-06-30",
+                "title": "The Forever Purge",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2581,
+                "character": "Dylan Tucker",
+                "credit_id": "5f3d43669ae6130034454909",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u03a4\u03b6\u03bf\u03c2 \u039b\u03bf\u03cd\u03ba\u03b1\u03c2",
+            "\u55ac\u8a31\u00b7\u76e7\u5361\u65af",
+            "\u4e54\u8bb8\u5362\u5361\u65af",
+            "\u062c\u0627\u0634 \u0644\u0648\u06a9\u0627\u0633"
+        ],
+        "biography": "Josh Lucas (born June 20, 1971) is an American actor. He has starred alongside Jon Voight in Jerry Bruckheimer's Glory Road (2006),  Kurt Russell and Richard Dreyfuss in Wolfgang Petersen's Poseidon (2006), Morgan Freeman and Robert Redford in Lasse Hallstr\u00f6m's An Unfinished Life (2005), Jamie Bell in David Gordon Green's Undertow (2004), which was also produced by Terrence Malick.\n\nOther credits include Ford v Ferrari (2019), The Lincoln Lawyer (2011), Hulk (2003), A Beautiful Mind (2001), Wonderland (2003), The Deep End (2001), American Psycho (2000), Session 9 (2001), and You Can Count on Me (2000).\n\nLucas' theater credits include the recent off-Broadway run of \"Spalding Gray: Stories Left to Tell\"; Tennessee Williams' \"The Glass Menagerie,\" which appeared on Broadway in 2005; Terrence McNally's \"Corpus Christi\" at the Manhattan Theater Club; Christopher Shinn's \"What Didn't Happen\"; and \"The Picture of Dorian Gray.\"\n\nLucas recently completed his second collaboration with documentary filmmaker Ken Burns on \"The War\" (2007). Lucas' other documentary work includes the upcoming Operation Homecoming: Writing the Wartime Experience (2007), Trumbo (2007), and Resolved (2007).  Lucas recently completed his first venture into production with Stolen Lives (2009), in which he plays the single father of a mentally challenged boy. This film is the first project to be produced through Lucas' production company, Two Bridges.",
+        "birthday": "1971-06-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.westlord.com/josh-lucas-website/",
+        "id": 6164,
+        "imdb_id": "nm0524197",
+        "known_for_department": "Acting",
+        "name": "Josh Lucas",
+        "place_of_birth": "Little Rock, Arkansas, USA",
+        "popularity": 1.3831,
+        "profile_path": "/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+    }
+}

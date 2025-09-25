@@ -1,0 +1,181 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 590,
+                "original_language": "en",
+                "original_title": "The Hours",
+                "overview": "The story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.",
+                "popularity": 3.3356,
+                "poster_path": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+                "release_date": "2002-12-27",
+                "title": "The Hours",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 1802,
+                "character": "Leonard Woolf",
+                "credit_id": "52fe4258c3a36847f80172ad",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zONM403tEJuSi0kZhA3TxkUoS22.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 1535,
+                "original_language": "en",
+                "original_title": "Spy Game",
+                "overview": "On the day of his retirement, a veteran CIA agent learns that his former prot\u00e9g\u00e9 has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.",
+                "popularity": 8.0653,
+                "poster_path": "/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+                "release_date": "2001-11-18",
+                "title": "Spy Game",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2206,
+                "character": "Charles Harker",
+                "credit_id": "52fe42fbc3a36847f803172f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nCzfXkipK6LCg9JAPkrYw2QA0GO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 15487,
+                "original_language": "en",
+                "original_title": "The Greatest Game Ever Played",
+                "overview": "A biopic of 20-year-old Francis Ouimet who defeated his golfing idol and 1900 US Open Champion, Harry Vardon.",
+                "popularity": 3.4387,
+                "poster_path": "/kh4vd6wKa6j9xVFzxhQrsT0p2YN.jpg",
+                "release_date": "2005-09-30",
+                "title": "The Greatest Game Ever Played",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 509,
+                "character": "Harry Vardon",
+                "credit_id": "52fe465f9251416c750763f3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/evPzxMacNWsjkUKQO4NXKe5Rl6a.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 97630,
+                "original_language": "en",
+                "original_title": "Zero Dark Thirty",
+                "overview": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L. Team 6 in May, 2011.",
+                "popularity": 4.7931,
+                "poster_path": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+                "release_date": "2012-12-19",
+                "title": "Zero Dark Thirty",
+                "video": false,
+                "vote_average": 6.992,
+                "vote_count": 4687,
+                "character": "National Security Advisor",
+                "credit_id": "52fe49e89251416c750d745f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 332283,
+                "original_language": "en",
+                "original_title": "Mary Shelley",
+                "overview": "The love affair between poet Percy Shelley and Mary Wollstonecraft Godwin resulted in the creation of an immortal novel, \u201cFrankenstein; or, The Modern Prometheus.\u201d",
+                "popularity": 4.7904,
+                "poster_path": "/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg",
+                "release_date": "2017-08-06",
+                "title": "Mary Shelley",
+                "video": false,
+                "vote_average": 7.017,
+                "vote_count": 1020,
+                "character": "William Godwin",
+                "credit_id": "57ccc2f092514159fb003ee8",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 399404,
+                "original_language": "en",
+                "original_title": "Darkest Hour",
+                "overview": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler or fight on knowing that it could mean the end of the British Empire.",
+                "popularity": 6.2227,
+                "poster_path": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+                "release_date": "2017-11-22",
+                "title": "Darkest Hour",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 5299,
+                "character": "Viscount Halifax",
+                "credit_id": "58e3c2e19251412835020a6d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8jSzjgJFhV7nA5hG2LSq2qaG1BN.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 411728,
+                "original_language": "en",
+                "original_title": "The Professor and the Madman",
+                "overview": "Professor James Murray begins work compiling words for the first edition of the Oxford English Dictionary in the mid 19th century, and receives over 10,000 entries from a patient at Broadmoor Criminal Lunatic Asylum, Dr. William Minor.",
+                "popularity": 2.6595,
+                "poster_path": "/gtGCDLhfjW96qVarwctnuTpGOtD.jpg",
+                "release_date": "2019-03-07",
+                "title": "The Professor and the Madman",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1227,
+                "character": "Dr. Richard Brayne",
+                "credit_id": "5d12a10e925141524dc1ae6b",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Stephen Dillon",
+            "\u0627\u0633\u062a\u06cc\u0648\u0646 \u062f\u06cc\u0644\u06cc\u0646"
+        ],
+        "biography": "Stephen Dillane (born 30 November 1956) is an English actor. He won a Tony Award for his lead performance in Tom Stoppard's play The Real Thing.",
+        "birthday": "1956-11-30",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8435,
+        "imdb_id": "nm0226820",
+        "known_for_department": "Acting",
+        "name": "Stephen Dillane",
+        "place_of_birth": "London, England, UK",
+        "popularity": 1.2483,
+        "profile_path": "/qjIa6pXD4Z7nL7nH2LxyHDfxNgC.jpg"
+    }
+}

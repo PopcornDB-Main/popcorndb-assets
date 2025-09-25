@@ -1,0 +1,44 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cSHie9qJvujqN4tYq6gx88WDf7o.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 576,
+                "original_language": "en",
+                "original_title": "The Wild Bunch",
+                "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+                "popularity": 4.2923,
+                "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+                "release_date": "1969-06-19",
+                "title": "The Wild Bunch",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 1265,
+                "character": "Ross",
+                "credit_id": "58dff6a39251415e4400d25d",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1933-12-08",
+        "deathday": "2009-11-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 176445,
+        "imdb_id": "nm0363936",
+        "known_for_department": "Acting",
+        "name": "Paul Harper",
+        "place_of_birth": "Jackson, Tennessee, USA",
+        "popularity": 0.0877,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rBL73dGfdEqTr7Xj0HytF9s9SbM.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 11153,
+                "original_language": "en",
+                "original_title": "National Lampoon's Vacation",
+                "overview": "Clark Griswold is on a quest to take his family to the Walley World theme park for a vacation, but things don't go exactly as planned.",
+                "popularity": 3.9471,
+                "poster_path": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+                "release_date": "1983-07-29",
+                "title": "National Lampoon's Vacation",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 1637,
+                "character": "Wyatt Earp",
+                "credit_id": "574f87f3c3a3687948000304",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3HmLKhahTxX2ALTWlagr92pZrU7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 462,
+                "original_language": "en",
+                "original_title": "Erin Brockovich",
+                "overview": "A twice-divorced mother of three who sees an injustice, takes on the bad guy and wins -- with a little help from her push-up bra. Erin goes to work for an attorney and comes across medical records describing illnesses clustered in one nearby town. She starts investigating and soon exposes a monumental cover-up.",
+                "popularity": 4.5699,
+                "poster_path": "/jEMvWBWVjndZT0vJnLrRWi9ajea.jpg",
+                "release_date": "2000-03-17",
+                "title": "Erin Brockovich",
+                "video": false,
+                "vote_average": 7.442,
+                "vote_count": 3425,
+                "character": "Brian Frankel",
+                "credit_id": "5f84fb108258fc0034a47149",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Randolph Dreyfuss"
+        ],
+        "biography": "",
+        "birthday": "1956-11-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 155626,
+        "imdb_id": "nm0237850",
+        "known_for_department": "Acting",
+        "name": "Randy Lowell",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.9768,
+        "profile_path": "/bcc28LHZ1qvHeaOQ0JDRijE2W09.jpg"
+    }
+}

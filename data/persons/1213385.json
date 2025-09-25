@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+                "genre_ids": [
+                    878,
+                    9648,
+                    12
+                ],
+                "id": 62,
+                "original_language": "en",
+                "original_title": "2001: A Space Odyssey",
+                "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+                "popularity": 13.6206,
+                "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+                "release_date": "1968-04-02",
+                "title": "2001: A Space Odyssey",
+                "video": false,
+                "vote_average": 8.065,
+                "vote_count": 12026,
+                "character": "Ape",
+                "credit_id": "63fdb9679f1be700e676ee0d",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 13597,
+                "original_language": "en",
+                "original_title": "Labyrinth",
+                "overview": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King who whisks Toby away to his castle at the center of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
+                "popularity": 6.3145,
+                "poster_path": "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+                "release_date": "1986-06-27",
+                "title": "Labyrinth",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 2570,
+                "character": "The Four Guards / Goblin (voice)",
+                "credit_id": "5de2da05a61de10018e4df0c",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Tony Jackson"
+        ],
+        "biography": "",
+        "birthday": "1944-02-18",
+        "deathday": "2006-11-27",
+        "gender": 2,
+        "homepage": null,
+        "id": 1213385,
+        "imdb_id": "nm0413273",
+        "known_for_department": "Acting",
+        "name": "Anthony Jackson",
+        "place_of_birth": "Birmingham, West Midlands, England, UK",
+        "popularity": 0.5286,
+        "profile_path": null
+    }
+}

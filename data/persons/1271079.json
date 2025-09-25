@@ -1,0 +1,342 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 11,
+                "original_language": "en",
+                "original_title": "Star Wars",
+                "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+                "popularity": 16.2268,
+                "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+                "release_date": "1977-05-25",
+                "title": "Star Wars",
+                "video": false,
+                "vote_average": 8.206,
+                "vote_count": 21485,
+                "character": "Stormtrooper (uncredited)",
+                "credit_id": "52fe420ec3a36847f800054f",
+                "order": 57
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vzavBt9c6v4zBaGiwQDO21aNQG9.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 11046,
+                "original_language": "en",
+                "original_title": "Where Eagles Dare",
+                "overview": "World War II is raging, and an American general has been captured and is being held hostage in the Schloss Adler, a Bavarian castle that's nearly impossible to breach. It's up to a group of skilled Allied soldiers to liberate the general before it's too late.",
+                "popularity": 7.9901,
+                "poster_path": "/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg",
+                "release_date": "1968-12-04",
+                "title": "Where Eagles Dare",
+                "video": false,
+                "vote_average": 7.514,
+                "vote_count": 928,
+                "character": "German Soldier (uncredited)",
+                "credit_id": "644f1d4868188802e57e8373",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+                "genre_ids": [
+                    10752,
+                    12,
+                    53,
+                    28
+                ],
+                "id": 10911,
+                "original_language": "en",
+                "original_title": "The Guns of Navarone",
+                "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+                "popularity": 4.0498,
+                "poster_path": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+                "release_date": "1961-04-27",
+                "title": "The Guns of Navarone",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 822,
+                "character": "Radio operator (uncredited)",
+                "credit_id": "6306561ebb070d008436513f",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 8764,
+                "original_language": "en",
+                "original_title": "Top Secret!",
+                "overview": "Popular and dashing American singer Nick Rivers travels to East Germany to perform in a music festival. When he loses his heart to the gorgeous Hillary Flammond, he finds himself caught up in an underground resistance movement. Rivers joins forces with Agent Cedric and Flammond to attempt the rescue of her father, Dr. Paul, from the Germans, who have captured the scientist in hopes of coercing him into building a new naval mine.",
+                "popularity": 3.9489,
+                "poster_path": "/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg",
+                "release_date": "1984-06-08",
+                "title": "Top Secret!",
+                "video": false,
+                "vote_average": 7.095,
+                "vote_count": 1290,
+                "character": "Resistance Member (uncredited)",
+                "credit_id": "66c4b6541ee6519f1e970bbd",
+                "order": 71
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dMjNyPk3aBwXYYfAuSAwSRz1ewa.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 11864,
+                "original_language": "en",
+                "original_title": "Enemy Mine",
+                "overview": "A soldier from Earth crashlands on an alien world after sustaining battle damage. Eventually he encounters another survivor, but from the enemy species he was fighting; they band together to survive on this hostile world. In the end the human finds himself caring for his enemy in a completely unexpected way.",
+                "popularity": 4.4532,
+                "poster_path": "/a3dr9L8VIjhEvivzQ2M12VQDere.jpg",
+                "release_date": "1985-12-12",
+                "title": "Enemy Mine",
+                "video": false,
+                "vote_average": 6.95,
+                "vote_count": 1012,
+                "character": "Lump",
+                "credit_id": "5fc6a4152fdec6003c7a55c2",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.5191,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "credit_id": "657dbef9c9054f06aeb57d45",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 814,
+                "original_language": "en",
+                "original_title": "An American Werewolf in London",
+                "overview": "American tourists David and Jack are savaged by an unidentified vicious animal whilst hiking on the Yorkshire Moors. Retiring to the home of a beautiful nurse to recuperate, David soon experiences disturbing changes to his mind and body.",
+                "popularity": 3.9895,
+                "poster_path": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+                "release_date": "1981-08-21",
+                "title": "An American Werewolf in London",
+                "video": false,
+                "vote_average": 7.408,
+                "vote_count": 2546,
+                "credit_id": "657dc0e75f2db1069ade0c22",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 11,
+                "original_language": "en",
+                "original_title": "Star Wars",
+                "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+                "popularity": 16.2268,
+                "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+                "release_date": "1977-05-25",
+                "title": "Star Wars",
+                "video": false,
+                "vote_average": 8.206,
+                "vote_count": 21485,
+                "credit_id": "657dc96d678259068a4240b7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 379149,
+                "original_language": "en",
+                "original_title": "The Foreigner",
+                "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love \u2013 his teenage daughter \u2013 dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+                "popularity": 8.3191,
+                "poster_path": "/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+                "release_date": "2017-09-28",
+                "title": "The Foreigner",
+                "video": false,
+                "vote_average": 6.971,
+                "vote_count": 2768,
+                "credit_id": "63d83c0212b10e0093e8ed1c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vzavBt9c6v4zBaGiwQDO21aNQG9.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 11046,
+                "original_language": "en",
+                "original_title": "Where Eagles Dare",
+                "overview": "World War II is raging, and an American general has been captured and is being held hostage in the Schloss Adler, a Bavarian castle that's nearly impossible to breach. It's up to a group of skilled Allied soldiers to liberate the general before it's too late.",
+                "popularity": 7.9901,
+                "poster_path": "/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg",
+                "release_date": "1968-12-04",
+                "title": "Where Eagles Dare",
+                "video": false,
+                "vote_average": 7.514,
+                "vote_count": 928,
+                "credit_id": "644f20f1124c8d02dd7df29c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 87,
+                "original_language": "en",
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+                "popularity": 7.0403,
+                "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+                "release_date": "1984-05-23",
+                "title": "Indiana Jones and the Temple of Doom",
+                "video": false,
+                "vote_average": 7.303,
+                "vote_count": 9699,
+                "credit_id": "64a1d6448c0a4801017746ce",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 8764,
+                "original_language": "en",
+                "original_title": "Top Secret!",
+                "overview": "Popular and dashing American singer Nick Rivers travels to East Germany to perform in a music festival. When he loses his heart to the gorgeous Hillary Flammond, he finds himself caught up in an underground resistance movement. Rivers joins forces with Agent Cedric and Flammond to attempt the rescue of her father, Dr. Paul, from the Germans, who have captured the scientist in hopes of coercing him into building a new naval mine.",
+                "popularity": 3.9489,
+                "poster_path": "/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg",
+                "release_date": "1984-06-08",
+                "title": "Top Secret!",
+                "video": false,
+                "vote_average": 7.095,
+                "vote_count": 1290,
+                "credit_id": "66c4bbd763ce79d96cf2816a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 9693,
+                "original_language": "en",
+                "original_title": "Children of Men",
+                "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+                "popularity": 9.6296,
+                "poster_path": "/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+                "release_date": "2006-09-22",
+                "title": "Children of Men",
+                "video": false,
+                "vote_average": 7.612,
+                "vote_count": 7439,
+                "credit_id": "5f5ac0bbec0c580036a36b1f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    80,
+                    9648
+                ],
+                "id": 58574,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes: A Game of Shadows",
+                "overview": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes\u2019 intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the  detective.",
+                "popularity": 5.8553,
+                "poster_path": "/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+                "release_date": "2011-11-22",
+                "title": "Sherlock Holmes: A Game of Shadows",
+                "video": false,
+                "vote_average": 7.142,
+                "vote_count": 10607,
+                "credit_id": "5f764b0f1f748b0037219e9b",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1935-05-02",
+        "deathday": "2019-04-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 1271079,
+        "imdb_id": "nm0378204",
+        "known_for_department": "Acting",
+        "name": "Frank Henson",
+        "place_of_birth": "Whitehawk, Brighton, England, UK",
+        "popularity": 0.7582,
+        "profile_path": "/hZMoGSjptUk0rvaYoYGeTplbbuc.jpg"
+    }
+}

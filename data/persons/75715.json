@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 603,
+                "original_language": "en",
+                "original_title": "The Matrix",
+                "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+                "popularity": 19.2458,
+                "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+                "release_date": "1999-03-31",
+                "title": "The Matrix",
+                "video": false,
+                "vote_average": 8.232,
+                "vote_count": 26792,
+                "character": "Guard",
+                "credit_id": "52fe425cc3a36847f801820b",
+                "order": 30
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    878
+                ],
+                "id": 590223,
+                "original_language": "en",
+                "original_title": "Love and Monsters",
+                "overview": "Seven years since the Monsterpocalypse began, Joel Dawson has been living underground in order to survive. But after reconnecting over radio with his high school girlfriend Aimee, Joel decides to venture out to reunite with her, despite all the dangerous monsters that stand in his way.",
+                "popularity": 4.1696,
+                "poster_path": "/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+                "release_date": "2020-10-16",
+                "title": "Love and Monsters",
+                "video": false,
+                "vote_average": 7.284,
+                "vote_count": 4231,
+                "credit_id": "610e9b2a92e55b002a5eb72e",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 75715,
+        "imdb_id": "nm0940959",
+        "known_for_department": "Crew",
+        "name": "Lawrence Woodward",
+        "place_of_birth": null,
+        "popularity": 1.3276,
+        "profile_path": null
+    }
+}

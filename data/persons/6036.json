@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 35,
+                "original_language": "en",
+                "original_title": "The Simpsons Movie",
+                "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+                "popularity": 8.068,
+                "poster_path": "/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+                "release_date": "2007-07-25",
+                "title": "The Simpsons Movie",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 8276,
+                "character": "Edna Krabappel (voice)",
+                "credit_id": "52fe4211c3a36847f8001549",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 62211,
+                "original_language": "en",
+                "original_title": "Monsters University",
+                "overview": "A look at the relationship between Mike and Sulley during their days at Monsters University \u2014 when they weren't necessarily the best of friends.",
+                "popularity": 11.6192,
+                "poster_path": "/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+                "release_date": "2013-06-19",
+                "title": "Monsters University",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 10974,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5a94065c0e0a2616c60323c9",
+                "order": 74
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Marsha Wallace",
+            "\u30de\u30fc\u30b7\u30a2\u30fb\u30a6\u30a9\u30ec\u30b9"
+        ],
+        "biography": "Marcia Karen Wallace (November 1, 1942 \u2013 October 25, 2013) was an American actress and comedian, primarily known for her roles on sitcoms. She is best known for her roles as receptionist Carol Kester on the 1970s sitcom The Bob Newhart Show, Mrs. Carruthers on Full House, and as the voice of elementary school teacher Edna Krabappel on the animated series The Simpsons, for which she won an Emmy in 1992. The character was retired after her death but sporadically appears through archive recording.\n\nWallace was known for her tall frame, red hair, and distinctive laugh. She had a career spanning five decades on TV, film, and stage. She was a frequent guest on The Merv Griffin Show, which led to her receiving a personal request to appear on The Bob Newhart Show in a role created especially for her. Diagnosed with breast cancer in 1985, she became a cancer activist, and remained so throughout her life.",
+        "birthday": "1942-11-01",
+        "deathday": "2013-10-25",
+        "gender": 1,
+        "homepage": null,
+        "id": 6036,
+        "imdb_id": "nm0908761",
+        "known_for_department": "Acting",
+        "name": "Marcia Wallace",
+        "place_of_birth": "Creston, Iowa, USA",
+        "popularity": 0.4894,
+        "profile_path": "/bDCnZlPdUOyeQN0ewvoEjadBr9V.jpg"
+    }
+}

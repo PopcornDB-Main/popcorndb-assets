@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1366,
+                "original_language": "en",
+                "original_title": "Rocky",
+                "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time \u2014 a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+                "popularity": 10.7773,
+                "poster_path": "/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+                "release_date": "1976-11-20",
+                "title": "Rocky",
+                "video": false,
+                "vote_average": 7.79,
+                "vote_count": 8230,
+                "character": "Spectator (uncredited)",
+                "credit_id": "55d7d5a192514143e90009c7",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s5PP0ryxAo12jzvPntSEybahpCw.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 9516,
+                "original_language": "en",
+                "original_title": "Menace II Society",
+                "overview": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.",
+                "popularity": 5.595,
+                "poster_path": "/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg",
+                "release_date": "1993-05-26",
+                "title": "Menace II Society",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 815,
+                "character": "Grandpapa",
+                "credit_id": "5a6280cb0e0a261a07000ed4",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1921-11-15",
+        "deathday": "2000-04-10",
+        "gender": 2,
+        "homepage": null,
+        "id": 131832,
+        "imdb_id": "nm0424523",
+        "known_for_department": "Acting",
+        "name": "Arnold Johnson",
+        "place_of_birth": null,
+        "popularity": 0.1693,
+        "profile_path": "/miC7sItXVjEW1NggW9yx5c7mOkt.jpg"
+    }
+}

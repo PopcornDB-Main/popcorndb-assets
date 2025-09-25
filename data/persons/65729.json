@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 106646,
+                "original_language": "en",
+                "original_title": "The Wolf of Wall Street",
+                "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+                "popularity": 27.2678,
+                "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+                "release_date": "2013-12-25",
+                "title": "The Wolf of Wall Street",
+                "video": false,
+                "vote_average": 8.028,
+                "vote_count": 24976,
+                "character": "Another Broker",
+                "credit_id": "567aeb7e9251417ddd00028b",
+                "order": 82
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vVk0HV9HAqvvSfWiNGjpsOekLBS.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 2567,
+                "original_language": "en",
+                "original_title": "The Aviator",
+                "overview": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
+                "popularity": 8.0896,
+                "poster_path": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+                "release_date": "2004-12-17",
+                "title": "The Aviator",
+                "video": false,
+                "vote_average": 7.22,
+                "vote_count": 5556,
+                "character": "Timer",
+                "credit_id": "57cc6257c3a368308d00227c",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 65729,
+        "imdb_id": "nm0863376",
+        "known_for_department": "Acting",
+        "name": "Sebastian Tillinger",
+        "place_of_birth": null,
+        "popularity": 0.1129,
+        "profile_path": "/rZoiU9fkUYjI7valGlhCuRw29LS.jpg"
+    }
+}

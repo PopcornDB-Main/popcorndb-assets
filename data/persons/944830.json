@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 1726,
+                "original_language": "en",
+                "original_title": "Iron Man",
+                "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+                "popularity": 16.604,
+                "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+                "release_date": "2008-04-30",
+                "title": "Iron Man",
+                "video": false,
+                "vote_average": 7.654,
+                "vote_count": 27317,
+                "character": "Guard",
+                "credit_id": "52fe4311c3a36847f8037f43",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 68734,
+                "original_language": "en",
+                "original_title": "Argo",
+                "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+                "popularity": 5.4722,
+                "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+                "release_date": "2012-10-11",
+                "title": "Argo",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 8593,
+                "character": "Green Jacket",
+                "credit_id": "5fdd3a36fd4a9600402cb459",
+                "order": 66
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 944830,
+        "imdb_id": "nm0435771",
+        "known_for_department": "Acting",
+        "name": "Daston Kalili",
+        "place_of_birth": null,
+        "popularity": 0.2748,
+        "profile_path": "/kPcyffHZuJ3whGGwDjWmVz7JNNg.jpg"
+    }
+}

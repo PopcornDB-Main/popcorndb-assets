@@ -1,0 +1,49 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 13528,
+                "original_language": "en",
+                "original_title": "Gaslight",
+                "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+                "popularity": 2.535,
+                "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+                "release_date": "1944-05-04",
+                "title": "Gaslight",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 515,
+                "character": "Lord Dalroy",
+                "credit_id": "54bf4050c3a3681da0005973",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Lawrence Randall Grossmith"
+        ],
+        "biography": "",
+        "birthday": "1877-03-28",
+        "deathday": "1944-02-21",
+        "gender": 2,
+        "homepage": null,
+        "id": 975810,
+        "imdb_id": "nm0343749",
+        "known_for_department": "Acting",
+        "name": "Lawrence Grossmith",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.0491,
+        "profile_path": "/pBtVAi7bQ0E2gmLJX7ScuEDlhtT.jpg"
+    }
+}

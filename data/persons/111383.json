@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.7696,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.867,
+                "vote_count": 3248,
+                "character": "Medical Student",
+                "credit_id": "52fe437fc3a36847f8058785",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 651,
+                "original_language": "en",
+                "original_title": "M*A*S*H",
+                "overview": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+                "popularity": 3.3131,
+                "poster_path": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+                "release_date": "1970-02-18",
+                "title": "M*A*S*H",
+                "video": false,
+                "vote_average": 6.977,
+                "vote_count": 1088,
+                "character": "Capt. Murrhardt",
+                "credit_id": "57a88f7a925141038f005859",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Best known for his role in Young Frankenstein, Mr. Goldman played numerous roles over the last 30 years including the series MASH, Mike Hammer, and as the voice of Brainy Smurf in the long-running animated series, The Smurfs.",
+        "birthday": "1939-10-30",
+        "deathday": "2020-04-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 111383,
+        "imdb_id": "nm0325761",
+        "known_for_department": "Acting",
+        "name": "Danny Goldman",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2611,
+        "profile_path": "/lmWTlSAxjFxEnsDOU2sQ5IjgqDS.jpg"
+    }
+}

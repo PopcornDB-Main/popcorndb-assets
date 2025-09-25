@@ -1,0 +1,148 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 808,
+                "original_language": "en",
+                "original_title": "Shrek",
+                "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+                "popularity": 20.3424,
+                "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                "release_date": "2001-05-18",
+                "title": "Shrek",
+                "video": false,
+                "vote_average": 7.752,
+                "vote_count": 17967,
+                "character": "Merry Man (voice)",
+                "credit_id": "57223e63c3a368712a00089d",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 809,
+                "original_language": "en",
+                "original_title": "Shrek 2",
+                "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+                "popularity": 16.9781,
+                "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+                "release_date": "2004-05-19",
+                "title": "Shrek 2",
+                "video": false,
+                "vote_average": 7.302,
+                "vote_count": 12906,
+                "character": "Receptionist (voice)",
+                "credit_id": "58d834a9925141445f012e33",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 809,
+                "original_language": "en",
+                "original_title": "Shrek 2",
+                "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+                "popularity": 16.9781,
+                "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+                "release_date": "2004-05-19",
+                "title": "Shrek 2",
+                "video": false,
+                "vote_average": 7.302,
+                "vote_count": 12906,
+                "credit_id": "52fe4279c3a36847f802196f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 808,
+                "original_language": "en",
+                "original_title": "Shrek",
+                "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+                "popularity": 20.3424,
+                "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                "release_date": "2001-05-18",
+                "title": "Shrek",
+                "video": false,
+                "vote_average": 7.752,
+                "vote_count": 17967,
+                "credit_id": "52fe4279c3a36847f8021891",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 502356,
+                "original_language": "en",
+                "original_title": "The Super Mario Bros. Movie",
+                "overview": "While working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+                "popularity": 20.3368,
+                "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+                "release_date": "2023-04-05",
+                "title": "The Super Mario Bros. Movie",
+                "video": false,
+                "vote_average": 7.608,
+                "vote_count": 9956,
+                "credit_id": "644df2094d23dd0a9492f372",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1963-12-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12071,
+        "imdb_id": "nm0967646",
+        "known_for_department": "Acting",
+        "name": "Guillaume Aretos",
+        "place_of_birth": "Paris, France",
+        "popularity": 1.4187,
+        "profile_path": "/jpbghMhQuCuSmLPBtN4SjVrmmF9.jpg"
+    }
+}

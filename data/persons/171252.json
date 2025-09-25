@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.2691,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "character": "Barber",
+                "credit_id": "62f724ad1cac8c00860d20d7",
+                "order": 104
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10400,
+                "original_language": "en",
+                "original_title": "The Hurricane",
+                "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+                "popularity": 3.944,
+                "poster_path": "/eOzbt7KsqTC8gcjJMxcQnr89cxJ.jpg",
+                "release_date": "1999-09-17",
+                "title": "The Hurricane",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1460,
+                "character": "Big Ed",
+                "credit_id": "547ee70d92514124af000e29",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1950-08-21",
+        "deathday": "2016-09-21",
+        "gender": 2,
+        "homepage": null,
+        "id": 171252,
+        "imdb_id": "nm0644131",
+        "known_for_department": "Acting",
+        "name": "George T. Odom",
+        "place_of_birth": null,
+        "popularity": 0.0881,
+        "profile_path": "/j6T4ttSrgBu1Hf2u3DuGpMV7Vu2.jpg"
+    }
+}

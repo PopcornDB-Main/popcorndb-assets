@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2256,
+                "character": "Samuel",
+                "credit_id": "56187500925141374b000f98",
+                "order": 66
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 241,
+                "original_language": "en",
+                "original_title": "Natural Born Killers",
+                "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+                "popularity": 5.5966,
+                "poster_path": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+                "release_date": "1994-08-26",
+                "title": "Natural Born Killers",
+                "video": false,
+                "vote_average": 7.053,
+                "vote_count": 3590,
+                "credit_id": "52fe422bc3a36847f8009649",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4XC0HwRNOvub6xksENsOl68zHOn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 403,
+                "original_language": "en",
+                "original_title": "Driving Miss Daisy",
+                "overview": "The story of an old Jewish widow named Daisy Werthan and her relationship with her black chauffeur, Hoke. From an initial mere work relationship grew in 25 years a strong friendship between the two very different characters, in a time when those types of relationships were shunned.",
+                "popularity": 2.9516,
+                "poster_path": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+                "release_date": "1989-12-13",
+                "title": "Driving Miss Daisy",
+                "video": false,
+                "vote_average": 7.235,
+                "vote_count": 1664,
+                "credit_id": "52fe423fc3a36847f800f69b",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2256,
+                "credit_id": "52fe427bc3a36847f802238f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 9591,
+                "original_language": "en",
+                "original_title": "That Thing You Do!",
+                "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+                "popularity": 3.0815,
+                "poster_path": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+                "release_date": "1996-10-04",
+                "title": "That Thing You Do!",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 874,
+                "credit_id": "6089a0dcfcec2e0040819d3d",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 2604,
+                "original_language": "en",
+                "original_title": "Born on the Fourth of July",
+                "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+                "popularity": 8.918,
+                "poster_path": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+                "release_date": "1989-12-20",
+                "title": "Born on the Fourth of July",
+                "video": false,
+                "vote_average": 7.017,
+                "vote_count": 1790,
+                "credit_id": "570bceeac3a36802b00001ca",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3188,
+        "imdb_id": "nm0447504",
+        "known_for_department": "Art",
+        "name": "Victor Kempster",
+        "place_of_birth": null,
+        "popularity": 0.0486,
+        "profile_path": null
+    }
+}

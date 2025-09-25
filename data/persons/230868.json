@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 7326,
+                "original_language": "en",
+                "original_title": "Juno",
+                "overview": "Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.",
+                "popularity": 5.917,
+                "poster_path": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+                "release_date": "2007-12-05",
+                "title": "Juno",
+                "video": false,
+                "vote_average": 7.052,
+                "vote_count": 7373,
+                "character": "Guy Lab Partner",
+                "credit_id": "56ccd301c3a368277300012b",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 4.4836,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.693,
+                "vote_count": 7467,
+                "character": "Teen Boy #1",
+                "credit_id": "577d78ebc3a36817f400274d",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Steven C. Parker",
+            "Steven Parker"
+        ],
+        "biography": "",
+        "birthday": "1989-01-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 230868,
+        "imdb_id": "nm1588622",
+        "known_for_department": "Acting",
+        "name": "Steven Christopher Parker",
+        "place_of_birth": "Denver, Colorado, USA",
+        "popularity": 0.2861,
+        "profile_path": "/mAgdDucfAl5uT1NXVaLSoxNUcco.jpg"
+    }
+}

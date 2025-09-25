@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 18.3339,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23538,
+                "character": "Mercenary (uncredited)",
+                "credit_id": "56d0fb3d925141799e004ac6",
+                "order": 156
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1ufic9NSdolkgNkQSAVjlVp0uqn.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 210577,
+                "original_language": "en",
+                "original_title": "Gone Girl",
+                "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+                "popularity": 18.2364,
+                "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+                "release_date": "2014-10-01",
+                "title": "Gone Girl",
+                "video": false,
+                "vote_average": 7.89,
+                "vote_count": 19271,
+                "character": "Coffee Cop (uncredited)",
+                "credit_id": "56d0faf4c3a3681e50006a61",
+                "order": 55
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1583389,
+        "imdb_id": "nm2064613",
+        "known_for_department": "Acting",
+        "name": "Orion McCabe",
+        "place_of_birth": null,
+        "popularity": 0.0382,
+        "profile_path": null
+    }
+}

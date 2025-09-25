@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242,
+                "original_language": "en",
+                "original_title": "The Godfather Part III",
+                "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+                "popularity": 10.0786,
+                "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+                "release_date": "1990-12-25",
+                "title": "The Godfather Part III",
+                "video": false,
+                "vote_average": 7.416,
+                "vote_count": 6515,
+                "character": "Mosca",
+                "credit_id": "52fe422cc3a36847f80097ef",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 324552,
+                "original_language": "en",
+                "original_title": "John Wick: Chapter 2",
+                "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
+                "popularity": 13.6779,
+                "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+                "release_date": "2017-02-08",
+                "title": "John Wick: Chapter 2",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 13682,
+                "character": "Cardinal",
+                "credit_id": "5931f1159251417dd4000a45",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Giacinto Mario Donatone",
+            "Mario Giacinto Donatone"
+        ],
+        "biography": "",
+        "birthday": "1933-06-09",
+        "deathday": "2020-04-14",
+        "gender": 2,
+        "homepage": null,
+        "id": 103060,
+        "imdb_id": "nm0232291",
+        "known_for_department": "Acting",
+        "name": "Mario Donatone",
+        "place_of_birth": "Tripoli, Libya",
+        "popularity": 0.0537,
+        "profile_path": "/olzO93OuOX6ppkpYkH7ujEvQ52B.jpg"
+    }
+}

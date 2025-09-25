@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/o6Ln9kTC4ZrHZNUhWLOwBfUvqXU.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1653,
+                "original_language": "es",
+                "original_title": "Diarios de motocicleta",
+                "overview": "Based on the journals of Che Guevara, leader of the Cuban Revolution. In his memoirs, Guevara recounts adventures he and best friend Alberto Granado had while crossing South America by motorcycle in the early 1950s.",
+                "popularity": 2.8384,
+                "poster_path": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+                "release_date": "2004-02-06",
+                "title": "The Motorcycle Diaries",
+                "video": false,
+                "vote_average": 7.423,
+                "vote_count": 1353,
+                "character": "Alberto Granado",
+                "credit_id": "52fe4309c3a36847f803590b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yEBBtk1eyZltGgJt8Z2zi3KIvvX.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 689249,
+                "original_language": "es",
+                "original_title": "La Casa de Papel: el fen\u00f3meno",
+                "overview": "A documentary on why 'Money Heist' sparked a wave of enthusiasm around the world for a lovable group of thieves and their professor.",
+                "popularity": 2.4137,
+                "poster_path": "/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg",
+                "release_date": "2020-04-03",
+                "title": "Money Heist: The Phenomenon",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1078,
+                "character": "Self",
+                "credit_id": "5e882998b84f940014c98bb3",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Lionel Rodrigo de la Serna Chevalier",
+            "\ub85c\ub4dc\ub9ac\uace0 \ub370\ub77c\uc138\ub974\ub098",
+            "\u0631\u0648\u062f\u0631\u06cc\u06af\u0648 \u062f \u0644\u0627 \u0633\u0631\u0646\u0627",
+            "\u7f85\u5fb7\u91cc\u54e5\u585e\u7d0d"
+        ],
+        "biography": "Rodrigo de la Serna (born April 18, 1976) is an Argentine actor and musician. He is most known for starring in the 2004 biopic The Motorcycle Diaries as Alberto Granado (for which he won the Silver Condor for best actor and the Independent Spirit Award for \"Best Debut Performance\"), the Argentine miniseries Okupas as Ricardo and the Spanish Netflix series Money Heist as Palermo.",
+        "birthday": "1976-04-18",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.garaytalent.com/actores/rodrigo-de-la-serna",
+        "id": 18478,
+        "imdb_id": "nm0209404",
+        "known_for_department": "Acting",
+        "name": "Rodrigo de la Serna",
+        "place_of_birth": "Buenos Aires, Argentina",
+        "popularity": 0.97,
+        "profile_path": "/qA1WkjCuoAzY91X3bTALnAI4NU0.jpg"
+    }
+}

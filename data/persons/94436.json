@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 106646,
+                "original_language": "en",
+                "original_title": "The Wolf of Wall Street",
+                "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+                "popularity": 27.2678,
+                "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+                "release_date": "2013-12-25",
+                "title": "The Wolf of Wall Street",
+                "video": false,
+                "vote_average": 8.028,
+                "vote_count": 24976,
+                "character": "Rothschild Broker #3",
+                "credit_id": "567ae901c3a3684bc90001e0",
+                "order": 65
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36
+                ],
+                "id": 359724,
+                "original_language": "en",
+                "original_title": "Ford v Ferrari",
+                "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+                "popularity": 13.8559,
+                "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                "release_date": "2019-11-13",
+                "title": "Ford v Ferrari",
+                "video": false,
+                "vote_average": 8.007,
+                "vote_count": 8493,
+                "character": "Test Driver - Burt",
+                "credit_id": "5e7f882e42f19f0018a52319",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ward Kirby Horton"
+        ],
+        "biography": "Ward Kirby Horton (born 14 January 1976) is an American actor and stunt person. He is best known for playing John Form in the horror film Annabelle and Dr. Scott Strauss in CBS's Pure Genius.",
+        "birthday": "1976-01-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 94436,
+        "imdb_id": "nm1782235",
+        "known_for_department": "Acting",
+        "name": "Ward Horton",
+        "place_of_birth": "Morristown, New Jersey, USA",
+        "popularity": 0.4805,
+        "profile_path": "/qN28HktqfOCIaLVRK8W6bofdbvs.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 4.0805,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.49,
+                "vote_count": 2409,
+                "character": "Ed Reynolds",
+                "credit_id": "52fe424cc3a36847f8013893",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 9591,
+                "original_language": "en",
+                "original_title": "That Thing You Do!",
+                "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+                "popularity": 2.6493,
+                "poster_path": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+                "release_date": "1996-10-04",
+                "title": "That Thing You Do!",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 874,
+                "character": "Wisconsin Cop",
+                "credit_id": "60899e9a54508d0028eaa7c2",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1943-03-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 7138,
+        "imdb_id": "nm0742610",
+        "known_for_department": "Acting",
+        "name": "Clive Rosengren",
+        "place_of_birth": null,
+        "popularity": 0.0618,
+        "profile_path": "/n8EcJgGQodlJf5CvB6Z71fobQjf.jpg"
+    }
+}

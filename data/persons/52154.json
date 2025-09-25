@@ -1,0 +1,317 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 537116,
+                "original_language": "en",
+                "original_title": "tick, tick... BOOM!",
+                "overview": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
+                "popularity": 2.7737,
+                "poster_path": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+                "release_date": "2021-11-11",
+                "title": "tick, tick... BOOM!",
+                "video": false,
+                "vote_average": 7.617,
+                "vote_count": 2182,
+                "character": "Stephen Sondheim (voice on phone) (uncredited)",
+                "credit_id": "6198678b798e060062ad80c8",
+                "order": 126
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 661374,
+                "original_language": "en",
+                "original_title": "Glass Onion: A Knives Out Mystery",
+                "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+                "popularity": 8.0196,
+                "poster_path": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+                "release_date": "2022-11-23",
+                "title": "Glass Onion: A Knives Out Mystery",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 6095,
+                "character": "Stephen Sondheim",
+                "credit_id": "6340bc31a61de1007dda6ba3",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 511809,
+                "original_language": "en",
+                "original_title": "West Side Story",
+                "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+                "popularity": 6.9068,
+                "poster_path": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+                "release_date": "2021-12-08",
+                "title": "West Side Story",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 1659,
+                "credit_id": "62956e945cea1800687e2278",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 13885,
+                "original_language": "en",
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+                "popularity": 5.1344,
+                "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+                "release_date": "2007-12-20",
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "video": false,
+                "vote_average": 7.179,
+                "vote_count": 6094,
+                "credit_id": "566b55f5c3a36834c1005f6b",
+                "department": "Writing",
+                "job": "Musical"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 13885,
+                "original_language": "en",
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+                "popularity": 5.1344,
+                "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+                "release_date": "2007-12-20",
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "video": false,
+                "vote_average": 7.179,
+                "vote_count": 6094,
+                "credit_id": "566b55e6c3a3680e730009fc",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 661374,
+                "original_language": "en",
+                "original_title": "Glass Onion: A Knives Out Mystery",
+                "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+                "popularity": 8.0196,
+                "poster_path": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+                "release_date": "2022-11-23",
+                "title": "Glass Onion: A Knives Out Mystery",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 6095,
+                "credit_id": "63a9656015a4a1007a90ae00",
+                "department": "Crew",
+                "job": "In Memory Of"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 13885,
+                "original_language": "en",
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+                "popularity": 5.1344,
+                "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+                "release_date": "2007-12-20",
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "video": false,
+                "vote_average": 7.179,
+                "vote_count": 6094,
+                "credit_id": "640d9a5cb4224200b97215c8",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 13885,
+                "original_language": "en",
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+                "popularity": 5.1344,
+                "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+                "release_date": "2007-12-20",
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "video": false,
+                "vote_average": 7.179,
+                "vote_count": 6094,
+                "credit_id": "640d9a53e18e3f07d0541e93",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 13885,
+                "original_language": "en",
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+                "popularity": 5.1344,
+                "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+                "release_date": "2007-12-20",
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "video": false,
+                "vote_average": 7.179,
+                "vote_count": 6094,
+                "credit_id": "664b2bb76042db80a92c9e96",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 511809,
+                "original_language": "en",
+                "original_title": "West Side Story",
+                "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+                "popularity": 6.9068,
+                "poster_path": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+                "release_date": "2021-12-08",
+                "title": "West Side Story",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 1659,
+                "credit_id": "5e46229d41465c0014d437e0",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 1725,
+                "original_language": "en",
+                "original_title": "West Side Story",
+                "overview": "In the slums of the upper West Side of Manhattan, tensions are high as a gang of Polish-Americans compete against a gang of recently immigrated Puerto Ricans, but this doesn't stop two romantics from each gang falling in love.",
+                "popularity": 3.0716,
+                "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+                "release_date": "1961-12-13",
+                "title": "West Side Story",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1951,
+                "credit_id": "603f433f4bc38b005972931a",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 511809,
+                "original_language": "en",
+                "original_title": "West Side Story",
+                "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+                "popularity": 6.9068,
+                "poster_path": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+                "release_date": "2021-12-08",
+                "title": "West Side Story",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 1659,
+                "credit_id": "68391ba426635aaef2cd9eed",
+                "department": "Writing",
+                "job": "Theatre Play"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 1725,
+                "original_language": "en",
+                "original_title": "West Side Story",
+                "overview": "In the slums of the upper West Side of Manhattan, tensions are high as a gang of Polish-Americans compete against a gang of recently immigrated Puerto Ricans, but this doesn't stop two romantics from each gang falling in love.",
+                "popularity": 3.0716,
+                "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+                "release_date": "1961-12-13",
+                "title": "West Side Story",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1951,
+                "credit_id": "68391bf73b92af294bedc7f2",
+                "department": "Writing",
+                "job": "Theatre Play"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Stephen Joshua Sondheim\u00a0(/\u02c8s\u0252ndha\u026am/; March\u00a022, 1930\u00a0\u2013 November\u00a026, 2021) was an American composer and lyricist. Regarded as one of the most important figures in 20th-century\u00a0musical theatre, he is credited with reinventing the American musical.\u00a0With his frequent collaborators\u00a0Harold Prince\u00a0and\u00a0James Lapine, Sondheim's\u00a0Broadway\u00a0musicals tackled unexpected themes beyond the genre's traditional subjects while addressing darker elements of the human experience.\u00a0His music and lyrics are tinged with complexity, sophistication, and ambivalence about various aspects of life.\n\nSondheim's interest in musical theatre began at a young age, and Oscar Hammerstein II mentored him. He started his career by writing the lyrics for\u00a0West Side Story\u00a0(1957) and\u00a0Gypsy (1959). He transitioned to writing both music and lyrics for the theatre, with his best-known works including\u00a0A Funny Thing Happened on the Way to the Forum\u00a0(1962),\u00a0Company\u00a0(1970),\u00a0Follies (1971),\u00a0A Little Night Music\u00a0(1973),\u00a0Sweeney Todd: The Demon Barber of Fleet Street\u00a0(1979),\u00a0Merrily We Roll Along\u00a0(1981),\u00a0Sunday in the Park with George\u00a0(1984), and\u00a0Into the Woods\u00a0(1987).\n\nSondheim's\u00a0numerous awards and nominations\u00a0include eight\u00a0Tony Awards, an\u00a0Academy Award, eight\u00a0Grammy Awards, an\u00a0Olivier Award, and the\u00a0Pulitzer Prize. He also was awarded the\u00a0Kennedy Center Honor\u00a0in 1993 and a\u00a0Presidential Medal of Freedom\u00a0in 2015. A theatre is named after him both\u00a0on Broadway\u00a0and\u00a0in London's West End. Film adaptations of his works include\u00a0West Side Story\u00a0(1961),\u00a0Gypsy\u00a0(1962),\u00a0A Funny Thing Happened on the Way to the Forum\u00a0(1966),\u00a0A Little Night Music\u00a0(1977),\u00a0Sweeney Todd: The Demon Barber of Fleet Street(2007),\u00a0Into the Woods\u00a0(2014), and\u00a0West Side Story\u00a0(2021).\n\nDescription above from the Wikipedia article Stephen Sondheim, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1930-03-22",
+        "deathday": "2021-11-26",
+        "gender": 2,
+        "homepage": null,
+        "id": 52154,
+        "imdb_id": "nm0814227",
+        "known_for_department": "Writing",
+        "name": "Stephen Sondheim",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.1874,
+        "profile_path": "/1yNdo1oMP3w9DieH5vOd4FxTURg.jpg"
+    }
+}

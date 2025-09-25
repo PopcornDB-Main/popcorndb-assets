@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/q2Ev0aXGXm5Hnm12TVtvdgNhMnv.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    12
+                ],
+                "id": 285783,
+                "original_language": "en",
+                "original_title": "The Walk",
+                "overview": "The story of French high-wire artist Philippe Petit's attempt to cross the Twin Towers of the World Trade Center in 1974.",
+                "popularity": 3.095,
+                "poster_path": "/tiESRqurrZwAC0hpERogOsBhjeg.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Walk",
+                "video": false,
+                "vote_average": 6.995,
+                "vote_count": 3268,
+                "character": "Texas Tourist",
+                "credit_id": "543380d8c3a36831a9007bd0",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eWUJTW9HFDmlIACchS6Ohnk5Aom.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 323677,
+                "original_language": "en",
+                "original_title": "Race",
+                "overview": "Based on the story of Jesse Owens, the athlete whose quest to become the greatest track and field athlete in history thrusts him onto the world stage of the 1936 Olympics, where he faces off against Adolf Hitler's vision of Aryan supremacy.",
+                "popularity": 4.3769,
+                "poster_path": "/3pKLVyz6LGQU8xEDhYHSHsfy5Bg.jpg",
+                "release_date": "2016-02-19",
+                "title": "Race",
+                "video": false,
+                "vote_average": 7.251,
+                "vote_count": 1575,
+                "character": "Francis Schmidt",
+                "credit_id": "56544b95c3a36850ea0039eb",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    9648
+                ],
+                "id": 329865,
+                "original_language": "en",
+                "original_title": "Arrival",
+                "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+                "popularity": 17.1934,
+                "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+                "release_date": "2016-11-10",
+                "title": "Arrival",
+                "video": false,
+                "vote_average": 7.619,
+                "vote_count": 18547,
+                "character": "CIA Officer Dan Ryder",
+                "credit_id": "577ddcbac3a36817f4004f61",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Larry Day is a Canadian actor born in Montreal, Quebec.",
+        "birthday": "1963-12-21",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.glenntalent.ca/artist/day-larry/",
+        "id": 60907,
+        "imdb_id": "nm0206479",
+        "known_for_department": "Acting",
+        "name": "Larry Day",
+        "place_of_birth": "Montreal, Quebec, Canada",
+        "popularity": 0.212,
+        "profile_path": "/zMQdq90V0lVWrcKYUZUzlacLEyX.jpg"
+    }
+}

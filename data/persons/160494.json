@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
+                "genre_ids": [
+                    10752,
+                    18,
+                    36
+                ],
+                "id": 11202,
+                "original_language": "en",
+                "original_title": "Patton",
+                "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+                "popularity": 3.8484,
+                "poster_path": "/8IRufbzhMJSdlmD0cnTWERCtTN2.jpg",
+                "release_date": "1970-01-25",
+                "title": "Patton",
+                "video": false,
+                "vote_average": 7.48,
+                "vote_count": 1147,
+                "character": "Lieutenant Colonel Charles R. Codman",
+                "credit_id": "52fe440f9251416c750278ab",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 990,
+                "original_language": "en",
+                "original_title": "The Hustler",
+                "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+                "popularity": 2.9284,
+                "poster_path": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+                "release_date": "1961-09-25",
+                "title": "The Hustler",
+                "video": false,
+                "vote_average": 7.674,
+                "vote_count": 1016,
+                "character": "",
+                "credit_id": "682cfa45005c09508a8c10f7",
+                "order": 35
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1921-01-17",
+        "deathday": "1986-06-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 160494,
+        "imdb_id": "nm0828676",
+        "known_for_department": "Acting",
+        "name": "Paul Stevens",
+        "place_of_birth": null,
+        "popularity": 0.778,
+        "profile_path": "/55KANNlyPxjjPzlaa39OrU1vMZ.jpg"
+    }
+}

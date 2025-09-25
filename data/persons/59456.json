@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+                "genre_ids": [
+                    80,
+                    28
+                ],
+                "id": 187,
+                "original_language": "en",
+                "original_title": "Sin City",
+                "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark\u2026 Hard-boiled. Then there are those who call it home \u2014 Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+                "popularity": 9.0969,
+                "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+                "release_date": "2005-04-01",
+                "title": "Sin City",
+                "video": false,
+                "vote_average": 7.465,
+                "vote_count": 8446,
+                "character": "Bozo #2",
+                "credit_id": "572ca7cf925141516f000e47",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.2972,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4469,
+                "character": "Warrenton Gate Guard",
+                "credit_id": "58e0fcc59251415e4401c7c6",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kenneth Thomas "
+        ],
+        "biography": "",
+        "birthday": "1961-09-18",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 59456,
+        "imdb_id": "nm0859104",
+        "known_for_department": "Acting",
+        "name": "Ken Thomas",
+        "place_of_birth": "Cleveland, Ohio, USA",
+        "popularity": 0.2488,
+        "profile_path": "/iqdbZ2TyLqr05MDNmoGA5RJfJOl.jpg"
+    }
+}

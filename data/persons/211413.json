@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jJh2syzwZDM3cX2UOeDbKUZzuE8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    80
+                ],
+                "id": 8321,
+                "original_language": "en",
+                "original_title": "In Bruges",
+                "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+                "popularity": 5.179,
+                "poster_path": "/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg",
+                "release_date": "2008-02-08",
+                "title": "In Bruges",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 5435,
+                "character": "Overweight Man",
+                "credit_id": "52fe449ec3a36847f80a06fd",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sGKUhw88FMH5gfz0E6BK2YOZ5se.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 82695,
+                "original_language": "en",
+                "original_title": "Les Mis\u00e9rables",
+                "overview": "An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "popularity": 6.8718,
+                "poster_path": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+                "release_date": "2012-12-18",
+                "title": "Les Mis\u00e9rables",
+                "video": false,
+                "vote_average": 7.315,
+                "vote_count": 5416,
+                "character": "Portly Customer",
+                "credit_id": "52fe486c9251416c9108c195",
+                "order": 70
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+                "genre_ids": [
+                    27,
+                    35
+                ],
+                "id": 747,
+                "original_language": "en",
+                "original_title": "Shaun of the Dead",
+                "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+                "popularity": 6.5673,
+                "poster_path": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+                "release_date": "2004-04-09",
+                "title": "Shaun of the Dead",
+                "video": false,
+                "vote_average": 7.537,
+                "vote_count": 8874,
+                "character": "Hulking Zombie",
+                "credit_id": "58cbd2849251415e4401297c",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1968-10-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 211413,
+        "imdb_id": "nm0233025",
+        "known_for_department": "Acting",
+        "name": "Mark Donovan",
+        "place_of_birth": "Aberdare, Glamorgan, Wales, UK",
+        "popularity": 1.1612,
+        "profile_path": "/8PUjB2Xxtp91VtpCCcwasGuWSGV.jpg"
+    }
+}

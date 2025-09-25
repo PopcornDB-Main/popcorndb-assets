@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 318846,
+                "original_language": "en",
+                "original_title": "The Big Short",
+                "overview": "The men who made millions from a global economic meltdown.",
+                "popularity": 10.3106,
+                "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+                "release_date": "2015-12-11",
+                "title": "The Big Short",
+                "video": false,
+                "vote_average": 7.359,
+                "vote_count": 9395,
+                "character": "News Reporter",
+                "credit_id": "578b22d79251417c07005442",
+                "order": 82
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    36
+                ],
+                "id": 398978,
+                "original_language": "en",
+                "original_title": "The Irishman",
+                "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+                "popularity": 5.6557,
+                "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+                "release_date": "2019-11-01",
+                "title": "The Irishman",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 7167,
+                "character": "Reporter at Prison",
+                "credit_id": "5ddf4d990cd44600193187ed",
+                "order": 131
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://logancrawford.com",
+        "id": 1651992,
+        "imdb_id": "nm0186883",
+        "known_for_department": "Acting",
+        "name": "Logan Crawford",
+        "place_of_birth": null,
+        "popularity": 0.4369,
+        "profile_path": "/bJhvtiLihpOwMVZsslqSDSNG8Je.jpg"
+    }
+}

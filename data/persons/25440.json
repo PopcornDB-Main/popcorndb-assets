@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    878
+                ],
+                "id": 286217,
+                "original_language": "en",
+                "original_title": "The Martian",
+                "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+                "popularity": 11.0576,
+                "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Martian",
+                "video": false,
+                "vote_average": 7.689,
+                "vote_count": 20427,
+                "character": "JPL Store Man",
+                "credit_id": "584bc94e92514133ad008b37",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.445,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "New York Journalist",
+                "credit_id": "68b6804d4261e625a0b4ff3c",
+                "order": 73
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 25440,
+        "imdb_id": "nm0726490",
+        "known_for_department": "Acting",
+        "name": "Richard Rifkin",
+        "place_of_birth": null,
+        "popularity": 0.0725,
+        "profile_path": "/hJqJF9ewD3HZwQ8KaT5rwI4NLb2.jpg"
+    }
+}

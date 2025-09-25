@@ -1,0 +1,187 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 600,
+                "original_language": "en",
+                "original_title": "Full Metal Jacket",
+                "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+                "popularity": 6.665,
+                "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+                "release_date": "1987-06-26",
+                "title": "Full Metal Jacket",
+                "video": false,
+                "vote_average": 8.1,
+                "vote_count": 10970,
+                "character": "Pvt. Joker",
+                "credit_id": "52fe425bc3a36847f8017d3f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/j44XhCxpLTi8WnrX52H83Z86ovG.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 695,
+                "original_language": "en",
+                "original_title": "Short Cuts",
+                "overview": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+                "popularity": 4.3674,
+                "poster_path": "/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+                "release_date": "1993-10-01",
+                "title": "Short Cuts",
+                "video": false,
+                "vote_average": 7.223,
+                "vote_count": 635,
+                "character": "Dr. Ralph Wyman",
+                "credit_id": "52fe426bc3a36847f801d50f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jAfSBbm3ouddCLNRfRWRJ2PwmA2.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 11296,
+                "original_language": "en",
+                "original_title": "Birdy",
+                "overview": "Two young men are seriously affected by the Vietnam War. One of them has always been obsessed with birds - but now believes he really is a bird, and has been sent to a mental hospital. Can his friend help him pull through?",
+                "popularity": 1.7101,
+                "poster_path": "/weIn0Huxx4SQU8PB5ZggzA4PLIE.jpg",
+                "release_date": "1984-12-14",
+                "title": "Birdy",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 539,
+                "character": "Birdy",
+                "credit_id": "52fe441f9251416c750299b9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 18.3339,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23537,
+                "character": "Foley",
+                "credit_id": "52fe4781c3a36847f813992d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.113,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.05,
+                "vote_count": 10701,
+                "character": "Vannevar Bush",
+                "credit_id": "6328ae2a93bd69007a95d6b5",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 400535,
+                "original_language": "en",
+                "original_title": "Sicario: Day of the Soldado",
+                "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+                "popularity": 11.2139,
+                "poster_path": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+                "release_date": "2018-06-27",
+                "title": "Sicario: Day of the Soldado",
+                "video": false,
+                "vote_average": 6.939,
+                "vote_count": 3815,
+                "character": "Secretary of Defense James Riley",
+                "credit_id": "59b1b039925141072308ab05",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/egyi9TQjLhNEQuEsK1dXovdHOHL.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 509,
+                "original_language": "en",
+                "original_title": "Notting Hill",
+                "overview": "London bookstore owner William Thacker's quiet life turns upside down when a chance encounter with famous actress Anna Scott sparks an unlikely romance challenged by their vastly different worlds.",
+                "popularity": 9.0224,
+                "poster_path": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+                "release_date": "1999-05-21",
+                "title": "Notting Hill",
+                "video": false,
+                "vote_average": 7.265,
+                "vote_count": 6422,
+                "character": "Actor (uncredited)",
+                "credit_id": "5c23b33c92514167fdc53c5b",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u041c\u044d\u0442\u0442\u044c\u044e \u041c\u043e\u0434\u0430\u0439\u043d",
+            "\ub9e4\ud29c \ubaa8\ub518",
+            "\u041c\u044d\u0442\u044c\u044e \u041c\u043e\u0434\u0430\u0439\u043d",
+            "\u30de\u30b7\u30e5\u30fc\u30fb\u30e2\u30c7\u30a3\u30fc\u30f3",
+            "\u9a6c\u4fee\u00b7\u83ab\u8fea\u6069",
+            "\u0645\u062a\u06cc\u0648 \u0645\u0648\u062f\u06cc\u0646"
+        ],
+        "biography": "Matthew Avery Modine\u00a0is an American actor and filmmaker. He shared the\u00a0Venice Film Festival's\u00a0Volpi Cup for Best Actor\u00a0as part of the ensemble cast of\u00a0Robert Altman's\u00a0film\u00a0Streamers\u00a0(1983). He went on to play lead roles in several high-profile films throughout the 1980s, including\u00a0Birdy\u00a0(1984),\u00a0Vision Quest\u00a0(1985), and\u00a0Married to the Mob\u00a0(1988). He gained further prominence for playing\u00a0U.S. Marine\u00a0James T. \"Joker\" Davis in\u00a0Stanley Kubrick's\u00a0Full Metal Jacket (1987).\u00a0\n\nOther notable films include\u00a0Pacific Heights\u00a0(1990),\u00a0Short Cuts\u00a0(1993),\u00a0Cutthroat Island\u00a0(1995),\u00a0The Dark Knight Rises\u00a0(2012), and\u00a0Oppenheimer\u00a0(2023). On television, he portrayed\u00a0Dr. Don Francis\u00a0in the\u00a0HBO\u00a0film\u00a0And the Band Played On\u00a0(1993), Sullivan Groff on\u00a0Weeds\u00a0(2007), Ivan Turing in\u00a0Proof\u00a0(2015), and\u00a0Dr. Martin Brenner\u00a0on\u00a0Netflix's\u00a0Stranger Things (2016\u20132022).\n\nModine has been nominated twice for a\u00a0Golden Globe Award\u00a0for\u00a0Best Actor in a Miniseries or Motion Picture Made for Television\u00a0for his work in\u00a0And the Band Played On\u00a0and\u00a0What the Deaf Man Heard\u00a0and received a special Golden Globe for him and the rest of the ensemble in\u00a0Short Cuts.\u00a0He was also nominated for a\u00a0Primetime Emmy Award\u00a0for\u00a0Outstanding Lead Actor in a Miniseries or a Special\u00a0for\u00a0And the Band Played On.",
+        "birthday": "1959-03-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.matthewmodine.com",
+        "id": 8654,
+        "imdb_id": "nm0000546",
+        "known_for_department": "Acting",
+        "name": "Matthew Modine",
+        "place_of_birth": "Loma Linda, California, USA",
+        "popularity": 1.3811,
+        "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    }
+}

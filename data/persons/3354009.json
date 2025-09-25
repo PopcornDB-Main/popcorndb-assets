@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 296524,
+                "original_language": "en",
+                "original_title": "Deepwater Horizon",
+                "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+                "popularity": 4.7047,
+                "poster_path": "/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+                "release_date": "2016-09-28",
+                "title": "Deepwater Horizon",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 4692,
+                "character": "Gordon Jones",
+                "credit_id": "629f560f65e0a2161177ad7e",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1977-04-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3354009,
+        "imdb_id": "nm0029470",
+        "known_for_department": "Acting",
+        "name": "Jonathan Angel",
+        "place_of_birth": "San Francisco, California, USA",
+        "popularity": 0.0387,
+        "profile_path": null
+    }
+}

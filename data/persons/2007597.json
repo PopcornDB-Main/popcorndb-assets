@@ -1,0 +1,123 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2ze42e0l0bPYEcJXInUukvNfZKk.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 10144,
+                "original_language": "en",
+                "original_title": "The Little Mermaid",
+                "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+                "popularity": 11.7272,
+                "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+                "release_date": "1989-11-17",
+                "title": "The Little Mermaid",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 8149,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5ab81569925141395b021d01",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 12.7162,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 10095,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5f338e1c29c62600365dd2e2",
+                "order": 41
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35
+                ],
+                "id": 364689,
+                "original_language": "en",
+                "original_title": "Ferdinand",
+                "overview": "Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the \"biggest, fastest, roughest bull\" for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children's book by Munro Leaf.",
+                "popularity": 6.0968,
+                "poster_path": "/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg",
+                "release_date": "2017-12-09",
+                "title": "Ferdinand",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 2975,
+                "credit_id": "5ac784680e0a2649710272bc",
+                "department": "Sound",
+                "job": "Playback Singer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    10749
+                ],
+                "id": 88,
+                "original_language": "en",
+                "original_title": "Dirty Dancing",
+                "overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer\u2014and unexpectedly falling in love.",
+                "popularity": 6.497,
+                "poster_path": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+                "release_date": "1987-08-21",
+                "title": "Dirty Dancing",
+                "video": false,
+                "vote_average": 7.328,
+                "vote_count": 6323,
+                "credit_id": "66940da7067c584f3e027674",
+                "department": "Sound",
+                "job": "Vocals"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edie Lehmann",
+            "Edith M. Lehmann",
+            "Edie Lehmann-Boddicker",
+            "Edie Lehman Boddicker",
+            "Edie Boddicker"
+        ],
+        "biography": "",
+        "birthday": "1957-09-25",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2007597,
+        "imdb_id": "nm0090798",
+        "known_for_department": "Sound",
+        "name": "Edie Lehmann Boddicker",
+        "place_of_birth": "Buffalo, New York, USA",
+        "popularity": 1.3775,
+        "profile_path": null
+    }
+}

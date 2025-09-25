@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 976,
+                "original_language": "en",
+                "original_title": "Sweet Smell of Success",
+                "overview": "New York City newspaper writer J.J. Hunsecker holds considerable sway over public opinion with his Broadway column, but one thing that he can't control is his younger sister, Susan, who is in a relationship with aspiring jazz guitarist Steve Dallas. Hunsecker strongly disapproves of the romance and recruits publicist Sidney Falco to find a way to split the couple, no matter how ruthless the method.",
+                "popularity": 4.6649,
+                "poster_path": "/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+                "release_date": "1957-07-04",
+                "title": "Sweet Smell of Success",
+                "video": false,
+                "vote_average": 7.61,
+                "vote_count": 539,
+                "character": "Woman (uncredited)",
+                "credit_id": "634685f771ffdf00825f25be",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    18,
+                    28
+                ],
+                "id": 871,
+                "original_language": "en",
+                "original_title": "Planet of the Apes",
+                "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+                "popularity": 8.0971,
+                "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+                "release_date": "1968-02-07",
+                "title": "Planet of the Apes",
+                "video": false,
+                "vote_average": 7.646,
+                "vote_count": 3741,
+                "character": "Human (uncredited)",
+                "credit_id": "5dd0ae0557d3780015d83298",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2459931,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Jane Ross",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 288,
+                "original_language": "en",
+                "original_title": "High Noon",
+                "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+                "popularity": 4.8188,
+                "poster_path": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+                "release_date": "1952-06-09",
+                "title": "High Noon",
+                "video": false,
+                "vote_average": 7.666,
+                "vote_count": 1502,
+                "character": "Mayor Jonas Henderson",
+                "credit_id": "52fe4232c3a36847f800b76b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2lfDV3DCNumvNyEhgsIGsrB19fs.jpg",
+                "genre_ids": [
+                    37,
+                    12
+                ],
+                "id": 995,
+                "original_language": "en",
+                "original_title": "Stagecoach",
+                "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+                "popularity": 3.9056,
+                "poster_path": "/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+                "release_date": "1939-03-02",
+                "title": "Stagecoach",
+                "video": false,
+                "vote_average": 7.625,
+                "vote_count": 1172,
+                "character": "Doc Josiah Boone",
+                "credit_id": "52fe4298c3a36847f802acfd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 1585,
+                "original_language": "en",
+                "original_title": "It's a Wonderful Life",
+                "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+                "popularity": 6.3809,
+                "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+                "release_date": "1946-12-20",
+                "title": "It's a Wonderful Life",
+                "video": false,
+                "vote_average": 8.272,
+                "vote_count": 4589,
+                "character": "Uncle Billy",
+                "credit_id": "52fe4301c3a36847f803353f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749
+                ],
+                "id": 770,
+                "original_language": "en",
+                "original_title": "Gone with the Wind",
+                "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+                "popularity": 7.332,
+                "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+                "release_date": "1939-12-15",
+                "title": "Gone with the Wind",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 4191,
+                "character": "Gerald O'Hara",
+                "credit_id": "52fe4274c3a36847f801fe23",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8661,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 1117,
+                "character": "Diz Moore",
+                "credit_id": "52fe4383c3a36847f8059fc9",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0422\u043e\u043c\u0430\u0441 \u041c\u0456\u0442\u0447\u0435\u043b\u043b",
+            "Thomas John Mitchell"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia\n\nThomas Mitchell (July 11, 1892 \u2013 December 17, 1962) was an American actor, playwright and screenwriter. Among his most famous roles in a long career are those of Gerald O'Hara, the father of Scarlett O'Hara in Gone with the Wind, the drunken Doc Boone in John Ford's Stagecoach, and Uncle Billy in It's a Wonderful Life. Mitchell was the first person to win an Oscar, an Emmy, and a Tony Award.",
+        "birthday": "1892-07-10",
+        "deathday": "1962-12-17",
+        "gender": 2,
+        "homepage": null,
+        "id": 3383,
+        "imdb_id": "nm0593775",
+        "known_for_department": "Acting",
+        "name": "Thomas Mitchell",
+        "place_of_birth": "Elizabeth, New Jersey, USA",
+        "popularity": 0.5935,
+        "profile_path": "/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+    }
+}

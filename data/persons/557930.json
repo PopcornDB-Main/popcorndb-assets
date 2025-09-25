@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    18,
+                    53
+                ],
+                "id": 119450,
+                "original_language": "en",
+                "original_title": "Dawn of the Planet of the Apes",
+                "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+                "popularity": 14.2656,
+                "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+                "release_date": "2014-07-08",
+                "title": "Dawn of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 11820,
+                "character": "Blue Eyes",
+                "credit_id": "53d5606a0e0a2628470046cb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3VQj6m0I6gkuRaljmhNZl0XR3by.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 585511,
+                "original_language": "en",
+                "original_title": "Luck",
+                "overview": "Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
+                "popularity": 11.3283,
+                "poster_path": "/9OpVlfJGNvX3lUqdzY0nGoA6wQa.jpg",
+                "release_date": "2022-08-05",
+                "title": "Luck",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 1846,
+                "character": "Hazel's Dad / Nosy Cat (voice)",
+                "credit_id": "62ec9dc5a84a470060730186",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1987-12-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 557930,
+        "imdb_id": "nm3231354",
+        "known_for_department": "Acting",
+        "name": "Nick Thurston",
+        "place_of_birth": "San Francisco, California, USA",
+        "popularity": 0.6312,
+        "profile_path": "/x79TukKjK5z9QRqcMTitFdrCtNO.jpg"
+    }
+}

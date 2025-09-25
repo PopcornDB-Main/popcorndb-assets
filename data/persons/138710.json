@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vlhzpgLDoiiMCNa3Jxj2VcuRAoD.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 848685,
+                "original_language": "gl",
+                "original_title": "As bestas",
+                "overview": "Antoine and Olga, a French couple, have been living in a small village in Galicia for a long time. They practice eco-responsible agriculture and restore abandoned houses to facilitate repopulation. Everything should be idyllic but for their opposition to a wind turbine project that creates a serious conflict with their neighbors. The tension will rise to the point of irreparability.",
+                "popularity": 2.0835,
+                "poster_path": "/ytWMRYLlusyzMFFjyuFRY1liteR.jpg",
+                "release_date": "2022-07-20",
+                "title": "The Beasts",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 821,
+                "character": "Sergento Espin",
+                "credit_id": "62f02c8e66eba7007efd2695",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rhfhCRt5R71ujjRjuwuTzODKUya.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    18
+                ],
+                "id": 33273,
+                "original_language": "es",
+                "original_title": "Celda 211",
+                "overview": "The story of two men on different sides of a prison riot -- the inmate leading the rebellion and the young guard trapped in the revolt, who poses as a prisoner in a desperate attempt to survive the ordeal.",
+                "popularity": 4.4762,
+                "poster_path": "/koap5B3bQHQi3yaZ39vpWR66TGP.jpg",
+                "release_date": "2009-11-06",
+                "title": "Cell 211",
+                "video": false,
+                "vote_average": 7.449,
+                "vote_count": 1297,
+                "character": "Jefe Geos",
+                "credit_id": "56d71d8992514118840060ad",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 138710,
+        "imdb_id": "nm1172031",
+        "known_for_department": "Acting",
+        "name": "Xavier Est\u00e9vez",
+        "place_of_birth": null,
+        "popularity": 0.042,
+        "profile_path": "/uj1J1FS1bnPHY95otbUCwXtzaru.jpg"
+    }
+}

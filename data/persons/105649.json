@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 278,
+                "original_language": "en",
+                "original_title": "The Shawshank Redemption",
+                "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                "popularity": 28.0345,
+                "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                "release_date": "1994-09-23",
+                "title": "The Shawshank Redemption",
+                "video": false,
+                "vote_average": 8.712,
+                "vote_count": 28885,
+                "character": "Elmo Blatch",
+                "credit_id": "55f1bb1a9251416707002302",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 6.3934,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.602,
+                "vote_count": 2256,
+                "character": "Prisoner Powell",
+                "credit_id": "56187354925141374e000f5d",
+                "order": 60
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1940-11-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 105649,
+        "imdb_id": "nm0092877",
+        "known_for_department": "Acting",
+        "name": "Bill Bolender",
+        "place_of_birth": "\tChicago, Illinois",
+        "popularity": 0.3473,
+        "profile_path": "/x300IuivwmdtuEY1V52cAoprlBV.jpg"
+    }
+}

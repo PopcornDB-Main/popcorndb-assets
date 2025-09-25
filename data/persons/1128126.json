@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 745,
+                "original_language": "en",
+                "original_title": "The Sixth Sense",
+                "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+                "popularity": 8.3711,
+                "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+                "release_date": "1999-08-06",
+                "title": "The Sixth Sense",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 12255,
+                "character": "Husband",
+                "credit_id": "55d4b9c792514102d5002533",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648
+                ],
+                "id": 9741,
+                "original_language": "en",
+                "original_title": "Unbreakable",
+                "overview": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead \u2014 and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+                "popularity": 6.633,
+                "poster_path": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+                "release_date": "2000-11-22",
+                "title": "Unbreakable",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 9590,
+                "character": "Truck Driver",
+                "credit_id": "59ada148c3a3682c7c04c7b4",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1963-04-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1128126,
+        "imdb_id": "nm0735376",
+        "known_for_department": "Production",
+        "name": "Jose L. Rodriguez",
+        "place_of_birth": "Ramstein, Germany",
+        "popularity": 0.0264,
+        "profile_path": "/bA0koCL2KMAeuf6jcKU3cQCJ0x2.jpg"
+    }
+}

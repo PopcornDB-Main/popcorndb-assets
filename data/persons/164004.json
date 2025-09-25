@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 11324,
+                "original_language": "en",
+                "original_title": "Shutter Island",
+                "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+                "popularity": 14.1571,
+                "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+                "release_date": "2010-02-14",
+                "title": "Shutter Island",
+                "video": false,
+                "vote_average": 8.201,
+                "vote_count": 24876,
+                "character": "Doctor",
+                "credit_id": "653cde78519bbb00c433c464",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 322,
+                "original_language": "en",
+                "original_title": "Mystic River",
+                "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+                "popularity": 7.8516,
+                "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+                "release_date": "2003-10-08",
+                "title": "Mystic River",
+                "video": false,
+                "vote_average": 7.742,
+                "vote_count": 7056,
+                "character": "Dave's Friend in Bar",
+                "credit_id": "6543c12e41a561336a212c96",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ecinn4iRxpQs4mW7Y7n0b41Qgbe.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 420622,
+                "original_language": "en",
+                "original_title": "Professor Marston and the Wonder Women",
+                "overview": "The unconventional life of Dr. William Marston, the Harvard psychologist and inventor who helped invent the modern lie detector test and co-created Wonder Woman in 1941.",
+                "popularity": 3.539,
+                "poster_path": "/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg",
+                "release_date": "2017-10-13",
+                "title": "Professor Marston and the Wonder Women",
+                "video": false,
+                "vote_average": 7.188,
+                "vote_count": 901,
+                "character": "Dean Liddy",
+                "credit_id": "596e4697c3a3687fc700fe62",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1954-12-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 164004,
+        "imdb_id": "nm0154914",
+        "known_for_department": "Acting",
+        "name": "Ken Cheeseman",
+        "place_of_birth": null,
+        "popularity": 0.1498,
+        "profile_path": "/veFInhz0ITqaRHRAXBjLPn3ZvTl.jpg"
+    }
+}

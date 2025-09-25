@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3w2YSii9wQZsKKucAYwVxzOwm7s.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10752
+                ],
+                "id": 11589,
+                "original_language": "en",
+                "original_title": "Kelly's Heroes",
+                "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+                "popularity": 3.4907,
+                "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+                "release_date": "1970-06-22",
+                "title": "Kelly's Heroes",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 757,
+                "character": "Booker",
+                "credit_id": "59a415fbc3a3686a7900ce10",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 5919,
+                "original_language": "en",
+                "original_title": "The Towering Inferno",
+                "overview": "At the opening party of a colossal\u2014but poorly constructed\u2014skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+                "popularity": 3.3821,
+                "poster_path": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+                "release_date": "1974-12-14",
+                "title": "The Towering Inferno",
+                "video": false,
+                "vote_average": 7.008,
+                "vote_count": 977,
+                "character": "Deputy Chief #2",
+                "credit_id": "59c80125c3a368143006102d",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Elliott Blum"
+        ],
+        "biography": "",
+        "birthday": "1917-06-18",
+        "deathday": "1999-08-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 112722,
+        "imdb_id": "nm0254616",
+        "known_for_department": "Acting",
+        "name": "Ross Elliott",
+        "place_of_birth": "The Bronx, New York City, New York, USA",
+        "popularity": 0.3822,
+        "profile_path": "/f7IMm8AhhbYauIqm1KEr4IHfZCu.jpg"
+    }
+}

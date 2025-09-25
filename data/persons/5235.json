@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 387,
+                "original_language": "de",
+                "original_title": "Das Boot",
+                "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+                "popularity": 4.05,
+                "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+                "release_date": "1981-09-17",
+                "title": "Das Boot",
+                "video": false,
+                "vote_average": 8.085,
+                "vote_count": 2345,
+                "character": "Pilgrim",
+                "credit_id": "52fe423dc3a36847f800eac1",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tzCBj6duyr0h3Y2SACNprdL5WsB.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 31175,
+                "original_language": "de",
+                "original_title": "Soul Kitchen",
+                "overview": "In Hamburg, German-Greek chef Zinos unknowingly disturbs the peace in his locals-only restaurant by hiring a more talented chef.",
+                "popularity": 1.9788,
+                "poster_path": "/9Y2OQ7MFouzmVCMqqvZPLrzHF0F.jpg",
+                "release_date": "2009-09-09",
+                "title": "Soul Kitchen",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 555,
+                "character": "Herr Meyer (Gesundheitsamt)",
+                "credit_id": "5364e68c0e0a2647d8001378",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Jan Fedder was a German actor.\n\nHe is best known for his role as Dirk Matthies in the German television show Gro\u00dfstadtrevier as well as Pilgrim in Das Boot.",
+        "birthday": "1955-01-14",
+        "deathday": "2019-12-30",
+        "gender": 2,
+        "homepage": "http://www.janfedder.de/",
+        "id": 5235,
+        "imdb_id": "nm0270035",
+        "known_for_department": "Acting",
+        "name": "Jan Fedder",
+        "place_of_birth": "Hamburg, Germany",
+        "popularity": 0.5637,
+        "profile_path": "/l6YLu5FxF0wb7wVz6AmzN47F5vN.jpg"
+    }
+}

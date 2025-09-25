@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 3082,
+                "original_language": "en",
+                "original_title": "Modern Times",
+                "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+                "popularity": 4.5373,
+                "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+                "release_date": "1936-02-05",
+                "title": "Modern Times",
+                "video": false,
+                "vote_average": 8.283,
+                "vote_count": 3884,
+                "character": "Minister's Wife",
+                "credit_id": "52fe4383c3a36847f8059f11",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 20334,
+                "original_language": "en",
+                "original_title": "The Shop Around the Corner",
+                "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
+                "popularity": 3.5227,
+                "poster_path": "/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+                "release_date": "1940-01-12",
+                "title": "The Shop Around the Corner",
+                "video": false,
+                "vote_average": 8.1,
+                "vote_count": 766,
+                "character": "Customer (uncredited)",
+                "credit_id": "56739c819251412db100109a",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Myra McKinney"
+        ],
+        "biography": "",
+        "birthday": "1892-10-22",
+        "deathday": "1978-05-02",
+        "gender": 1,
+        "homepage": null,
+        "id": 30199,
+        "imdb_id": "nm0571901",
+        "known_for_department": "Acting",
+        "name": "Mira McKinney",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.1565,
+        "profile_path": "/sXVpY94JuS4hKARBsw2eu5oF7F.jpg"
+    }
+}

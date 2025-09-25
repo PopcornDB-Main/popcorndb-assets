@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 18.309,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Policeman at War Rally",
+                "credit_id": "638f1b17196757024ebd53c6",
+                "order": 80
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6Z1fVDm7b05I1650DJRqAq8dIaI.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 2118,
+                "original_language": "en",
+                "original_title": "L.A. Confidential",
+                "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+                "popularity": 7.8961,
+                "poster_path": "/2PH1pqXMcYBDjodkjiMwMiPi2bH.jpg",
+                "release_date": "1997-09-19",
+                "title": "L.A. Confidential",
+                "video": false,
+                "vote_average": 7.802,
+                "vote_count": 5224,
+                "character": "Detective",
+                "credit_id": "5f37d9ee11c06600373880fc",
+                "order": 79
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1943-07-27",
+        "deathday": "2002-11-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 2742892,
+        "imdb_id": "nm0830361",
+        "known_for_department": "Acting",
+        "name": "Dick Stilwell",
+        "place_of_birth": " Buffalo, New York, USA",
+        "popularity": 0.1342,
+        "profile_path": null
+    }
+}

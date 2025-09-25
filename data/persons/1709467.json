@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/q2Ev0aXGXm5Hnm12TVtvdgNhMnv.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    12
+                ],
+                "id": 285783,
+                "original_language": "en",
+                "original_title": "The Walk",
+                "overview": "The story of French high-wire artist Philippe Petit's attempt to cross the Twin Towers of the World Trade Center in 1974.",
+                "popularity": 2.7525,
+                "poster_path": "/tiESRqurrZwAC0hpERogOsBhjeg.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Walk",
+                "video": false,
+                "vote_average": 6.995,
+                "vote_count": 3270,
+                "character": "US Customs Agent",
+                "credit_id": "584d5ff29251411e3500b418",
+                "order": 42
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joel Rinsler"
+        ],
+        "biography": "",
+        "birthday": "1964-08-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1709467,
+        "imdb_id": "nm1307674",
+        "known_for_department": "Acting",
+        "name": "Joel Rinzler",
+        "place_of_birth": "Moncton, New Brunswick, Canada",
+        "popularity": 0.4747,
+        "profile_path": "/4tRp7uZN0gmV18OT70EKFgJcHx0.jpg"
+    }
+}

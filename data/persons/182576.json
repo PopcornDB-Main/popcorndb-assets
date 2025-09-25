@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 9340,
+                "original_language": "en",
+                "original_title": "The Goonies",
+                "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition.",
+                "popularity": 8.0645,
+                "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+                "release_date": "1985-06-07",
+                "title": "The Goonies",
+                "video": false,
+                "vote_average": 7.514,
+                "vote_count": 5945,
+                "character": "Reporter #1",
+                "credit_id": "5b671e1992514140640a129b",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John Charles O'Leary"
+        ],
+        "biography": "",
+        "birthday": "1935-06-10",
+        "deathday": "1989-09-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 182576,
+        "imdb_id": "nm0641591",
+        "known_for_department": "Acting",
+        "name": "Jack O'Leary",
+        "place_of_birth": "Louisville, Kentucky, USA",
+        "popularity": 0.1925,
+        "profile_path": null
+    }
+}

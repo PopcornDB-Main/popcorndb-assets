@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4MXAOW1hfTaz34KO65PRgaVo35z.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 1807,
+                "original_language": "en",
+                "original_title": "Elephant",
+                "overview": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+                "popularity": 4.8501,
+                "poster_path": "/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg",
+                "release_date": "2003-09-20",
+                "title": "Elephant",
+                "video": false,
+                "vote_average": 7.044,
+                "vote_count": 2005,
+                "character": "GSA Teacher",
+                "credit_id": "64f2962ecaa50800e952913c",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 184,
+                "original_language": "en",
+                "original_title": "Jackie Brown",
+                "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan \u2014 with help from a bail bondsman \u2014 to keep the money for herself.",
+                "popularity": 5.5946,
+                "poster_path": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+                "release_date": "1997-12-25",
+                "title": "Jackie Brown",
+                "video": false,
+                "vote_average": 7.355,
+                "vote_count": 6640,
+                "character": "Cockatoo Bartender",
+                "credit_id": "5870e11792514135640078c6",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ellis E. Williams"
+        ],
+        "biography": "",
+        "birthday": "1951-06-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1219510,
+        "imdb_id": "nm0930533",
+        "known_for_department": "Acting",
+        "name": "Ellis Williams",
+        "place_of_birth": "Brunswick, Georgia, USA",
+        "popularity": 0.152,
+        "profile_path": "/jturKMtsFwSgC9ESE4JzPlN9sSp.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 5919,
+                "original_language": "en",
+                "original_title": "The Towering Inferno",
+                "overview": "At the opening party of a colossal\u2014but poorly constructed\u2014skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+                "popularity": 4.4211,
+                "poster_path": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+                "release_date": "1974-12-14",
+                "title": "The Towering Inferno",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 975,
+                "character": "Mayor Ramsay",
+                "credit_id": "52fe442dc3a36847f8086e27",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 9277,
+                "original_language": "en",
+                "original_title": "The Sting",
+                "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+                "popularity": 12.9966,
+                "poster_path": "/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
+                "release_date": "1973-12-25",
+                "title": "The Sting",
+                "video": false,
+                "vote_average": 8.028,
+                "vote_count": 2760,
+                "character": "Duke Boudreau",
+                "credit_id": "55f365db9251414a56000e85",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1918-08-24",
+        "deathday": "2005-01-31",
+        "gender": 2,
+        "homepage": null,
+        "id": 153628,
+        "imdb_id": "nm0172355",
+        "known_for_department": "Acting",
+        "name": "Jack Collins",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 0.1623,
+        "profile_path": "/cq0ai4W5uMDmPs3yjN61VO2Qjti.jpg"
+    }
+}

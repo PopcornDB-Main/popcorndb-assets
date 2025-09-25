@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2ze42e0l0bPYEcJXInUukvNfZKk.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 10144,
+                "original_language": "en",
+                "original_title": "The Little Mermaid",
+                "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+                "popularity": 13.8346,
+                "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+                "release_date": "1989-11-17",
+                "title": "The Little Mermaid",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 8153,
+                "character": "Scuttle (voice)",
+                "credit_id": "52fe43359251416c75007853",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80
+                ],
+                "id": 11576,
+                "original_language": "en",
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+                "popularity": 7.9903,
+                "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+                "release_date": "1963-11-07",
+                "title": "It's a Mad, Mad, Mad, Mad World",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 637,
+                "character": "Benjy Benjamin",
+                "credit_id": "52fe445f9251416c75032657",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Leonard Hacker"
+        ],
+        "biography": "Buddy Hackett \u00a0(August 31, 1924 - June 30, 2003) was an American actor, comedian and singer.",
+        "birthday": "1924-08-31",
+        "deathday": "2003-06-30",
+        "gender": 2,
+        "homepage": null,
+        "id": 67393,
+        "imdb_id": "nm0004983",
+        "known_for_department": "Acting",
+        "name": "Buddy Hackett",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 0.4626,
+        "profile_path": "/tc9A8gHLAwMliIwRUs9O9QzlYZF.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    28
+                ],
+                "id": 617653,
+                "original_language": "en",
+                "original_title": "The Last Duel",
+                "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+                "popularity": 6.1744,
+                "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+                "release_date": "2021-10-13",
+                "title": "The Last Duel",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 3604,
+                "character": "Priest at Duel",
+                "credit_id": "62f10933813cb600806d9ab3",
+                "order": 48
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GZVHgJUcVyytQRJ533GpMavAcL.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 7984,
+                "original_language": "en",
+                "original_title": "In the Name of the Father",
+                "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
+                "popularity": 2.6913,
+                "poster_path": "/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+                "release_date": "1993-12-12",
+                "title": "In the Name of the Father",
+                "video": false,
+                "vote_average": 7.896,
+                "vote_count": 1845,
+                "character": "Defense Counsel",
+                "credit_id": "560819539251417a45002546",
+                "order": 62
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Boscoe Hogan"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 33401,
+        "imdb_id": "nm0389491",
+        "known_for_department": "Acting",
+        "name": "Bosco Hogan",
+        "place_of_birth": "Drogheda, Ireland",
+        "popularity": 1.5584,
+        "profile_path": "/sMa4b3F9KoHqReJ84pVybL0atQ2.jpg"
+    }
+}

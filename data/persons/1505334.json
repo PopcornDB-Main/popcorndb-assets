@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/33dV6HAnXBmwKl640gO3U4auqUN.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    18
+                ],
+                "id": 110415,
+                "original_language": "ko",
+                "original_title": "\uc124\uad6d\uc5f4\ucc28",
+                "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+                "popularity": 11.2522,
+                "poster_path": "/9JPx09Rr0Txq2eSQfjq1DEBR5cx.jpg",
+                "release_date": "2013-08-01",
+                "title": "Snowpiercer",
+                "video": false,
+                "vote_average": 6.909,
+                "vote_count": 10003,
+                "character": "Sergio",
+                "credit_id": "55ea45b29251413e350078f5",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/maxRhndtC4BJABvqRPvYNu69CHA.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    36
+                ],
+                "id": 551271,
+                "original_language": "en",
+                "original_title": "Medieval",
+                "overview": "The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire.",
+                "popularity": 3.5751,
+                "poster_path": "/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg",
+                "release_date": "2022-09-08",
+                "title": "Medieval",
+                "video": false,
+                "vote_average": 6.899,
+                "vote_count": 505,
+                "character": "David",
+                "credit_id": "5bb0a752c3a36814d5012bb3",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Sean Renwick"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1505334,
+        "imdb_id": "nm5123650",
+        "known_for_department": "Acting",
+        "name": "Sean Connor Renwick",
+        "place_of_birth": null,
+        "popularity": 0.0808,
+        "profile_path": "/lFYBykI0cgnl91D7vaCf4I0MjNZ.jpg"
+    }
+}

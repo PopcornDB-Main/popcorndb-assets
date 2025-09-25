@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eyn0vuN4IZjImE5Dws0iPhZrCMc.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 205220,
+                "original_language": "en",
+                "original_title": "Philomena",
+                "overview": "A woman searches for her adult son, who was taken away from her decades ago when she was forced to live in a convent.",
+                "popularity": 1.8914,
+                "poster_path": "/eBUv2GmGdXmCk1AaSOmyiu70hN8.jpg",
+                "release_date": "2013-11-01",
+                "title": "Philomena",
+                "video": false,
+                "vote_average": 7.35,
+                "vote_count": 1652,
+                "character": "David",
+                "credit_id": "52fe4d04c3a368484e1d27d3",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 272,
+                "original_language": "en",
+                "original_title": "Batman Begins",
+                "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                "popularity": 16.5995,
+                "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+                "release_date": "2005-06-10",
+                "title": "Batman Begins",
+                "video": false,
+                "vote_average": 7.717,
+                "vote_count": 21791,
+                "character": "Wayne Enterprises Executive",
+                "credit_id": "55cb7e45925141764f0000f3",
+                "order": 43
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1969-10-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 281527,
+        "imdb_id": "nm0249876",
+        "known_for_department": "Acting",
+        "name": "Charles Edwards",
+        "place_of_birth": "Haslemere, Surrey, England, UK",
+        "popularity": 0.5402,
+        "profile_path": "/zyzow44jiPve8nU9O1F1X9wnrtU.jpg"
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "School Bus Driver",
+                "credit_id": "52fe420ec3a36847f8000789",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 16,
+                "original_language": "en",
+                "original_title": "Dancer in the Dark",
+                "overview": "A Czech immigrant in 1960s America escapes into musicals while working long hours in poverty. Struggling with hereditary blindness, she is determined to secure her son\u2019s future and will sacrifice everything to ensure he receives the operation that could spare him from her fate.",
+                "popularity": 6.3662,
+                "poster_path": "/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg",
+                "release_date": "2000-09-01",
+                "title": "Dancer in the Dark",
+                "video": false,
+                "vote_average": 7.868,
+                "vote_count": 1888,
+                "character": "Brenda",
+                "credit_id": "52fe420ec3a36847f80009b1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 553,
+                "original_language": "en",
+                "original_title": "Dogville",
+                "overview": "A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town, she learns that their support has a price.",
+                "popularity": 5.4827,
+                "poster_path": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+                "release_date": "2003-05-21",
+                "title": "Dogville",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 2542,
+                "character": "Martha",
+                "credit_id": "52fe4251c3a36847f8014cc3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    878
+                ],
+                "id": 607,
+                "original_language": "en",
+                "original_title": "Men in Black",
+                "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+                "popularity": 11.2118,
+                "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+                "release_date": "1997-07-02",
+                "title": "Men in Black",
+                "video": false,
+                "vote_average": 7.213,
+                "vote_count": 14272,
+                "character": "Beatrice",
+                "credit_id": "52fe425dc3a36847f80187fb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1z4auHDSf2Kh6OqOVmwbeWc2Jrn.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    18,
+                    35
+                ],
+                "id": 8326,
+                "original_language": "en",
+                "original_title": "Holes",
+                "overview": "A wrongfully convicted boy is sent to a brutal desert detention camp where he must dig holes in order to build character. What he doesn't know is that he is digging holes in order to search for a lost treasure hidden somewhere in the camp.",
+                "popularity": 5.6383,
+                "poster_path": "/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg",
+                "release_date": "2003-04-18",
+                "title": "Holes",
+                "video": false,
+                "vote_average": 6.876,
+                "vote_count": 1458,
+                "character": "Tiffany Yelnats",
+                "credit_id": "52fe449fc3a36847f80a08b3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y4TbQOC9DCzZop9HwKuX73rKbYO.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9631,
+                "original_language": "en",
+                "original_title": "The Negotiator",
+                "overview": "The police try to arrest expert hostage negotiator Danny Roman, who insists he's being framed for his partner's murder in what he believes is an elaborate conspiracy. Thinking there's evidence in the Internal Affairs offices that might clear him, he takes everyone in the office hostage and demands that another well-known negotiator be brought in to handle the situation and secretly investigate the conspiracy.",
+                "popularity": 8.2033,
+                "poster_path": "/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg",
+                "release_date": "1998-07-29",
+                "title": "The Negotiator",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 2220,
+                "character": "Maggie",
+                "credit_id": "52fe4514c3a36847f80bb265",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 71859,
+                "original_language": "en",
+                "original_title": "We Need to Talk About Kevin",
+                "overview": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+                "popularity": 5.5095,
+                "poster_path": "/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg",
+                "release_date": "2011-09-28",
+                "title": "We Need to Talk About Kevin",
+                "video": false,
+                "vote_average": 7.55,
+                "vote_count": 2947,
+                "character": "Wanda",
+                "credit_id": "52fe484cc3a368484e0f1d4f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    80,
+                    53
+                ],
+                "id": 398173,
+                "original_language": "en",
+                "original_title": "The House That Jack Built",
+                "overview": "Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.",
+                "popularity": 7.695,
+                "poster_path": "/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+                "release_date": "2018-07-05",
+                "title": "The House That Jack Built",
+                "video": false,
+                "vote_average": 7.129,
+                "vote_count": 2914,
+                "character": "Lady 2",
+                "credit_id": "59ceb8e0c3a3681ddf00341d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 585245,
+                "original_language": "en",
+                "original_title": "Clifford the Big Red Dog",
+                "overview": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.",
+                "popularity": 5.9284,
+                "poster_path": "/30ULVKdjBcQTsj2aOSThXXZNSxF.jpg",
+                "release_date": "2021-11-10",
+                "title": "Clifford the Big Red Dog",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1774,
+                "character": "Petra",
+                "credit_id": "60db206c0b7316007d1e8e91",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Siobhan Fallon ",
+            "Siobhan J. Fallon"
+        ],
+        "biography": "Siobhan J. Fallon Hogan (born May 13, 1961) is an American actress and comedian from Syracuse, New York. She began her career in television roles from the early 1980s to 1990s, including roles on Saturday Night Live and Seinfeld.\n\nIn 1994, Fallon made her film debut in 'Only You'. She has since had roles in a number of films including 'Forrest Gump' (1994), 'Men in Black' (1997), 'Dancer in the Dark' (2000), 'Holes' (2003), 'Daddy Day Care' (2003), 'Dogville' (2003), 'Funny Games' (2007), 'We Need to Talk About Kevin' (2011) and 'The House That Jack Built' (2018).",
+        "birthday": "1961-05-13",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 6751,
+        "imdb_id": "nm0266441",
+        "known_for_department": "Acting",
+        "name": "Siobhan Fallon Hogan",
+        "place_of_birth": "Syracuse, New York, USA",
+        "popularity": 0.9779,
+        "profile_path": "/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    }
+}

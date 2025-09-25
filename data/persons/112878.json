@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/x2U0R60Z7hmJxZixzsGZfjFJbve.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    9648
+                ],
+                "id": 541134,
+                "original_language": "en",
+                "original_title": "The Good Nurse",
+                "overview": "Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth.",
+                "popularity": 2.8776,
+                "poster_path": "/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg",
+                "release_date": "2022-10-19",
+                "title": "The Good Nurse",
+                "video": false,
+                "vote_average": 6.87,
+                "vote_count": 1332,
+                "character": "Mark Rossi",
+                "credit_id": "6394bdd2a0f1a20087384bc4",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3VQj6m0I6gkuRaljmhNZl0XR3by.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 585511,
+                "original_language": "en",
+                "original_title": "Luck",
+                "overview": "Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.",
+                "popularity": 11.3283,
+                "poster_path": "/9OpVlfJGNvX3lUqdzY0nGoA6wQa.jpg",
+                "release_date": "2022-08-05",
+                "title": "Luck",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 1846,
+                "character": "Phil the Pig Foreman (voice)",
+                "credit_id": "63bb94f5ae6f093c4e662ae9",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Maurice Irvin",
+            "Maurice J. Irvin"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 112878,
+        "imdb_id": "nm0410145",
+        "known_for_department": "Acting",
+        "name": "Moe Irvin",
+        "place_of_birth": "Southern California, California, USA",
+        "popularity": 0.4045,
+        "profile_path": "/uVZj6xM9lKzmAZvP3CxoPrEfywe.jpg"
+    }
+}

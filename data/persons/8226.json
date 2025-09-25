@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6w5vhyn1ostgMva0wR63WQezi7P.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27
+                ],
+                "id": 573,
+                "original_language": "en",
+                "original_title": "Frenzy",
+                "overview": "London is terrorized by a vicious sex killer known as The Necktie Murderer. Following the brutal slaying of his ex-wife, down-on-his-luck Richard Blaney is suspected by the police of being the killer. He goes on the run, determined to prove his innocence.",
+                "popularity": 5.9238,
+                "poster_path": "/zDUR4PY5kyp2hpvbTvWSGiXVmgg.jpg",
+                "release_date": "1972-05-25",
+                "title": "Frenzy",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 943,
+                "character": "Hetty Porter",
+                "credit_id": "52fe4254c3a36847f8015c05",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5sfbPsenSrbH8pzVMjEd0LUu50Y.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 794,
+                "original_language": "en",
+                "original_title": "The Omen",
+                "overview": "Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn\u2019t know is that their new son is the son of the devil.",
+                "popularity": 4.9049,
+                "poster_path": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+                "release_date": "1976-06-25",
+                "title": "The Omen",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 2249,
+                "character": "Mrs. Baylock",
+                "credit_id": "52fe4277c3a36847f8020ea7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o4p4joAAFETuUFCHJe2XYJcnCdi.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10876,
+                "original_language": "en",
+                "original_title": "Quills",
+                "overview": "In early 19th-century France, the Marquis de Sade is confined to an asylum where his forbidden writings continue to circulate beyond its walls. As the authorities tighten control, a clash unfolds between the Marquis\u2019 unyielding imagination, the reformist ideals of the Abb\u00e9 in charge, and the repressive measures of a doctor sent to silence him. Desire, power, and censorship collide in a battle over freedom of expression.",
+                "popularity": 4.0027,
+                "poster_path": "/AvGdw3BpvJV2wHmK2qY0N7XHqET.jpg",
+                "release_date": "2000-11-22",
+                "title": "Quills",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 677,
+                "character": "Madame LeClerc",
+                "credit_id": "52fe43c89251416c7501df89",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 3.9912,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1186,
+                "character": "Aughra (voice)",
+                "credit_id": "52fe446e9251416c75034815",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rN1OKiEp8gNQ9RB6GeZeqOqVsjk.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 26371,
+                "original_language": "en",
+                "original_title": "Maurice",
+                "overview": "After his lover rejects him, Maurice attempts to come to terms with his sexuality within the restrictiveness of Edwardian society.",
+                "popularity": 2.1471,
+                "poster_path": "/4MI2y8XViPrDiKs1p0QC4bTeZzf.jpg",
+                "release_date": "1987-09-18",
+                "title": "Maurice",
+                "video": false,
+                "vote_average": 7.625,
+                "vote_count": 573,
+                "character": "Mrs. Hall",
+                "credit_id": "52fe44fdc3a368484e0427c1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+                "genre_ids": [
+                    80,
+                    28,
+                    35
+                ],
+                "id": 4638,
+                "original_language": "en",
+                "original_title": "Hot Fuzz",
+                "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+                "popularity": 6.2364,
+                "poster_path": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+                "release_date": "2007-02-14",
+                "title": "Hot Fuzz",
+                "video": false,
+                "vote_average": 7.562,
+                "vote_count": 7922,
+                "character": "Joyce Cooper",
+                "credit_id": "56759d8ac3a368168b003016",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0411\u0438\u043b\u043b\u0438 \u0423\u0430\u0439\u0442\u043b\u043e\u0443",
+            "Billie Honor Whitelaw"
+        ],
+        "biography": "Billie Honor Whitelaw (6 June 1932 \u2013 21 December 2014) was an English stage and screen actress. She worked in close collaborration with Irish playwright Samuel Beckett for 25 years and wass regarded as one of the foremost interpreters of his works. She was also known for her portrayal of Mrs Baylock, the demonic nanny in The Omen.",
+        "birthday": "1932-06-06",
+        "deathday": "2014-12-21",
+        "gender": 1,
+        "homepage": null,
+        "id": 8226,
+        "imdb_id": "nm0925794",
+        "known_for_department": "Acting",
+        "name": "Billie Whitelaw",
+        "place_of_birth": "Coventry, Warwickshire, England, UK",
+        "popularity": 0.3491,
+        "profile_path": "/hTEhij0sI9eE89NMWNqpjKp7BxY.jpg"
+    }
+}

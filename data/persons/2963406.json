@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 3133,
+                "original_language": "en",
+                "original_title": "Badlands",
+                "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+                "popularity": 2.9032,
+                "poster_path": "/z81rBzHNgiNLean2JTGHgxjJ8nq.jpg",
+                "release_date": "1974-01-05",
+                "title": "Badlands",
+                "video": false,
+                "vote_average": 7.478,
+                "vote_count": 1260,
+                "character": "Boss",
+                "credit_id": "601ab687fb3f61003fcb59f5",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2963406,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Howard Ragsdale",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

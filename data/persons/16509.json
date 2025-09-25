@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/g1QkFTSkqA0Pq1p63jTsPIEA7zy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1246,
+                "original_language": "en",
+                "original_title": "Rocky Balboa",
+                "overview": "When he loses a highly publicized virtual boxing match to ex-champ Rocky Balboa, reigning heavyweight titleholder Mason Dixon retaliates by challenging the Italian Stallion to a 10-round exhibition bout. To the surprise of his son and friends, Rocky agrees to come out of retirement and face an opponent who's faster, stronger and thirty years his junior. Rocky takes on Dixon in what will become the greatest fight in boxing history!",
+                "popularity": 6.2374,
+                "poster_path": "/byBlJvZwCqgtIwrZNv0pyE974jC.jpg",
+                "release_date": "2006-12-20",
+                "title": "Rocky Balboa",
+                "video": false,
+                "vote_average": 6.873,
+                "vote_count": 3636,
+                "character": "Isabel",
+                "credit_id": "52fe42e9c3a36847f802c647",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 480530,
+                "original_language": "en",
+                "original_title": "Creed II",
+                "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+                "popularity": 9.55,
+                "poster_path": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+                "release_date": "2018-11-21",
+                "title": "Creed II",
+                "video": false,
+                "vote_average": 7.035,
+                "vote_count": 5601,
+                "character": "Adrian's Waitress",
+                "credit_id": "5c06d4160e0a265b280f5e15",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 16509,
+        "imdb_id": "nm2462854",
+        "known_for_department": "Acting",
+        "name": "Ana Gerena",
+        "place_of_birth": null,
+        "popularity": 0.1445,
+        "profile_path": "/3xcss7JFzxoRnqZgjHOlXJKoWWN.jpg"
+    }
+}

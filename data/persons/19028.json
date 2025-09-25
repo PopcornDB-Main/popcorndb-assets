@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yYEOYzgqPB31mkSsuPdCvXH3zHv.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 626332,
+                "original_language": "en",
+                "original_title": "Flamin' Hot",
+                "overview": "The inspiring true story of Richard Monta\u00f1ez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin' Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
+                "popularity": 4.6114,
+                "poster_path": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+                "release_date": "2023-03-11",
+                "title": "Flamin' Hot",
+                "video": false,
+                "vote_average": 7.964,
+                "vote_count": 761,
+                "character": "Diego",
+                "credit_id": "6512ed363a4a12013957bf10",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5n2jz145P1CRdPfA296MmEZF1sQ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 512263,
+                "original_language": "en",
+                "original_title": "Honey Boy",
+                "overview": "The story of a child star attempting to mend his relationship with his law-breaking, alcohol-abusing father over the course of a decade, loosely based on Shia LaBeouf\u2019s life.",
+                "popularity": 3.4749,
+                "poster_path": "/juBWCym4Gc0XSDOvM7P4eOlzw1P.jpg",
+                "release_date": "2019-09-28",
+                "title": "Honey Boy",
+                "video": false,
+                "vote_average": 7.055,
+                "vote_count": 703,
+                "character": "Tiny",
+                "credit_id": "6512ecf126dac1014e23c839",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mario Ponce"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 19028,
+        "imdb_id": "nm1150853",
+        "known_for_department": "Acting",
+        "name": "Scar",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": "/xamAO53zz2Ea4SgTR9ahPTTkn8r.jpg"
+    }
+}

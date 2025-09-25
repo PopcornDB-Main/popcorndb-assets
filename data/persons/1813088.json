@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 8408,
+                "original_language": "en",
+                "original_title": "Day of the Dead",
+                "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+                "popularity": 3.2169,
+                "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+                "release_date": "1985-07-03",
+                "title": "Day of the Dead",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 1308,
+                "character": "Featured Zombie",
+                "credit_id": "5910ebdac3a368650a0365b5",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1813088,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Barbara Holmes",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

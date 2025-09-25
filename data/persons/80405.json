@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/euxYhuuJjChU755u2YHj0ZPjww3.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 1574,
+                "original_language": "en",
+                "original_title": "Chicago",
+                "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.",
+                "popularity": 5.0408,
+                "poster_path": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+                "release_date": "2002-12-10",
+                "title": "Chicago",
+                "video": false,
+                "vote_average": 7.118,
+                "vote_count": 2745,
+                "character": "Female Dancer",
+                "credit_id": "6229d263f9aa470047156055",
+                "order": 74
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 522924,
+                "original_language": "en",
+                "original_title": "The Art of Racing in the Rain",
+                "overview": "A family dog \u2013 with a near-human soul and a philosopher's mind \u2013 evaluates his life through the lessons learned by his human owner, a race-car driver.",
+                "popularity": 6.2266,
+                "poster_path": "/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+                "release_date": "2019-08-08",
+                "title": "The Art of Racing in the Rain",
+                "video": false,
+                "vote_average": 8.189,
+                "vote_count": 1573,
+                "character": "Vet",
+                "credit_id": "5d4d88ca699fb70013a18d7f",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Karen Holeness",
+            "Karen R. Holness"
+        ],
+        "biography": "Vancouver-based.",
+        "birthday": "1977-03-15",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 80405,
+        "imdb_id": "nm0392228",
+        "known_for_department": "Acting",
+        "name": "Karen Holness",
+        "place_of_birth": "Canada ",
+        "popularity": 0.5374,
+        "profile_path": "/mKyNgWJMLA3dKRNHyAU0qaZWSRY.jpg"
+    }
+}

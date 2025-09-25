@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bWftGh0aLMzb8wetgziLq3fHpTJ.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 9769,
+                "original_language": "en",
+                "original_title": "Lolita",
+                "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+                "popularity": 11.1901,
+                "poster_path": "/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+                "release_date": "1997-09-27",
+                "title": "Lolita",
+                "video": false,
+                "vote_average": 7.135,
+                "vote_count": 1876,
+                "character": "Dr. Melinik",
+                "credit_id": "54a42a69925141236b0095bc",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eEN7tsCCHppGhONHngvHKSdxi7r.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 11036,
+                "original_language": "en",
+                "original_title": "The Notebook",
+                "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+                "popularity": 17.9819,
+                "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+                "release_date": "2004-05-25",
+                "title": "The Notebook",
+                "video": false,
+                "vote_average": 7.891,
+                "vote_count": 12069,
+                "character": "Harry",
+                "credit_id": "56a6cef492514129f50013e1",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ed L. Grady"
+        ],
+        "biography": "Edward Louis Grady (August 31, 1923 \u2013 December 10, 2012) was an American stage, film and television actor and teacher.",
+        "birthday": "1923-08-31",
+        "deathday": "2012-12-10",
+        "gender": 2,
+        "homepage": null,
+        "id": 102719,
+        "imdb_id": "nm0333592",
+        "known_for_department": "Acting",
+        "name": "Ed Grady",
+        "place_of_birth": "Kinston, North Carolina, USA",
+        "popularity": 0.398,
+        "profile_path": null
+    }
+}

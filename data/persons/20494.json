@@ -1,0 +1,370 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27057,
+                "character": "Tracker",
+                "credit_id": "52fe479fc3a368484e0d13d5",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    37
+                ],
+                "id": 273248,
+                "original_language": "en",
+                "original_title": "The Hateful Eight",
+                "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+                "popularity": 8.3615,
+                "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+                "release_date": "2015-12-25",
+                "title": "The Hateful Eight",
+                "video": false,
+                "vote_average": 7.755,
+                "vote_count": 14709,
+                "character": "'Six-Horse' Judy",
+                "credit_id": "559d5f8ac3a36865930000f2",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 466272,
+                "original_language": "en",
+                "original_title": "Once Upon a Time... in Hollywood",
+                "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+                "popularity": 15.2012,
+                "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+                "release_date": "2019-07-24",
+                "title": "Once Upon a Time... in Hollywood",
+                "video": false,
+                "vote_average": 7.427,
+                "vote_count": 14150,
+                "character": "Janet",
+                "credit_id": "5b186abcc3a36848f8000d78",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mTsbahr4SLqgVZkKRN0O8t5iA9y.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10402
+                ],
+                "id": 71,
+                "original_language": "en",
+                "original_title": "Billy Elliot",
+                "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+                "popularity": 5.1328,
+                "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+                "release_date": "2000-09-28",
+                "title": "Billy Elliot",
+                "video": false,
+                "vote_average": 7.597,
+                "vote_count": 3952,
+                "character": "Sandra",
+                "credit_id": "5b6600fac3a368188f08240a",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 18240,
+                "original_language": "en",
+                "original_title": "The Proposal",
+                "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+                "popularity": 11.9192,
+                "poster_path": "/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg",
+                "release_date": "2009-06-02",
+                "title": "The Proposal",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 7156,
+                "credit_id": "620a4a67297338008bed7a24",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 16869,
+                "original_language": "en",
+                "original_title": "Inglourious Basterds",
+                "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+                "popularity": 18.9435,
+                "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+                "release_date": "2009-08-02",
+                "title": "Inglourious Basterds",
+                "video": false,
+                "vote_average": 8.215,
+                "vote_count": 23207,
+                "credit_id": "626aeee9394a8700532dff0f",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/itcAHIwxKvSkFEVUsqSpOEIRwZy.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 414419,
+                "original_language": "en",
+                "original_title": "Kill Bill: The Whole Bloody Affair",
+                "overview": "An assassin is shot and almost killed by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+                "popularity": 2.7195,
+                "poster_path": "/nxbv9TPXrIpRKB5xQh6atWXAkPM.jpg",
+                "release_date": "2006-03-27",
+                "title": "Kill Bill: The Whole Bloody Affair",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 1078,
+                "credit_id": "610e6cbf92e55b00455e0d86",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 68721,
+                "original_language": "en",
+                "original_title": "Iron Man 3",
+                "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+                "popularity": 16.9785,
+                "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+                "release_date": "2013-04-18",
+                "title": "Iron Man 3",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 22819,
+                "credit_id": "5acff8330e0a2674a4003aa9",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 16869,
+                "original_language": "en",
+                "original_title": "Inglourious Basterds",
+                "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+                "popularity": 18.9435,
+                "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+                "release_date": "2009-08-02",
+                "title": "Inglourious Basterds",
+                "video": false,
+                "vote_average": 8.215,
+                "vote_count": 23207,
+                "credit_id": "5acff774c3a36842c4003c5b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284053,
+                "original_language": "en",
+                "original_title": "Thor: Ragnarok",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+                "popularity": 11.4854,
+                "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "release_date": "2017-10-02",
+                "title": "Thor: Ragnarok",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 21393,
+                "credit_id": "5acff84c0e0a267495004256",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53,
+                    18
+                ],
+                "id": 22164,
+                "original_language": "en",
+                "original_title": "Blood and Bone",
+                "overview": "In Los Angeles, an ex-con takes the underground fighting world by storm in his quest to fulfill a promise to a dead friend.",
+                "popularity": 6.3683,
+                "poster_path": "/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
+                "release_date": "2009-02-07",
+                "title": "Blood and Bone",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 822,
+                "credit_id": "5acff80c9251417b6600422c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 24,
+                "original_language": "en",
+                "original_title": "Kill Bill: Vol. 1",
+                "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+                "popularity": 10.6943,
+                "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+                "release_date": "2003-10-10",
+                "title": "Kill Bill: Vol. 1",
+                "video": false,
+                "vote_average": 7.97,
+                "vote_count": 18135,
+                "credit_id": "5c5782fc92514157df50f38c",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 393,
+                "original_language": "en",
+                "original_title": "Kill Bill: Vol. 2",
+                "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do \u2026 but kill Bill.",
+                "popularity": 9.333,
+                "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+                "release_date": "2004-04-16",
+                "title": "Kill Bill: Vol. 2",
+                "video": false,
+                "vote_average": 7.873,
+                "vote_count": 14449,
+                "credit_id": "5c58d36bc3a3687199878227",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284053,
+                "original_language": "en",
+                "original_title": "Thor: Ragnarok",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+                "popularity": 11.4854,
+                "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "release_date": "2017-10-02",
+                "title": "Thor: Ragnarok",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 21393,
+                "credit_id": "5c972baa9251416b33f48b02",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 466272,
+                "original_language": "en",
+                "original_title": "Once Upon a Time... in Hollywood",
+                "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+                "popularity": 15.2012,
+                "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+                "release_date": "2019-07-24",
+                "title": "Once Upon a Time... in Hollywood",
+                "video": false,
+                "vote_average": 7.427,
+                "vote_count": 14150,
+                "credit_id": "5de72ba511386c001354cb07",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc870\uc774 \ubca8"
+        ],
+        "biography": "Zo\u00eb E. Bell (born 17 November 1978) is a stuntwoman and actress from New Zealand. Some of her most notable stunt work includes doubling for Lucy Lawless on Xena: Warrior Princess and for Uma Thurman in Kill Bill. As an actress, she has appeared both on television and in feature films and also starred in the web series Angel of Death. She is probably most recognized for playing herself in the Quentin Tarantino film, Death Proof.",
+        "birthday": "1978-11-17",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "https://johnsonlaird.com/our-actors/Zoe-Bell",
+        "id": 20494,
+        "imdb_id": "nm1057928",
+        "known_for_department": "Acting",
+        "name": "Zo\u00eb Bell",
+        "place_of_birth": "Waiheke Island, New Zealand",
+        "popularity": 1.0629,
+        "profile_path": "/dax6Sutw8xFGnZCo011eejImdBO.jpg"
+    }
+}

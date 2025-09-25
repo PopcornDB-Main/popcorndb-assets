@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9qaTlXgurqg85Ya5AW4Ab8RixqD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2295,
+                "original_language": "en",
+                "original_title": "Clerks II",
+                "overview": "A calamity at Dante and Randall's shops sends them looking for new horizons - but they ultimately settle at Mooby's, a fictional Disney-McDonald's-style fast-food empire.",
+                "popularity": 3.4773,
+                "poster_path": "/cLSW0nW94XT0DmBS69ublcLfQ9c.jpg",
+                "release_date": "2006-07-21",
+                "title": "Clerks II",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1404,
+                "character": "Dancer",
+                "credit_id": "5691b10a92514115bf0002bf",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 19913,
+                "original_language": "en",
+                "original_title": "(500) Days of Summer",
+                "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+                "popularity": 8.5648,
+                "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+                "release_date": "2009-07-17",
+                "title": "(500) Days of Summer",
+                "video": false,
+                "vote_average": 7.297,
+                "vote_count": 10585,
+                "character": "Dancer",
+                "credit_id": "5691b1e892514115ce000344",
+                "order": 44
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1974-02-19",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1561014,
+        "imdb_id": "nm0510945",
+        "known_for_department": "Acting",
+        "name": "Rebecca Lin",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.593,
+        "profile_path": "/4hUQs2nN7rz1tBzK7lziBDotdlf.jpg"
+    }
+}

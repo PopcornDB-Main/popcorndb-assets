@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 11.7011,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.731,
+                "vote_count": 10301,
+                "character": "Maurice (voice)",
+                "credit_id": "52fe43099251416c75000fcb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 10.5007,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 4063,
+                "character": "Desk Sergeant",
+                "credit_id": "57def9b99251413da3008aa3",
+                "order": 54
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Rex Everhardt"
+        ],
+        "biography": "Rex Everhart was born on June 13, 1920 in Watseka, Illinois, USA. He was an actor, known for Beauty and the Beast (1991), Friday the 13th (1980) and Superman (1978). He was married to Claire Richard. He died on March 13, 2000 in Branford, Connecticut, USA.",
+        "birthday": "1920-06-13",
+        "deathday": "2000-03-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 170970,
+        "imdb_id": "nm0263591",
+        "known_for_department": "Acting",
+        "name": "Rex Everhart",
+        "place_of_birth": "Watseka, Illinois, U.S.A",
+        "popularity": 0.1806,
+        "profile_path": "/4LMXQuKnLQitW73oIfAkAcKjGMz.jpg"
+    }
+}

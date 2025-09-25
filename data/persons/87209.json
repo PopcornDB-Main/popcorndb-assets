@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bAup7FGUlmNVOuhZFlLgmDPo0Eg.jpg",
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 345938,
+                "original_language": "en",
+                "original_title": "The Shack",
+                "overview": "A grieving man receives a mysterious, personal invitation to meet with God at a place called 'The Shack'.",
+                "popularity": 9.472,
+                "poster_path": "/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg",
+                "release_date": "2017-03-03",
+                "title": "The Shack",
+                "video": false,
+                "vote_average": 7.494,
+                "vote_count": 2196,
+                "character": "Older Camper",
+                "credit_id": "591ed6d2c3a368774e033940",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35
+                ],
+                "id": 293660,
+                "original_language": "en",
+                "original_title": "Deadpool",
+                "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+                "popularity": 16.108,
+                "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+                "release_date": "2016-02-09",
+                "title": "Deadpool",
+                "video": false,
+                "vote_average": 7.623,
+                "vote_count": 31917,
+                "character": "Elderly Man (uncredited)",
+                "credit_id": "67aadb41dd9b7d2eaab08b66",
+                "order": 45
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Davey Longworth"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 87209,
+        "imdb_id": "nm0519519",
+        "known_for_department": "Acting",
+        "name": "David Longworth",
+        "place_of_birth": null,
+        "popularity": 0.2178,
+        "profile_path": "/8y8gSDTbme4gtsNDXPqzX5e3MYw.jpg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    18
+                ],
+                "id": 445651,
+                "original_language": "en",
+                "original_title": "The Darkest Minds",
+                "overview": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.",
+                "popularity": 7.3772,
+                "poster_path": "/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
+                "release_date": "2018-07-25",
+                "title": "The Darkest Minds",
+                "video": false,
+                "vote_average": 7.033,
+                "vote_count": 2874,
+                "character": "Leader Kid",
+                "credit_id": "5bcca6120e0a26016400beed",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 491418,
+                "original_language": "en",
+                "original_title": "Instant Family",
+                "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+                "popularity": 4.4738,
+                "poster_path": "/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+                "release_date": "2018-11-13",
+                "title": "Instant Family",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3099,
+                "character": "Charlie",
+                "credit_id": "5c1dbe32c3a3686ff9e8e482",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1856992,
+        "imdb_id": "nm8324795",
+        "known_for_department": "Acting",
+        "name": "Carson Holmes",
+        "place_of_birth": null,
+        "popularity": 0.3292,
+        "profile_path": "/rVv2VZDjh5PLhiAnFIvsQUBKXDi.jpg"
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/b6zLmqCKUFBqrc9zmMVT50YWhjK.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 59,
+                "original_language": "en",
+                "original_title": "A History of Violence",
+                "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+                "popularity": 4.9541,
+                "poster_path": "/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+                "release_date": "2005-09-23",
+                "title": "A History of Violence",
+                "video": false,
+                "vote_average": 7.16,
+                "vote_count": 3479,
+                "character": "Richie Cusack",
+                "credit_id": "52fe4212c3a36847f8001937",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dkg2DcGg6cjDia20yLWDaNLBRIb.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10149,
+                "original_language": "en",
+                "original_title": "Smoke",
+                "overview": "Writer Paul Benjamin is nearly hit by a bus when he leaves Auggie Wren's smoke shop. Stranger Rashid Cole  saves his life, and soon middle-aged Paul tells homeless Rashid that he wouldn't mind a short-term housemate. Still grieving over his wife's murder, Paul is moved by both Rashid's quest to reconnect with his father and Auggie's discovery that a woman who might be his daughter is about to give birth.",
+                "popularity": 3.4112,
+                "poster_path": "/1WMUaTQaj2dQrhsPI3Px0OR9eTF.jpg",
+                "release_date": "1995-06-09",
+                "title": "Smoke",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 505,
+                "character": "Paul Benjamin",
+                "credit_id": "52fe43359251416c75007a71",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12
+                ],
+                "id": 644,
+                "original_language": "en",
+                "original_title": "A.I. Artificial Intelligence",
+                "overview": "David, a robotic boy\u2014the first of his kind programmed to love\u2014is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+                "popularity": 8.2332,
+                "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+                "release_date": "2001-06-29",
+                "title": "A.I. Artificial Intelligence",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 6384,
+                "character": "Prof. Hobby",
+                "credit_id": "52fe4263c3a36847f801a9e3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6M2IeELPSKZZ4iAPz2w0i7wdm6X.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 3432,
+                "original_language": "en",
+                "original_title": "Mr. Brooks",
+                "overview": "A psychological thriller about a man who is sometimes controlled by his murder-and-mayhem-loving alter ego.",
+                "popularity": 3.1094,
+                "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+                "release_date": "2007-05-31",
+                "title": "Mr. Brooks",
+                "video": false,
+                "vote_average": 6.935,
+                "vote_count": 1773,
+                "character": "Marshall",
+                "credit_id": "52fe4393c3a36847f805ef55",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+                "genre_ids": [
+                    9648,
+                    878
+                ],
+                "id": 2666,
+                "original_language": "en",
+                "original_title": "Dark City",
+                "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+                "popularity": 4.5013,
+                "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+                "release_date": "1998-02-27",
+                "title": "Dark City",
+                "video": false,
+                "vote_average": 7.332,
+                "vote_count": 2995,
+                "character": "Inspector Frank Bumstead",
+                "credit_id": "52fe4363c3a36847f8050b71",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 5915,
+                "original_language": "en",
+                "original_title": "Into the Wild",
+                "overview": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+                "popularity": 6.734,
+                "poster_path": "/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+                "release_date": "2007-09-21",
+                "title": "Into the Wild",
+                "video": false,
+                "vote_average": 7.797,
+                "vote_count": 9794,
+                "character": "Walt McCandless",
+                "credit_id": "52fe442dc3a36847f8086c8b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AgrbZP4rPyeCs6cxXep1xBjaOqk.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 14412,
+                "original_language": "en",
+                "original_title": "Body Heat",
+                "overview": "In the midst of a searing Florida heat wave, a woman convinces her lover, a small-town lawyer, to murder her rich husband.",
+                "popularity": 4.2536,
+                "poster_path": "/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+                "release_date": "1981-08-28",
+                "title": "Body Heat",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 642,
+                "character": "Ned Racine",
+                "credit_id": "52fe45f09251416c75067b0b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o3U4733mGsmieBeqs4Sw2ze6n53.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 245842,
+                "original_language": "en",
+                "original_title": "The King's Daughter",
+                "overview": "King Louis XIV's quest for immortality leads him to capture and steal a mermaid's life force, a move that is further complicated by his illegitimate daughter's discovery of the creature.",
+                "popularity": 3.1414,
+                "poster_path": "/sZ3ZxAjy26ZEo3WM4JFdOkoE5sS.jpg",
+                "release_date": "2022-01-21",
+                "title": "The King's Daughter",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 693,
+                "character": "Pere La Chaise",
+                "credit_id": "5431dd610e0a265872002b4b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eWUJTW9HFDmlIACchS6Ohnk5Aom.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 323677,
+                "original_language": "en",
+                "original_title": "Race",
+                "overview": "Based on the story of Jesse Owens, the athlete whose quest to become the greatest track and field athlete in history thrusts him onto the world stage of the 1936 Olympics, where he faces off against Adolf Hitler's vision of Aryan supremacy.",
+                "popularity": 4.3589,
+                "poster_path": "/3pKLVyz6LGQU8xEDhYHSHsfy5Bg.jpg",
+                "release_date": "2016-02-19",
+                "title": "Race",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1574,
+                "character": "Jeremiah Mahoney",
+                "credit_id": "54d3683092514109ba002c57",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 271110,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "popularity": 14.8673,
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "release_date": "2016-04-27",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 23402,
+                "character": "Secretary of State Thaddeus Ross",
+                "credit_id": "554ba80ec3a3685e58002795",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.705,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.235,
+                "vote_count": 30938,
+                "character": "Secretary of State Thaddeus Ross",
+                "credit_id": "5ae0926ec3a3683dcf01532f",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 497698,
+                "original_language": "en",
+                "original_title": "Black Widow",
+                "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+                "popularity": 10.3258,
+                "poster_path": "/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+                "release_date": "2021-07-07",
+                "title": "Black Widow",
+                "video": false,
+                "vote_average": 7.192,
+                "vote_count": 10763,
+                "character": "Secretary Ross",
+                "credit_id": "5d936e859603310023a73d87",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.7585,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.237,
+                "vote_count": 26720,
+                "character": "Secretary of State Thaddeus Ross",
+                "credit_id": "5e85d69b691cd500185948e9",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "William McChord Hurt",
+            "William M. Hurt",
+            "\u0648\u06cc\u0644\u06cc\u0627\u0645 \u0647\u0627\u0631\u062a"
+        ],
+        "biography": "William Hurt was an American stage, film and television actor, trained at the Juilliard School, Manhattan, New York, USA. For his leading role in the feature film \"Kiss of the Spider Woman\", he received an Academy Award in 1986, followed by 3 more nominations for roles in the movies \"Children of a Lesser God\", \"Broadcast News\", and \"A History of Violence\".",
+        "birthday": "1950-03-20",
+        "deathday": "2022-03-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 227,
+        "imdb_id": "nm0000458",
+        "known_for_department": "Acting",
+        "name": "William Hurt",
+        "place_of_birth": "Washington, D.C., USA",
+        "popularity": 1.2375,
+        "profile_path": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10435,
+                "original_language": "en",
+                "original_title": "Chaplin",
+                "overview": "An aged Charlie Chaplin narrates his life to his autobiography's editor, including his rise to wealth and comedic fame from poverty, his turbulent personal life and his run-ins with the FBI.",
+                "popularity": 2.9824,
+                "poster_path": "/Aeltt5tl02zrEj4GoMynHc94lWG.jpg",
+                "release_date": "1992-12-17",
+                "title": "Chaplin",
+                "video": false,
+                "vote_average": 7.438,
+                "vote_count": 1131,
+                "character": "Warder",
+                "credit_id": "63808daaa4af8f008661649d",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/novvibtQv0B4psRxuqvd8g2qS5M.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 8293,
+                "original_language": "en",
+                "original_title": "Howards End",
+                "overview": "A saga of class relations and changing times in an Edwardian England on the brink of modernity, the film centers on liberal Margaret Schlegel, who, along with her sister Helen, becomes involved with two couples: wealthy, conservative industrialist Henry Wilcox and his wife Ruth, and the downwardly mobile working-class Leonard Bast and his mistress Jackie.",
+                "popularity": 2.6358,
+                "poster_path": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+                "release_date": "1992-03-13",
+                "title": "Howards End",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 565,
+                "character": "Police Inspector",
+                "credit_id": "5a398224c3a36814ae07ecb1",
+                "order": 46
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://cpmgt.com.au/talent/brian-lipson/",
+        "id": 1483920,
+        "imdb_id": "nm0513800",
+        "known_for_department": "Acting",
+        "name": "Brian Lipson",
+        "place_of_birth": null,
+        "popularity": 0.0655,
+        "profile_path": "/2jOuEuH7UsLuAEqQgDmgAF8DCox.jpg"
+    }
+}

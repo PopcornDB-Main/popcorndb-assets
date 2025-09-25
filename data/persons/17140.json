@@ -1,0 +1,164 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 4.4836,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.693,
+                "vote_count": 7467,
+                "character": "Olive Hoover",
+                "credit_id": "52fe4274c3a36847f80200bf",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zpVMWiNJgcwHB0zIMGjXQMnSKPZ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10024,
+                "original_language": "en",
+                "original_title": "My Sister's Keeper",
+                "overview": "Sara and Brian live an idyllic life with their young son and daughter. But their family is rocked by sudden, heartbreaking news that forces them to make a difficult and unorthodox choice in order to save their baby girl's life. The parents' desperate decision raises both ethical and moral questions and rips away at the foundation of their relationship. Their actions ultimately set off a court case that threatens to tear the family apart, while revealing surprising truths that challenge everyone's perceptions of love and loyalty and give new meaning to the definition of healing.",
+                "popularity": 3.6978,
+                "poster_path": "/atRGqnG7pe0hZP97RWDLrT2hRGZ.jpg",
+                "release_date": "2009-06-26",
+                "title": "My Sister's Keeper",
+                "video": false,
+                "vote_average": 7.375,
+                "vote_count": 2172,
+                "character": "Andromeda \"Anna\" Fitzgerald",
+                "credit_id": "52fe430a9251416c75001205",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wid86tR3KvQ8SBzjmlcXMTSRXsy.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 8390,
+                "original_language": "en",
+                "original_title": "Definitely, Maybe",
+                "overview": "When Will decides to tell his daughter the story of how he met her mother, he discovers that a second look at the past might also give him a second chance at the future.",
+                "popularity": 3.3442,
+                "poster_path": "/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg",
+                "release_date": "2008-02-08",
+                "title": "Definitely, Maybe",
+                "video": false,
+                "vote_average": 6.949,
+                "vote_count": 2523,
+                "character": "Maya Hayes",
+                "credit_id": "52fe44a4c3a36847f80a1daf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    37,
+                    12
+                ],
+                "id": 44896,
+                "original_language": "en",
+                "original_title": "Rango",
+                "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
+                "popularity": 8.5403,
+                "poster_path": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+                "release_date": "2011-03-02",
+                "title": "Rango",
+                "video": false,
+                "vote_average": 6.882,
+                "vote_count": 6807,
+                "character": "Priscilla (voice)",
+                "credit_id": "52fe46a2c3a36847f8109af5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 19908,
+                "original_language": "en",
+                "original_title": "Zombieland",
+                "overview": "Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.",
+                "popularity": 7.8852,
+                "poster_path": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+                "release_date": "2009-10-02",
+                "title": "Zombieland",
+                "video": false,
+                "vote_average": 7.258,
+                "vote_count": 12682,
+                "character": "Little Rock",
+                "credit_id": "52fe47f89251416c750ab961",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    28
+                ],
+                "id": 338967,
+                "original_language": "en",
+                "original_title": "Zombieland: Double Tap",
+                "overview": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+                "popularity": 6.8817,
+                "poster_path": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+                "release_date": "2019-10-09",
+                "title": "Zombieland: Double Tap",
+                "video": false,
+                "vote_average": 6.916,
+                "vote_count": 5974,
+                "character": "Little Rock",
+                "credit_id": "5ad39eb89251412975003026",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Abigail Kathleen Breslin",
+            "\u0386\u03bc\u03c0\u03b9\u03b3\u03ba\u03b5\u03b9\u03bb \u039c\u03c0\u03c1\u03ad\u03c3\u03bb\u03b9\u03bd",
+            "\u30a2\u30d3\u30fc",
+            "\u0415\u0431\u0456\u0433\u0435\u0439\u043b \u0411\u0440\u0435\u0441\u043b\u0456\u043d",
+            "\u0627\u0628\u06cc\u06af\u06cc\u0644 \u0628\u0631\u0633\u0644\u06cc\u0646"
+        ],
+        "biography": "Abigail Kathleen Breslin (born April 14, 1996) is an American actress and singer. Born and raised in New York City, Breslin began acting in commercials when she was three years old and made her film debut in M. Night Shyamalan's science fiction horror film Signs (2002), for which she was nominated for a Young Artist Award. Her early roles also included Raising Helen (2004) and The Princess Diaries 2: Royal Engagement (2004).\n\nBreslin rose to prominence with the comedy-drama film Little Miss Sunshine (2006), for which she received a nomination for the Academy Award for Best Supporting Actress at age 10. She went on to establish herself as a mainstream actress with roles in the films No Reservations (2007), Nim's Island (2008), Definitely, Maybe (2008), My Sister's Keeper (2009), Zombieland (2009), Rango (2011), The Call (2013), August: Osage County (2013), Maggie (2015), Freak Show (2017), Zombieland: Double Tap (2019), and Stillwater (2021). Between 2015 and 2016, she had a starring role in the horror-comedy series Scream Queens on Fox, her first regular role in a television series.",
+        "birthday": "1996-04-14",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 17140,
+        "imdb_id": "nm1113550",
+        "known_for_department": "Acting",
+        "name": "Abigail Breslin",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 3.8127,
+        "profile_path": "/1MQMfcb3fuN0lC1egdaOnHcTlm8.jpg"
+    }
+}

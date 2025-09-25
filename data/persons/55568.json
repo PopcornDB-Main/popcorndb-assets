@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    14,
+                    18
+                ],
+                "id": 20312,
+                "original_language": "en",
+                "original_title": "Interstate 60",
+                "overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
+                "popularity": 4.6208,
+                "poster_path": "/zZQt29qBWLoVVOo8HEFzFYRAgYQ.jpg",
+                "release_date": "2002-04-13",
+                "title": "Interstate 60",
+                "video": false,
+                "vote_average": 7.392,
+                "vote_count": 730,
+                "character": "Frank",
+                "credit_id": "52fe43e1c3a368484e00370b",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1970-02-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.marklutz.com/",
+        "id": 55568,
+        "imdb_id": "nm0527592",
+        "known_for_department": "Acting",
+        "name": "Mark Lutz",
+        "place_of_birth": "Montreal, Quebec, Canada",
+        "popularity": 0.2829,
+        "profile_path": "/2Cng4sijH0HyFfWdUkvrjOdPgxO.jpg"
+    }
+}

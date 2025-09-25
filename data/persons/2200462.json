@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+                "genre_ids": [
+                    99,
+                    36,
+                    18
+                ],
+                "id": 549559,
+                "original_language": "en",
+                "original_title": "Apollo 11",
+                "overview": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilot Buzz Aldrin.",
+                "popularity": 2.851,
+                "poster_path": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+                "release_date": "2019-03-01",
+                "title": "Apollo 11",
+                "video": false,
+                "vote_average": 7.87,
+                "vote_count": 667,
+                "character": "Self - Backup Command Module Pilot",
+                "credit_id": "62e99a6d1bf26600602e8188",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "William Alison \"Bill\" Anders was a NASA astronaut who took the iconic Earthrise photograph.",
+        "birthday": "1933-10-17",
+        "deathday": "2024-06-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 2200462,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Bill Anders",
+        "place_of_birth": "British Hong Kong",
+        "popularity": 0.0214,
+        "profile_path": "/8VvdFvo0lEYlijr0R8BCMj5Q3oh.jpg"
+    }
+}

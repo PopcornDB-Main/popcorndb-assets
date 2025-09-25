@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    14
+                ],
+                "id": 628,
+                "original_language": "en",
+                "original_title": "Interview with the Vampire",
+                "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+                "popularity": 9.1837,
+                "poster_path": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+                "release_date": "1994-11-11",
+                "title": "Interview with the Vampire",
+                "video": false,
+                "vote_average": 7.382,
+                "vote_count": 6109,
+                "character": "Santiago",
+                "credit_id": "52fe4260c3a36847f8019a0d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 752,
+                "original_language": "en",
+                "original_title": "V for Vendetta",
+                "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+                "popularity": 8.3222,
+                "poster_path": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+                "release_date": "2006-02-23",
+                "title": "V for Vendetta",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 15001,
+                "character": "Finch",
+                "credit_id": "52fe4270c3a36847f801ec25",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0421\u0442\u0438\u0432\u0435\u043d \u0420\u0438",
+            "\u65af\u8482\u82ac\u00b7\u745e",
+            "\u0627\u0633\u062a\u06cc\u0648\u0646 \u0631\u06cc"
+        ],
+        "biography": "An Irish film and stage actor. Rea has appeared in a number of high profile films, both Irish and international, such as V for Vendetta, Michael Collins, Interview with the Vampire and Breakfast on Pluto. Rea was nominated for an Academy Award for his lead performance as Fergus in the 1992 film The Crying Game.",
+        "birthday": "1946-10-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 9029,
+        "imdb_id": "nm0001653",
+        "known_for_department": "Acting",
+        "name": "Stephen Rea",
+        "place_of_birth": "Belfast, Northern Ireland, UK",
+        "popularity": 0.8717,
+        "profile_path": "/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 152532,
+                "original_language": "en",
+                "original_title": "Dallas Buyers Club",
+                "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+                "popularity": 6.2133,
+                "poster_path": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+                "release_date": "2013-11-01",
+                "title": "Dallas Buyers Club",
+                "video": false,
+                "vote_average": 7.92,
+                "vote_count": 8733,
+                "character": "Clint",
+                "credit_id": "531bc0c392514177ab004918",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wlP3Sjw5WVvjsi2CGFp84QwrZZC.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 228970,
+                "original_language": "en",
+                "original_title": "Wild",
+                "overview": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail.",
+                "popularity": 3.6156,
+                "poster_path": "/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+                "release_date": "2014-12-05",
+                "title": "Wild",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 2574,
+                "character": "Clint",
+                "credit_id": "537243f80e0a2672f8001f44",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 76203,
+                "original_language": "en",
+                "original_title": "12 Years a Slave",
+                "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon\u2019s chance meeting with a Canadian abolitionist will forever alter his life.",
+                "popularity": 7.0513,
+                "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+                "release_date": "2013-10-18",
+                "title": "12 Years a Slave",
+                "video": false,
+                "vote_average": 7.938,
+                "vote_count": 11592,
+                "character": "Chapin",
+                "credit_id": "53cc7dad0e0a265dfa003050",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/waOYBThLihaTKUFOAzjvhPjBmrS.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14047,
+                "original_language": "en",
+                "original_title": "The Great Debaters",
+                "overview": "The true story of a brilliant but politically radical debate team coach who uses the power of words to transform a group of underdog African-American college students into a historical powerhouse that took on the Harvard elite.",
+                "popularity": 4.4686,
+                "poster_path": "/szx0sWq0pgvgfRX7g72cWBYoOjf.jpg",
+                "release_date": "2007-12-25",
+                "title": "The Great Debaters",
+                "video": false,
+                "vote_average": 7.248,
+                "vote_count": 663,
+                "character": "Captain Wainwright",
+                "credit_id": "547d8744c3a3685aed005771",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    18,
+                    53
+                ],
+                "id": 119450,
+                "original_language": "en",
+                "original_title": "Dawn of the Planet of the Apes",
+                "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+                "popularity": 14.1393,
+                "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+                "release_date": "2014-07-08",
+                "title": "Dawn of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 11819,
+                "character": "Sniper",
+                "credit_id": "547f314dc3a368396c0018d5",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    10749
+                ],
+                "id": 69,
+                "original_language": "en",
+                "original_title": "Walk the Line",
+                "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+                "popularity": 2.7034,
+                "poster_path": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+                "release_date": "2005-09-13",
+                "title": "Walk the Line",
+                "video": false,
+                "vote_average": 7.498,
+                "vote_count": 2989,
+                "character": "F.B.I. Man",
+                "credit_id": "638b602515376c00834b3af6",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "character": "O.D.",
+                "credit_id": "56770f20c3a36816800066d5",
+                "order": 56
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 296524,
+                "original_language": "en",
+                "original_title": "Deepwater Horizon",
+                "overview": "A story set on the offshore drilling rig Deepwater Horizon, which exploded during April 2010 and created the worst oil spill in U.S. history.",
+                "popularity": 5.576,
+                "poster_path": "/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
+                "release_date": "2016-09-28",
+                "title": "Deepwater Horizon",
+                "video": false,
+                "vote_average": 6.885,
+                "vote_count": 4690,
+                "character": "Dewey Revette",
+                "credit_id": "57478cb9c3a3686ba000020c",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ahGSlXunI3Aa0MV4IXlpjYVSVWI.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 10564,
+                "original_language": "en",
+                "original_title": "Where the Heart Is",
+                "overview": "Novalee Nation is a 17-year-old Tennessee transient who has to grow up in a hurry when she's left pregnant and abandoned by her boyfriend on a roadside, and takes refuge in the friendly aisles of Wal-Mart. Eventually, some eccentric but kindly strangers 'adopt' Novalee and her infant daughter, helping them buck the odds and build a new life.",
+                "popularity": 3.6252,
+                "poster_path": "/h8PBkTn6kDK9ZMCLj6jP6JnIBhY.jpg",
+                "release_date": "2000-04-27",
+                "title": "Where the Heart Is",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 710,
+                "character": "Orderly",
+                "credit_id": "5888bd7492514163000100d9",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 369972,
+                "original_language": "en",
+                "original_title": "First Man",
+                "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+                "popularity": 5.1642,
+                "poster_path": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+                "release_date": "2018-10-10",
+                "title": "First Man",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 5435,
+                "character": "Christopher C. Kraft Jr.",
+                "credit_id": "5aeaa86fc3a3682dfb000e5b",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ytclDXEffquvzjwNXbiYEU1b6F2.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 4643,
+                "original_language": "en",
+                "original_title": "The Guardian",
+                "overview": "A high school swim champion with a troubled past enrolls in the U.S. Coast Guard's 'A' School, where legendary rescue swimmer Ben Randall teaches him some hard lessons about loss, love, and self-sacrifice.",
+                "popularity": 4.6946,
+                "poster_path": "/zFhFjrckfmdb33VDeRykumMmebU.jpg",
+                "release_date": "2006-09-28",
+                "title": "The Guardian",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1577,
+                "character": "Jailer",
+                "credit_id": "5f4a7eb4cca7de0037583f35",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mlBmnjDJfsAhvqRVc2aFOjsfh8M.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 458220,
+                "original_language": "en",
+                "original_title": "Palmer",
+                "overview": "After 12 years in prison, former high school football star Eddie Palmer returns home to put his life back together\u2014and forms an unlikely bond with Sam, an outcast boy from a troubled home. But Eddie's past threatens to ruin his new life and family.",
+                "popularity": 8.937,
+                "poster_path": "/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+                "release_date": "2021-01-28",
+                "title": "Palmer",
+                "video": false,
+                "vote_average": 8.145,
+                "vote_count": 1806,
+                "character": "Principal Forbes",
+                "credit_id": "5fdb8341798e06003d32f591",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "JD Evermoore",
+            "Johnny Moore ",
+            "John E. Moore",
+            "John Daniel Evermore",
+            "JD Evermore"
+        ],
+        "biography": "J.D. was born in the delta town of Greenville, Mississippi (also the birthplace of Muppets creator Jim Henson) on the same day Richard Nixon was elected president. He is of Irish-French-German-Cherokee-Choctaw decent, the oldest of 7 siblings, and attended 17 different schools (public and private) while moving back and forth between his mother and father. His great-great-great-great uncle was Horace Mann, the founder of the American Public School system. His father (Puddin - yep, that's what they call him) is a welder/artist/amateur archaeologist and inventor. His mother (Sally) has had many professions, including concert promoter and owner of a country/western nightclub called The Headless Horseman, where as a young child, J.D. spent many school nights until the wee hours of the morning hanging out backstage and on stage with the likes of Hank Williams, Jr., Juice Newton, Jerry Lee Lewis, Johnny Paycheck, David Allen Coe, Ray Price, and many others.\n\nAfter a short stint in college and a 15 month stint in the Marine Corps stationed at 29 Palms, California and after hanging out with some actors in L.A., J.D. thought he would give acting a shot. His only experience with acting had been playing the Prince in his pre-school production of The Nutcracker, and getting kicked out of his senior play, Oklahoma, after his second rehearsal because he and a friend drank a beer before hand. After the Marine Corps, he returned to Mississippi and worked as a debt collector for his mother's collection agency. After a year of hating his job, he decided to return to college and get a degree in theatre at The University of Southern Mississippi. Once on stage at college, he knew acting was what he had to do. His second year in theatre, he was one of 20 finalists in the state selected to attend SETC (Southeastern Theatre Conference). In 1995, a friend offered J.D. a $1,000 to come to Los Angeles and perform a lead role in his play \"Dylan's Ghost\" at the Morgan-Wixson Theatre in Santa Monica. J.D. took him up on the offer and left college a semester before graduating and since then has lived back and forth between Hollywood, California, Austin, Texas, and Oxford, Mississippi, where he just completed writing and directing his first independent feature Glorious Mail(2005).\n\nEven though he appeared on the short-lived game show, Hollywood Showdown with Todd Newton and won nearly $12,000, his friends like to tell him that he's almost one lucky son of a gun. Mainly because he's come so close to landing lead roles in major films so many times, usually being the director's second choice. In 2004 his luck proved true once again when he purchased a $100 raffle ticket and was 1st Runner Up (2nd Choice) for a $250,000 house in United Way's New Home Giveaway, where instead he won an artist's print worth $80.  IMDb Mini Biography By:\u00a0JDsMOM",
+        "birthday": "1968-11-05",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 129868,
+        "imdb_id": "nm0263625",
+        "known_for_department": "Acting",
+        "name": "J.D. Evermore",
+        "place_of_birth": "Greenville - Mississippi - USA",
+        "popularity": 0.3182,
+        "profile_path": "/bTLrDTIj9DNnYP8afZXPTo31CJA.jpg"
+    }
+}

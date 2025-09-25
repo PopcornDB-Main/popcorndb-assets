@@ -1,0 +1,185 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4rHZyoFxGxvkMNiLFEqwm19HCtc.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 34653,
+                "original_language": "en",
+                "original_title": "A Single Man",
+                "overview": "Set in Los Angeles in 1962, at the height of the Cuban missile crisis, is the story of a British college professor who dwells on the past and cannot see his future. We follow him through a single day, where a series of events and encounters ultimately lead him to decide if there is a meaning to life after the death of his long time partner, Jim.",
+                "popularity": 4.5482,
+                "poster_path": "/AvqTb66bS1i1NjlPC76zvxo0taT.jpg",
+                "release_date": "2009-12-11",
+                "title": "A Single Man",
+                "video": false,
+                "vote_average": 7.279,
+                "vote_count": 1598,
+                "character": "Grant",
+                "credit_id": "52fe45729251416c91032a05",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vNrXoT45xscHY6AN4IGf44vHxVJ.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    18
+                ],
+                "id": 14784,
+                "original_language": "en",
+                "original_title": "The Fall",
+                "overview": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
+                "popularity": 4.4849,
+                "poster_path": "/jUx4P4Q1VsQ07rLz7sOlSyNm4F3.jpg",
+                "release_date": "2006-09-09",
+                "title": "The Fall",
+                "video": false,
+                "vote_average": 7.606,
+                "vote_count": 1402,
+                "character": "Roy Walker",
+                "credit_id": "52fe46189251416c7506cfb3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 49051,
+                "original_language": "en",
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+                "popularity": 16.5982,
+                "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+                "release_date": "2012-12-12",
+                "title": "The Hobbit: An Unexpected Journey",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 18992,
+                "character": "King Thranduil",
+                "credit_id": "52fe4783c3a36847f8139fb1",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 57158,
+                "original_language": "en",
+                "original_title": "The Hobbit: The Desolation of Smaug",
+                "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+                "popularity": 13.6094,
+                "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+                "release_date": "2013-12-11",
+                "title": "The Hobbit: The Desolation of Smaug",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 13642,
+                "character": "King Thranduil",
+                "credit_id": "52fe4926c3a36847f818b7bd",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zn13a7U9eMTJq8sHthe3bCgsVm4.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 122917,
+                "original_language": "en",
+                "original_title": "The Hobbit: The Battle of the Five Armies",
+                "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+                "popularity": 20.0949,
+                "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+                "release_date": "2014-12-10",
+                "title": "The Hobbit: The Battle of the Five Armies",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 14797,
+                "character": "King Thranduil",
+                "credit_id": "52fe4a87c3a368484e158b8f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 118340,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy",
+                "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                "popularity": 8.0535,
+                "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+                "release_date": "2014-07-30",
+                "title": "Guardians of the Galaxy",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 28875,
+                "character": "Ronan",
+                "credit_id": "52fe4bd5c3a36847f8215d3d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sYnrdolxonyMucMezj8PMVBRlVr.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 382614,
+                "original_language": "en",
+                "original_title": "The Book of Henry",
+                "overview": "Susan, a single mother of two, works as a waitress in a small town. Her son, Henry, is an 11-year-old genius who not only manages the family finances but acts as emotional support for his mother and younger brother. When Henry discovers that the girl next door has a terrible secret, he implores Susan to take matters into her own hands.",
+                "popularity": 4.2387,
+                "poster_path": "/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg",
+                "release_date": "2017-06-16",
+                "title": "The Book of Henry",
+                "video": false,
+                "vote_average": 7.51,
+                "vote_count": 1317,
+                "character": "Dr. David Daniels",
+                "credit_id": "56c004bd9251414ba9001f49",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Lee Grinner Pace"
+        ],
+        "biography": "Lee Grinner Pace (born March 25, 1979) is an American actor.\n\nPace has been featured in film, stage and television. He currently stars as protagonist Joe MacMillan in AMC's Halt and Catch Fire. He also played Roy Walker/the Masked Bandit in the 2006 film The Fall. He has appeared in film series, including The Twilight Saga: Breaking Dawn \u2013 Part 2 as Garrett and The Hobbit trilogy as Thranduil. He played villain Ronan the Accuser in the film Guardians of the Galaxy, and starred as Ned in the ABC series Pushing Daisies for which he was nominated for the Golden Globe Award and Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series in 2008. Most recently, he played Greg in the A24 horror film Bodies Bodies Bodies (2022).\n\nDescription above from the Wikipedia Lee Pace licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1979-03-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 72095,
+        "imdb_id": "nm1195855",
+        "known_for_department": "Acting",
+        "name": "Lee Pace",
+        "place_of_birth": "Chickasha, Oklahoma, USA",
+        "popularity": 2.1609,
+        "profile_path": "/9fhFAGZxnQZlqDdf3cyzkGi3Bag.jpg"
+    }
+}

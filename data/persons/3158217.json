@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    878
+                ],
+                "id": 533535,
+                "original_language": "en",
+                "original_title": "Deadpool & Wolverine",
+                "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+                "popularity": 37.9885,
+                "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+                "release_date": "2024-07-24",
+                "title": "Deadpool & Wolverine",
+                "video": false,
+                "vote_average": 7.58,
+                "vote_count": 7730,
+                "character": "Juggernaut",
+                "credit_id": "66a301b3073923ad4918fbc1",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    878
+                ],
+                "id": 550988,
+                "original_language": "en",
+                "original_title": "Free Guy",
+                "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+                "popularity": 10.3247,
+                "poster_path": "/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg",
+                "release_date": "2021-08-11",
+                "title": "Free Guy",
+                "video": false,
+                "vote_average": 7.471,
+                "vote_count": 9265,
+                "character": "Dude",
+                "credit_id": "60ef9ec6f3e0df00467a8ef7",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Aaron Reed",
+            "\uc544\ub860 W \ub9ac\ub4dc",
+            "\u0410\u0430\u0440\u043e\u043d \u0420\u0438\u0434"
+        ],
+        "biography": "Aaron W. Reed is the actor who plays Dude in Free Guy \u2013 a super hench version of Ryan Reynolds.",
+        "birthday": "1981-09-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3158217,
+        "imdb_id": "nm9619603",
+        "known_for_department": "Acting",
+        "name": "Aaron W Reed",
+        "place_of_birth": "Minco, Oklahoma, USA",
+        "popularity": 0.5531,
+        "profile_path": "/e9dW9ezNxeGEu8MnQ1NTOz3PM93.jpg"
+    }
+}

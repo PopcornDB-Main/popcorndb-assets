@@ -1,0 +1,171 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878,
+                    53
+                ],
+                "id": 154,
+                "original_language": "en",
+                "original_title": "Star Trek II: The Wrath of Khan",
+                "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+                "popularity": 3.9359,
+                "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+                "release_date": "1982-06-04",
+                "title": "Star Trek II: The Wrath of Khan",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 2013,
+                "character": "Cmdr. Hikaru Sulu",
+                "credit_id": "52fe421fc3a36847f8005c13",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.2254,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.156,
+                "vote_count": 1560,
+                "character": "Sulu",
+                "credit_id": "52fe4221c3a36847f80066b7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vfo2dzdXnoArYwrkM7kw1vgb7dL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 174,
+                "original_language": "en",
+                "original_title": "Star Trek VI: The Undiscovered Country",
+                "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+                "popularity": 2.6295,
+                "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+                "release_date": "1991-12-06",
+                "title": "Star Trek VI: The Undiscovered Country",
+                "video": false,
+                "vote_average": 7.03,
+                "vote_count": 1331,
+                "character": "Captain Hikaru Sulu",
+                "credit_id": "52fe4222c3a36847f8006adb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 12.7162,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 10094,
+                "character": "First Ancestor (voice)",
+                "credit_id": "52fe43a09251416c75017d05",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751
+                ],
+                "id": 313297,
+                "original_language": "en",
+                "original_title": "Kubo and the Two Strings",
+                "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+                "popularity": 4.6327,
+                "poster_path": "/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
+                "release_date": "2016-08-18",
+                "title": "Kubo and the Two Strings",
+                "video": false,
+                "vote_average": 7.633,
+                "vote_count": 3678,
+                "character": "Hosato (voice)",
+                "credit_id": "5668f0a39251414a1900041b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uZzVtRO2aV9gtFx9WHNZ2nR9z55.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    878,
+                    28,
+                    14
+                ],
+                "id": 13253,
+                "original_language": "en",
+                "original_title": "Futurama: Bender's Game",
+                "overview": "When Leela is insulted by a group of space-rednecks (like regular rednecks, but in space), she enters the Planet Express ship in a demolition derby. Leela emerges victorious, but when she brings the damaged ship home, and the Professor sees the fuel gauge, he's enraged by the hit he's going to take at the Dark Matter pump.  Now the crew have to find a way to break Mom's stranglehold on starship fuel, even if they have to wade through a Lord of the Rings-inspired fantasy-land to do it!",
+                "popularity": 1.3102,
+                "poster_path": "/bx8OVOBn5WP9TJJuOpRzyMCdzzb.jpg",
+                "release_date": "2008-11-03",
+                "title": "Futurama: Bender's Game",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 565,
+                "character": "George Takei (voice)",
+                "credit_id": "60600e60d7fbda00280dd3b7",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "George Takai",
+            "\u6b66\u4e95\u4e54\u6cbb",
+            "\u30b8\u30e7\u30fc\u30b8\u30fb\u30bf\u30b1\u30a4",
+            "\u6b66\u4e95\u7a42\u90f7",
+            "\u062c\u0648\u0631\u062c \u062a\u0627\u0643\u0627\u064a",
+            "\u0414\u0436\u043e\u0440\u0434\u0436 \u0422\u0430\u043a\u0435\u0439"
+        ],
+        "biography": "George Hosato Takei Altman is an American actor of Japanese descent, best known for his role in the television series Star Trek, in which he played Hikaru Sulu, helmsman of the USS Enterprise. He is a proponent of gay rights and active in state and local politics as well as continuing his acting career. He has won several awards and accolades in his work on human rights and Japanese-American relations, including his work with the Japanese American National Museum.",
+        "birthday": "1937-04-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://georgetakei.com",
+        "id": 1752,
+        "imdb_id": "nm0001786",
+        "known_for_department": "Acting",
+        "name": "George Takei",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.8062,
+        "profile_path": "/kfpkgfcuxcOrw2OCoAyQpPamQVv.jpg"
+    }
+}

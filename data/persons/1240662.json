@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pa0Mq5rGm2QnzdpFmugTu4Mghf.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 734265,
+                "original_language": "en",
+                "original_title": "Love Hard",
+                "overview": "An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she's been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.",
+                "popularity": 2.9999,
+                "poster_path": "/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg",
+                "release_date": "2021-11-05",
+                "title": "Love Hard",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1537,
+                "character": "Conan",
+                "credit_id": "618645ece7414600438ea242",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 522924,
+                "original_language": "en",
+                "original_title": "The Art of Racing in the Rain",
+                "overview": "A family dog \u2013 with a near-human soul and a philosopher's mind \u2013 evaluates his life through the lessons learned by his human owner, a race-car driver.",
+                "popularity": 6.2266,
+                "poster_path": "/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+                "release_date": "2019-08-08",
+                "title": "The Art of Racing in the Rain",
+                "video": false,
+                "vote_average": 8.189,
+                "vote_count": 1573,
+                "character": "Crew Chief",
+                "credit_id": "66878b586f4ca24a2179730c",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1240662,
+        "imdb_id": "nm3148295",
+        "known_for_department": "Acting",
+        "name": "Peter Ciuffa",
+        "place_of_birth": null,
+        "popularity": 0.265,
+        "profile_path": "/rfGU59PgYlCGlIIJYCChyofJfqe.jpg"
+    }
+}

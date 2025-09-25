@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.0551,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Victor Laszlo",
+                "credit_id": "52fe4233c3a36847f800b847",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Paul von Hernried",
+            "Paul Georg Julius Hernreid"
+        ],
+        "biography": "Born Paul Georg Julius Hernreid in the city of Trieste, then part of the Austro-Hungarian Empire, Paul Henreid (January 10, 1908 \u2013 March 29, 1992) was an Austrian actor, director, producer, and writer. He is best remembered for two film roles: Victor Laszlo in Casablanca and Jerry Durrance in Now, Voyager, both released between 1942 and 1943.\n\nFrom Wikipedia.",
+        "birthday": "1908-01-10",
+        "deathday": "1992-03-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 4112,
+        "imdb_id": "nm0002134",
+        "known_for_department": "Acting",
+        "name": "Paul Henreid",
+        "place_of_birth": "Trieste, Austria-Hungary",
+        "popularity": 0.3051,
+        "profile_path": "/kqlDSharpQjqeNVS5BZkqqJl3ZF.jpg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.8029,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 15864,
+                "character": "General Hurst Romodi",
+                "credit_id": "598c226dc3a368736c00d45d",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/egyi9TQjLhNEQuEsK1dXovdHOHL.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 509,
+                "original_language": "en",
+                "original_title": "Notting Hill",
+                "overview": "London bookstore owner William Thacker's quiet life turns upside down when a chance encounter with famous actress Anna Scott sparks an unlikely romance challenged by their vastly different worlds.",
+                "popularity": 8.6425,
+                "poster_path": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+                "release_date": "1999-05-21",
+                "title": "Notting Hill",
+                "video": false,
+                "vote_average": 7.265,
+                "vote_count": 6423,
+                "character": "Journalist",
+                "credit_id": "5c23b412c3a3686fffef8184",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1231968,
+        "imdb_id": "nm0209426",
+        "known_for_department": "Acting",
+        "name": "Andy de la Tour",
+        "place_of_birth": "Colchester, Essex, England, UK",
+        "popularity": 0.1972,
+        "profile_path": "/l3aGtffceUHFJsdcsYww6p7j9Bc.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9829,
+                "original_language": "en",
+                "original_title": "United 93",
+                "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+                "popularity": 4.1082,
+                "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+                "release_date": "2006-04-28",
+                "title": "United 93",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1559,
+                "character": "Air Traffic Control Midnight Supervisor (uncredited)",
+                "credit_id": "64eaaa2b458199013a7e8bbe",
+                "order": 79
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/x4OYcZVHggyZHOrvkCo2HH9kLkF.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 4348,
+                "original_language": "en",
+                "original_title": "Pride & Prejudice",
+                "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+                "popularity": 9.6,
+                "poster_path": "/jnsoq5q98DQaE8yw6WZH0F9dW5G.jpg",
+                "release_date": "2005-09-16",
+                "title": "Pride & Prejudice",
+                "video": false,
+                "vote_average": 8.06,
+                "vote_count": 8407,
+                "character": "Specialist Period Dancer (uncredited)",
+                "credit_id": "5f4c57a912aabc0032a5c201",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 931013,
+        "imdb_id": "nm4003679",
+        "known_for_department": "Acting",
+        "name": "Bret Jones",
+        "place_of_birth": null,
+        "popularity": 0.0264,
+        "profile_path": null
+    }
+}

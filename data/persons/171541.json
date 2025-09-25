@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 10673,
+                "original_language": "en",
+                "original_title": "Wall Street",
+                "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider, whom takes the youth under his wing.",
+                "popularity": 5.3071,
+                "poster_path": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+                "release_date": "1987-12-10",
+                "title": "Wall Street",
+                "video": false,
+                "vote_average": 7.163,
+                "vote_count": 2147,
+                "character": "Receptionist",
+                "credit_id": "52fe43a09251416c75017c23",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.5564,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.119,
+                "vote_count": 1507,
+                "character": "New York Journalist",
+                "credit_id": "68b67ff15f51a3937ab4fc1f",
+                "order": 71
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Dani Klein Modisett"
+        ],
+        "biography": "",
+        "birthday": "1963-01-18",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 171541,
+        "imdb_id": "nm0458702",
+        "known_for_department": "Acting",
+        "name": "Dani Klein",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.1059,
+        "profile_path": "/yeGXQKEi51hwNdzfKoDEyUAM8w6.jpg"
+    }
+}

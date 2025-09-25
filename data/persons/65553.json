@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.8617,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "New Haven Promoter",
+                "credit_id": "649ad5897e348300c5640ad0",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 28,
+                "original_language": "en",
+                "original_title": "Apocalypse Now",
+                "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+                "popularity": 8.7178,
+                "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+                "release_date": "1979-05-19",
+                "title": "Apocalypse Now",
+                "video": false,
+                "vote_average": 8.271,
+                "vote_count": 8641,
+                "character": "Agent",
+                "credit_id": "570d258ec3a3687dfc000023",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.8617,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "credit_id": "52fe43839251416c75013403",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Bill Graham (born Wulf Wolodia Grajonca; January 8, 1931 \u2013 October 25, 1991) was a German-American impresario and rock concert promoter from the 1960s until his death in 1991 in a helicopter crash.",
+        "birthday": "1931-01-08",
+        "deathday": "1991-10-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 65553,
+        "imdb_id": "nm0333931",
+        "known_for_department": "Acting",
+        "name": "Bill Graham",
+        "place_of_birth": "Berlin, Germany",
+        "popularity": 0.0889,
+        "profile_path": null
+    }
+}

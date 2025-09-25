@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zYM9IbF08gB1Ip3Qee19HPvNY8T.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 9386,
+                "original_language": "en",
+                "original_title": "In the Line of Fire",
+                "overview": "Veteran Secret Service agent Frank Horrigan is a man haunted by his failure to save President Kennedy while serving protection detail in Dallas. Thirty years later, a man calling himself \"Booth\" threatens the life of the current President, forcing Horrigan to come back to protection detail to confront the ghosts from his past.",
+                "popularity": 3.8495,
+                "poster_path": "/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+                "release_date": "1993-07-08",
+                "title": "In the Line of Fire",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1684,
+                "character": "Hunter",
+                "credit_id": "55e6456c9251410f04000bdc",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6a6AK1pANcl64BYeDA58HKqgzji.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9366,
+                "original_language": "en",
+                "original_title": "Donnie Brasco",
+                "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
+                "popularity": 3.9691,
+                "poster_path": "/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+                "release_date": "1997-02-27",
+                "title": "Donnie Brasco",
+                "video": false,
+                "vote_average": 7.536,
+                "vote_count": 4638,
+                "character": "Sheriff",
+                "credit_id": "5cfba7bec3a36856101ef07a",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Walt McPherson"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 361969,
+        "imdb_id": "nm0534249",
+        "known_for_department": "Acting",
+        "name": "Walt MacPherson",
+        "place_of_birth": null,
+        "popularity": 0.1145,
+        "profile_path": "/h0hxyg9jxJYGdXKFaCQSc3xtoMd.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 499932,
+                "original_language": "en",
+                "original_title": "The Devil All the Time",
+                "overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+                "popularity": 3.6372,
+                "poster_path": "/sdMZmKVvrnyYbl9Az4L6ehuIrFp.jpg",
+                "release_date": "2020-09-11",
+                "title": "The Devil All the Time",
+                "video": false,
+                "vote_average": 7.199,
+                "vote_count": 3493,
+                "character": "Social Worker",
+                "credit_id": "5ca7c1b09251415657fc9b56",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80
+                ],
+                "id": 385128,
+                "original_language": "en",
+                "original_title": "F9",
+                "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+                "popularity": 8.4812,
+                "poster_path": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+                "release_date": "2021-05-19",
+                "title": "F9",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 7460,
+                "character": "Young Vince",
+                "credit_id": "60c1b3f3a284eb0029896007",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Karson Kern is known for Kindred (2022), The Staircase (2022) and F9: The Fast Saga (2021).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1916439,
+        "imdb_id": "nm5107674",
+        "known_for_department": "Acting",
+        "name": "Karson Kern",
+        "place_of_birth": null,
+        "popularity": 0.168,
+        "profile_path": "/iY1w0XrVBzQqcgjjyZQjxHNb79o.jpg"
+    }
+}

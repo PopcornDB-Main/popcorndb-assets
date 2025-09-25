@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pQQYGl6JzyUzzd6TxjkVah3H8wq.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 821881,
+                "original_language": "en",
+                "original_title": "The Swimmers",
+                "overview": "From war-torn Syria to the 2016 Rio Olympics, two young sisters embark on a risky voyage, putting their hearts and their swimming skills to heroic use.",
+                "popularity": 2.9119,
+                "poster_path": "/u9MiJ6zLpDw4s3qZz93WDVwTUIo.jpg",
+                "release_date": "2022-11-24",
+                "title": "The Swimmers",
+                "video": false,
+                "vote_average": 7.442,
+                "vote_count": 596,
+                "character": "Bilal",
+                "credit_id": "631147307fcab3007fbe1a4f",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 438631,
+                "original_language": "en",
+                "original_title": "Dune",
+                "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+                "popularity": 18.4986,
+                "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+                "release_date": "2021-09-15",
+                "title": "Dune",
+                "video": false,
+                "vote_average": 7.781,
+                "vote_count": 13924,
+                "character": "Shamir",
+                "credit_id": "610988955541fa005d8e28cf",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3063993,
+        "imdb_id": "nm10661353",
+        "known_for_department": "Acting",
+        "name": "Elmi Rashid Elmi",
+        "place_of_birth": null,
+        "popularity": 1.2209,
+        "profile_path": "/kMH7mX7rzVrrPuWL0qVeYExXVcx.jpg"
+    }
+}

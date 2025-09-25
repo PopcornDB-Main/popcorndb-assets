@@ -1,0 +1,214 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vm7yMg7YiYisMSeO3mUC5NUKbSB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 710,
+                "original_language": "en",
+                "original_title": "GoldenEye",
+                "overview": "When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Agent 006, a former ally-turned-enemy, only James Bond can save the world from a dangerous space weapon that -- in one short pulse -- could destroy the earth! As Bond squares off against his former compatriot, he also battles Xenia Onatopp, an assassin who uses pleasure as her ultimate weapon.",
+                "popularity": 5.3965,
+                "poster_path": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+                "release_date": "1995-11-16",
+                "title": "GoldenEye",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 4093,
+                "character": "Xenia Onatopp",
+                "credit_id": "52fe426ec3a36847f801e119",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tgRQsrjBKdic7llxhI7pqLJb8kS.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 10220,
+                "original_language": "en",
+                "original_title": "Rounders",
+                "overview": "A young reformed gambler must return to playing big stakes poker to help a friend pay off loan sharks.",
+                "popularity": 5.0565,
+                "poster_path": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+                "release_date": "1998-09-11",
+                "title": "Rounders",
+                "video": false,
+                "vote_average": 7.008,
+                "vote_count": 1806,
+                "character": "Petra",
+                "credit_id": "52fe43459251416c75009f53",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d9ISNkCasZmkvL7YFw2J4ddQv3j.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 8681,
+                "original_language": "en",
+                "original_title": "Taken",
+                "overview": "Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.",
+                "popularity": 14.1291,
+                "poster_path": "/y5Va1WXDX6nZElVirPrGxf6w99B.jpg",
+                "release_date": "2008-02-18",
+                "title": "Taken",
+                "video": false,
+                "vote_average": 7.398,
+                "vote_count": 11653,
+                "character": "Lenore St. John",
+                "credit_id": "52fe44b4c3a36847f80a546f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36657,
+                "original_language": "en",
+                "original_title": "X-Men",
+                "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+                "popularity": 0.5589,
+                "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+                "release_date": "2000-07-13",
+                "title": "X-Men",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 11761,
+                "character": "Jean Grey",
+                "credit_id": "52fe45fe9251416c910457b9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36658,
+                "original_language": "en",
+                "original_title": "X2",
+                "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker's scheme to exterminate all mutants.",
+                "popularity": 0.4027,
+                "poster_path": "/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+                "release_date": "2003-04-27",
+                "title": "X2",
+                "video": false,
+                "vote_average": 7.032,
+                "vote_count": 10511,
+                "character": "Jean Grey",
+                "credit_id": "52fe45fe9251416c91045875",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 127585,
+                "original_language": "en",
+                "original_title": "X-Men: Days of Future Past",
+                "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+                "popularity": 13.1726,
+                "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+                "release_date": "2014-05-15",
+                "title": "X-Men: Days of Future Past",
+                "video": false,
+                "vote_average": 7.529,
+                "vote_count": 15762,
+                "character": "Jean Grey",
+                "credit_id": "5383be67c3a368059e00945f",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qegwTsiVjrNY9nwkwzLJQ5r4204.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    878
+                ],
+                "id": 416494,
+                "original_language": "en",
+                "original_title": "Status Update",
+                "overview": "After being uprooted by his parents' separation and unable to fit into his new hometown, a teenager stumbles upon a magical app that causes his social media updates to come true.",
+                "popularity": 3.0436,
+                "poster_path": "/E4twRNScyq3g6tRpvK6X8LdD1z.jpg",
+                "release_date": "2018-02-09",
+                "title": "Status Update",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 553,
+                "character": "Katherine Alden",
+                "credit_id": "5949a9ad92514145a800068c",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lD8dFIk9wDEvOwZw0RB47e346io.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    37
+                ],
+                "id": 698508,
+                "original_language": "en",
+                "original_title": "Redeeming Love",
+                "overview": "A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.",
+                "popularity": 11.7755,
+                "poster_path": "/pDc2HxQtC0MlKD4QfRvmKREEyhc.jpg",
+                "release_date": "2022-01-21",
+                "title": "Redeeming Love",
+                "video": false,
+                "vote_average": 7.859,
+                "vote_count": 651,
+                "character": "Duchess",
+                "credit_id": "5ea9c0f3a12856001b67e3e8",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Famke Beumer Janssen",
+            "\ud31c\ucf00 \uc580\uc13c",
+            "Famke",
+            "\u03a6\u03ac\u03bc\u03ba\u03b5 \u0393\u03b9\u03ac\u03bd\u03c3\u03b5\u03bd",
+            "\u03a6\u03ac\u03bc\u03ba\u03b5 \u039c\u03c0\u03ad\u03bf\u03c5\u03bc\u03b5\u03c1 \u0393\u03b9\u03ac\u03bd\u03c3\u03b5\u03bd",
+            "\u6cd5\u7c73\u514b\u00b7\u8a79\u68ee",
+            "\u05e4\u05de\u05e7\u05d4 \u05d9\u05e0\u05e1\u05df",
+            "\u0641\u0627\u0645\u06a9\u0647 \u06cc\u0627\u0646\u0633\u0646"
+        ],
+        "biography": "Famke Beumer Janssen\u00a0(Dutch pronunciation:[\u02c8f\u0251mk\u0259\u00a0\u02c8b\u00f8\u02d0m\u0259r\u00a0\u02c8j\u0251ns\u0259(n)]; born 5 November 1964) is a Dutch actress and former model. She played\u00a0Xenia Onatopp\u00a0in\u00a0GoldenEye\u00a0(1995),\u00a0Jean Grey / Phoenix\u00a0in the\u00a0X-Men\u00a0film series (2000\u20132014), and Lenore Mills in the\u00a0Taken\u00a0film trilogy\u00a0(2008\u20132014). In 2008, she was appointed a\u00a0Goodwill Ambassador\u00a0for Integrity by the United Nations. She made her directorial debut with\u00a0Bringing Up Bobby\u00a0in 2011. She is also known for her roles in the\u00a0Netflix\u00a0original series\u00a0Hemlock Grove\u00a0(2013\u20132015),\u00a0FX's\u00a0Nip/Tuck (2003\u20132010), and\u00a0ABC's\u00a0How to Get Away with Murder\u00a0(2014\u20132020). Janssen starred in the 2017\u00a0NBC\u00a0crime thriller\u00a0The Blacklist: Redemption.\n\nDescription above from the Wikipedia article Famke Janssen, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1964-11-05",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 10696,
+        "imdb_id": "nm0000463",
+        "known_for_department": "Acting",
+        "name": "Famke Janssen",
+        "place_of_birth": "Amstelveen, Noord-Holland, Netherlands",
+        "popularity": 3.6474,
+        "profile_path": "/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"
+    }
+}

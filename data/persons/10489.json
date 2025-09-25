@@ -1,0 +1,249 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/plWyKqUIenzqFjMrs1gu7Gjygfq.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 402,
+                "original_language": "en",
+                "original_title": "Basic Instinct",
+                "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+                "popularity": 6.5466,
+                "poster_path": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+                "release_date": "1992-03-20",
+                "title": "Basic Instinct",
+                "video": false,
+                "vote_average": 6.93,
+                "vote_count": 4124,
+                "character": "Sheriff",
+                "credit_id": "52fe423fc3a36847f800f527",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ryuNZtfeugm9olrytaydFPsDSoB.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 942,
+                "original_language": "en",
+                "original_title": "Lethal Weapon 2",
+                "overview": "Riggs and Murtaugh are on the trail of South African diplomats using their immunity to engage in criminal activities.",
+                "popularity": 8.5464,
+                "poster_path": "/z35OkbOTfnalyx8LK5EPUrnKQhR.jpg",
+                "release_date": "1989-07-07",
+                "title": "Lethal Weapon 2",
+                "video": false,
+                "vote_average": 7.021,
+                "vote_count": 3557,
+                "character": "Carpenter",
+                "credit_id": "52fe4291c3a36847f8028c61",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y5PH2cM3mHt2Q74lMzhuqQi93sh.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 60308,
+                "original_language": "en",
+                "original_title": "Moneyball",
+                "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+                "popularity": 5.8898,
+                "poster_path": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+                "release_date": "2011-09-23",
+                "title": "Moneyball",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 5450,
+                "character": "John Poloni",
+                "credit_id": "52fe461fc3a368484e0800e1",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 45317,
+                "original_language": "en",
+                "original_title": "The Fighter",
+                "overview": "Boxer \"Irish\" Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer who rebounded in life after nearly being KO'd by drugs and crime.",
+                "popularity": 7.3796,
+                "poster_path": "/xfsFerGhO1h6rLk8vwLgMyQ8WVJ.jpg",
+                "release_date": "2010-12-10",
+                "title": "The Fighter",
+                "video": false,
+                "vote_average": 7.382,
+                "vote_count": 4509,
+                "character": "George Ward",
+                "credit_id": "52fe46bcc3a36847f810f535",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8bXbZE8lBdV7W68AD7u5YNXKTOn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1640,
+                "original_language": "en",
+                "original_title": "Crash",
+                "overview": "In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.",
+                "popularity": 5.5836,
+                "poster_path": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+                "release_date": "2005-05-06",
+                "title": "Crash",
+                "video": false,
+                "vote_average": 7.214,
+                "vote_count": 3658,
+                "character": "Gun Store Owner",
+                "credit_id": "53a1c34f0e0a266ff700027f",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 2604,
+                "original_language": "en",
+                "original_title": "Born on the Fourth of July",
+                "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+                "popularity": 8.918,
+                "poster_path": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+                "release_date": "1989-12-20",
+                "title": "Born on the Fourth of July",
+                "video": false,
+                "vote_average": 7.017,
+                "vote_count": 1790,
+                "character": "Democratic Delegate - Democratic Convention",
+                "credit_id": "55e88182c3a3682c6b002d3c",
+                "order": 78
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zDvBalLNASMJ8MtlQPDaRE9VINF.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53,
+                    28,
+                    18
+                ],
+                "id": 2163,
+                "original_language": "en",
+                "original_title": "Breakdown",
+                "overview": "On their cross-country drive, a married couple, Jeff and Amy Taylor, experience car trouble after their SUV breaks down. Stranded in the New Mexico desert, the two catch a break when a passing truck driver offers Amy a ride to a nearby caf\u00e9 to call for help. Meanwhile, Jeff is able to fix the car and make his way to the caf\u00e9, but Amy isn't there. He tracks down the trucker -- who tells the police he's never seen Jeff or his wife before. Jeff then begins a desperate, frenzied search for Amy.",
+                "popularity": 3.4667,
+                "poster_path": "/m3VB59ppr1RlpxNUYRUfZTgjgU.jpg",
+                "release_date": "1997-05-02",
+                "title": "Breakdown",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1015,
+                "character": "Bartender",
+                "credit_id": "57622a71c3a36864b7000eee",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwjVHxKKk2hb6CJX46U4Cv0Zq0a.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 10778,
+                "original_language": "en",
+                "original_title": "The Man Who Wasn't There",
+                "overview": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it.",
+                "popularity": 3.1407,
+                "poster_path": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+                "release_date": "2001-10-26",
+                "title": "The Man Who Wasn't There",
+                "video": false,
+                "vote_average": 7.527,
+                "vote_count": 1653,
+                "character": "P.I. Burns",
+                "credit_id": "5e62b86a459ad60013560855",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pR3v192B20nFtsHY1jZQS4AkN0a.jpg",
+                "genre_ids": [
+                    36,
+                    53
+                ],
+                "id": 11973,
+                "original_language": "en",
+                "original_title": "Thirteen Days",
+                "overview": "The story of the Cuban Missile Crisis in 1962\u2014the nuclear standoff with the USSR sparked by the discovery by the Americans of missile bases established on the Soviet-allied island of Cuba.",
+                "popularity": 4.6482,
+                "poster_path": "/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
+                "release_date": "2000-12-25",
+                "title": "Thirteen Days",
+                "video": false,
+                "vote_average": 7.002,
+                "vote_count": 786,
+                "character": "Richard J. Daley",
+                "credit_id": "5f4bd54ceec4f30037d45370",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    36
+                ],
+                "id": 10537,
+                "original_language": "en",
+                "original_title": "The Doors",
+                "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+                "popularity": 3.445,
+                "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+                "release_date": "1991-03-01",
+                "title": "The Doors",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1506,
+                "character": "Miami Cop",
+                "credit_id": "60fdf543a58902005d6e2c89",
+                "order": 36
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John J. McGee"
+        ],
+        "biography": "Jack McGee (born February 2, 1948) is an American television and film character actor. He has appeared in over 100 films and television shows, including Basic Instinct (1992), The Fighter (2010), and Moneyball (2011).\n\nMcGee is perhaps best known as Chief Jerry Reilly on the television series Rescue Me. He was a regular cast member on the FX series for three seasons. In 2010, he co-starred as Hickey on the Spike TV comedy series Players.",
+        "birthday": "1949-02-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 10489,
+        "imdb_id": "nm0569079",
+        "known_for_department": "Acting",
+        "name": "Jack McGee",
+        "place_of_birth": "South Bronx, New York, USA",
+        "popularity": 1.108,
+        "profile_path": "/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+    }
+}

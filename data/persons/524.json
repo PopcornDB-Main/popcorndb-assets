@@ -1,0 +1,350 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 101,
+                "original_language": "fr",
+                "original_title": "L\u00e9on",
+                "overview": "L\u00e9on, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in L\u00e9on's footsteps.",
+                "popularity": 11.642,
+                "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+                "release_date": "1994-09-14",
+                "title": "L\u00e9on: The Professional",
+                "video": false,
+                "vote_average": 8.301,
+                "vote_count": 15446,
+                "character": "Mathilda Lando",
+                "credit_id": "52fe4217c3a36847f80036c3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2mu6XkJE0B6nK5jeOvXOyWPVmhw.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 401,
+                "original_language": "en",
+                "original_title": "Garden State",
+                "overview": "Andrew returns to his hometown for the funeral of his mother, a journey that reconnects him with past friends. The trip coincides with his decision to stop taking his powerful antidepressants. A chance meeting with Sam - a girl also suffering from various maladies - opens up the possibility of rekindling emotional attachments, confronting his psychologist father, and perhaps beginning a new life.",
+                "popularity": 1.8641,
+                "poster_path": "/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+                "release_date": "2004-07-28",
+                "title": "Garden State",
+                "video": false,
+                "vote_average": 7.087,
+                "vote_count": 1928,
+                "character": "Sam",
+                "credit_id": "52fe423ec3a36847f800f3d9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5JaR6UEoCJJLtLpqFOVMY4O4R7P.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 949,
+                "original_language": "en",
+                "original_title": "Heat",
+                "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+                "popularity": 10.0455,
+                "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+                "release_date": "1995-12-15",
+                "title": "Heat",
+                "video": false,
+                "vote_average": 7.922,
+                "vote_count": 7791,
+                "character": "Lauren Gustafson",
+                "credit_id": "52fe4292c3a36847f8029229",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 752,
+                "original_language": "en",
+                "original_title": "V for Vendetta",
+                "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+                "popularity": 8.3222,
+                "poster_path": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+                "release_date": "2006-02-23",
+                "title": "V for Vendetta",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 15001,
+                "character": "Evey",
+                "credit_id": "52fe4270c3a36847f801ec1d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    12,
+                    10749
+                ],
+                "id": 2289,
+                "original_language": "en",
+                "original_title": "Cold Mountain",
+                "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+                "popularity": 6.4908,
+                "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+                "release_date": "2003-12-24",
+                "title": "Cold Mountain",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1859,
+                "character": "Sara",
+                "credit_id": "52fe434ac3a36847f804903f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ahGSlXunI3Aa0MV4IXlpjYVSVWI.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 10564,
+                "original_language": "en",
+                "original_title": "Where the Heart Is",
+                "overview": "Novalee Nation is a 17-year-old Tennessee transient who has to grow up in a hurry when she's left pregnant and abandoned by her boyfriend on a roadside, and takes refuge in the friendly aisles of Wal-Mart. Eventually, some eccentric but kindly strangers 'adopt' Novalee and her infant daughter, helping them buck the odds and build a new life.",
+                "popularity": 3.6252,
+                "poster_path": "/h8PBkTn6kDK9ZMCLj6jP6JnIBhY.jpg",
+                "release_date": "2000-04-27",
+                "title": "Where the Heart Is",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 710,
+                "character": "Novalee Nation",
+                "credit_id": "52fe43889251416c75014223",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1895,
+                "original_language": "en",
+                "original_title": "Star Wars: Episode III - Revenge of the Sith",
+                "overview": "The evil Darth Sidious enacts his final plan for unlimited power \u2013 and the heroic Jedi Anakin Skywalker must choose a side.",
+                "popularity": 8.7014,
+                "poster_path": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+                "release_date": "2005-05-17",
+                "title": "Star Wars: Episode III - Revenge of the Sith",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 14345,
+                "character": "Padm\u00e9 Amidala",
+                "credit_id": "52fe431fc3a36847f803bedf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hKJ513GbmTSmTXJU1uCXclh5Wkh.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    35
+                ],
+                "id": 4538,
+                "original_language": "en",
+                "original_title": "The Darjeeling Limited",
+                "overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
+                "popularity": 6.2759,
+                "poster_path": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+                "release_date": "2007-09-07",
+                "title": "The Darjeeling Limited",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 3734,
+                "character": "Jack's Ex-Girlfriend",
+                "credit_id": "52fe43cac3a36847f806fb83",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kvlXOT8snP7qplRpkOSAZahH5UB.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 6418,
+                "original_language": "en",
+                "original_title": "Hotel Chevalier",
+                "overview": "In a Paris hotel room, Jack Whitman lies on a bed. His phone rings; it's a woman on her way to see him, a surprise. She arrives and the complications of their relationship emerge in bits and pieces. Will they make love? Is their relationship over? (A prequel to The Darjeeling Limited, 2007.)",
+                "popularity": 1.9721,
+                "poster_path": "/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+                "release_date": "2007-10-26",
+                "title": "Hotel Chevalier",
+                "video": false,
+                "vote_average": 6.903,
+                "vote_count": 867,
+                "character": "Jack's Girlfriend",
+                "credit_id": "52fe4450c3a36847f808ede7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    27
+                ],
+                "id": 44214,
+                "original_language": "en",
+                "original_title": "Black Swan",
+                "overview": "The story of Nina, a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her retired ballerina mother Erica who zealously supports her daughter's professional ambition. When artistic director Thomas Leroy decides to replace prima ballerina Beth MacIntyre for the opening production of their new season, Swan Lake, Nina is his first choice.",
+                "popularity": 7.9638,
+                "poster_path": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+                "release_date": "2010-12-03",
+                "title": "Black Swan",
+                "video": false,
+                "vote_average": 7.688,
+                "vote_count": 15008,
+                "character": "Nina Sayers / The Swan Queen",
+                "credit_id": "52fe467ec3a36847f810219b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 7445,
+                "original_language": "en",
+                "original_title": "Brothers",
+                "overview": "When his helicopter goes down during his fourth tour of duty in Afghanistan, Marine Sam Cahill is presumed dead. Back home, brother Tommy steps in to look over Sam\u2019s wife, Grace, and two children. Sam\u2019s surprise homecoming triggers domestic mayhem.",
+                "popularity": 5.6184,
+                "poster_path": "/skHqceAFYee0JZuYd9MVk2IQggi.jpg",
+                "release_date": "2009-12-02",
+                "title": "Brothers",
+                "video": false,
+                "vote_average": 7.32,
+                "vote_count": 3752,
+                "character": "Grace Cahill",
+                "credit_id": "5301eca7925141219828af30",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gY6kVEUqOkVu6B6FARpgHwjoKW1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 291984,
+                "original_language": "en",
+                "original_title": "The Death & Life of John F. Donovan",
+                "overview": "A decade after the death of an American TV star, a young actor reminisces about the written correspondence he once shared with the former, as well as the impact those letters had on both their lives.",
+                "popularity": 2.6276,
+                "poster_path": "/2bhI7Ivk7VmvUaJaDTxJUgOXp1E.jpg",
+                "release_date": "2019-03-13",
+                "title": "The Death & Life of John F. Donovan",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 704,
+                "character": "Sam Turner",
+                "credit_id": "578b6750c3a3682c29007ffd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.7585,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.237,
+                "vote_count": 26720,
+                "character": "Jane Foster",
+                "credit_id": "5e85d5e2691cd50014593b98",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 83542,
+                "original_language": "en",
+                "original_title": "Cloud Atlas",
+                "overview": "A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.",
+                "popularity": 7.2462,
+                "poster_path": "/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+                "release_date": "2012-10-26",
+                "title": "Cloud Atlas",
+                "video": false,
+                "vote_average": 6.888,
+                "vote_count": 7271,
+                "credit_id": "64440e65651fcf04dc9d485e",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Natalie Hershlag",
+            "\u5a1c\u5854\u8389\u00b7\u6ce2\u7279\u66fc",
+            "\u05e0\u05d8\u05e2-\u05dc\u05d9 \u05d4\u05e8\u05e9\u05dc\u05d2",
+            "\u0646\u0627\u062a\u0627\u0644\u06cc \u067e\u0648\u0631\u062a\u0645\u0646",
+            "\u5a1c\u5854\u8389\u6ce2\u66fc",
+            "\u5a1c\u5854\u8389.\u6ce2\u66fc"
+        ],
+        "biography": "Natalie Portman (born Neta-Lee Hershlag, June 9, 1981) is an actress with dual American and Israeli citizenship. Her first role was in the 1994 action thriller L\u00e9on: The Professional, opposite Jean Reno. She was later cast as Padm\u00e9 Amidala in the Star Wars prequel trilogy (released in 1999, 2002 and 2005).\n\nBorn in Jerusalem to an Israeli father and American mother, Portman grew up in the eastern United States from the age of three. She studied dancing and acting in New York, and starred in Star Wars: Episode I \u2013 The Phantom Menace while still at high school on Long Island. In 1999, Portman enrolled at Harvard University to study psychology, alongside her work as an actress; she completed a bachelor's degree in 2003. During her studies she starred in a second Star Wars film and opened in New York City's The Public Theater production of Anton Chekhov's The Seagull in 2001.\n\nPortman won a Golden Globe and was nominated for an Academy Award for starring in the 2004 drama Closer, appeared in Star Wars: Episode III \u2013 Revenge of the Sith the following year, and won a Constellation Award for Best Female Performance and the Saturn Award for Best Actress for her starring role in the political thriller V for Vendetta (2006). She played leading roles in the historical dramas Goya's Ghosts (2006) and The Other Boleyn Girl (2008), and also appeared in Thor (2011) and its 2013 sequel. In 2010, Portman starred in the psychological thriller film Black Swan. Her performance received widespread critical acclaim and she earned her first Academy Award for Best Actress, her second Golden Globe Award, the SAG Award, the BAFTA Award and the BFCA Award in 2011. In 2016, she portrayed First Lady Jacqueline Kennedy in the biographical drama Jackie. She was nominated for an Academy Award, a BAFTA Award, a Golden Globe Award, a Screen Actors Guild Award and won the BFCA for Best Actress. In May 2008, Portman served as the youngest member of the 61st Annual Cannes Film Festival jury. The same year she directed a segment of the collective film New York, I Love You. Her first feature film as a director, A Tale of Love and Darkness, was released in 2015.",
+        "birthday": "1981-06-09",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 524,
+        "imdb_id": "nm0000204",
+        "known_for_department": "Acting",
+        "name": "Natalie Portman",
+        "place_of_birth": "Jerusalem, Israel",
+        "popularity": 3.1394,
+        "profile_path": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    }
+}

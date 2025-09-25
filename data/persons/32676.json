@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242,
+                "original_language": "en",
+                "original_title": "The Godfather Part III",
+                "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+                "popularity": 10.2501,
+                "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+                "release_date": "1990-12-25",
+                "title": "The Godfather Part III",
+                "video": false,
+                "vote_average": 7.417,
+                "vote_count": 6512,
+                "character": "Don Tommasino",
+                "credit_id": "52fe422cc3a36847f80097f3",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7SUT9mYb7SD88Gz7rFeLbjC2YeG.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 26451,
+                "original_language": "it",
+                "original_title": "Indagine su un cittadino al di sopra di ogni sospetto",
+                "overview": "Rome, Italy. After committing a heinous crime, a senior police officer exposes evidence incriminating him because his moral commitment prevents him from circumventing the law and the social order it protects.",
+                "popularity": 1.9991,
+                "poster_path": "/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg",
+                "release_date": "1970-10-16",
+                "title": "Investigation of a Citizen Above Suspicion",
+                "video": false,
+                "vote_average": 8.178,
+                "vote_count": 832,
+                "character": "Canes",
+                "credit_id": "5a2681ec0e0a264cbe0e92f3",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1040,
+                "original_language": "it",
+                "original_title": "Il gattopardo",
+                "overview": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic Prince Don Fabrizio Salina allows his war hero nephew, Tancredi, to marry Angelica, the beautiful daughter of gauche, bourgeois Don Calogero, in order to maintain the family's accustomed level of comfort and political clout.",
+                "popularity": 3.1711,
+                "poster_path": "/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+                "release_date": "1963-03-27",
+                "title": "The Leopard",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 886,
+                "character": "Colonel",
+                "credit_id": "5a43cb0a9251411fd5068db5",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0412\u0438\u0442\u0442\u043e\u0440\u0438\u043e \u0414\u0443\u0437\u0435"
+        ],
+        "biography": "",
+        "birthday": "1916-03-21",
+        "deathday": "2005-06-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 32676,
+        "imdb_id": "nm0244602",
+        "known_for_department": "Acting",
+        "name": "Vittorio Duse",
+        "place_of_birth": "Veneto, Italy",
+        "popularity": 1.4864,
+        "profile_path": "/tG1UMI35lfXlZ2JTmmaEk6PPVzR.jpg"
+    }
+}

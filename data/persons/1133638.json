@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2f2denPrX62TjWJKVD9i2dum164.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 58522,
+                "original_language": "it",
+                "original_title": "Boris - Il film",
+                "overview": "A director and his crew attempt to make the transition from the small to the big screen.",
+                "popularity": 2.251,
+                "poster_path": "/bro0yk5rDSU3mCIk5pnEzPDWV50.jpg",
+                "release_date": "2011-04-01",
+                "title": "Boris: The Film",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 608,
+                "character": "Benedetto",
+                "credit_id": "52fe4966c3a36847f81983ef",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tAbDYp1b7zK2oOhJKcza63dUtOl.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 636565,
+                "original_language": "it",
+                "original_title": "L'incredibile storia dell'Isola delle Rose",
+                "overview": "In 1968, engineer Giorgio Rosa established the independent state called \"The Isle of Roses\" off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.",
+                "popularity": 2.4279,
+                "poster_path": "/fbmYUDOo6tNq3A1VWhhxE6pjNEB.jpg",
+                "release_date": "2020-12-09",
+                "title": "Rose Island",
+                "video": false,
+                "vote_average": 7.036,
+                "vote_count": 1361,
+                "character": "Poliziotto",
+                "credit_id": "5f27fecf435abd00357a81d9",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1973-11-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1133638,
+        "imdb_id": "nm2649077",
+        "known_for_department": "Acting",
+        "name": "Christian Ginepro",
+        "place_of_birth": "Pesaro, Italy",
+        "popularity": 0.1132,
+        "profile_path": "/vw88mHEofEYOarzCem9QEdL5CFa.jpg"
+    }
+}

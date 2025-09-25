@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8482,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 1118,
+                "character": "Committeeman (uncredited)",
+                "credit_id": "555f3095c3a36868f60028cc",
+                "order": 208
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVpp3ZcIFtJJ3fJp65eJczehIN8.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 3063,
+                "original_language": "en",
+                "original_title": "Duck Soup",
+                "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+                "popularity": 2.3339,
+                "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+                "release_date": "1933-11-12",
+                "title": "Duck Soup",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 816,
+                "character": "First Minister of Finance (uncredited)",
+                "credit_id": "568ff6b7925141189200266b",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "William J. Worthington",
+            "W.J. Worthington"
+        ],
+        "biography": "",
+        "birthday": "1872-04-08",
+        "deathday": "1941-04-09",
+        "gender": 2,
+        "homepage": null,
+        "id": 981096,
+        "imdb_id": "nm0941782",
+        "known_for_department": "Acting",
+        "name": "William Worthington",
+        "place_of_birth": "Troy, New York, USA",
+        "popularity": 0.0387,
+        "profile_path": "/9c9DA6WGm4GwJJ0VeAxtaHmOa47.jpg"
+    }
+}

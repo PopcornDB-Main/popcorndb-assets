@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6RcBQkC2PZJwwbFugqzgvN3moYL.jpg",
+                "genre_ids": [
+                    53,
+                    28
+                ],
+                "id": 1005331,
+                "original_language": "en",
+                "original_title": "Carry-On",
+                "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+                "popularity": 9.8474,
+                "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+                "release_date": "2024-12-05",
+                "title": "Carry-On",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 2405,
+                "character": "Ron Dunn",
+                "credit_id": "634daf82ec0c58007c159f38",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36
+                ],
+                "id": 359724,
+                "original_language": "en",
+                "original_title": "Ford v Ferrari",
+                "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+                "popularity": 13.8559,
+                "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                "release_date": "2019-11-13",
+                "title": "Ford v Ferrari",
+                "video": false,
+                "vote_average": 8.007,
+                "vote_count": 8493,
+                "character": "Don Frey",
+                "credit_id": "5e04ff77d236e6001299a043",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph G. Williamson",
+            "Joseph Williamson"
+        ],
+        "biography": "Joseph Williamson is an actor.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 588333,
+        "imdb_id": "nm2006513",
+        "known_for_department": "Acting",
+        "name": "Joe Williamson",
+        "place_of_birth": null,
+        "popularity": 0.5402,
+        "profile_path": "/o3ncOH2qBMIRAOJ0JpgEQ0If8d6.jpg"
+    }
+}

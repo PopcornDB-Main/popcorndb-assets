@@ -1,0 +1,320 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10400,
+                "original_language": "en",
+                "original_title": "The Hurricane",
+                "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+                "popularity": 4.1797,
+                "poster_path": "/eOzbt7KsqTC8gcjJMxcQnr89cxJ.jpg",
+                "release_date": "1999-09-17",
+                "title": "The Hurricane",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1460,
+                "character": "Sam Chaiton",
+                "credit_id": "52fe43679251416c7500efad",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    9648
+                ],
+                "id": 4232,
+                "original_language": "en",
+                "original_title": "Scream",
+                "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+                "popularity": 11.55,
+                "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+                "release_date": "1996-12-20",
+                "title": "Scream",
+                "video": false,
+                "vote_average": 7.419,
+                "vote_count": 7438,
+                "character": "Cotton Weary",
+                "credit_id": "52fe43b3c3a36847f8068fc7",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9r2vUgsFoYIvEryW77chX5moedT.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 14202,
+                "original_language": "en",
+                "original_title": "The Painted Veil",
+                "overview": "A British medical doctor fights a cholera outbreak in a small Chinese village, while also being trapped at home in a loveless marriage to an unfaithful wife.",
+                "popularity": 5.369,
+                "poster_path": "/k41IvHDLgZO2ae7RuU77wQjScIj.jpg",
+                "release_date": "2006-12-09",
+                "title": "The Painted Veil",
+                "video": false,
+                "vote_average": 7.258,
+                "vote_count": 1219,
+                "character": "Charlie Townsend",
+                "credit_id": "52fe45d79251416c7506456f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 646380,
+                "original_language": "en",
+                "original_title": "Don't Look Up",
+                "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+                "popularity": 6.1992,
+                "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+                "release_date": "2021-12-08",
+                "title": "Don't Look Up",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 8776,
+                "character": "Bash Narrator (voice)",
+                "credit_id": "61b92bf943999b00645a3ed9",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g0nLh5eQjTcffJUavvatBNkaSpy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 132363,
+                "original_language": "en",
+                "original_title": "The Butler",
+                "overview": "A look at the life of Cecil Gaines, who served eight presidents as the White House's head butler from 1952 to 1986, and had a unique front-row seat as political and racial history was made.",
+                "popularity": 5.6089,
+                "poster_path": "/pAi8Bl3ZKX6pANPVhNwbhbQANop.jpg",
+                "release_date": "2013-08-16",
+                "title": "The Butler",
+                "video": false,
+                "vote_average": 7.332,
+                "vote_count": 2949,
+                "character": "Lyndon B. Johnson",
+                "credit_id": "52fe4b93c3a368484e18fac3",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 314365,
+                "original_language": "en",
+                "original_title": "Spotlight",
+                "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+                "popularity": 4.8613,
+                "poster_path": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+                "release_date": "2015-11-06",
+                "title": "Spotlight",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 8478,
+                "character": "Marty Baron",
+                "credit_id": "54a1a992925141236b0044cd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    16
+                ],
+                "id": 399174,
+                "original_language": "en",
+                "original_title": "Isle of Dogs",
+                "overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
+                "popularity": 5.2045,
+                "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+                "release_date": "2018-03-23",
+                "title": "Isle of Dogs",
+                "video": false,
+                "vote_average": 7.847,
+                "vote_count": 5134,
+                "character": "Spots (voice)",
+                "credit_id": "585bcdcec3a3683843018044",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 312221,
+                "original_language": "en",
+                "original_title": "Creed",
+                "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+                "popularity": 11.4046,
+                "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+                "release_date": "2015-11-25",
+                "title": "Creed",
+                "video": false,
+                "vote_average": 7.407,
+                "vote_count": 7689,
+                "character": "HBO 24/7 Narrator (voice)",
+                "credit_id": "58520be79251411a4601db8f",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    12,
+                    878
+                ],
+                "id": 324857,
+                "original_language": "en",
+                "original_title": "Spider-Man: Into the Spider-Verse",
+                "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+                "popularity": 14.1819,
+                "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+                "release_date": "2018-12-06",
+                "title": "Spider-Man: Into the Spider-Verse",
+                "video": false,
+                "vote_average": 8.396,
+                "vote_count": 16440,
+                "character": "Wilson Fisk (voice)",
+                "credit_id": "59125a29c3a36864ec045db6",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 542178,
+                "original_language": "en",
+                "original_title": "The French Dispatch",
+                "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+                "popularity": 4.5113,
+                "poster_path": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+                "release_date": "2021-10-21",
+                "title": "The French Dispatch",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 2781,
+                "character": "Talk Show Host",
+                "credit_id": "5e42ca700c2710001581ce00",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/v6DoiKp2ThK0VUgWt73JrEN4qa4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 340,
+                "original_language": "en",
+                "original_title": "Everything Is Illuminated",
+                "overview": "A young Jewish American man endeavors\u2014with the help of eccentric, distant relatives\u2014to find the woman who saved his grandfather during World War II\u2014in a Ukrainian village which was ultimately razed by the Nazis.",
+                "popularity": 2.4962,
+                "poster_path": "/gk469Y3fJTlbcAkSNMZc4OtETOK.jpg",
+                "release_date": "2005-09-05",
+                "title": "Everything Is Illuminated",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 783,
+                "credit_id": "52fe423ac3a36847f800db49",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v6DoiKp2ThK0VUgWt73JrEN4qa4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 340,
+                "original_language": "en",
+                "original_title": "Everything Is Illuminated",
+                "overview": "A young Jewish American man endeavors\u2014with the help of eccentric, distant relatives\u2014to find the woman who saved his grandfather during World War II\u2014in a Ukrainian village which was ultimately razed by the Nazis.",
+                "popularity": 2.4962,
+                "poster_path": "/gk469Y3fJTlbcAkSNMZc4OtETOK.jpg",
+                "release_date": "2005-09-05",
+                "title": "Everything Is Illuminated",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 783,
+                "credit_id": "52fe423ac3a36847f800db69",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gpyu3jQeMQeUFAVjCSrVCrYYK3f.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 23128,
+                "original_language": "en",
+                "original_title": "The Cove",
+                "overview": "The Cove tells the amazing true story of how an elite team of individuals, films makers and free divers embarked on a covert mission to penetrate the hidden cove in Japan, shining light on a dark and deadly secret. The shocking discoveries were only the tip of the iceberg.",
+                "popularity": 1.937,
+                "poster_path": "/miodcVtQv2YxpKjjHJWcV0EDfSP.jpg",
+                "release_date": "2009-07-31",
+                "title": "The Cove",
+                "video": false,
+                "vote_average": 7.936,
+                "vote_count": 628,
+                "credit_id": "573c9d48c3a3687dab0003d4",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Isaac Liev Schreiber",
+            "\ub9ac\ube0c \uc288\ub77c\uc774\ubc84",
+            "\u5217\u592b\u00b7\u65bd\u8d56\u4f2f",
+            "\u827e\u8428\u514b\u00b7\u5217\u592b\u00b7\u65bd\u8d56\u4f2f",
+            "\u041b\u0456\u0454\u0432 \u0428\u0440\u0430\u0439\u0431\u0435\u0440",
+            "\u05d0\u05d9\u05d9\u05d6\u05e7 \u05dc\u05d9\u05d9\u05d1 \u05e9\u05e8\u05d9\u05d9\u05d1\u05e8",
+            "\u05dc\u05d9\u05d1 \u05e9\u05e8\u05d9\u05d9\u05d1\u05e8",
+            "\u0644\u06cc\u0648 \u0634\u0631\u0627\u06cc\u0628\u0631"
+        ],
+        "biography": "Isaac Liev Schreiber\u00a0(/\u02c8li\u02d0\u025bv\u00a0\u02c8\u0283ra\u026ab\u0259r/\u00a0LEE-ev\u00a0SHRY-b\u0259r; born October 4, 1967) is an American actor. He has received\u00a0numerous accolades, including a\u00a0Tony Award\u00a0and nominations for nine\u00a0Primetime Emmy Awards\u00a0and five\u00a0Golden Globe Awards.\n\nSchreiber's early film roles include\u00a0Mixed Nuts (1994),\u00a0Party Girl\u00a0(1995),\u00a0The Daytrippers\u00a0(1996), and\u00a0Big Night\u00a0(1996). He appeared in the first three\u00a0Scream\u00a0horror films (1996\u20132000),\u00a0Ransom\u00a0(1996),\u00a0The Hurricane\u00a0(1999),\u00a0Hamlet\u00a0(2000),\u00a0Kate & Leopold\u00a0(2001),\u00a0The Manchurian Candidate\u00a0(2004),\u00a0The Painted Veil\u00a0(2006),\u00a0X-Men Origins: Wolverine (2009),\u00a0Pawn Sacrifice\u00a0(2014), and\u00a0Spotlight (2015). He acted in the\u00a0Wes Anderson\u00a0films\u00a0Isle of Dogs\u00a0(2018),\u00a0The French Dispatch\u00a0(2021), and\u00a0Asteroid City\u00a0(2023). He made his directorial film debut with\u00a0Everything Is Illuminated\u00a0(2005).\n\nHe made his\u00a0Broadway\u00a0debut in\u00a0In the Summer House\u00a0(1992). He earned the\u00a0Tony Award for Best Featured Actor in a Play\u00a0for playing\u00a0Richard Roma in the\u00a0David Mamet\u00a0play\u00a0Glengarry Glen Ross (2005). He was Tony-nominated for his roles in the\u00a0Eric Bogosian\u00a0play\u00a0Talk Radio\u00a0(2007), the\u00a0Arthur Miller\u00a0revival\u00a0A View from the Bridge\u00a0(2010) and the\u00a0John Patrick Shanley\u00a0revival\u00a0Doubt\u00a0(2024). He also acted in\u00a0Les Liaisons Dangereuses\u00a0(2016).\n\nFor his television roles, he most notably portrayed the titular character in the\u00a0Showtime\u00a0drama series\u00a0Ray Donovan\u00a0(2013\u20132020). He reprised the role in the television film\u00a0Ray Donovan: The Movie\u00a0(2022). The role has earned him nominations for three\u00a0Primetime Emmy Awards\u00a0and four\u00a0Golden Globe Awards. He also portrayed\u00a0Orson Welles\u00a0in the\u00a0HBO\u00a0film\u00a0RKO 281\u00a0(1999) and\u00a0Otto Frank\u00a0in the\u00a0Nat Geo\u00a0miniseries\u00a0A Small Light\u00a0(2023).\n\nDescription above from the Wikipedia article Liev Schreiber, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1967-10-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 23626,
+        "imdb_id": "nm0000630",
+        "known_for_department": "Acting",
+        "name": "Liev Schreiber",
+        "place_of_birth": "San Francisco, California, USA",
+        "popularity": 2.4554,
+        "profile_path": "/gTHvDnTN52iTdnQPVPu6LhirUHc.jpg"
+    }
+}

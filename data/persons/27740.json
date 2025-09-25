@@ -1,0 +1,216 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 2501,
+                "original_language": "en",
+                "original_title": "The Bourne Identity",
+                "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy\u2014but who does he work for?",
+                "popularity": 19.1515,
+                "poster_path": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+                "release_date": "2002-06-14",
+                "title": "The Bourne Identity",
+                "video": false,
+                "vote_average": 7.469,
+                "vote_count": 9645,
+                "character": "Research Tech",
+                "credit_id": "52fe435ac3a36847f804e06b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "character": "Billy Crash",
+                "credit_id": "52fe479fc3a368484e0d135f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    37
+                ],
+                "id": 273248,
+                "original_language": "en",
+                "original_title": "The Hateful Eight",
+                "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+                "popularity": 8.3615,
+                "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+                "release_date": "2015-12-25",
+                "title": "The Hateful Eight",
+                "video": false,
+                "vote_average": 7.755,
+                "vote_count": 14709,
+                "character": "Sheriff Chris Mannix",
+                "credit_id": "559d5f5f925141251e000107",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 336843,
+                "original_language": "en",
+                "original_title": "Maze Runner: The Death Cure",
+                "overview": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+                "popularity": 8.6543,
+                "poster_path": "/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
+                "release_date": "2018-01-10",
+                "title": "Maze Runner: The Death Cure",
+                "video": false,
+                "vote_average": 7.096,
+                "vote_count": 8093,
+                "character": "Lawrence",
+                "credit_id": "59147c2e92514156f500e563",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 363088,
+                "original_language": "en",
+                "original_title": "Ant-Man and the Wasp",
+                "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+                "popularity": 8.7204,
+                "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+                "release_date": "2018-07-04",
+                "title": "Ant-Man and the Wasp",
+                "video": false,
+                "vote_average": 6.913,
+                "vote_count": 13738,
+                "character": "Sonny Burch",
+                "credit_id": "596e47bb9251412d860105c9",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qKxAghWoR2M8ZIheMpbHp8jeXFi.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    36
+                ],
+                "id": 9912,
+                "original_language": "en",
+                "original_title": "The World's Fastest Indian",
+                "overview": "The life story of New Zealander Burt Munro, who spent years building a 1920 Indian motorcycle\u2014a bike which helped him set the land-speed world record at Utah's Bonneville Salt Flats in 1967.",
+                "popularity": 4.4667,
+                "poster_path": "/vUIwPFAAXeCUuS040uGC0xSatcG.jpg",
+                "release_date": "2005-10-12",
+                "title": "The World's Fastest Indian",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 821,
+                "character": "Marty Dickerson",
+                "credit_id": "5eea2745b0460500350804f0",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vftMyaxyKlNKU5kdsKRlQLc57hY.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 523781,
+                "original_language": "en",
+                "original_title": "Words on Bathroom Walls",
+                "overview": "Diagnosed with a mental illness halfway through his senior year of high school, a witty, introspective teen struggles to keep it a secret while falling in love with a brilliant classmate who inspires him to open his heart and not be defined by his condition.",
+                "popularity": 3.0616,
+                "poster_path": "/sTtcwfTjE9jaU0928xjUXNtmmyr.jpg",
+                "release_date": "2020-08-21",
+                "title": "Words on Bathroom Walls",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 633,
+                "character": "Paul",
+                "credit_id": "5f0fa210d371970037a9a8d1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fZkhO3JhRajayNejQUaIiBegayM.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    37
+                ],
+                "id": 637693,
+                "original_language": "en",
+                "original_title": "Spirit Untamed",
+                "overview": "Lucky Prescott's life is changed forever when she moves from her home in the city to a small frontier town and befriends a wild mustang named Spirit.",
+                "popularity": 5.0659,
+                "poster_path": "/fLE2mvuvhvzmSICOsqR9uE50Ave.jpg",
+                "release_date": "2021-05-20",
+                "title": "Spirit Untamed",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 536,
+                "character": "Hendricks (voice)",
+                "credit_id": "605065957314a1002b200684",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Walt Goggins",
+            "\u83ef\u9813\u30fb\u54e5\u91d1\u65af",
+            "\u30a6\u30a9\u30eb\u30c8\u30f3\u30fb\u30b4\u30ae\u30f3\u30b9",
+            "\uc6d4\ud134 \uace0\uae34\uc2a4",
+            "\u83ef\u9813\u54e5\u91d1\u65af",
+            "\u0412\u043e\u043b\u0442\u043e\u043d \u0413\u043e\u0433\u0433\u0456\u043d\u0441",
+            "\u0648\u0627\u0644\u062a\u0648\u0646 \u06af\u0627\u06af\u06cc\u0646\u0632"
+        ],
+        "biography": "Walton Sanders Goggins Jr. (born November 10, 1971)[1] is an American actor. He has starred in various television series, including The Shield (2002\u201308), Justified (2010\u20132015), Vice Principals (2016\u201317), The Righteous Gemstones (2019\u201325), Invincible (2021\u2013present), Fallout (2024\u2013present), and The White Lotus (2025).[2] He was nominated for the Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series for Justified and The White Lotus, and for the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series for Fallout.  Goggins starred in and co-produced the Academy Award\u2013winning short film The Accountant (2001). He has also featured in feature films, such as Predators (2010), Lincoln, Django Unchained (both\u00a02012), The Hateful Eight (2015), Maze Runner: The Death Cure, Tomb Raider, and Ant-Man and the Wasp (all 2018).\n\nDescription above from the Wikipedia article Walton Goggins, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1971-11-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 27740,
+        "imdb_id": "nm0324658",
+        "known_for_department": "Acting",
+        "name": "Walton Goggins",
+        "place_of_birth": "Birmingham, Alabama, USA",
+        "popularity": 2.6633,
+        "profile_path": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+    }
+}

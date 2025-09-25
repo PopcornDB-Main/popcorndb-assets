@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 106646,
+                "original_language": "en",
+                "original_title": "The Wolf of Wall Street",
+                "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+                "popularity": 27.2678,
+                "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+                "release_date": "2013-12-25",
+                "title": "The Wolf of Wall Street",
+                "video": false,
+                "vote_average": 8.028,
+                "vote_count": 24976,
+                "character": "Banker (uncredited)",
+                "credit_id": "567ca5bac3a3684bd0004c0a",
+                "order": 171
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d2faCjeaynI2nPDVh9PiRapcLcl.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 661539,
+                "original_language": "en",
+                "original_title": "A Complete Unknown",
+                "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
+                "popularity": 6.5167,
+                "poster_path": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+                "release_date": "2024-12-25",
+                "title": "A Complete Unknown",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1196,
+                "character": "Cab Driver",
+                "credit_id": "67722d37d8dc22e6c692738e",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1192821,
+        "imdb_id": "nm0921173",
+        "known_for_department": "Acting",
+        "name": "David Wenzel",
+        "place_of_birth": null,
+        "popularity": 1.1966,
+        "profile_path": "/pPCt3LdXHtvYagO8rRyMGJwcZqh.jpg"
+    }
+}

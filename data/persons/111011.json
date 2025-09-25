@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aCURY1tNUkvrNnjw5qYJXTUp7z.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 33602,
+                "original_language": "en",
+                "original_title": "Temple Grandin",
+                "overview": "A biopic of Temple Grandin, an autistic American who has become one of the leading scientists in humane livestock handling.",
+                "popularity": 3.2461,
+                "poster_path": "/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+                "release_date": "2010-02-06",
+                "title": "Temple Grandin",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 511,
+                "character": "Mr. Hodges",
+                "credit_id": "52fe45279251416c9102944f",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    10749
+                ],
+                "id": 9820,
+                "original_language": "en",
+                "original_title": "The Parent Trap",
+                "overview": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
+                "popularity": 12.8044,
+                "poster_path": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+                "release_date": "1998-07-28",
+                "title": "The Parent Trap",
+                "video": false,
+                "vote_average": 7.218,
+                "vote_count": 4348,
+                "character": "Bellhop with Flowers",
+                "credit_id": "662557e9cb6db50186af7aa6",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 111011,
+        "imdb_id": "nm0015233",
+        "known_for_department": "Acting",
+        "name": "William Akey",
+        "place_of_birth": null,
+        "popularity": 0.0261,
+        "profile_path": null
+    }
+}

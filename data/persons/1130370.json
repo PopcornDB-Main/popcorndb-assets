@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8661,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 1117,
+                "character": "Doorman (uncredited)",
+                "credit_id": "555f2f8fc3a36868eb002c7f",
+                "order": 190
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mAhCW7QbpL5kwvCWGsfyY3ILoW6.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10098,
+                "original_language": "en",
+                "original_title": "The Kid",
+                "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
+                "popularity": 3.8578,
+                "poster_path": "/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+                "release_date": "1921-01-21",
+                "title": "The Kid",
+                "video": false,
+                "vote_average": 8.153,
+                "vote_count": 2233,
+                "character": "Car Thief with Gun (uncredited)",
+                "credit_id": "6642a98c53c2dc16b659a9c2",
+                "order": 57
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1883-11-26",
+        "deathday": "1954-02-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 1130370,
+        "imdb_id": "nm0856916",
+        "known_for_department": "Acting",
+        "name": "Arthur Thalasso",
+        "place_of_birth": "Cincinnati, Ohio, USA",
+        "popularity": 0.0541,
+        "profile_path": null
+    }
+}

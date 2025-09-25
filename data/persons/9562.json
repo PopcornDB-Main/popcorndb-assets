@@ -1,0 +1,204 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7tZt3PA948fvSTFx0699YF44Tdt.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 641,
+                "original_language": "en",
+                "original_title": "Requiem for a Dream",
+                "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+                "popularity": 5.9184,
+                "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+                "release_date": "2000-10-06",
+                "title": "Requiem for a Dream",
+                "video": false,
+                "vote_average": 8.015,
+                "vote_count": 10474,
+                "character": "Tyrone C. Love",
+                "credit_id": "52fe4263c3a36847f801a783",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 10607,
+                "original_language": "en",
+                "original_title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+                "overview": "When Ashtray moves to South Central L.A. to live with his father (who appears to be the same age he is) and grandmother (who likes to talk tough and smoke reefer), he falls in with his gang-banging cousin Loc Dog, who along with the requisite pistols and Uzi carries a thermo-nuclear warhead for self-defense. Will Ashtray be able to keep living the straight life?",
+                "popularity": 7.4427,
+                "poster_path": "/HZQBF7JDd2e9p4rPSbSHuWHaCC.jpg",
+                "release_date": "1996-01-12",
+                "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1401,
+                "character": "Loc Dog",
+                "credit_id": "52fe43929251416c750159e7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 12153,
+                "original_language": "en",
+                "original_title": "White Chicks",
+                "overview": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich white women.",
+                "popularity": 12.9649,
+                "poster_path": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+                "release_date": "2004-06-23",
+                "title": "White Chicks",
+                "video": false,
+                "vote_average": 6.933,
+                "vote_count": 4254,
+                "character": "Marcus Copeland",
+                "credit_id": "52fe44bf9251416c7503fa1f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 964980,
+                "original_language": "en",
+                "original_title": "Air",
+                "overview": "Discover the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand.",
+                "popularity": 8.5346,
+                "poster_path": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+                "release_date": "2023-04-05",
+                "title": "Air",
+                "video": false,
+                "vote_average": 7.313,
+                "vote_count": 2145,
+                "character": "George Raveling",
+                "credit_id": "62a38fe7e38bd80099a549ce",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 10607,
+                "original_language": "en",
+                "original_title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+                "overview": "When Ashtray moves to South Central L.A. to live with his father (who appears to be the same age he is) and grandmother (who likes to talk tough and smoke reefer), he falls in with his gang-banging cousin Loc Dog, who along with the requisite pistols and Uzi carries a thermo-nuclear warhead for self-defense. Will Ashtray be able to keep living the straight life?",
+                "popularity": 7.4427,
+                "poster_path": "/HZQBF7JDd2e9p4rPSbSHuWHaCC.jpg",
+                "release_date": "1996-01-12",
+                "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1401,
+                "credit_id": "52fe43929251416c75015a05",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 12153,
+                "original_language": "en",
+                "original_title": "White Chicks",
+                "overview": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich white women.",
+                "popularity": 12.9649,
+                "poster_path": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+                "release_date": "2004-06-23",
+                "title": "White Chicks",
+                "video": false,
+                "vote_average": 6.933,
+                "vote_count": 4254,
+                "credit_id": "52fe44bf9251416c7503f9d5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 12153,
+                "original_language": "en",
+                "original_title": "White Chicks",
+                "overview": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich white women.",
+                "popularity": 12.9649,
+                "poster_path": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+                "release_date": "2004-06-23",
+                "title": "White Chicks",
+                "video": false,
+                "vote_average": 6.933,
+                "vote_count": 4254,
+                "credit_id": "52fe44bf9251416c7503f9f9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 12153,
+                "original_language": "en",
+                "original_title": "White Chicks",
+                "overview": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich white women.",
+                "popularity": 12.9649,
+                "poster_path": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+                "release_date": "2004-06-23",
+                "title": "White Chicks",
+                "video": false,
+                "vote_average": 6.933,
+                "vote_count": 4254,
+                "credit_id": "622cc9d6532acb001b381e20",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Marlon Lamont Wayans",
+            "Marlon L. Wayans",
+            "\u0645\u0627\u0631\u0644\u0648\u0646 \u0648\u0627\u06cc\u0627\u0646\u0632"
+        ],
+        "biography": "Marlon Lamont Wayans\u00a0(born July 23, 1972) is an American actor, comedian, writer, and producer. He is best known for his work with his brother\u00a0Shawn Wayans\u00a0on\u00a0The WB\u00a0sitcom\u00a0The Wayans Bros.\u00a0(1995\u20131999) and the comedy films\u00a0Don't Be a Menace\u00a0(1996),\u00a0Scary Movie\u00a0(2000),\u00a0Scary Movie 2\u00a0(2001),\u00a0White Chicks\u00a0(2004),\u00a0Little Man\u00a0(2006), and\u00a0Dance Flick\u00a0(2009).\n\nWayans' other film credits include\u00a0Above the Rim (1994),\u00a0The 6th Man\u00a0(1997),\u00a0Norbit\u00a0(2007),\u00a0G.I. Joe: The Rise of Cobra\u00a0(2009),\u00a0The Heat\u00a0(2013),\u00a0A Haunted House\u00a0(2013) and its sequel\u00a0A Haunted House 2\u00a0(2014),\u00a0Naked\u00a0(2017),\u00a0Fifty Shades of Black\u00a0(2016),\u00a0Sextuplets\u00a0(2019), and\u00a0On the Rocks\u00a0(2020). He also had several dramatic roles, including the psychological drama film\u00a0Requiem for a Dream\u00a0(2000).\n\nWayans partnered with Randy Adams to create\u00a0What the Funny, an online destination for urban comedy.\u00a0He created the comedy competition television show\u00a0Funniest Wins,\u00a0which aired on\u00a0TBS\u00a0in 2014.\u00a0In 2014, Wayans and his brothers travelled the U.S. with \"The Wayans Brothers Tour\".\u00a0In 2017, he co-wrote and starred in the\u00a0NBC\u00a0sitcom\u00a0Marlon,\u00a0which ran for two seasons.\n\nDescription above from the Wikipedia article Marlon Wayans, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1972-07-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.marlonwayans.com",
+        "id": 9562,
+        "imdb_id": "nm0005541",
+        "known_for_department": "Acting",
+        "name": "Marlon Wayans",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 3.2087,
+        "profile_path": "/q1EtfxvhHZsDQmPDEkdWBkC8D1e.jpg"
+    }
+}

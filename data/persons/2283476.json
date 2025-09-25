@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    12
+                ],
+                "id": 98,
+                "original_language": "en",
+                "original_title": "Gladiator",
+                "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+                "popularity": 13.7275,
+                "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+                "release_date": "2000-05-04",
+                "title": "Gladiator",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 20050,
+                "character": "Swordsman (uncredited)",
+                "credit_id": "637252498fdda900cd07cc72",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1895,
+                "original_language": "en",
+                "original_title": "Star Wars: Episode III - Revenge of the Sith",
+                "overview": "The evil Darth Sidious enacts his final plan for unlimited power \u2013 and the heroic Jedi Anakin Skywalker must choose a side.",
+                "popularity": 8.7014,
+                "poster_path": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+                "release_date": "2005-05-17",
+                "title": "Star Wars: Episode III - Revenge of the Sith",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 14345,
+                "character": "Poggle the Lesser (uncredited)",
+                "credit_id": "5ec91f41a35c8e0021e272c0",
+                "order": 102
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2283476,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Richard Stride",
+        "place_of_birth": null,
+        "popularity": 0.0429,
+        "profile_path": null
+    }
+}

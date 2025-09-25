@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2ANHqBhbAhyIBRTLSVfENskpxon.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    53
+                ],
+                "id": 1029281,
+                "original_language": "en",
+                "original_title": "Strange Darling",
+                "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer\u2019s vicious murder spree.",
+                "popularity": 9.8584,
+                "poster_path": "/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+                "release_date": "2024-08-14",
+                "title": "Strange Darling",
+                "video": false,
+                "vote_average": 6.952,
+                "vote_count": 706,
+                "character": "Libby",
+                "credit_id": "6516fe96ea84c700aee916c7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 37799,
+                "original_language": "en",
+                "original_title": "The Social Network",
+                "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+                "popularity": 7.5791,
+                "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+                "release_date": "2010-10-01",
+                "title": "The Social Network",
+                "video": false,
+                "vote_average": 7.37,
+                "vote_count": 12636,
+                "character": "Gretchen",
+                "credit_id": "5643e55ec3a36870e00039d1",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 968542,
+        "imdb_id": "nm0337091",
+        "known_for_department": "Acting",
+        "name": "Denise Grayson",
+        "place_of_birth": null,
+        "popularity": 1.3091,
+        "profile_path": "/m0Zc4BDjLudF2BRZO4Hb18CK1US.jpg"
+    }
+}

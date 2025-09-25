@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    18
+                ],
+                "id": 5503,
+                "original_language": "en",
+                "original_title": "The Fugitive",
+                "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+                "popularity": 7.3656,
+                "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+                "release_date": "1993-08-06",
+                "title": "The Fugitive",
+                "video": false,
+                "vote_average": 7.465,
+                "vote_count": 4512,
+                "character": "Marshal David",
+                "credit_id": "626a79d590dde000506281d5",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 1645,
+                "original_language": "en",
+                "original_title": "A Time to Kill",
+                "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+                "popularity": 5.5978,
+                "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+                "release_date": "1996-07-24",
+                "title": "A Time to Kill",
+                "video": false,
+                "vote_average": 7.383,
+                "vote_count": 2687,
+                "character": "Bailiff",
+                "credit_id": "5b645e14c3a36818880544cd",
+                "order": 58
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David Urbano Hodges"
+        ],
+        "biography": "David U. Hodges (born on May 3, 1961, in Alabama, USA) is an American actor. He is known for his roles in Blown Away (1994), Batman Forever (1995), and The Fugitive (1993). In Batman Forever, he portrayed Jack Napier/The Joker in a flashback.",
+        "birthday": "1961-05-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2099040,
+        "imdb_id": "nm0006673",
+        "known_for_department": "Acting",
+        "name": "David U. Hodges",
+        "place_of_birth": "Alabama, USA",
+        "popularity": 0.0917,
+        "profile_path": null
+    }
+}

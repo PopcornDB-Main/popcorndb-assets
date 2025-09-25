@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t1AHkwkmNK18mNJTfu3reeIc2fZ.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 651070,
+                "original_language": "en",
+                "original_title": "A Fall from Grace",
+                "overview": "When a law-abiding woman gets indicted for murdering her husband, her lawyer soon realizes that a larger conspiracy may be at work.",
+                "popularity": 5.222,
+                "poster_path": "/h47JJZ015VF4neia33AFwTU37Yb.jpg",
+                "release_date": "2020-01-17",
+                "title": "A Fall from Grace",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 953,
+                "character": "Mr. Clyde",
+                "credit_id": "5e397e4298f1f100140827a9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 1949,
+                "original_language": "en",
+                "original_title": "Zodiac",
+                "overview": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+                "popularity": 7.951,
+                "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+                "release_date": "2007-03-02",
+                "title": "Zodiac",
+                "video": false,
+                "vote_average": 7.528,
+                "vote_count": 11041,
+                "character": "Navy Project Leader",
+                "credit_id": "5f29d55e1bf266003849ad84",
+                "order": 76
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Michael Edward Rose"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.therealmichaelrose.com",
+        "id": 53330,
+        "imdb_id": "nm0741580",
+        "known_for_department": "Acting",
+        "name": "Michael Rose",
+        "place_of_birth": "Atlanta, Georgia, USA",
+        "popularity": 0.5363,
+        "profile_path": "/zLdIbz6BmYmLgzk983ZK7ZjOHZ5.jpg"
+    }
+}

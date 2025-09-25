@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 453278,
+                "original_language": "en",
+                "original_title": "The Rider",
+                "overview": "Once a rising star of the rodeo circuit, and a gifted horse trainer, young cowboy Brady is warned that his riding days are over after a horse crushed his skull at a rodeo. In an attempt to regain control of his own fate, Brady undertakes a search for a new identity and what it means to be a man in the heartland of the United States.",
+                "popularity": 2.4655,
+                "poster_path": "/cFsrA0Is5xode2INrPj1VJcQ18n.jpg",
+                "release_date": "2018-03-28",
+                "title": "The Rider",
+                "video": false,
+                "vote_average": 7.286,
+                "vote_count": 519,
+                "character": "Bar Owner",
+                "credit_id": "5b6875c10e0a267ef60d4bb2",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 581734,
+                "original_language": "en",
+                "original_title": "Nomadland",
+                "overview": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
+                "popularity": 4.3142,
+                "poster_path": "/dKT8rGDR55cM1vGn7QZLA9Tg9YC.jpg",
+                "release_date": "2021-01-29",
+                "title": "Nomadland",
+                "video": false,
+                "vote_average": 7.187,
+                "vote_count": 3157,
+                "character": "Greg",
+                "credit_id": "5ff25c141d356300410d9b1b",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2100873,
+        "imdb_id": "nm9759910",
+        "known_for_department": "Acting",
+        "name": "Greg Barber",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

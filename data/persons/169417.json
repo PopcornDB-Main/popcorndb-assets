@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 12.7162,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 10094,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5f338b608a88b200349eb050",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 808,
+                "original_language": "en",
+                "original_title": "Shrek",
+                "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+                "popularity": 20.3424,
+                "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                "release_date": "2001-05-18",
+                "title": "Shrek",
+                "video": false,
+                "vote_average": 7.752,
+                "vote_count": 17966,
+                "credit_id": "5aa44ba6925141278a0130c5",
+                "department": "Sound",
+                "job": "ADR & Dubbing"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1954-06-21",
+        "deathday": "2006-01-21",
+        "gender": 2,
+        "homepage": null,
+        "id": 169417,
+        "imdb_id": "nm0025472",
+        "known_for_department": "Writing",
+        "name": "Tom Amundsen",
+        "place_of_birth": null,
+        "popularity": 0.0551,
+        "profile_path": null
+    }
+}

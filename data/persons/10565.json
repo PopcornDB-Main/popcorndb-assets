@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 5.1915,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4045,
+                "character": "Dick Cavett",
+                "credit_id": "52fe426dc3a36847f801dc17",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+                "genre_ids": [
+                    14,
+                    35
+                ],
+                "id": 4011,
+                "original_language": "en",
+                "original_title": "Beetlejuice",
+                "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+                "popularity": 8.2812,
+                "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+                "release_date": "1988-03-30",
+                "title": "Beetlejuice",
+                "video": false,
+                "vote_average": 7.372,
+                "vote_count": 8050,
+                "character": "Bernard",
+                "credit_id": "54a2c25dc3a3684d8f001c48",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Dick Cavett",
+                "credit_id": "55d0c986c3a36877570014ac",
+                "order": 89
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard Alva Cavett"
+        ],
+        "biography": "Richard Alva Cavett is an American television personality and former talk show host. He appeared regularly on nationally broadcast television in the United States for five decades, from the 1960s through the 2000s.\n\nIn later years, Cavett has written an online column for The New York Times, promoted DVDs of his former shows as well as a book of his Times columns, and hosted replays of his TV interviews with Bette Davis, Lucille Ball, Salvador Dal\u00ed, Lee Marvin, Groucho Marx, Katharine Hepburn, Judy Garland, Marlon Brando, Orson Welles, Woody Allen, Ingmar Bergman, Jean-Luc Godard, Robert Mitchum, John Lennon, George Harrison, Jimi Hendrix, Richard Burton, Sophia Loren, Marcello Mastroianni, Kirk Douglas and others on Turner Classic Movies.",
+        "birthday": "1936-11-19",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 10565,
+        "imdb_id": "nm0147118",
+        "known_for_department": "Acting",
+        "name": "Dick Cavett",
+        "place_of_birth": "Gibbon, Nebraska, USA",
+        "popularity": 0.2651,
+        "profile_path": "/7g5J47vQY2k4GzGhlJr6KdYm04P.jpg"
+    }
+}

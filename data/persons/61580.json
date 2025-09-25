@@ -1,0 +1,116 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 390043,
+                "original_language": "en",
+                "original_title": "The Hitman's Bodyguard",
+                "overview": "The world\u2019s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+                "popularity": 5.299,
+                "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+                "release_date": "2017-08-16",
+                "title": "The Hitman's Bodyguard",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 6419,
+                "character": "Nun Driver",
+                "credit_id": "5c1ff6730e0a264de1ec42de",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 23483,
+                "original_language": "en",
+                "original_title": "Kick-Ass",
+                "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+                "popularity": 8.3621,
+                "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+                "release_date": "2010-03-26",
+                "title": "Kick-Ass",
+                "video": false,
+                "vote_average": 7.123,
+                "vote_count": 11999,
+                "character": "Man in Elevator (uncredited)",
+                "credit_id": "5e1b3c576a300b00135c5687",
+                "order": 50
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 23483,
+                "original_language": "en",
+                "original_title": "Kick-Ass",
+                "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+                "popularity": 8.3621,
+                "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+                "release_date": "2010-03-26",
+                "title": "Kick-Ass",
+                "video": false,
+                "vote_average": 7.123,
+                "vote_count": 11999,
+                "credit_id": "566c57b4c3a3683f5600829b",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 390043,
+                "original_language": "en",
+                "original_title": "The Hitman's Bodyguard",
+                "overview": "The world\u2019s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+                "popularity": 5.299,
+                "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+                "release_date": "2017-08-16",
+                "title": "The Hitman's Bodyguard",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 6419,
+                "credit_id": "58eed30492514141ff000010",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 61580,
+        "imdb_id": "nm0211318",
+        "known_for_department": "Art",
+        "name": "Russell De Rozario",
+        "place_of_birth": null,
+        "popularity": 0.1049,
+        "profile_path": "/cNlEMZk6gmDOCtT75DrEbrYhpp5.jpg"
+    }
+}

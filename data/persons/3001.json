@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/A291ofGZZMc1LdiIeOMDIWrU65g.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    53,
+                    80
+                ],
+                "id": 234,
+                "original_language": "de",
+                "original_title": "Das Cabinet des Dr. Caligari",
+                "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fianc\u00e9e Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+                "popularity": 3.5496,
+                "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+                "release_date": "1920-02-27",
+                "title": "The Cabinet of Dr. Caligari",
+                "video": false,
+                "vote_average": 7.93,
+                "vote_count": 1679,
+                "character": "Cesare",
+                "credit_id": "52fe422ac3a36847f80090cb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.0551,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Major Heinrich Strasser",
+                "credit_id": "52fe4233c3a36847f800b84f",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Veidt",
+            "Hans Walter Conrad Veidt",
+            "\u041a\u043e\u043d\u0440\u0430\u0434 \u0424\u0430\u0439\u0434\u0442"
+        ],
+        "biography": "Hans Walter Conrad Veidt (22 January 1893 \u2013 3 April 1943) was a German actor best remembered for his roles in films such as Different from the Others (1919), The Cabinet of Dr. Caligari (1920), and The Man Who Laughs (1928). After a successful career in German silent film, where he was one of the best-paid stars of Ufa, he was forced to leave Germany in 1933 with his new Jewish wife after the Nazis came to power. They settled in Britain, where he participated in a number of films, including The Thief of Bagdad (1940), before emigrating to the United States around 1941, which lead to him having a supporting role in Casablanca (1942).\n\nFrom 1916 until his death, Veidt appeared in more than 100 films. One of his earliest performances was as the murderous somnambulist Cesare in director Robert Wiene's The Cabinet of Dr. Caligari (1920), a classic of German Expressionist cinema, with Werner Krauss and Lil Dagover. His starring role in The Man Who Laughs (1928), as a disfigured circus performer whose face is cut into a permanent grin, provided the (visual) inspiration for the Batman villain the Joker, created in 1940 by Bill Finger. Veidt also starred in other silent horror films such as The Hands of Orlac (1924), another film directed by Robert Wiene, The Student of Prague (1926) and Waxworks (1924) where he played Ivan the Terrible.\n\nVeidt also appeared in Magnus Hirschfeld's film Anders als die Andern (Different from the Others, 1919), one of the first films to sympathetically portray homosexuality, although the characters in it do not end up happily. He had a leading role in Germany's first talking picture, Das Land ohne Frauen (Land Without Women, 1929).\n\nHe moved to Hollywood in the late 1920s and made a few films, but the advent of talking pictures and his difficulty with speaking English led him to return to Germany. During this period he lent his expertise to tutoring aspiring performers, one of whom was the later American character actress Lisa Golm.",
+        "birthday": "1893-01-22",
+        "deathday": "1943-04-03",
+        "gender": 2,
+        "homepage": null,
+        "id": 3001,
+        "imdb_id": "nm0891998",
+        "known_for_department": "Acting",
+        "name": "Conrad Veidt",
+        "place_of_birth": "Berlin, Germany",
+        "popularity": 0.341,
+        "profile_path": "/AkRjkTKXIUoPlczpPegaiFeg4lu.jpg"
+    }
+}

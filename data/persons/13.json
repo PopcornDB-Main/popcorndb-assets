@@ -1,0 +1,208 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 12,
+                "original_language": "en",
+                "original_title": "Finding Nemo",
+                "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+                "popularity": 12.7855,
+                "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+                "release_date": "2003-05-30",
+                "title": "Finding Nemo",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 19911,
+                "character": "Marlin (voice)",
+                "credit_id": "52fe420ec3a36847f8000679",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 35,
+                "original_language": "en",
+                "original_title": "The Simpsons Movie",
+                "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+                "popularity": 11.0846,
+                "poster_path": "/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+                "release_date": "2007-07-25",
+                "title": "The Simpsons Movie",
+                "video": false,
+                "vote_average": 7.015,
+                "vote_count": 8272,
+                "character": "Russ Cargill (voice)",
+                "credit_id": "52fe4211c3a36847f800161b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 103,
+                "original_language": "en",
+                "original_title": "Taxi Driver",
+                "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+                "popularity": 12.9441,
+                "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+                "release_date": "1976-02-09",
+                "title": "Taxi Driver",
+                "video": false,
+                "vote_average": 8.135,
+                "vote_count": 12865,
+                "character": "Tom",
+                "credit_id": "52fe4218c3a36847f80037ef",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 64690,
+                "original_language": "en",
+                "original_title": "Drive",
+                "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+                "popularity": 9.4584,
+                "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+                "release_date": "2011-09-15",
+                "title": "Drive",
+                "video": false,
+                "vote_average": 7.584,
+                "vote_count": 13070,
+                "character": "Bernie Rose",
+                "credit_id": "52fe46e4c3a368484e0a9b43",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o11rDwFa7nZMVI57Mm3C44YwmmF.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 127380,
+                "original_language": "en",
+                "original_title": "Finding Dory",
+                "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+                "popularity": 8.0357,
+                "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+                "release_date": "2016-06-16",
+                "title": "Finding Dory",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 12360,
+                "character": "Marlin (voice)",
+                "credit_id": "52fe4af8c3a368484e1707af",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fEaZwgkX2k91LJZ5APkaK0aDwg1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 321741,
+                "original_language": "en",
+                "original_title": "Concussion",
+                "overview": "A dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu's emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.",
+                "popularity": 2.574,
+                "poster_path": "/uuRFr7Jhsq7bITDyyvxZrQMAr9e.jpg",
+                "release_date": "2015-11-12",
+                "title": "Concussion",
+                "video": false,
+                "vote_average": 7.082,
+                "vote_count": 2627,
+                "character": "Dr. Cyril Wecht",
+                "credit_id": "54c8851bc3a36879df000c9d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mA7cELWJKHJsQMbwhUgvD4UHoCT.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    14,
+                    10751
+                ],
+                "id": 309809,
+                "original_language": "en",
+                "original_title": "The Little Prince",
+                "overview": "Based on the best-seller book 'The Little Prince', the movie tells the story of a little girl that lives with resignation in a world where efficiency and work are the only dogmas. Everything will change when accidentally she discovers her neighbor that will tell her about the story of the Little Prince that he once met.",
+                "popularity": 6.3305,
+                "poster_path": "/je5Z7gbFTzrs3FPHINo9yGiHoVo.jpg",
+                "release_date": "2015-07-29",
+                "title": "The Little Prince",
+                "video": false,
+                "vote_average": 7.612,
+                "vote_count": 2871,
+                "character": "The Businessman (voice)",
+                "credit_id": "579394c592514156800000ec",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rZXTcmx7mKysaseyWZHs6wzPAcZ.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 11050,
+                "original_language": "en",
+                "original_title": "Terms of Endearment",
+                "overview": "Aurora, a finicky woman, is in search of true love while her daughter faces marital issues. Together, they help each other deal with problems and find reasons to live a joyful life.",
+                "popularity": 2.4942,
+                "poster_path": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+                "release_date": "1983-11-20",
+                "title": "Terms of Endearment",
+                "video": false,
+                "vote_average": 7.116,
+                "vote_count": 787,
+                "character": "Rudyard Greenway (voice)",
+                "credit_id": "5ba7b9cb0e0a2635f302dc95",
+                "order": 34
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "A. Brooks",
+            "\u827e\u4f2f\u7279\u00b7\u5e03\u9b6f\u514b\u65af",
+            "\u0622\u0644\u0628\u0631\u062a \u0628\u0631\u0648\u06a9\u0633"
+        ],
+        "biography": "Albert Brooks (born Albert Lawrence Einstein) is an American actor and filmmaker. He received an Academy Award nomination for Best Supporting Actor for 1987's Broadcast News and was widely praised for his performance as a ruthless Jewish mobster in the 2011 action drama film Drive. Brooks has also played in Taxi Driver (1976), Private Benjamin (1980), Unfaithfully Yours (1984), and My First Mister (2001). He has written, directed, and starred in several comedy films, such as Modern Romance (1981), Lost in America (1985), and Defending Your Life (1991). He is also the author of 2030: The Real Story of What Happens to America (2011).\n\nHis voice acting credits include Marlin in Finding Nemo (2003) and Finding Dory (2016), Tiberius in The Secret Life of Pets (2016), and several one-time characters in The Simpsons, including Hank Scorpio in \"You Only Move Twice\" (1996) and Russ Cargill in The Simpsons Movie (2007).\n\nDescription above from the Wikipedia article Albert Brooks, licensed under CC-BY-SA, full list of contributors on Wikipedia.\u200b",
+        "birthday": "1947-07-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.albertbrooks.com",
+        "id": 13,
+        "imdb_id": "nm0000983",
+        "known_for_department": "Acting",
+        "name": "Albert Brooks",
+        "place_of_birth": "Beverly Hills, California, USA",
+        "popularity": 0.9982,
+        "profile_path": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    }
+}

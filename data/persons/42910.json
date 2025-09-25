@@ -1,0 +1,282 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 537116,
+                "original_language": "en",
+                "original_title": "tick, tick... BOOM!",
+                "overview": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
+                "popularity": 2.7737,
+                "poster_path": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+                "release_date": "2021-11-11",
+                "title": "tick, tick... BOOM!",
+                "video": false,
+                "vote_average": 7.617,
+                "vote_count": 2182,
+                "character": "Aspiring Composers and Lyricists",
+                "credit_id": "6198350967b613002bc2fffb",
+                "order": 72
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.2701,
+                "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.93,
+                "vote_count": 2403,
+                "character": "Emerald City Guard (uncredited)",
+                "credit_id": "67763c535b8f422b6012dee2",
+                "order": 391
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    10751,
+                    10749
+                ],
+                "id": 10530,
+                "original_language": "en",
+                "original_title": "Pocahontas",
+                "overview": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
+                "popularity": 6.946,
+                "poster_path": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+                "release_date": "1995-06-16",
+                "title": "Pocahontas",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 5874,
+                "credit_id": "638ecbdafb834600ccd45ed2",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.2701,
+                "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.93,
+                "vote_count": 2403,
+                "credit_id": "65d92f19b76cbb0189f14a25",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.2701,
+                "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.93,
+                "vote_count": 2403,
+                "credit_id": "65ce8a850c0b38014895556a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kchiiKCtsOg0VoFUpLnu1H98AX.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    18,
+                    10751
+                ],
+                "id": 9837,
+                "original_language": "en",
+                "original_title": "The Prince of Egypt",
+                "overview": "The strong bond between two brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+                "popularity": 6.6557,
+                "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+                "release_date": "1998-12-16",
+                "title": "The Prince of Egypt",
+                "video": false,
+                "vote_average": 7.296,
+                "vote_count": 4134,
+                "credit_id": "590faee7c3a3686519023c6b",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    10751,
+                    10749
+                ],
+                "id": 10530,
+                "original_language": "en",
+                "original_title": "Pocahontas",
+                "overview": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
+                "popularity": 6.946,
+                "poster_path": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+                "release_date": "1995-06-16",
+                "title": "Pocahontas",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 5874,
+                "credit_id": "5bb9deabc3a3682422028172",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/geU7XW9G2n7EqhXsF1v8CvzAbGa.jpg",
+                "genre_ids": [
+                    18,
+                    16,
+                    10751
+                ],
+                "id": 10545,
+                "original_language": "en",
+                "original_title": "The Hunchback of Notre Dame",
+                "overview": "Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.",
+                "popularity": 6.1603,
+                "poster_path": "/hImMgT9B27evYSRmfztqdDtX6qi.jpg",
+                "release_date": "1996-06-21",
+                "title": "The Hunchback of Notre Dame",
+                "video": false,
+                "vote_average": 7.118,
+                "vote_count": 5187,
+                "credit_id": "602f170aed28b9003f4771ef",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.2701,
+                "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.93,
+                "vote_count": 2403,
+                "credit_id": "675afb0bd9d5195fadaa2921",
+                "department": "Writing",
+                "job": "Musical"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.2701,
+                "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.93,
+                "vote_count": 2403,
+                "credit_id": "675afb1accf4df966822f42a",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/geU7XW9G2n7EqhXsF1v8CvzAbGa.jpg",
+                "genre_ids": [
+                    18,
+                    16,
+                    10751
+                ],
+                "id": 10545,
+                "original_language": "en",
+                "original_title": "The Hunchback of Notre Dame",
+                "overview": "Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.",
+                "popularity": 6.1603,
+                "poster_path": "/hImMgT9B27evYSRmfztqdDtX6qi.jpg",
+                "release_date": "1996-06-21",
+                "title": "The Hunchback of Notre Dame",
+                "video": false,
+                "vote_average": 7.118,
+                "vote_count": 5187,
+                "credit_id": "6798254c9ca029099c2b28ce",
+                "department": "Sound",
+                "job": "Songs"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0421\u0442\u0456\u0432\u0435\u043d \u0428\u0432\u0430\u0440\u0446",
+            "Stephen Lawrence Schwartz"
+        ],
+        "biography": "Stephen Schwartz\u00a0(born March 6, 1948) is an American musical theatre composer and lyricist. In a career spanning over five decades, Schwartz has written hit musicals such as Godspell (1971), Pippin (1972), and Wicked (2003). He has contributed lyrics to a number of successful films, including Pocahontas (1995), The Hunchback of Notre Dame (1996), The Prince of Egypt (1998, music and lyrics), Enchanted (2007), and Disenchanted (2022).\n\nSchwartz has earned numerous accolades, including three Grammy Awards, three Academy Awards, and a Golden Globe Award. He has received nominations for six Tony Awards\u00a0and a Laurence Olivier Award. He received the Tony Award's Isabelle Stevenson Award in 2015.\n\nDescription above from the Wikipedia article Stephen Schwartz, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1948-03-06",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 42910,
+        "imdb_id": "nm0777451",
+        "known_for_department": "Writing",
+        "name": "Stephen Schwartz",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.7669,
+        "profile_path": "/qpW74Zt3IpAGArMQigQz0vK0pR0.jpg"
+    }
+}

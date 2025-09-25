@@ -1,0 +1,327 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 10.6267,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.89,
+                "vote_count": 8179,
+                "character": "Jack Driscoll",
+                "credit_id": "52fe422ec3a36847f800a1a7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1XqIhsqnAozznGhxlGdI0GPcCro.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 423,
+                "original_language": "en",
+                "original_title": "The Pianist",
+                "overview": "The true story of pianist W\u0142adys\u0142aw Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a caf\u00e9; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+                "popularity": 8.4545,
+                "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+                "release_date": "2002-09-17",
+                "title": "The Pianist",
+                "video": false,
+                "vote_average": 8.381,
+                "vote_count": 9679,
+                "character": "W\u0142adys\u0142aw 'W\u0142adek' Szpilman",
+                "credit_id": "52fe4241c3a36847f80101af",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 10315,
+                "original_language": "en",
+                "original_title": "Fantastic Mr. Fox",
+                "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+                "popularity": 7.8977,
+                "poster_path": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+                "release_date": "2009-10-14",
+                "title": "Fantastic Mr. Fox",
+                "video": false,
+                "vote_average": 7.814,
+                "vote_count": 5781,
+                "character": "Field Mouse (voice)",
+                "credit_id": "52fe43589251416c7500cbbf",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hKJ513GbmTSmTXJU1uCXclh5Wkh.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    35
+                ],
+                "id": 4538,
+                "original_language": "en",
+                "original_title": "The Darjeeling Limited",
+                "overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
+                "popularity": 6.2759,
+                "poster_path": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+                "release_date": "2007-09-07",
+                "title": "The Darjeeling Limited",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 3734,
+                "character": "Peter",
+                "credit_id": "52fe43c9c3a36847f806fb6f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 8741,
+                "original_language": "en",
+                "original_title": "The Thin Red Line",
+                "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+                "popularity": 5.6938,
+                "poster_path": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+                "release_date": "1998-12-23",
+                "title": "The Thin Red Line",
+                "video": false,
+                "vote_average": 7.447,
+                "vote_count": 3133,
+                "character": "Cpl. Geoffrey Fife",
+                "credit_id": "52fe44b6c3a36847f80a5e43",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rdISVXhHt8F6VZrdLadqUqQGmFc.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    878,
+                    53,
+                    14
+                ],
+                "id": 9667,
+                "original_language": "en",
+                "original_title": "The Jacket",
+                "overview": "A military veteran goes on a journey into the future, where he can foresee his death and is left with questions that could save his life and those he loves.",
+                "popularity": 3.7717,
+                "poster_path": "/mdUKskPTFYxPgbEUfoQryM79wz8.jpg",
+                "release_date": "2005-03-04",
+                "title": "The Jacket",
+                "video": false,
+                "vote_average": 6.869,
+                "vote_count": 1580,
+                "character": "Jack Starks",
+                "credit_id": "52fe4518c3a36847f80bc3a3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 549509,
+                "original_language": "en",
+                "original_title": "The Brutalist",
+                "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
+                "popularity": 8.7308,
+                "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+                "release_date": "2024-12-20",
+                "title": "The Brutalist",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1292,
+                "character": "L\u00e1szl\u00f3 T\u00f3th",
+                "credit_id": "6421b1598d22fc00a9de8b90",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aU6Mj8yFZhOnTpXjobqcwrB4KPP.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 74308,
+                "original_language": "en",
+                "original_title": "Detachment",
+                "overview": "A chronicle of three weeks in the lives of several high school teachers, administrators and students through the eyes of substitute teacher, Henry Barthes. Henry roams from school to school, imparting modes of knowledge, but never staying long enough to form any semblance of sentient attachment.",
+                "popularity": 6.2864,
+                "poster_path": "/23iYUrdUJ70tbNYU81hVhmTuYJ0.jpg",
+                "release_date": "2011-04-24",
+                "title": "Detachment",
+                "video": false,
+                "vote_average": 7.628,
+                "vote_count": 1829,
+                "character": "Henry Barthes",
+                "credit_id": "52fe48c4c3a368484e109eff",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pp3QUzMXfP7q0ocmE1b15FH6PQ6.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    10749
+                ],
+                "id": 868759,
+                "original_language": "en",
+                "original_title": "Ghosted",
+                "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie\u2014but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+                "popularity": 13.6103,
+                "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+                "release_date": "2023-04-18",
+                "title": "Ghosted",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2003,
+                "character": "Leveque",
+                "credit_id": "62041072194186001ba592ed",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sIJTdyF6JFbIz5mENPpeSlCKYyB.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10749
+                ],
+                "id": 59436,
+                "original_language": "en",
+                "original_title": "Midnight in Paris",
+                "overview": "While on a trip to Paris with his fianc\u00e9e's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+                "popularity": 5.7748,
+                "poster_path": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+                "release_date": "2011-05-11",
+                "title": "Midnight in Paris",
+                "video": false,
+                "vote_average": 7.521,
+                "vote_count": 7489,
+                "character": "Salvador Dal\u00ed",
+                "credit_id": "52fe4990c3a36847f81a0bcb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 120467,
+                "original_language": "en",
+                "original_title": "The Grand Budapest Hotel",
+                "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+                "popularity": 10.2456,
+                "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+                "release_date": "2014-02-26",
+                "title": "The Grand Budapest Hotel",
+                "video": false,
+                "vote_average": 8.036,
+                "vote_count": 15411,
+                "character": "Dmitri",
+                "credit_id": "52fe4a47c3a368484e14a789",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 542178,
+                "original_language": "en",
+                "original_title": "The French Dispatch",
+                "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+                "popularity": 4.5113,
+                "poster_path": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+                "release_date": "2021-10-21",
+                "title": "The French Dispatch",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 2781,
+                "character": "Julian Cadazio",
+                "credit_id": "5c38fd35c3a36808584575a0",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/aU6Mj8yFZhOnTpXjobqcwrB4KPP.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 74308,
+                "original_language": "en",
+                "original_title": "Detachment",
+                "overview": "A chronicle of three weeks in the lives of several high school teachers, administrators and students through the eyes of substitute teacher, Henry Barthes. Henry roams from school to school, imparting modes of knowledge, but never staying long enough to form any semblance of sentient attachment.",
+                "popularity": 6.2864,
+                "poster_path": "/23iYUrdUJ70tbNYU81hVhmTuYJ0.jpg",
+                "release_date": "2011-04-24",
+                "title": "Detachment",
+                "video": false,
+                "vote_average": 7.628,
+                "vote_count": 1829,
+                "credit_id": "6215ac5e3679a1006ff80dcd",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Byron Deidra",
+            "Adrien Nicholas Brody",
+            "\u0415\u0434\u0440\u0456\u0454\u043d \u0411\u0440\u043e\u0443\u0434\u0456",
+            "\uc560\ub4dc\ub9ac\uc5b8 \ube0c\ub85c\ub514",
+            "\u042d\u0434\u0440\u0438\u0430\u043d \u0411\u0440\u043e\u0443\u0434\u0438",
+            "\u042d\u0434\u0440\u0438\u0435\u043d \u0411\u0440\u043e\u0443\u0434\u0438",
+            "\u963f\u5fb7\u91cc\u5b89\u00b7\u5e03\u52b3\u8fea",
+            "\u0622\u062f\u0631\u06cc\u0646 \u0628\u0631\u0648\u062f\u06cc"
+        ],
+        "biography": "Adrien Nicholas Brody\u00a0(born April 14, 1973) is an American actor. He is known for his portrayal of\u00a0W\u0142adys\u0142aw Szpilman\u00a0in\u00a0Roman Polanski's war drama\u00a0The Pianist\u00a0(2002), for which he won the\u00a0Academy Award for Best Actor\u00a0at age 29, becoming the\u00a0youngest actor\u00a0to win in that category. He also became the second American male actor to win the\u00a0C\u00e9sar Award for Best Actor for the same film. For his role as a Holocaust survivor who immigrates to the United States in The Brutalist (2024), he won a Golden Globe Award for Best Actor and earned his second Academy Award Nomination and subsequent win for Best Actor.\n\nBrody has also starred in\u00a0The Thin Red Line(1998),\u00a0The Village\u00a0(2004),\u00a0King Kong\u00a0(2005),\u00a0Hollywoodland\u00a0(2006),\u00a0Cadillac Records\u00a0(2008),\u00a0Predators\u00a0(2010), and\u00a0See How They Run(2022). He has frequently collaborated with filmmaker\u00a0Wes Anderson, appearing in his films\u00a0The Darjeeling Limited\u00a0(2007),\u00a0Fantastic Mr. Fox(2009),\u00a0The Grand Budapest Hotel\u00a0(2014),\u00a0The French Dispatch\u00a0(2021), and\u00a0Asteroid City(2023). He portrayed\u00a0Salvador Dal\u00ed\u00a0in\u00a0Woody Allen's\u00a0Midnight in Paris\u00a0(2011) and\u00a0Arthur Miller in\u00a0Andrew Dominik's\u00a0Blonde\u00a0(2022).\n\nOn television, he has played\u00a0Luca Changretta\u00a0in the fourth season of the\u00a0BBC\u00a0series\u00a0Peaky Blinders\u00a0(2017) and\u00a0Pat Riley\u00a0in the\u00a0HBO\u00a0sports drama series\u00a0Winning Time: The Rise of the Lakers Dynasty\u00a0(2022\u20132023). He earned\u00a0Primetime Emmy Award\u00a0nominations for his roles as\u00a0Harry Houdini\u00a0in the\u00a0History Channel\u00a0miniseries\u00a0Houdini\u00a0(2014), and investor Josh Aaronson in the\u00a0HBO\u00a0series\u00a0Succession\u00a0(2021).\n\nDescription above from the Wikipedia article Adrien Brody, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1973-04-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3490,
+        "imdb_id": "nm0004778",
+        "known_for_department": "Acting",
+        "name": "Adrien Brody",
+        "place_of_birth": "Woodhaven, Queens, New York City, New York, USA",
+        "popularity": 1.6164,
+        "profile_path": "/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+    }
+}

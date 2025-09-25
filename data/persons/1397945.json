@@ -1,0 +1,88 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14,
+                "original_language": "en",
+                "original_title": "American Beauty",
+                "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+                "popularity": 9.2546,
+                "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+                "release_date": "1999-09-15",
+                "title": "American Beauty",
+                "video": false,
+                "vote_average": 8.005,
+                "vote_count": 12548,
+                "character": "Sale House Woman #4",
+                "credit_id": "55c23fc1c3a36842dd000190",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AIVsBK1BSPzh6FKxnHbKCQQmBo.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 239563,
+                "original_language": "en",
+                "original_title": "St. Vincent",
+                "overview": "A young boy whose parents just divorced finds an unlikely friend and mentor in the misanthropic, bawdy, hedonistic, war veteran who lives next door.",
+                "popularity": 4.2034,
+                "poster_path": "/1bb7MTHCIPhpKZFysDpxNaNrdMk.jpg",
+                "release_date": "2014-10-09",
+                "title": "St. Vincent",
+                "video": false,
+                "vote_average": 7.117,
+                "vote_count": 1968,
+                "character": "Judge Reynolds",
+                "credit_id": "58a8cb429251410a3900306b",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nu9Hff7spK8K2UMu6y838zBZXFY.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    53
+                ],
+                "id": 157370,
+                "original_language": "en",
+                "original_title": "Kill Your Darlings",
+                "overview": "A murder in 1944 draws together the great poets of the beat generation: Allen Ginsberg, Jack Kerouac and William Burroughs.",
+                "popularity": 3.4008,
+                "poster_path": "/wYM8VUTh0y6ugSmza1c2MJWCMfO.jpg",
+                "release_date": "2013-10-16",
+                "title": "Kill Your Darlings",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1376,
+                "character": "Permissions Librarian",
+                "credit_id": "59119f76c3a36864fc041d55",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1946-06-28",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1397945,
+        "imdb_id": "nm0917570",
+        "known_for_department": "Acting",
+        "name": "Brenda Wehle",
+        "place_of_birth": "Washington, District of Columbia, USA",
+        "popularity": 0.1993,
+        "profile_path": "/5FJ3UH6sqQrSVdwtewv8SDXYGKs.jpg"
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 120,
+                "original_language": "en",
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+                "popularity": 27.0563,
+                "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+                "release_date": "2001-12-18",
+                "title": "The Lord of the Rings: The Fellowship of the Ring",
+                "video": false,
+                "vote_average": 8.425,
+                "vote_count": 26375,
+                "character": "Boromir",
+                "credit_id": "52fe421ac3a36847f80044a7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 122,
+                "original_language": "en",
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+                "popularity": 23.019,
+                "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+                "release_date": "2003-12-17",
+                "title": "The Lord of the Rings: The Return of the King",
+                "video": false,
+                "vote_average": 8.489,
+                "vote_count": 25451,
+                "character": "Boromir",
+                "credit_id": "52fe421bc3a36847f80047a9",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    36
+                ],
+                "id": 652,
+                "original_language": "en",
+                "original_title": "Troy",
+                "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+                "popularity": 17.2139,
+                "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+                "release_date": "2004-05-13",
+                "title": "Troy",
+                "video": false,
+                "vote_average": 7.165,
+                "vote_count": 10604,
+                "character": "Odysseus",
+                "credit_id": "52fe4264c3a36847f801b093",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vm7yMg7YiYisMSeO3mUC5NUKbSB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 710,
+                "original_language": "en",
+                "original_title": "GoldenEye",
+                "overview": "When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Agent 006, a former ally-turned-enemy, only James Bond can save the world from a dangerous space weapon that -- in one short pulse -- could destroy the earth! As Bond squares off against his former compatriot, he also battles Xenia Onatopp, an assassin who uses pleasure as her ultimate weapon.",
+                "popularity": 5.1893,
+                "poster_path": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+                "release_date": "1995-11-16",
+                "title": "GoldenEye",
+                "video": false,
+                "vote_average": 6.895,
+                "vote_count": 4093,
+                "character": "Alec Trevelyan",
+                "credit_id": "52fe426ec3a36847f801e111",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/huZZBPyYUnMPCnrAFyJhnwYsQx9.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    53
+                ],
+                "id": 7299,
+                "original_language": "en",
+                "original_title": "Equilibrium",
+                "overview": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
+                "popularity": 8.5699,
+                "poster_path": "/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg",
+                "release_date": "2002-12-06",
+                "title": "Equilibrium",
+                "video": false,
+                "vote_average": 7.045,
+                "vote_count": 4743,
+                "character": "Errol Partridge",
+                "credit_id": "52fe4478c3a36847f8097ef9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/h6UcOYmiwliqG2a0hHqvPsA4n4C.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 8195,
+                "original_language": "en",
+                "original_title": "Ronin",
+                "overview": "A briefcase with undisclosed contents \u2013 sought by Irish terrorists and the Russian mob \u2013 makes its way into criminals' hands. An Irish liaison assembles a squad of mercenaries, or 'ronin', and gives them the thorny task of recovering the case.",
+                "popularity": 4.2355,
+                "poster_path": "/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg",
+                "release_date": "1998-09-25",
+                "title": "Ronin",
+                "video": false,
+                "vote_average": 6.961,
+                "vote_count": 2490,
+                "character": "Spence",
+                "credit_id": "52fe4494c3a36847f809e327",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6rgiRuLHn65d3qalkc7YjrtmDQW.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9701,
+                "original_language": "en",
+                "original_title": "North Country",
+                "overview": "A fictionalized account of the first major successful sexual harassment case in the United States \u2014 Jenson vs. Eveleth Mines, where a woman who endured a range of abuse while working as a miner filed and won the landmark 1984 lawsuit.",
+                "popularity": 2.563,
+                "poster_path": "/upxUN4zmX79o49mBW9htKZDeNq7.jpg",
+                "release_date": "2005-02-12",
+                "title": "North Country",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 691,
+                "character": "Kyle",
+                "credit_id": "52fe451ec3a36847f80bd80b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    878
+                ],
+                "id": 286217,
+                "original_language": "en",
+                "original_title": "The Martian",
+                "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+                "popularity": 11.4475,
+                "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Martian",
+                "video": false,
+                "vote_average": 7.689,
+                "vote_count": 20425,
+                "character": "Mitch Henderson",
+                "credit_id": "54a7feb3c3a3680c33001977",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14
+                ],
+                "id": 441130,
+                "original_language": "en",
+                "original_title": "Wolfwalkers",
+                "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+                "popularity": 3.8118,
+                "poster_path": "/ehAKuE48okTuonq6TpsNQj8vFTC.jpg",
+                "release_date": "2020-10-26",
+                "title": "Wolfwalkers",
+                "video": false,
+                "vote_average": 8.214,
+                "vote_count": 1292,
+                "character": "Robyn's Father, Bill Goodfellowe (voice)",
+                "credit_id": "5f5765551d78f200359bcd6e",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mshaKLtPUxcDBhzau6qiObEblhL.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 121,
+                "original_language": "en",
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+                "popularity": 17.4636,
+                "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+                "release_date": "2002-12-18",
+                "title": "The Lord of the Rings: The Two Towers",
+                "video": false,
+                "vote_average": 8.409,
+                "vote_count": 22912,
+                "character": "Boromir (Extended Cut)",
+                "credit_id": "68bf3c98d30329dff68cf988",
+                "order": 104
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Shaun Mark Bean",
+            "\uc200 \ube48",
+            "\u897f\u6069\u00b7\u8cd3",
+            "\u8096\u6069\u00b7\u6bd4\u6069",
+            "\u0634\u0627\u0646 \u0628\u06cc\u0646"
+        ],
+        "biography": "Shaun Mark Bean is an English actor. After graduating from the Royal Academy of Dramatic Art, Bean made his professional debut in a theatre production of Romeo and Juliet in 1983. Retaining his Yorkshire accent, he first found mainstream success for his portrayal of Richard Sharpe in the ITV series Sharpe, which originally ran from 1993 to 1997.\n\nBean's film roles include Patriot Games (1992), GoldenEye (1995), Ronin (1998), Don't Say a Word (2001), The Lord of the Rings trilogy (2001\u20132003), Equilibrium (2002), National Treasure (2004), Troy (2004), Flightplan (2005), North Country (2005), The Island (2005), Silent Hill (2006), Percy Jackson & the Olympians: The Lightning Thief (2010), Black Death (2010), Jupiter Ascending (2015), and The Martian (2015).\n\nHis television roles include the BBC anthology series Accused, Broken, Game of Thrones, and the ITV historical drama series Henry VIII and Legends. As a voice actor, Bean has been featured in the video games The Elder Scrolls IV: Oblivion, Sid Meier's Civilization VI, and the feature films Wolfwalkers and Mummies among others. Bean has also been the main voice over for O2 and their adverts for over 20 years having originally taken the job in 2002.\n\nIn 2022, Bean won the British Academy Television Award as Leading Actor in Time, a BBC One drama.",
+        "birthday": "1959-04-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 48,
+        "imdb_id": "nm0000293",
+        "known_for_department": "Acting",
+        "name": "Sean Bean",
+        "place_of_birth": "Sheffield, South Yorkshire, England, UK",
+        "popularity": 2.9015,
+        "profile_path": "/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    }
+}

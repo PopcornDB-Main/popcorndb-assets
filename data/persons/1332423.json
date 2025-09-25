@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7tWktnLQ81G8pHUkhuTebcTkcB3.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    18
+                ],
+                "id": 421,
+                "original_language": "en",
+                "original_title": "The Life Aquatic with Steve Zissou",
+                "overview": "Renowned oceanographer Steve Zissou has sworn vengeance upon the rare shark that devoured a member of his crew. In addition to his regular team, he is joined on his boat by Ned, a man who believes Zissou to be his father, and Jane, a journalist pregnant by a married man. They travel the sea, all too often running into pirates and, perhaps more traumatically, various figures from Zissou's past, including his estranged wife, Eleanor.",
+                "popularity": 3.1469,
+                "poster_path": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+                "release_date": "2004-12-10",
+                "title": "The Life Aquatic with Steve Zissou",
+                "video": false,
+                "vote_average": 7.077,
+                "vote_count": 3018,
+                "character": "Festival Photographer",
+                "credit_id": "61711cedbf09d1006440cc0b",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 10315,
+                "original_language": "en",
+                "original_title": "Fantastic Mr. Fox",
+                "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+                "popularity": 7.8977,
+                "poster_path": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+                "release_date": "2009-10-14",
+                "title": "Fantastic Mr. Fox",
+                "video": false,
+                "vote_average": 7.814,
+                "vote_count": 5781,
+                "character": "Mole (voice)",
+                "credit_id": "53a4d061c3a3687a310004e3",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10707,
+                "original_language": "en",
+                "original_title": "The Squid and the Whale",
+                "overview": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+                "popularity": 8.0392,
+                "poster_path": "/h4FMTKrWgwSUQTSbMnSA4ECKzl2.jpg",
+                "release_date": "2005-10-05",
+                "title": "The Squid and the Whale",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1020,
+                "character": "Man with Joan",
+                "credit_id": "58e066cbc3a3683d0b01162a",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10707,
+                "original_language": "en",
+                "original_title": "The Squid and the Whale",
+                "overview": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+                "popularity": 8.0392,
+                "poster_path": "/h4FMTKrWgwSUQTSbMnSA4ECKzl2.jpg",
+                "release_date": "2005-10-05",
+                "title": "The Squid and the Whale",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1020,
+                "credit_id": "564e4c3bc3a36807080009db",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 9428,
+                "original_language": "en",
+                "original_title": "The Royal Tenenbaums",
+                "overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+                "popularity": 4.3624,
+                "poster_path": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+                "release_date": "2001-10-05",
+                "title": "The Royal Tenenbaums",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 4744,
+                "credit_id": "56928098c3a3684d01002488",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hKJ513GbmTSmTXJU1uCXclh5Wkh.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    35
+                ],
+                "id": 4538,
+                "original_language": "en",
+                "original_title": "The Darjeeling Limited",
+                "overview": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
+                "popularity": 6.2759,
+                "poster_path": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+                "release_date": "2007-09-07",
+                "title": "The Darjeeling Limited",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 3734,
+                "credit_id": "66404264b3fd28ce22c0c44d",
+                "department": "Camera",
+                "job": "Still Photographer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1332423,
+        "imdb_id": "nm1471238",
+        "known_for_department": "Acting",
+        "name": "James Hamilton",
+        "place_of_birth": null,
+        "popularity": 0.0982,
+        "profile_path": null
+    }
+}

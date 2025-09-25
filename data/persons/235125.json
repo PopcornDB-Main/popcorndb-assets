@@ -1,0 +1,164 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/crdW75sDNYM0ddjFyrcg6V59qdP.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 132344,
+                "original_language": "en",
+                "original_title": "Before Midnight",
+                "overview": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. They now live in Paris with twin daughters but have spent a summer in Greece at the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
+                "popularity": 2.3665,
+                "poster_path": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+                "release_date": "2013-04-05",
+                "title": "Before Midnight",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 2536,
+                "character": "Anna",
+                "credit_id": "52fe4b91c3a368484e18f6ab",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2wiMb1RBskEW9Uml5bGDEUHFbv8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 254320,
+                "original_language": "en",
+                "original_title": "The Lobster",
+                "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+                "popularity": 4.9016,
+                "poster_path": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+                "release_date": "2015-10-15",
+                "title": "The Lobster",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 6546,
+                "character": "The Maid",
+                "credit_id": "5548ddbfc3a368787e002289",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 549509,
+                "original_language": "en",
+                "original_title": "The Brutalist",
+                "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
+                "popularity": 6.6624,
+                "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+                "release_date": "2024-12-20",
+                "title": "The Brutalist",
+                "video": false,
+                "vote_average": 6.981,
+                "vote_count": 1294,
+                "character": "Older Zs\u00f3fia",
+                "credit_id": "66d63a847dddc48ba99b8a91",
+                "order": 8
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2wiMb1RBskEW9Uml5bGDEUHFbv8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 254320,
+                "original_language": "en",
+                "original_title": "The Lobster",
+                "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+                "popularity": 4.9016,
+                "poster_path": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+                "release_date": "2015-10-15",
+                "title": "The Lobster",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 6546,
+                "credit_id": "62e47b964f9a9900652ea03c",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "genre_ids": [
+                    36,
+                    35,
+                    18
+                ],
+                "id": 375262,
+                "original_language": "en",
+                "original_title": "The Favourite",
+                "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+                "popularity": 6.1815,
+                "poster_path": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+                "release_date": "2018-11-23",
+                "title": "The Favourite",
+                "video": false,
+                "vote_average": 7.504,
+                "vote_count": 5681,
+                "credit_id": "62e47b9e4f9a99006d34915a",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kJwQXgAk440l2vZOspUJee6inim.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 399057,
+                "original_language": "en",
+                "original_title": "The Killing of a Sacred Deer",
+                "overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+                "popularity": 3.9569,
+                "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+                "release_date": "2017-10-20",
+                "title": "The Killing of a Sacred Deer",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 4235,
+                "credit_id": "62e47ba25b124000619a3591",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc544\ub9ac\uc548 \ub77c\ubca0\ub4dc",
+            "\u05d0\u05e8\u05d9\u05d0\u05df \u05dc\u05d0\u05d1\u05d3",
+            "\u0391\u03c1\u03b9\u03ac\u03bd \u039b\u03b1\u03bc\u03c0\u03ad\u03bd\u03c4"
+        ],
+        "biography": "Ariane Labed (born May 8, 1984) is a Greek-born French actress and film director. She is best known for her feature film debut in Attenberg, for which she won the Volpi Cup for Best Actress.\n\nBorn to French parents, Ariane Labed lived her first six years in Athens, then six years in Germany. She arrived in France at 12 years old. Ariane studied at Provence University, (Deust Basic training in theater, Bachelor of Performing Arts and Master Dramaturgy and scenic writing). where she co-founded the Vasistas theatre company with Argyro Chioti and went on stage with the National Theater of Greece.\n\nShe made her acting debut in Attenberg, a feature film directed by Athina Rachel Tsangari, for which she was awarded the Volpi cup for best actress at the Venice Film Festival. Ariane went on to feature in a range of French and international projects including Richard Linklater\u2019s Before Midnight, Alice\u2019s Journey by Lucie Borleteau (for which she won Best Actress at the Locarno Festival and was nominated for a C\u00e9sar award), The Lobster by Y\u00f3rgos L\u00e1nthimos (winner of the Jury Prize at the Cannes Film Festival) and Assassin's Creed by Justin Kurzel (co-starring Marion Cotillard and Michael Fassbender). Ariane most recently played the lead role in \"Trigonometry\", a series for the BBC.  Ariane wrote and directed her first short film \"OLLA\" presented at the Directors' Fortnight at the Cannes Film Festival 2019 and selected in numerous festivals around the world including Telluride, the BFI London Film Festival and Sundance. \u201cOLLA\u201d won the Louis le Prince International Short Film award at the Leeds Film Festival in 2019, as well as 3 awards at the Clermont-Ferrand International Short Film Festival in 2020 including the National Grand Prix prize.",
+        "birthday": "1984-05-06",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 235125,
+        "imdb_id": "nm3987673",
+        "known_for_department": "Acting",
+        "name": "Ariane Labed",
+        "place_of_birth": "Athens, Greece",
+        "popularity": 0.8775,
+        "profile_path": "/78QyAml6N1HMuHudmrVlKnJfSQY.jpg"
+    }
+}

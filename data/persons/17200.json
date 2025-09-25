@@ -1,0 +1,143 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 1726,
+                "original_language": "en",
+                "original_title": "Iron Man",
+                "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+                "popularity": 17.4542,
+                "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+                "release_date": "2008-04-30",
+                "title": "Iron Man",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 27317,
+                "character": "General Gabriel",
+                "credit_id": "52fe4311c3a36847f8037f0f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDu3nkdjzkJ9loy3QyppGcLjaI7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11321,
+                "original_language": "en",
+                "original_title": "Seven Pounds",
+                "overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+                "popularity": 4.1403,
+                "poster_path": "/85zUipgVy2QbvAJ6djZXYaGckMv.jpg",
+                "release_date": "2008-12-18",
+                "title": "Seven Pounds",
+                "video": false,
+                "vote_average": 7.606,
+                "vote_count": 6977,
+                "character": "George Ristuccia",
+                "credit_id": "52fe44259251416c7502a69d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    53
+                ],
+                "id": 11454,
+                "original_language": "en",
+                "original_title": "Manhunter",
+                "overview": "FBI Agent Will Graham, who retired after catching Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+                "popularity": 0.2123,
+                "poster_path": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+                "release_date": "1986-08-14",
+                "title": "Manhunter",
+                "video": false,
+                "vote_average": 7.017,
+                "vote_count": 1437,
+                "character": "Lloyd Bowman",
+                "credit_id": "58cdf31c9251415a45015597",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pR3v192B20nFtsHY1jZQS4AkN0a.jpg",
+                "genre_ids": [
+                    36,
+                    53
+                ],
+                "id": 11973,
+                "original_language": "en",
+                "original_title": "Thirteen Days",
+                "overview": "The story of the Cuban Missile Crisis in 1962\u2014the nuclear standoff with the USSR sparked by the discovery by the Americans of missile bases established on the Soviet-allied island of Cuba.",
+                "popularity": 4.5108,
+                "poster_path": "/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
+                "release_date": "2000-12-25",
+                "title": "Thirteen Days",
+                "video": false,
+                "vote_average": 7.002,
+                "vote_count": 786,
+                "character": "Gen. Maxwell Taylor",
+                "credit_id": "5b61ff51c3a368188601feb2",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 602,
+                "original_language": "en",
+                "original_title": "Independence Day",
+                "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+                "popularity": 9.2492,
+                "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+                "release_date": "1996-06-25",
+                "title": "Independence Day",
+                "video": false,
+                "vote_average": 6.896,
+                "vote_count": 9961,
+                "character": "Captain Watson",
+                "credit_id": "5ea4713e5a4690001d10d041",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " William Smitrovich ",
+            "Bill Smitrovitch",
+            "\u0411\u0438\u043b\u043b \u0421\u043c\u0438\u0442\u0440\u043e\u0432\u0438\u0447",
+            "\u0423\u0438\u043b\u044c\u044f\u043c \u0421\u0442\u044d\u043d\u043b\u0438 \u0417\u043c\u0438\u0442\u0440\u043e\u0432\u0438\u0447",
+            "\u0423\u0438\u043b\u044c\u044f\u043c \u0417\u043c\u0438\u0442\u0440\u043e\u0432\u0438\u0447",
+            "William Stanley Zmitrowicz Jr.",
+            "William Zmitrowicz"
+        ],
+        "biography": "William Stanley Zmitrowicz Jr. (born May 16, 1947), known professionally as Bill Smitrovich, is an American actor.",
+        "birthday": "1947-05-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 17200,
+        "imdb_id": "nm0810488",
+        "known_for_department": "Acting",
+        "name": "Bill Smitrovich",
+        "place_of_birth": "Bridgeport, Connecticut, USA",
+        "popularity": 1.5386,
+        "profile_path": "/yzZUYnAdX0MMA8eZMTVsXufRCfU.jpg"
+    }
+}

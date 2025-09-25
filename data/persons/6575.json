@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 278,
+                "original_language": "en",
+                "original_title": "The Shawshank Redemption",
+                "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                "popularity": 28.9882,
+                "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                "release_date": "1994-09-23",
+                "title": "The Shawshank Redemption",
+                "video": false,
+                "vote_average": 8.7,
+                "vote_count": 28883,
+                "character": "Tommy",
+                "credit_id": "52fe4231c3a36847f800b145",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/aCURY1tNUkvrNnjw5qYJXTUp7z.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 33602,
+                "original_language": "en",
+                "original_title": "Temple Grandin",
+                "overview": "A biopic of Temple Grandin, an autistic American who has become one of the leading scientists in humane livestock handling.",
+                "popularity": 3.1188,
+                "poster_path": "/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+                "release_date": "2010-02-06",
+                "title": "Temple Grandin",
+                "video": false,
+                "vote_average": 7.83,
+                "vote_count": 511,
+                "credit_id": "52fe45279251416c9102952b",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Gill Bellows ",
+            "\u06af\u06cc\u0644 \u0628\u06cc\u0644\u0627\u0632"
+        ],
+        "biography": "Gil Bellows (born June 28, 1967) is a Canadian film and television actor. He is best known for the roles of Tommy Williams in The Shawshank Redemption, Billy Thomas in the television series Ally McBeal and as CIA agent Matt Callan in the television series The Agency.",
+        "birthday": "1967-06-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 6575,
+        "imdb_id": "nm0004743",
+        "known_for_department": "Acting",
+        "name": "Gil Bellows",
+        "place_of_birth": "Vancouver, British Columbia, Canada",
+        "popularity": 1.5225,
+        "profile_path": "/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+    }
+}

@@ -1,0 +1,386 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cAZ87S5bONxKMMAlPxK8LZvdOcm.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 345,
+                "original_language": "en",
+                "original_title": "Eyes Wide Shut",
+                "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+                "popularity": 9.6515,
+                "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+                "release_date": "1999-07-16",
+                "title": "Eyes Wide Shut",
+                "video": false,
+                "vote_average": 7.483,
+                "vote_count": 6575,
+                "character": "Alice Harford",
+                "credit_id": "52fe423ac3a36847f800df1f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 553,
+                "original_language": "en",
+                "original_title": "Dogville",
+                "overview": "A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town, she learns that their support has a price.",
+                "popularity": 5.4827,
+                "poster_path": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+                "release_date": "2003-05-21",
+                "title": "Dogville",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 2542,
+                "character": "Grace Margaret Mulligan",
+                "credit_id": "52fe4251c3a36847f8014c93",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 590,
+                "original_language": "en",
+                "original_title": "The Hours",
+                "overview": "The story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.",
+                "popularity": 4.221,
+                "poster_path": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+                "release_date": "2002-12-27",
+                "title": "The Hours",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 1801,
+                "character": "Virginia Woolf",
+                "credit_id": "52fe4258c3a36847f80172a1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 824,
+                "original_language": "en",
+                "original_title": "Moulin Rouge!",
+                "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+                "popularity": 3.8017,
+                "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+                "release_date": "2001-05-18",
+                "title": "Moulin Rouge!",
+                "video": false,
+                "vote_average": 7.546,
+                "vote_count": 4665,
+                "character": "Satine",
+                "credit_id": "52fe427cc3a36847f8022779",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    12,
+                    10749
+                ],
+                "id": 2289,
+                "original_language": "en",
+                "original_title": "Cold Mountain",
+                "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+                "popularity": 7.2553,
+                "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+                "release_date": "2003-12-24",
+                "title": "Cold Mountain",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1859,
+                "character": "Ada Monroe",
+                "credit_id": "52fe434ac3a36847f804902b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/88sRqoxHPS9wnIKqryjUqm60sN6.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    53
+                ],
+                "id": 1933,
+                "original_language": "en",
+                "original_title": "The Others",
+                "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+                "popularity": 6.6104,
+                "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+                "release_date": "2001-08-02",
+                "title": "The Others",
+                "video": false,
+                "vote_average": 7.616,
+                "vote_count": 6827,
+                "character": "Grace Stewart",
+                "credit_id": "52fe4323c3a36847f803d343",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    10751
+                ],
+                "id": 116149,
+                "original_language": "en",
+                "original_title": "Paddington",
+                "overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+                "popularity": 5.8908,
+                "poster_path": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+                "release_date": "2014-11-24",
+                "title": "Paddington",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 3984,
+                "character": "Millicent",
+                "credit_id": "52fe4b85c3a36847f8207bfd",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ycABRSIK1Ff10Tc2A6WJHagp1Co.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334543,
+                "original_language": "en",
+                "original_title": "Lion",
+                "overview": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+                "popularity": 3.7125,
+                "poster_path": "/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
+                "release_date": "2016-11-24",
+                "title": "Lion",
+                "video": false,
+                "vote_average": 8.043,
+                "vote_count": 6759,
+                "character": "Sue Brierley",
+                "credit_id": "5521bd5bc3a3684dd400462b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kJwQXgAk440l2vZOspUJee6inim.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 399057,
+                "original_language": "en",
+                "original_title": "The Killing of a Sacred Deer",
+                "overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+                "popularity": 3.3199,
+                "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+                "release_date": "2017-10-20",
+                "title": "The Killing of a Sacred Deer",
+                "video": false,
+                "vote_average": 7.014,
+                "vote_count": 4235,
+                "character": "Anna Murphy",
+                "credit_id": "57eb62309251410c5b0024d6",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ct2I74zKDrK1Ts2jJa9WixJrigg.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 440472,
+                "original_language": "en",
+                "original_title": "The Upside",
+                "overview": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
+                "popularity": 6.9771,
+                "poster_path": "/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+                "release_date": "2019-01-10",
+                "title": "The Upside",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1333,
+                "character": "Yvonne Pendleton",
+                "credit_id": "589b576dc3a3680c6e0002d0",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qkOw5IZXESOiRH4wzdIYJlBZiCp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297802,
+                "original_language": "en",
+                "original_title": "Aquaman",
+                "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+                "popularity": 11.1121,
+                "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+                "release_date": "2018-12-07",
+                "title": "Aquaman",
+                "video": false,
+                "vote_average": 6.874,
+                "vote_count": 14477,
+                "character": "Atlanna",
+                "credit_id": "58910b7592514103e800b85c",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ePViXIOnifrugvnjlFxzmvjwKL.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 472451,
+                "original_language": "en",
+                "original_title": "Boy Erased",
+                "overview": "Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program \u2013 or be permanently exiled and shunned by his family, friends, and faith.",
+                "popularity": 3.3014,
+                "poster_path": "/oZbhTdi0ZQY7iiSQ0L7h3ya6NDF.jpg",
+                "release_date": "2018-09-24",
+                "title": "Boy Erased",
+                "video": false,
+                "vote_average": 7.009,
+                "vote_count": 1447,
+                "character": "Nancy Eamons",
+                "credit_id": "599f63ec9251417793002a0a",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lXSJETt0cbiemixfHuBpopAg8pT.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 472674,
+                "original_language": "en",
+                "original_title": "The Goldfinch",
+                "overview": "A boy in New York is taken in by a wealthy family after his mother is killed in a bombing at the Metropolitan Museum of Art. In a rush of panic, he steals 'The Goldfinch', a painting that eventually draws him into a world of crime.",
+                "popularity": 4.1737,
+                "poster_path": "/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg",
+                "release_date": "2019-09-12",
+                "title": "The Goldfinch",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 904,
+                "character": "Samantha Barbour",
+                "credit_id": "5a73b2650e0a26643901543f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qZYvF1M7y8Gfp4S6OBHbYfB0Lgc.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 639933,
+                "original_language": "en",
+                "original_title": "The Northman",
+                "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+                "popularity": 8.4379,
+                "poster_path": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+                "release_date": "2022-04-07",
+                "title": "The Northman",
+                "video": false,
+                "vote_average": 7.036,
+                "vote_count": 4702,
+                "character": "Queen Gudr\u00fan",
+                "credit_id": "5e53ef8235811d00175ad156",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14,
+                "original_language": "en",
+                "original_title": "American Beauty",
+                "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+                "popularity": 9.4643,
+                "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+                "release_date": "1999-09-15",
+                "title": "American Beauty",
+                "video": false,
+                "vote_average": 8.005,
+                "vote_count": 12548,
+                "credit_id": "57506835c3a36840c6001223",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    80,
+                    53
+                ],
+                "id": 398173,
+                "original_language": "en",
+                "original_title": "The House That Jack Built",
+                "overview": "Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.",
+                "popularity": 7.695,
+                "poster_path": "/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+                "release_date": "2018-07-05",
+                "title": "The House That Jack Built",
+                "video": false,
+                "vote_average": 7.129,
+                "vote_count": 2914,
+                "credit_id": "6036f94de627190040287d53",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Nicole Hokulani",
+            "\u0646\u06cc\u06a9\u0648\u0644 \u06a9\u06cc\u062f\u0645\u0646"
+        ],
+        "biography": "Nicole Mary Kidman\u00a0is an Australian and American actress and producer. Known for\u00a0her work\u00a0in film and television productions across many genres, she has consistently ranked among the world's highest-paid actresses since the late 1990s.\u00a0Her accolades\u00a0include an\u00a0Academy Award, a\u00a0British Academy Film Award, a\u00a0Volpi Cup, two\u00a0Primetime Emmy Awards, and six\u00a0Golden Globe Awards. She became the first Australian actor to receive the\u00a0AFI Life Achievement Award\u00a0honour in 2024.\n\nKidman began her career in Australia with the 1983 films\u00a0Bush Christmas\u00a0and\u00a0BMX Bandits.\u00a0Her breakthrough came with lead roles in\u00a0Dead Calm\u00a0and the miniseries\u00a0Bangkok Hilton\u00a0(1989). She came to international prominence with a supporting role in\u00a0Days of Thunder\u00a0(1990), followed by leading roles in\u00a0Far and Away\u00a0(1992),\u00a0To Die For\u00a0(1995),\u00a0Batman Forever\u00a0(1995),\u00a0Practical Magic\u00a0(1998), and\u00a0Eyes Wide Shut(1999). She won the\u00a0Academy Award for Best Actress\u00a0for her portrayal of\u00a0Virginia Woolf\u00a0in the drama\u00a0The Hours\u00a0(2002). She was Oscar-nominated for her roles in\u00a0Moulin Rouge!\u00a0(2001),\u00a0Rabbit Hole\u00a0(2010),\u00a0Lion\u00a0(2016), and\u00a0Being the Ricardos\u00a0(2021). She has acted in mainstream films such as\u00a0The Others\u00a0(2001),\u00a0Cold Mountain\u00a0(2003),\u00a0The Golden Compass\u00a0(2007),\u00a0Australia\u00a0(2008),\u00a0Paddington\u00a0(2014),\u00a0Aquaman\u00a0(2018), and\u00a0Bombshell\u00a0(2019) as well as independent films with dark and tragic themes such as\u00a0Dogville\u00a0(2003),\u00a0Birth\u00a0(2004),\u00a0Margot at the Wedding\u00a0(2007),\u00a0Stoker\u00a0(2013),\u00a0The Killing of a Sacred Deer\u00a0(2017),\u00a0The Beguiled\u00a0(2017),\u00a0The Northman\u00a0(2022), and\u00a0Babygirl\u00a0(2024).\n\nKidman's television roles include\u00a0Hemingway & Gellhorn\u00a0(2012),\u00a0Top of the Lake: China Girl\u00a0(2017),\u00a0The Undoing\u00a0(2020),\u00a0Nine Perfect Strangers\u00a0(2021),\u00a0Special Ops: Lioness\u00a0(2023),\u00a0Expats\u00a0(2024) and\u00a0The Perfect Couple\u00a0(2024). For the\u00a0HBO\u00a0series\u00a0Big Little Lies\u00a0(2017\u20132019), she received Primetime Emmy Awards for\u00a0Outstanding Lead Actress\u00a0and\u00a0Outstanding Limited Series\u00a0as executive producer.\n\nKidman has been a\u00a0goodwill ambassador\u00a0for\u00a0UNICEF\u00a0since 1994 and\u00a0UNIFEM since 2006. She was appointed Companion of the\u00a0Order of Australia\u00a0in 2006. Kidman was married to actor\u00a0Tom Cruise\u00a0from 1990 to 2001 and has been married to\u00a0country music\u00a0singer\u00a0Keith Urban\u00a0since 2006. In 2010, she founded the production company\u00a0Blossom Films. In 2004 and 2018,\u00a0Time\u00a0included her on its list of the\u00a0100 most influential people in the world, and in 2020,\u00a0The New York Times\u00a0named her one of the greatest actors of the 21st century.",
+        "birthday": "1967-06-20",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "https://nicolekidmanofficial.com/",
+        "id": 2227,
+        "imdb_id": "nm0000173",
+        "known_for_department": "Acting",
+        "name": "Nicole Kidman",
+        "place_of_birth": "Honolulu, Hawaii, USA",
+        "popularity": 4.4228,
+        "profile_path": "/6HPtgxF8RBFiGJSkvc4TZGERNXN.jpg"
+    }
+}

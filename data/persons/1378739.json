@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10435,
+                "original_language": "en",
+                "original_title": "Chaplin",
+                "overview": "An aged Charlie Chaplin narrates his life to his autobiography's editor, including his rise to wealth and comedic fame from poverty, his turbulent personal life and his run-ins with the FBI.",
+                "popularity": 2.9824,
+                "poster_path": "/Aeltt5tl02zrEj4GoMynHc94lWG.jpg",
+                "release_date": "1992-12-17",
+                "title": "Chaplin",
+                "video": false,
+                "vote_average": 7.438,
+                "vote_count": 1131,
+                "character": "Sound Engineer",
+                "credit_id": "642d4c62158c8501031f71b4",
+                "order": 109
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 10673,
+                "original_language": "en",
+                "original_title": "Wall Street",
+                "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider, whom takes the youth under his wing.",
+                "popularity": 5.332,
+                "poster_path": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+                "release_date": "1987-12-10",
+                "title": "Wall Street",
+                "video": false,
+                "vote_average": 7.164,
+                "vote_count": 2146,
+                "character": "Trader - Office",
+                "credit_id": "584c39f89251411e3b00065d",
+                "order": 69
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Don Kehr"
+        ],
+        "biography": "",
+        "birthday": "1963-09-18",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1378739,
+        "imdb_id": "nm0444972",
+        "known_for_department": "Acting",
+        "name": "Donnie Kehr",
+        "place_of_birth": "Washington, District of Columbia, USA",
+        "popularity": 0.045,
+        "profile_path": "/wRhKjMZ0O5un3fX3oOIF4TFH4KG.jpg"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 17.5505,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 10314,
+                "character": "Dancer",
+                "credit_id": "64c1f01cdb4ed60101a9d101",
+                "order": 78
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    10749
+                ],
+                "id": 321612,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+                "popularity": 11.2212,
+                "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+                "release_date": "2017-03-16",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 15763,
+                "character": "Debutante",
+                "credit_id": "58fe22d092514163df0336fd",
+                "order": 118
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tSxbUnrnWlR5dQvUgqMI7sACmFD.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12,
+                    18
+                ],
+                "id": 779782,
+                "original_language": "en",
+                "original_title": "The School for Good and Evil",
+                "overview": "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains \u2014 and find themselves on opposing sides of the battle between good and evil.",
+                "popularity": 6.8053,
+                "poster_path": "/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg",
+                "release_date": "2022-10-19",
+                "title": "The School for Good and Evil",
+                "video": false,
+                "vote_average": 7.056,
+                "vote_count": 1314,
+                "character": "Fairy",
+                "credit_id": "66e697a59dfbbdf0e6cf5e78",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 402431,
+                "original_language": "en",
+                "original_title": "Wicked",
+                "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+                "popularity": 16.6767,
+                "poster_path": "/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg",
+                "release_date": "2024-11-20",
+                "title": "Wicked",
+                "video": false,
+                "vote_average": 6.932,
+                "vote_count": 2407,
+                "character": "Dancer",
+                "credit_id": "6775bb9cf6fa01a2aa613519",
+                "order": 270
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1802794,
+        "imdb_id": "nm8826375",
+        "known_for_department": "Acting",
+        "name": "Naomi Weijand",
+        "place_of_birth": null,
+        "popularity": 0.1239,
+        "profile_path": "/cMRu8nDIRPPAVvmN2oGLSvVksPp.jpg"
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4b2t4F8Ho5H0wKvylvOA7F2KbVr.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 20766,
+                "original_language": "en",
+                "original_title": "The Road",
+                "overview": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones and, when the snow falls, it is gray. Their destination is the warmer south, although they don't know what, if anything, awaits them there.",
+                "popularity": 6.5328,
+                "poster_path": "/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+                "release_date": "2009-11-25",
+                "title": "The Road",
+                "video": false,
+                "vote_average": 7.016,
+                "vote_count": 4039,
+                "character": "Boy",
+                "credit_id": "52fe43f8c3a368484e008975",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35
+                ],
+                "id": 77174,
+                "original_language": "en",
+                "original_title": "ParaNorman",
+                "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
+                "popularity": 8.3558,
+                "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+                "release_date": "2012-08-03",
+                "title": "ParaNorman",
+                "video": false,
+                "vote_average": 7.004,
+                "vote_count": 2630,
+                "character": "Norman Babcock (voice)",
+                "credit_id": "52fe4961c3a368484e1284fd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    36
+                ],
+                "id": 614934,
+                "original_language": "en",
+                "original_title": "Elvis",
+                "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+                "popularity": 5.4147,
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "release_date": "2022-06-22",
+                "title": "Elvis",
+                "video": false,
+                "vote_average": 7.485,
+                "vote_count": 3668,
+                "character": "Jimmie Rodgers Snow",
+                "credit_id": "620e8ad0d75bd6006ccedc33",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    18,
+                    53
+                ],
+                "id": 119450,
+                "original_language": "en",
+                "original_title": "Dawn of the Planet of the Apes",
+                "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+                "popularity": 14.1393,
+                "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+                "release_date": "2014-07-08",
+                "title": "Dawn of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 11819,
+                "character": "Alexander",
+                "credit_id": "52fe4c01c3a36847f821cf39",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
+                "genre_ids": [
+                    35,
+                    28,
+                    12
+                ],
+                "id": 567604,
+                "original_language": "en",
+                "original_title": "Once Upon a Deadpool",
+                "overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2, as a Princess Bride-esque story that's full of magic, wonder, and zero Fs.",
+                "popularity": 4.6492,
+                "poster_path": "/w6Jk8BHohhoKBUcxGeSyDQGWGWc.jpg",
+                "release_date": "2018-12-11",
+                "title": "Once Upon a Deadpool",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 813,
+                "character": "Kurt Wagner / Nightcrawler (uncredited)",
+                "credit_id": "5c22b131c3a3686fffee2aaa",
+                "order": 63
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ycAZWELqHygeqivCLuqNQsYPSP.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    36
+                ],
+                "id": 528888,
+                "original_language": "en",
+                "original_title": "Dolemite Is My Name",
+                "overview": "The story of Rudy Ray Moore, who created the iconic big screen pimp character Dolemite in the 1970s.",
+                "popularity": 2.3448,
+                "poster_path": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+                "release_date": "2019-10-04",
+                "title": "Dolemite Is My Name",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1209,
+                "character": "Nick von Sternberg",
+                "credit_id": "5d5da98f7ecd2800128368d7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sGtXDnT08Nkb5NQq2oGD3os1zg9.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    12
+                ],
+                "id": 383498,
+                "original_language": "en",
+                "original_title": "Deadpool 2",
+                "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+                "popularity": 11.414,
+                "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+                "release_date": "2018-05-15",
+                "title": "Deadpool 2",
+                "video": false,
+                "vote_average": 7.489,
+                "vote_count": 18609,
+                "character": "Nightcrawler (uncredited)",
+                "credit_id": "5dff994765686e001395f900",
+                "order": 68
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    35
+                ],
+                "id": 1064486,
+                "original_language": "en",
+                "original_title": "Memoir of a Snail",
+                "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+                "popularity": 11.1601,
+                "poster_path": "/woaN8CbloH0akyX0E72ayxlJAB4.jpg",
+                "release_date": "2024-10-17",
+                "title": "Memoir of a Snail",
+                "video": false,
+                "vote_average": 8.06,
+                "vote_count": 636,
+                "character": "Gilbert (voice)",
+                "credit_id": "6746a924026682b92eb05e7d",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ucf54\ub514 \uc2a4\ubc0b \ub9e5\ud53c",
+            "\u06a9\u0648\u062f\u06cc \u0627\u0633\u0645\u06cc\u062a-\u0645\u06a9\u200c\u0641\u06cc"
+        ],
+        "biography": "Kodi Smit-McPhee (born 13 June 1996) is an Australian actor. He gained recognition as a child actor for his leading roles in The Road (2009) and Let Me In (2010). In 2021, Smit-McPhee garnered critical acclaim for his performance as Peter Gordon in Jane Campion's western film The Power of the Dog, for which he earned nominations for an Academy Award, a BAFTA Award, and a Screen Actors Guild Award, and won the Golden Globe Award for Best Supporting Actor.\n\nHe provided the voice of the titular character in ParaNorman (2012) and appeared in Dawn of the Planet of the Apes (2014), X-Men: Apocalypse (2016), Alpha (2018), and Dark Phoenix (2019).",
+        "birthday": "1996-06-13",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 113505,
+        "imdb_id": "nm2240346",
+        "known_for_department": "Acting",
+        "name": "Kodi Smit-McPhee",
+        "place_of_birth": "Sydney, New South Wales, Australia",
+        "popularity": 0.9364,
+        "profile_path": "/sesCWba9NwPDYDZzbVLs7OgLOti.jpg"
+    }
+}

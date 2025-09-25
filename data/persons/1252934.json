@@ -1,0 +1,230 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 18.9528,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 10301,
+                "character": "Midge",
+                "credit_id": "62599b3cd55c3d006695211f",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hHvvGvodFPADcbn0svgmSBYM9TU.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 306819,
+                "original_language": "en",
+                "original_title": "The Danish Girl",
+                "overview": "When Gerda Wegener asks her husband Einar to fill in as a portrait model, Einar discovers the person she's meant to be and begins living her life as Lili Elbe. Having realized her true self and with Gerda's love and support, Lili embarks on a groundbreaking journey as a transgender pioneer.",
+                "popularity": 3.1432,
+                "poster_path": "/mXZZIacI5FC8thzSC0lgQBQ2uAX.jpg",
+                "release_date": "2015-11-27",
+                "title": "The Danish Girl",
+                "video": false,
+                "vote_average": 7.565,
+                "vote_count": 5844,
+                "character": "Elsa",
+                "credit_id": "55d7c1f2c3a3683209000563",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 582014,
+                "original_language": "en",
+                "original_title": "Promising Young Woman",
+                "overview": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+                "popularity": 3.6063,
+                "poster_path": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+                "release_date": "2020-12-13",
+                "title": "Promising Young Woman",
+                "video": false,
+                "vote_average": 7.411,
+                "vote_count": 3433,
+                "character": "Woman in Makeup Tutorial (uncredited)",
+                "credit_id": "5febc36b1d1bf4003e1312f6",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bAtFhmRHp0f6aHqj1UGTZoPcmQo.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    53
+                ],
+                "id": 930564,
+                "original_language": "en",
+                "original_title": "Saltburn",
+                "overview": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+                "popularity": 9.8858,
+                "poster_path": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+                "release_date": "2023-11-16",
+                "title": "Saltburn",
+                "video": false,
+                "vote_average": 6.973,
+                "vote_count": 2634,
+                "credit_id": "62ac3136651fcf03299b8d5e",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bAtFhmRHp0f6aHqj1UGTZoPcmQo.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    53
+                ],
+                "id": 930564,
+                "original_language": "en",
+                "original_title": "Saltburn",
+                "overview": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+                "popularity": 9.8858,
+                "poster_path": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+                "release_date": "2023-11-16",
+                "title": "Saltburn",
+                "video": false,
+                "vote_average": 6.973,
+                "vote_count": 2634,
+                "credit_id": "61eecec1df29450043477905",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bAtFhmRHp0f6aHqj1UGTZoPcmQo.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    53
+                ],
+                "id": 930564,
+                "original_language": "en",
+                "original_title": "Saltburn",
+                "overview": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+                "popularity": 9.8858,
+                "poster_path": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+                "release_date": "2023-11-16",
+                "title": "Saltburn",
+                "video": false,
+                "vote_average": 6.973,
+                "vote_count": 2634,
+                "credit_id": "61eecef3a402c100d6779c76",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 582014,
+                "original_language": "en",
+                "original_title": "Promising Young Woman",
+                "overview": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+                "popularity": 3.6063,
+                "poster_path": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+                "release_date": "2020-12-13",
+                "title": "Promising Young Woman",
+                "video": false,
+                "vote_average": 7.411,
+                "vote_count": 3433,
+                "credit_id": "5c6481a0c3a36843c6d6b850",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 582014,
+                "original_language": "en",
+                "original_title": "Promising Young Woman",
+                "overview": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+                "popularity": 3.6063,
+                "poster_path": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+                "release_date": "2020-12-13",
+                "title": "Promising Young Woman",
+                "video": false,
+                "vote_average": 7.411,
+                "vote_count": 3433,
+                "credit_id": "5c6481d2c3a3684f97da0248",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 582014,
+                "original_language": "en",
+                "original_title": "Promising Young Woman",
+                "overview": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+                "popularity": 3.6063,
+                "poster_path": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+                "release_date": "2020-12-13",
+                "title": "Promising Young Woman",
+                "video": false,
+                "vote_average": 7.411,
+                "vote_count": 3433,
+                "credit_id": "5fef609c7e403d0042748856",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Emerald Lilly Fennell"
+        ],
+        "biography": "Emerald Lilly Fennell\u00a0(born 1 October 1985)\u00a0is an English actress, filmmaker, and writer. She has received numerous accolades, including an\u00a0Academy Award, two\u00a0BAFTA Awards, and nominations for three\u00a0Primetime Emmy Awards\u00a0and three\u00a0Golden Globe Awards.\n\nFennell first gained attention for her roles in period films, such as\u00a0Albert Nobbs\u00a0(2011),\u00a0\u00a0Anna Karenina\u00a0(2012), and\u00a0The Danish Girl\u00a0(2015). She gained prominence for her starring role in the\u00a0BBC One\u00a0drama series\u00a0Call the Midwife (2013\u20132017) and for her portrayal of\u00a0Camilla Parker-Bowles\u00a0in the\u00a0Netflix\u00a0drama series\u00a0The Crown\u00a0(2019\u20132020), the latter of which garnered her a\u00a0Primetime Emmy Award\u00a0nomination.\n\nAs a writer-director, Fennell is known as the\u00a0showrunner\u00a0for season two of the\u00a0BBC\u00a0spy thriller series\u00a0Killing Eve\u00a0(2019), which earned her two\u00a0Primetime Emmy Award\u00a0nominations. She made her feature film directorial debut with the thriller\u00a0Promising Young Woman\u00a0(2020), for which she won the\u00a0Academy Award for Best Original Screenplay and received nominations for\u00a0Best Picture\u00a0and\u00a0Best Director. Fennell also wrote the book for\u00a0Andrew Lloyd Webber's musical\u00a0Cinderella\u00a0(2021) and directed her second film, the psychological thriller\u00a0Saltburn\u00a0(2023).\n\nDescription above from the Wikipedia article Emerald Fennell, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1985-10-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1252934,
+        "imdb_id": "nm2193504",
+        "known_for_department": "Writing",
+        "name": "Emerald Fennell",
+        "place_of_birth": "Hammersmith, London, England, UK",
+        "popularity": 0.5971,
+        "profile_path": "/ytyHUsPb7Saulczm8nCJHypIWQF.jpg"
+    }
+}

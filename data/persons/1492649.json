@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ubICMSUij3ntP9BjnQsV3rTVnAF.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 783,
+                "original_language": "en",
+                "original_title": "Gandhi",
+                "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+                "popularity": 4.3456,
+                "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+                "release_date": "1982-12-01",
+                "title": "Gandhi",
+                "video": false,
+                "vote_average": 7.557,
+                "vote_count": 2390,
+                "character": "Clerk",
+                "credit_id": "55f767bb92514103b600648e",
+                "order": 90
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 5902,
+                "original_language": "en",
+                "original_title": "A Bridge Too Far",
+                "overview": "The story of Operation Market Garden\u2014a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+                "popularity": 8.5626,
+                "poster_path": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+                "release_date": "1977-06-15",
+                "title": "A Bridge Too Far",
+                "video": false,
+                "vote_average": 7.224,
+                "vote_count": 868,
+                "character": "Cpl. Hancock",
+                "credit_id": "57bb85b092514176d90002e9",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Col Farrell",
+            "\u06a9\u0627\u0644\u06cc\u0646 \u0641\u0627\u0631\u0644"
+        ],
+        "biography": "Colin Farrell is an English actor and occasional composer, known for A Bridge Too Far, Gandhi, and Signs and Wonders. He is married to English actress Ann Penfold.",
+        "birthday": "1938-12-06",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1492649,
+        "imdb_id": "nm0268200",
+        "known_for_department": "Acting",
+        "name": "Colin Farrell",
+        "place_of_birth": "London, England, UK",
+        "popularity": 1.0038,
+        "profile_path": "/h19BfuFuE7FBmdtTD7n3z4JTg5q.jpg"
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/feO6v1UMaCDFsshStLpAv2FwARz.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    53
+                ],
+                "id": 130150,
+                "original_language": "en",
+                "original_title": "Labor Day",
+                "overview": "Two strangers are drawn together under incredible circumstances. What starts as an unforeseen encounter over a long holiday weekend soon becomes a second chance love story.",
+                "popularity": 5.0164,
+                "poster_path": "/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+                "release_date": "2013-12-27",
+                "title": "Labor Day",
+                "video": false,
+                "vote_average": 7.016,
+                "vote_count": 1243,
+                "character": "Highway Patrolman",
+                "credit_id": "6156040307e281006326417c",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 1422,
+                "original_language": "en",
+                "original_title": "The Departed",
+                "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+                "popularity": 13.4795,
+                "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+                "release_date": "2006-10-04",
+                "title": "The Departed",
+                "video": false,
+                "vote_average": 8.159,
+                "vote_count": 15527,
+                "character": "Luncheonette Proprietor",
+                "credit_id": "55e78796c3a3682c5f00027d",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ncWUcY7ihZ2co7vqUCHqwF6t9us.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 296098,
+                "original_language": "en",
+                "original_title": "Bridge of Spies",
+                "overview": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+                "popularity": 6.9222,
+                "poster_path": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+                "release_date": "2015-10-15",
+                "title": "Bridge of Spies",
+                "video": false,
+                "vote_average": 7.236,
+                "vote_count": 7028,
+                "character": "Lynn Goodnough",
+                "credit_id": "56bf4bec9251417344008253",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/h5jqLrIv1tlszezv2UEWq9KBuoj.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 446354,
+                "original_language": "en",
+                "original_title": "The Post",
+                "overview": "A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.",
+                "popularity": 5.2568,
+                "poster_path": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
+                "release_date": "2017-12-22",
+                "title": "The Post",
+                "video": false,
+                "vote_average": 7.004,
+                "vote_count": 4752,
+                "character": "Gene Patterson",
+                "credit_id": "5a3bcdc0c3a3680b9d20b977",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    36
+                ],
+                "id": 398978,
+                "original_language": "en",
+                "original_title": "The Irishman",
+                "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+                "popularity": 6.0666,
+                "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+                "release_date": "2019-11-01",
+                "title": "The Irishman",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 7167,
+                "character": "Senator McClellan",
+                "credit_id": "5ddf43d063e6fb0012441802",
+                "order": 92
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 499932,
+                "original_language": "en",
+                "original_title": "The Devil All the Time",
+                "overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+                "popularity": 3.268,
+                "poster_path": "/sdMZmKVvrnyYbl9Az4L6ehuIrFp.jpg",
+                "release_date": "2020-09-11",
+                "title": "The Devil All the Time",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 3488,
+                "character": "Newscaster",
+                "credit_id": "601b372b470ead004174b594",
+                "order": 53
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc874 \ub8e8"
+        ],
+        "biography": "John Rue is an actor.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1000883,
+        "imdb_id": "nm1600051",
+        "known_for_department": "Acting",
+        "name": "John Rue",
+        "place_of_birth": null,
+        "popularity": 0.2465,
+        "profile_path": "/q3VG3GR4OFZjdj8Se7JUZ79pXEy.jpg"
+    }
+}

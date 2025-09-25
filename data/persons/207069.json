@@ -1,0 +1,65 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fEaZwgkX2k91LJZ5APkaK0aDwg1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 321741,
+                "original_language": "en",
+                "original_title": "Concussion",
+                "overview": "A dramatic thriller based on the incredible true David vs. Goliath story of American immigrant Dr. Bennet Omalu, the brilliant forensic neuropathologist who made the first discovery of CTE, a football-related brain trauma, in a pro player and fought for the truth to be known. Omalu's emotional quest puts him at dangerous odds with one of the most powerful institutions in the world.",
+                "popularity": 2.4243,
+                "poster_path": "/uuRFr7Jhsq7bITDyyvxZrQMAr9e.jpg",
+                "release_date": "2015-11-12",
+                "title": "Concussion",
+                "video": false,
+                "vote_average": 7.082,
+                "vote_count": 2627,
+                "character": "Reporter at Westin",
+                "credit_id": "58b477bb92514177b401c506",
+                "order": 48
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/59ur074TVZ13QuQvRcubrEB3Izf.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 84892,
+                "original_language": "en",
+                "original_title": "The Perks of Being a Wallflower",
+                "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+                "popularity": 6.4474,
+                "poster_path": "/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+                "release_date": "2012-09-20",
+                "title": "The Perks of Being a Wallflower",
+                "video": false,
+                "vote_average": 7.799,
+                "vote_count": 10802,
+                "character": "Priest",
+                "credit_id": "5e7190d12f3b17001148ab92",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1954-05-30",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 207069,
+        "imdb_id": "nm0559994",
+        "known_for_department": "Acting",
+        "name": "Dihlon McManne",
+        "place_of_birth": null,
+        "popularity": 0.0311,
+        "profile_path": null
+    }
+}

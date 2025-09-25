@@ -1,0 +1,96 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 9.4091,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 4063,
+                "character": "Pa Kent",
+                "credit_id": "52fe4322c3a36847f803ce29",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    53
+                ],
+                "id": 3767,
+                "original_language": "en",
+                "original_title": "Gilda",
+                "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+                "popularity": 3.386,
+                "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+                "release_date": "1946-04-25",
+                "title": "Gilda",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 609,
+                "character": "Johnny Farrell",
+                "credit_id": "52fe43a4c3a36847f806419d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aqZookq6pJmIT9lVIjDsBY2MNpK.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 14580,
+                "original_language": "en",
+                "original_title": "The Big Heat",
+                "overview": "After the suspicious suicide of a fellow cop, tough homicide detective Dave Bannion takes the law into his own hands when he sets out to smash a vicious crime syndicate.",
+                "popularity": 5.0046,
+                "poster_path": "/ezt6fb4JbghGKmaMzzuMtxpz0Kb.jpg",
+                "release_date": "1953-10-14",
+                "title": "The Big Heat",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 518,
+                "character": "Det. Sgt. Dave Bannion",
+                "credit_id": "52fe46039251416c7506a25f",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Gwyllyn Samuel Newton Ford",
+            "Gwyllyn Ford",
+            "\u0413\u043b\u0435\u043d\u043d \u0424\u043e\u0440\u0434",
+            "\u06af\u0644\u0646 \u0641\u0648\u0631\u062f"
+        ],
+        "biography": "Glenn Ford (May 1, 1916 \u2013 August 30, 2006) was a Canadian-born American actor from Hollywood's Golden Era, with a career that spanned seven decades. Despite his versatility, Ford was best known for playing ordinary men in unusual circumstances, and appeared in films such as Glinda (1946), The Big Heat (1953),  and Superman (1978).",
+        "birthday": "1916-05-01",
+        "deathday": "2006-08-30",
+        "gender": 2,
+        "homepage": null,
+        "id": 3381,
+        "imdb_id": "nm0001229",
+        "known_for_department": "Acting",
+        "name": "Glenn Ford",
+        "place_of_birth": " Quebec City, Quebec, Canada ",
+        "popularity": 0.6495,
+        "profile_path": "/d6Vk69m5NAgMSgo4LmDm748wwm7.jpg"
+    }
+}

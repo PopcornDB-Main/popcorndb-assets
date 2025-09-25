@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2wiMb1RBskEW9Uml5bGDEUHFbv8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 254320,
+                "original_language": "en",
+                "original_title": "The Lobster",
+                "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+                "popularity": 4.9016,
+                "poster_path": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+                "release_date": "2015-10-15",
+                "title": "The Lobster",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 6544,
+                "character": "70 Year Old Waiter",
+                "credit_id": "578a06bd9251417c490042b9",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+                "genre_ids": [
+                    36,
+                    35,
+                    18
+                ],
+                "id": 375262,
+                "original_language": "en",
+                "original_title": "The Favourite",
+                "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+                "popularity": 6.1815,
+                "poster_path": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+                "release_date": "2018-11-23",
+                "title": "The Favourite",
+                "video": false,
+                "vote_average": 7.504,
+                "vote_count": 5681,
+                "character": "Queen's Doctor",
+                "credit_id": "5c1f25d4c3a3686ffce9f116",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Actor, known for The Lobster (2015) and The Favourite (2018).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1651422,
+        "imdb_id": "nm7114240",
+        "known_for_department": "Acting",
+        "name": "Anthony Dougall",
+        "place_of_birth": null,
+        "popularity": 0.0281,
+        "profile_path": null
+    }
+}

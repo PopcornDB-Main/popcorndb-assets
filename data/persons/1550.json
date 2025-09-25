@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cemjdP7HrUyJAry85vRT19Hidbi.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 138,
+                "original_language": "en",
+                "original_title": "Dracula",
+                "overview": "British estate agent Renfield travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a castle in London. After Dracula enslaves Renfield and drives him to insanity, the pair sail to London together and Dracula, a secret vampire, begins preying on London socialites.",
+                "popularity": 2.7501,
+                "poster_path": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
+                "release_date": "1931-02-12",
+                "title": "Dracula",
+                "video": false,
+                "vote_average": 7.153,
+                "vote_count": 1286,
+                "character": "Van Helsing",
+                "credit_id": "52fe421dc3a36847f8004fd9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    878
+                ],
+                "id": 3035,
+                "original_language": "en",
+                "original_title": "Frankenstein",
+                "overview": "Tampering with life and death, Henry Frankenstein pieces together salvaged body parts to bring a human monster to life; the mad scientist's dreams are shattered by his creation's violent rage as the monster awakens to a world in which he is unwelcome.",
+                "popularity": 5.2311,
+                "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+                "release_date": "1931-11-21",
+                "title": "Frankenstein",
+                "video": false,
+                "vote_average": 7.464,
+                "vote_count": 1679,
+                "character": "Doctor Waldman",
+                "credit_id": "52fe437fc3a36847f8058841",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edward Paul Van Sloun",
+            "Edward Van Sloun",
+            "Ed. Van Sloan",
+            "Ed Van Sloan"
+        ],
+        "biography": "Edward Van Sloan (born Edward Paul Van Sloun) was an American screen and stage character actor best remembered for his roles in Universal Studios horror films.",
+        "birthday": "1882-11-01",
+        "deathday": "1964-03-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 1550,
+        "imdb_id": "nm0888000",
+        "known_for_department": "Acting",
+        "name": "Edward Van Sloan",
+        "place_of_birth": "Chaska, Minnesota, USA",
+        "popularity": 0.1682,
+        "profile_path": "/qZ9zAlgNlJ1vefUXb4KDVbC3kVh.jpg"
+    }
+}

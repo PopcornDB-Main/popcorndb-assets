@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    35
+                ],
+                "id": 493529,
+                "original_language": "en",
+                "original_title": "Dungeons & Dragons: Honor Among Thieves",
+                "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+                "popularity": 9.5422,
+                "poster_path": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+                "release_date": "2023-03-23",
+                "title": "Dungeons & Dragons: Honor Among Thieves",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4141,
+                "character": "Bobby",
+                "credit_id": "6454652ad48cee00e133eda6",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    878
+                ],
+                "id": 533535,
+                "original_language": "en",
+                "original_title": "Deadpool & Wolverine",
+                "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+                "popularity": 37.9885,
+                "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+                "release_date": "2024-07-24",
+                "title": "Deadpool & Wolverine",
+                "video": false,
+                "vote_average": 7.58,
+                "vote_count": 7730,
+                "character": "Comic-Accurate Wolverine Body Double (uncredited)",
+                "credit_id": "677143ecbf10ff198461c51d",
+                "order": 56
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 4045462,
+        "imdb_id": "nm14636422",
+        "known_for_department": "Acting",
+        "name": "Luke Bennett",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

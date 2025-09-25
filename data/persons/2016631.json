@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 1725,
+                "original_language": "en",
+                "original_title": "West Side Story",
+                "overview": "In the slums of the upper West Side of Manhattan, tensions are high as a gang of Polish-Americans compete against a gang of recently immigrated Puerto Ricans, but this doesn't stop two romantics from each gang falling in love.",
+                "popularity": 3.0716,
+                "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+                "release_date": "1961-12-13",
+                "title": "West Side Story",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1951,
+                "character": "Kid on Bicycle (uncredited)",
+                "credit_id": "61fd0df5559d22006a0b7125",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    18,
+                    28
+                ],
+                "id": 871,
+                "original_language": "en",
+                "original_title": "Planet of the Apes",
+                "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+                "popularity": 8.0971,
+                "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+                "release_date": "1968-02-07",
+                "title": "Planet of the Apes",
+                "video": false,
+                "vote_average": 7.646,
+                "vote_count": 3741,
+                "character": "Human in Cage (uncredited)",
+                "credit_id": "5dd0aca42866fa0013886943",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2016631,
+        "imdb_id": "nm3399036",
+        "known_for_department": "Acting",
+        "name": "Martin Abrahams",
+        "place_of_birth": null,
+        "popularity": 0.1062,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "character": "Cora",
+                "credit_id": "52fe479fc3a368484e0d131d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g0nLh5eQjTcffJUavvatBNkaSpy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 132363,
+                "original_language": "en",
+                "original_title": "The Butler",
+                "overview": "A look at the life of Cecil Gaines, who served eight presidents as the White House's head butler from 1952 to 1986, and had a unique front-row seat as political and racial history was made.",
+                "popularity": 5.6089,
+                "poster_path": "/pAi8Bl3ZKX6pANPVhNwbhbQANop.jpg",
+                "release_date": "2013-08-16",
+                "title": "The Butler",
+                "video": false,
+                "vote_average": 7.332,
+                "vote_count": 2949,
+                "character": "Helen Holloway",
+                "credit_id": "62b86bfe7304b5037611e7f2",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    37
+                ],
+                "id": 273248,
+                "original_language": "en",
+                "original_title": "The Hateful Eight",
+                "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+                "popularity": 8.3615,
+                "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+                "release_date": "2015-12-25",
+                "title": "The Hateful Eight",
+                "video": false,
+                "vote_average": 7.755,
+                "vote_count": 14709,
+                "character": "Minnie",
+                "credit_id": "559d5fd7c3a36865a7000115",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Dana Michelle Gourrier "
+        ],
+        "biography": "Dana Gourrier is an American stage, film and television actress, best known for her supporting roles in Quentin Tarantino's feature films \"Django Unchained\" and \"The Hateful Eight\". She holds a BFA in Performance Art from the University of Louisiana, Lafayette, and an MFA in Acting from the California Institute of the Arts, Valencia, USA.",
+        "birthday": "1979-07-31",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1133063,
+        "imdb_id": "nm4158239",
+        "known_for_department": "Acting",
+        "name": "Dana Gourrier",
+        "place_of_birth": "New Orleans, Louisiana, USA",
+        "popularity": 0.4901,
+        "profile_path": "/v3krc3R7LKMsHJEm8esPqEa7CR.jpg"
+    }
+}

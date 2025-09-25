@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eEN7tsCCHppGhONHngvHKSdxi7r.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 11036,
+                "original_language": "en",
+                "original_title": "The Notebook",
+                "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+                "popularity": 17.9819,
+                "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+                "release_date": "2004-05-25",
+                "title": "The Notebook",
+                "video": false,
+                "vote_average": 7.891,
+                "vote_count": 12069,
+                "character": "Martha Shaw",
+                "credit_id": "56a6dfeec3a36819de001719",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 369972,
+                "original_language": "en",
+                "original_title": "First Man",
+                "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+                "popularity": 5.1642,
+                "poster_path": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+                "release_date": "2018-10-10",
+                "title": "First Man",
+                "video": false,
+                "vote_average": 7.043,
+                "vote_count": 5435,
+                "character": "Times Reporter",
+                "credit_id": "5bd6a472c3a36820f503bca1",
+                "order": 60
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jamie Allman",
+            "Jamie Anne Brown",
+            "Jamie Brown"
+        ],
+        "biography": "",
+        "birthday": "1977-04-06",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "https://jamieanneallman.com/",
+        "id": 77368,
+        "imdb_id": "nm1056583",
+        "known_for_department": "Acting",
+        "name": "Jamie Anne Allman",
+        "place_of_birth": "Parsons, Kansas, USA",
+        "popularity": 0.766,
+        "profile_path": "/mA82QEpjnt9YlNa3ljppfY7pKLd.jpg"
+    }
+}

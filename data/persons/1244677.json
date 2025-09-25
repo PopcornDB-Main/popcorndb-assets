@@ -1,0 +1,49 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rE6W3KHdIuTdgRDLOOOMR3gfGgc.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 289222,
+                "original_language": "en",
+                "original_title": "The Zookeeper's Wife",
+                "overview": "The account of keepers of the Warsaw Zoo, Jan and Antonina Zabinski, who helped save hundreds of people and animals during the Nazi invasion.",
+                "popularity": 2.6385,
+                "poster_path": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+                "release_date": "2017-03-24",
+                "title": "The Zookeeper's Wife",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 1524,
+                "character": "Szymon Tenenbaum",
+                "credit_id": "5952b6619251411d98007e5c",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Martin Hofman",
+            "Martin Hoffman"
+        ],
+        "biography": "",
+        "birthday": "1978-03-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://mhofmann.cz",
+        "id": 1244677,
+        "imdb_id": "nm0389384",
+        "known_for_department": "Acting",
+        "name": "Martin Hofmann",
+        "place_of_birth": "\u010cesk\u00e9 Bud\u011bjovice, \u010ceskoslovensko",
+        "popularity": 0.2099,
+        "profile_path": "/nwLDWIRY0luPXGUUZYBP52C5QDq.jpg"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    80
+                ],
+                "id": 134,
+                "original_language": "en",
+                "original_title": "O Brother, Where Art Thou?",
+                "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+                "popularity": 6.6363,
+                "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+                "release_date": "2000-08-30",
+                "title": "O Brother, Where Art Thou?",
+                "video": false,
+                "vote_average": 7.317,
+                "vote_count": 4357,
+                "character": "Sheriff Cooley",
+                "credit_id": "52fe421cc3a36847f8004d03",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 274,
+                "original_language": "en",
+                "original_title": "The Silence of the Lambs",
+                "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+                "popularity": 3.9428,
+                "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+                "release_date": "1991-02-14",
+                "title": "The Silence of the Lambs",
+                "video": false,
+                "vote_average": 8.347,
+                "vote_count": 17103,
+                "character": "SWAT Communicator",
+                "credit_id": "52fe4230c3a36847f800ae0f",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/plWyKqUIenzqFjMrs1gu7Gjygfq.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 402,
+                "original_language": "en",
+                "original_title": "Basic Instinct",
+                "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+                "popularity": 6.2454,
+                "poster_path": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+                "release_date": "1992-03-20",
+                "title": "Basic Instinct",
+                "video": false,
+                "vote_average": 6.93,
+                "vote_count": 4124,
+                "character": "Lieutenant Nilsen",
+                "credit_id": "52fe423fc3a36847f800f51b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mE2TjYsnqdWxPt45kIElw3az4O9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9800,
+                "original_language": "en",
+                "original_title": "Philadelphia",
+                "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+                "popularity": 3.7367,
+                "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+                "release_date": "1993-12-22",
+                "title": "Philadelphia",
+                "video": false,
+                "vote_average": 7.718,
+                "vote_count": 4416,
+                "character": "Jury Foreman",
+                "credit_id": "5370f373c3a3686ffe000102",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9PGxCEZCnxgPALlpu7avGMYhVRR.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    9648
+                ],
+                "id": 11831,
+                "original_language": "en",
+                "original_title": "Amistad",
+                "overview": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+                "popularity": 0.9528,
+                "poster_path": "/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+                "release_date": "1997-12-10",
+                "title": "Amistad",
+                "video": false,
+                "vote_average": 7.019,
+                "vote_count": 1340,
+                "character": "Warden Pendleton",
+                "credit_id": "5cc574be9251415d3bf4184a",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qKWQ9IEDkMawD7sgKnIGCdFAhct.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    18,
+                    10752
+                ],
+                "id": 8963,
+                "original_language": "en",
+                "original_title": "Crimson Tide",
+                "overview": "After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsey insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.",
+                "popularity": 6.0646,
+                "poster_path": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+                "release_date": "1995-05-12",
+                "title": "Crimson Tide",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1868,
+                "character": "Vladimir Radchenko",
+                "credit_id": "5f73c33a156cc700364629bf",
+                "order": 35
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Dan von Bargen",
+            "Daniel Van Bargen",
+            "\u062f\u0627\u0646\u06cc\u0644 \u0641\u0648\u0646 \u0628\u0627\u0631\u06af\u0646"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia\n\nDaniel von Bargen (June 5, 1950 \u2013 March 1, 2015) was an American character actor of film, stage and television. He was known for his roles as Mr. Kruger on Seinfeld, Commandant Edwin Spangler on Malcolm in the Middle, and Chief Grady in Super Troopers.\n\nDescription above from the Wikipedia article Daniel vob Bargen, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1950-06-05",
+        "deathday": "2015-03-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 1473,
+        "imdb_id": "nm0901926",
+        "known_for_department": "Acting",
+        "name": "Daniel von Bargen",
+        "place_of_birth": "Cincinnati, Ohio, USA",
+        "popularity": 0.6733,
+        "profile_path": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg"
+    }
+}

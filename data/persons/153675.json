@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gPqtCp55HWsJ2f3fEPsoXD77KQx.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 11349,
+                "original_language": "en",
+                "original_title": "Cape Fear",
+                "overview": "Sam Bowden witnesses a rape committed by Max Cady and testifies against him. When released after 8 years in prison, Cady begins stalking Bowden and his family but is always clever enough not to violate the law.",
+                "popularity": 3.9206,
+                "poster_path": "/xDqaHjMbnebtB05QWgAR8wW86sb.jpg",
+                "release_date": "1962-04-12",
+                "title": "Cape Fear",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 595,
+                "character": "Garner",
+                "credit_id": "52fe442b9251416c7502b425",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 5919,
+                "original_language": "en",
+                "original_title": "The Towering Inferno",
+                "overview": "At the opening party of a colossal\u2014but poorly constructed\u2014skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+                "popularity": 3.7343,
+                "poster_path": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+                "release_date": "1974-12-14",
+                "title": "The Towering Inferno",
+                "video": false,
+                "vote_average": 7.009,
+                "vote_count": 976,
+                "character": "Tim",
+                "credit_id": "59c801a39251415b77062819",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1932-02-11",
+        "deathday": "2016-08-26",
+        "gender": 2,
+        "homepage": null,
+        "id": 153675,
+        "imdb_id": "nm0173815",
+        "known_for_department": "Acting",
+        "name": "Paul Comi",
+        "place_of_birth": "Boston, Massachusetts, USA",
+        "popularity": 0.1695,
+        "profile_path": "/t7Zi4gKsFwAeeIBx4zwEJeXMHQr.jpg"
+    }
+}

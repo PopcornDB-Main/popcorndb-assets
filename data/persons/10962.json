@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    27
+                ],
+                "id": 561,
+                "original_language": "en",
+                "original_title": "Constantine",
+                "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+                "popularity": 9.8957,
+                "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+                "release_date": "2005-02-08",
+                "title": "Constantine",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 7613,
+                "character": "Scavenger",
+                "credit_id": "52fe4252c3a36847f80153bd",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 273481,
+                "original_language": "en",
+                "original_title": "Sicario",
+                "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+                "popularity": 9.6411,
+                "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+                "release_date": "2015-09-17",
+                "title": "Sicario",
+                "video": false,
+                "vote_average": 7.416,
+                "vote_count": 9091,
+                "character": "Migrant #1",
+                "credit_id": "58eeaf80c3a368607600009a",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 10962,
+        "imdb_id": "nm3002410",
+        "known_for_department": "Acting",
+        "name": "Jesse Ramirez",
+        "place_of_birth": null,
+        "popularity": 0.227,
+        "profile_path": "/nqBud4GP4SThco0qQlteDpqQGz8.jpg"
+    }
+}

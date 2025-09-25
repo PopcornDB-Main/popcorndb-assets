@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 7340,
+                "original_language": "en",
+                "original_title": "Carrie",
+                "overview": "Withdrawn and sensitive teen Carrie White faces taunting from classmates at school and abuse from her fanatically pious mother. When strange occurrences start happening around Carrie, she begins to suspect that she has supernatural powers.",
+                "popularity": 6.4561,
+                "poster_path": "/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg",
+                "release_date": "1976-11-03",
+                "title": "Carrie",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4057,
+                "character": "Trudy Bourne (uncredited)",
+                "credit_id": "5d49f2d53e01ea0013caab7b",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 4.4836,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.693,
+                "vote_count": 7467,
+                "character": "Pageant Worker (uncredited)",
+                "credit_id": "5d49f36d1b72940015a8b8bf",
+                "order": 42
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5JrPWR6ve6gry6LG8SKr6tsQSBo.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 16642,
+                "original_language": "en",
+                "original_title": "Days of Heaven",
+                "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+                "popularity": 4.1931,
+                "poster_path": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+                "release_date": "1978-09-13",
+                "title": "Days of Heaven",
+                "video": false,
+                "vote_average": 7.506,
+                "vote_count": 1086,
+                "credit_id": "6419c69e310325008efe3fba",
+                "department": "Production",
+                "job": "Casting Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2380575,
+        "imdb_id": "nm0093219",
+        "known_for_department": "Acting",
+        "name": "Terry Bolo",
+        "place_of_birth": "Detroit, Michigan, USA",
+        "popularity": 0.1127,
+        "profile_path": null
+    }
+}

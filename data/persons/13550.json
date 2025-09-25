@@ -1,0 +1,208 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 1949,
+                "original_language": "en",
+                "original_title": "Zodiac",
+                "overview": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+                "popularity": 7.688,
+                "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+                "release_date": "2007-03-02",
+                "title": "Zodiac",
+                "video": false,
+                "vote_average": 7.528,
+                "vote_count": 11041,
+                "character": "Jack Mulanax",
+                "credit_id": "52fe4325c3a36847f803dd1d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2fswjyrY3GEzeoVn6mF8pNeNcgf.jpg",
+                "genre_ids": [
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 4922,
+                "original_language": "en",
+                "original_title": "The Curious Case of Benjamin Button",
+                "overview": "Born under unusual circumstances, Benjamin Button springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a child who flits in and out of his life as she grows up to be a dancer. Though he has all sorts of unusual adventures over the course of his life, it is his relationship with Daisy, and the hope that they will come together at the right time, that drives Benjamin forward.",
+                "popularity": 13.6072,
+                "poster_path": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+                "release_date": "2008-12-25",
+                "title": "The Curious Case of Benjamin Button",
+                "video": false,
+                "vote_average": 7.595,
+                "vote_count": 13248,
+                "character": "Monsieur Gateau",
+                "credit_id": "52fe43e2c3a36847f807633f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 11324,
+                "original_language": "en",
+                "original_title": "Shutter Island",
+                "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+                "popularity": 14.1571,
+                "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+                "release_date": "2010-02-14",
+                "title": "Shutter Island",
+                "video": false,
+                "vote_average": 8.201,
+                "vote_count": 24876,
+                "character": "Laeddis",
+                "credit_id": "52fe44269251416c7502a8df",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53
+                ],
+                "id": 7485,
+                "original_language": "en",
+                "original_title": "Shooter",
+                "overview": "A top Marine sniper, Bob Lee Swagger, leaves the military after a mission goes horribly awry and disappears, living in seclusion. He is coaxed back into service after a high-profile government official convinces him to help thwart a plot to kill the President of the United States. Ultimately double-crossed and framed for the attempt, Swagger becomes the target of a nationwide manhunt. He goes on the run to track the real killer and find out who exactly set him up, and why, eventually seeking revenge against some of the most powerful and corrupt leaders in the free world.",
+                "popularity": 8.6575,
+                "poster_path": "/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg",
+                "release_date": "2007-03-22",
+                "title": "Shooter",
+                "video": false,
+                "vote_average": 7.122,
+                "vote_count": 5160,
+                "character": "Jack Payne",
+                "credit_id": "52fe447fc3a36847f8099c33",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 8741,
+                "original_language": "en",
+                "original_title": "The Thin Red Line",
+                "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+                "popularity": 5.6938,
+                "poster_path": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+                "release_date": "1998-12-23",
+                "title": "The Thin Red Line",
+                "video": false,
+                "vote_average": 7.447,
+                "vote_count": 3133,
+                "character": "Capt. James Staros",
+                "credit_id": "52fe44b6c3a36847f80a5ea3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 75656,
+                "original_language": "en",
+                "original_title": "Now You See Me",
+                "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+                "popularity": 10.6086,
+                "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+                "release_date": "2013-05-29",
+                "title": "Now You See Me",
+                "video": false,
+                "vote_average": 7.333,
+                "vote_count": 16011,
+                "character": "Lionel Shrike (uncredited)",
+                "credit_id": "52fe490bc3a368484e117d2b",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nCzfXkipK6LCg9JAPkrYw2QA0GO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 15487,
+                "original_language": "en",
+                "original_title": "The Greatest Game Ever Played",
+                "overview": "A biopic of 20-year-old Francis Ouimet who defeated his golfing idol and 1900 US Open Champion, Harry Vardon.",
+                "popularity": 3.3771,
+                "poster_path": "/kh4vd6wKa6j9xVFzxhQrsT0p2YN.jpg",
+                "release_date": "2005-09-30",
+                "title": "The Greatest Game Ever Played",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 509,
+                "character": "Arthur Ouimet",
+                "credit_id": "537eeca8c3a368059800287a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    9648,
+                    10749
+                ],
+                "id": 782,
+                "original_language": "en",
+                "original_title": "Gattaca",
+                "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+                "popularity": 6.9278,
+                "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+                "release_date": "1997-09-07",
+                "title": "Gattaca",
+                "video": false,
+                "vote_average": 7.564,
+                "vote_count": 6609,
+                "character": "Antonio Freeman",
+                "credit_id": "5bb5f1ef0e0a2633a700c6fa",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0397\u03bb\u03af\u03b1\u03c2 \u039a\u03bf\u03c4\u03ad\u03b1\u03c2",
+            "\u0627\u0644\u06cc\u0627\u0633 \u06a9\u0648\u062a\u06cc\u0627\u0633"
+        ],
+        "biography": "Elias Koteas\u00a0(born March 11, 1961) is a Canadian actor, known for his roles as Alvin \"Al\" Olinsky on the\u00a0series Chicago\u00a0P.D.,\u00a0Tom True on Goliath, Lionel Shrike in Now You See Me (2013), Col. Marks on Combat Hospital, James Skinner on The Killing, Laeddis in Shutter Island (2010), Monsieur Gateau in The Curious Case of Benjamin Button (2008), Jack Payne in the film Shooter (2007), Peter Brandt in Collateral Damage (2002), Capt. James Stars in The Thin Red Line (1998), Edgar Reese in Fallen (1998), Antonio Freeman in Gattaca (1997), and Casey Jones\u00a0in two of the original Teenage Mutant Ninja Turtles\u00a0films.\n\nHe won the\u00a0Canadian Screen Award for Best Supporting Actor\u00a0for his role in the film\u00a0Ararat\u00a0(2002). He has appeared in many films including\u00a0Some Kind of Wonderful (1987), The Adjuster (1991),\u00a0Exotica\u00a0(1994),\u00a0The Prophecy (1995), Crash (1996), Living Out Loud\u00a0(1998),\u00a0Harrison's Flowers (2002), Zodiac\u00a0(2007), and Skinwalkers (2007).",
+        "birthday": "1961-03-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 13550,
+        "imdb_id": "nm0000480",
+        "known_for_department": "Acting",
+        "name": "Elias Koteas",
+        "place_of_birth": "Montreal, Quebec, Canada",
+        "popularity": 1.3078,
+        "profile_path": "/wCrzUtE1p4cbVfoA9xpWHYPUWuN.jpg"
+    }
+}

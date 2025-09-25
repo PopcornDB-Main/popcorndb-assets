@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ffAL7ZiUnCay51SeHFTrTEUpUkO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10400,
+                "original_language": "en",
+                "original_title": "The Hurricane",
+                "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+                "popularity": 3.8457,
+                "poster_path": "/eOzbt7KsqTC8gcjJMxcQnr89cxJ.jpg",
+                "release_date": "1999-09-17",
+                "title": "The Hurricane",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1460,
+                "character": "John Artis",
+                "credit_id": "547ee64392514124af000e0d",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ycAZWELqHygeqivCLuqNQsYPSP.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    36
+                ],
+                "id": 528888,
+                "original_language": "en",
+                "original_title": "Dolemite Is My Name",
+                "overview": "The story of Rudy Ray Moore, who created the iconic big screen pimp character Dolemite in the 1970s.",
+                "popularity": 2.0327,
+                "poster_path": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+                "release_date": "2019-10-04",
+                "title": "Dolemite Is My Name",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1209,
+                "character": "Theatre Manager",
+                "credit_id": "5dbc6f6042022800105c3355",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18
+                ],
+                "id": 2034,
+                "original_language": "en",
+                "original_title": "Training Day",
+                "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+                "popularity": 7.3082,
+                "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+                "release_date": "2001-10-05",
+                "title": "Training Day",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 6242,
+                "character": "Crackhead #1",
+                "credit_id": "6069ca881e9225002b619018",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 59570,
+        "imdb_id": "nm0926405",
+        "known_for_department": "Acting",
+        "name": "Garland Whitt",
+        "place_of_birth": null,
+        "popularity": 0.5427,
+        "profile_path": "/cFzmy8qNphjvsMtblejp1KOc9gH.jpg"
+    }
+}

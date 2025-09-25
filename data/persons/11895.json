@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.602,
+                "vote_count": 2256,
+                "character": "Officer Poe",
+                "credit_id": "5618742d925141374b000f72",
+                "order": 63
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    28
+                ],
+                "id": 792,
+                "original_language": "en",
+                "original_title": "Platoon",
+                "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+                "popularity": 6.7554,
+                "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+                "release_date": "1986-12-19",
+                "title": "Platoon",
+                "video": false,
+                "vote_average": 7.747,
+                "vote_count": 4817,
+                "character": "Gardner",
+                "credit_id": "5a7a18e2c3a368227302d061",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 11895,
+        "imdb_id": "nm0651431",
+        "known_for_department": "Acting",
+        "name": "Bob Orwig",
+        "place_of_birth": null,
+        "popularity": 0.3784,
+        "profile_path": "/liBVBj77ueAq9vpVhTvjEmFhKR.jpg"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/clFFCapyGpE7KD4Jsu5pUbFBZF4.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 359410,
+                "original_language": "en",
+                "original_title": "Road House",
+                "overview": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+                "popularity": 19.034,
+                "poster_path": "/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+                "release_date": "2024-03-08",
+                "title": "Road House",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 2679,
+                "character": "Knox",
+                "credit_id": "62ea8f7025cd85005d00660f",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Conor Anthony McGregor\ufeff",
+            "The Notorious",
+            "Mystic Mac"
+        ],
+        "biography": "Conor Anthony McGregor (Irish: Conch\u00far Ant\u00f3in Mac Gr\u00e9ag\u00f3ir; born 14 July 1988) is an Irish professional mixed martial artist and professional boxer. He is a former Ultimate Fighting Championship (UFC) Featherweight and Lightweight Champion, becoming the first UFC fighter to hold UFC championships in two weight classes simultaneously. He is also a former Cage Warriors Featherweight and Lightweight Champion.",
+        "birthday": "1988-07-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://conormcgregor.com",
+        "id": 1199115,
+        "imdb_id": "nm6135552",
+        "known_for_department": "Acting",
+        "name": "Conor McGregor",
+        "place_of_birth": "Crumlin, Dublin, Ireland",
+        "popularity": 0.5507,
+        "profile_path": null
+    }
+}

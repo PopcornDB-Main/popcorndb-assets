@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 311,
+                "original_language": "en",
+                "original_title": "Once Upon a Time in America",
+                "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+                "popularity": 9.0949,
+                "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+                "release_date": "1984-05-23",
+                "title": "Once Upon a Time in America",
+                "video": false,
+                "vote_average": 8.406,
+                "vote_count": 5726,
+                "character": "Street Singer",
+                "credit_id": "5e49d6102d93750013a91874",
+                "order": 60
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2541001,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Mort Freeman",
+        "place_of_birth": null,
+        "popularity": 0.0361,
+        "profile_path": null
+    }
+}

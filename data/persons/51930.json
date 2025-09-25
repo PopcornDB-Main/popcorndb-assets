@@ -1,0 +1,166 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bNLLjc6NT80FmFknvHn8demDHhl.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    16,
+                    9648
+                ],
+                "id": 123025,
+                "original_language": "en",
+                "original_title": "Batman: The Dark Knight Returns, Part 1",
+                "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?",
+                "popularity": 3.5323,
+                "poster_path": "/kkjTbwV1Xnj8wBL52PjOcXzTbnb.jpg",
+                "release_date": "2012-09-25",
+                "title": "Batman: The Dark Knight Returns, Part 1",
+                "video": false,
+                "vote_average": 7.737,
+                "vote_count": 1652,
+                "character": "Harvey Dent / Two-Face (voice)",
+                "credit_id": "52fe4a8bc3a368484e15984b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jFEy7DClkMm8nGXAwmpe577Vlq0.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    16
+                ],
+                "id": 40662,
+                "original_language": "en",
+                "original_title": "Batman: Under the Red Hood",
+                "overview": "One part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.",
+                "popularity": 4.3807,
+                "poster_path": "/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg",
+                "release_date": "2010-07-27",
+                "title": "Batman: Under the Red Hood",
+                "video": false,
+                "vote_average": 7.744,
+                "vote_count": 1664,
+                "character": "Black Mask (voice)",
+                "credit_id": "533009dbc3a3685fb30062ca",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 18.3339,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 23539,
+                "character": "Warden at Blackgate",
+                "credit_id": "562281a49251413a74006fda",
+                "order": 84
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    18
+                ],
+                "id": 445651,
+                "original_language": "en",
+                "original_title": "The Darkest Minds",
+                "overview": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.",
+                "popularity": 6.7355,
+                "poster_path": "/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
+                "release_date": "2018-07-25",
+                "title": "The Darkest Minds",
+                "video": false,
+                "vote_average": 7.033,
+                "vote_count": 2874,
+                "character": "The Captain",
+                "credit_id": "5b6f3a4c925141405613762f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eY6bnNP10bWljC19v8UXAScHyuP.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 1538,
+                "original_language": "en",
+                "original_title": "Collateral",
+                "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+                "popularity": 8.1952,
+                "poster_path": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+                "release_date": "2004-08-04",
+                "title": "Collateral",
+                "video": false,
+                "vote_average": 7.233,
+                "vote_count": 5921,
+                "character": "Fed #2",
+                "credit_id": "5ee689ec3ff2df00206948a0",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3HmLKhahTxX2ALTWlagr92pZrU7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 462,
+                "original_language": "en",
+                "original_title": "Erin Brockovich",
+                "overview": "A twice-divorced mother of three who sees an injustice, takes on the bad guy and wins -- with a little help from her push-up bra. Erin goes to work for an attorney and comes across medical records describing illnesses clustered in one nearby town. She starts investigating and soon exposes a monumental cover-up.",
+                "popularity": 5.0078,
+                "poster_path": "/jEMvWBWVjndZT0vJnLrRWi9ajea.jpg",
+                "release_date": "2000-03-17",
+                "title": "Erin Brockovich",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 3423,
+                "character": "Ted Daniels",
+                "credit_id": "5f84fbc3e93e95003713e0e2",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Wade Andrews Williams",
+            "Wade Andrew Williams",
+            "\u0648\u064a\u062f \u0648\u0644\u064a\u0627\u0645\u0632",
+            "\u0648\u06cc\u062f \u0648\u06cc\u0644\u06cc\u0627\u0645\u0632"
+        ],
+        "biography": "Wade Williams is an American actor, best known for his role as Brad Bellick in Prison Break.",
+        "birthday": "1961-12-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 51930,
+        "imdb_id": "nm0931898",
+        "known_for_department": "Acting",
+        "name": "Wade Williams",
+        "place_of_birth": "Tulsa - Oklahoma - USA",
+        "popularity": 1.8399,
+        "profile_path": "/s9WjsTpC8a5KfxuoJnb5I35S2SM.jpg"
+    }
+}

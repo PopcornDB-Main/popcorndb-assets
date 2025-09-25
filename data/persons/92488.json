@@ -1,0 +1,204 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2256,
+                "character": "(uncredited)",
+                "credit_id": "5618767bc3a3682441001066",
+                "order": 71
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+                "genre_ids": [
+                    27,
+                    878,
+                    53
+                ],
+                "id": 5876,
+                "original_language": "en",
+                "original_title": "The Mist",
+                "overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+                "popularity": 5.8916,
+                "poster_path": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+                "release_date": "2007-11-21",
+                "title": "The Mist",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 5518,
+                "character": "Shopper (uncredited)",
+                "credit_id": "56bccaeb92514144cf003f4c",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/waOYBThLihaTKUFOAzjvhPjBmrS.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14047,
+                "original_language": "en",
+                "original_title": "The Great Debaters",
+                "overview": "The true story of a brilliant but politically radical debate team coach who uses the power of words to transform a group of underdog African-American college students into a historical powerhouse that took on the Harvard elite.",
+                "popularity": 4.3732,
+                "poster_path": "/szx0sWq0pgvgfRX7g72cWBYoOjf.jpg",
+                "release_date": "2007-12-25",
+                "title": "The Great Debaters",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 663,
+                "character": "Klansman at Lynching (uncredited)",
+                "credit_id": "67f3e44b0f20f9c45cad941b",
+                "order": 49
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mFt3dvxKugYPgUQgV16M6K2nEtc.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 8363,
+                "original_language": "en",
+                "original_title": "Superbad",
+                "overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+                "popularity": 9.4735,
+                "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+                "release_date": "2007-08-17",
+                "title": "Superbad",
+                "video": false,
+                "vote_average": 7.258,
+                "vote_count": 7670,
+                "credit_id": "652b06d31f3e60011c4a6f5b",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/waOYBThLihaTKUFOAzjvhPjBmrS.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 14047,
+                "original_language": "en",
+                "original_title": "The Great Debaters",
+                "overview": "The true story of a brilliant but politically radical debate team coach who uses the power of words to transform a group of underdog African-American college students into a historical powerhouse that took on the Harvard elite.",
+                "popularity": 4.3732,
+                "poster_path": "/szx0sWq0pgvgfRX7g72cWBYoOjf.jpg",
+                "release_date": "2007-12-25",
+                "title": "The Great Debaters",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 663,
+                "credit_id": "635109154ca67600825bc0ef",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/76J14zgwVWyOciri7X7F3DGP3TA.jpg",
+                "genre_ids": [
+                    27,
+                    878,
+                    53
+                ],
+                "id": 5876,
+                "original_language": "en",
+                "original_title": "The Mist",
+                "overview": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+                "popularity": 5.8916,
+                "poster_path": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+                "release_date": "2007-11-21",
+                "title": "The Mist",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 5518,
+                "credit_id": "56bccb159251411141000f20",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2256,
+                "credit_id": "56bccb509251417353000009",
+                "department": "Crew",
+                "job": "Utility Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5m5VhSN1lTk3egtrNzqNv5nwMuG.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 451,
+                "original_language": "en",
+                "original_title": "Leaving Las Vegas",
+                "overview": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything because of his drinking, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+                "popularity": 6.3109,
+                "poster_path": "/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+                "release_date": "1995-10-27",
+                "title": "Leaving Las Vegas",
+                "video": false,
+                "vote_average": 7.25,
+                "vote_count": 1534,
+                "credit_id": "5b6dc1520e0a267ee51437ff",
+                "department": "Crew",
+                "job": "Set Production Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Thomas Kevin Beard",
+            " T. Kevin Beard "
+        ],
+        "biography": "Kevin is an actor , stunt performer, and stunt coordinator.",
+        "birthday": "1970-04-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 92488,
+        "imdb_id": "nm0063910",
+        "known_for_department": "Crew",
+        "name": "Kevin Beard",
+        "place_of_birth": "Vicksburg, Mississippi, USA",
+        "popularity": 0.2329,
+        "profile_path": "/74KnyN0g1uL8PCyj9ZkIvbBGgDs.jpg"
+    }
+}

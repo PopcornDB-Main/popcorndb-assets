@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mo2O5ESdB7PWnY3OBS9jjvjeskB.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 11101,
+                "original_language": "de",
+                "original_title": "Stalingrad",
+                "overview": "A German Platoon is explored through the brutal fighting of the Battle of Stalingrad. After half of their number is wiped out and they're placed under the command of a sadistic captain, the platoon lieutenant leads his men to desert. The platoon members attempt escape from the city, now surrounded by the Soviet Army.",
+                "popularity": 3.8998,
+                "poster_path": "/rB78VDAOK94KJWp9ofgE3GSQEor.jpg",
+                "release_date": "1993-01-20",
+                "title": "Stalingrad",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 587,
+                "character": "Sergeant Manfred 'Rollo' Rohleder",
+                "credit_id": "52fe43f79251416c7502482d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 424,
+                "original_language": "en",
+                "original_title": "Schindler's List",
+                "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+                "popularity": 14.6569,
+                "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                "release_date": "1993-12-15",
+                "title": "Schindler's List",
+                "video": false,
+                "vote_average": 8.566,
+                "vote_count": 16703,
+                "character": "Wilhelm Kunde",
+                "credit_id": "5a47d4cec3a36818ff0016c5",
+                "order": 56
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1959-04-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4936,
+        "imdb_id": "nm0293695",
+        "known_for_department": "Acting",
+        "name": "Jochen Nickel",
+        "place_of_birth": "Witten, Germany",
+        "popularity": 0.2773,
+        "profile_path": "/mVNh33yMHoTneAF2OrsC4nvwBGL.jpg"
+    }
+}

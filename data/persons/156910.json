@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 35,
+                "original_language": "en",
+                "original_title": "The Simpsons Movie",
+                "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+                "popularity": 8.068,
+                "poster_path": "/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+                "release_date": "2007-07-25",
+                "title": "The Simpsons Movie",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 8276,
+                "character": "Man / EPA Driver (voice)",
+                "credit_id": "52fe4211c3a36847f8001623",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vKgsqmYHdNjtyhQIUjXW88IPeI.jpg",
+                "genre_ids": [
+                    18,
+                    10770
+                ],
+                "id": 3293,
+                "original_language": "en",
+                "original_title": "Pirates of Silicon Valley",
+                "overview": "The story about the men who made the world of technology what it is today, their struggles during college, the founding of their companies, and the ingenious actions they took to build up the global corporate empires of Apple Computer Inc. and Microsoft Corporation.",
+                "popularity": 2.1459,
+                "poster_path": "/ojebuTEgKU332KstOcE1B7nGBzi.jpg",
+                "release_date": "1999-06-20",
+                "title": "Pirates of Silicon Valley",
+                "video": false,
+                "vote_average": 7.075,
+                "vote_count": 566,
+                "character": "Mac Designer",
+                "credit_id": "661169bedf86a80164532def",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1969-02-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 156910,
+        "imdb_id": "nm0927293",
+        "known_for_department": "Acting",
+        "name": "Karl Wiedergott",
+        "place_of_birth": "Bergisch-Gladbach, North Rhine-Westphalia, Germany",
+        "popularity": 0.9915,
+        "profile_path": "/r5alSYfltRGa6m8eUT1CuGur2YE.jpg"
+    }
+}

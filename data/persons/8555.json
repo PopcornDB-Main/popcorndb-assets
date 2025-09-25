@@ -1,0 +1,182 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 14.1815,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.677,
+                "vote_count": 11008,
+                "character": "Meadows",
+                "credit_id": "52fe4255c3a36847f8016085",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/llVPUs3j9RywSMstGRepSeS8vSL.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 6471,
+                "original_language": "en",
+                "original_title": "The Jerk",
+                "overview": "After discovering he's not really black like the rest of his family, likable dimwit Navin Johnson sets off on a hilarious misadventure that takes him from rags to riches and back again. The slaphappy jerk strikes it rich, but life in the fast lane isn't all it's cracked up to be and, in the end, all that really matters to Johnson is his true love.",
+                "popularity": 1.8956,
+                "poster_path": "/mIjOWtUofyt9Jawge7FbvITjU3D.jpg",
+                "release_date": "1979-12-14",
+                "title": "The Jerk",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 849,
+                "character": "Iron Balls McGinty",
+                "credit_id": "52fe4454c3a36847f808f7df",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 651,
+                "original_language": "en",
+                "original_title": "M*A*S*H",
+                "overview": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+                "popularity": 3.3131,
+                "poster_path": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+                "release_date": "1970-02-18",
+                "title": "M*A*S*H",
+                "video": false,
+                "vote_average": 6.977,
+                "vote_count": 1088,
+                "character": "'Ugly John'",
+                "credit_id": "57a88f40c3a36835f60057ff",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/65d0MccsiRSPTVicregKQL8owoo.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 9603,
+                "original_language": "en",
+                "original_title": "Clueless",
+                "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
+                "popularity": 5.3906,
+                "poster_path": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+                "release_date": "1995-07-19",
+                "title": "Clueless",
+                "video": false,
+                "vote_average": 7.268,
+                "vote_count": 4610,
+                "character": "Priest",
+                "credit_id": "5b2ccae30e0a262860002bda",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
+                "genre_ids": [
+                    9648,
+                    18,
+                    80
+                ],
+                "id": 1847,
+                "original_language": "en",
+                "original_title": "The Long Goodbye",
+                "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+                "popularity": 2.9866,
+                "poster_path": "/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg",
+                "release_date": "1973-03-08",
+                "title": "The Long Goodbye",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 703,
+                "character": "Wade Party Guest  (uncredited)",
+                "credit_id": "5ff069935907de00403b7c84",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 14.1815,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.677,
+                "vote_count": 11008,
+                "credit_id": "52fe4255c3a36847f801602b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/llVPUs3j9RywSMstGRepSeS8vSL.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 6471,
+                "original_language": "en",
+                "original_title": "The Jerk",
+                "overview": "After discovering he's not really black like the rest of his family, likable dimwit Navin Johnson sets off on a hilarious misadventure that takes him from rags to riches and back again. The slaphappy jerk strikes it rich, but life in the fast lane isn't all it's cracked up to be and, in the end, all that really matters to Johnson is his true love.",
+                "popularity": 1.8956,
+                "poster_path": "/mIjOWtUofyt9Jawge7FbvITjU3D.jpg",
+                "release_date": "1979-12-14",
+                "title": "The Jerk",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 849,
+                "credit_id": "52fe4453c3a36847f808f7c3",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Carl A. Gottlieb"
+        ],
+        "biography": "\u200bFrom Wikipedia, the free encyclopedia. \u00a0\n\nCarl Gottlieb (born March 18, 1938) is an American screenwriter, actor, comedian and executive. He is probably best known for co-writing the screenplay for Jaws, as well as directing the 1981 low-budget cult film Caveman.\n\nDescription above from the Wikipedia article Carl Gottlieb, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1938-03-18",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8555,
+        "imdb_id": "nm0331956",
+        "known_for_department": "Writing",
+        "name": "Carl Gottlieb",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.3944,
+        "profile_path": "/tXsKWTANoQLwLyXTUteuDcDIc8b.jpg"
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eyjWwMOgkq4nh0wMtyW8XPJ749H.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 109410,
+                "original_language": "en",
+                "original_title": "42",
+                "overview": "In 1946, Branch Rickey, owner of the Brooklyn Dodgers, took a stand against Major League Baseball's infamous color line when he signed Jackie Robinson  to the team. The deal put both men in the crosshairs of the public, the press and even other players. Facing unabashed racism from every side, Robinson was forced to demonstrate tremendous courage and let his talent on the field wins over fans and his teammates \u2013 silencing his critics and forever changing the world by changing the game of baseball.",
+                "popularity": 5.3153,
+                "poster_path": "/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg",
+                "release_date": "2013-04-12",
+                "title": "42",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1882,
+                "character": "Jackie Robinson",
+                "credit_id": "52fe4ab2c3a36847f81dcdfb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 271110,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "popularity": 14.8673,
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "release_date": "2016-04-27",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 23402,
+                "character": "T'Challa / Black Panther",
+                "credit_id": "544fe6eec3a368023c0024b7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284054,
+                "original_language": "en",
+                "original_title": "Black Panther",
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "popularity": 11.0085,
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "release_date": "2018-02-13",
+                "title": "Black Panther",
+                "video": false,
+                "vote_average": 7.369,
+                "vote_count": 22812,
+                "character": "T'Challa / Black Panther",
+                "credit_id": "544fe785c3a3680242002758",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8nh70OvIsJKpfZdTMZoMJMb8aVE.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 392982,
+                "original_language": "en",
+                "original_title": "Marshall",
+                "overview": "Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.",
+                "popularity": 3.0399,
+                "poster_path": "/2KfdXsXTCbMie0wB1mSmIX60C2F.jpg",
+                "release_date": "2017-10-13",
+                "title": "Marshall",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 640,
+                "character": "Thurgood Marshall",
+                "credit_id": "57111d23c3a36831e1003d9d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.705,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.235,
+                "vote_count": 30938,
+                "character": "T'Challa / Black Panther",
+                "credit_id": "581f3687c3a3685afd0054ac",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.7585,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.237,
+                "vote_count": 26720,
+                "character": "T'Challa / Black Panther",
+                "credit_id": "5e85ce67691cd5001259536b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GU0jS5ZG5MhfdDrpj8s9XxbgJJ.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 505642,
+                "original_language": "en",
+                "original_title": "Black Panther: Wakanda Forever",
+                "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+                "popularity": 15.4925,
+                "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+                "release_date": "2022-11-09",
+                "title": "Black Panther: Wakanda Forever",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 7015,
+                "character": "T'Challa / Black Panther (archive footage) (uncredited)",
+                "credit_id": "68505418f90cc85092441c70",
+                "order": 78
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/1GU0jS5ZG5MhfdDrpj8s9XxbgJJ.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 505642,
+                "original_language": "en",
+                "original_title": "Black Panther: Wakanda Forever",
+                "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+                "popularity": 15.4925,
+                "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+                "release_date": "2022-11-09",
+                "title": "Black Panther: Wakanda Forever",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 7015,
+                "credit_id": "63705cbdd7fbda007befb4e4",
+                "department": "Crew",
+                "job": "In Memory Of"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8nh70OvIsJKpfZdTMZoMJMb8aVE.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 392982,
+                "original_language": "en",
+                "original_title": "Marshall",
+                "overview": "Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.",
+                "popularity": 3.0399,
+                "poster_path": "/2KfdXsXTCbMie0wB1mSmIX60C2F.jpg",
+                "release_date": "2017-10-13",
+                "title": "Marshall",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 640,
+                "credit_id": "5f4ac63e74507d0032abd7b8",
+                "department": "Production",
+                "job": "Co-Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Chadwick Aaron Boseman",
+            "Chad Boseman",
+            "\u03a4\u03c3\u03ac\u03bd\u03c4\u03b3\u03bf\u03c5\u03b9\u03ba \u039c\u03c0\u03cc\u03bf\u03c5\u03c3\u03bc\u03b1\u03bd",
+            "\u0686\u0627\u062f\u0648\u06cc\u06a9 \u0628\u0648\u0632\u0645\u0646"
+        ],
+        "biography": "Chadwick Boseman was an American actor, playwright, and screenwriter hailing from Anderson, South Carolina. He graduated from Howard University and went on to study at the British American Dramatic Academy in Oxford. \u00a0Boseman's play \"Deep Azure\" was nominated for a 2006 Joseph Jefferson Award for New Work. \u00a0His breakout role was playing the lead Jackie Robinson in 2013's 42.\n\nBoseman was best remembered for portraying T\u2019Challa/Black Panther in the Marvel Cinematic Universe. He has portrayed the character in Captain America: Civil War (2016), Black Panther (2018), Avengers: Infinity War (2018), and Avengers: Endgame (2019).",
+        "birthday": "1976-11-29",
+        "deathday": "2020-08-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 172069,
+        "imdb_id": "nm1569276",
+        "known_for_department": "Acting",
+        "name": "Chadwick Boseman",
+        "place_of_birth": "Anderson, South Carolina, USA",
+        "popularity": 0.8437,
+        "profile_path": "/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+    }
+}

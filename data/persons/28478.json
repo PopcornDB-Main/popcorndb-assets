@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 9.7222,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7474,
+                "character": "Lord Hesketh",
+                "credit_id": "52fe49bf9251416c750d20bb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 266856,
+                "original_language": "en",
+                "original_title": "The Theory of Everything",
+                "overview": "The Theory of Everything is the extraordinary story of one of the world\u2019s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
+                "popularity": 6.154,
+                "poster_path": "/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg",
+                "release_date": "2014-11-07",
+                "title": "The Theory of Everything",
+                "video": false,
+                "vote_average": 7.839,
+                "vote_count": 10823,
+                "character": "Roger Penrose",
+                "credit_id": "546e727592514112f000009a",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud06c\ub9ac\uc2a4\ud2f0\uc548 \ub9e5\ucf00\uc774",
+            "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d \u041c\u0430\u043a\u041a\u0435\u0439"
+        ],
+        "biography": "",
+        "birthday": "1973-11-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 28478,
+        "imdb_id": "nm1605114",
+        "known_for_department": "Acting",
+        "name": "Christian McKay",
+        "place_of_birth": "Bury, UK",
+        "popularity": 0.2827,
+        "profile_path": "/mF8XtoeRqFGnG0fN8uKfNC9BSWh.jpg"
+    }
+}

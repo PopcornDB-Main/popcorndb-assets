@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fnTrZiCRXCk3I6mnYvJwiMZf6pF.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 524348,
+                "original_language": "en",
+                "original_title": "The Report",
+                "overview": "The story of Daniel Jones, lead investigator for the US Senate\u2019s sweeping study into the CIA's Detention and Interrogation Program, which was found to be brutal, immoral and ineffective. With the truth at stake, Jones battled tirelessly to make public what many in power sought to keep hidden.",
+                "popularity": 3.5355,
+                "poster_path": "/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg",
+                "release_date": "2019-09-12",
+                "title": "The Report",
+                "video": false,
+                "vote_average": 7.045,
+                "vote_count": 1086,
+                "character": "Inspector General Buckley",
+                "credit_id": "5d7e3e73f0647c16679bdca6",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    28
+                ],
+                "id": 402900,
+                "original_language": "en",
+                "original_title": "Ocean's Eight",
+                "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+                "popularity": 9.0605,
+                "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+                "release_date": "2018-06-07",
+                "title": "Ocean's Eight",
+                "video": false,
+                "vote_average": 6.968,
+                "vote_count": 8525,
+                "character": "Paul Damanian",
+                "credit_id": "5eb8482010dad6001c2c4f51",
+                "order": 45
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1460932,
+        "imdb_id": "nm1159218",
+        "known_for_department": "Acting",
+        "name": "James Hindman",
+        "place_of_birth": null,
+        "popularity": 0.1628,
+        "profile_path": "/2MBfOXD3AKzUcPfDVMtfAvyBsP3.jpg"
+    }
+}

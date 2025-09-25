@@ -1,0 +1,190 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 746,
+                "original_language": "en",
+                "original_title": "The Last Emperor",
+                "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+                "popularity": 4.155,
+                "poster_path": "/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+                "release_date": "1987-10-04",
+                "title": "The Last Emperor",
+                "video": false,
+                "vote_average": 7.595,
+                "vote_count": 1796,
+                "character": "Chang",
+                "credit_id": "52fe426fc3a36847f801e853",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9Eo6FPq6A4aMeOe4tTmNKwUZRvM.jpg",
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 28178,
+                "original_language": "en",
+                "original_title": "Hachi: A Dog's Tale",
+                "overview": "A drama based on the true story of a college professor's bond with the abandoned dog he takes into his home.",
+                "popularity": 7.7083,
+                "poster_path": "/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+                "release_date": "2009-06-08",
+                "title": "Hachi: A Dog's Tale",
+                "video": false,
+                "vote_average": 8.012,
+                "vote_count": 6914,
+                "character": "Ken",
+                "credit_id": "52fe457fc3a368484e05ed27",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xKtWcQD2yugIKz49LvZNHdLM09T.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 256962,
+                "original_language": "en",
+                "original_title": "Little Boy",
+                "overview": "An eight-year-old boy is willing to do whatever it takes to end World War II so he can bring his father home. The story reveals the indescribable love a father has for his little boy and the love a son has for his father.",
+                "popularity": 2.8114,
+                "poster_path": "/lAU9pgq3niI6sFemcKm4FGGmrnW.jpg",
+                "release_date": "2015-04-23",
+                "title": "Little Boy",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 544,
+                "character": "Hashimoto",
+                "credit_id": "530b7acec3a3684201005d8a",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751
+                ],
+                "id": 313297,
+                "original_language": "en",
+                "original_title": "Kubo and the Two Strings",
+                "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+                "popularity": 4.6327,
+                "poster_path": "/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
+                "release_date": "2016-08-18",
+                "title": "Kubo and the Two Strings",
+                "video": false,
+                "vote_average": 7.633,
+                "vote_count": 3678,
+                "character": "Hashi (voice)",
+                "credit_id": "5668f0a39251417411004605",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obyCUbpZvMTizOqYWHqkTFgfvnf.jpg",
+                "genre_ids": [
+                    10752,
+                    10749,
+                    36,
+                    28
+                ],
+                "id": 676,
+                "original_language": "en",
+                "original_title": "Pearl Harbor",
+                "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+                "popularity": 9.0424,
+                "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+                "release_date": "2001-05-21",
+                "title": "Pearl Harbor",
+                "video": false,
+                "vote_average": 6.942,
+                "vote_count": 6742,
+                "character": "Cmdr. Minoru Genda",
+                "credit_id": "57df143cc3a36808ec00a189",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zJDnqXtGNHUmexiaWNa52Vslve5.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    36
+                ],
+                "id": 1904,
+                "original_language": "en",
+                "original_title": "Memoirs of a Geisha",
+                "overview": "In the years before World War II, a penniless Japanese child is torn from her family to work as a maid in a geisha house.",
+                "popularity": 4.5752,
+                "poster_path": "/9twKlPKD5Qd2EXX8lohW4zL8zQ8.jpg",
+                "release_date": "2005-12-06",
+                "title": "Memoirs of a Geisha",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 3198,
+                "character": "The Baron",
+                "credit_id": "5f337cb0e194b00033c591fa",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mAxA5ltgqNXLXlm7PO5XrWSo9U1.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 6978,
+                "original_language": "en",
+                "original_title": "Big Trouble in Little China",
+                "overview": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fianc\u00e9e is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+                "popularity": 5.9606,
+                "poster_path": "/aeGy6SZua7eFXEZP9zAvrLkkbI2.jpg",
+                "release_date": "1986-05-30",
+                "title": "Big Trouble in Little China",
+                "video": false,
+                "vote_average": 7.212,
+                "vote_count": 3162,
+                "character": "Wing Kong Man - Extra (uncredited)",
+                "credit_id": "6015c58b8a88b2003e992261",
+                "order": 47
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Tagawa Hiroyuki",
+            "\u30b1\u30a4\u30ea\u30fc\uff1d\u30d2\u30ed\u30e6\u30ad\u30fb\u30bf\u30ac\u30ef",
+            "\u7530\u5ddd\u6d0b\u884c",
+            "\uce90\ub9ac \ud788\ub85c\uc720\ud0a4 \ud0c0\uac00\uc640",
+            "\u06a9\u0631\u06cc \u0647\u06cc\u0631\u0648\u06cc\u0648\u06a9\u06cc \u062a\u0627\u06af\u0627\u0648\u0627"
+        ],
+        "biography": "Cary-Hiroyuki Tagawa (born September 27, 1950) is a Japanese-American actor, film producer, and martial artist.  In addition to his extensive film work, he has appeared on television in Star Trek: The Next Generation - \"Encounter at Farpoint\" (1987), Thunder in Paradise (1995), Nash Bridges (1996), Baywatch: Hawaiian Wedding (2003), and Heroes (2007). He also provided the voice of Sin Tzu for the video game Batman: Rise of Sin Tzu. He played the part of Earth Alliance security officer Morishi in Babylon 5 - \"Convictions\". He played a soul-stealing sorcerer Shang Tsung in a film adaptation of the video game Mortal Kombat, and more recently the evil mastermind Heihachi Mishima in the Tekken movie.\n\nDescription above from the Wikipedia article Cary-Hiroyuki Tagawa, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1950-09-27",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 11398,
+        "imdb_id": "nm0846480",
+        "known_for_department": "Acting",
+        "name": "Cary-Hiroyuki Tagawa",
+        "place_of_birth": "Tokyo, Japan",
+        "popularity": 0.9908,
+        "profile_path": "/5F8MQ4J4qIqUwGIfcWN4osrTUtP.jpg"
+    }
+}

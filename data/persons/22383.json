@@ -1,0 +1,186 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1573,
+                "original_language": "en",
+                "original_title": "Die Hard 2",
+                "overview": "One year after his heroics in Los Angeles, John McClane is an off-duty cop who is the wrong guy in the wrong place at the wrong time. On a snowy Christmas Eve, as he waits for his wife's plane to land at Washington Dulles International Airport, terrorists take over the air traffic control system in a plot to free a South American army general and drug smuggler being flown into the US to face drug charges. It's now up to McClane to take on the terrorists, while coping with an inept airport police chief, an uncooperative anti-terrorist squad, and the life of his wife and everyone else trapped in planes circling overhead.",
+                "popularity": 10.1465,
+                "poster_path": "/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
+                "release_date": "1990-07-03",
+                "title": "Die Hard 2",
+                "video": false,
+                "vote_average": 6.959,
+                "vote_count": 6088,
+                "character": "General Ramon Esperanza",
+                "credit_id": "52fe42ffc3a36847f8032a3f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/klreYbgIdSROmfXd1SlCWMgMBn1.jpg",
+                "genre_ids": [
+                    28,
+                    37
+                ],
+                "id": 10772,
+                "original_language": "it",
+                "original_title": "Django",
+                "overview": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a merciless masked clan and a band of Mexican revolutionaries.",
+                "popularity": 3.5553,
+                "poster_path": "/vs4vieNstSEfbgLFEelXXOPvr6h.jpg",
+                "release_date": "1966-04-06",
+                "title": "Django",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 943,
+                "character": "Django",
+                "credit_id": "52fe43b49251416c7501adff",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "character": "Amerigo Vessepi",
+                "credit_id": "52fe479fc3a368484e0d1331",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 758323,
+                "original_language": "en",
+                "original_title": "The Pope's Exorcist",
+                "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+                "popularity": 8.1215,
+                "poster_path": "/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg",
+                "release_date": "2023-04-05",
+                "title": "The Pope's Exorcist",
+                "video": false,
+                "vote_average": 6.948,
+                "vote_count": 2955,
+                "character": "The Pope",
+                "credit_id": "62f562b81d3143007de7220d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 324552,
+                "original_language": "en",
+                "original_title": "John Wick: Chapter 2",
+                "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
+                "popularity": 15.4382,
+                "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+                "release_date": "2017-02-08",
+                "title": "John Wick: Chapter 2",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 13678,
+                "character": "Julius",
+                "credit_id": "58a034dcc3a3680300004928",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2dCkaxVGvXnPfQC07cweMAT2n3F.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 37056,
+                "original_language": "en",
+                "original_title": "Letters to Juliet",
+                "overview": "An American girl on vacation in Italy finds an unanswered \"letter to Juliet\" -- one of thousands of missives left at the fictional lover's Verona courtyard, which are typically answered by the \"secretaries of Juliet\" -- and she goes on a quest to find the lovers referenced in the letter.",
+                "popularity": 2.701,
+                "poster_path": "/y9DdvY1IRNS2hWLq161hmP2gXn.jpg",
+                "release_date": "2010-05-13",
+                "title": "Letters to Juliet",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 2927,
+                "character": "Lorenzo",
+                "credit_id": "5f486b077739410035e93b55",
+                "order": 4
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "credit_id": "5703f682c3a368697a000197",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Frank Black",
+            "Frank Nero",
+            "Francesco Clemente Giuseppe Sparanero",
+            "\u0641\u0631\u0627\u0646\u06a9\u0648 \u0646\u0631\u0648",
+            "\u0641\u0631\u0627\u0646\u06a9\u0648 \u0646\u0650\u0631\u0648"
+        ],
+        "biography": "Francesco Clemente Giuseppe Sparanero, known professionally as Franco Nero, is an Italian actor, producer, and director. His breakthrough role was as the title character in the Spaghetti Western film Django (1966), which made him a pop culture icon and launched an international career that includes over 200 leading and supporting roles in a wide variety of films and television programmes.\n\nDuring the 1960s and 1970s, Nero was actively involved in many popular Italian \"genre trends\", including poliziotteschi, gialli, and Spaghetti Westerns. His best-known films include The Bible: In the Beginning... (1966), Camelot (1967), The Day of the Owl (1968), The Mercenary (1968), Battle of Neretva (1969), Tristana (1970), Compa\u00f1eros (1970), Confessions of a Police Captain (1971), The Fifth Cord (1971), High Crime (1973), Street Law (1974), Keoma (1976), Hitch-Hike (1977), Force 10 from Navarone (1978), Enter the Ninja (1981), Die Hard 2 (1990), Letters to Juliet (2010), Cars 2 (2011), and John Wick: Chapter 2 (2017).\n\nNero has had a long relationship with Vanessa Redgrave, which began during the filming of Camelot. They were married in 2006, and are the parents of the actor Carlo Gabriel Nero.",
+        "birthday": "1941-11-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 22383,
+        "imdb_id": "nm0626259",
+        "known_for_department": "Acting",
+        "name": "Franco Nero",
+        "place_of_birth": "San Prospero Parmense, Emilia-Romagna, Italy",
+        "popularity": 1.2581,
+        "profile_path": "/uiCrTolkOqpZYVxveMZeBx7sjZO.jpg"
+    }
+}

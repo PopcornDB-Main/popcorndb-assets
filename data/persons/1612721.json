@@ -1,0 +1,114 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.8716,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4469,
+                "character": "Dr. Laurel",
+                "credit_id": "5723b0cf9251415af900109b",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+                "genre_ids": [
+                    14,
+                    12
+                ],
+                "id": 259316,
+                "original_language": "en",
+                "original_title": "Fantastic Beasts and Where to Find Them",
+                "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+                "popularity": 13.9527,
+                "poster_path": "/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+                "release_date": "2016-11-16",
+                "title": "Fantastic Beasts and Where to Find Them",
+                "video": false,
+                "vote_average": 7.311,
+                "vote_count": 19236,
+                "character": "Guide - Inside Macusa",
+                "credit_id": "5909d703c3a368357100db2a",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.7837,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.11,
+                "vote_count": 10399,
+                "character": "Emergency Room Doctor",
+                "credit_id": "605424a9a1d33200288aa279",
+                "order": 71
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6van4BavoNXaZhCPdzLHNQ4Uc8H.jpg",
+                "genre_ids": [
+                    53,
+                    28
+                ],
+                "id": 1087891,
+                "original_language": "en",
+                "original_title": "The Amateur",
+                "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+                "popularity": 26.237,
+                "poster_path": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+                "release_date": "2025-04-09",
+                "title": "The Amateur",
+                "video": false,
+                "vote_average": 6.992,
+                "vote_count": 1187,
+                "character": "CIA Team #1 / Vestry",
+                "credit_id": "67e5fb2e027e737406001ec9",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1612721,
+        "imdb_id": "nm3453330",
+        "known_for_department": "Acting",
+        "name": "Christy Meyer",
+        "place_of_birth": null,
+        "popularity": 0.1988,
+        "profile_path": "/abJUb0FtGxhNi6VZuBZosirfDbx.jpg"
+    }
+}

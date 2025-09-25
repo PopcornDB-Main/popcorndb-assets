@@ -1,0 +1,416 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 2108,
+                "original_language": "en",
+                "original_title": "The Breakfast Club",
+                "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+                "popularity": 4.4006,
+                "poster_path": "/wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+                "release_date": "1985-02-15",
+                "title": "The Breakfast Club",
+                "video": false,
+                "vote_average": 7.729,
+                "vote_count": 8250,
+                "character": "Brian\u2019s Father (uncredited)",
+                "credit_id": "64fd6bc5ffc9de0ee1757ff3",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 9377,
+                "original_language": "en",
+                "original_title": "Ferris Bueller's Day Off",
+                "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+                "popularity": 6.3107,
+                "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+                "release_date": "1986-06-11",
+                "title": "Ferris Bueller's Day Off",
+                "video": false,
+                "vote_average": 7.571,
+                "vote_count": 5129,
+                "character": "Guy Running Between Cabs (uncredited)",
+                "credit_id": "5f98c2db048638003620ca7b",
+                "order": 44
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ySmjHc3LZd4VmmIa6sgwkMIm6xl.jpg",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 771,
+                "original_language": "en",
+                "original_title": "Home Alone",
+                "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+                "popularity": 0.6992,
+                "poster_path": "/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
+                "release_date": "1990-11-16",
+                "title": "Home Alone",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 11855,
+                "credit_id": "52fe4274c3a36847f801ff47",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ySmjHc3LZd4VmmIa6sgwkMIm6xl.jpg",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 771,
+                "original_language": "en",
+                "original_title": "Home Alone",
+                "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+                "popularity": 0.6992,
+                "poster_path": "/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
+                "release_date": "1990-11-16",
+                "title": "Home Alone",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 11855,
+                "credit_id": "52fe4274c3a36847f801ff4d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k1YVyPL1ZvEXAOeBvNEuPweA3XY.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2609,
+                "original_language": "en",
+                "original_title": "Planes, Trains and Automobiles",
+                "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.",
+                "popularity": 2.6291,
+                "poster_path": "/3RSucVsX96Ste8WDJfZP1hbNGqQ.jpg",
+                "release_date": "1987-11-26",
+                "title": "Planes, Trains and Automobiles",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 2054,
+                "credit_id": "52fe435fc3a36847f804f689",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k1YVyPL1ZvEXAOeBvNEuPweA3XY.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2609,
+                "original_language": "en",
+                "original_title": "Planes, Trains and Automobiles",
+                "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.",
+                "popularity": 2.6291,
+                "poster_path": "/3RSucVsX96Ste8WDJfZP1hbNGqQ.jpg",
+                "release_date": "1987-11-26",
+                "title": "Planes, Trains and Automobiles",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 2054,
+                "credit_id": "52fe435fc3a36847f804f683",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k1YVyPL1ZvEXAOeBvNEuPweA3XY.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2609,
+                "original_language": "en",
+                "original_title": "Planes, Trains and Automobiles",
+                "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.",
+                "popularity": 2.6291,
+                "poster_path": "/3RSucVsX96Ste8WDJfZP1hbNGqQ.jpg",
+                "release_date": "1987-11-26",
+                "title": "Planes, Trains and Automobiles",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 2054,
+                "credit_id": "52fe435fc3a36847f804f68f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 2108,
+                "original_language": "en",
+                "original_title": "The Breakfast Club",
+                "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+                "popularity": 4.4006,
+                "poster_path": "/wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+                "release_date": "1985-02-15",
+                "title": "The Breakfast Club",
+                "video": false,
+                "vote_average": 7.729,
+                "vote_count": 8250,
+                "credit_id": "52fe4336c3a36847f8042e69",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 2108,
+                "original_language": "en",
+                "original_title": "The Breakfast Club",
+                "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+                "popularity": 4.4006,
+                "poster_path": "/wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+                "release_date": "1985-02-15",
+                "title": "The Breakfast Club",
+                "video": false,
+                "vote_average": 7.729,
+                "vote_count": 8250,
+                "credit_id": "52fe4336c3a36847f8042e6f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rBL73dGfdEqTr7Xj0HytF9s9SbM.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 11153,
+                "original_language": "en",
+                "original_title": "National Lampoon's Vacation",
+                "overview": "Clark Griswold is on a quest to take his family to the Walley World theme park for a vacation, but things don't go exactly as planned.",
+                "popularity": 4.1775,
+                "poster_path": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+                "release_date": "1983-07-29",
+                "title": "National Lampoon's Vacation",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 1637,
+                "credit_id": "52fe44039251416c75025f09",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 5825,
+                "original_language": "en",
+                "original_title": "National Lampoon's Christmas Vacation",
+                "overview": "It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon.",
+                "popularity": 4.8276,
+                "poster_path": "/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+                "release_date": "1989-11-30",
+                "title": "National Lampoon's Christmas Vacation",
+                "video": false,
+                "vote_average": 7.232,
+                "vote_count": 2527,
+                "credit_id": "52fe4424c3a36847f8084acd",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 5825,
+                "original_language": "en",
+                "original_title": "National Lampoon's Christmas Vacation",
+                "overview": "It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon.",
+                "popularity": 4.8276,
+                "poster_path": "/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+                "release_date": "1989-11-30",
+                "title": "National Lampoon's Christmas Vacation",
+                "video": false,
+                "vote_average": 7.232,
+                "vote_count": 2527,
+                "credit_id": "52fe4424c3a36847f8084ad3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 9377,
+                "original_language": "en",
+                "original_title": "Ferris Bueller's Day Off",
+                "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+                "popularity": 6.3107,
+                "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+                "release_date": "1986-06-11",
+                "title": "Ferris Bueller's Day Off",
+                "video": false,
+                "vote_average": 7.571,
+                "vote_count": 5129,
+                "credit_id": "52fe44efc3a36847f80b2c91",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 9377,
+                "original_language": "en",
+                "original_title": "Ferris Bueller's Day Off",
+                "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+                "popularity": 6.3107,
+                "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+                "release_date": "1986-06-11",
+                "title": "Ferris Bueller's Day Off",
+                "video": false,
+                "vote_average": 7.571,
+                "vote_count": 5129,
+                "credit_id": "52fe44efc3a36847f80b2ca3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y9UU2JNjoFPI7ZvCuiWzpN9GJHZ.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 16270,
+                "original_language": "en",
+                "original_title": "Career Opportunities",
+                "overview": "Josie, the daughter of the town's wealthiest businessman, faces problems at home and wishes to leave town but is disoriented. Her decision is finalized after she falls asleep in a Target dressing room. She awakens to find herself locked in the store overnight with the janitor, Jim, the town \"no hoper\" and liar.",
+                "popularity": 4.7726,
+                "poster_path": "/opfsY8aUZ1GjqiZFvYzdvETzl1l.jpg",
+                "release_date": "1991-03-29",
+                "title": "Career Opportunities",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 705,
+                "credit_id": "52fe46bf9251416c7508224b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 2108,
+                "original_language": "en",
+                "original_title": "The Breakfast Club",
+                "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+                "popularity": 4.4006,
+                "poster_path": "/wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+                "release_date": "1985-02-15",
+                "title": "The Breakfast Club",
+                "video": false,
+                "vote_average": 7.729,
+                "vote_count": 8250,
+                "credit_id": "6122533466ae4d005b5570c2",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 9377,
+                "original_language": "en",
+                "original_title": "Ferris Bueller's Day Off",
+                "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+                "popularity": 6.3107,
+                "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+                "release_date": "1986-06-11",
+                "title": "Ferris Bueller's Day Off",
+                "video": false,
+                "vote_average": 7.571,
+                "vote_count": 5129,
+                "credit_id": "61ea06dafea0d7009e88b84c",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y9UU2JNjoFPI7ZvCuiWzpN9GJHZ.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 16270,
+                "original_language": "en",
+                "original_title": "Career Opportunities",
+                "overview": "Josie, the daughter of the town's wealthiest businessman, faces problems at home and wishes to leave town but is disoriented. Her decision is finalized after she falls asleep in a Target dressing room. She awakens to find herself locked in the store overnight with the janitor, Jim, the town \"no hoper\" and liar.",
+                "popularity": 4.7726,
+                "poster_path": "/opfsY8aUZ1GjqiZFvYzdvETzl1l.jpg",
+                "release_date": "1991-03-29",
+                "title": "Career Opportunities",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 705,
+                "credit_id": "56c1287d92514109be000f83",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edmond Dant\u00e8s",
+            "Edmond Dantes",
+            "John Wilden Hughes Jr.",
+            "\u091c\u093e\u0945\u0928 \u0939\u094d\u092f\u0942\u091c\u0947\u0938"
+        ],
+        "biography": "John Hughes (February 18, 1950 \u2013 August 6, 2009) was an American film director, producer and screenwriter. He directed and scripted some of the most successful films of the 1980s and 1990s, including National Lampoon's Vacation, Ferris Bueller's Day Off, Weird Science, The Breakfast Club, Some Kind of Wonderful, Sixteen Candles, Pretty in Pink; Planes, Trains and Automobiles; Uncle Buck, Career Opportunities, 101 Dalmatians, Home Alone, and its sequels, Home Alone 2 and Home Alone 3.",
+        "birthday": "1950-02-18",
+        "deathday": "2009-08-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 11505,
+        "imdb_id": "nm0000455",
+        "known_for_department": "Writing",
+        "name": "John Hughes",
+        "place_of_birth": "Lansing, Michigan, USA",
+        "popularity": 0.7556,
+        "profile_path": "/7QBh9D3Qjf667Q549VeJAAV7O38.jpg"
+    }
+}

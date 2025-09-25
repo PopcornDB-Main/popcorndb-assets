@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    36
+                ],
+                "id": 407448,
+                "original_language": "en",
+                "original_title": "Detroit",
+                "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+                "popularity": 4.9658,
+                "poster_path": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+                "release_date": "2017-07-28",
+                "title": "Detroit",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1688,
+                "character": "Flynn",
+                "credit_id": "57d4fad79251413667003ed8",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 324786,
+                "original_language": "en",
+                "original_title": "Hacksaw Ridge",
+                "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+                "popularity": 17.0287,
+                "poster_path": "/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+                "release_date": "2016-10-07",
+                "title": "Hacksaw Ridge",
+                "video": false,
+                "vote_average": 8.193,
+                "vote_count": 14313,
+                "character": "Corporal Jessop",
+                "credit_id": "58542fbcc3a368258f02a3a4",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Ben O'Toole is known for his work on Hacksaw Ridge (2016), Detroit (2017) and The Water Diviner (2014).",
+        "birthday": "1991-07-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1394235,
+        "imdb_id": "nm4649116",
+        "known_for_department": "Acting",
+        "name": "Ben O'Toole",
+        "place_of_birth": "Brisbane, Queensland, Australia",
+        "popularity": 0.2362,
+        "profile_path": "/AwrcmZgIgBZCMU7PcVczarlo2VE.jpg"
+    }
+}

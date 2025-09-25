@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7EazpcvoCfNZZysgljUAkQCBvW.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 614917,
+                "original_language": "en",
+                "original_title": "King Richard",
+                "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+                "popularity": 5.0956,
+                "poster_path": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+                "release_date": "2021-11-18",
+                "title": "King Richard",
+                "video": false,
+                "vote_average": 7.622,
+                "vote_count": 2673,
+                "character": "Parent",
+                "credit_id": "619a77421feac100905a690e",
+                "order": 85
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nsWgxQrDcTVhSGzAu5kVlw64XB1.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    10770,
+                    10402
+                ],
+                "id": 35558,
+                "original_language": "en",
+                "original_title": "Starstruck",
+                "overview": "Pop star Christopher Wilde has fame, fortune and a big-budget Hollywood movie awaiting him. But after meeting Jessica Olson, a down-to-earth girl from the Midwest, he is faced with following his heart or doing what's best for his career.",
+                "popularity": 3.6105,
+                "poster_path": "/kuyJuNiiZvu5iNr8Dgv5y75v1uc.jpg",
+                "release_date": "2010-02-14",
+                "title": "Starstruck",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1208,
+                "character": "Paparazzi",
+                "credit_id": "5db4b3f0f056d500140f26b1",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2441587,
+        "imdb_id": "nm3315776",
+        "known_for_department": "Acting",
+        "name": "Aryn Nelson",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

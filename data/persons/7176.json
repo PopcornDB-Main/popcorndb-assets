@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.6755,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 4373,
+                "character": "Steve 'The Colonel' Cropper",
+                "credit_id": "52fe424dc3a36847f8013afb",
+                "order": 6
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1941-10-21",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 7176,
+        "imdb_id": "nm0188936",
+        "known_for_department": "Acting",
+        "name": "Steve Cropper",
+        "place_of_birth": "Willow Springs, Missouri, USA",
+        "popularity": 0.3395,
+        "profile_path": "/bpM7BVFPrnasFEecozKmeI34714.jpg"
+    }
+}

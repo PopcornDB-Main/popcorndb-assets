@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9U4Di9iOslz3eJ9eRkdg5Qrf9JY.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1371,
+                "original_language": "en",
+                "original_title": "Rocky III",
+                "overview": "Following Rocky Balboa's intense battle with his most powerful adversary yet \u2013 the ferocious Clubber Lang \u2013 Rocky joins forces with former rival Apollo Creed in an effort to get back his fighting spirit.",
+                "popularity": 6.9839,
+                "poster_path": "/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+                "release_date": "1982-05-28",
+                "title": "Rocky III",
+                "video": false,
+                "vote_average": 6.895,
+                "vote_count": 4305,
+                "character": "Clubber Lang",
+                "credit_id": "52fe42f0c3a36847f802e55f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.6755,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 4373,
+                "character": "Guy on Street",
+                "credit_id": "6028767d417aaf003e075655",
+                "order": 59
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "T",
+            "Laurence Tureaud",
+            "\u0644\u0627\u0631\u0646\u0633 \u062a\u0631\u0648\u062f"
+        ],
+        "biography": "Mr. T (born Laurence Tureaud; May 21, 1952) is an American actor known for his roles as B. A. Baracus in the 1980s television series The A-Team, as boxer Clubber Lang in the 1982 film Rocky III, and for his appearances as a professional wrestler. Mr. T is known for his trademark African Mandinka warrior hairstyle, his gold jewelry, and his tough-guy image. In 2006 he starred in the reality show I Pity the Fool, shown on TV Land, the title of which comes from his catchphrase from the film Rocky III.",
+        "birthday": "1952-05-21",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 16619,
+        "imdb_id": "nm0001558",
+        "known_for_department": "Acting",
+        "name": "Mr. T",
+        "place_of_birth": "Chicago, Illinois, USA",
+        "popularity": 0.9392,
+        "profile_path": "/pJbHlEsrhyW8dptDwBdXpoY9EmQ.jpg"
+    }
+}

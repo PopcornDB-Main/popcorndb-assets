@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/a4f6y7gbMmMLrwzJZrwmcNmEBM1.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 1592,
+                "original_language": "en",
+                "original_title": "Primal Fear",
+                "overview": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room.",
+                "popularity": 6.4438,
+                "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+                "release_date": "1996-03-06",
+                "title": "Primal Fear",
+                "video": false,
+                "vote_average": 7.656,
+                "vote_count": 3627,
+                "character": "Old Man",
+                "credit_id": "6437e75cc2679600981bbf1d",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g5gwbwR98yN1TvycqHCJZhCPa7O.jpg",
+                "genre_ids": [
+                    18,
+                    14
+                ],
+                "id": 2323,
+                "original_language": "en",
+                "original_title": "Field of Dreams",
+                "overview": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
+                "popularity": 2.7996,
+                "poster_path": "/vL7F8T9B6r4Uztpe1Hw4o63I1m1.jpg",
+                "release_date": "1989-04-21",
+                "title": "Field of Dreams",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 1578,
+                "character": "Third Man in Bar",
+                "credit_id": "67c50f55db0508248a7a65bb",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph Ryan"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1794614,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Joseph R. Ryan",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

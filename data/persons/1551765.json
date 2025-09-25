@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 369972,
+                "original_language": "en",
+                "original_title": "First Man",
+                "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+                "popularity": 3.8495,
+                "poster_path": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+                "release_date": "2018-10-10",
+                "title": "First Man",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 5437,
+                "character": "Gil-Scott Heron",
+                "credit_id": "5bc2821992514179ba038d51",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    28
+                ],
+                "id": 402900,
+                "original_language": "en",
+                "original_title": "Ocean's Eight",
+                "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+                "popularity": 9.0605,
+                "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+                "release_date": "2018-06-07",
+                "title": "Ocean's Eight",
+                "video": false,
+                "vote_average": 6.968,
+                "vote_count": 8525,
+                "character": "Leon Bridges",
+                "credit_id": "5eb85596cc277c00216e73a6",
+                "order": 82
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1551765,
+        "imdb_id": "nm5910736",
+        "known_for_department": "Acting",
+        "name": "Leon Bridges",
+        "place_of_birth": null,
+        "popularity": 0.678,
+        "profile_path": "/zGRcaluC324D1hLlVQZvUU0VESG.jpg"
+    }
+}

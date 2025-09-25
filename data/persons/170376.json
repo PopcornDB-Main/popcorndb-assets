@@ -1,0 +1,65 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/y5PH2cM3mHt2Q74lMzhuqQi93sh.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 60308,
+                "original_language": "en",
+                "original_title": "Moneyball",
+                "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+                "popularity": 6.0763,
+                "poster_path": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+                "release_date": "2011-09-23",
+                "title": "Moneyball",
+                "video": false,
+                "vote_average": 7.28,
+                "vote_count": 5453,
+                "character": "Billy's Dad",
+                "credit_id": "52fe461fc3a368484e080119",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 37799,
+                "original_language": "en",
+                "original_title": "The Social Network",
+                "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+                "popularity": 7.5791,
+                "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+                "release_date": "2010-10-01",
+                "title": "The Social Network",
+                "video": false,
+                "vote_average": 7.37,
+                "vote_count": 12636,
+                "character": "Prince Albert",
+                "credit_id": "5643eb13c3a36870db003dc3",
+                "order": 80
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "James Shanklin  is an actor.",
+        "birthday": "1957-10-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 170376,
+        "imdb_id": "nm1255793",
+        "known_for_department": "Acting",
+        "name": "James Shanklin",
+        "place_of_birth": "Baltimore, Maryland, USA",
+        "popularity": 0.1414,
+        "profile_path": "/teMNAV8dp4KmR8AriT5IJPztPEu.jpg"
+    }
+}

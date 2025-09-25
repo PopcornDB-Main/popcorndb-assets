@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mujUrk2diGe5vRCb3kdpHZeobRs.jpg",
+                "genre_ids": [
+                    53
+                ],
+                "id": 6145,
+                "original_language": "en",
+                "original_title": "Fracture",
+                "overview": "A husband is on trial for the attempted murder of his wife, in what is seemingly an open/shut case for the ambitious district attorney trying to put him away. However, there are surprises for both around every corner, and, as a suspenseful game of cat-and-mouse is played out, each must manipulate and outwit the other.",
+                "popularity": 8.116,
+                "poster_path": "/qNen8x5gaikjIg9CFihgxYcJwQe.jpg",
+                "release_date": "2007-04-19",
+                "title": "Fracture",
+                "video": false,
+                "vote_average": 7.264,
+                "vote_count": 4083,
+                "character": "Public Defender",
+                "credit_id": "615c9b908e2ba600214968e8",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jZ9lWWCnV5gBRe29PpzEXNgf8i8.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11093,
+                "original_language": "en",
+                "original_title": "House of Sand and Fog",
+                "overview": "Behrani, an Iranian immigrant buys a California bungalow, thinking he can fix it up, sell it again, and make enough money to send his son to college. However, the house is the legal property of former drug addict Kathy. After losing the house in an unfair legal dispute with the county, she is left with nowhere to go. Wanting her house back, she hires a lawyer and befriends a police officer. Neither Kathy nor Behrani have broken the law, so they find themselves involved in a difficult moral dilemma.",
+                "popularity": 2.0342,
+                "poster_path": "/hLxSOukLfC4j5pNbdE7lqaw8KgL.jpg",
+                "release_date": "2003-12-19",
+                "title": "House of Sand and Fog",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 790,
+                "character": "Gary",
+                "credit_id": "659e36068e8d30025e12591e",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1ufic9NSdolkgNkQSAVjlVp0uqn.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 210577,
+                "original_language": "en",
+                "original_title": "Gone Girl",
+                "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+                "popularity": 18.2364,
+                "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+                "release_date": "2014-10-01",
+                "title": "Gone Girl",
+                "video": false,
+                "vote_average": 7.89,
+                "vote_count": 19271,
+                "character": "Doctor",
+                "credit_id": "550308bdc3a3685b96004b4e",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eBmIaAm1CkBuuyIUQYorhQKzTTg.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 3580,
+                "original_language": "en",
+                "original_title": "Changeling",
+                "overview": "Los Angeles, 1928. When single mother Christine Collins leaves for work, her son vanishes without a trace. Five months later, the police reunite mother and son. But when Christine suspects that the boy returned to her isn't her child, her quest for truth exposes a world of corruption.",
+                "popularity": 4.9735,
+                "poster_path": "/y9Qi39dL3PceGCH8afyC7QrhbhI.jpg",
+                "release_date": "2008-10-24",
+                "title": "Changeling",
+                "video": false,
+                "vote_average": 7.584,
+                "vote_count": 4314,
+                "character": "Prison Guard",
+                "credit_id": "56aba6859251417e14003284",
+                "order": 66
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 363676,
+                "original_language": "en",
+                "original_title": "Sully",
+                "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+                "popularity": 6.6344,
+                "poster_path": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+                "release_date": "2016-09-07",
+                "title": "Sully",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 7437,
+                "character": "Jim Whitaker",
+                "credit_id": "57ed6cad92514131cc000032",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 1949,
+                "original_language": "en",
+                "original_title": "Zodiac",
+                "overview": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+                "popularity": 7.688,
+                "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+                "release_date": "2007-03-02",
+                "title": "Zodiac",
+                "video": false,
+                "vote_average": 7.528,
+                "vote_count": 11041,
+                "character": "Internal Affairs Agent #1",
+                "credit_id": "5f29d5ced8cc4a00391edda0",
+                "order": 67
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ray Thornton",
+            "Ray Cooper Thornton ",
+            "Cooper Thorton "
+        ],
+        "biography": "Born and raised in Nashville, Tennessee, Cooper grew up focusing primarily on competitive swimming. He received his MFA in Dramatic Performance from the Univ. of Cincinatti College Conservatory of Music (CCM) and then went on for further study at the Welsh College of Music and Drama (Welsh National Conservatoire) in Cardiff, Wales where he was honored as a President's Scholar. He was also honored at the British National Student Drama Festival and the Edinburgh Fringe Festival for his one man multi-character show \"Life on the Absolute Edge\". He made his feature film debut in the independent film \"Existo\" and his Los Angeles theater debut in Arthur Miller's \"After The Fall\" at The Fountain Theatre for which he won Best Supporting Actor. He now resides in Los Angeles, California with his wife and family.  - IMDb Mini Biography",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 162828,
+        "imdb_id": "nm0861583",
+        "known_for_department": "Acting",
+        "name": "Cooper Thornton",
+        "place_of_birth": "Nashville, Tennessee, USA",
+        "popularity": 0.4254,
+        "profile_path": "/kjY24DXUXQy1aY0T4cXPPg8y8Bl.jpg"
+    }
+}

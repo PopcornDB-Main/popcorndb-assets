@@ -1,0 +1,164 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rRY5VgnpT1Pm9eYIlsboCbUgn5z.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    37
+                ],
+                "id": 16563,
+                "original_language": "en",
+                "original_title": "Seven Brides for Seven Brothers",
+                "overview": "In 1850 Oregon, when a backwoodsman brings a wife home to his farm, his six brothers decide that they want to get married too.",
+                "popularity": 2.6273,
+                "poster_path": "/8Z4W2oRQKkmt7lhqNPROcNru9yJ.jpg",
+                "release_date": "1954-07-22",
+                "title": "Seven Brides for Seven Brothers",
+                "video": false,
+                "vote_average": 7.148,
+                "vote_count": 553,
+                "character": "Member of Second Barn Raising Team (uncredited)",
+                "credit_id": "660db245da9ef2016456e682",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+                "genre_ids": [
+                    36,
+                    10752,
+                    18,
+                    12
+                ],
+                "id": 967,
+                "original_language": "en",
+                "original_title": "Spartacus",
+                "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+                "popularity": 6.2092,
+                "poster_path": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+                "release_date": "1960-10-13",
+                "title": "Spartacus",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 2262,
+                "character": "Capua Guard (uncredited)",
+                "credit_id": "56020861c3a3685526000954",
+                "order": 71
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t1ptcIJiPzxR4cM9q7i0RFizFd8.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    10751
+                ],
+                "id": 173,
+                "original_language": "en",
+                "original_title": "20,000 Leagues Under the Sea",
+                "overview": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
+                "popularity": 3.5508,
+                "poster_path": "/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+                "release_date": "1954-12-23",
+                "title": "20,000 Leagues Under the Sea",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 929,
+                "character": "Nautilus Seaman (uncredited)",
+                "credit_id": "572a22bb92514109eb0000d7",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8Tnn2UOlecCKNLKG8ZK5Mu6bK94.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 845,
+                "original_language": "en",
+                "original_title": "Strangers on a Train",
+                "overview": "Having met on a train, a smooth-talking psychotic socialite shares his theory on how two complete strangers can get away with murder to an amateur tennis player \u2014 a theory he plans to test out.",
+                "popularity": 3.6336,
+                "poster_path": "/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+                "release_date": "1951-06-27",
+                "title": "Strangers on a Train",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1775,
+                "character": "Detective at Merry-Go-Round (uncredited)",
+                "credit_id": "67d89b3ceae7fe8208b87200",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    53
+                ],
+                "id": 551,
+                "original_language": "en",
+                "original_title": "The Poseidon Adventure",
+                "overview": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+                "popularity": 3.772,
+                "poster_path": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+                "release_date": "1972-12-01",
+                "title": "The Poseidon Adventure",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 937,
+                "credit_id": "6420ce1e8d22fc01128a66de",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8Tnn2UOlecCKNLKG8ZK5Mu6bK94.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 845,
+                "original_language": "en",
+                "original_title": "Strangers on a Train",
+                "overview": "Having met on a train, a smooth-talking psychotic socialite shares his theory on how two complete strangers can get away with murder to an amateur tennis player \u2014 a theory he plans to test out.",
+                "popularity": 3.6336,
+                "poster_path": "/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+                "release_date": "1951-06-27",
+                "title": "Strangers on a Train",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1775,
+                "credit_id": "67d89916355aa63915150dce",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Johnny Day",
+            "John Day"
+        ],
+        "biography": "Aka, John Day - he was a stunt man, stunt coordinator, and actor, mostly in smaller roles, though he was the lead in the 1946 B-movie, Detour to Danger.",
+        "birthday": "1916-06-16",
+        "deathday": "1991-09-22",
+        "gender": 2,
+        "homepage": null,
+        "id": 91218,
+        "imdb_id": "nm0196876",
+        "known_for_department": "Acting",
+        "name": "John Daheim",
+        "place_of_birth": "Minneapolis, Minnesota, USA",
+        "popularity": 0.1478,
+        "profile_path": "/ci3PxMl0yKHurPcrMo79vBFrw21.jpg"
+    }
+}

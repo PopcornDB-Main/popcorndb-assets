@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    28
+                ],
+                "id": 617653,
+                "original_language": "en",
+                "original_title": "The Last Duel",
+                "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+                "popularity": 5.1662,
+                "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+                "release_date": "2021-10-13",
+                "title": "The Last Duel",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 3608,
+                "character": "Thomin Dubois",
+                "credit_id": "62f1068a1f748b00811617fc",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 390043,
+                "original_language": "en",
+                "original_title": "The Hitman's Bodyguard",
+                "overview": "The world\u2019s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+                "popularity": 5.7264,
+                "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+                "release_date": "2017-08-16",
+                "title": "The Hitman's Bodyguard",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 6418,
+                "character": "Garrett",
+                "credit_id": "5963fe80c3a368293b105da3",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Samuel Hazeldine (born 29 March 1972) is an English actor.",
+        "birthday": "1972-03-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 563559,
+        "imdb_id": "nm1486831",
+        "known_for_department": "Acting",
+        "name": "Sam Hazeldine",
+        "place_of_birth": "Hammersmith, London, England, UK",
+        "popularity": 0.6202,
+        "profile_path": "/lzxuRO9hkI2LWGUCXssemiIUgeX.jpg"
+    }
+}

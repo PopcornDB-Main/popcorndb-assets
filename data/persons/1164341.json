@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    18,
+                    878
+                ],
+                "id": 61791,
+                "original_language": "en",
+                "original_title": "Rise of the Planet of the Apes",
+                "overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+                "popularity": 8.3976,
+                "poster_path": "/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+                "release_date": "2011-08-03",
+                "title": "Rise of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.337,
+                "vote_count": 12321,
+                "character": "Cornelia",
+                "credit_id": "596194f49251410b860cc04a",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    10752
+                ],
+                "id": 281338,
+                "original_language": "en",
+                "original_title": "War for the Planet of the Apes",
+                "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+                "popularity": 7.9338,
+                "poster_path": "/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+                "release_date": "2017-07-11",
+                "title": "War for the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.208,
+                "vote_count": 9374,
+                "character": "Cornelius",
+                "credit_id": "596689299251417904092014",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 986056,
+                "original_language": "en",
+                "original_title": "Thunderbolts*",
+                "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+                "popularity": 52.6961,
+                "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+                "release_date": "2025-04-30",
+                "title": "Thunderbolts*",
+                "video": false,
+                "vote_average": 7.357,
+                "vote_count": 2622,
+                "credit_id": "67d220cc325e62b3d1608306",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1164341,
+        "imdb_id": "nm1981476",
+        "known_for_department": "Crew",
+        "name": "Devyn Dalton",
+        "place_of_birth": null,
+        "popularity": 0.7157,
+        "profile_path": "/rYkYdtv2grwzDX4RFCIK3zzP4gD.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    10752
+                ],
+                "id": 403300,
+                "original_language": "en",
+                "original_title": "A Hidden Life",
+                "overview": "Austrian farmer Franz J\u00e4gerst\u00e4tter faces the threat of execution for refusing to fight for the Nazis during World War II.",
+                "popularity": 3.2933,
+                "poster_path": "/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg",
+                "release_date": "2019-08-27",
+                "title": "A Hidden Life",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 735,
+                "character": "Prisoner",
+                "credit_id": "58a672669251417472002cfb",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lFLQNIkNVIHLXNVDHbt4pow4lXc.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    36
+                ],
+                "id": 423612,
+                "original_language": "de",
+                "original_title": "Werk ohne Autor",
+                "overview": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
+                "popularity": 1.1593,
+                "poster_path": "/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg",
+                "release_date": "2018-10-03",
+                "title": "Never Look Away",
+                "video": false,
+                "vote_average": 7.77,
+                "vote_count": 714,
+                "character": "SS Doctor",
+                "credit_id": "5c3fa8a4c3a368216240d8ea",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1503710,
+        "imdb_id": "nm6363181",
+        "known_for_department": "Acting",
+        "name": "Chris Theisinger",
+        "place_of_birth": null,
+        "popularity": 0.8426,
+        "profile_path": null
+    }
+}

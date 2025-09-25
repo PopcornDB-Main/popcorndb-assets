@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/arFPEDEW4PzPaMBXgTPzJlumfGw.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 203833,
+                "original_language": "en",
+                "original_title": "The Book Thief",
+                "overview": "While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+                "popularity": 3.5231,
+                "poster_path": "/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+                "release_date": "2013-11-08",
+                "title": "The Book Thief",
+                "video": false,
+                "vote_average": 7.496,
+                "vote_count": 4413,
+                "character": "Frau Becker",
+                "credit_id": "5513762ac3a3686195002508",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uyUdNIzl3FWBRxqeVK4ZQKdGGUS.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 582,
+                "original_language": "de",
+                "original_title": "Das Leben der Anderen",
+                "overview": "In 1984 East Berlin, dedicated Stasi officer Gerd Wiesler begins spying on a famous playwright and his actress-lover Christa-Maria. Wiesler becomes unexpectedly sympathetic to the couple, and faces conflicting loyalties when his superior takes a liking to Christa-Maria.",
+                "popularity": 5.0081,
+                "poster_path": "/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+                "release_date": "2006-03-23",
+                "title": "The Lives of Others",
+                "video": false,
+                "vote_average": 8.035,
+                "vote_count": 3880,
+                "character": "'Elena' 1984",
+                "credit_id": "564fcce3925141645f00174d",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1958-05-20",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 571188,
+        "imdb_id": "nm2202601",
+        "known_for_department": "Acting",
+        "name": "Hildegard Schroedter",
+        "place_of_birth": "Arnsberg, Germany",
+        "popularity": 0.1514,
+        "profile_path": "/3QjCc6pdJRe5xYoa1duA7Eaop1M.jpg"
+    }
+}

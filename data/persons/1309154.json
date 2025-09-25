@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cAZ87S5bONxKMMAlPxK8LZvdOcm.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 345,
+                "original_language": "en",
+                "original_title": "Eyes Wide Shut",
+                "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+                "popularity": 9.3248,
+                "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+                "release_date": "1999-07-16",
+                "title": "Eyes Wide Shut",
+                "video": false,
+                "vote_average": 7.483,
+                "vote_count": 6576,
+                "character": "Harris",
+                "credit_id": "62f8f105e267de00928b04ce",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 954,
+                "original_language": "en",
+                "original_title": "Mission: Impossible",
+                "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+                "popularity": 11.9632,
+                "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+                "release_date": "1996-05-22",
+                "title": "Mission: Impossible",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 9531,
+                "character": "CIA Escort Guard",
+                "credit_id": "5eadc14e27d9cc0022d00277",
+                "order": 35
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1309154,
+        "imdb_id": "nm0666955",
+        "known_for_department": "Acting",
+        "name": "Randall Paul",
+        "place_of_birth": null,
+        "popularity": 0.1184,
+        "profile_path": null
+    }
+}

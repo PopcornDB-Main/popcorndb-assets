@@ -1,0 +1,188 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1402,
+                "original_language": "en",
+                "original_title": "The Pursuit of Happyness",
+                "overview": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+                "popularity": 10.7204,
+                "poster_path": "/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+                "release_date": "2006-12-14",
+                "title": "The Pursuit of Happyness",
+                "video": false,
+                "vote_average": 7.891,
+                "vote_count": 10205,
+                "character": "Linda",
+                "credit_id": "52fe42f3c3a36847f802f1df",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    14
+                ],
+                "id": 628,
+                "original_language": "en",
+                "original_title": "Interview with the Vampire",
+                "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+                "popularity": 9.1837,
+                "poster_path": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+                "release_date": "1994-11-11",
+                "title": "Interview with the Vampire",
+                "video": false,
+                "vote_average": 7.382,
+                "vote_count": 6109,
+                "character": "Yvette",
+                "credit_id": "52fe4260c3a36847f8019a11",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8bXbZE8lBdV7W68AD7u5YNXKTOn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1640,
+                "original_language": "en",
+                "original_title": "Crash",
+                "overview": "In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.",
+                "popularity": 5.6785,
+                "poster_path": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+                "release_date": "2005-05-06",
+                "title": "Crash",
+                "video": false,
+                "vote_average": 7.214,
+                "vote_count": 3658,
+                "character": "Christine Thayer",
+                "credit_id": "52fe4307c3a36847f8035061",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/11V6JMreBokxvTZTsxmSQsibaRb.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 13809,
+                "original_language": "en",
+                "original_title": "RocknRolla",
+                "overview": "When a Russian mobster sets up a real estate scam that generates millions of pounds, various members of London's criminal underworld pursue their share of the fortune. Various shady characters, including Mr One-Two, Stella the accountant, and Johnny Quid, a druggie rock-star, try to claim their slice.",
+                "popularity": 2.8498,
+                "poster_path": "/i7eyngqjdvKB7NvrWtCjjTNNq8N.jpg",
+                "release_date": "2008-09-04",
+                "title": "RocknRolla",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 3094,
+                "character": "Stella",
+                "credit_id": "52fe45a49251416c7505d653",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35
+                ],
+                "id": 520758,
+                "original_language": "en",
+                "original_title": "Chicken Run: Dawn of the Nugget",
+                "overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
+                "popularity": 6.4906,
+                "poster_path": "/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",
+                "release_date": "2023-12-08",
+                "title": "Chicken Run: Dawn of the Nugget",
+                "video": false,
+                "vote_average": 6.947,
+                "vote_count": 825,
+                "character": "Ginger (voice)",
+                "credit_id": "61e97e70d75bd600c9239a8a",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    16
+                ],
+                "id": 762509,
+                "original_language": "en",
+                "original_title": "Mufasa: The Lion King",
+                "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+                "popularity": 20.1476,
+                "poster_path": "/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+                "release_date": "2024-12-18",
+                "title": "Mufasa: The Lion King",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 2363,
+                "character": "Eshe (voice)",
+                "credit_id": "662f97315a78840124c22356",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gY6kVEUqOkVu6B6FARpgHwjoKW1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 291984,
+                "original_language": "en",
+                "original_title": "The Death & Life of John F. Donovan",
+                "overview": "A decade after the death of an American TV star, a young actor reminisces about the written correspondence he once shared with the former, as well as the impact those letters had on both their lives.",
+                "popularity": 2.6276,
+                "poster_path": "/2bhI7Ivk7VmvUaJaDTxJUgOXp1E.jpg",
+                "release_date": "2019-03-13",
+                "title": "The Death & Life of John F. Donovan",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 704,
+                "character": "Journalist",
+                "credit_id": "578b676ac3a36879c8006e14",
+                "order": 6
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud0e0\ub514 \ub274\ud2bc",
+            "\u0422\u044d\u043d\u0434\u0438 \u041d\u044c\u044e\u0442\u043e\u043d",
+            "\u062a\u0646\u062f\u06cc \u0646\u06cc\u0648\u062a\u0646",
+            "Thandie Newton",
+            "\u5766\u8fea\u00b7\u725b\u987f",
+            "\u0422\u0435\u043d\u0434\u0456 \u041d\u044c\u044e\u0442\u043e\u043d",
+            "\u062a\u0627\u0646\u062f\u06cc\u0648\u06cc \u0646\u06cc\u0648\u062a\u0646",
+            "\u30bf\u30f3\u30c7\u30a3\u30a6\u30a7\u30fb\u201d\u30bf\u30f3\u30c7\u30a3\u201d\u30fb\u30cb\u30e5\u30fc\u30c8\u30f3"
+        ],
+        "biography": "Melanie Thandiwe Newton OBE (born 6 November 1972), formerly credited as Thandie Newton, is a British actress.\n\nNewton is known for starring roles such as the title character in Beloved (1998), Nyah Nordoff-Hall in Mission: Impossible 2 (2000), Tiffany in Shade (2003), Dame Vaako in The Chronicles of Riddick (2004), Christine in Crash (2004), Linda in The Pursuit of Happyness (2006), Libby in Run Fatboy Run (2007), Stella in RockNRolla (2008), Condoleezza Rice in W. (2008), Laura Wilson in 2012 (2009), Tangie Adrose in For Colored Girls (2010), Maeve Millay in Westworld (2016\u20132022), Roz Huntley in Line of Duty (2017), and Val in Solo: A Star Wars Story (2018).\n\nNewton has received various awards, including an Emmy Award for Outstanding Supporting Actress in a Drama Series, a BAFTA Award for Best Actress in a Supporting Role, and two Critics' Choice Awards, in addition to nominations for two Golden Globe Awards, a Saturn Award, a Screen Actors Guild Award, and a British Academy Television Award for Best Actress. She was appointed Officer of the Order of the British Empire (OBE) in the 2019 New Year Honours for services to film and charity.\n\nDescription above from the Wikipedia article Thandiwe Newton, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1972-11-06",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 9030,
+        "imdb_id": "nm0628601",
+        "known_for_department": "Acting",
+        "name": "Thandiwe Newton",
+        "place_of_birth": "London, England, UK",
+        "popularity": 2.502,
+        "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    }
+}

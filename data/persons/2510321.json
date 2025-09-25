@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 273481,
+                "original_language": "en",
+                "original_title": "Sicario",
+                "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+                "popularity": 9.6411,
+                "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+                "release_date": "2015-09-17",
+                "title": "Sicario",
+                "video": false,
+                "vote_average": 7.416,
+                "vote_count": 9090,
+                "character": "DEA Agent (Motel Room)",
+                "credit_id": "640d83fc1ac29200b8cad83f",
+                "order": 47
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 324552,
+                "original_language": "en",
+                "original_title": "John Wick: Chapter 2",
+                "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
+                "popularity": 13.6779,
+                "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+                "release_date": "2017-02-08",
+                "title": "John Wick: Chapter 2",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 13682,
+                "character": "Creepy Homeless Man",
+                "credit_id": "5e403c3841465c0016cb9be7",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2510321,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Basil Iwanyk Sr.",
+        "place_of_birth": null,
+        "popularity": 0.0434,
+        "profile_path": null
+    }
+}

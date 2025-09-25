@@ -1,0 +1,384 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 274,
+                "original_language": "en",
+                "original_title": "The Silence of the Lambs",
+                "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+                "popularity": 3.9428,
+                "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+                "release_date": "1991-02-14",
+                "title": "The Silence of the Lambs",
+                "video": false,
+                "vote_average": 8.347,
+                "vote_count": 17103,
+                "character": "FBI Agent in Memphis (uncredited)",
+                "credit_id": "52fe4230c3a36847f800ae17",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "original_title": "Night of the Living Dead",
+                "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+                "popularity": 3.1949,
+                "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+                "release_date": "1968-10-04",
+                "title": "Night of the Living Dead",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2568,
+                "character": "Washington Reporter",
+                "credit_id": "52fe435b9251416c7500d379",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 8408,
+                "original_language": "en",
+                "original_title": "Day of the Dead",
+                "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+                "popularity": 3.6854,
+                "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+                "release_date": "1985-07-03",
+                "title": "Day of the Dead",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 1307,
+                "character": "Zombie with Scarf (uncredited)",
+                "credit_id": "61cd74e641aac400422359db",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 5.2063,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "TV Director / Biker (uncredited)",
+                "credit_id": "53a068d00e0a26506e003008",
+                "order": 37
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "original_title": "Night of the Living Dead",
+                "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+                "popularity": 3.1949,
+                "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+                "release_date": "1968-10-04",
+                "title": "Night of the Living Dead",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2568,
+                "credit_id": "52fe435b9251416c7500d323",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "original_title": "Night of the Living Dead",
+                "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+                "popularity": 3.1949,
+                "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+                "release_date": "1968-10-04",
+                "title": "Night of the Living Dead",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2568,
+                "credit_id": "52fe435b9251416c7500d33b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "original_title": "Night of the Living Dead",
+                "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+                "popularity": 3.1949,
+                "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+                "release_date": "1968-10-04",
+                "title": "Night of the Living Dead",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2568,
+                "credit_id": "52fe435b9251416c7500d341",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 10331,
+                "original_language": "en",
+                "original_title": "Night of the Living Dead",
+                "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+                "popularity": 3.1949,
+                "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+                "release_date": "1968-10-04",
+                "title": "Night of the Living Dead",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2568,
+                "credit_id": "52fe435b9251416c7500d34d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 5.2063,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "credit_id": "52fe428dc3a36847f8027af5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 5.2063,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "credit_id": "52fe428dc3a36847f8027afb",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 5.2063,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "credit_id": "52fe428dc3a36847f8027b2b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 8408,
+                "original_language": "en",
+                "original_title": "Day of the Dead",
+                "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+                "popularity": 3.6854,
+                "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+                "release_date": "1985-07-03",
+                "title": "Day of the Dead",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 1307,
+                "credit_id": "52fe44a5c3a36847f80a20f9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 8408,
+                "original_language": "en",
+                "original_title": "Day of the Dead",
+                "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+                "popularity": 3.6854,
+                "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+                "release_date": "1985-07-03",
+                "title": "Day of the Dead",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 1307,
+                "credit_id": "52fe44a5c3a36847f80a20ff",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8aqTmCHLkktH7RZNALeaOMneHSl.jpg",
+                "genre_ids": [
+                    27,
+                    35
+                ],
+                "id": 16281,
+                "original_language": "en",
+                "original_title": "Creepshow",
+                "overview": "Five grisly tales from a 1950s-style comic, including a murdered father rising from beyond, a bizarre meteor, a vengeful husband, a mysterious crate's occupant, and a plague of cockroaches.",
+                "popularity": 3.6135,
+                "poster_path": "/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg",
+                "release_date": "1982-11-10",
+                "title": "Creepshow",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1089,
+                "credit_id": "52fe46c09251416c750824f5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8aqTmCHLkktH7RZNALeaOMneHSl.jpg",
+                "genre_ids": [
+                    27,
+                    35
+                ],
+                "id": 16281,
+                "original_language": "en",
+                "original_title": "Creepshow",
+                "overview": "Five grisly tales from a 1950s-style comic, including a murdered father rising from beyond, a bizarre meteor, a vengeful husband, a mysterious crate's occupant, and a plague of cockroaches.",
+                "popularity": 3.6135,
+                "poster_path": "/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg",
+                "release_date": "1982-11-10",
+                "title": "Creepshow",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1089,
+                "credit_id": "55e1a2d5c3a3682cb000230f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rspbS1E9wJtslrb8amfJgtMBUVh.jpg",
+                "genre_ids": [
+                    27,
+                    28
+                ],
+                "id": 924,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                "popularity": 7.8433,
+                "poster_path": "/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+                "release_date": "2004-03-19",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.057,
+                "vote_count": 4228,
+                "credit_id": "5cdd71859251413452cea671",
+                "department": "Writing",
+                "job": "Original Film Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "George Andrew Romero",
+            "\u4e54\u6cbb\u00b7A\u00b7\u7f57\u6885\u7f57",
+            "George A. Romero"
+        ],
+        "biography": "George Andrew Romero (February 4, 1940 \u2013 July 16, 2017) was an American-Canadian film director, screenwriter and editor, best known for his gruesome and satirical zombie films, including the seminal \"Night of the Living Dead\" (1968) and \"Dawn of the Dead\" (1978). Throughout his career he primarily worked in the horror genre and directed several notable films outside of the zombie subgenre, including vampire film \"Martin\" (1977) and EC Comics homage \"Creepshow\" (1982).",
+        "birthday": "1940-02-04",
+        "deathday": "2017-07-16",
+        "gender": 2,
+        "homepage": "http://www.officialgeorgeromero.com/",
+        "id": 14999,
+        "imdb_id": "nm0001681",
+        "known_for_department": "Directing",
+        "name": "George A. Romero",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2731,
+        "profile_path": "/w2zVF92x149qK79ZxwUowcSp2c6.jpg"
+    }
+}

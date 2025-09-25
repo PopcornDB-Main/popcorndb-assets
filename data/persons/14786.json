@@ -1,0 +1,182 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.5076,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2588,
+                "character": "De Georgio",
+                "credit_id": "52fe4296c3a36847f802a54f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/le14c0VjhbBv475RAEQ13Wt2loo.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 10648,
+                "original_language": "en",
+                "original_title": "Magnum Force",
+                "overview": "\"Dirty\" Harry Callahan is a San Francisco Police Inspector on the trail of a group of rogue cops who have taken justice into their own hands. When shady characters are murdered one after another in grisly fashion, only Dirty Harry can stop them.",
+                "popularity": 3.0749,
+                "poster_path": "/1uX1uzn09seCftG3rTGLPyFXxV6.jpg",
+                "release_date": "1973-12-13",
+                "title": "Magnum Force",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1119,
+                "character": "Frank DiGiorgio",
+                "credit_id": "53bcb0bfc3a3684cdf000921",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/OfH6y4NfYpzHcA67nwT5TjhSzJ.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    9648
+                ],
+                "id": 17057,
+                "original_language": "en",
+                "original_title": "In a Lonely Place",
+                "overview": "A violent screenwriter and a female neighbor fall in love after she clears him of murder, but she begins to have second thoughts.",
+                "popularity": 2.1395,
+                "poster_path": "/vbdgtwzLOpE6MppZlyYChMagvQq.jpg",
+                "release_date": "1950-05-17",
+                "title": "In a Lonely Place",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 619,
+                "character": "Bar Patron (uncredited)",
+                "credit_id": "630e625a0ce1bc007f4042ec",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10749
+                ],
+                "id": 11113,
+                "original_language": "en",
+                "original_title": "My Fair Lady",
+                "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+                "popularity": 4.2508,
+                "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+                "release_date": "1964-12-01",
+                "title": "My Fair Lady",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1368,
+                "character": "Ad Lib at Church (uncredited)",
+                "credit_id": "65875993ea7b0e5f498f8582",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kXsjmuBgRzsujspv4BiHsIgzOnD.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 10747,
+                "original_language": "en",
+                "original_title": "The Outlaw Josey Wales",
+                "overview": "After avenging his family's brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him - and Wales can't bring himself to leave them unprotected.",
+                "popularity": 4.1894,
+                "poster_path": "/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+                "release_date": "1976-06-30",
+                "title": "The Outlaw Josey Wales",
+                "video": false,
+                "vote_average": 7.44,
+                "vote_count": 1209,
+                "character": "Al",
+                "credit_id": "54d79b349251415f9c006055",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/teLJilYBEdBiCNwPuiJaJT0p7i8.jpg",
+                "genre_ids": [
+                    37,
+                    18,
+                    9648
+                ],
+                "id": 11901,
+                "original_language": "en",
+                "original_title": "High Plains Drifter",
+                "overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+                "popularity": 5.4722,
+                "poster_path": "/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+                "release_date": "1973-04-19",
+                "title": "High Plains Drifter",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 1245,
+                "character": "Warden",
+                "credit_id": "5baab2c1c3a3683ab500c1a9",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rhwGCD3AosYcPK7rTFHmL4NdrP1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 6644,
+                "original_language": "en",
+                "original_title": "El Dorado",
+                "overview": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Harrah. Together with a fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+                "popularity": 5.6015,
+                "poster_path": "/poJxkMtTA3E95lJ6RnBgNxF0Vmx.jpg",
+                "release_date": "1966-12-17",
+                "title": "El Dorado",
+                "video": false,
+                "vote_average": 7.352,
+                "vote_count": 555,
+                "character": "Elmer - Jason's Bartender",
+                "credit_id": "5ea41100713ed4001d52fd49",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jack Mitchum"
+        ],
+        "biography": "John Newman Mitchum was the September child of a Norwegian mother and an Irish/Blackfoot father whom he never knew, as he was killed in a tragic train yard accident in 1919. His two-years-older brother Robert filled the role as best as he could, while their older sister Annette studied the lively arts and eventually joined a traveling vaudeville team. Born in Bridgeport, Connecticut, the young family moved to Rising Sun, Delaware, where farm life didn't agree with the young boys. Scarce opportunities took them to New York City, where the streets of Hell's kitchen taught the brothers to fight, a skill they developed so well they earned the moniker 'them ornery Mitchum boys'. Eventually, when the Great Depression deepened, the family was forced to separate with the intention of meeting up with sister Annette, who had married a sailor and moved to California, changing her name to Julie. The teenage boys set out with little more than clean handkerchiefs to find their way across the country by the only means they could: hitchhiking and riding the rails. Their somewhat aimless journey took them to places they had never been; where their Eastern accents were not welcome, so they quickly learned that accurately mimicking the local dialect would keep them out of trouble--some of the time! While brother Robert fairly quickly discovered his place in Hollywood legend, John sought his destiny on the high seas, professionally boxing, or conducting a choir. When the opportunity for acting came along John found his perfect niche as a character actor, mostly playing heavies since he was an imposing figure of a man. John's roles had him playing alongside a wide range of celebrities, from Humphrey Bogart in \"Knock On Any Door\" (1949) to Gladys Knight in \"Pipe Dreams\" (1976), Clint Eastwood of \"Dirty Harry\" (1971) to John Wayne in \"Chisum\" (1970), appearing in 58 films overall. It was during production of \"Chisum\" that John Wayne offered his voice for an anthology of John's poetry that seeks to uplift US culture, \"America, Why I Love Her\", a recording for which Mitchum was nominated for a Grammy in 1973. John was a consummate storyteller (as was his brother Robert), and with his fascination with US history in particular he was ever-ready to regale anyone with a thoughtful, interesting, and insightful anecdote, especially if a guitar was available. It was the wedding of music and history that brought him to create the recording \"Our Land, Our Heritage\" with Dan Blocker; big \"Hoss\" from \"Bonanza\", in 1964. Mitchum had some recurring roles throughout his television career; such as \"Pickalong\" from \"Riverboat\", or \"Hoffenmueller\" from \"F-Troop\", over 150 appearances in all during the span of a half-century career. The brothers Mitchum legacy has been well-preserved in his often hilarious autobiography, \"Them Ornery Mitchum Boys\", published in 1989. The subjects range from brother Robert escaping a Georgia chain-gang to his \"poontang\" interview; from John surviving an attacking whale on a three-masted schooner to his adventures riding the rails, developing a great love and respect for the people of the United States.",
+        "birthday": "1919-09-06",
+        "deathday": "2001-11-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 14786,
+        "imdb_id": "nm0593850",
+        "known_for_department": "Acting",
+        "name": "John Mitchum",
+        "place_of_birth": "Bridgeport, Connecticut, USA ",
+        "popularity": 0.3198,
+        "profile_path": "/n8RJhfahhC3lIbaGsVWS0HyTFCT.jpg"
+    }
+}

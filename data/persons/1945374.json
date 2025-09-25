@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    35
+                ],
+                "id": 493529,
+                "original_language": "en",
+                "original_title": "Dungeons & Dragons: Honor Among Thieves",
+                "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+                "popularity": 10.1578,
+                "poster_path": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+                "release_date": "2023-03-23",
+                "title": "Dungeons & Dragons: Honor Among Thieves",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 4140,
+                "character": "Tobias",
+                "credit_id": "64546038d8f44e0dae968016",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o869RihWTdTyBcEZBjz0izvEsVf.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 693134,
+                "original_language": "en",
+                "original_title": "Dune: Part Two",
+                "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+                "popularity": 16.311,
+                "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+                "release_date": "2024-02-27",
+                "title": "Dune: Part Two",
+                "video": false,
+                "vote_average": 8.136,
+                "vote_count": 7031,
+                "character": "Slave Master",
+                "credit_id": "65dc52524539d00163becd86",
+                "order": 76
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1945374,
+        "imdb_id": "nm2894086",
+        "known_for_department": "Acting",
+        "name": "Will Irvine",
+        "place_of_birth": null,
+        "popularity": 0.0732,
+        "profile_path": "/pdHxsV2y3Bhcs6gt3FWWNUyHwWa.jpg"
+    }
+}

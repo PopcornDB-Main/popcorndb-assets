@@ -1,0 +1,316 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 28,
+                "original_language": "en",
+                "original_title": "Apocalypse Now",
+                "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+                "popularity": 8.7178,
+                "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+                "release_date": "1979-05-19",
+                "title": "Apocalypse Now",
+                "video": false,
+                "vote_average": 8.271,
+                "vote_count": 8641,
+                "character": "Photojournalist",
+                "credit_id": "52fe4210c3a36847f800137b",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oaRdRdqahtSvHK6VkOphVwGtPRN.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 221,
+                "original_language": "en",
+                "original_title": "Rebel Without a Cause",
+                "overview": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+                "popularity": 5.1783,
+                "poster_path": "/yHStsC8rRRfIjqRN38BQsLh6S7k.jpg",
+                "release_date": "1955-10-27",
+                "title": "Rebel Without a Cause",
+                "video": false,
+                "vote_average": 7.518,
+                "vote_count": 1681,
+                "character": "Goon",
+                "credit_id": "52fe4228c3a36847f8008797",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g2SvOk7ZEgV1VyOfJB2CwFyqgmF.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 232,
+                "original_language": "en",
+                "original_title": "Rumble Fish",
+                "overview": "Rusty James, an absent-minded street thug, struggles to live up to his legendary older brother's reputation and longs for the days when gang warfare was going on.",
+                "popularity": 2.2546,
+                "poster_path": "/nwIUWs7cexC8Wk9c6ey8nFltAZd.jpg",
+                "release_date": "1983-10-09",
+                "title": "Rumble Fish",
+                "video": false,
+                "vote_average": 6.985,
+                "vote_count": 716,
+                "character": "Father",
+                "credit_id": "52fe422ac3a36847f8008f25",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9lzBxaGXQ2Uy62caE1pzEnDko1h.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    10749
+                ],
+                "id": 319,
+                "original_language": "en",
+                "original_title": "True Romance",
+                "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+                "popularity": 4.7999,
+                "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+                "release_date": "1993-09-09",
+                "title": "True Romance",
+                "video": false,
+                "vote_average": 7.549,
+                "vote_count": 2868,
+                "character": "Clifford Worley",
+                "credit_id": "52fe4237c3a36847f800cdcb",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 903,
+                "original_language": "en",
+                "original_title": "Cool Hand Luke",
+                "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+                "popularity": 2.3717,
+                "poster_path": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+                "release_date": "1967-11-01",
+                "title": "Cool Hand Luke",
+                "video": false,
+                "vote_average": 7.739,
+                "vote_count": 1505,
+                "character": "Babalugats",
+                "credit_id": "52fe428ac3a36847f8026dc3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 624,
+                "original_language": "en",
+                "original_title": "Easy Rider",
+                "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+                "popularity": 3.9206,
+                "poster_path": "/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+                "release_date": "1969-06-26",
+                "title": "Easy Rider",
+                "video": false,
+                "vote_average": 7.066,
+                "vote_count": 2057,
+                "character": "Billy",
+                "credit_id": "52fe4260c3a36847f8019739",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1637,
+                "original_language": "en",
+                "original_title": "Speed",
+                "overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3\u00a0million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...",
+                "popularity": 8.2683,
+                "poster_path": "/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg",
+                "release_date": "1994-06-09",
+                "title": "Speed",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 6487,
+                "character": "Howard Payne",
+                "credit_id": "52fe4307c3a36847f8034f5f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    80,
+                    18
+                ],
+                "id": 793,
+                "original_language": "en",
+                "original_title": "Blue Velvet",
+                "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+                "popularity": 7.839,
+                "poster_path": "/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
+                "release_date": "1986-09-19",
+                "title": "Blue Velvet",
+                "video": false,
+                "vote_average": 7.609,
+                "vote_count": 3583,
+                "character": "Frank Booth",
+                "credit_id": "52fe4277c3a36847f8020dcf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 1712,
+                "original_language": "en",
+                "original_title": "Giant",
+                "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations.",
+                "popularity": 3.6605,
+                "poster_path": "/oQ1Arue52pFLSvvwfcNTy16hTCG.jpg",
+                "release_date": "1956-11-08",
+                "title": "Giant",
+                "video": false,
+                "vote_average": 7.614,
+                "vote_count": 722,
+                "character": "Jordan \"Jordy\" Benedict III",
+                "credit_id": "52fe430ec3a36847f80373df",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sz31PrTT4ZyJn2gbzHdxTilt1md.jpg",
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 5693,
+                "original_language": "en",
+                "original_title": "Hoosiers",
+                "overview": "Failed college coach Norman Dale gets a chance at redemption when he is hired to coach a high school basketball team in a tiny Indiana town. After a teacher persuades star player Jimmy Chitwood to quit and focus on his long-neglected studies, Dale struggles to develop a winning team in the face of community criticism for his temper and his unconventional choice of assistant coach: Shooter, a notorious alcoholic.",
+                "popularity": 1.9832,
+                "poster_path": "/dHpjZQXEdoi1xNLubM1rPmTHJYz.jpg",
+                "release_date": "1986-11-14",
+                "title": "Hoosiers",
+                "video": false,
+                "vote_average": 7.031,
+                "vote_count": 551,
+                "character": "Shooter",
+                "credit_id": "52fe4418c3a36847f8082171",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 17529,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+                "popularity": 4.1273,
+                "poster_path": "/9TjGjAD2deCtIG4ebi8LhIyFK6j.jpg",
+                "release_date": "1969-06-11",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 818,
+                "character": "\"Moon\"",
+                "credit_id": "52fe472f9251416c75090805",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 624,
+                "original_language": "en",
+                "original_title": "Easy Rider",
+                "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+                "popularity": 3.9206,
+                "poster_path": "/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+                "release_date": "1969-06-26",
+                "title": "Easy Rider",
+                "video": false,
+                "vote_average": 7.066,
+                "vote_count": 2057,
+                "credit_id": "52fe4260c3a36847f80196d7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 624,
+                "original_language": "en",
+                "original_title": "Easy Rider",
+                "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+                "popularity": 3.9206,
+                "poster_path": "/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+                "release_date": "1969-06-26",
+                "title": "Easy Rider",
+                "video": false,
+                "vote_average": 7.066,
+                "vote_count": 2057,
+                "credit_id": "52fe4260c3a36847f80196dd",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Dennis Lee Hopper",
+            "Alan Smithee",
+            "\u062f\u0646\u06cc\u0633 \u0647\u0627\u067e\u0631"
+        ],
+        "biography": "Dennis Lee Hopper (May 17, 1936 \u2013 May 29, 2010) was an American actor, filmmaker and artist. As a young man, Hopper became interested in acting and eventually became a student of the Actors' Studio. He made his first television appearance in 1954, and appeared in two films featuring James Dean, Rebel Without a Cause (1955) and Giant (1956). During the next 10 years, Hopper appeared frequently on television in guest roles, and by the end of the 1960s had played supporting roles in several films. He directed and starred in Easy Rider (1969), winning an award at the Cannes Film Festival and was nominated for an Academy Award for Best Original Screenplay as co-writer. \"With its portrait of counterculture heroes raising their middle fingers to the uptight middle-class hypocrisies, Easy Rider became the cinematic symbol of the 1960s, a celluloid anthem to freedom, macho bravado and anti-establishment rebellion.\" Film critic Matthew Hays notes that \"no other persona better signifies the lost idealism of the 1960s than that of Dennis Hopper.\" He was unable to build on his success for several years, until a featured role in Apocalypse Now (1979) brought him attention. He subsequently appeared in Rumble Fish (1983) and The Osterman Weekend (1983), and received critical recognition for his work in Blue Velvet and Hoosiers, with the latter film garnering him an Academy Award nomination for Best Supporting Actor. He directed Colors (1988) and played the villain in Speed (1994). Hopper's later work included a leading role in the television series Crash. Hopper's last performance was filmed just before his death: The Last Film Festival, slated for a 2011 release. Hopper was also a prolific and acclaimed photographer, a profession he began in the 1960s.\n\n\u200bFrom Wikipedia, the free encyclopedia",
+        "birthday": "1936-05-17",
+        "deathday": "2010-05-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 2778,
+        "imdb_id": "nm0000454",
+        "known_for_department": "Acting",
+        "name": "Dennis Hopper",
+        "place_of_birth": "Dodge City, Kansas, USA",
+        "popularity": 1.0021,
+        "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    }
+}

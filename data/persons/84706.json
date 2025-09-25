@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 615,
+                "original_language": "en",
+                "original_title": "The Passion of the Christ",
+                "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+                "popularity": 8.1713,
+                "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+                "release_date": "2004-02-25",
+                "title": "The Passion of the Christ",
+                "video": false,
+                "vote_average": 7.518,
+                "vote_count": 4913,
+                "character": "Simon of Cyrene",
+                "credit_id": "5acad07cc3a3687e2700780d",
+                "order": 56
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    80
+                ],
+                "id": 944401,
+                "original_language": "fr",
+                "original_title": "Dogman",
+                "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+                "popularity": 9.9999,
+                "poster_path": "/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+                "release_date": "2023-09-27",
+                "title": "Dogman",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1238,
+                "character": "Walter Stage Manager",
+                "credit_id": "67279cb1008c8137852ddc37",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jarreth Mertz",
+            "Jarreth Merz",
+            "Jerreth Merz",
+            "\uc790\ub808\uc2a4 J. \uba54\uc988"
+        ],
+        "biography": "",
+        "birthday": "1970-05-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.merz.org/big/index.php",
+        "id": 84706,
+        "imdb_id": "nm0581711",
+        "known_for_department": "Acting",
+        "name": "Jarreth J. Merz",
+        "place_of_birth": "Zurich, Switzerland",
+        "popularity": 0.1145,
+        "profile_path": "/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+    }
+}

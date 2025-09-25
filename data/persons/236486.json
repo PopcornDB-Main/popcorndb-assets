@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 6.3934,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.602,
+                "vote_count": 2256,
+                "character": "Sam Holland",
+                "credit_id": "56185d2f9251413757000b0f",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2Cf8V0iQx0c52IxeLdxOvjI2bBf.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 11293,
+                "original_language": "en",
+                "original_title": "Paper Moon",
+                "overview": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
+                "popularity": 3.6665,
+                "poster_path": "/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+                "release_date": "1973-05-09",
+                "title": "Paper Moon",
+                "video": false,
+                "vote_average": 7.869,
+                "vote_count": 769,
+                "character": "The Minister",
+                "credit_id": "56714cbe92514143ad006225",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James Harrell",
+            "James Nelson Harrell"
+        ],
+        "biography": "James Nelson Harrell was an American actor with a career spanning several decades. He graduated from Baylor University and held a Master's Degree in Drama from Trinity University. Harrell studied acting at the original Baylor Theater with Paul Baker in the 1930s and, in 1940, was invited to join Michael Chekhov's Acting Studio in Ridgefield, Connecticut. He appeared in films such as Michael (1996) and The Green Mile (1999). Harrell's extensive work in theater and film left a lasting impact on the acting community.",
+        "birthday": "1918-09-03",
+        "deathday": "2000-02-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 236486,
+        "imdb_id": "nm0364099",
+        "known_for_department": "Acting",
+        "name": "James N. Harrell",
+        "place_of_birth": "Waco, Texas, USA",
+        "popularity": 0.5124,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 301,
+                "original_language": "en",
+                "original_title": "Rio Bravo",
+                "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+                "popularity": 5.5199,
+                "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+                "release_date": "1959-03-18",
+                "title": "Rio Bravo",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 1204,
+                "character": "Barfly (uncredited)",
+                "credit_id": "57045772c3a36869820011c3",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1601648,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Cecil Combs",
+        "place_of_birth": null,
+        "popularity": 0.0434,
+        "profile_path": null
+    }
+}

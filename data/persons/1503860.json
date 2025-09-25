@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 245891,
+                "original_language": "en",
+                "original_title": "John Wick",
+                "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                "popularity": 8.777,
+                "poster_path": "/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+                "release_date": "2014-10-22",
+                "title": "John Wick",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 20043,
+                "character": "Pavel",
+                "credit_id": "55e6d478c3a3685f850029cd",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1503860,
+        "imdb_id": "nm3964311",
+        "known_for_department": "Acting",
+        "name": "Vladislav Koulikov",
+        "place_of_birth": null,
+        "popularity": 0.0218,
+        "profile_path": null
+    }
+}

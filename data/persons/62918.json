@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/w7MsyOpP003FYhsiTgVHa3rNsrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    10751
+                ],
+                "id": 508763,
+                "original_language": "en",
+                "original_title": "A Dog's Way Home",
+                "overview": "The adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
+                "popularity": 4.0395,
+                "poster_path": "/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",
+                "release_date": "2019-01-10",
+                "title": "A Dog's Way Home",
+                "video": false,
+                "vote_average": 7.387,
+                "vote_count": 1153,
+                "character": "Dr. Gann",
+                "credit_id": "63323cb6d38b58007bfcab99",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ce6HzPfxRRcLk5QRLcdExeVpsA1.jpg",
+                "genre_ids": [
+                    10751,
+                    18
+                ],
+                "id": 406997,
+                "original_language": "en",
+                "original_title": "Wonder",
+                "overview": "The story of August Pullman \u2013 a boy with facial differences \u2013 who enters fifth grade, attending a mainstream elementary school for the first time.",
+                "popularity": 5.5825,
+                "poster_path": "/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg",
+                "release_date": "2017-11-13",
+                "title": "Wonder",
+                "video": false,
+                "vote_average": 8.114,
+                "vote_count": 8069,
+                "character": "Mr. Davenport",
+                "credit_id": "58d366539251411f8900eb1d",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Benjamin Ratner",
+            "Ben Ratner"
+        ],
+        "biography": "",
+        "birthday": "1969-12-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.benimmanuel.com/",
+        "id": 62918,
+        "imdb_id": "nm0711838",
+        "known_for_department": "Acting",
+        "name": "Ben Immanuel",
+        "place_of_birth": "New Haven, Connecticut, USA",
+        "popularity": 0.2344,
+        "profile_path": "/sptGVe4KVb63FicsXavsf6h25cT.jpg"
+    }
+}

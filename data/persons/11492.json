@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749
+                ],
+                "id": 770,
+                "original_language": "en",
+                "original_title": "Gone with the Wind",
+                "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+                "popularity": 7.332,
+                "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+                "release_date": "1939-12-15",
+                "title": "Gone with the Wind",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 4191,
+                "character": "Rhett Butler",
+                "credit_id": "52fe4274c3a36847f801fe1b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 3078,
+                "original_language": "en",
+                "original_title": "It Happened One Night",
+                "overview": "A runaway heiress makes a deal with the rogue reporter trailing her but the mismatched pair end up stuck with each other when their bus leaves them behind.",
+                "popularity": 3.8629,
+                "poster_path": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+                "release_date": "1934-02-22",
+                "title": "It Happened One Night",
+                "video": false,
+                "vote_average": 7.823,
+                "vote_count": 1323,
+                "character": "Peter Warne",
+                "credit_id": "52fe4383c3a36847f8059c67",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "William Clark Gable",
+            "The King of Hollywood",
+            "\u06a9\u0644\u0627\u0631\u06a9 \u06af\u06cc\u0628\u0644"
+        ],
+        "biography": "William Clark Gable (February 1, 1901 \u2013 November 16, 1960) was an American actor. In 1999, the American Film Institute named Gable the seventh-greatest male star of all-time. His most famous role was Rhett Butler in the 1939 Civil War epic film Gone with the Wind, in which he starred with Vivien Leigh. His performance earned him his third nomination for the Academy Award for Best Actor; he won for It Happened One Night (1934) and was also nominated for Mutiny on the Bounty (1935). Later performances were in Run Silent, Run Deep, a submarine war film, and his final film, The Misfits (1961), which paired Gable with Marilyn Monroe, also in her last screen appearance.\n\nDuring his long film career, Gable appeared opposite some of the most popular actresses of the time. Joan Crawford, who was his favorite actress to work with, was partnered with Gable in eight films, Myrna Loy was with him seven times, and he was paired with Jean Harlow in six productions. He also starred with Lana Turner in four features, and with Norma Shearer in three. Gable was often named the top male star in the mid-30s, and was second only to the top box-office draw of all, Shirley Temple.",
+        "birthday": "1901-02-01",
+        "deathday": "1960-11-16",
+        "gender": 2,
+        "homepage": null,
+        "id": 11492,
+        "imdb_id": "nm0000022",
+        "known_for_department": "Acting",
+        "name": "Clark Gable",
+        "place_of_birth": "Cadiz, Ohio, USA",
+        "popularity": 0.7792,
+        "profile_path": "/qD6WJzydym7n7fCeL9PGnHe1aEV.jpg"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2TkuCpt75P5CyRgW1606dkY4JwM.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 4104,
+                "original_language": "en",
+                "original_title": "Benny & Joon",
+                "overview": "A mentally ill young woman finds her love in an eccentric man who models himself after Buster Keaton.",
+                "popularity": 2.2034,
+                "poster_path": "/t1IVTmj0TrVt5zxps7VRSdvLKSo.jpg",
+                "release_date": "1993-04-16",
+                "title": "Benny & Joon",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 794,
+                "character": "Waldo",
+                "credit_id": "52fe43adc3a36847f8066f9f",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1073807,
+        "imdb_id": "nm0489109",
+        "known_for_department": "Acting",
+        "name": "Waldo Larson",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

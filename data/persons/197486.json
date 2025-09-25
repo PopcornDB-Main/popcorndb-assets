@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gTO4GgaQDn5msqOvX6LeTj6H7CR.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 13939,
+                "original_language": "en",
+                "original_title": "Death Wish",
+                "overview": "After his wife is murdered by street punks, a pacifistic New York City architect becomes a one-man vigilante squad, prowling the streets for would-be muggers after dark.",
+                "popularity": 3.6072,
+                "poster_path": "/rNksI6UiuTgLtBy69WvKT1PrG0R.jpg",
+                "release_date": "1974-07-24",
+                "title": "Death Wish",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 893,
+                "character": "Lt. Briggs",
+                "credit_id": "6478932a17497301186f8f70",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zvNMZl0l2qYq0x0ntq8sILiIpLw.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 9040,
+                "original_language": "en",
+                "original_title": "Serpico",
+                "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+                "popularity": 4.2719,
+                "poster_path": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+                "release_date": "1973-12-18",
+                "title": "Serpico",
+                "video": false,
+                "vote_average": 7.534,
+                "vote_count": 2057,
+                "character": "Lombardo",
+                "credit_id": "58a31ba2925141537f00832a",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ed Grover"
+        ],
+        "biography": "Edward D. Grover (October 23, 1932 \u2013 November 22, 2016) was an American film, stage and television actor. He was perhaps best known for playing Tony Baretta's supervisor Lieutenant Hal Brubaker in the American detective television series Baretta. Grover also played as Inspector Lombardo in the 1973 film Serpico.",
+        "birthday": "1932-10-23",
+        "deathday": "2016-11-22",
+        "gender": 2,
+        "homepage": null,
+        "id": 197486,
+        "imdb_id": "nm0344013",
+        "known_for_department": "Acting",
+        "name": "Edward Grover",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 1.533,
+        "profile_path": "/mIzpFgp9hMZCccLvoA6lRNrwJfe.jpg"
+    }
+}

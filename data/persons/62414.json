@@ -1,0 +1,171 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vdbLewJrL6zf1FBezpFHihS6r6G.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    35
+                ],
+                "id": 25676,
+                "original_language": "cn",
+                "original_title": "\u5bf6\u8c9d\u8a08\u5283",
+                "overview": "For never-do-well compulsive gambler Fong, there's only one thing more fearsome than debtors at his doorstep - having to coax a crying baby. But what if the baby becomes his golden goose to fend off his debtors? Can he overcome his phobia of diapers, milk bottles, and cloying lullabies?",
+                "popularity": 6.183,
+                "poster_path": "/1ViUIV1rf0WZQte0hHh74DWFLeW.jpg",
+                "release_date": "2006-09-28",
+                "title": "Rob-B-Hood",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 630,
+                "character": "Steve Mok",
+                "credit_id": "54626be50e0a26780d0001a9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/npLwIeUobjVCM4fLfdeLqQhAoey.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 9461,
+                "original_language": "en",
+                "original_title": "Enter the Dragon",
+                "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+                "popularity": 6.8884,
+                "poster_path": "/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
+                "release_date": "1973-08-17",
+                "title": "Enter the Dragon",
+                "video": false,
+                "vote_average": 7.419,
+                "vote_count": 1987,
+                "character": "Tournament Fighter",
+                "credit_id": "5938572392514108b3001004",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AddgRVGaQg3FCFS0Ew8yixzjG1t.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53
+                ],
+                "id": 11713,
+                "original_language": "zh",
+                "original_title": "\u7cbe\u6b66\u9580",
+                "overview": "Chen Chen returns to his former school in Shanghai when he learns that his beloved instructor has been murdered. While investigating the man's death, Chen discovers that a rival Japanese school is operating a drug smuggling ring. To avenge his master\u2019s death, Chen takes on both Chinese and Japanese assassins\u2026 and even a towering Russian.",
+                "popularity": 6.83,
+                "poster_path": "/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+                "release_date": "1972-03-22",
+                "title": "Fist of Fury",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 1009,
+                "character": "Susuki's Student Who Spar with Petrov (uncredited)",
+                "credit_id": "5a480f13925141031a006777",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/npLwIeUobjVCM4fLfdeLqQhAoey.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 9461,
+                "original_language": "en",
+                "original_title": "Enter the Dragon",
+                "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+                "popularity": 6.8884,
+                "poster_path": "/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
+                "release_date": "1973-08-17",
+                "title": "Enter the Dragon",
+                "video": false,
+                "vote_average": 7.419,
+                "vote_count": 1987,
+                "credit_id": "599875a4c3a36821c8011dda",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aBPok9tHcYb9mcHPsLnPIXdkQc2.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 9462,
+                "original_language": "cn",
+                "original_title": "\u731b\u9f8d\u904e\u6c5f",
+                "overview": "Tang Lung arrives in Rome to help his cousins in the restaurant business. They are being pressured to sell their property to the syndicate, who will stop at nothing to get what they want. When Tang arrives he poses a new threat to the syndicate, and they are unable to defeat him. The syndicate boss hires the best Japanese and European martial artists to fight Tang, but he easily finishes them off.",
+                "popularity": 5.8093,
+                "poster_path": "/m7AIITQ624sfldI4SsX4htXPH1f.jpg",
+                "release_date": "1972-12-30",
+                "title": "The Way of the Dragon",
+                "video": false,
+                "vote_average": 7.367,
+                "vote_count": 1202,
+                "credit_id": "5efd1c3dc2823a0037ef6aab",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AddgRVGaQg3FCFS0Ew8yixzjG1t.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53
+                ],
+                "id": 11713,
+                "original_language": "zh",
+                "original_title": "\u7cbe\u6b66\u9580",
+                "overview": "Chen Chen returns to his former school in Shanghai when he learns that his beloved instructor has been murdered. While investigating the man's death, Chen discovers that a rival Japanese school is operating a drug smuggling ring. To avenge his master\u2019s death, Chen takes on both Chinese and Japanese assassins\u2026 and even a towering Russian.",
+                "popularity": 6.83,
+                "poster_path": "/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+                "release_date": "1972-03-22",
+                "title": "Fist of Fury",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 1009,
+                "credit_id": "5efd20345437f50038906608",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u5143\u5f6a",
+            "Ha Ling-Chun",
+            "Yuan Biao",
+            "Yan Piao",
+            "Yuen Bill",
+            "Ha Ling-Chan",
+            "Bill Yuen",
+            "Jimmy Yuen",
+            "Sha Yuan-Biu",
+            "Yuen Biu",
+            "Ha Lingchun",
+            "\u590f\u4ee4\u9707",
+            "\u06cc\u0648\u0626\u0646 \u0628\u06cc\u0627\u0626\u0648"
+        ],
+        "biography": "Yuen Biao\u00a0(Chinese: \u5143\u5f6a, born 26 July 1957) is a\u00a0Hong Kong\u00a0actor\u00a0and\u00a0martial artist. He specialises in\u00a0acrobatics\u00a0and\u00a0Chinese martial arts\u00a0and has worked on over 80 films as actor, stuntman and\u00a0action choreographer. Along with\u00a0Peking Opera School\u00a0\"brothers\" at the\u00a0China Drama Academy,\u00a0Sammo Hung\u00a0and\u00a0Jackie Chan, he was  a member of the\"Seven Little Fortunes\" performance troupe in Yu Jim-Yuen's China Drama Academy's Peking Opera School. Was a member of the Sammo Hung Stuntmen's Association.",
+        "birthday": "1957-07-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 62414,
+        "imdb_id": "nm0950707",
+        "known_for_department": "Acting",
+        "name": "Yuen Biao",
+        "place_of_birth": "Hong Kong, China",
+        "popularity": 2.2956,
+        "profile_path": "/pgO9Im1QKPjLozvsWODLtZDTjw7.jpg"
+    }
+}

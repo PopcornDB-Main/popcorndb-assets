@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9829,
+                "original_language": "en",
+                "original_title": "United 93",
+                "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+                "popularity": 4.1082,
+                "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+                "release_date": "2006-04-28",
+                "title": "United 93",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1559,
+                "character": "Cleveland Supervisor",
+                "credit_id": "64ea9a271feac1011b2dfea2",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "Mrs. Margaret Ryan",
+                "credit_id": "59f515a99251414cfd01f369",
+                "order": 80
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Amanda Boxer (born 1948) is an English theatre, television, and film actress. She is perhaps best known for her role in the film Saving Private Ryan (1998).",
+        "birthday": "1948-01-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1231417,
+        "imdb_id": "nm0101524",
+        "known_for_department": "Acting",
+        "name": "Amanda Boxer",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.2087,
+        "profile_path": "/xzN7IWhcHMnY3wTIoUDQG7vo4kN.jpg"
+    }
+}

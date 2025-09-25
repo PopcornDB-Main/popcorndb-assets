@@ -1,0 +1,230 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6Z1fVDm7b05I1650DJRqAq8dIaI.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 2118,
+                "original_language": "en",
+                "original_title": "L.A. Confidential",
+                "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+                "popularity": 8.4199,
+                "poster_path": "/2PH1pqXMcYBDjodkjiMwMiPi2bH.jpg",
+                "release_date": "1997-09-19",
+                "title": "L.A. Confidential",
+                "video": false,
+                "vote_average": 7.802,
+                "vote_count": 5225,
+                "character": "Mickey Cohen",
+                "credit_id": "52fe4337c3a36847f804348f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 10673,
+                "original_language": "en",
+                "original_title": "Wall Street",
+                "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider, whom takes the youth under his wing.",
+                "popularity": 5.0177,
+                "poster_path": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+                "release_date": "1987-12-10",
+                "title": "Wall Street",
+                "video": false,
+                "vote_average": 7.164,
+                "vote_count": 2146,
+                "character": "Stone Livingston",
+                "credit_id": "52fe43a09251416c75017c33",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/R5yzaNz6IE2107lcmnzBSerCBP.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    9648
+                ],
+                "id": 11450,
+                "original_language": "en",
+                "original_title": "Quiz Show",
+                "overview": "Herbert Stempel's transformation into an unexpected television personality unfolds as he secures victory on the cherished American game show, 'Twenty-One.' However, when the show introduces the highly skilled contestant Charles Van Doren to replace Stempel, it compels Stempel to let out his frustrations and call out the show as rigged. Lawyer Richard Goodwin steps in and attempts to uncover the orchestrated deception behind the scenes.",
+                "popularity": 3.1966,
+                "poster_path": "/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+                "release_date": "1994-08-25",
+                "title": "Quiz Show",
+                "video": false,
+                "vote_average": 7.263,
+                "vote_count": 938,
+                "character": "Lishman",
+                "credit_id": "52fe44429251416c7502e693",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9PGxCEZCnxgPALlpu7avGMYhVRR.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    9648
+                ],
+                "id": 11831,
+                "original_language": "en",
+                "original_title": "Amistad",
+                "overview": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+                "popularity": 1.011,
+                "poster_path": "/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+                "release_date": "1997-12-10",
+                "title": "Amistad",
+                "video": false,
+                "vote_average": 7.019,
+                "vote_count": 1341,
+                "character": "Attorney",
+                "credit_id": "52fe448e9251416c75038f81",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 314365,
+                "original_language": "en",
+                "original_title": "Spotlight",
+                "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+                "popularity": 4.6333,
+                "poster_path": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+                "release_date": "2015-11-06",
+                "title": "Spotlight",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 8479,
+                "character": "Peter Conley",
+                "credit_id": "54a1ab77925141198b001e3c",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 618588,
+                "original_language": "en",
+                "original_title": "Arthur the King",
+                "overview": "Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is pushed to their outer limits of endurance in the race, Arthur redefines what victory, loyalty and friendship truly mean.",
+                "popularity": 6.9676,
+                "poster_path": "/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg",
+                "release_date": "2024-02-22",
+                "title": "Arthur the King",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 837,
+                "character": "Charlie Light",
+                "credit_id": "63347db79ee0ef007ebfcc80",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y4TbQOC9DCzZop9HwKuX73rKbYO.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9631,
+                "original_language": "en",
+                "original_title": "The Negotiator",
+                "overview": "The police try to arrest expert hostage negotiator Danny Roman, who insists he's being framed for his partner's murder in what he believes is an elaborate conspiracy. Thinking there's evidence in the Internal Affairs offices that might clear him, he takes everyone in the office hostage and demands that another well-known negotiator be brought in to handle the situation and secretly investigate the conspiracy.",
+                "popularity": 7.03,
+                "poster_path": "/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg",
+                "release_date": "1998-07-29",
+                "title": "The Negotiator",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 2221,
+                "character": "Nathan Roenick (uncredited)",
+                "credit_id": "56e05f24c3a368748c0049df",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sTgavNm82pTaZR9U2NQZ1J2FrJz.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10751
+                ],
+                "id": 788,
+                "original_language": "en",
+                "original_title": "Mrs. Doubtfire",
+                "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
+                "popularity": 5.7993,
+                "poster_path": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+                "release_date": "1993-11-24",
+                "title": "Mrs. Doubtfire",
+                "video": false,
+                "vote_average": 7.196,
+                "vote_count": 6346,
+                "character": "Head Chef",
+                "credit_id": "5f4b0970eec4f30034d088ce",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 646380,
+                "original_language": "en",
+                "original_title": "Don't Look Up",
+                "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
+                "popularity": 8.1404,
+                "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+                "release_date": "2021-12-08",
+                "title": "Don't Look Up",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 8782,
+                "character": "General Themes",
+                "credit_id": "60b3b1ffc490480059720122",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u067e\u0644 \u06af\u0648\u06cc\u0644\u0641\u0648\u06cc\u0644"
+        ],
+        "biography": "Paul Guilfoyle is an American stage and screen actor, best known for playing Captain Jim Brass on the television series \"CSI: Crime Scene Investigation\". He graduated from Yale University in 1977 with a major in economics and studied at the Actor's Studio in New York City.\n\nHe is often mistakenly referred to as the son of character actor Paul Guilfoyle but they are not related.",
+        "birthday": "1949-04-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 925,
+        "imdb_id": "nm0002117",
+        "known_for_department": "Acting",
+        "name": "Paul Guilfoyle",
+        "place_of_birth": "Boston, Massachusetts, USA",
+        "popularity": 0.9788,
+        "profile_path": "/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    18
+                ],
+                "id": 39254,
+                "original_language": "en",
+                "original_title": "Real Steel",
+                "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+                "popularity": 13.8352,
+                "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+                "release_date": "2011-09-28",
+                "title": "Real Steel",
+                "video": false,
+                "vote_average": 7.061,
+                "vote_count": 8729,
+                "character": "Big Sister",
+                "credit_id": "52fe47089251416c91067e85",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    878
+                ],
+                "id": 550988,
+                "original_language": "en",
+                "original_title": "Free Guy",
+                "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+                "popularity": 11.4114,
+                "poster_path": "/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg",
+                "release_date": "2021-08-11",
+                "title": "Free Guy",
+                "video": false,
+                "vote_average": 7.471,
+                "vote_count": 9267,
+                "character": "Big City Dreamer",
+                "credit_id": "5eb5a3cc7ac829002224542f",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1999-07-17",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1126350,
+        "imdb_id": "nm1053641",
+        "known_for_department": "Acting",
+        "name": "Sophie Levy",
+        "place_of_birth": "Toronto, Canada",
+        "popularity": 0.4972,
+        "profile_path": "/ytDkZ3NrpxWayURhHuI2Dtp29TM.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 872,
+                "original_language": "en",
+                "original_title": "Singin' in the Rain",
+                "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
+                "popularity": 4.2669,
+                "poster_path": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+                "release_date": "1952-04-10",
+                "title": "Singin' in the Rain",
+                "video": false,
+                "vote_average": 8.146,
+                "vote_count": 3306,
+                "character": "Hairdresser (uncredited)",
+                "credit_id": "52fe4285c3a36847f8025725",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    878
+                ],
+                "id": 3035,
+                "original_language": "en",
+                "original_title": "Frankenstein",
+                "overview": "Tampering with life and death, Henry Frankenstein pieces together salvaged body parts to bring a human monster to life; the mad scientist's dreams are shattered by his creation's violent rage as the monster awakens to a world in which he is unwelcome.",
+                "popularity": 5.2562,
+                "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+                "release_date": "1931-11-21",
+                "title": "Frankenstein",
+                "video": false,
+                "vote_average": 7.468,
+                "vote_count": 1677,
+                "character": "Elizabeth",
+                "credit_id": "52fe437fc3a36847f8058835",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Violet Mary Klotz",
+            "Mae Clark"
+        ],
+        "biography": "Mae Clarke (born Violet Mary Klotz in 1910) was an American stage, screen, and television actress. She is best known for being the recipient of Jimmy Cagney's half grapefruit in 'The Public Enemy' and for her role in 'Frankenstein'.",
+        "birthday": "1910-08-16",
+        "deathday": "1992-04-29",
+        "gender": 1,
+        "homepage": null,
+        "id": 29814,
+        "imdb_id": "nm0164883",
+        "known_for_department": "Acting",
+        "name": "Mae Clarke",
+        "place_of_birth": "Philadelphia, Pennsylvania, USA",
+        "popularity": 0.2238,
+        "profile_path": "/9eKCjCHX920LGK0DhAmWExZ6mib.jpg"
+    }
+}

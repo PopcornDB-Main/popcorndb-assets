@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eOn6EtViFLxXAmPPjJR861Dx4PX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 290,
+                "original_language": "en",
+                "original_title": "Barton Fink",
+                "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+                "popularity": 4.4384,
+                "poster_path": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+                "release_date": "1991-08-01",
+                "title": "Barton Fink",
+                "video": false,
+                "vote_average": 7.454,
+                "vote_count": 1765,
+                "character": "Jack Lipnick",
+                "credit_id": "52fe4233c3a36847f800b971",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 127585,
+                "original_language": "en",
+                "original_title": "X-Men: Days of Future Past",
+                "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+                "popularity": 13.1726,
+                "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+                "release_date": "2014-05-15",
+                "title": "X-Men: Days of Future Past",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 15762,
+                "character": "Senator Brickman",
+                "credit_id": "55b5944dc3a368648e0142c9",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michael Charles Lerner"
+        ],
+        "biography": "Michael Charles Lerner (June 22, 1941 \u2013 April 8, 2023) was an American actor. He was best known for his Academy Award-nominated performance in Barton Fink, as well as appearing in the films Elf, Godzilla, Eight Men Out, and X-Men: Days of Future Past.",
+        "birthday": "1941-06-22",
+        "deathday": "2023-04-08",
+        "gender": 2,
+        "homepage": null,
+        "id": 4250,
+        "imdb_id": "nm0503627",
+        "known_for_department": "Acting",
+        "name": "Michael Lerner",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 0.5239,
+        "profile_path": "/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
+    }
+}

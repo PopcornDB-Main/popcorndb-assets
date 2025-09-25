@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/k3PqsPLkKLDyjZupZ6gqZHPxMv3.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 54138,
+                "original_language": "en",
+                "original_title": "Star Trek Into Darkness",
+                "overview": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+                "popularity": 5.4208,
+                "poster_path": "/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg",
+                "release_date": "2013-05-05",
+                "title": "Star Trek Into Darkness",
+                "video": false,
+                "vote_average": 7.32,
+                "vote_count": 9342,
+                "character": "Lieutenant Chapin",
+                "credit_id": "54691dc822136e68d200174d",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/p5z5X3GRnaFEqgtEa7fiGhgtUkA.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 7304,
+                "original_language": "en",
+                "original_title": "Running Scared",
+                "overview": "A low-ranking thug is entrusted by his boss to dispose of a gun that killed corrupt cops, but things spiral out of control when the gun ends up in wrong hands.",
+                "popularity": 3.5149,
+                "poster_path": "/wVlwZbwJlI5C33STslTyVNRGjg6.jpg",
+                "release_date": "2006-01-06",
+                "title": "Running Scared",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1077,
+                "credit_id": "5ff4fa3b5541fa003fab6931",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/drUgiqUfxmCCNZ9i0eeTEPqeDF.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 46838,
+                "original_language": "en",
+                "original_title": "Tucker and Dale vs. Evil",
+                "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+                "popularity": 4.1838,
+                "poster_path": "/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+                "release_date": "2010-01-22",
+                "title": "Tucker and Dale vs. Evil",
+                "video": false,
+                "vote_average": 7.388,
+                "vote_count": 2944,
+                "credit_id": "676662758ca53cc6a75e09a1",
+                "department": "Production",
+                "job": "Casting"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 60946,
+        "imdb_id": "nm1179178",
+        "known_for_department": "Production",
+        "name": "Jay Scully",
+        "place_of_birth": null,
+        "popularity": 0.0893,
+        "profile_path": "/Hm43RkHvD8RA6eaF6vcYCvGldY.jpg"
+    }
+}

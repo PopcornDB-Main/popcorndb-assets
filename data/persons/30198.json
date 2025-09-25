@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 3082,
+                "original_language": "en",
+                "original_title": "Modern Times",
+                "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+                "popularity": 4.5373,
+                "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+                "release_date": "1936-02-05",
+                "title": "Modern Times",
+                "video": false,
+                "vote_average": 8.283,
+                "vote_count": 3884,
+                "character": "Minister",
+                "credit_id": "52fe4383c3a36847f8059f0d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    878
+                ],
+                "id": 3035,
+                "original_language": "en",
+                "original_title": "Frankenstein",
+                "overview": "Tampering with life and death, Henry Frankenstein pieces together salvaged body parts to bring a human monster to life; the mad scientist's dreams are shattered by his creation's violent rage as the monster awakens to a world in which he is unwelcome.",
+                "popularity": 5.2562,
+                "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+                "release_date": "1931-11-21",
+                "title": "Frankenstein",
+                "video": false,
+                "vote_average": 7.468,
+                "vote_count": 1677,
+                "character": "Waldman's Secretary (uncredited)",
+                "credit_id": "55a32099925141297d004760",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1880-11-24",
+        "deathday": "1947-04-26",
+        "gender": 0,
+        "homepage": null,
+        "id": 30198,
+        "imdb_id": "nm0721637",
+        "known_for_department": "Acting",
+        "name": "Cecil Reynolds",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

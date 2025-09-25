@@ -1,0 +1,168 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 235,
+                "original_language": "en",
+                "original_title": "Stand by Me",
+                "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four Oregon boys decide to go see the body. On the way, Gordie,  Vern, Chris and Teddy encounter a mean junk man and a marsh full of leeches, as they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+                "popularity": 5.9784,
+                "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+                "release_date": "1986-08-08",
+                "title": "Stand by Me",
+                "video": false,
+                "vote_average": 7.853,
+                "vote_count": 6166,
+                "character": "Teddy Duchamp",
+                "credit_id": "52fe422ac3a36847f800914f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+                "genre_ids": [
+                    14,
+                    27,
+                    35
+                ],
+                "id": 927,
+                "original_language": "en",
+                "original_title": "Gremlins",
+                "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+                "popularity": 6.6117,
+                "poster_path": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+                "release_date": "1984-06-08",
+                "title": "Gremlins",
+                "video": false,
+                "vote_average": 7.136,
+                "vote_count": 6657,
+                "character": "Pete Fountaine",
+                "credit_id": "52fe428ec3a36847f8027fef",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 1547,
+                "original_language": "en",
+                "original_title": "The Lost Boys",
+                "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+                "popularity": 6.052,
+                "poster_path": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+                "release_date": "1987-07-31",
+                "title": "The Lost Boys",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2166,
+                "character": "Edgar Frog",
+                "credit_id": "52fe42fcc3a36847f8031d9f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    18,
+                    10751
+                ],
+                "id": 10948,
+                "original_language": "en",
+                "original_title": "The Fox and the Hound",
+                "overview": "When a feisty little fox named Tod is adopted into a farm family, he quickly becomes friends with a fun and adorable hound puppy named Copper. Life is full of hilarious adventures until Copper is expected to take on his role as a hunting dog -- and the object of his search is his best friend!",
+                "popularity": 6.0199,
+                "poster_path": "/aC3k6XBaYnulGSkK8263ABjU3Md.jpg",
+                "release_date": "1981-07-10",
+                "title": "The Fox and the Hound",
+                "video": false,
+                "vote_average": 7.14,
+                "vote_count": 3354,
+                "character": "Young Copper (voice)",
+                "credit_id": "52fe43d79251416c750203bb",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 9340,
+                "original_language": "en",
+                "original_title": "The Goonies",
+                "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition.",
+                "popularity": 8.0645,
+                "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+                "release_date": "1985-06-07",
+                "title": "The Goonies",
+                "video": false,
+                "vote_average": 7.514,
+                "vote_count": 5945,
+                "character": "Mouth",
+                "credit_id": "52fe44eac3a36847f80b17a3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ctzKCslTsMRsOJNvAm1Mw8ytiHY.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    18,
+                    37
+                ],
+                "id": 9359,
+                "original_language": "en",
+                "original_title": "Maverick",
+                "overview": "Bret Maverick is a gambler who would rather con someone than fight them, and needs an additional $3k in order to enter a winner-takes-all poker game beginning in a few days. He joins forces with a woman with a marvelous Southern accent, and the two try and enter the game.",
+                "popularity": 5.0862,
+                "poster_path": "/mTVbGGi5PIexmxVzeyFd2RYKwfM.jpg",
+                "release_date": "1994-05-20",
+                "title": "Maverick",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1661,
+                "character": "Bank Robber",
+                "credit_id": "52fe44edc3a36847f80b245f",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Corey Scott Feldman",
+            "\u06a9\u0648\u0631\u06cc \u0641\u0644\u062f\u0645\u0646"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nCorey Scott Feldman (born July 16, 1971) is an American actor, musician, and activist. He became well known during the 1980s, with roles as a youth in films such as Friday the 13th: The Final Chapter (1984), Gremlins (1984), The Goonies (1985), and Stand by Me (1986). In 1987, Feldman starred in the horror film The Lost Boys with Corey Haim; they became known as \"The Two Coreys\" and went on to appear in other films together, including License to Drive (1988) and Dream a Little Dream (1989). He experienced diminishing success in the film industry as an adult, amid well publicized personal conflicts with Haim over the latter's substance abuse, and with Michael Jackson, who had befriended him during his time as a teen celebrity. He has been outspoken about sexual abuse of children and teens in the entertainment industry, identifying himself as a victim of it.",
+        "birthday": "1971-07-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://coreyfeldman.net/",
+        "id": 3034,
+        "imdb_id": "nm0000397",
+        "known_for_department": "Acting",
+        "name": "Corey Feldman",
+        "place_of_birth": "Chatsworth, California, USA",
+        "popularity": 3.2287,
+        "profile_path": "/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
+    }
+}

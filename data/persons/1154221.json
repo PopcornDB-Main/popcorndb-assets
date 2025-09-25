@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/d9eONXYtCmQnPWw61w9pNMGlSzK.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 1262,
+                "original_language": "en",
+                "original_title": "Stranger Than Fiction",
+                "overview": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+                "popularity": 3.9908,
+                "poster_path": "/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+                "release_date": "2006-09-09",
+                "title": "Stranger Than Fiction",
+                "video": false,
+                "vote_average": 7.282,
+                "vote_count": 2390,
+                "character": "IRS Co-Worker #5",
+                "credit_id": "52fe42ebc3a36847f802cd03",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mSyQoValhBsJdq3JNGXJww2Q5yL.jpg",
+                "genre_ids": [
+                    35,
+                    27,
+                    53
+                ],
+                "id": 593643,
+                "original_language": "en",
+                "original_title": "The Menu",
+                "overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+                "popularity": 8.7488,
+                "poster_path": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+                "release_date": "2022-11-17",
+                "title": "The Menu",
+                "video": false,
+                "vote_average": 7.173,
+                "vote_count": 5580,
+                "character": "Sommelier",
+                "credit_id": "615d12cb8e2ba600214a6f7d",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1974-01-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1154221,
+        "imdb_id": "nm2003994",
+        "known_for_department": "Acting",
+        "name": "Peter Grosz",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.1385,
+        "profile_path": "/9aVKXpi1MmFB9m8uNR65AH8UD7z.jpg"
+    }
+}

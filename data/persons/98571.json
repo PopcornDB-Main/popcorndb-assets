@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749
+                ],
+                "id": 770,
+                "original_language": "en",
+                "original_title": "Gone with the Wind",
+                "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+                "popularity": 7.332,
+                "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+                "release_date": "1939-12-15",
+                "title": "Gone with the Wind",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 4191,
+                "character": "Aunt Pittypat's Coachman 'Uncle Peter'",
+                "credit_id": "52fe4274c3a36847f801fea9",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80
+                ],
+                "id": 11576,
+                "original_language": "en",
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+                "popularity": 7.5039,
+                "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+                "release_date": "1963-11-07",
+                "title": "It's a Mad, Mad, Mad, Mad World",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 637,
+                "character": "Second Cab Driver",
+                "credit_id": "52fe445f9251416c750326bd",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Eddie Anderson",
+            "Edmund Lincoln Anderson",
+            "Rochester"
+        ],
+        "biography": "Eddie \"Rochester\" Anderson (September 18, 1905 \u2013 February 28, 1977)  was an American comic actor who became famous playing Rochester, the valet to Jack Benny's eponymous title character on the long-running radio and television series The Jack Benny Program.",
+        "birthday": "1905-09-18",
+        "deathday": "1977-02-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 98571,
+        "imdb_id": "nm0026655",
+        "known_for_department": "Acting",
+        "name": "Eddie 'Rochester' Anderson",
+        "place_of_birth": "Oakland, California, USA",
+        "popularity": 0.0876,
+        "profile_path": "/95DoyaHU01D2kR6AmiFe5axoUK2.jpg"
+    }
+}

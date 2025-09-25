@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10435,
+                "original_language": "en",
+                "original_title": "Chaplin",
+                "overview": "An aged Charlie Chaplin narrates his life to his autobiography's editor, including his rise to wealth and comedic fame from poverty, his turbulent personal life and his run-ins with the FBI.",
+                "popularity": 2.9824,
+                "poster_path": "/Aeltt5tl02zrEj4GoMynHc94lWG.jpg",
+                "release_date": "1992-12-17",
+                "title": "Chaplin",
+                "video": false,
+                "vote_average": 7.438,
+                "vote_count": 1131,
+                "character": "Station Master",
+                "credit_id": "642d471b158c85009ad7365d",
+                "order": 94
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6prkTmEEsB3f9hhKBzUePLe27b2.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 399404,
+                "original_language": "en",
+                "original_title": "Darkest Hour",
+                "overview": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler or fight on knowing that it could mean the end of the British Empire.",
+                "popularity": 6.2227,
+                "poster_path": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+                "release_date": "2017-11-22",
+                "title": "Darkest Hour",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 5299,
+                "character": "Sir Samuel Hoare",
+                "credit_id": "5a7e72df0e0a262aa000426f",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u672c\u6770\u660e\u00b7\u60e0\u7279\u7f57"
+        ],
+        "biography": "",
+        "birthday": "1937-02-17",
+        "deathday": "2017-09-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 84927,
+        "imdb_id": "nm0926368",
+        "known_for_department": "Acting",
+        "name": "Benjamin Whitrow",
+        "place_of_birth": "Oxford, Oxfordshire, England, UK",
+        "popularity": 0.3744,
+        "profile_path": "/etHniAfcrMBSlLW7s8xWxcCFtuY.jpg"
+    }
+}

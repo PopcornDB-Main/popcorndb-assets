@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 288,
+                "original_language": "en",
+                "original_title": "High Noon",
+                "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+                "popularity": 4.4293,
+                "poster_path": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+                "release_date": "1952-06-09",
+                "title": "High Noon",
+                "video": false,
+                "vote_average": 7.666,
+                "vote_count": 1502,
+                "character": "Deputy Marshal Harvey Pell",
+                "credit_id": "52fe4232c3a36847f800b76f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 8.2181,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 4777,
+                "character": "Steve McCroskey",
+                "credit_id": "52fe427ac3a36847f8021bb3",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Lloyd Vernet Bridges Jr.",
+            "\u0644\u0648\u06cc\u062f \u0628\u0631\u06cc\u062c\u0632"
+        ],
+        "biography": "Lloyd Bridges (1913\u20131998) was an American actor who starred in a number of television series and appeared in more than 150 feature films. Bridges is best known for his role on Sea Hunt. He is the father of actors Beau Bridges and Jeff Bridges.",
+        "birthday": "1913-01-15",
+        "deathday": "1998-03-10",
+        "gender": 2,
+        "homepage": null,
+        "id": 2177,
+        "imdb_id": "nm0000978",
+        "known_for_department": "Acting",
+        "name": "Lloyd Bridges",
+        "place_of_birth": "San Leandro, California, USA",
+        "popularity": 1.0738,
+        "profile_path": "/lO4HWxYvneC0dMFckK2WrKPZa9o.jpg"
+    }
+}

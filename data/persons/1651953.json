@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 634649,
+                "original_language": "en",
+                "original_title": "Spider-Man: No Way Home",
+                "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+                "popularity": 23.2259,
+                "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+                "release_date": "2021-12-15",
+                "title": "Spider-Man: No Way Home",
+                "video": false,
+                "vote_average": 7.94,
+                "vote_count": 21112,
+                "character": "Arena Bystander",
+                "credit_id": "61bb429b894ed6001ce9b02c",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 318846,
+                "original_language": "en",
+                "original_title": "The Big Short",
+                "overview": "The men who made millions from a global economic meltdown.",
+                "popularity": 11.2617,
+                "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+                "release_date": "2015-12-11",
+                "title": "The Big Short",
+                "video": false,
+                "vote_average": 7.359,
+                "vote_count": 9395,
+                "character": "Lewis Ranieri",
+                "credit_id": "578b16eec3a3682bca0051f7",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1965-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1651953,
+        "imdb_id": "nm5647921",
+        "known_for_department": "Acting",
+        "name": "Rudy Eisenzopf",
+        "place_of_birth": "Baltimore, Maryland, USA",
+        "popularity": 0.3288,
+        "profile_path": "/1pDV75qlQwWZ7wLWoE5zenedYBe.jpg"
+    }
+}

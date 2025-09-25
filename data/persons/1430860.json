@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.5191,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Ewok",
+                "credit_id": "54ebb8639251417965000030",
+                "order": 69
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 13597,
+                "original_language": "en",
+                "original_title": "Labyrinth",
+                "overview": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King who whisks Toby away to his castle at the center of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
+                "popularity": 6.3145,
+                "poster_path": "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+                "release_date": "1986-06-27",
+                "title": "Labyrinth",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 2570,
+                "character": "Goblin Corps",
+                "credit_id": "5de2dc7ec51acd0011f89f32",
+                "order": 53
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard Henry Louen Jones"
+        ],
+        "biography": "",
+        "birthday": "1945-03-18",
+        "deathday": "2009-11-18",
+        "gender": 0,
+        "homepage": null,
+        "id": 1430860,
+        "imdb_id": "nm0429104",
+        "known_for_department": "Acting",
+        "name": "Richard Jones",
+        "place_of_birth": "Cardiff - Wales - UK",
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

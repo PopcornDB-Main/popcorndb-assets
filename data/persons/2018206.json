@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35
+                ],
+                "id": 11544,
+                "original_language": "en",
+                "original_title": "Lilo & Stitch",
+                "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.",
+                "popularity": 12.4678,
+                "poster_path": "/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg",
+                "release_date": "2002-06-21",
+                "title": "Lilo & Stitch",
+                "video": false,
+                "vote_average": 7.56,
+                "vote_count": 6793,
+                "character": "Additional Voices (voice)",
+                "credit_id": "65a06ea0d34eb301297a3c35",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    10751,
+                    10749
+                ],
+                "id": 10530,
+                "original_language": "en",
+                "original_title": "Pocahontas",
+                "overview": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
+                "popularity": 7.2222,
+                "poster_path": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+                "release_date": "1995-06-16",
+                "title": "Pocahontas",
+                "video": false,
+                "vote_average": 6.912,
+                "vote_count": 5874,
+                "credit_id": "5fdf97f1e263bb0046be49e8",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2018206,
+        "imdb_id": "nm1190000",
+        "known_for_department": "Art",
+        "name": "Todd Kurosawa",
+        "place_of_birth": null,
+        "popularity": 0.0818,
+        "profile_path": null
+    }
+}

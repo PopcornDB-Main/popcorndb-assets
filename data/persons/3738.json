@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 76,
+                "original_language": "en",
+                "original_title": "Before Sunrise",
+                "overview": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+                "popularity": 7.7657,
+                "poster_path": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+                "release_date": "1995-01-27",
+                "title": "Before Sunrise",
+                "video": false,
+                "vote_average": 7.964,
+                "vote_count": 4405,
+                "character": "Bartender",
+                "credit_id": "52fe4214c3a36847f8002443",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 424,
+                "original_language": "en",
+                "original_title": "Schindler's List",
+                "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+                "popularity": 14.6569,
+                "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                "release_date": "1993-12-15",
+                "title": "Schindler's List",
+                "video": false,
+                "vote_average": 8.566,
+                "vote_count": 16703,
+                "character": "Auschwitz Guard",
+                "credit_id": "5a47d58fc3a3681913001a1f",
+                "order": 63
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1953-05-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3738,
+        "imdb_id": "nm0125379",
+        "known_for_department": "Acting",
+        "name": "Haymon Maria Buttinger",
+        "place_of_birth": "Wien, Austria",
+        "popularity": 0.4079,
+        "profile_path": "/hBpdnFZYcKxqvpZaoGwWUC1ADxw.jpg"
+    }
+}

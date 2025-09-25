@@ -1,0 +1,120 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1895,
+                "original_language": "en",
+                "original_title": "Star Wars: Episode III - Revenge of the Sith",
+                "overview": "The evil Darth Sidious enacts his final plan for unlimited power \u2013 and the heroic Jedi Anakin Skywalker must choose a side.",
+                "popularity": 8.3168,
+                "poster_path": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+                "release_date": "2005-05-17",
+                "title": "Star Wars: Episode III - Revenge of the Sith",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 14346,
+                "character": "Commander Cody",
+                "credit_id": "52fe431fc3a36847f803beff",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751,
+                    16
+                ],
+                "id": 277834,
+                "original_language": "en",
+                "original_title": "Moana",
+                "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+                "popularity": 4.2794,
+                "poster_path": "/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
+                "release_date": "2016-10-13",
+                "title": "Moana",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 13294,
+                "character": "Chief Tui (voice)",
+                "credit_id": "57d91c08c3a36852e00046dd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qkOw5IZXESOiRH4wzdIYJlBZiCp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297802,
+                "original_language": "en",
+                "original_title": "Aquaman",
+                "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+                "popularity": 10.5768,
+                "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+                "release_date": "2018-12-07",
+                "title": "Aquaman",
+                "video": false,
+                "vote_average": 6.874,
+                "vote_count": 14478,
+                "character": "Thomas Curry",
+                "credit_id": "5894dc1dc3a36808a200061d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35
+                ],
+                "id": 1241982,
+                "original_language": "en",
+                "original_title": "Moana 2",
+                "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+                "popularity": 42.3629,
+                "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+                "release_date": "2024-11-21",
+                "title": "Moana 2",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 2705,
+                "character": "Chief Tui (voice)",
+                "credit_id": "679df15928bb97ddd395375a",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Temuera Derek Morrison",
+            "\u062a\u0645\u0648\u0631\u0627 \u0645\u0648\u0631\u06cc\u0633\u0648\u0646"
+        ],
+        "biography": "Temuera Derek Morrison (born December 26, 1960) is a New Zealand actor. He has become one of the country's most famous stars for his roles as the abusive Jake \"the Muss\" Heke in 1994's Once Were Warriors and as bounty hunter Jango Fett and the Clone Troopers in the Star Wars series. He also voiced Boba Fett in the 2004 special edition of Star Wars Episode V: The Empire Strikes Back.",
+        "birthday": "1960-12-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 7242,
+        "imdb_id": "nm0607325",
+        "known_for_department": "Acting",
+        "name": "Temuera Morrison",
+        "place_of_birth": "Rotorua, North Island, New Zealand",
+        "popularity": 1.0375,
+        "profile_path": "/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    }
+}

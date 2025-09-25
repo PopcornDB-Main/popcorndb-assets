@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242,
+                "original_language": "en",
+                "original_title": "The Godfather Part III",
+                "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+                "popularity": 10.0786,
+                "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+                "release_date": "1990-12-25",
+                "title": "The Godfather Part III",
+                "video": false,
+                "vote_average": 7.416,
+                "vote_count": 6515,
+                "character": "Party Politician",
+                "credit_id": "52fe422cc3a36847f8009817",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n63e6JvKST0Gm222zolmhGb2ww6.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    10749
+                ],
+                "id": 9880,
+                "original_language": "en",
+                "original_title": "The Princess Diaries",
+                "overview": "A socially awkward but very bright 15-year-old girl being raised by a single mom discovers that she is the princess of a small European country because of the recent death of her long-absent father, who, unknown to her, was the crown prince of Genovia. She must make a choice between continuing the life of a San Francisco teen or stepping up to the throne.",
+                "popularity": 8.9178,
+                "poster_path": "/qSw4lzhDGeM5MjQc86BLzJALhBs.jpg",
+                "release_date": "2001-08-03",
+                "title": "The Princess Diaries",
+                "video": false,
+                "vote_average": 6.964,
+                "vote_count": 5111,
+                "character": "Himself",
+                "credit_id": "582b0ab7c3a368360803d675",
+                "order": 55
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 196286,
+        "imdb_id": "nm0114922",
+        "known_for_department": "Acting",
+        "name": "Willie Brown",
+        "place_of_birth": null,
+        "popularity": 0.1044,
+        "profile_path": null
+    }
+}

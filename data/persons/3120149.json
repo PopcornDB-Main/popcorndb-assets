@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80
+                ],
+                "id": 385128,
+                "original_language": "en",
+                "original_title": "F9",
+                "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+                "popularity": 8.004,
+                "poster_path": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+                "release_date": "2021-05-19",
+                "title": "F9",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 7460,
+                "character": "Younger Dom",
+                "credit_id": "60c1b4d02c6b7b004185b74e",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3120149,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Vincent Sinclair Diesel",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

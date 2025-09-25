@@ -1,0 +1,158 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/foS1hXCMagcl3GnK0hJHslNw9Ne.jpg",
+                "genre_ids": [
+                    53,
+                    27,
+                    9648,
+                    18
+                ],
+                "id": 11482,
+                "original_language": "en",
+                "original_title": "Le locataire",
+                "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+                "popularity": 2.6188,
+                "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+                "release_date": "1976-05-26",
+                "title": "The Tenant",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1174,
+                "character": "Viviane, Office Worker",
+                "credit_id": "52fe44499251416c7502f5eb",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3EJJClmGZwu7e6nsj1l0OBNdXfT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 33701,
+                "original_language": "fr",
+                "original_title": "Les Bronz\u00e9s font du ski",
+                "overview": "In this sequel to Les Bronzes (1978) summer has passed, but that doesn't mean the fun has to end for Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude, and Christiane.",
+                "popularity": 2.1371,
+                "poster_path": "/uTN0bp8yMUKesNTLXR1GnL2kLFs.jpg",
+                "release_date": "1979-11-22",
+                "title": "French Fried Vacation 2",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 1233,
+                "character": "Nathalie Morin, Bernard's wife",
+                "credit_id": "52fe45319251416c9102a743",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1395,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "character": "Marie-Ange Musquin, pr\u00e9sidente de l'association",
+                "credit_id": "52fe460b9251416c7506b3bf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lBgIZ6SkDOz95aex524hVRkTaEM.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 509364,
+                "original_language": "fr",
+                "original_title": "Gr\u00e2ce \u00e0 Dieu",
+                "overview": "Alexandre, a man in his 40s living in Lyon with his wife and children, discovers that the priest who abused him decades ago continues to work with children. He joins forces with others victims of the priest, to bring justice and \u201clift the burden of silence\u201d about what they endured.",
+                "popularity": 3.9299,
+                "poster_path": "/qbwcnAdBkfGBIbQ1xdQZtiUg2lf.jpg",
+                "release_date": "2019-02-20",
+                "title": "By the Grace of God",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 577,
+                "character": "Ir\u00e8ne, Emmanuel's Mother",
+                "credit_id": "5aa0611b0e0a2632a0015d5b",
+                "order": 7
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3EJJClmGZwu7e6nsj1l0OBNdXfT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 33701,
+                "original_language": "fr",
+                "original_title": "Les Bronz\u00e9s font du ski",
+                "overview": "In this sequel to Les Bronzes (1978) summer has passed, but that doesn't mean the fun has to end for Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude, and Christiane.",
+                "popularity": 2.1371,
+                "poster_path": "/uTN0bp8yMUKesNTLXR1GnL2kLFs.jpg",
+                "release_date": "1979-11-22",
+                "title": "French Fried Vacation 2",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 1233,
+                "credit_id": "5300bf04c3a3683ff72d402a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1395,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "credit_id": "56698e85925141664f0014a5",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Josianne Balasko",
+            "Josiane Balaskovic",
+            "\u82e5\u897f\u4e9a\u5a1c\u00b7\u5df4\u62c9\u65af\u79d1",
+            "\u55ac\u5e0c\u5b89\u82ad\u62c9\u7d72\u5bc7"
+        ],
+        "biography": "Josiane Balasko (born 15 April 1950) is a French actress, writer and director.\n\nShe was born Josiane Bala\u0161kovi\u0107 in Paris. One of Balasko's most recognized roles among English speakers is as a lesbian in 1995's Gazon maudit (French Twist). She won the 1996 C\u00e9sar Award (shared with Telsche Boorman) for best writing for this film, for which she was also nominated as best director. The movie itself was nominated for best film.\n\nBalasko's other C\u00e9sar nominations for best actress were for Trop belle pour toi (1989), Tout le monde n'a pas eu la chance d'avoir des parents communistes (1993), Cette femme-l\u00e0 (2003).\n\nShe is married to George Aguilar, who is also an actor.\n\nDescription above from the Wikipedia article Josiane Balasko, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1950-04-15",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 35137,
+        "imdb_id": "nm0001929",
+        "known_for_department": "Acting",
+        "name": "Josiane Balasko",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.3725,
+        "profile_path": "/ijdGcyrROO1bddXh6nNx4WcZcWb.jpg"
+    }
+}

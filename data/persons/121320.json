@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.0551,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Bar Patron (uncredited)",
+                "credit_id": "53a1b428c3a3687bb000309d",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    53
+                ],
+                "id": 3767,
+                "original_language": "en",
+                "original_title": "Gilda",
+                "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+                "popularity": 4.004,
+                "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+                "release_date": "1946-04-25",
+                "title": "Gilda",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 609,
+                "character": "Nightclub Patron (uncredited)",
+                "credit_id": "63677888e004a6007959fa3b",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edward Dante Agresti"
+        ],
+        "biography": "",
+        "birthday": "1900-10-04",
+        "deathday": "1971-01-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 121320,
+        "imdb_id": "nm0013306",
+        "known_for_department": "Acting",
+        "name": "Ed Agresti",
+        "place_of_birth": "Salerno, Campania, Italy",
+        "popularity": 0.0486,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qkLZoJ1h998eJEmbuHGPCKZF0y7.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 387426,
+                "original_language": "en",
+                "original_title": "Okja",
+                "overview": "A young girl named Mija risks everything to prevent a powerful, multi-national company from kidnapping her best friend - a massive animal named Okja.",
+                "popularity": 4.4972,
+                "poster_path": "/lHBYG2NcBMW7UpFL4rSCpsgvz4m.jpg",
+                "release_date": "2017-06-28",
+                "title": "Okja",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 4410,
+                "character": "Mirando Executive",
+                "credit_id": "57cbafd4c3a3686747005cac",
+                "order": 48
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28,
+                    35
+                ],
+                "id": 696806,
+                "original_language": "en",
+                "original_title": "The Adam Project",
+                "overview": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+                "popularity": 5.1917,
+                "poster_path": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+                "release_date": "2022-03-11",
+                "title": "The Adam Project",
+                "video": false,
+                "vote_average": 7.008,
+                "vote_count": 4630,
+                "character": "Professor",
+                "credit_id": "605fb703f056d5002827dce5",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1969-06-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1674262,
+        "imdb_id": "nm4215448",
+        "known_for_department": "Acting",
+        "name": "Milo Shandel",
+        "place_of_birth": "Vancouver, British Columbia, Canada",
+        "popularity": 0.4071,
+        "profile_path": "/63dmhzZrsF6TeOFIqcbQrJ2P3Hn.jpg"
+    }
+}

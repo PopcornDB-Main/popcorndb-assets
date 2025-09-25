@@ -1,0 +1,345 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8uQRpN3JkD24yL1NjUP2YdSsgNf.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 925,
+                "original_language": "en",
+                "original_title": "Do the Right Thing",
+                "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+                "popularity": 4.773,
+                "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+                "release_date": "1989-06-14",
+                "title": "Do the Right Thing",
+                "video": false,
+                "vote_average": 7.768,
+                "vote_count": 1883,
+                "character": "Mookie",
+                "credit_id": "52fe428ec3a36847f8027daf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.04,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "character": "Shorty",
+                "credit_id": "52fe431dc3a36847f803b705",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/tOkSenL74N23O4S7wjJSUHz7Aeh.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 388,
+                "original_language": "en",
+                "original_title": "Inside Man",
+                "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                "popularity": 7.4949,
+                "poster_path": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+                "release_date": "2006-03-17",
+                "title": "Inside Man",
+                "video": false,
+                "vote_average": 7.398,
+                "vote_count": 6054,
+                "credit_id": "52fe423dc3a36847f800eb6f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mpfRchw4jh2cEBajB9EJltTnDH2.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 1429,
+                "original_language": "en",
+                "original_title": "25th Hour",
+                "overview": "In New York City in the days following the events of 9/11, Monty Brogan is a convicted drug dealer about to start a seven-year prison sentence, and his final hours of freedom are devoted to hanging out with his closest buddies and trying to prepare his girlfriend for his extended absence.",
+                "popularity": 4.8855,
+                "poster_path": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+                "release_date": "2002-12-19",
+                "title": "25th Hour",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 2441,
+                "credit_id": "52fe42f6c3a36847f80302bd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mpfRchw4jh2cEBajB9EJltTnDH2.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 1429,
+                "original_language": "en",
+                "original_title": "25th Hour",
+                "overview": "In New York City in the days following the events of 9/11, Monty Brogan is a convicted drug dealer about to start a seven-year prison sentence, and his final hours of freedom are devoted to hanging out with his closest buddies and trying to prepare his girlfriend for his extended absence.",
+                "popularity": 4.8855,
+                "poster_path": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+                "release_date": "2002-12-19",
+                "title": "25th Hour",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 2441,
+                "credit_id": "52fe42f6c3a36847f80302f9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.04,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "credit_id": "52fe431dc3a36847f803b713",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.04,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "credit_id": "52fe431dc3a36847f803b72b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8uQRpN3JkD24yL1NjUP2YdSsgNf.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 925,
+                "original_language": "en",
+                "original_title": "Do the Right Thing",
+                "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+                "popularity": 4.773,
+                "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+                "release_date": "1989-06-14",
+                "title": "Do the Right Thing",
+                "video": false,
+                "vote_average": 7.768,
+                "vote_count": 1883,
+                "credit_id": "52fe428ec3a36847f8027d41",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8uQRpN3JkD24yL1NjUP2YdSsgNf.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 925,
+                "original_language": "en",
+                "original_title": "Do the Right Thing",
+                "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+                "popularity": 4.773,
+                "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+                "release_date": "1989-06-14",
+                "title": "Do the Right Thing",
+                "video": false,
+                "vote_average": 7.768,
+                "vote_count": 1883,
+                "credit_id": "52fe428ec3a36847f8027d47",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    18,
+                    36
+                ],
+                "id": 487558,
+                "original_language": "en",
+                "original_title": "BlacKkKlansman",
+                "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+                "popularity": 5.5062,
+                "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+                "release_date": "2018-08-09",
+                "title": "BlacKkKlansman",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 7793,
+                "credit_id": "64ebd97dd48cee011e768024",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.04,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "credit_id": "563b3a22c3a3681b4d027464",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    18,
+                    36
+                ],
+                "id": 487558,
+                "original_language": "en",
+                "original_title": "BlacKkKlansman",
+                "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+                "popularity": 5.5062,
+                "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+                "release_date": "2018-08-09",
+                "title": "BlacKkKlansman",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 7793,
+                "credit_id": "5a0ea98ac3a368628c00a7cd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    18,
+                    36
+                ],
+                "id": 487558,
+                "original_language": "en",
+                "original_title": "BlacKkKlansman",
+                "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+                "popularity": 5.5062,
+                "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+                "release_date": "2018-08-09",
+                "title": "BlacKkKlansman",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 7793,
+                "credit_id": "5aeb21e3c3a3682dd6006620",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8uQRpN3JkD24yL1NjUP2YdSsgNf.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 925,
+                "original_language": "en",
+                "original_title": "Do the Right Thing",
+                "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+                "popularity": 4.773,
+                "poster_path": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+                "release_date": "1989-06-14",
+                "title": "Do the Right Thing",
+                "video": false,
+                "vote_average": 7.768,
+                "vote_count": 1883,
+                "credit_id": "5e92556584448e001a8f02e0",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0421\u043f\u0430\u0439\u043a \u041b\u0438",
+            "\u0633\u0628\u0627\u064a\u0643 \u0644\u064a",
+            "\uc2a4\ud30c\uc774\ud06c \ub9ac",
+            "\u30b9\u30d1\u30a4\u30af\u30fb\u30ea\u30fc",
+            "\u0e2a\u0e44\u0e1b\u0e04\u0e4c \u0e25\u0e35",
+            "\u53f2\u6d3e\u514b\u00b7\u674e",
+            "\u03a3\u03c0\u03ac\u03b9\u03ba \u039b\u03b9",
+            "\u0627\u0633\u067e\u0627\u06cc\u06a9 \u0644\u06cc",
+            " Shelton Jackson Lee"
+        ],
+        "biography": "Shelton Jackson \"Spike\" Lee (born March 20, 1957 in Atlanta, Georgia) is an American filmmaker and actor. At a very young age, he moved from pre-civil rights Georgia, to Brooklyn, New York. His father was a jazz musician, and his mother, a school teacher. His mother dubbed him Spike, due to his tough nature.\n\nHe attended school in Morehouse College in Atlanta and developed his film making skills at Clark Atlanta University. After graduating, he went to the Tisch School of Arts graduate film program. He made a controversial short, The Answer (1980), a reworking of D.W. Griffith's The Birth of a Nation (1915) -- a ten-minute film. Lee went on to produce a 45-minute film Joe's Bed-Stuy Barbershop: We Cut Heads (1983), which won a student academy award. Lee's next film, \"The Messenger,\" in 1984, was somewhat biographical. In 1986, Spike Lee made the film, She's Gotta Have It (1986), a comedy about sexual relationships. The movie was made for 175,000 dollars, and made seven million.  Since then, Lee has become a well-known, intelligent, and talented film maker. His next movie was School Daze (1988), which was set in a historically black school and focused mostly on the conflict between the school and the Fraternities, of which he was a strong critic, portraying them as materialistic, irresponsible, and uncaring.\n\nLee went on to do his landmark film, Do the Right Thing (1989), a movie specifically about his own town in Brooklyn, New York. The movie garnered an Oscar nomination, for Danny Aiello, for supporting actor. It also sparked a debate on racial relations. Lee went on to produce the jazz biopic Mo' Better Blues (1990) which showed his talent for directing and acting, and was the first of many Spike Lee films to feature Denzel Washington.  His next film, Jungle Fever (1991), was about interracial dating. Lee's handling of the subject proved yet again highly controversial. Lee's next film was the self-titled biography of Malcolm X (1992), which had Denzel Washington portraying the civil rights leader. The movie was a success, and resulted in an Oscar nomination for Washington. His next films were the comparatively light, Crooklyn (1994), and the intense crime drama, Clockers (1995). In 1996, Lee directed two movies: the badly received comedy, Girl 6 (1996), and the politically pointed, Get on the Bus (1996), about a group of men going to the Million Man March.  His next film, He Got Game (1998), proved to be another excursion into the collegiate world as he shows the darker side of recruiting college athletes. The movie, in limited release, yet again featured Denzel Washington. In 2000 came Bamboozled which made a mockery out of television and the way African-Americans are perceived by white America and the way African-Americans perceive themselves. The movie, however, was a resounding critical success. Lee also has produced films like New Jersey Drive (1995), Tales from the Hood (1995), and Drop Squad (1994).  He also has produced and or directed movies about Huey P. Newton, Jim Brown, and has commented in many documentaries about varied subjects. Lee is an obsessive New York Knicks fan. He and his wife, Tonya Lewis Lee, have two children.",
+        "birthday": "1957-03-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5281,
+        "imdb_id": "nm0000490",
+        "known_for_department": "Directing",
+        "name": "Spike Lee",
+        "place_of_birth": "Atlanta, Georgia, USA",
+        "popularity": 1.546,
+        "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    }
+}

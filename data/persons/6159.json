@@ -1,0 +1,452 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 838,
+                "original_language": "en",
+                "original_title": "American Graffiti",
+                "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+                "popularity": 6.2288,
+                "poster_path": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+                "release_date": "1973-08-11",
+                "title": "American Graffiti",
+                "video": false,
+                "vote_average": 7.04,
+                "vote_count": 1509,
+                "character": "Steve Bolander",
+                "credit_id": "52fe427ec3a36847f802330d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 10.3845,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10625,
+                "character": "Man at Governor's Ball (uncredited)",
+                "credit_id": "67e542505f0bfa0b66ba3b3c",
+                "order": 57
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 10.3845,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10625,
+                "credit_id": "52fe4245c3a36847f8011413",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 10.3845,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10625,
+                "credit_id": "52fe4245c3a36847f8011393",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.814,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5604,
+                "credit_id": "52fe4253c3a36847f80158f3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 847,
+                "original_language": "en",
+                "original_title": "Willow",
+                "overview": "The evil Queen Bavmorda hunts the newborn princess Elora Danan, a child prophesied to bring about her downfall. When the royal infant is found by Willow, a timid farmer and aspiring sorcerer, he's entrusted with delivering her from evil.",
+                "popularity": 3.721,
+                "poster_path": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+                "release_date": "1988-05-20",
+                "title": "Willow",
+                "video": false,
+                "vote_average": 7.009,
+                "vote_count": 2039,
+                "credit_id": "52fe4281c3a36847f80241ed",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/huf42HJE04aFDr6RZEGw1Xxb6Pv.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    36
+                ],
+                "id": 921,
+                "original_language": "en",
+                "original_title": "Cinderella Man",
+                "overview": "The true story of boxer Jim Braddock who, following his retirement in the 1930s, makes a surprise comeback in order to lift his family out of poverty.",
+                "popularity": 7.7258,
+                "poster_path": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+                "release_date": "2005-06-02",
+                "title": "Cinderella Man",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2287,
+                "credit_id": "52fe428dc3a36847f8027907",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/huf42HJE04aFDr6RZEGw1Xxb6Pv.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    36
+                ],
+                "id": 921,
+                "original_language": "en",
+                "original_title": "Cinderella Man",
+                "overview": "The true story of boxer Jim Braddock who, following his retirement in the 1930s, makes a surprise comeback in order to lift his family out of poverty.",
+                "popularity": 7.7258,
+                "poster_path": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+                "release_date": "2005-06-02",
+                "title": "Cinderella Man",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2287,
+                "credit_id": "52fe428dc3a36847f80278f5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eBmIaAm1CkBuuyIUQYorhQKzTTg.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 3580,
+                "original_language": "en",
+                "original_title": "Changeling",
+                "overview": "Los Angeles, 1928. When single mother Christine Collins leaves for work, her son vanishes without a trace. Five months later, the police reunite mother and son. But when Christine suspects that the boy returned to her isn't her child, her quest for truth exposes a world of corruption.",
+                "popularity": 4.3747,
+                "poster_path": "/y9Qi39dL3PceGCH8afyC7QrhbhI.jpg",
+                "release_date": "2008-10-24",
+                "title": "Changeling",
+                "video": false,
+                "vote_average": 7.584,
+                "vote_count": 4314,
+                "credit_id": "52fe439ec3a36847f80622a3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/20wSDAS6rUWhkZQ2PxPC9TRsAd1.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 11499,
+                "original_language": "en",
+                "original_title": "Frost/Nixon",
+                "overview": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured doubts about their boss's ability to hold his own. But as the cameras rolled, a charged battle of wits resulted.",
+                "popularity": 4.1256,
+                "poster_path": "/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+                "release_date": "2008-10-15",
+                "title": "Frost/Nixon",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 1232,
+                "credit_id": "52fe444c9251416c7502fc51",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 10.2196,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7473,
+                "credit_id": "52fe49be9251416c750d20a3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 10.2196,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7473,
+                "credit_id": "52fe49bf9251416c750d2103",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dcyPj11c00lOhMESAVWtJKzlHt4.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 250538,
+                "original_language": "en",
+                "original_title": "The Good Lie",
+                "overview": "A young refugee of the Sudanese Civil War who wins a lottery for relocation to the United States with three other lost boys. Encountering the modern world for the first time, they develop an unlikely friendship with a brash American woman assigned to help them, but the young man struggles to adjust to this new life and his feelings of guilt about the brother he left behind.",
+                "popularity": 4.1371,
+                "poster_path": "/yAhoeIwwtPxJ7uf9HLIMHIqWFnL.jpg",
+                "release_date": "2014-09-10",
+                "title": "The Good Lie",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 543,
+                "credit_id": "54edab74c3a3686d5e0036a9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/20wSDAS6rUWhkZQ2PxPC9TRsAd1.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 11499,
+                "original_language": "en",
+                "original_title": "Frost/Nixon",
+                "overview": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured doubts about their boss's ability to hold his own. But as the cameras rolled, a charged battle of wits resulted.",
+                "popularity": 4.1256,
+                "poster_path": "/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+                "release_date": "2008-10-15",
+                "title": "Frost/Nixon",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 1232,
+                "credit_id": "56430f579251410a3f001417",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 537116,
+                "original_language": "en",
+                "original_title": "tick, tick... BOOM!",
+                "overview": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
+                "popularity": 3.5934,
+                "poster_path": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+                "release_date": "2021-11-11",
+                "title": "tick, tick... BOOM!",
+                "video": false,
+                "vote_average": 7.617,
+                "vote_count": 2182,
+                "credit_id": "5b53ca789251411f8601e55c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
+                "genre_ids": [
+                    53,
+                    36,
+                    18
+                ],
+                "id": 726759,
+                "original_language": "en",
+                "original_title": "Tetris",
+                "overview": "In 1988, American video game salesman Henk Rogers discovers the video game Tetris. When he sets out to bring the game to the world, he enters a dangerous web of lies and corruption behind the Iron Curtain.",
+                "popularity": 5.8826,
+                "poster_path": "/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
+                "release_date": "2023-03-15",
+                "title": "Tetris",
+                "video": false,
+                "vote_average": 7.66,
+                "vote_count": 1527,
+                "credit_id": "64bae48dab684900ad8d44ec",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.814,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5604,
+                "credit_id": "5bc3862f92514179c7049a7e",
+                "department": "Crew",
+                "job": "Executive Music Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tHR34A5n0my4maACNdLpWGd6QYq.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 698948,
+                "original_language": "en",
+                "original_title": "Thirteen Lives",
+                "overview": "Based on the true nail-biting mission that captivated the world. Twelve boys and the coach of a Thai soccer team explore the Tham Luang cave when an unexpected rainstorm traps them in a chamber inside the mountain. Entombed behind a maze of flooded cave tunnels, they face impossible odds. A team of world-class divers navigate through miles of dangerous cave networks to discover that finding the boys is only the beginning.",
+                "popularity": 8.4853,
+                "poster_path": "/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",
+                "release_date": "2022-07-18",
+                "title": "Thirteen Lives",
+                "video": false,
+                "vote_average": 7.87,
+                "vote_count": 1368,
+                "credit_id": "5eab291db7fbbd001d3bbe26",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tHR34A5n0my4maACNdLpWGd6QYq.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 698948,
+                "original_language": "en",
+                "original_title": "Thirteen Lives",
+                "overview": "Based on the true nail-biting mission that captivated the world. Twelve boys and the coach of a Thai soccer team explore the Tham Luang cave when an unexpected rainstorm traps them in a chamber inside the mountain. Entombed behind a maze of flooded cave tunnels, they face impossible odds. A team of world-class divers navigate through miles of dangerous cave networks to discover that finding the boys is only the beginning.",
+                "popularity": 8.4853,
+                "poster_path": "/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",
+                "release_date": "2022-07-18",
+                "title": "Thirteen Lives",
+                "video": false,
+                "vote_average": 7.87,
+                "vote_count": 1368,
+                "credit_id": "5eb0bb058cfcc70020ac5658",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ronny Howard",
+            "Ronald William Howard",
+            "Ronnie Howard",
+            "Ronald William \"Ron\" Howard",
+            "\u0631\u0627\u0646 \u0647\u0627\u0648\u0627\u0631\u062f"
+        ],
+        "biography": "Ronald William Howard is an American filmmaker and actor. Howard first came to prominence as a child actor, guest-starring in several television series, including an episode of The Twilight Zone. He gained national attention for playing young Opie Taylor, the son of Sheriff Andy Taylor (played by Andy Griffith) in the sitcom The Andy Griffith Show from 1960 through 1968. During this time, he also appeared in the musical film The Music Man (1962), a critical and commercial success. He was credited as Ronny Howard in his film and television appearances from 1959 to 1973.\n\nHoward was cast in one of the lead roles in the coming-of-age film American Graffiti (1973), which received widespread acclaim and became one of the most profitable films in history. The following year, Howard became a household name for playing Richie Cunningham in the sitcom Happy Days, a role he would play from 1974 through 1984. Howard continued appearing in films during this time, such as the western film The Shootist (1976) and the comedy film Grand Theft Auto (1977), which also marked his directorial debut.\n\nIn 1984, Howard left Happy Days to focus on directing, producing and occasionally writing variety films and television series. His films include the science-fiction/fantasy Cocoon (1985), the fantasy Willow (1988), the thriller Backdraft (1991), the historical docudrama Apollo 13 (1995), the Christmas comedy How the Grinch Stole Christmas (2000), the biographical drama A Beautiful Mind (2001), the biographical sports drama Cinderella Man (2005), the thriller The Da Vinci Code (2006), the historical drama Frost/Nixon (2008), Solo: A Star Wars Story (2018), and the documentary Pavarotti (2019). For A Beautiful Mind, Howard won the Academy Award for Best Director and Academy Award for Best Picture. He was nominated again for the same awards for Frost/Nixon.\n\nIn 2003, Howard was awarded the National Medal of Arts. He was inducted into the Television Hall of Fame in 2013. Howard has two stars on the Hollywood Walk of Fame for his contributions in the television and motion pictures industries.",
+        "birthday": "1954-03-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 6159,
+        "imdb_id": "nm0000165",
+        "known_for_department": "Directing",
+        "name": "Ron Howard",
+        "place_of_birth": "Duncan, Oklahoma, USA",
+        "popularity": 1.974,
+        "profile_path": "/g3n8qduLaPO2l4kJZsV6xNMXozn.jpg"
+    }
+}

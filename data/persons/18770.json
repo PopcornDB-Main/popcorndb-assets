@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1675,
+                "original_language": "fr",
+                "original_title": "La Nuit am\u00e9ricaine",
+                "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+                "popularity": 2.9412,
+                "poster_path": "/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+                "release_date": "1973-05-24",
+                "title": "Day for Night",
+                "video": false,
+                "vote_average": 7.773,
+                "vote_count": 622,
+                "character": "Bernard, the Property Master",
+                "credit_id": "52fe430bc3a36847f80362cd",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jM6KRCEIIY1pGUIGemnp1rNY6ko.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 10102,
+                "original_language": "fr",
+                "original_title": "La Grande Bouffe",
+                "overview": "Four friends gather at a villa with the intention of eating themselves to death.",
+                "popularity": 2.9985,
+                "poster_path": "/g4wOgslrQKprlQl927h0lQQ3P99.jpg",
+                "release_date": "1973-05-16",
+                "title": "La Grande Bouffe",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 525,
+                "character": "Pierre",
+                "credit_id": "608755802c6b7b002a7095b6",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bernard M\u00e9nez"
+        ],
+        "biography": "Bernard M\u00e9nez (born 8 August 1944, in Mailly-le-Chateau) is a French actor. He has appeared in more than seventy films since 1969.\n\nSource: Article \"Bernard M\u00e9nez\" from Wikipedia in English, licensed under CC-BY-SA 3.0.",
+        "birthday": "1944-08-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.bernardmenez.fr/",
+        "id": 18770,
+        "imdb_id": "nm0579500",
+        "known_for_department": "Acting",
+        "name": "Bernard M\u00e9nez",
+        "place_of_birth": "Mailly-le-Ch\u00e2teau, Yonne, France",
+        "popularity": 0.1788,
+        "profile_path": "/nxaDqyHuUFRT4CNiNK6qkuKsyIS.jpg"
+    }
+}

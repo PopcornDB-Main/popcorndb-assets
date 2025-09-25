@@ -1,0 +1,362 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 12,
+                "original_language": "en",
+                "original_title": "Finding Nemo",
+                "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+                "popularity": 12.7855,
+                "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+                "release_date": "2003-05-30",
+                "title": "Finding Nemo",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 19911,
+                "character": "Nigel (voice)",
+                "credit_id": "52fe420ec3a36847f80006d1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 22,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship\u2014The Black Pearl\u2014so that he can rescue the woman he loves.",
+                "popularity": 23.2381,
+                "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+                "release_date": "2003-07-09",
+                "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 21434,
+                "character": "Barbossa",
+                "credit_id": "52fe420fc3a36847f8000ea3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 58,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+                "popularity": 19.9334,
+                "poster_path": "/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
+                "release_date": "2006-07-06",
+                "title": "Pirates of the Caribbean: Dead Man's Chest",
+                "video": false,
+                "vote_average": 7.371,
+                "vote_count": 16583,
+                "character": "Hector Barbossa",
+                "credit_id": "52fe4212c3a36847f800189b",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 285,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: At World's End",
+                "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+                "popularity": 17.4697,
+                "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+                "release_date": "2007-05-19",
+                "title": "Pirates of the Caribbean: At World's End",
+                "video": false,
+                "vote_average": 7.262,
+                "vote_count": 14912,
+                "character": "Barbossa",
+                "credit_id": "52fe4232c3a36847f800b519",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gcGaSXzmodu53ABb0wOWrVWjKeg.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1360,
+                "original_language": "en",
+                "original_title": "Frida",
+                "overview": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
+                "popularity": 4.5432,
+                "poster_path": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+                "release_date": "2002-08-29",
+                "title": "Frida",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 2083,
+                "character": "Leon Trotsky",
+                "credit_id": "52fe42eec3a36847f802dc61",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36,
+                    53
+                ],
+                "id": 612,
+                "original_language": "en",
+                "original_title": "Munich",
+                "overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+                "popularity": 5.228,
+                "poster_path": "/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+                "release_date": "2005-12-23",
+                "title": "Munich",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 2803,
+                "character": "Ephraim",
+                "credit_id": "52fe425dc3a36847f8018a99",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g1J3SBqxbeHLTatlzHp8bGhaAwO.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 4415,
+                "original_language": "en",
+                "original_title": "Les Mis\u00e9rables",
+                "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "popularity": 3.3829,
+                "poster_path": "/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
+                "release_date": "1998-05-01",
+                "title": "Les Mis\u00e9rables",
+                "video": false,
+                "vote_average": 7.225,
+                "vote_count": 654,
+                "character": "Javert",
+                "credit_id": "52fe43c0c3a36847f806cef1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r8J1GUYKfNFQhpg3dMhXwtmr6PL.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 4441,
+                "original_language": "en",
+                "original_title": "Candy",
+                "overview": "A poet falls in love with an art student, who gravitates to his bohemian lifestyle \u2014 and his love of heroin. Hooked as much on one another as they are on the drug, their relationship alternates between states of oblivion, self-destruction, and despair.",
+                "popularity": 1.7395,
+                "poster_path": "/9DvrEg2p3Hrdr1uGe0t7kRraWjl.jpg",
+                "release_date": "2006-05-25",
+                "title": "Candy",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 617,
+                "character": "Casper",
+                "credit_id": "52fe43c1c3a36847f806d4b5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o4p4joAAFETuUFCHJe2XYJcnCdi.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10876,
+                "original_language": "en",
+                "original_title": "Quills",
+                "overview": "In early 19th-century France, the Marquis de Sade is confined to an asylum where his forbidden writings continue to circulate beyond its walls. As the authorities tighten control, a clash unfolds between the Marquis\u2019 unyielding imagination, the reformist ideals of the Abb\u00e9 in charge, and the repressive measures of a doctor sent to silence him. Desire, power, and censorship collide in a battle over freedom of expression.",
+                "popularity": 3.6894,
+                "poster_path": "/AvGdw3BpvJV2wHmK2qY0N7XHqET.jpg",
+                "release_date": "2000-11-22",
+                "title": "Quills",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 677,
+                "character": "Marquis de Sade",
+                "credit_id": "52fe43c89251416c7501df55",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/LTjGvAf92YLudl5zqJP9tHLuSo.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 4518,
+                "original_language": "en",
+                "original_title": "Elizabeth",
+                "overview": "The story of the ascension to the throne and the early reign of Queen Elizabeth the First, the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+                "popularity": 6.3261,
+                "poster_path": "/qEk48VLOdibXFVIEzE9ETZUBcCs.jpg",
+                "release_date": "1998-09-13",
+                "title": "Elizabeth",
+                "video": false,
+                "vote_average": 7.176,
+                "vote_count": 1437,
+                "character": "Sir Francis Walsingham",
+                "credit_id": "52fe43c8c3a36847f806f2ad",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2NU8w8djgX6SzLrg7rN6yMXWAzC.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 7863,
+                "original_language": "en",
+                "original_title": "Shine",
+                "overview": "Pianist David Helfgott, driven by his father and teachers, has a breakdown. Years later he returns to the piano, to popular if not critical acclaim.",
+                "popularity": 2.9117,
+                "poster_path": "/cbmThowj2XAW7lKlMAXmnhZvjGI.jpg",
+                "release_date": "1996-08-15",
+                "title": "Shine",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 677,
+                "character": "David as an adult",
+                "credit_id": "52fe4487c3a36847f809b367",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 152742,
+                "original_language": "it",
+                "original_title": "La migliore offerta",
+                "overview": "Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her family\u2019s priceless art collection, Virgil allows himself to form an attachment to her \u2013 and soon he is engulfed by a passion which will rock his bland existence to the core.",
+                "popularity": 4.3334,
+                "poster_path": "/ibDGPgUZn6vxHiSgt2xeQyFp8Np.jpg",
+                "release_date": "2013-01-01",
+                "title": "The Best Offer",
+                "video": false,
+                "vote_average": 7.807,
+                "vote_count": 2940,
+                "character": "Virgil Oldman",
+                "credit_id": "52fe4b299251416c910d1e35",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/arFPEDEW4PzPaMBXgTPzJlumfGw.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 203833,
+                "original_language": "en",
+                "original_title": "The Book Thief",
+                "overview": "While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+                "popularity": 3.2857,
+                "poster_path": "/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+                "release_date": "2013-11-08",
+                "title": "The Book Thief",
+                "video": false,
+                "vote_average": 7.496,
+                "vote_count": 4413,
+                "character": "Hans Hubermann",
+                "credit_id": "52fe4ce7c3a368484e1cc165",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 45269,
+                "original_language": "en",
+                "original_title": "The King's Speech",
+                "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+                "popularity": 6.0203,
+                "poster_path": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+                "release_date": "2010-11-26",
+                "title": "The King's Speech",
+                "video": false,
+                "vote_average": 7.735,
+                "vote_count": 8986,
+                "character": "Lionel Logue",
+                "credit_id": "5301525ec3a3680a21163663",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 45269,
+                "original_language": "en",
+                "original_title": "The King's Speech",
+                "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+                "popularity": 6.0203,
+                "poster_path": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+                "release_date": "2010-11-26",
+                "title": "The King's Speech",
+                "video": false,
+                "vote_average": 7.735,
+                "vote_count": 8986,
+                "credit_id": "52fe46b9c3a36847f810ec2f",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u5091\u4f5b\u745e\u00b7\u6d1b\u8a31",
+            "\u062c\u0641\u0631\u06cc \u0631\u0627\u0634"
+        ],
+        "biography": "Geoffrey Roy Rush AC (born 6 July 1951) is an Australian actor. He is known for his eccentric leading man roles on stage and screen. He is among 24 people who have won the Triple Crown of Acting, having received an Academy Award, a Primetime Emmy Award and a Tony Award. He also received three British Academy Film Awards, two Golden Globe Awards, and four Screen Actors Guild Awards. Rush is the founding president of the Australian Academy of Cinema and Television Arts and was named the 2012 Australian of the Year.\n\nDescription above from the Wikipedia article Geoffrey Rush, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1951-07-06",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 118,
+        "imdb_id": "nm0001691",
+        "known_for_department": "Acting",
+        "name": "Geoffrey Rush",
+        "place_of_birth": "Toowoomba, Queensland, Australia",
+        "popularity": 1.9403,
+        "profile_path": "/4zQuC1j0p7HkJlfuT8aJoyZAgQm.jpg"
+    }
+}

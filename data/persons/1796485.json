@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 675,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Order of the Phoenix",
+                "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+                "popularity": 18.6683,
+                "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+                "release_date": "2007-07-08",
+                "title": "Harry Potter and the Order of the Phoenix",
+                "video": false,
+                "vote_average": 7.674,
+                "vote_count": 20146,
+                "character": "Death Eater",
+                "credit_id": "58f1c12dc3a3682ede003e70",
+                "order": 73
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4KJSPoZwJ1TAIaTueDxtkmo5wE1.jpg",
+                "genre_ids": [
+                    12,
+                    36
+                ],
+                "id": 70667,
+                "original_language": "no",
+                "original_title": "Kon-Tiki",
+                "overview": "The true story about legendary explorer Thor Heyerdahl and his epic crossing of the Pacific on a balsa wood raft in 1947, in an effort to prove it was possible for South Americans to settle in Polynesia in pre-Columbian times.",
+                "popularity": 2.7981,
+                "poster_path": "/tphF7lJZys5ij9BHivbxsqmPiOo.jpg",
+                "release_date": "2012-08-24",
+                "title": "Kon-Tiki",
+                "video": false,
+                "vote_average": 6.902,
+                "vote_count": 785,
+                "character": "L\u00f8ytnant Lewis",
+                "credit_id": "59267aacc3a36877fd019b68",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1968-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1796485,
+        "imdb_id": "nm0872937",
+        "known_for_department": "Acting",
+        "name": "Richard Trinder",
+        "place_of_birth": null,
+        "popularity": 0.6672,
+        "profile_path": "/9mSZ8AIemoYYz2eVLb8zfIUo3Gd.jpg"
+    }
+}

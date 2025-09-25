@@ -1,0 +1,288 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    28,
+                    36
+                ],
+                "id": 79,
+                "original_language": "zh",
+                "original_title": "\u82f1\u96c4",
+                "overview": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+                "popularity": 8.9846,
+                "poster_path": "/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg",
+                "release_date": "2002-07-22",
+                "title": "Hero",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2361,
+                "character": "Nameless",
+                "credit_id": "52fe4214c3a36847f8002697",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9S0BHQuZAyNMG0GpHAMSIbF38au.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 2140,
+                "original_language": "en",
+                "original_title": "Kiss of the Dragon",
+                "overview": "Liu Jian, an elite Chinese police officer, comes to Paris to arrest a Chinese drug lord. When Jian is betrayed by a French officer and framed for murder, he must go into hiding and find new allies.",
+                "popularity": 4.5403,
+                "poster_path": "/1ubtSyagwfNF9Bn9s2CKITRtx1d.jpg",
+                "release_date": "2001-07-06",
+                "title": "Kiss of the Dragon",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1260,
+                "character": "Liu Jian",
+                "credit_id": "52fe433ac3a36847f8043f37",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leukkAoRu9rsa3s8oaLm8C10EWw.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 10027,
+                "original_language": "en",
+                "original_title": "Unleashed",
+                "overview": "Raised as a slave, Danny is used to fighting for his survival. In fact, his \"master,\" Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart's crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter's long-buried heart.",
+                "popularity": 5.6118,
+                "poster_path": "/gghvmS3UxtOw1UHIgYjpeZNxHil.jpg",
+                "release_date": "2005-02-02",
+                "title": "Unleashed",
+                "video": false,
+                "vote_average": 6.939,
+                "vote_count": 2074,
+                "character": "Danny",
+                "credit_id": "52fe430b9251416c75001557",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6epfs9UMFbYuj4UfjHq5EDic8V9.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 7549,
+                "original_language": "zh",
+                "original_title": "\u970d\u5143\u7532",
+                "overview": "After going through a series of tragic events in his life, martial arts master Huo Yuanjia returns to Tianjin and must fight four international soldiers, in order to safeguard his nation's pride.",
+                "popularity": 6.7453,
+                "poster_path": "/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg",
+                "release_date": "2006-01-26",
+                "title": "Fearless",
+                "video": false,
+                "vote_average": 7.513,
+                "vote_count": 1334,
+                "character": "Huo Yuanjia",
+                "credit_id": "52fe4483c3a36847f809a701",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pfseUmw5wH67YOgkPURnFmwUd6z.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 17809,
+                "original_language": "zh",
+                "original_title": "\u7cbe\u6b66\u82f1\u96c4",
+                "overview": "Chen returns to his school when he finds out that his martial arts teacher has died. When he learns that his school students are harassed by some hooligans, he gears himself up to save them.",
+                "popularity": 4.0831,
+                "poster_path": "/Aqa1Yuog2OFrduwSffxZc2w4Tnk.jpg",
+                "release_date": "1994-12-22",
+                "title": "Fist of Legend",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 566,
+                "character": "Chen Zhen",
+                "credit_id": "52fe47499251416c75093f97",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/leukkAoRu9rsa3s8oaLm8C10EWw.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 10027,
+                "original_language": "en",
+                "original_title": "Unleashed",
+                "overview": "Raised as a slave, Danny is used to fighting for his survival. In fact, his \"master,\" Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart's crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter's long-buried heart.",
+                "popularity": 5.6118,
+                "poster_path": "/gghvmS3UxtOw1UHIgYjpeZNxHil.jpg",
+                "release_date": "2005-02-02",
+                "title": "Unleashed",
+                "video": false,
+                "vote_average": 6.939,
+                "vote_count": 2074,
+                "credit_id": "52fe430b9251416c75001523",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9S0BHQuZAyNMG0GpHAMSIbF38au.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 2140,
+                "original_language": "en",
+                "original_title": "Kiss of the Dragon",
+                "overview": "Liu Jian, an elite Chinese police officer, comes to Paris to arrest a Chinese drug lord. When Jian is betrayed by a French officer and framed for murder, he must go into hiding and find new allies.",
+                "popularity": 4.5403,
+                "poster_path": "/1ubtSyagwfNF9Bn9s2CKITRtx1d.jpg",
+                "release_date": "2001-07-06",
+                "title": "Kiss of the Dragon",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1260,
+                "credit_id": "62134c4a41465c001b8b674d",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pfseUmw5wH67YOgkPURnFmwUd6z.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 17809,
+                "original_language": "zh",
+                "original_title": "\u7cbe\u6b66\u82f1\u96c4",
+                "overview": "Chen returns to his school when he finds out that his martial arts teacher has died. When he learns that his school students are harassed by some hooligans, he gears himself up to save them.",
+                "popularity": 4.0831,
+                "poster_path": "/Aqa1Yuog2OFrduwSffxZc2w4Tnk.jpg",
+                "release_date": "1994-12-22",
+                "title": "Fist of Legend",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 566,
+                "credit_id": "62134c9c20e6a5001bce2957",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6epfs9UMFbYuj4UfjHq5EDic8V9.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 7549,
+                "original_language": "zh",
+                "original_title": "\u970d\u5143\u7532",
+                "overview": "After going through a series of tragic events in his life, martial arts master Huo Yuanjia returns to Tianjin and must fight four international soldiers, in order to safeguard his nation's pride.",
+                "popularity": 6.7453,
+                "poster_path": "/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg",
+                "release_date": "2006-01-26",
+                "title": "Fearless",
+                "video": false,
+                "vote_average": 7.513,
+                "vote_count": 1334,
+                "credit_id": "52fe4483c3a36847f809a759",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9S0BHQuZAyNMG0GpHAMSIbF38au.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 2140,
+                "original_language": "en",
+                "original_title": "Kiss of the Dragon",
+                "overview": "Liu Jian, an elite Chinese police officer, comes to Paris to arrest a Chinese drug lord. When Jian is betrayed by a French officer and framed for murder, he must go into hiding and find new allies.",
+                "popularity": 4.5403,
+                "poster_path": "/1ubtSyagwfNF9Bn9s2CKITRtx1d.jpg",
+                "release_date": "2001-07-06",
+                "title": "Kiss of the Dragon",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1260,
+                "credit_id": "67726d7f5b8f422b60127a8a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9S0BHQuZAyNMG0GpHAMSIbF38au.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 2140,
+                "original_language": "en",
+                "original_title": "Kiss of the Dragon",
+                "overview": "Liu Jian, an elite Chinese police officer, comes to Paris to arrest a Chinese drug lord. When Jian is betrayed by a French officer and framed for murder, he must go into hiding and find new allies.",
+                "popularity": 4.5403,
+                "poster_path": "/1ubtSyagwfNF9Bn9s2CKITRtx1d.jpg",
+                "release_date": "2001-07-06",
+                "title": "Kiss of the Dragon",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1260,
+                "credit_id": "67726d9d43a21982da12b189",
+                "department": "Writing",
+                "job": "Original Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Lianjie Li",
+            "\u674e\u8fde\u6770",
+            "\uc774\uc5f0\uac78",
+            "\u03a4\u03b6\u03b5\u03c4 \u039b\u03b9",
+            "\u674e\u9633\u4e2d",
+            "Li Lianjie",
+            "\u674e\u9023\u6770",
+            "\u674e\u967d\u4e2d",
+            "Jet Li Lian-Jie",
+            "\u0e2b\u0e25\u0e35\u0e48\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e19\u0e40\u0e08\u0e35\u0e4b\u0e22",
+            "\u0e40\u0e08\u0e47\u0e17 \u0e25\u0e35",
+            "\u0e2b\u0e25\u0e35\u0e48 \u0e40\u0e2b\u0e25\u0e35\u0e22\u0e19\u0e40\u0e08\u0e35\u0e4b\u0e22",
+            "L\u00fd Li\u00ean Ki\u1ec7t",
+            "Jet Li",
+            "\u062c\u062a \u0644\u06cc",
+            "\u062c\u062a\u200c\u0644\u06cc",
+            "\u30ea\u30fc\u30fb\u30ea\u30f3\u30c1\u30a7\u30a4"
+        ],
+        "biography": "Li Lianjie (\u674e\u8fde\u6770, born April 26, 1963), better known by his stage name Jet Li, is a Chinese martial artist, actor, film producer, wushu champion, and international film star who was born in Beijing, China, and who has currently taken up Singapore citizenship.\n\nAfter three years of intensive training with Wu Bin, Li won his first national championship for the Beijing Wushu Team. After retiring from wushu at age 17, he went on to win great acclaim in China as an actor making his debut with the film Shaolin Temple (1982). He went on to star in many critically acclaimed martial arts epic films, most notably the Once Upon A Time In China series, in which he portrayed folk hero Wong Fei-hung.\n\nLi's first role in a Hollywood film was as a villain in Lethal Weapon 4 (1998), but his first Hollywood film leading role was in Romeo Must Die (2000). He has gone on to star in many Hollywood action films, most recently starring beside Jackie Chan in The Forbidden Kingdom (2008), and as the title character villain in The Mummy: Tomb Of The Dragon Emperor (2008) opposite Brendan Fraser. Recently, he appeared in the 2010 film The Expendables.",
+        "birthday": "1963-04-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://jetli.com/",
+        "id": 1336,
+        "imdb_id": "nm0001472",
+        "known_for_department": "Acting",
+        "name": "Jet Li",
+        "place_of_birth": "Beijing, China",
+        "popularity": 3.2113,
+        "profile_path": "/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+    }
+}

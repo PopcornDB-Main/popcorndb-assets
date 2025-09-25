@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36,
+                    12
+                ],
+                "id": 319888,
+                "original_language": "en",
+                "original_title": "Eddie the Eagle",
+                "overview": "The feel-good story of Michael 'Eddie' Edwards, an unlikely but courageous British ski-jumper who never stopped believing in himself\u2014even as an entire nation was counting him out. With the help of a rebellious and charismatic coach, Eddie takes on the establishment and wins the hearts of sports fans around the world by making an improbable and historic showing at the 1988 Calgary Winter Olympics.",
+                "popularity": 2.0917,
+                "poster_path": "/r562gvTRVHnDSvG7MrKHEECSn1V.jpg",
+                "release_date": "2016-02-25",
+                "title": "Eddie the Eagle",
+                "video": false,
+                "vote_average": 7.168,
+                "vote_count": 2191,
+                "character": "Bj\u00f8rn the Norwegian Coach",
+                "credit_id": "57c18756c3a3683f49003cc5",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/odKqOY6VE6C59YAdGHB0b5Havye.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    14
+                ],
+                "id": 615666,
+                "original_language": "en",
+                "original_title": "A Boy Called Christmas",
+                "overview": "An ordinary young boy called Nikolas sets out on an extraordinary adventure into the snowy north in search of his father who is on a quest to discover the fabled village of the elves, Elfhelm. Taking with him a headstrong reindeer called Blitzen and a loyal pet mouse, Nikolas soon meets his destiny in this magical and endearing story that proves nothing is impossible\u2026",
+                "popularity": 2.8109,
+                "poster_path": "/1sRejtiHOZGggZd9RcmdqbapLM5.jpg",
+                "release_date": "2021-11-24",
+                "title": "A Boy Called Christmas",
+                "video": false,
+                "vote_average": 7.315,
+                "vote_count": 765,
+                "character": "Anders",
+                "credit_id": "5d2c1a1c0745e1001077431f",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Rune Temte is a Norwegian actor and former football player.",
+        "birthday": "1965-09-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.runetemte.com/",
+        "id": 76618,
+        "imdb_id": "nm0854815",
+        "known_for_department": "Acting",
+        "name": "Rune Temte",
+        "place_of_birth": "Solbergelva, Nedre Eiker, Norway",
+        "popularity": 0.4859,
+        "profile_path": "/uTP4vXJzckoeIlFXnucVzr7ghCx.jpg"
+    }
+}

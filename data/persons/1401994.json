@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Cleveland",
+                "credit_id": "55d0c7119251413198007faa",
+                "order": 65
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uEoaOfvWibpvjBNxFoj4MxWn0OH.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10377,
+                "original_language": "en",
+                "original_title": "My Cousin Vinny",
+                "overview": "Two carefree pals from Brooklyn traveling through rural Alabama on their way back to college are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
+                "popularity": 12.786,
+                "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+                "release_date": "1992-03-13",
+                "title": "My Cousin Vinny",
+                "video": false,
+                "vote_average": 7.499,
+                "vote_count": 1695,
+                "character": "Prison Van Driver",
+                "credit_id": "5d76a90612970c1e0f9c0fca",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michael L. Burgess"
+        ],
+        "biography": "",
+        "birthday": "1964-08-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1401994,
+        "imdb_id": "nm2409153",
+        "known_for_department": "Acting",
+        "name": "Michael Burgess",
+        "place_of_birth": "Myrtle Beach, South Carolina, USA",
+        "popularity": 0.1547,
+        "profile_path": "/m6C4IgWPAd8kK1khGiKL2Njs0c4.jpg"
+    }
+}

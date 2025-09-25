@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 387,
+                "original_language": "de",
+                "original_title": "Das Boot",
+                "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+                "popularity": 4.05,
+                "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+                "release_date": "1981-09-17",
+                "title": "Das Boot",
+                "video": false,
+                "vote_average": 8.085,
+                "vote_count": 2345,
+                "character": "Lieutenant Werner",
+                "credit_id": "52fe423dc3a36847f800ea93",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dwxdn3ppDAn7QtaLlhGDEErWfg9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 5708,
+                "original_language": "en",
+                "original_title": "Control",
+                "overview": "The story of Joy Division\u2019s lead singer Ian Curtis, from his schoolboy days in 1973 to his suicide on the eve of the band's first American tour in 1980.",
+                "popularity": 2.7455,
+                "poster_path": "/jOJiaOhwrDdwqTRZvZOhbndqHGp.jpg",
+                "release_date": "2007-09-12",
+                "title": "Control",
+                "video": false,
+                "vote_average": 7.533,
+                "vote_count": 881,
+                "character": "Local GP",
+                "credit_id": "59221820c3a3687a8e05cab4",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Herbert Arthur Wiglev Clamor Gr\u00f6nemeyer (born 12 April 1956) is a German musician and actor, popular in Germany, Austria and Switzerland. He starred as war correspondent Lieutenant Werner in Wolfgang Petersen's movie Das Boot, but later concentrated on his musical career. His fifth album 4630 Bochum (1984) and his 11th album Mensch (Human) (2002) are the third and first best-selling records in Germany respectively, making him the most successful artist in Germany with combined album sales over 13 million.\n\nFrom Wikipedia, the free encyclopedia",
+        "birthday": "1956-04-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.groenemeyer.de/",
+        "id": 5228,
+        "imdb_id": "nm0344963",
+        "known_for_department": "Acting",
+        "name": "Herbert Gr\u00f6nemeyer",
+        "place_of_birth": "G\u00f6ttingen, Germany",
+        "popularity": 0.2881,
+        "profile_path": "/yxYKqI9CaIfbkiCRrmZtfhAYt9r.jpg"
+    }
+}

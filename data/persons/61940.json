@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 9.8184,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.154,
+                "vote_count": 4066,
+                "character": "8th Reporter",
+                "credit_id": "57def578c3a368141f00cb8e",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+                "genre_ids": [
+                    14,
+                    12
+                ],
+                "id": 259316,
+                "original_language": "en",
+                "original_title": "Fantastic Beasts and Where to Find Them",
+                "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+                "popularity": 11.2281,
+                "poster_path": "/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+                "release_date": "2016-11-16",
+                "title": "Fantastic Beasts and Where to Find Them",
+                "video": false,
+                "vote_average": 7.311,
+                "vote_count": 19242,
+                "character": "Executioner #2",
+                "credit_id": "5909da3e9251411ce400db90",
+                "order": 53
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1945-02-08",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 61940,
+        "imdb_id": "nm0114314",
+        "known_for_department": "Acting",
+        "name": "Miquel Brown",
+        "place_of_birth": "Montreal, Quebec, Canada",
+        "popularity": 1.542,
+        "profile_path": "/tzjkVghBVzRaMAtULWbWGQOKQ2t.jpg"
+    }
+}

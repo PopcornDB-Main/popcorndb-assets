@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    36
+                ],
+                "id": 407448,
+                "original_language": "en",
+                "original_title": "Detroit",
+                "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+                "popularity": 4.9658,
+                "poster_path": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+                "release_date": "2017-07-28",
+                "title": "Detroit",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1688,
+                "character": "Police Sergeant James",
+                "credit_id": "5830c3dac3a3685b96013fe6",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    36
+                ],
+                "id": 331482,
+                "original_language": "en",
+                "original_title": "Little Women",
+                "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+                "popularity": 8.0196,
+                "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+                "release_date": "2019-12-25",
+                "title": "Little Women",
+                "video": false,
+                "vote_average": 7.863,
+                "vote_count": 6540,
+                "character": "Friedrich's Friend",
+                "credit_id": "5df77eb126dac1001254415a",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1711167,
+        "imdb_id": "nm6251353",
+        "known_for_department": "Acting",
+        "name": "Mason Alban",
+        "place_of_birth": null,
+        "popularity": 0.1466,
+        "profile_path": "/er64MTUz5efePTqy8cWIBlPYkdI.jpg"
+    }
+}

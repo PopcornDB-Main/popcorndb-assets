@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 17.4073,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.956,
+                "vote_count": 10307,
+                "character": "Mattel Agent",
+                "credit_id": "64b797195aadc400c58a998f",
+                "order": 71
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g6QPI70Kzt91Q0lGyLfsVqZAwlJ.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    18
+                ],
+                "id": 193756,
+                "original_language": "en",
+                "original_title": "Lone Survivor",
+                "overview": "Four Navy SEALs on a covert mission to neutralize a high-level Taliban operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.",
+                "popularity": 6.8759,
+                "poster_path": "/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",
+                "release_date": "2013-12-24",
+                "title": "Lone Survivor",
+                "video": false,
+                "vote_average": 7.435,
+                "vote_count": 4523,
+                "character": "Bagram Comms Guy",
+                "credit_id": "52fe4cd89251416c9110201f",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 168834,
+        "imdb_id": "nm1285082",
+        "known_for_department": "Acting",
+        "name": "Sterling Jones",
+        "place_of_birth": null,
+        "popularity": 0.099,
+        "profile_path": "/c2y2sKx5gXoBvIOK0LCcPmFauat.jpg"
+    }
+}

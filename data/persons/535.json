@@ -1,0 +1,230 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+                "genre_ids": [
+                    9648,
+                    53
+                ],
+                "id": 77,
+                "original_language": "en",
+                "original_title": "Memento",
+                "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+                "popularity": 9.5002,
+                "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+                "release_date": "2000-10-11",
+                "title": "Memento",
+                "video": false,
+                "vote_average": 8.178,
+                "vote_count": 15537,
+                "character": "Waiter",
+                "credit_id": "52fe4214c3a36847f80024eb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 63.1735,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37856,
+                "character": "Crew Chief",
+                "credit_id": "55191d18c3a3684b6b002414",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 18.3339,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23537,
+                "character": "Trader #3",
+                "credit_id": "56219b86c3a3680e10009379",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    878
+                ],
+                "id": 1124,
+                "original_language": "en",
+                "original_title": "The Prestige",
+                "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+                "popularity": 11.832,
+                "poster_path": "/2ZOzyhoW08neG27DVySMCcq2emd.jpg",
+                "release_date": "2006-10-17",
+                "title": "The Prestige",
+                "video": false,
+                "vote_average": 8.204,
+                "vote_count": 16794,
+                "character": "Man in Hotel",
+                "credit_id": "56d9c721925141429100ab49",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 27205,
+                "original_language": "en",
+                "original_title": "Inception",
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "popularity": 27.091,
+                "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+                "release_date": "2010-07-15",
+                "title": "Inception",
+                "video": false,
+                "vote_average": 8.37,
+                "vote_count": 37957,
+                "character": "Cab Driver",
+                "credit_id": "57d53da09251415c1e000263",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10950,
+                "original_language": "en",
+                "original_title": "I Am Sam",
+                "overview": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+                "popularity": 4.6466,
+                "poster_path": "/3MUXRSyx9gnA2lLSSTGLN8cQQ42.jpg",
+                "release_date": "2001-12-28",
+                "title": "I Am Sam",
+                "video": false,
+                "vote_average": 7.56,
+                "vote_count": 2365,
+                "character": "Starbucks Angry Man",
+                "credit_id": "5a02ffe6c3a36861c501781c",
+                "order": 38
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    878
+                ],
+                "id": 1124,
+                "original_language": "en",
+                "original_title": "The Prestige",
+                "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+                "popularity": 11.832,
+                "poster_path": "/2ZOzyhoW08neG27DVySMCcq2emd.jpg",
+                "release_date": "2006-10-17",
+                "title": "The Prestige",
+                "video": false,
+                "vote_average": 8.204,
+                "vote_count": 16794,
+                "credit_id": "56d9c73dc3a36870ac01083f",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10950,
+                "original_language": "en",
+                "original_title": "I Am Sam",
+                "overview": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+                "popularity": 4.6466,
+                "poster_path": "/3MUXRSyx9gnA2lLSSTGLN8cQQ42.jpg",
+                "release_date": "2001-12-28",
+                "title": "I Am Sam",
+                "video": false,
+                "vote_average": 7.56,
+                "vote_count": 2365,
+                "credit_id": "594913a3c3a368265f033b4b",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+                "genre_ids": [
+                    9648,
+                    53
+                ],
+                "id": 77,
+                "original_language": "en",
+                "original_title": "Memento",
+                "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+                "popularity": 9.5002,
+                "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+                "release_date": "2000-10-11",
+                "title": "Memento",
+                "video": false,
+                "vote_average": 8.178,
+                "vote_count": 15537,
+                "credit_id": "5a25b1440e0a264cca0dea1b",
+                "department": "Production",
+                "job": "Location Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0420\u0430\u0441\u0441 \u0424\u0435\u0433\u0430",
+            "Russ Figa",
+            "\u62c9\u4ec0\u00b7\u8cbb\u52a0"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 535,
+        "imdb_id": "nm0270383",
+        "known_for_department": "Acting",
+        "name": "Russ Fega",
+        "place_of_birth": null,
+        "popularity": 0.3002,
+        "profile_path": "/d0W7kq97Ul8Iz5LZIVNDKxSly8M.jpg"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 675,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Order of the Phoenix",
+                "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+                "popularity": 18.6683,
+                "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+                "release_date": "2007-07-08",
+                "title": "Harry Potter and the Order of the Phoenix",
+                "video": false,
+                "vote_average": 7.674,
+                "vote_count": 20147,
+                "character": "Barman",
+                "credit_id": "52fe4268c3a36847f801c5c7",
+                "order": 56
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1tqzKtAWMRURxPTvs1hzcSOoKxe.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 234200,
+                "original_language": "en",
+                "original_title": "Pride",
+                "overview": "In 1984, a group of LGBT activists decide to raise money to support the National Union of Mineworkers during their lengthy strike. There is only one problem: the Union seems embarrassed to receive their support.",
+                "popularity": 3.1935,
+                "poster_path": "/mrITqHNw0XzT7egAPByDuiE3QZf.jpg",
+                "release_date": "2014-09-12",
+                "title": "Pride",
+                "video": false,
+                "vote_average": 7.704,
+                "vote_count": 1357,
+                "character": "Old Man",
+                "credit_id": "59f5ffd19251414d57036bbd",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1940-05-19",
+        "deathday": "2023-04-11",
+        "gender": 2,
+        "homepage": null,
+        "id": 144867,
+        "imdb_id": "nm0573143",
+        "known_for_department": "Acting",
+        "name": "Jim McManus",
+        "place_of_birth": "Bristol, England, UK",
+        "popularity": 1.1302,
+        "profile_path": "/rTVtP2kThQG5IVBycARELWRQ3uw.jpg"
+    }
+}

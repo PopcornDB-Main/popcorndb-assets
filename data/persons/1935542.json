@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cSJMk9Jar8SibFXL8JAF9p2fhKu.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10751
+                ],
+                "id": 501907,
+                "original_language": "en",
+                "original_title": "A Beautiful Day in the Neighborhood",
+                "overview": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+                "popularity": 3.0825,
+                "poster_path": "/p9vCAVhDK375XyobVcKqzqzsUHE.jpg",
+                "release_date": "2019-09-07",
+                "title": "A Beautiful Day in the Neighborhood",
+                "video": false,
+                "vote_average": 6.949,
+                "vote_count": 1677,
+                "character": "Mr. McFeely",
+                "credit_id": "5f132f8078570e003355b165",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jOWgFmD1H5t6nL7ChbmX8oDFUZl.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 520172,
+                "original_language": "en",
+                "original_title": "Happiest Season",
+                "overview": "A young woman's plans to propose to her girlfriend while at her family's annual holiday party are upended when she discovers her partner hasn't yet come out to her conservative parents.",
+                "popularity": 3.759,
+                "poster_path": "/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+                "release_date": "2020-11-26",
+                "title": "Happiest Season",
+                "video": false,
+                "vote_average": 7.138,
+                "vote_count": 1263,
+                "character": "Caroler",
+                "credit_id": "5fbe2dd3fb52990040393e24",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1935542,
+        "imdb_id": "nm0470752",
+        "known_for_department": "Acting",
+        "name": "Daniel Krell",
+        "place_of_birth": "Pittsburgh, Pennsylvania, USA",
+        "popularity": 0.0545,
+        "profile_path": "/66CVGVw4HAl1yWrOYu4OaGSQdOc.jpg"
+    }
+}

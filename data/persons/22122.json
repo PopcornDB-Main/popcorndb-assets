@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2D08E4pqE95FM8yOJ3gOy5zWaW0.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10634,
+                "original_language": "en",
+                "original_title": "Friday",
+                "overview": "Craig and Smokey are two guys in Los Angeles hanging out on their porch on a Friday afternoon, smoking and drinking, looking for something to do.",
+                "popularity": 6.6843,
+                "poster_path": "/g57KcE8tbpp3RK3DlIhPkfA6DE2.jpg",
+                "release_date": "1995-04-26",
+                "title": "Friday",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1909,
+                "character": "Kid #2",
+                "credit_id": "52fe43999251416c75016b15",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    14
+                ],
+                "id": 287947,
+                "original_language": "en",
+                "original_title": "Shazam!",
+                "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+                "popularity": 6.2104,
+                "poster_path": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+                "release_date": "2019-03-29",
+                "title": "Shazam!",
+                "video": false,
+                "vote_average": 6.988,
+                "vote_count": 9869,
+                "character": "Super Hero Darla",
+                "credit_id": "5adcd64ac3a36862ef02807a",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Meagan Monique Good",
+            "Megan Good"
+        ],
+        "biography": "Meagan Good (born August 8th, 1981) is an American film and television actress and occasional film producer.",
+        "birthday": "1981-08-08",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 22122,
+        "imdb_id": "nm0328709",
+        "known_for_department": "Acting",
+        "name": "Meagan Good",
+        "place_of_birth": "Panaroma City, California, USA",
+        "popularity": 0.9794,
+        "profile_path": "/iwSNBQKKDhEbtNe8I4ROYoYmWqE.jpg"
+    }
+}

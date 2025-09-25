@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    14,
+                    10751,
+                    18
+                ],
+                "id": 381289,
+                "original_language": "en",
+                "original_title": "A Dog's Purpose",
+                "overview": "A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.",
+                "popularity": 6.9571,
+                "poster_path": "/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+                "release_date": "2017-01-19",
+                "title": "A Dog's Purpose",
+                "video": false,
+                "vote_average": 7.639,
+                "vote_count": 3434,
+                "character": "Al",
+                "credit_id": "57dcd94492514179a2002c1b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kzXUQnrUnHUGHuwWbgf9KpoU3qr.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 544401,
+                "original_language": "en",
+                "original_title": "Cherry",
+                "overview": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+                "popularity": 3.3024,
+                "poster_path": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+                "release_date": "2021-02-26",
+                "title": "Cherry",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 1323,
+                "character": "Sgt. Whomever",
+                "credit_id": "5df8396965686e0015885d91",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Marion Hall, Jr."
+        ],
+        "biography": "Marion 'Pooch' Hall, Jr. (born February 8, 1977) is an American actor. He is most well-known for his role as Daryll Donovan, one of the main characters in the show Ray Donovan, which ran from 2013 until 2020.",
+        "birthday": "1976-02-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 87817,
+        "imdb_id": "nm0356003",
+        "known_for_department": "Acting",
+        "name": "Pooch Hall",
+        "place_of_birth": "Brockton, Massachusetts, USA",
+        "popularity": 0.44,
+        "profile_path": "/uG2km0S6M5JNQlsxyvzsnqFrrJd.jpg"
+    }
+}

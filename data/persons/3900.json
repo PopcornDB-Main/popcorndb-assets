@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 272,
+                "original_language": "en",
+                "original_title": "Batman Begins",
+                "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                "popularity": 16.5995,
+                "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+                "release_date": "2005-06-10",
+                "title": "Batman Begins",
+                "video": false,
+                "vote_average": 7.717,
+                "vote_count": 21791,
+                "character": "Thomas Wayne",
+                "credit_id": "52fe4230c3a36847f800ac85",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 744114,
+                "original_language": "en",
+                "original_title": "My Policeman",
+                "overview": "In the late 1990s, the arrival of elderly invalid Patrick into Marion and Tom\u2019s home triggers the exploration of seismic events from 40 years previous: the passionate relationship between Tom and Patrick at a time when homosexuality was illegal.",
+                "popularity": 2.7113,
+                "poster_path": "/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+                "release_date": "2022-10-20",
+                "title": "My Policeman",
+                "video": false,
+                "vote_average": 7.633,
+                "vote_count": 730,
+                "character": "Tom",
+                "credit_id": "604171b206f984007695cbc6",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Linus Roach",
+            "\u041b\u0430\u0439\u043d\u0430\u0441 \u0420\u043e\u0443\u0447",
+            "\u83b1\u7eb3\u65af\u00b7\u7f57\u5f7b"
+        ],
+        "biography": "Linus William Roache (born 1 February 1964) is an English actor.",
+        "birthday": "1964-02-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3900,
+        "imdb_id": "nm0730070",
+        "known_for_department": "Acting",
+        "name": "Linus Roache",
+        "place_of_birth": "Manchester, Greater Manchester, England, UK",
+        "popularity": 1.0679,
+        "profile_path": "/u98VM2S9mbUMCMPvCpk2OUn4Eg2.jpg"
+    }
+}

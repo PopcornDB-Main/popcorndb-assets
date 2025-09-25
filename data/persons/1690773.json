@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 272,
+                "original_language": "en",
+                "original_title": "Batman Begins",
+                "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                "popularity": 16.5995,
+                "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+                "release_date": "2005-06-10",
+                "title": "Batman Begins",
+                "video": false,
+                "vote_average": 7.717,
+                "vote_count": 21791,
+                "character": "Courthouse Reporter #2",
+                "credit_id": "57f7bb6fc3a3683aa700294f",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p3P0eTh8AnqauhRZg0wgoBFvcjF.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 9833,
+                "original_language": "en",
+                "original_title": "The Phantom of the Opera",
+                "overview": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opera House.",
+                "popularity": 3.8025,
+                "poster_path": "/pFf1Xxzgxo6ffxAJeSkAb5b0P4S.jpg",
+                "release_date": "2004-12-08",
+                "title": "The Phantom of the Opera",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1692,
+                "character": "Fop",
+                "credit_id": "5f56cad384f2490035ffd1e5",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1690773,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Jonathan D. Ellis",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": "/to7mwOlFiVkfFqg5duZoOtCk80K.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Young Jenny Curran",
+                "credit_id": "52fe420ec3a36847f8000785",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6b6UpsOXmjO8mJKYsGTG9HW49CN.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1443,
+                "original_language": "en",
+                "original_title": "The Virgin Suicides",
+                "overview": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+                "popularity": 7.7612,
+                "poster_path": "/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+                "release_date": "2000-04-21",
+                "title": "The Virgin Suicides",
+                "video": false,
+                "vote_average": 7.12,
+                "vote_count": 3435,
+                "character": "Cecilia Lisbon",
+                "credit_id": "52fe42f8c3a36847f8030957",
+                "order": 6
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Hanna R. Hall",
+            "\u0647\u0627\u0646\u0627 \u0647\u0627\u0644"
+        ],
+        "biography": "Hanna Rose Hall (born July 9, 1984) is an American actress and assistant director, known for her roles as Young Jenny in Forrest Gump (1994), Cecilia Lisbon in The Virgin Suicides (1999), and Judith Myers in Rob Zombie's Halloween (2007).",
+        "birthday": "1984-07-09",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 204997,
+        "imdb_id": "nm0355632",
+        "known_for_department": "Acting",
+        "name": "Hanna Hall",
+        "place_of_birth": "Denver, Colorado, USA",
+        "popularity": 1.0597,
+        "profile_path": "/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+    }
+}

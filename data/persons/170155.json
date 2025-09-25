@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kFm4FbjD2mBWtK9uyXryFtOD0Ut.jpg",
+                "genre_ids": [
+                    10751,
+                    35
+                ],
+                "id": 11528,
+                "original_language": "en",
+                "original_title": "The Sandlot",
+                "overview": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+                "popularity": 5.0629,
+                "poster_path": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+                "release_date": "1993-04-07",
+                "title": "The Sandlot",
+                "video": false,
+                "vote_average": 7.537,
+                "vote_count": 1239,
+                "character": "Giants Catcher",
+                "credit_id": "64244d2d37b3a900f4a74500",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 37136,
+                "original_language": "en",
+                "original_title": "The Naked Gun: From the Files of Police Squad!",
+                "overview": "When the bumbling Lieutenant Frank Drebin investigates events following the shooting of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+                "popularity": 9.0343,
+                "poster_path": "/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+                "release_date": "1988-12-02",
+                "title": "The Naked Gun: From the Files of Police Squad!",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4111,
+                "character": "Angel Catcher",
+                "credit_id": "64f38efee0ca7f012eb3a11b",
+                "order": 35
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Chuck Fick"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 170155,
+        "imdb_id": "nm0275676",
+        "known_for_department": "Acting",
+        "name": "Charles Fick",
+        "place_of_birth": null,
+        "popularity": 0.5951,
+        "profile_path": null
+    }
+}

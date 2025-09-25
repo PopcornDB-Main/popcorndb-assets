@@ -1,0 +1,186 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ubICMSUij3ntP9BjnQsV3rTVnAF.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 783,
+                "original_language": "en",
+                "original_title": "Gandhi",
+                "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+                "popularity": 4.3456,
+                "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+                "release_date": "1982-12-01",
+                "title": "Gandhi",
+                "video": false,
+                "vote_average": 7.557,
+                "vote_count": 2390,
+                "character": "Mirabehn",
+                "credit_id": "52fe4275c3a36847f802064d",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80,
+                    9648
+                ],
+                "id": 10528,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes",
+                "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                "popularity": 10.4847,
+                "poster_path": "/fvnu6QHyR0gSV1JI6lMyXCny21a.jpg",
+                "release_date": "2009-12-23",
+                "title": "Sherlock Holmes",
+                "video": false,
+                "vote_average": 7.216,
+                "vote_count": 14334,
+                "character": "Mrs. Hudson",
+                "credit_id": "52fe43809251416c75012eeb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/egKntJKzEL6HgalIyQ0Q5cMmDOA.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 65754,
+                "original_language": "en",
+                "original_title": "The Girl with the Dragon Tattoo",
+                "overview": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+                "popularity": 5.7283,
+                "poster_path": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+                "release_date": "2011-12-14",
+                "title": "The Girl with the Dragon Tattoo",
+                "video": false,
+                "vote_average": 7.377,
+                "vote_count": 7283,
+                "character": "Cecilia Vanger",
+                "credit_id": "52fe4718c3a368484e0b4c75",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    80,
+                    9648
+                ],
+                "id": 58574,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes: A Game of Shadows",
+                "overview": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes\u2019 intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the  detective.",
+                "popularity": 6.6865,
+                "poster_path": "/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+                "release_date": "2011-11-22",
+                "title": "Sherlock Holmes: A Game of Shadows",
+                "video": false,
+                "vote_average": 7.142,
+                "vote_count": 10609,
+                "character": "Mrs. Hudson",
+                "credit_id": "52fe4969c3a36847f8198bcf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/maDBFV1ZpL9eJ2yRMEv4xw0pcwX.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 424488,
+                "original_language": "en",
+                "original_title": "Megan Leavey",
+                "overview": "The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.",
+                "popularity": 3.7757,
+                "poster_path": "/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg",
+                "release_date": "2017-06-09",
+                "title": "Megan Leavey",
+                "video": false,
+                "vote_average": 7.278,
+                "vote_count": 801,
+                "character": "Dr. Turbeville",
+                "credit_id": "581dfdb69251410ee300aa58",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.8692,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 15864,
+                "character": "Blue Three",
+                "credit_id": "58633e4e9251412b900076a4",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lgQQ6n1vPw40buW7QGc1DxDzQS9.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    36
+                ],
+                "id": 535544,
+                "original_language": "en",
+                "original_title": "Downton Abbey",
+                "overview": "The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.",
+                "popularity": 4.8091,
+                "poster_path": "/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
+                "release_date": "2019-09-12",
+                "title": "Downton Abbey",
+                "video": false,
+                "vote_average": 7.152,
+                "vote_count": 1193,
+                "character": "Queen Mary",
+                "credit_id": "5b896ee0c3a368520600100b",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u062c\u0631\u0627\u0644\u062f\u06cc\u0646 \u062c\u06cc\u0645\u0632"
+        ],
+        "biography": "Geraldine James, OBE (born 6 July 1950) is an English actress.\n\nDescription above from the Wikipedia article Geraldine James, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1950-07-06",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 11855,
+        "imdb_id": "nm0416524",
+        "known_for_department": "Acting",
+        "name": "Geraldine James",
+        "place_of_birth": "Maidenhead, Berkshire, England, UK",
+        "popularity": 1.6648,
+        "profile_path": "/wnqmn77oKtHiZFZuwxU2HWSAILF.jpg"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jZbMhbhwaMrWosBh9dxLleWnMG8.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 1267,
+                "original_language": "en",
+                "original_title": "Meet the Robinsons",
+                "overview": "Lewis, a brilliant young inventor, is keen on creating a time machine to find his mother, who abandoned him in an orphanage. Things take a turn when he meets Wilbur Robinson and his family.",
+                "popularity": 6.6588,
+                "poster_path": "/naya0zF4kT401Sx15AtwB9vpcJr.jpg",
+                "release_date": "2007-03-23",
+                "title": "Meet the Robinsons",
+                "video": false,
+                "vote_average": 6.925,
+                "vote_count": 3001,
+                "character": "Carl (voice)",
+                "credit_id": "52fe42ecc3a36847f802d019",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8KM1KWQt434blaRMbDOJ8ZZ3K3W.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 586,
+                "original_language": "en",
+                "original_title": "Wag the Dog",
+                "overview": "During the final weeks of a presidential race, the President is accused of sexual misconduct. To distract the public until the election, the President's adviser hires a Hollywood producer to help him stage a fake war.",
+                "popularity": 4.0499,
+                "poster_path": "/rYoEQzMBlB40ZlwVoe6y5s8B58z.jpg",
+                "release_date": "1997-12-25",
+                "title": "Wag the Dog",
+                "video": false,
+                "vote_average": 6.941,
+                "vote_count": 990,
+                "character": "Pet Wrangler",
+                "credit_id": "61a2089b180dea0064f37333",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8KM1KWQt434blaRMbDOJ8ZZ3K3W.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 586,
+                "original_language": "en",
+                "original_title": "Wag the Dog",
+                "overview": "During the final weeks of a presidential race, the President is accused of sexual misconduct. To distract the public until the election, the President's adviser hires a Hollywood producer to help him stage a fake war.",
+                "popularity": 4.0499,
+                "poster_path": "/rYoEQzMBlB40ZlwVoe6y5s8B58z.jpg",
+                "release_date": "1997-12-25",
+                "title": "Wag the Dog",
+                "video": false,
+                "vote_average": 6.941,
+                "vote_count": 990,
+                "credit_id": "644e02614d23dd0a9492f9e0",
+                "department": "Crew",
+                "job": "Animal Wrangler"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Harland Reesor Williams"
+        ],
+        "biography": "Harland Reesor Williams (born November 14, 1962) is a Canadian-American actor, comedian, singer, author, artist, musician, and radio personality.  Description above from the Wikipedia article Harland Williams , licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1962-11-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.harlandwilliams.com/",
+        "id": 16846,
+        "imdb_id": "nm0005558",
+        "known_for_department": "Acting",
+        "name": "Harland Williams",
+        "place_of_birth": "Toronto, Ontario, Canada",
+        "popularity": 0.7904,
+        "profile_path": "/mnor1Hoy3kvTBygccBIVuyWfvge.jpg"
+    }
+}

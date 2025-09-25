@@ -1,0 +1,142 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qJbMgG2ZkWOk7zdMfC4JVfEk10N.jpg",
+                "genre_ids": [
+                    80,
+                    36,
+                    53
+                ],
+                "id": 117,
+                "original_language": "en",
+                "original_title": "The Untouchables",
+                "overview": "Elliot Ness, an ambitious prohibition agent, is determined to take down Al Capone. In order to achieve this goal, he forms a group given the nickname \u201cThe Untouchables\u201d.",
+                "popularity": 8.308,
+                "poster_path": "/8BquGK22zCcsmBWiaIakaaPpSZb.jpg",
+                "release_date": "1987-06-03",
+                "title": "The Untouchables",
+                "video": false,
+                "vote_average": 7.756,
+                "vote_count": 5922,
+                "character": "Oscar Wallace",
+                "credit_id": "52fe421ac3a36847f8004285",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 838,
+                "original_language": "en",
+                "original_title": "American Graffiti",
+                "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+                "popularity": 5.8727,
+                "poster_path": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+                "release_date": "1973-08-11",
+                "title": "American Graffiti",
+                "video": false,
+                "vote_average": 7.04,
+                "vote_count": 1509,
+                "character": "Terry 'The Toad' Fields",
+                "credit_id": "52fe427ec3a36847f8023315",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fny1B9hmVilFtU3RRjkMZffBjUi.jpg",
+                "genre_ids": [
+                    878,
+                    10749,
+                    18
+                ],
+                "id": 9663,
+                "original_language": "en",
+                "original_title": "Starman",
+                "overview": "When an alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona, the government tries to stop them.",
+                "popularity": 4.4098,
+                "poster_path": "/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg",
+                "release_date": "1984-12-13",
+                "title": "Starman",
+                "video": false,
+                "vote_average": 6.946,
+                "vote_count": 923,
+                "character": "Mark Shermin",
+                "credit_id": "52fe4518c3a36847f80bc1b3",
+                "order": 2
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/y0GUZoM63hT4HTKyUbQbsaP8yIT.jpg",
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 62837,
+                "original_language": "en",
+                "original_title": "Dolphin Tale",
+                "overview": "A story centered on the friendship between a boy and a dolphin whose tail was lost in a crab trap.",
+                "popularity": 2.159,
+                "poster_path": "/af2SRFllNW26WFG84AfTv3xLT5t.jpg",
+                "release_date": "2011-09-22",
+                "title": "Dolphin Tale",
+                "video": false,
+                "vote_average": 6.922,
+                "vote_count": 664,
+                "credit_id": "52fe468fc3a368484e097675",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/w7MsyOpP003FYhsiTgVHa3rNsrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    10751
+                ],
+                "id": 508763,
+                "original_language": "en",
+                "original_title": "A Dog's Way Home",
+                "overview": "The adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
+                "popularity": 4.0269,
+                "poster_path": "/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",
+                "release_date": "2019-01-10",
+                "title": "A Dog's Way Home",
+                "video": false,
+                "vote_average": 7.387,
+                "vote_count": 1153,
+                "credit_id": "5a99b5ba0e0a2630b801b5b2",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Charles Martin-Smith",
+            "Charlie Martin Smith",
+            "C.M. Smith",
+            "\u0686\u0627\u0631\u0644\u0632 \u0645\u0627\u0631\u062a\u06cc\u0646 \u0627\u0633\u0645\u06cc\u062a"
+        ],
+        "biography": "Charles Martin Smith (born October 30, 1953) is an American film actor, writer, and director.",
+        "birthday": "1953-10-30",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1270,
+        "imdb_id": "nm0001747",
+        "known_for_department": "Acting",
+        "name": "Charles Martin Smith",
+        "place_of_birth": "Van Nuys, California, USA",
+        "popularity": 0.7956,
+        "profile_path": "/uzm5v0Q7nCH223EvPiJyh9Y0qiN.jpg"
+    }
+}

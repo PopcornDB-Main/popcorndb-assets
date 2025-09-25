@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/plWyKqUIenzqFjMrs1gu7Gjygfq.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 402,
+                "original_language": "en",
+                "original_title": "Basic Instinct",
+                "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+                "popularity": 6.2056,
+                "poster_path": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+                "release_date": "1992-03-20",
+                "title": "Basic Instinct",
+                "video": false,
+                "vote_average": 6.929,
+                "vote_count": 4128,
+                "character": "Dr. Myron",
+                "credit_id": "52fe423fc3a36847f800f59f",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.7754,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "character": "Newsreel Scientist",
+                "credit_id": "6390e5bf22931a0095fa7f81",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 21383,
+        "imdb_id": "nm0240421",
+        "known_for_department": "Acting",
+        "name": "William Duff-Griffin",
+        "place_of_birth": null,
+        "popularity": 0.184,
+        "profile_path": null
+    }
+}

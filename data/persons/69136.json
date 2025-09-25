@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 11360,
+                "original_language": "en",
+                "original_title": "Dumbo",
+                "overview": "Dumbo is a baby elephant born with over-sized ears and a supreme lack of confidence. But thanks to his even more diminutive buddy Timothy the Mouse,  the pint-sized pachyderm learns to surmount all obstacles.",
+                "popularity": 6.0834,
+                "poster_path": "/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
+                "release_date": "1941-10-31",
+                "title": "Dumbo",
+                "video": false,
+                "vote_average": 6.991,
+                "vote_count": 5131,
+                "character": "Narrator (voice) (uncredited)",
+                "credit_id": "52fe44309251416c7502be5d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 10895,
+                "original_language": "en",
+                "original_title": "Pinocchio",
+                "overview": "A little wooden puppet yearns to become a real boy.",
+                "popularity": 7.28,
+                "poster_path": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+                "release_date": "1940-02-23",
+                "title": "Pinocchio",
+                "video": false,
+                "vote_average": 7.099,
+                "vote_count": 6064,
+                "character": "Carnival Barker (voice) (uncredited)",
+                "credit_id": "5e8ecff8e640d600151cb126",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John Fraser McLeish"
+        ],
+        "biography": "John McLeish was born in 1916 in Montreal, Quebec, Canada as John Fraser McLeish. He was an actor and writer, known for\u00a0Fantasia\u00a0(1940),\u00a0The Adventures of Ichabod and Mr. Toad\u00a0(1949) and\u00a0The Wind in the Willows\u00a0(1949). He was married to Lila Dorothea Wead. He died on October 30, 1968 in Montreal, Canada. -IMDB",
+        "birthday": "1916-01-01",
+        "deathday": "1968-10-30",
+        "gender": 2,
+        "homepage": null,
+        "id": 69136,
+        "imdb_id": "nm0572689",
+        "known_for_department": "Acting",
+        "name": "John McLeish",
+        "place_of_birth": "Montreal, Quebec, Canada",
+        "popularity": 0.0907,
+        "profile_path": null
+    }
+}

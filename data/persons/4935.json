@@ -1,0 +1,212 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9jrHaaXWB37VcA4KGemP8iF7bFB.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 629,
+                "original_language": "en",
+                "original_title": "The Usual Suspects",
+                "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor \u2013 leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+                "popularity": 10.6178,
+                "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+                "release_date": "1995-07-19",
+                "title": "The Usual Suspects",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 10858,
+                "character": "Kobayashi",
+                "credit_id": "52fe4260c3a36847f8019aff",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ldPtMaobGaG7sSrKM1c9Vnd6UGq.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 1985,
+                "original_language": "en",
+                "original_title": "The Constant Gardener",
+                "overview": "Justin Quayle is a low-level British diplomat who has always gone about his work very quietly, not causing any problems. But after his radical wife Tessa is killed he becomes determined to find out why, thrusting himself into the middle of a very dangerous conspiracy.",
+                "popularity": 8.8912,
+                "poster_path": "/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
+                "release_date": "2005-08-31",
+                "title": "The Constant Gardener",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 1593,
+                "character": "Lorbeer",
+                "credit_id": "52fe4328c3a36847f803ec7b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 23168,
+                "original_language": "en",
+                "original_title": "The Town",
+                "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her \u2013 but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
+                "popularity": 11.0435,
+                "poster_path": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+                "release_date": "2010-09-15",
+                "title": "The Town",
+                "video": false,
+                "vote_average": 7.22,
+                "vote_count": 5308,
+                "character": "Fergus \"Fergie\" Colm",
+                "credit_id": "52fe4461c3a368484e01fac1",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GZVHgJUcVyytQRJ533GpMavAcL.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 7984,
+                "original_language": "en",
+                "original_title": "In the Name of the Father",
+                "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
+                "popularity": 2.6913,
+                "poster_path": "/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+                "release_date": "1993-12-12",
+                "title": "In the Name of the Father",
+                "video": false,
+                "vote_average": 7.896,
+                "vote_count": 1845,
+                "character": "Giuseppe Conlon",
+                "credit_id": "52fe448bc3a36847f809c0bd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9PGxCEZCnxgPALlpu7avGMYhVRR.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    9648
+                ],
+                "id": 11831,
+                "original_language": "en",
+                "original_title": "Amistad",
+                "overview": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+                "popularity": 0.9528,
+                "poster_path": "/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+                "release_date": "1997-12-10",
+                "title": "Amistad",
+                "video": false,
+                "vote_average": 7.019,
+                "vote_count": 1340,
+                "character": "Holabird",
+                "credit_id": "52fe448e9251416c75038f5f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+                "genre_ids": [
+                    28,
+                    36,
+                    10749,
+                    10752
+                ],
+                "id": 9361,
+                "original_language": "en",
+                "original_title": "The Last of the Mohicans",
+                "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+                "popularity": 7.2099,
+                "poster_path": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+                "release_date": "1992-08-26",
+                "title": "The Last of the Mohicans",
+                "video": false,
+                "vote_average": 7.385,
+                "vote_count": 3241,
+                "character": "Captain Beams",
+                "credit_id": "52fe44eec3a36847f80b2651",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 27205,
+                "original_language": "en",
+                "original_title": "Inception",
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "popularity": 27.091,
+                "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+                "release_date": "2010-07-15",
+                "title": "Inception",
+                "video": false,
+                "vote_average": 8.37,
+                "vote_count": 37957,
+                "character": "Maurice Fischer",
+                "credit_id": "52fe4534c3a368484e04de59",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7Mnj6if9FUC7yTZaeAgoDNQnnwn.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 19067,
+                "original_language": "en",
+                "original_title": "The Duellists",
+                "overview": "In 1800, as Napoleon Bonaparte rises to power in France, a rivalry erupts between Armand and Gabriel, two lieutenants in the French Army, over a perceived insult. For over a decade, they engage in a series of duels amidst larger conflicts, including the failed French invasion of Russia in 1812, and shifts in the political and social systems of Europe.",
+                "popularity": 3.7718,
+                "poster_path": "/s9sPhcfD4LtrIGwix11bKtl9VLR.jpg",
+                "release_date": "1977-08-31",
+                "title": "The Duellists",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 584,
+                "character": "Orderly shaving Gen. Treillard",
+                "credit_id": "6021eff29979d2003ee27549",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Peter William Postlethwaite",
+            "Peter Postlethwaite",
+            "Peter William \"Pete\" Postlethwaite, OBE",
+            "\u041f\u0438\u0442 \u041f\u043e\u0441\u0442\u043b\u0435\u0442\u0443\u044d\u0439\u0442",
+            "\u5f7c\u5f97\u00b7\u5a01\u5ec9\u00b7\u6ce2\u65af\u5c14\u601d\u97e6\u7279",
+            "\u76ae\u7279\u00b7\u6ce2\u65af\u5c14\u601d\u97e6\u7279"
+        ],
+        "biography": "Pete Postlethwaite was an English stage, film and television actor. After minor television appearances including in The Professionals, Postlethwaite's first success came with the film Distant Voices, Still Lives in 1988. He played a mysterious lawyer, Mr. Kobayashi, in The Usual Suspects, and he appeared in Alien 3, In the Name of the Father, Amistad, Brassed Off, The Shipping News, The Constant Gardener, The Age of Stupid, Inception, The Town, Romeo + Juliet, and \u00c6on Flux. In television, Postlethwaite's most notable performance was as the villain Sergeant Obadiah Hakeswill in the Sharpe television series and television movies opposite actor Sean Bean's character of Richard Sharpe. Postlethwaite was born in Warrington, England in 1946. He trained as a teacher and taught drama before training as an actor. Steven Spielberg called Postlethwaite \"the best actor in the world\" after working with him on The Lost World: Jurassic Park. He received an Academy Award nomination for his role in In the Name of the Father in 1993, and was made an Officer of the Order of the British Empire in the 2004 New Year's Honours List. He died of pancreatic cancer.",
+        "birthday": "1946-02-07",
+        "deathday": "2011-01-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 4935,
+        "imdb_id": "nm0000592",
+        "known_for_department": "Acting",
+        "name": "Pete Postlethwaite",
+        "place_of_birth": "Warrington, Cheshire, England, UK",
+        "popularity": 1.0159,
+        "profile_path": "/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+    }
+}

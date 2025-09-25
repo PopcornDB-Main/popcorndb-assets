@@ -1,0 +1,206 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 105,
+                "original_language": "en",
+                "original_title": "Back to the Future",
+                "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+                "popularity": 15.739,
+                "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+                "release_date": "1985-07-03",
+                "title": "Back to the Future",
+                "video": false,
+                "vote_average": 8.321,
+                "vote_count": 20870,
+                "character": "Dave McFly",
+                "credit_id": "52fe4218c3a36847f8003a2b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 196,
+                "original_language": "en",
+                "original_title": "Back to the Future Part III",
+                "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+                "popularity": 6.4784,
+                "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+                "release_date": "1990-05-25",
+                "title": "Back to the Future Part III",
+                "video": false,
+                "vote_average": 7.488,
+                "vote_count": 11044,
+                "character": "Dave McFly",
+                "credit_id": "52fe4225c3a36847f8007931",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n4CvA50GBtIPrSqCl8nMNZCliYI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 7214,
+                "original_language": "en",
+                "original_title": "Coach Carter",
+                "overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+                "popularity": 4.8599,
+                "poster_path": "/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
+                "release_date": "2005-01-14",
+                "title": "Coach Carter",
+                "video": false,
+                "vote_average": 7.578,
+                "vote_count": 3119,
+                "character": "Susan's Dad",
+                "credit_id": "62c60d70447f9c004e49148c",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 10.0533,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 4063,
+                "character": "Jimmy Olsen",
+                "credit_id": "57deee6bc3a3680956007e68",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.5919,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5604,
+                "character": "Glynn Lunney",
+                "credit_id": "5bc36e800e0a266e5704cd64",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 9591,
+                "original_language": "en",
+                "original_title": "That Thing You Do!",
+                "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+                "popularity": 3.2741,
+                "poster_path": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+                "release_date": "1996-10-04",
+                "title": "That Thing You Do!",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 874,
+                "character": "Hollywood Showcase Director",
+                "credit_id": "5cd70ad5c3a36817bdc1c15f",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.7837,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.11,
+                "vote_count": 10399,
+                "character": "Jerry",
+                "credit_id": "60161acc976a23003ea369f7",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 165,
+                "original_language": "en",
+                "original_title": "Back to the Future Part II",
+                "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+                "popularity": 7.7522,
+                "poster_path": "/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+                "release_date": "1989-11-22",
+                "title": "Back to the Future Part II",
+                "video": false,
+                "vote_average": 7.773,
+                "vote_count": 13362,
+                "character": "Dave McFly (uncredited)",
+                "credit_id": "601f7d823ff2df0040b9a4d1",
+                "order": 51
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "\u200bFrom Wikipedia, the free encyclopedia. \u00a0\n\nMarc A. McClure (born March 31, 1957) is an American actor. McClure was born in San Mateo, California.\n\nDescription above from the Wikipedia article Marc McClure, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1957-03-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1067,
+        "imdb_id": "nm0566013",
+        "known_for_department": "Acting",
+        "name": "Marc McClure",
+        "place_of_birth": "San Mateo, California, USA",
+        "popularity": 0.621,
+        "profile_path": "/uscpMlkuwi3sgGJ6Hz8FhwvsrRk.jpg"
+    }
+}

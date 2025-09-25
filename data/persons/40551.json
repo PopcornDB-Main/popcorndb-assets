@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
+                "genre_ids": [
+                    10752,
+                    18,
+                    36
+                ],
+                "id": 11202,
+                "original_language": "en",
+                "original_title": "Patton",
+                "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+                "popularity": 3.6892,
+                "poster_path": "/8IRufbzhMJSdlmD0cnTWERCtTN2.jpg",
+                "release_date": "1970-01-25",
+                "title": "Patton",
+                "video": false,
+                "vote_average": 7.48,
+                "vote_count": 1147,
+                "character": "Capt. Chester B. Hansen",
+                "credit_id": "52fe440e9251416c75027805",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.3848,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 1337,
+                "character": "Gilbert",
+                "credit_id": "52fe44b49251416c7503e2a1",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Stephen Levy"
+        ],
+        "biography": "",
+        "birthday": "1939-05-19",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 40551,
+        "imdb_id": "nm0950079",
+        "known_for_department": "Acting",
+        "name": "Stephen Young",
+        "place_of_birth": "Toronto, Ontario, Canada",
+        "popularity": 0.4226,
+        "profile_path": "/dadiTDVr9Ou9AUf7HHZQN6dm1KI.jpg"
+    }
+}

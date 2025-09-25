@@ -1,0 +1,363 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mTsbahr4SLqgVZkKRN0O8t5iA9y.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10402
+                ],
+                "id": 71,
+                "original_language": "en",
+                "original_title": "Billy Elliot",
+                "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+                "popularity": 5.4837,
+                "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+                "release_date": "2000-09-28",
+                "title": "Billy Elliot",
+                "video": false,
+                "vote_average": 7.597,
+                "vote_count": 3952,
+                "character": "Mrs Wilkinson",
+                "credit_id": "52fe4213c3a36847f8002119",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 671,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Philosopher's Stone",
+                "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+                "popularity": 35.7984,
+                "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+                "release_date": "2001-11-16",
+                "title": "Harry Potter and the Philosopher's Stone",
+                "video": false,
+                "vote_average": 7.901,
+                "vote_count": 28610,
+                "character": "Molly Weasley",
+                "credit_id": "52fe4267c3a36847f801becd",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 673,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Prisoner of Azkaban",
+                "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+                "popularity": 22.6761,
+                "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+                "release_date": "2004-05-31",
+                "title": "Harry Potter and the Prisoner of Azkaban",
+                "video": false,
+                "vote_average": 8.011,
+                "vote_count": 22394,
+                "character": "Molly Weasley",
+                "credit_id": "52fe4268c3a36847f801c155",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xACx8htL9Ubz1qGe0gU2ggHonxV.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 672,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Chamber of Secrets",
+                "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione\u2019s magical abilities and courage.",
+                "popularity": 23.5938,
+                "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+                "release_date": "2002-11-13",
+                "title": "Harry Potter and the Chamber of Secrets",
+                "video": false,
+                "vote_average": 7.706,
+                "vote_count": 22826,
+                "character": "Molly Weasley",
+                "credit_id": "52fe4267c3a36847f801c00b",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 675,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Order of the Phoenix",
+                "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+                "popularity": 18.8986,
+                "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+                "release_date": "2007-07-08",
+                "title": "Harry Potter and the Order of the Phoenix",
+                "video": false,
+                "vote_average": 7.674,
+                "vote_count": 20146,
+                "character": "Molly Weasley",
+                "credit_id": "52fe4268c3a36847f801c529",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 767,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Half-Blood Prince",
+                "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+                "popularity": 18.8173,
+                "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+                "release_date": "2009-07-15",
+                "title": "Harry Potter and the Half-Blood Prince",
+                "video": false,
+                "vote_average": 7.683,
+                "vote_count": 20120,
+                "character": "Molly Weasley",
+                "credit_id": "52fe4273c3a36847f801fa7b",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r95IP56O3j8fz9a09x55lymr9uJ.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 2977,
+                "original_language": "en",
+                "original_title": "Becoming Jane",
+                "overview": "Though young Jane Austen's financially strapped parents expect her to marry the nephew of wealthy Lady Gresham, Jane herself knows that such a union will destroy her creativity and sense of self-worth. Instead, she becomes involved with Tom Lefroy, a charming but penniless apprentice lawyer who gives her the knowledge of the heart she needs for her future career as a novelist.",
+                "popularity": 2.4309,
+                "poster_path": "/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg",
+                "release_date": "2007-03-02",
+                "title": "Becoming Jane",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1206,
+                "character": "Mrs. Austen",
+                "credit_id": "52fe4378c3a36847f80569a7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/85BQpS3lEA7wESlGUCFQZNoPoo8.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 11631,
+                "original_language": "en",
+                "original_title": "Mamma Mia!",
+                "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+                "popularity": 6.4892,
+                "poster_path": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+                "release_date": "2008-07-03",
+                "title": "Mamma Mia!",
+                "video": false,
+                "vote_average": 6.977,
+                "vote_count": 6774,
+                "character": "Rosie Mulligan",
+                "credit_id": "52fe446c9251416c75034283",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 12444,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+                "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+                "popularity": 19.5516,
+                "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+                "release_date": "2010-11-17",
+                "title": "Harry Potter and the Deathly Hallows: Part 1",
+                "video": false,
+                "vote_average": 7.739,
+                "vote_count": 19733,
+                "character": "Molly Weasley",
+                "credit_id": "52fe44e19251416c7504434f",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+                "genre_ids": [
+                    14,
+                    12
+                ],
+                "id": 12445,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+                "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+                "popularity": 18.4924,
+                "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+                "release_date": "2011-07-12",
+                "title": "Harry Potter and the Deathly Hallows: Part 2",
+                "video": false,
+                "vote_average": 8.084,
+                "vote_count": 21282,
+                "character": "Molly Weasley",
+                "credit_id": "52fe44e29251416c750445cd",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3SszodoxSiJRQVoFg9IRjrMcSuJ.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751,
+                    28,
+                    14
+                ],
+                "id": 62177,
+                "original_language": "en",
+                "original_title": "Brave",
+                "overview": "In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Merida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Merida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Merida's quest \u2014 and serving as comic relief \u2014 are the kingdom's three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
+                "popularity": 10.2877,
+                "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
+                "release_date": "2012-06-21",
+                "title": "Brave",
+                "video": false,
+                "vote_average": 7.021,
+                "vote_count": 13762,
+                "character": "The Witch (voice)",
+                "credit_id": "52fe4674c3a368484e0918f3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    10751
+                ],
+                "id": 116149,
+                "original_language": "en",
+                "original_title": "Paddington",
+                "overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+                "popularity": 5.8908,
+                "poster_path": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+                "release_date": "2014-11-24",
+                "title": "Paddington",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 3984,
+                "character": "Mrs. Bird",
+                "credit_id": "52fe4b85c3a36847f8207c01",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 346648,
+                "original_language": "en",
+                "original_title": "Paddington 2",
+                "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+                "popularity": 4.5417,
+                "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+                "release_date": "2017-11-09",
+                "title": "Paddington 2",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 2581,
+                "character": "Mrs. Bird",
+                "credit_id": "55e1a9e29251416bfa00229b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    36
+                ],
+                "id": 167073,
+                "original_language": "en",
+                "original_title": "Brooklyn",
+                "overview": "In 1950s Ireland and New York, young Eilis Lacey has to choose between two men and two countries.",
+                "popularity": 2.7415,
+                "poster_path": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+                "release_date": "2015-10-20",
+                "title": "Brooklyn",
+                "video": false,
+                "vote_average": 7.313,
+                "vote_count": 3166,
+                "character": "Madge Kehoe",
+                "credit_id": "5649523a9251413acf009f02",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8HKwxHZ23sW8wz4yb28IWnAM1M6.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 458423,
+                "original_language": "en",
+                "original_title": "Mamma Mia! Here We Go Again",
+                "overview": "Five years after meeting her three fathers, Sophie Sheridan prepares to open her mother\u2019s hotel. In 1979, young Donna Sheridan meets the men who each could be Sophie\u2019s biological father.",
+                "popularity": 5.7955,
+                "poster_path": "/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+                "release_date": "2018-07-18",
+                "title": "Mamma Mia! Here We Go Again",
+                "video": false,
+                "vote_average": 7.089,
+                "vote_count": 3470,
+                "character": "Rosie Mulligan",
+                "credit_id": "5920765ac3a3687a6404866a",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u0436\u0443\u043b\u0438 \u0423\u043e\u043b\u0442\u0435\u0440\u0441"
+        ],
+        "biography": "Dame Julia Mary Walters DBE, known professionally as Julie Walters, is an English actress, author, and comedian. She is the recipient of four British Academy Television Awards, two British Academy Film Awards, two International Emmy Awards, a BAFTA Fellowship, and a Golden Globe. Walters has been nominated twice for an Academy Award: once for Best Actress and once for Best Supporting Actress.\n\nWalters rose to prominence playing the title role in Educating Rita (1983), a role which she originated in West End theatre. She has appeared in a number of films, including Personal Services (1987), Stepping Out (1991), Sister My Sister (1994), Billy Elliot (2000), the Harry Potter series (2001\u20132011) as Molly Weasley, Calendar Girls (2003), Wah-Wah (2005), Driving Lessons (2006), Becoming Jane (2007), Mamma Mia! (2008) and Mamma Mia! Here We Go Again (2018), Brave (2012), Paddington (2014) and its 2017 sequel, Brooklyn (2015), Film Stars Don't Die in Liverpool (2017), and Mary Poppins Returns (2018). On stage, she won a Laurence Olivier Award for Best Actress for the 2001 production of All My Sons.\n\nOn television, Walters collaborated with Victoria Wood; they appeared together on several television shows, including Wood and Walters (1981), Victoria Wood: As Seen on TV (1985\u20131987), Pat and Margaret (1994), and Dinnerladies (1998\u20132000). She has won the British Academy Television Award for Best Actress four times, more than any other actress, for My Beautiful Son (2001), Murder (2002), The Canterbury Tales (2003), and her portrayal of Mo Mowlam in Mo (2010). Walters and Helen Mirren are the only actresses to have won this award three consecutive times, and Walters is tied with Judi Dench for the most nominations in the category with seven. In 2006, the British public voted Walters fourth in ITV's poll of TV's 50 Greatest Stars as part of ITV's 50th anniversary celebrations. She starred in A Short Stay in Switzerland (2009), which won her an International Emmy for Best Actress. Walters was made a Dame (DBE) in the 2017 Birthday Honours for services to drama.",
+        "birthday": "1950-02-22",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 477,
+        "imdb_id": "nm0910278",
+        "known_for_department": "Acting",
+        "name": "Julie Walters",
+        "place_of_birth": "Smethwick, England, UK",
+        "popularity": 1.2349,
+        "profile_path": "/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+    }
+}

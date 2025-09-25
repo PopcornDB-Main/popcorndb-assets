@@ -1,0 +1,279 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1271,
+                "original_language": "en",
+                "original_title": "300",
+                "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+                "popularity": 10.66,
+                "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+                "release_date": "2007-03-07",
+                "title": "300",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 14202,
+                "character": "Stelios",
+                "credit_id": "52fe42ecc3a36847f802d27d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/34N9iKlR8FdXiu8r8pSpKcyFUVh.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 10360,
+                "original_language": "en",
+                "original_title": "Hunger",
+                "overview": "The story of Bobby Sands, the IRA member who led the 1981 hunger strike during The Troubles in which Irish Republican prisoners tried to win political status.",
+                "popularity": 3.3926,
+                "poster_path": "/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+                "release_date": "2008-05-15",
+                "title": "Hunger",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1152,
+                "character": "Bobby Sands",
+                "credit_id": "52fe43609251416c7500df73",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4VgiVdd2I3AktHkOpCeSjtP4t8b.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 24469,
+                "original_language": "en",
+                "original_title": "Fish Tank",
+                "overview": "Fifteen-year-old Mia is in a constant state of war with her family and the world around her. When she meets her party-girl mother\u2019s charming new boyfriend Connor, she is amazed to find he returns her attention, and believes he might help her start to make sense of her life.",
+                "popularity": 3.1973,
+                "poster_path": "/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
+                "release_date": "2009-09-11",
+                "title": "Fish Tank",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 886,
+                "character": "Connor O'Reily",
+                "credit_id": "52fe4497c3a368484e02b889",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/am9WwUTZuUDuinVcyST4OxJ8vFs.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 38684,
+                "original_language": "en",
+                "original_title": "Jane Eyre",
+                "overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+                "popularity": 5.7409,
+                "poster_path": "/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg",
+                "release_date": "2011-03-11",
+                "title": "Jane Eyre",
+                "video": false,
+                "vote_average": 7.204,
+                "vote_count": 1509,
+                "character": "Edward Rochester",
+                "credit_id": "52fe46d09251416c91060a09",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 16869,
+                "original_language": "en",
+                "original_title": "Inglourious Basterds",
+                "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+                "popularity": 18.9435,
+                "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+                "release_date": "2009-08-02",
+                "title": "Inglourious Basterds",
+                "video": false,
+                "vote_average": 8.215,
+                "vote_count": 23209,
+                "character": "LT. Archie Hicox",
+                "credit_id": "52fe46f29251416c75088c87",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 49538,
+                "original_language": "en",
+                "original_title": "X-Men: First Class",
+                "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                "popularity": 0.425,
+                "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+                "release_date": "2011-06-01",
+                "title": "X-Men: First Class",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 13121,
+                "character": "Erik Lehnsherr",
+                "credit_id": "52fe479bc3a36847f813ecbf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/chW0eMD6RlPhRnoVRFWc3zWk3Uh.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 76025,
+                "original_language": "en",
+                "original_title": "Shame",
+                "overview": "Brandon, a thirty-something man living in New York, eludes intimacy with women but feeds his deepest desires with a compulsive addiction to sex. When his younger sister temporarily moves into his apartment, stirring up bitter memories of their shared painful past, Brandon's life, like his fragile mind, gets out of control.",
+                "popularity": 5.9313,
+                "poster_path": "/aywgzSw9LK4z3DxMPZsNbzWYqQ1.jpg",
+                "release_date": "2011-10-02",
+                "title": "Shame",
+                "video": false,
+                "vote_average": 6.932,
+                "vote_count": 3265,
+                "character": "Brandon",
+                "credit_id": "52fe4923c3a368484e11c189",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 76203,
+                "original_language": "en",
+                "original_title": "12 Years a Slave",
+                "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon\u2019s chance meeting with a Canadian abolitionist will forever alter his life.",
+                "popularity": 7.0513,
+                "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+                "release_date": "2013-10-18",
+                "title": "12 Years a Slave",
+                "video": false,
+                "vote_average": 7.938,
+                "vote_count": 11592,
+                "character": "Edwin Epps",
+                "credit_id": "52fe492cc3a368484e11df9f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 127585,
+                "original_language": "en",
+                "original_title": "X-Men: Days of Future Past",
+                "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+                "popularity": 12.3692,
+                "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+                "release_date": "2014-05-15",
+                "title": "X-Men: Days of Future Past",
+                "video": false,
+                "vote_average": 7.529,
+                "vote_count": 15760,
+                "character": "Erik Lehnsherr",
+                "credit_id": "52fe4affc3a368484e172003",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jBkKw0GSAOTBsnar5RstD7MzkmL.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    9648
+                ],
+                "id": 171372,
+                "original_language": "en",
+                "original_title": "Frank",
+                "overview": "A young wannabe musician discovers he has bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+                "popularity": 4.229,
+                "poster_path": "/mGzqs4CHW8LomreoPATnyrTXk7j.jpg",
+                "release_date": "2014-05-09",
+                "title": "Frank",
+                "video": false,
+                "vote_average": 6.871,
+                "vote_count": 1657,
+                "character": "Frank",
+                "credit_id": "52fe4d0ac3a36847f824b69b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s72jkxT7xPbfGxnE1lETq5OywvY.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 283552,
+                "original_language": "en",
+                "original_title": "The Light Between Oceans",
+                "overview": "A lighthouse keeper and his wife living off the coast of Western Australia raise a baby they rescue from an adrift rowboat.",
+                "popularity": 3.4344,
+                "poster_path": "/c9S6VKZPllNgdxBUuI3GYJiqcKO.jpg",
+                "release_date": "2016-09-02",
+                "title": "The Light Between Oceans",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1380,
+                "character": "Tom Sherbourne",
+                "credit_id": "53d1295d0e0a265e0100cb39",
+                "order": 0
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u30de\u30a4\u30b1\u30eb\u30fb\u30d5\u30a1\u30b9\u30d9\u30f3\u30c0\u30fc",
+            "\ub9c8\uc774\ud074 \ud328\uc2a4\ubca4\ub354",
+            "\u0645\u0627\u064a\u0643\u0644 \u0641\u0627\u0633\u0628\u0646\u062f\u0631",
+            "\u0e44\u0e21\u0e40\u0e04\u0e34\u0e25 \u0e1f\u0e32\u0e2a\u0e40\u0e1a\u0e19\u0e40\u0e14\u0e2d\u0e23\u0e4c",
+            "\u9ea5\u53ef\u00b7\u6cd5\u65af\u8cd3\u9054",
+            "Michael John Edward Fassbender",
+            "\u05de\u05d9\u05d9\u05e7\u05dc \u05e4\u05e1\u05d1\u05e0\u05d3\u05e8",
+            "\u8fc8\u514b\u5c14\u00b7\u6cd5\u65af\u5bbe\u5fb7",
+            "\u0645\u0627\u06cc\u06a9\u0644 \u0641\u0627\u0633\u0628\u0646\u062f\u0631",
+            "\u9ea5\u53ef\u6cd5\u65af\u8cd3\u9054"
+        ],
+        "biography": "Michael Fassbender is a German-Irish actor. He is the recipient of various accolades, including nominations for two Academy Awards, four BAFTA Awards, and three Golden Globe Awards. In 2020, he was listed at number nine on The Irish Times list of Ireland's greatest film actors.\n\nBorn in Germany to a mother from Northern Ireland and a German father, Fassbender moved to Ireland at age two. He made his feature film debut in 300 (2006). Early roles include in the HBO miniseries Band of Brothers (2001) and the Sky One fantasy drama Hex (2004\u20132005). Fassbender first came to prominence playing Bobby Sandsin Hunger (2008), for which he won a British Independent Film Award. Subsequent roles include the 2009 films Fish Tank and Inglourious Basterds\u00a0and the 2011 films Jane Eyre and A Dangerous Method. He gained mainstream success for playing Erik Lehnsherr/Magneto in X-Men: First Class (2011), X-Men: Days of Future Past (2014), and X-Men: Apocalypse (2016), and David 8 and Walter One in Prometheus (2012) and its sequel, Alien: Covenant (2017).\n\nFor his portrayal of a sex addict in Steve McQueen's drama Shame (2011), Fassbender won the Volpi Cup for Best Actor and was nominated for the Golden Globe and BAFTA Awards. His performance as Edwin Epps in 12 Years a Slave (2013) earned him a nomination for the Academy Award for Best Supporting Actor. He also starred in The Counsellor (2013), Frank (2014), Macbeth, and Steve Jobs (both 2015). Fassbender received another Academy Award nomination for his portrayal of the title role in the latter. After a hiatus, he starred in the action thriller film The Killer (2023).\n\nFassbender began competing in auto racing in 2017 with the Ferrari Challenge. As of 2023, he races in the European Le Mans Series, driving for Proton Competition. He married Swedish actress Alicia Vikander in 2017.",
+        "birthday": "1977-04-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 17288,
+        "imdb_id": "nm1055413",
+        "known_for_department": "Acting",
+        "name": "Michael Fassbender",
+        "place_of_birth": "Heidelberg, Baden-W\u00fcrttemberg, West Germany [now Germany]",
+        "popularity": 2.2789,
+        "profile_path": "/e7SxBHtAxTyNE4GdOrHD7kqkukm.jpg"
+    }
+}

@@ -1,0 +1,265 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 11010,
+                "original_language": "it",
+                "original_title": "Il postino",
+                "overview": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+                "popularity": 1.7715,
+                "poster_path": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+                "release_date": "1994-04-07",
+                "title": "The Postman",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1173,
+                "character": "Mario Ruoppolo",
+                "credit_id": "52fe43e29251416c75021dd5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jBP00fK8DfAhmmc2d6y1nUkhdjY.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 27670,
+                "original_language": "it",
+                "original_title": "Non ci resta che piangere",
+                "overview": "Two 20th-century friends accidentally stumble into the year 1492, where they meet a charming teen and try to alter history.",
+                "popularity": 1.0197,
+                "poster_path": "/cnhfXiqrJppDvo6nc5QgOAtRp2z.jpg",
+                "release_date": "1984-12-20",
+                "title": "Nothing Left to Do But Cry",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1155,
+                "character": "Mario",
+                "credit_id": "52fe455ec3a368484e0562cd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gL8WqjpbkoOdo1y3qkt4GUkdDhV.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 13386,
+                "original_language": "it",
+                "original_title": "Ricomincio da tre",
+                "overview": "Gaetano, a young Neapolitan, decides to leave home, work and friends, to look for other moments of life and meet other people.",
+                "popularity": 2.4599,
+                "poster_path": "/lS0X9KScgkUbhiu6lOHBya8z9R2.jpg",
+                "release_date": "1981-03-05",
+                "title": "I'm Starting from Three",
+                "video": false,
+                "vote_average": 7.62,
+                "vote_count": 688,
+                "character": "Gaetano",
+                "credit_id": "52fe45639251416c75054a0f",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jBP00fK8DfAhmmc2d6y1nUkhdjY.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 27670,
+                "original_language": "it",
+                "original_title": "Non ci resta che piangere",
+                "overview": "Two 20th-century friends accidentally stumble into the year 1492, where they meet a charming teen and try to alter history.",
+                "popularity": 1.0197,
+                "poster_path": "/cnhfXiqrJppDvo6nc5QgOAtRp2z.jpg",
+                "release_date": "1984-12-20",
+                "title": "Nothing Left to Do But Cry",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1155,
+                "credit_id": "52fe455ec3a368484e0562e9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gL8WqjpbkoOdo1y3qkt4GUkdDhV.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 13386,
+                "original_language": "it",
+                "original_title": "Ricomincio da tre",
+                "overview": "Gaetano, a young Neapolitan, decides to leave home, work and friends, to look for other moments of life and meet other people.",
+                "popularity": 2.4599,
+                "poster_path": "/lS0X9KScgkUbhiu6lOHBya8z9R2.jpg",
+                "release_date": "1981-03-05",
+                "title": "I'm Starting from Three",
+                "video": false,
+                "vote_average": 7.62,
+                "vote_count": 688,
+                "credit_id": "52fe45639251416c750549ff",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 11010,
+                "original_language": "it",
+                "original_title": "Il postino",
+                "overview": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+                "popularity": 1.7715,
+                "poster_path": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+                "release_date": "1994-04-07",
+                "title": "The Postman",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1173,
+                "credit_id": "62aa4cffb09bde0067b9ccec",
+                "department": "Directing",
+                "job": "Co-Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jBP00fK8DfAhmmc2d6y1nUkhdjY.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 27670,
+                "original_language": "it",
+                "original_title": "Non ci resta che piangere",
+                "overview": "Two 20th-century friends accidentally stumble into the year 1492, where they meet a charming teen and try to alter history.",
+                "popularity": 1.0197,
+                "poster_path": "/cnhfXiqrJppDvo6nc5QgOAtRp2z.jpg",
+                "release_date": "1984-12-20",
+                "title": "Nothing Left to Do But Cry",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1155,
+                "credit_id": "61c2fbd048333a0062f2bffb",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gL8WqjpbkoOdo1y3qkt4GUkdDhV.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 13386,
+                "original_language": "it",
+                "original_title": "Ricomincio da tre",
+                "overview": "Gaetano, a young Neapolitan, decides to leave home, work and friends, to look for other moments of life and meet other people.",
+                "popularity": 2.4599,
+                "poster_path": "/lS0X9KScgkUbhiu6lOHBya8z9R2.jpg",
+                "release_date": "1981-03-05",
+                "title": "I'm Starting from Three",
+                "video": false,
+                "vote_average": 7.62,
+                "vote_count": 688,
+                "credit_id": "63e551df2fccee008fcf8d71",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gL8WqjpbkoOdo1y3qkt4GUkdDhV.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 13386,
+                "original_language": "it",
+                "original_title": "Ricomincio da tre",
+                "overview": "Gaetano, a young Neapolitan, decides to leave home, work and friends, to look for other moments of life and meet other people.",
+                "popularity": 2.4599,
+                "poster_path": "/lS0X9KScgkUbhiu6lOHBya8z9R2.jpg",
+                "release_date": "1981-03-05",
+                "title": "I'm Starting from Three",
+                "video": false,
+                "vote_average": 7.62,
+                "vote_count": 688,
+                "credit_id": "63e551e5c2ff3d00aad6168b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jBP00fK8DfAhmmc2d6y1nUkhdjY.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 27670,
+                "original_language": "it",
+                "original_title": "Non ci resta che piangere",
+                "overview": "Two 20th-century friends accidentally stumble into the year 1492, where they meet a charming teen and try to alter history.",
+                "popularity": 1.0197,
+                "poster_path": "/cnhfXiqrJppDvo6nc5QgOAtRp2z.jpg",
+                "release_date": "1984-12-20",
+                "title": "Nothing Left to Do But Cry",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1155,
+                "credit_id": "59d7682d925141252c00c174",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 11010,
+                "original_language": "it",
+                "original_title": "Il postino",
+                "overview": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+                "popularity": 1.7715,
+                "poster_path": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+                "release_date": "1994-04-07",
+                "title": "The Postman",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1173,
+                "credit_id": "5a1f0c2c925141033307dc60",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Massimo Troisi began his acting career in the theater and became famous for roles in television series.\n\nHe is best known for his roles in his own film Ricomincio da tre (1981), and in Michael Radford's The Postman (Il Postino) (1994).\n\nThe filmmaker Ettore Scola has also made him one of his leading performers, with three consecutive works: Splendor, What time is it? and The Voyage of Captain Fracasse.\n\nHeart disease when he had to shoot The Postman. His doctor had advised him not to do the filming to have the operation. He decided to postpone the operation after the shooting, this film being close to his heart.\n\nHe died of a heart attack, barely twelve hours after the end of filming.\n\nHe was posthumously nominated for two Oscars and two Golden Globes.",
+        "birthday": "1953-02-19",
+        "deathday": "1994-06-04",
+        "gender": 2,
+        "homepage": "http://it.wikipedia.org/wiki/Massimo_Troisi",
+        "id": 67792,
+        "imdb_id": "nm0873385",
+        "known_for_department": "Acting",
+        "name": "Massimo Troisi",
+        "place_of_birth": "San Giorgio a Cremano",
+        "popularity": 1.1389,
+        "profile_path": "/t3u1YkX8W5j95ZLnpREycgPu1x9.jpg"
+    }
+}

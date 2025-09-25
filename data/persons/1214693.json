@@ -1,0 +1,50 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3YDuN1mhQpYtCym4QatX0gkHahL.jpg",
+                "genre_ids": [
+                    10751,
+                    18
+                ],
+                "id": 404378,
+                "original_language": "en",
+                "original_title": "A Street Cat Named Bob",
+                "overview": "James Bowen, a homeless busker and recovering drug addict, has his life transformed when he meets a stray ginger cat.",
+                "popularity": 10.2153,
+                "poster_path": "/nBYG0D2FcbL1m926sIj7RN4m0sb.jpg",
+                "release_date": "2016-11-04",
+                "title": "A Street Cat Named Bob",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1495,
+                "character": "Peter Gruner",
+                "credit_id": "58fd2e82925141640b026685",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Robert S Jarvis",
+            "Robbie Jarvis",
+            "Robert Jarvis",
+            "\u7f57\u4f2f\u00b7\u8d3e\u7ef4\u65af"
+        ],
+        "biography": "Rob Jarvis is an actor.",
+        "birthday": "1965-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.ahatalent.co.uk/actor/rob-jarvis/",
+        "id": 1214693,
+        "imdb_id": "nm0419112",
+        "known_for_department": "Acting",
+        "name": "Rob Jarvis",
+        "place_of_birth": "Wirral, England, UK",
+        "popularity": 0.3122,
+        "profile_path": "/mpOlUCx7C7MsTpAvWEwbwWM2Cpw.jpg"
+    }
+}

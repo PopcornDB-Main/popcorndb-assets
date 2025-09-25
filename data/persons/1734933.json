@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 381284,
+                "original_language": "en",
+                "original_title": "Hidden Figures",
+                "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+                "popularity": 12.5756,
+                "poster_path": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+                "release_date": "2016-12-10",
+                "title": "Hidden Figures",
+                "video": false,
+                "vote_average": 8.052,
+                "vote_count": 10083,
+                "character": "Leonard Vaughan",
+                "credit_id": "5871c4abc3a3684f160115df",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284054,
+                "original_language": "en",
+                "original_title": "Black Panther",
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "popularity": 11.0085,
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "release_date": "2018-02-13",
+                "title": "Black Panther",
+                "video": false,
+                "vote_average": 7.369,
+                "vote_count": 22812,
+                "character": "Young T'Challa",
+                "credit_id": "5a8685d69251410a890328bc",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1734933,
+        "imdb_id": "nm8037970",
+        "known_for_department": "Acting",
+        "name": "Ashton Tyler",
+        "place_of_birth": null,
+        "popularity": 0.0863,
+        "profile_path": "/nVMGCpJmOyda68ZFuqPaXkGL5h7.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 7.2691,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1773,
+                "character": "CIA Agent",
+                "credit_id": "62f723afe323f3007bc94985",
+                "order": 85
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kWYHKVCl2aD3kRco4eRUr4h6LsD.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752,
+                    28
+                ],
+                "id": 2024,
+                "original_language": "en",
+                "original_title": "The Patriot",
+                "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                "popularity": 9.6201,
+                "poster_path": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+                "release_date": "2000-06-28",
+                "title": "The Patriot",
+                "video": false,
+                "vote_average": 7.181,
+                "vote_count": 4087,
+                "character": "Gen. George Washington",
+                "credit_id": "5acd621a0e0a2631f7035a8e",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1948-01-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2020770,
+        "imdb_id": "nm0493542",
+        "known_for_department": "Acting",
+        "name": "Terry Layman",
+        "place_of_birth": "Charlotte, North Carolina, USA",
+        "popularity": 0.0848,
+        "profile_path": null
+    }
+}

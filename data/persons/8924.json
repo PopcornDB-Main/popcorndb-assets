@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/t35dVtLN4H12XXtipJfIDEy2h7Y.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 3291,
+                "original_language": "en",
+                "original_title": "Good Night, and Good Luck.",
+                "overview": "The story of journalist Edward R. Murrow's stand against Senator Joseph McCarthy's anti-communist witch-hunts in the early 1950s.",
+                "popularity": 1.9569,
+                "poster_path": "/w4QSEno2xxHqMtSr3mPUhJpO3F2.jpg",
+                "release_date": "2005-09-16",
+                "title": "Good Night, and Good Luck.",
+                "video": false,
+                "vote_average": 7.077,
+                "vote_count": 1042,
+                "character": "William Paley",
+                "credit_id": "52fe438fc3a36847f805db27",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/20wSDAS6rUWhkZQ2PxPC9TRsAd1.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 11499,
+                "original_language": "en",
+                "original_title": "Frost/Nixon",
+                "overview": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured doubts about their boss's ability to hold his own. But as the cameras rolled, a charged battle of wits resulted.",
+                "popularity": 4.5484,
+                "poster_path": "/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+                "release_date": "2008-10-15",
+                "title": "Frost/Nixon",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 1232,
+                "character": "Richard Nixon",
+                "credit_id": "52fe444c9251416c7502fc5d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bWftGh0aLMzb8wetgziLq3fHpTJ.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 9769,
+                "original_language": "en",
+                "original_title": "Lolita",
+                "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+                "popularity": 11.1901,
+                "poster_path": "/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+                "release_date": "1997-09-27",
+                "title": "Lolita",
+                "video": false,
+                "vote_average": 7.135,
+                "vote_count": 1876,
+                "character": "Clare Quilty",
+                "credit_id": "52fe4529c3a36847f80bfd77",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mV2UZZHYiWPKH0AwtMSil1T7DUH.jpg",
+                "genre_ids": [
+                    878,
+                    35,
+                    18,
+                    80
+                ],
+                "id": 84329,
+                "original_language": "en",
+                "original_title": "Robot & Frank",
+                "overview": "Curmudgeonly old Frank lives by himself. His routine involves daily visits to his local library, where he has a twinkle in his eye for the librarian. His grown children are concerned about their father\u2019s well-being and buy him a caretaker robot. Initially resistant to the idea, Frank soon appreciates the benefits of robotic support \u2013 like nutritious meals and a clean house \u2013 and eventually begins to treat his robot like a true companion. With his robot\u2019s assistance, Frank\u2019s passion for his old, unlawful profession is reignited, for better or worse.",
+                "popularity": 1.7838,
+                "poster_path": "/602vUwe1GPmaRvcrT3OQWqH1Nm1.jpg",
+                "release_date": "2012-08-24",
+                "title": "Robot & Frank",
+                "video": false,
+                "vote_average": 6.912,
+                "vote_count": 1117,
+                "character": "Frank",
+                "credit_id": "52fe48eb9251416c9109cb03",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 334533,
+                "original_language": "en",
+                "original_title": "Captain Fantastic",
+                "overview": "Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.",
+                "popularity": 5.3481,
+                "poster_path": "/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+                "release_date": "2016-07-08",
+                "title": "Captain Fantastic",
+                "video": false,
+                "vote_average": 7.892,
+                "vote_count": 6607,
+                "character": "Jack Bertrang",
+                "credit_id": "5521b3fa92514170960019ef",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 556984,
+                "original_language": "en",
+                "original_title": "The Trial of the Chicago 7",
+                "overview": "What was supposed to be a peaceful protest turned into a violent clash with the police. What followed was one of the most notorious trials in history.",
+                "popularity": 3.17,
+                "poster_path": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+                "release_date": "2020-09-25",
+                "title": "The Trial of the Chicago 7",
+                "video": false,
+                "vote_average": 7.677,
+                "vote_count": 3174,
+                "character": "Judge Julius Hoffman",
+                "credit_id": "5d685f1913af5f7d25bbc74d",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Frank A. Langella Jr.",
+            "\u0641\u0631\u0627\u0646\u06a9 \u0644\u0627\u0646\u06af\u0644\u0627"
+        ],
+        "biography": "Frank A. Langella, Jr. is an American stage and film actor. He has received four Tony Awards (out of seven nominations) as well as nominations for an Academy Award, a BAFTA Award, an Emmy Award, and two Golden Globe Awards. Langella's notable film roles include parts in Diary of a Mad Housewife (1970), Mel Brooks\u2019s The Twelve Chairs (1970), Dracula (1979), Dave (1993), The Ninth Gate (1999), Good Night, and Good Luck (2005), Starting Out in the Evening (2007), Frost/Nixon (2008), Wall Street: Money Never Sleeps (2010), All Good Things (2010), Robot & Frank (2012), Noah (2014), Captain Fantastic (2016), and The Trial of the Chicago 7 (2020). On television, Langella had recurring roles in The Americans (2013\u20132017) and Kidding (2018\u20132020).",
+        "birthday": "1938-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8924,
+        "imdb_id": "nm0001449",
+        "known_for_department": "Acting",
+        "name": "Frank Langella",
+        "place_of_birth": "Bayonne, New Jersey, USA",
+        "popularity": 0.8688,
+        "profile_path": "/86DEo3sBguyc1l46606yVKD28T4.jpg"
+    }
+}

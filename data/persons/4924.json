@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 387,
+                "original_language": "de",
+                "original_title": "Das Boot",
+                "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+                "popularity": 4.05,
+                "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+                "release_date": "1981-09-17",
+                "title": "Das Boot",
+                "video": false,
+                "vote_average": 8.085,
+                "vote_count": 2345,
+                "character": "Second Watch Officer",
+                "credit_id": "52fe423dc3a36847f800ea9f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 424,
+                "original_language": "en",
+                "original_title": "Schindler's List",
+                "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+                "popularity": 14.6569,
+                "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                "release_date": "1993-12-15",
+                "title": "Schindler's List",
+                "video": false,
+                "vote_average": 8.566,
+                "vote_count": 16703,
+                "character": "SS Waffen Man",
+                "credit_id": "5a47d7510e0a264892001ab4",
+                "order": 68
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "From Wikipedia, the free encyclopedia\n\nMartin Semmelrogge (born 8 December 1955, Boll-Eckw\u00e4lden, Bad Boll, Germany) is a German actor, best known for his role as the comical 2WO (1st Lieutenant/Second Watch Officer) in the film Das Boot. He is the brother of former actor Joachim Bernhard, who appeared in Das Boot as the religious sailor.\n\nLike many of his Das Boot co-stars, Semmelrogge went on to have a successful career in the German cinema.",
+        "birthday": "1955-12-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4924,
+        "imdb_id": "nm0783847",
+        "known_for_department": "Acting",
+        "name": "Martin Semmelrogge",
+        "place_of_birth": "Bad Boll, Germany",
+        "popularity": 0.2858,
+        "profile_path": "/w8UBZMC8SAX9ldIVaFkC1q0hNLo.jpg"
+    }
+}

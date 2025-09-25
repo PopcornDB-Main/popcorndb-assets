@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    36,
+                    53
+                ],
+                "id": 388399,
+                "original_language": "en",
+                "original_title": "Patriots Day",
+                "overview": "In the aftermath of an unspeakable act of terror, Police Sergeant Tommy Saunders joins courageous survivors, first responders and investigators in a race against the clock to hunt down the Boston Marathon bombers before they strike again.",
+                "popularity": 5.9051,
+                "poster_path": "/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg",
+                "release_date": "2016-12-12",
+                "title": "Patriots Day",
+                "video": false,
+                "vote_average": 7.058,
+                "vote_count": 2725,
+                "character": "Michael Thomas",
+                "credit_id": "5b3730270e0a263ff3036ace",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    10749
+                ],
+                "id": 776503,
+                "original_language": "en",
+                "original_title": "CODA",
+                "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+                "popularity": 7.0338,
+                "poster_path": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+                "release_date": "2021-08-13",
+                "title": "CODA",
+                "video": false,
+                "vote_average": 7.908,
+                "vote_count": 2391,
+                "character": "Tony Salgado",
+                "credit_id": "5fdfc33cbbe1dd00411edbd8",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 935624,
+        "imdb_id": "nm0278468",
+        "known_for_department": "Acting",
+        "name": "John Fiore",
+        "place_of_birth": null,
+        "popularity": 0.6511,
+        "profile_path": "/7HFyWiaFR2TVC249RQ2oB1hveoB.jpg"
+    }
+}

@@ -1,0 +1,398 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1675,
+                "original_language": "fr",
+                "original_title": "La Nuit am\u00e9ricaine",
+                "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+                "popularity": 2.5822,
+                "poster_path": "/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+                "release_date": "1973-05-24",
+                "title": "Day for Night",
+                "video": false,
+                "vote_average": 7.773,
+                "vote_count": 622,
+                "character": "Ferrand, the Director",
+                "credit_id": "52fe430bc3a36847f80362bd",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/u9ZLyLvqHY5VDjn0Rs4LKAklsAV.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 840,
+                "original_language": "en",
+                "original_title": "Close Encounters of the Third Kind",
+                "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+                "popularity": 5.357,
+                "poster_path": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+                "release_date": "1977-12-14",
+                "title": "Close Encounters of the Third Kind",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 4399,
+                "character": "Claude Lacombe",
+                "credit_id": "52fe427ec3a36847f802349d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.1065,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.024,
+                "vote_count": 2226,
+                "character": "Man in Funfair (uncredited)",
+                "credit_id": "5457f0e5c3a368399d00014c",
+                "order": 29
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.1065,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.024,
+                "vote_count": 2226,
+                "credit_id": "52fe421ec3a36847f8005651",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.1065,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.024,
+                "vote_count": 2226,
+                "credit_id": "52fe421ec3a36847f800565d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1628,
+                "original_language": "fr",
+                "original_title": "Jules et Jim",
+                "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+                "popularity": 2.5324,
+                "poster_path": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+                "release_date": "1962-01-23",
+                "title": "Jules and Jim",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 1013,
+                "credit_id": "52fe4306c3a36847f8034abb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1628,
+                "original_language": "fr",
+                "original_title": "Jules et Jim",
+                "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+                "popularity": 2.5324,
+                "poster_path": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+                "release_date": "1962-01-23",
+                "title": "Jules and Jim",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 1013,
+                "credit_id": "52fe4306c3a36847f8034ac1",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1675,
+                "original_language": "fr",
+                "original_title": "La Nuit am\u00e9ricaine",
+                "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+                "popularity": 2.5822,
+                "poster_path": "/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+                "release_date": "1973-05-24",
+                "title": "Day for Night",
+                "video": false,
+                "vote_average": 7.773,
+                "vote_count": 622,
+                "credit_id": "52fe430bc3a36847f803629f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6MbFN88F27WvGC9WhAXq5KUIgTj.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1675,
+                "original_language": "fr",
+                "original_title": "La Nuit am\u00e9ricaine",
+                "overview": "A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+                "popularity": 2.5822,
+                "poster_path": "/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg",
+                "release_date": "1973-05-24",
+                "title": "Day for Night",
+                "video": false,
+                "vote_average": 7.773,
+                "vote_count": 622,
+                "credit_id": "52fe430bc3a36847f80362a5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oi7D7gBwTpaDqSx9jaXmkT7Yaai.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 269,
+                "original_language": "fr",
+                "original_title": "\u00c0 bout de souffle",
+                "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
+                "popularity": 2.9267,
+                "poster_path": "/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+                "release_date": "1960-03-16",
+                "title": "Breathless",
+                "video": false,
+                "vote_average": 7.517,
+                "vote_count": 1904,
+                "credit_id": "5766919b9251410c4d00074f",
+                "department": "Writing",
+                "job": "Original Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.1065,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.024,
+                "vote_count": 2226,
+                "credit_id": "5e3e417f98f1f100180f37f6",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.1065,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.024,
+                "vote_count": 2226,
+                "credit_id": "5e3e418a0c271000157b0059",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1628,
+                "original_language": "fr",
+                "original_title": "Jules et Jim",
+                "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+                "popularity": 2.5324,
+                "poster_path": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+                "release_date": "1962-01-23",
+                "title": "Jules and Jim",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 1013,
+                "credit_id": "5e38ebc6ac8e6b0011c7f608",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 1714,
+                "original_language": "en",
+                "original_title": "Fahrenheit 451",
+                "overview": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as \u201cfiremen,\u201d to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation\u2026",
+                "popularity": 1.8335,
+                "poster_path": "/k2CTpexoS9MO9lKVFfnzwVdJuM.jpg",
+                "release_date": "1966-09-07",
+                "title": "Fahrenheit 451",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 1018,
+                "credit_id": "5edc4f1e8d52c90027a5693b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 1714,
+                "original_language": "en",
+                "original_title": "Fahrenheit 451",
+                "overview": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as \u201cfiremen,\u201d to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation\u2026",
+                "popularity": 1.8335,
+                "poster_path": "/k2CTpexoS9MO9lKVFfnzwVdJuM.jpg",
+                "release_date": "1966-09-07",
+                "title": "Fahrenheit 451",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 1018,
+                "credit_id": "5edc4f3cf36a32001d8994c2",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+                "genre_ids": [
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 144,
+                "original_language": "de",
+                "original_title": "Der Himmel \u00fcber Berlin",
+                "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
+                "popularity": 3.9421,
+                "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+                "release_date": "1987-09-23",
+                "title": "Wings of Desire",
+                "video": false,
+                "vote_average": 7.783,
+                "vote_count": 1411,
+                "credit_id": "603c2466e267de006a507e0e",
+                "department": "Crew",
+                "job": "In Memory Of"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oi7D7gBwTpaDqSx9jaXmkT7Yaai.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 269,
+                "original_language": "fr",
+                "original_title": "\u00c0 bout de souffle",
+                "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
+                "popularity": 2.9267,
+                "poster_path": "/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+                "release_date": "1960-03-16",
+                "title": "Breathless",
+                "video": false,
+                "vote_average": 7.517,
+                "vote_count": 1904,
+                "credit_id": "677107851f2c5d9301928f15",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud504\ub791\uc218\uc544 \ud2b8\ub93c\ud3ec",
+            "\u5f17\u6717\u7d22\u74e6\u00b7\u7279\u5415\u5f17",
+            "\ud504\ub791\uc18c\uc640 \ud2b8\ub93c\ud3ec"
+        ],
+        "biography": "Fran\u00e7ois Roland Truffaut (February 6, 1932 \u2013 October 21, 1984) was an influential film critic and filmmaker and one of the founders of the French New Wave. In a film career lasting over a quarter of a century, he remains an icon of the French film industry. He was also a screenwriter, producer, and actor working on over twenty-five films. Along with Jean-Luc Godard, Truffaut was one of the most influential figures of the French New Wave, inspiring directors such as Steven Spielberg, Quentin Tarantino, Brian De Palma, Martin Scorsese and Wes Anderson.",
+        "birthday": "1932-02-06",
+        "deathday": "1984-10-21",
+        "gender": 2,
+        "homepage": null,
+        "id": 1650,
+        "imdb_id": "nm0000076",
+        "known_for_department": "Directing",
+        "name": "Fran\u00e7ois Truffaut",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.5429,
+        "profile_path": "/75zp0S5OTo8Y6nLOzherJ9s656A.jpg"
+    }
+}

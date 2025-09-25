@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 11,
+                "original_language": "en",
+                "original_title": "Star Wars",
+                "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+                "popularity": 15.836,
+                "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+                "release_date": "1977-05-25",
+                "title": "Star Wars",
+                "video": false,
+                "vote_average": 8.206,
+                "vote_count": 21485,
+                "character": "Cmdr. Praji (Imperial Officer #2 on rebel ship) (uncredited)",
+                "credit_id": "52fe420ec3a36847f80005b3",
+                "order": 80
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2hABgVIhalvUB30Z2kIPVv8YX9n.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1654,
+                "original_language": "en",
+                "original_title": "The Dirty Dozen",
+                "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy ch\u00e2teau and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+                "popularity": 5.6514,
+                "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+                "release_date": "1967-06-15",
+                "title": "The Dirty Dozen",
+                "video": false,
+                "vote_average": 7.596,
+                "vote_count": 1257,
+                "character": "Pvt. Arthur James Gardner",
+                "credit_id": "55e1e79fc3a3680b6c000061",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1935-05-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 110319,
+        "imdb_id": "nm0745528",
+        "known_for_department": "Acting",
+        "name": "George Roubicek",
+        "place_of_birth": "Vienna, Austria",
+        "popularity": 0.6168,
+        "profile_path": null
+    }
+}

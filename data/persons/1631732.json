@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 8.4623,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.923,
+                "vote_count": 4523,
+                "character": "Ring Announcer (Second Robinson Fight / Dauthuille Fight)",
+                "credit_id": "63c2b82be16e5a0081929eca",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9U4Di9iOslz3eJ9eRkdg5Qrf9JY.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1371,
+                "original_language": "en",
+                "original_title": "Rocky III",
+                "overview": "Following Rocky Balboa's intense battle with his most powerful adversary yet \u2013 the ferocious Clubber Lang \u2013 Rocky joins forces with former rival Apollo Creed in an effort to get back his fighting spirit.",
+                "popularity": 6.4605,
+                "poster_path": "/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+                "release_date": "1982-05-28",
+                "title": "Rocky III",
+                "video": false,
+                "vote_average": 6.895,
+                "vote_count": 4304,
+                "character": "Title Announcer",
+                "credit_id": "5e7368edcabfe400111c23e7",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James F. 'Jimmy' Lennon",
+            "Jimmy Lennon",
+            "James F. Lennon"
+        ],
+        "biography": "",
+        "birthday": "1913-04-12",
+        "deathday": "1992-04-20",
+        "gender": 2,
+        "homepage": null,
+        "id": 1631732,
+        "imdb_id": "nm0502021",
+        "known_for_department": "Acting",
+        "name": "Jimmy Lennon Sr.",
+        "place_of_birth": " St. Paul, Minnesota, USA",
+        "popularity": 0.1141,
+        "profile_path": null
+    }
+}

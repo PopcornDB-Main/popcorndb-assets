@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "Soldier on the Beach",
+                "credit_id": "59f51037c3a3681fc901f26e",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GZVHgJUcVyytQRJ533GpMavAcL.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 7984,
+                "original_language": "en",
+                "original_title": "In the Name of the Father",
+                "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
+                "popularity": 2.6913,
+                "poster_path": "/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+                "release_date": "1993-12-12",
+                "title": "In the Name of the Father",
+                "video": false,
+                "vote_average": 7.896,
+                "vote_count": 1845,
+                "character": "Young Vincent Maguire",
+                "credit_id": "59f51a4b9251414d05020321",
+                "order": 53
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1913590,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Maclean Burke",
+        "place_of_birth": null,
+        "popularity": 0.0453,
+        "profile_path": "/lYHbLV6spID2N2szMHEzNTDmNmW.jpg"
+    }
+}

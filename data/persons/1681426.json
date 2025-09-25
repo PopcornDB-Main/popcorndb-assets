@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 9.4091,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 4063,
+                "character": "News Vendor",
+                "credit_id": "57def806c3a36812c60085be",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 262,
+                "original_language": "en",
+                "original_title": "The King of Comedy",
+                "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.",
+                "popularity": 4.1987,
+                "poster_path": "/3BM78deUfeZfShqPTblZuamgC8a.jpg",
+                "release_date": "1982-12-18",
+                "title": "The King of Comedy",
+                "video": false,
+                "vote_average": 7.784,
+                "vote_count": 2452,
+                "character": "Cabbie",
+                "credit_id": "5b5ba40a0e0a262e8d006fda",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1681426,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Matt Russo",
+        "place_of_birth": null,
+        "popularity": 0.3022,
+        "profile_path": "/lEGPpCGaQSOS5QcEow1QD1kwvPY.jpg"
+    }
+}

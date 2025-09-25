@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6zIOO1NrTehQkDaNfvga4luSRQc.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1548,
+                "original_language": "en",
+                "original_title": "Ghost World",
+                "overview": "Two quirky, cynical teenaged girls try to figure out what to do with their lives after high school graduation. After they play a prank on an eccentric, middle aged record collector, one of them befriends him, which causes a rift in the girls\u2019 friendship.",
+                "popularity": 1.8931,
+                "poster_path": "/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+                "release_date": "2001-07-20",
+                "title": "Ghost World",
+                "video": false,
+                "vote_average": 7.082,
+                "vote_count": 1489,
+                "character": "Masterpiece Video Employee",
+                "credit_id": "59c693a1c3a3681430048d89",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ySmjHc3LZd4VmmIa6sgwkMIm6xl.jpg",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 771,
+                "original_language": "en",
+                "original_title": "Home Alone",
+                "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+                "popularity": 0.6736,
+                "poster_path": "/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
+                "release_date": "1990-11-16",
+                "title": "Home Alone",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 11856,
+                "character": "Steffan",
+                "credit_id": "59c69411c3a36813ed047ca0",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1978-06-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 148637,
+        "imdb_id": "nm0230596",
+        "known_for_department": "Acting",
+        "name": "Matt Doherty",
+        "place_of_birth": "Harvey, Illinois, USA",
+        "popularity": 0.2122,
+        "profile_path": "/yKB3ulgNLMzIvqDwSYW29OFoZlu.jpg"
+    }
+}

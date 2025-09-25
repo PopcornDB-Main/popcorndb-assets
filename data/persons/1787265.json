@@ -1,0 +1,256 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5e8V714wUtpPgMD9xD8NjTEqlyu.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 14746,
+                "original_language": "en",
+                "original_title": "Streets of Fire",
+                "overview": "Raven Shaddock and his gang of merciless biker friends kidnap rock singer Ellen Aim. Ellen's former lover, soldier-for-hire Tom Cody, happens to be passing through town on a visit. In an attempt to save his star act, Ellen's manager hires Tom to rescue her. Along with a former soldier, they battle through dangerous cityscapes, determined to get Ellen back.",
+                "popularity": 3.7895,
+                "poster_path": "/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+                "release_date": "1984-06-01",
+                "title": "Streets of Fire",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 520,
+                "character": "Richmond Citizen (uncredited)",
+                "credit_id": "62dec450e9da691496f31e5d",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 8.4623,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.923,
+                "vote_count": 4523,
+                "character": "Mall Patron (uncredited)",
+                "credit_id": "63c2bfc88efe7300a0eb61ff",
+                "order": 102
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    18,
+                    10751
+                ],
+                "id": 1885,
+                "original_language": "en",
+                "original_title": "The Karate Kid",
+                "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+                "popularity": 6.3425,
+                "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+                "release_date": "1984-06-22",
+                "title": "The Karate Kid",
+                "video": false,
+                "vote_average": 7.209,
+                "vote_count": 4466,
+                "character": "Guy at Halloween Dance (uncredited)",
+                "credit_id": "5cfd65e992514173edba9b68",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    9648,
+                    10749
+                ],
+                "id": 782,
+                "original_language": "en",
+                "original_title": "Gattaca",
+                "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+                "popularity": 6.9278,
+                "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+                "release_date": "1997-09-07",
+                "title": "Gattaca",
+                "video": false,
+                "vote_average": 7.564,
+                "vote_count": 6609,
+                "character": "Invalid (uncredited)",
+                "credit_id": "6883b12e7ba2f888ac55e5b0",
+                "order": 37
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 8.6182,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 4776,
+                "credit_id": "6505e36cfa27f4012d5a2f7b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1850,
+                "original_language": "en",
+                "original_title": "Man on the Moon",
+                "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+                "popularity": 4.1341,
+                "poster_path": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+                "release_date": "1999-12-22",
+                "title": "Man on the Moon",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1868,
+                "credit_id": "656939f5cf48a100c7c7856d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 1547,
+                "original_language": "en",
+                "original_title": "The Lost Boys",
+                "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+                "popularity": 6.052,
+                "poster_path": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+                "release_date": "1987-07-31",
+                "title": "The Lost Boys",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2166,
+                "credit_id": "59a939ac92514157ab02a275",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5JaR6UEoCJJLtLpqFOVMY4O4R7P.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 949,
+                "original_language": "en",
+                "original_title": "Heat",
+                "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+                "popularity": 10.0455,
+                "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+                "release_date": "1995-12-15",
+                "title": "Heat",
+                "video": false,
+                "vote_average": 7.922,
+                "vote_count": 7791,
+                "credit_id": "6438ca04ab6849012619f057",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 9.361,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.309,
+                "vote_count": 6101,
+                "credit_id": "66b3d4e58258b74bcca87c70",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 4.7945,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2408,
+                "credit_id": "6850e813c3e6e8f13ebbd574",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David Le Bell",
+            "David LaBell",
+            "David Lebel",
+            "David Lebell"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1787265,
+        "imdb_id": "nm0495588",
+        "known_for_department": "Crew",
+        "name": "David LeBell",
+        "place_of_birth": null,
+        "popularity": 0.4139,
+        "profile_path": null
+    }
+}

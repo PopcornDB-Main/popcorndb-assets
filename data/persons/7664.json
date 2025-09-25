@@ -1,0 +1,186 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+                "genre_ids": [
+                    9648,
+                    18
+                ],
+                "id": 15,
+                "original_language": "en",
+                "original_title": "Citizen Kane",
+                "overview": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+                "popularity": 6.1449,
+                "poster_path": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+                "release_date": "1941-04-17",
+                "title": "Citizen Kane",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 5751,
+                "character": "Jedediah Leland",
+                "credit_id": "52fe420ec3a36847f800088f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/l2iY1AgqQ8dEa3FtWkN5TQ5aVbU.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 1092,
+                "original_language": "en",
+                "original_title": "The Third Man",
+                "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+                "popularity": 3.5645,
+                "poster_path": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+                "release_date": "1949-08-31",
+                "title": "The Third Man",
+                "video": false,
+                "vote_average": 7.915,
+                "vote_count": 1989,
+                "character": "Holly Martins",
+                "credit_id": "52fe42e7c3a36847f802babd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ousBoWTm1CltjAGSYOELYP0jFFC.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 1480,
+                "original_language": "en",
+                "original_title": "Touch of Evil",
+                "overview": "When a car bomb explodes on the American side of the U.S./Mexico border, Mexican drug enforcement agent Miguel Vargas begins his investigation, along with American police captain Hank Quinlan. When Vargas begins to suspect that Quinlan and his shady partner, Menzies, are planting evidence to frame an innocent man, his investigations into their possible corruption quickly put himself and his new bride, Susie, in jeopardy.",
+                "popularity": 2.8972,
+                "poster_path": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+                "release_date": "1958-03-30",
+                "title": "Touch of Evil",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 1511,
+                "character": "Coroner (uncredited)",
+                "credit_id": "52fe42f8c3a36847f8030cd5",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bhEJZ6XH1B9ld97OWppdAnvWzl5.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    18
+                ],
+                "id": 11165,
+                "original_language": "en",
+                "original_title": "Tora! Tora! Tora!",
+                "overview": "In the summer of 1941, the United States and Japan seem on the brink of war after constant embargos and failed diplomacy come to no end. \"Tora! Tora! Tora!\", named after the code words used by the lead Japanese pilot to indicate they had surprised the Americans, covers the days leading up to the attack on Pearl Harbor, which plunged America into the Second World War.",
+                "popularity": 3.337,
+                "poster_path": "/c311sN931DixuZRer0JGYCwpx9N.jpg",
+                "release_date": "1970-01-26",
+                "title": "Tora! Tora! Tora!",
+                "video": false,
+                "vote_average": 7.149,
+                "vote_count": 566,
+                "character": "Henry L. Stimson",
+                "credit_id": "52fe44059251416c75026461",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lV4504ucv4Y0AtNMSrlgk7TwiIC.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 21734,
+                "original_language": "en",
+                "original_title": "Shadow of a Doubt",
+                "overview": "Just when Charlie is feeling especially frustrated by the lack of excitement in her small town in California, she receives wonderful news: Her uncle and namesake, Charlie, is coming to visit. However, as secrets about him come to the fore, her admiration turns into suspicion.",
+                "popularity": 3.5501,
+                "poster_path": "/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+                "release_date": "1943-01-15",
+                "title": "Shadow of a Doubt",
+                "video": false,
+                "vote_average": 7.508,
+                "vote_count": 1081,
+                "character": "Uncle Charlie",
+                "credit_id": "52fe4424c3a368484e011f61",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.4741,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 1337,
+                "character": "William R. Simonson",
+                "credit_id": "52fe44b49251416c7503e295",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 13528,
+                "original_language": "en",
+                "original_title": "Gaslight",
+                "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+                "popularity": 3.4134,
+                "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+                "release_date": "1944-05-04",
+                "title": "Gaslight",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 515,
+                "character": "Brian Cameron",
+                "credit_id": "52fe45769251416c75057653",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph Cheshire Cotten, Jr.",
+            "\u0414\u0436\u043e\u0437\u0435\u0444 \u041a\u043e\u0442\u0442\u0435\u043d",
+            "Joseph Cheshire Cotten"
+        ],
+        "biography": "Joseph Cheshire Cotten was an American actor of stage and film. Cotten achieved prominence on Broadway, starring in the original productions of The Philadelphia Story and Sabrina Fair. He is associated with Orson Welles, leading to appearances in Citizen Kane (1941), The Magnificent Ambersons (1942), Journey into Fear (1943), for which Cotten was also credited with the screenplay, and The Third Man (1949). He was a star in his own right with films such as Shadow of a Doubt (1943), Love Letters (1945), Portrait of Jennie (1948), and The Third Man (1949).",
+        "birthday": "1905-05-15",
+        "deathday": "1994-02-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 7664,
+        "imdb_id": "nm0001072",
+        "known_for_department": "Acting",
+        "name": "Joseph Cotten",
+        "place_of_birth": "Petersburg, Virginia, USA",
+        "popularity": 0.5253,
+        "profile_path": "/pnfhmmCyo82lHcps42A1COobaxt.jpg"
+    }
+}

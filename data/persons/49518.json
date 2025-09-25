@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ugDZGeweSN9EH8XrLaBHLm5AxuA.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 6404,
+                "original_language": "de",
+                "original_title": "Nosferatu - Phantom der Nacht",
+                "overview": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
+                "popularity": 3.3834,
+                "poster_path": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
+                "release_date": "1979-01-17",
+                "title": "Nosferatu the Vampyre",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 1015,
+                "character": "Crier",
+                "credit_id": "52fe4450c3a36847f808ec1d",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 5902,
+                "original_language": "en",
+                "original_title": "A Bridge Too Far",
+                "overview": "The story of Operation Market Garden\u2014a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+                "popularity": 8.5375,
+                "poster_path": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+                "release_date": "1977-06-15",
+                "title": "A Bridge Too Far",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 871,
+                "character": "Old Dutch Couple",
+                "credit_id": "5a076465c3a368341c002fc2",
+                "order": 64
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1906-06-15",
+        "deathday": "1980-05-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 49518,
+        "imdb_id": "nm0805101",
+        "known_for_department": "Acting",
+        "name": "Johan te Slaa",
+        "place_of_birth": "Hilversum, North Holland, Netherlands",
+        "popularity": 0.309,
+        "profile_path": null
+    }
+}

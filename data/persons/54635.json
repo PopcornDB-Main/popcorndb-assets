@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/e65E7jH5bKMSgHJnWLw4ex02Dyu.jpg",
+                "genre_ids": [
+                    37,
+                    18,
+                    28,
+                    10749
+                ],
+                "id": 2055,
+                "original_language": "en",
+                "original_title": "Open Range",
+                "overview": "A former gunslinger is forced to take up arms again when he and his cattle crew are threatened by a corrupt lawman.",
+                "popularity": 3.5868,
+                "poster_path": "/5bmt52Fijy71W0E72on8xnnYHgP.jpg",
+                "release_date": "2003-08-11",
+                "title": "Open Range",
+                "video": false,
+                "vote_average": 7.221,
+                "vote_count": 1145,
+                "character": "Ray",
+                "credit_id": "6671b484f6bf3c2d62e230ba",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 142,
+                "original_language": "en",
+                "original_title": "Brokeback Mountain",
+                "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+                "popularity": 9.9095,
+                "poster_path": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+                "release_date": "2005-10-22",
+                "title": "Brokeback Mountain",
+                "video": false,
+                "vote_average": 7.785,
+                "vote_count": 7274,
+                "character": "Rodeo Clown",
+                "credit_id": "5ad17b4dc3a3683eed006704",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "J. Tom Carey"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 54635,
+        "imdb_id": "nm1059824",
+        "known_for_department": "Acting",
+        "name": "Tom Carey",
+        "place_of_birth": null,
+        "popularity": 0.4565,
+        "profile_path": "/dArwDNy04uJqEWeGI2zMCjm8kNl.jpg"
+    }
+}

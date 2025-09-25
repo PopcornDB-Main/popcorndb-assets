@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sgsW7aqUXg4jG2GcoLKotSvp807.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 24226,
+                "original_language": "en",
+                "original_title": "The Verdict",
+                "overview": "Frank Galvin is a down-on-his-luck lawyer and reduced to drinking and ambulance chasing, when a former associate reminds him of his obligations in a medical malpractice suit by serving it to Galvin on a silver platter\u2014all parties are willing to settle out of court. Blundering his way through the preliminaries, Galvin suddenly realizes that the case should actually go to court\u2014to punish the guilty, to get a decent settlement for his clients... and to restore his standing as a lawyer.",
+                "popularity": 4.6861,
+                "poster_path": "/m3DdNJZfBcsTiFe0SwsLChWavrG.jpg",
+                "release_date": "1982-12-08",
+                "title": "The Verdict",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 674,
+                "character": "Courthouse Lawyer",
+                "credit_id": "619222aebc8abc002c308607",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 13626,
+                "character": "Security Guard with Lobsters",
+                "credit_id": "59bcd029925141354a00ad1b",
+                "order": 122
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1888848,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "H. Clay Dear",
+        "place_of_birth": null,
+        "popularity": 0.0492,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.5468,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.157,
+                "vote_count": 1561,
+                "character": "Nichols",
+                "credit_id": "66f222b32d98d59ce13b3564",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1942-05-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 114272,
+        "imdb_id": "nm0378261",
+        "known_for_department": "Acting",
+        "name": "Alex Henteloff",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.6987,
+        "profile_path": null
+    }
+}

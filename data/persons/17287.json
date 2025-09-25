@@ -1,0 +1,209 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1271,
+                "original_language": "en",
+                "original_title": "300",
+                "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+                "popularity": 10.1488,
+                "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+                "release_date": "2007-03-07",
+                "title": "300",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 14203,
+                "character": "Theron",
+                "credit_id": "52fe42ecc3a36847f802d279",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/euxYhuuJjChU755u2YHj0ZPjww3.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 1574,
+                "original_language": "en",
+                "original_title": "Chicago",
+                "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.",
+                "popularity": 4.9513,
+                "poster_path": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+                "release_date": "2002-12-10",
+                "title": "Chicago",
+                "video": false,
+                "vote_average": 7.119,
+                "vote_count": 2746,
+                "character": "Fred Casely",
+                "credit_id": "52fe42ffc3a36847f8032b99",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/trfjdJI51Krnig9UmxJQkz15ICo.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 11820,
+                "original_language": "en",
+                "original_title": "Mona Lisa Smile",
+                "overview": "Katherine Watson is a recent UCLA graduate hired to teach art history at the prestigious all-female Wellesley College, in 1953. Determined to confront the outdated mores of society and the institution that embraces them, Katherine inspires her traditional students, including Betty and Joan, to challenge the lives they are expected to lead.",
+                "popularity": 3.3655,
+                "poster_path": "/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+                "release_date": "2003-12-19",
+                "title": "Mona Lisa Smile",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1815,
+                "character": "Bill Dunbar",
+                "credit_id": "52fe448c9251416c75038967",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1tqzKtAWMRURxPTvs1hzcSOoKxe.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 234200,
+                "original_language": "en",
+                "original_title": "Pride",
+                "overview": "In 1984, a group of LGBT activists decide to raise money to support the National Union of Mineworkers during their lengthy strike. There is only one problem: the Union seems embarrassed to receive their support.",
+                "popularity": 3.2875,
+                "poster_path": "/mrITqHNw0XzT7egAPByDuiE3QZf.jpg",
+                "release_date": "2014-09-12",
+                "title": "Pride",
+                "video": false,
+                "vote_average": 7.704,
+                "vote_count": 1357,
+                "character": "Jonathan",
+                "credit_id": "52fe4e2ec3a36847f8282539",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jD0mmfqPRpvJUaPdpLl1vMj38CA.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    10752
+                ],
+                "id": 284689,
+                "original_language": "en",
+                "original_title": "Testament of Youth",
+                "overview": "Testament of Youth is a powerful story of love, war and remembrance, based on the First World War memoir by Vera Brittain, which has become the classic testimony of that war from a woman\u2019s point of view. A searing journey from youthful hopes and dreams to the edge of despair and back again, it\u2019s a film about young love, the futility of war and how to make sense of the darkest times.",
+                "popularity": 4.3104,
+                "poster_path": "/a6kFsaDCulCLfYHmKLDKTYaddM4.jpg",
+                "release_date": "2015-01-16",
+                "title": "Testament of Youth",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 771,
+                "character": "Mr. Brittain",
+                "credit_id": "53dbabd6c3a36821c7000f1d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o11rDwFa7nZMVI57Mm3C44YwmmF.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 127380,
+                "original_language": "en",
+                "original_title": "Finding Dory",
+                "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+                "popularity": 6.5004,
+                "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+                "release_date": "2016-06-16",
+                "title": "Finding Dory",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 12361,
+                "character": "Rudder (voice)",
+                "credit_id": "568f0081c3a36858f4003b7b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/um7DVcGyLvImgAdn5JGpjIudYSV.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 454652,
+                "original_language": "en",
+                "original_title": "Colette",
+                "overview": "After marrying a successful Parisian writer known commonly as Willy, Sidonie-Gabrielle Colette is transplanted from her childhood home in rural France to the intellectual and artistic splendor of Paris. Soon after, Willy convinces Colette to ghostwrite for him. She pens a semi-autobiographical novel about a witty and brazen country girl named Claudine, sparking a bestseller and a cultural sensation. After its success, Colette and Willy become the talk of Paris and their adventures inspire additional Claudine novels.",
+                "popularity": 3.0312,
+                "poster_path": "/z73Wer1DgObAwWnqZlOyeI33ROY.jpg",
+                "release_date": "2018-09-21",
+                "title": "Colette",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 922,
+                "character": "Willy",
+                "credit_id": "59666381c3a368253c10e35b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nBHKT3pm5DmidZd5VS4bD5Hc2S3.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 820446,
+                "original_language": "en",
+                "original_title": "Downton Abbey: A New Era",
+                "overview": "The Crawley family goes on a grand journey to the south of France to uncover the mystery of the dowager countess's newly inherited villa. Meanwhile, a Hollywood director seeks to film his latest production at Downton.",
+                "popularity": 9.0864,
+                "poster_path": "/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+                "release_date": "2022-04-27",
+                "title": "Downton Abbey: A New Era",
+                "video": false,
+                "vote_average": 7.236,
+                "vote_count": 540,
+                "character": "Guy Dexter",
+                "credit_id": "607da23dc2823a0029eafc3b",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u043e\u043c\u0438\u043d\u0438\u043a \u0423\u044d\u0441\u0442",
+            "\ub3c4\ubbf8\ub2c9 \uc6e8\uc2a4\ud2b8",
+            "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9 \u0648\u0633\u062a"
+        ],
+        "biography": "Dominic Gerard Francis Eagleton West\u00a0(born 15 October 1969) is an English actor, director, producer, and musician. He is best known for playing\u00a0Jimmy McNulty\u00a0in\u00a0HBO's\u00a0The Wire\u00a0(2002\u20132008) and Noah Solloway in\u00a0Showtime's\u00a0The Affair (2014\u20132019), the latter of which earned him a\u00a0Golden Globe Award for Best Actor \u2013 Television Series Drama\u00a0nomination,\u00a0Ebenezer Scrooge's nephew Fred in\u00a0A Christmas Carol\u00a0(1999), and\u00a0Charles, Prince of Wales, in the\u00a0Netflix\u00a0drama\u00a0The Crown\u00a0(2022\u20132023), the latter of which earned him nominations for another\u00a0Golden Globe Award\u00a0and a\u00a0Primetime Emmy Award.\n\nWest made his television debut in the 1998\u00a0BBC medical drama\u00a0Out of Hours\u00a0before appearing in the television films\u00a0A Christmas Carol,\u00a028 Days\u00a0with\u00a0Sandra Bullock\u00a0in 2000, and\u00a0Nicholas Nickleby (2001). His breakthrough came with the role of Detective Jimmy McNulty in the series\u00a0The Wire. He then starred in the BBC series\u00a0The Hour\u00a0(2011\u20132012), earning a Golden Globe Award nomination. He received a\u00a0BAFTA Award\u00a0for his performance as the serial killer\u00a0Fred West\u00a0in the\u00a0ITV\u00a0drama\u00a0Appropriate Adult\u00a0(2011) and a nomination for his portrayal as\u00a0Richard Burton\u00a0in\u00a0BBC Four's\u00a0Burton & Taylor\u00a0(2013).\u00a0He played\u00a0Jean Valjean\u00a0in the 2018 BBC miniseries\u00a0adaptation of Les Mis\u00e9rables. He has since starred in the\u00a0Netflix\u00a0series\u00a0Stateless\u00a0(2020) and the\u00a0Amazon Studios\u00a0The Pursuit of Love\u00a0(2021). West is currently playing the role of Dr Chris Cox in the\u00a0Sky One\u00a0series\u00a0Brassic\u00a0(2019\u2013present).\n\nHis film debut came with his portrayal of\u00a0Henry, Earl of Richmond, in\u00a0Ian McKellen's adaptation of\u00a0Richard III\u00a0(1995). He has since appeared in\u00a0Chicago\u00a0(2002),\u00a0Mona Lisa Smile\u00a0(2003),\u00a0300 (2007),\u00a0Punisher: War Zone\u00a0(2008),\u00a0Johnny English Reborn\u00a0(2011),\u00a0John Carter\u00a0(2012),\u00a0Pride (2014),\u00a0Testament of Youth\u00a0(2014),\u00a0Money Monster\u00a0(2016),\u00a0Genius\u00a0(2016),\u00a0The Square\u00a0(2017), Tomb Raider\u00a0(2018),\u00a0Colette\u00a0(2018) and\u00a0Downton Abbey: A New Era\u00a0(2022).\n\nDescription above from the Wikipedia article Dominic West, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1969-10-15",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 17287,
+        "imdb_id": "nm0922035",
+        "known_for_department": "Acting",
+        "name": "Dominic West",
+        "place_of_birth": "Sheffield, Yorkshire, England, UK",
+        "popularity": 1.8391,
+        "profile_path": "/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    35,
+                    18
+                ],
+                "id": 680,
+                "original_language": "en",
+                "original_title": "Pulp Fiction",
+                "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+                "popularity": 18.5743,
+                "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+                "release_date": "1994-09-10",
+                "title": "Pulp Fiction",
+                "video": false,
+                "vote_average": 8.487,
+                "vote_count": 29078,
+                "character": "Drug Dealer (uncredited)",
+                "credit_id": "52fe426ac3a36847f801cbc3",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8KM1KWQt434blaRMbDOJ8ZZ3K3W.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 586,
+                "original_language": "en",
+                "original_title": "Wag the Dog",
+                "overview": "During the final weeks of a presidential race, the President is accused of sexual misconduct. To distract the public until the election, the President's adviser hires a Hollywood producer to help him stage a fake war.",
+                "popularity": 4.6999,
+                "poster_path": "/rYoEQzMBlB40ZlwVoe6y5s8B58z.jpg",
+                "release_date": "1997-12-25",
+                "title": "Wag the Dog",
+                "video": false,
+                "vote_average": 6.941,
+                "vote_count": 990,
+                "character": "Grieving Politician (uncredited)",
+                "credit_id": "644df42e4d23dd0a9492f4b6",
+                "order": 95
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9PGxCEZCnxgPALlpu7avGMYhVRR.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    9648
+                ],
+                "id": 11831,
+                "original_language": "en",
+                "original_title": "Amistad",
+                "overview": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+                "popularity": 0.9528,
+                "poster_path": "/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+                "release_date": "1997-12-10",
+                "title": "Amistad",
+                "video": false,
+                "vote_average": 7.019,
+                "vote_count": 1340,
+                "character": "Slave / Abolishionist (uncredited)",
+                "credit_id": "6240212681a7fc005cec8424",
+                "order": 126
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 73,
+                "original_language": "en",
+                "original_title": "American History X",
+                "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+                "popularity": 7.533,
+                "poster_path": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+                "release_date": "1998-07-01",
+                "title": "American History X",
+                "video": false,
+                "vote_average": 8.335,
+                "vote_count": 12034,
+                "character": "Deputy Sheriff (uncredited)",
+                "credit_id": "53a43ed8c3a3682a420011d4",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 184,
+                "original_language": "en",
+                "original_title": "Jackie Brown",
+                "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan \u2014 with help from a bail bondsman \u2014 to keep the money for herself.",
+                "popularity": 5.7705,
+                "poster_path": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+                "release_date": "1997-12-25",
+                "title": "Jackie Brown",
+                "video": false,
+                "vote_average": 7.356,
+                "vote_count": 6638,
+                "character": "Restaurant Regular (uncredited)",
+                "credit_id": "57266ec3c3a36858710009fc",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2YIzEKCMfexbLIoeVUkR8MPayB2.jpg",
+                "genre_ids": [
+                    9648,
+                    878,
+                    53
+                ],
+                "id": 846,
+                "original_language": "en",
+                "original_title": "The X-Files",
+                "overview": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+                "popularity": 4.8582,
+                "poster_path": "/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg",
+                "release_date": "1998-06-19",
+                "title": "The X-Files",
+                "video": false,
+                "vote_average": 6.889,
+                "vote_count": 1691,
+                "character": "DC Cop #2",
+                "credit_id": "57ea39f69251413748000771",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1274297,
+        "imdb_id": "nm0723651",
+        "known_for_department": "Acting",
+        "name": "Glendon Rich",
+        "place_of_birth": null,
+        "popularity": 0.1681,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,383 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7HWx6ADPMGmzoZh1LLpzJZLKsbx.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 801,
+                "original_language": "en",
+                "original_title": "Good Morning, Vietnam",
+                "overview": "A disk jockey goes to Vietnam to work for the Armed Forces Radio Service. While he becomes popular among the troops, his superiors disapprove of his humor.",
+                "popularity": 3.8822,
+                "poster_path": "/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+                "release_date": "1987-12-23",
+                "title": "Good Morning, Vietnam",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 2859,
+                "character": "Mr. Sloan (uncredited)",
+                "credit_id": "6452442bc044290164ea8ed9",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eEN7tsCCHppGhONHngvHKSdxi7r.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 11036,
+                "original_language": "en",
+                "original_title": "The Notebook",
+                "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+                "popularity": 17.9819,
+                "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+                "release_date": "2004-05-25",
+                "title": "The Notebook",
+                "video": false,
+                "vote_average": 7.891,
+                "vote_count": 12069,
+                "character": "Photographer",
+                "credit_id": "56a6df49c3a36819d500185e",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 380,
+                "original_language": "en",
+                "original_title": "Rain Man",
+                "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+                "popularity": 8.4238,
+                "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+                "release_date": "1988-12-12",
+                "title": "Rain Man",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 6688,
+                "credit_id": "52fe423cc3a36847f800e909",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 411,
+                "original_language": "en",
+                "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+                "popularity": 26.0316,
+                "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+                "release_date": "2005-12-07",
+                "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+                "video": false,
+                "vote_average": 7.133,
+                "vote_count": 11072,
+                "credit_id": "52fe4240c3a36847f800fd31",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zpVMWiNJgcwHB0zIMGjXQMnSKPZ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10024,
+                "original_language": "en",
+                "original_title": "My Sister's Keeper",
+                "overview": "Sara and Brian live an idyllic life with their young son and daughter. But their family is rocked by sudden, heartbreaking news that forces them to make a difficult and unorthodox choice in order to save their baby girl's life. The parents' desperate decision raises both ethical and moral questions and rips away at the foundation of their relationship. Their actions ultimately set off a court case that threatens to tear the family apart, while revealing surprising truths that challenge everyone's perceptions of love and loyalty and give new meaning to the definition of healing.",
+                "popularity": 3.9092,
+                "poster_path": "/atRGqnG7pe0hZP97RWDLrT2hRGZ.jpg",
+                "release_date": "2009-06-26",
+                "title": "My Sister's Keeper",
+                "video": false,
+                "vote_average": 7.375,
+                "vote_count": 2172,
+                "credit_id": "52fe430a9251416c7500122b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7HWx6ADPMGmzoZh1LLpzJZLKsbx.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 801,
+                "original_language": "en",
+                "original_title": "Good Morning, Vietnam",
+                "overview": "A disk jockey goes to Vietnam to work for the Armed Forces Radio Service. While he becomes popular among the troops, his superiors disapprove of his humor.",
+                "popularity": 3.8822,
+                "poster_path": "/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+                "release_date": "1987-12-23",
+                "title": "Good Morning, Vietnam",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 2859,
+                "credit_id": "52fe4278c3a36847f802132b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
+                "genre_ids": [
+                    35,
+                    878,
+                    12
+                ],
+                "id": 926,
+                "original_language": "en",
+                "original_title": "Galaxy Quest",
+                "overview": "For four years, the courageous crew of the NSEA protector - \"Commander Peter Quincy Taggart\", \"Lt. Tawny Madison and \"Dr.Lazarus\" - set off on a thrilling and often dangerous mission in space...and then their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director and no clue, the actors must turn in the performances of their lives.",
+                "popularity": 4.4846,
+                "poster_path": "/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+                "release_date": "1999-12-25",
+                "title": "Galaxy Quest",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2384,
+                "credit_id": "52fe428ec3a36847f8027e3f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sqZGYcHJWWNHsECBl57FOCfjpFX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11393,
+                "original_language": "en",
+                "original_title": "The Natural",
+                "overview": "An unknown middle-aged batter named Roy Hobbs with a mysterious past appears out of nowhere to take a losing 1930s baseball team to the top of the league.",
+                "popularity": 7.9889,
+                "poster_path": "/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+                "release_date": "1984-05-11",
+                "title": "The Natural",
+                "video": false,
+                "vote_average": 6.909,
+                "vote_count": 618,
+                "credit_id": "52fe44379251416c7502cdc3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6a6AK1pANcl64BYeDA58HKqgzji.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9366,
+                "original_language": "en",
+                "original_title": "Donnie Brasco",
+                "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
+                "popularity": 4.1082,
+                "poster_path": "/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+                "release_date": "1997-02-27",
+                "title": "Donnie Brasco",
+                "video": false,
+                "vote_average": 7.536,
+                "vote_count": 4638,
+                "credit_id": "52fe44eec3a36847f80b2797",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A99WMiz0ASpH9coOFrxSEuwTWx0.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 840430,
+                "original_language": "en",
+                "original_title": "The Holdovers",
+                "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them \u2014 a damaged, brainy troublemaker \u2014 and with the school\u2019s head cook, who has just lost a son in Vietnam.",
+                "popularity": 4.1266,
+                "poster_path": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+                "release_date": "2023-10-27",
+                "title": "The Holdovers",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 2127,
+                "credit_id": "60c792368e8702003fc22978",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bbHziUiIFiSFYNnPfD1pPfRvyFe.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 9559,
+                "original_language": "en",
+                "original_title": "A Perfect World",
+                "overview": "A kidnapped boy strikes up a friendship with his captor: an escaped convict on the run from the law, headed by an honorable U.S. Marshal.",
+                "popularity": 4.6218,
+                "poster_path": "/kWX2CYM5TbWaZwll4ysh7OjVUmJ.jpg",
+                "release_date": "1993-11-24",
+                "title": "A Perfect World",
+                "video": false,
+                "vote_average": 7.478,
+                "vote_count": 1742,
+                "credit_id": "563f5f039251414c7000e4e0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eEN7tsCCHppGhONHngvHKSdxi7r.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 11036,
+                "original_language": "en",
+                "original_title": "The Notebook",
+                "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+                "popularity": 17.9819,
+                "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+                "release_date": "2004-05-25",
+                "title": "The Notebook",
+                "video": false,
+                "vote_average": 7.891,
+                "vote_count": 12069,
+                "credit_id": "569b1f359251410cc4001c0d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tcMVpjdEpsXrbPtVrSmh4uDBSiy.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 19101,
+                "original_language": "en",
+                "original_title": "A Little Princess",
+                "overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
+                "popularity": 4.1734,
+                "poster_path": "/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+                "release_date": "1995-05-10",
+                "title": "A Little Princess",
+                "video": false,
+                "vote_average": 7.625,
+                "vote_count": 1004,
+                "credit_id": "569ce4779251415e60003180",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53
+                ],
+                "id": 7485,
+                "original_language": "en",
+                "original_title": "Shooter",
+                "overview": "A top Marine sniper, Bob Lee Swagger, leaves the military after a mission goes horribly awry and disappears, living in seclusion. He is coaxed back into service after a high-profile government official convinces him to help thwart a plot to kill the President of the United States. Ultimately double-crossed and framed for the attempt, Swagger becomes the target of a nationwide manhunt. He goes on the run to track the real killer and find out who exactly set him up, and why, eventually seeking revenge against some of the most powerful and corrupt leaders in the free world.",
+                "popularity": 8.6575,
+                "poster_path": "/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg",
+                "release_date": "2007-03-22",
+                "title": "Shooter",
+                "video": false,
+                "vote_average": 7.122,
+                "vote_count": 5160,
+                "credit_id": "65bdf66eba48020161691ce2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g7prwSflNODkHZI6792MYoU4qoh.jpg",
+                "genre_ids": [
+                    53,
+                    12,
+                    18
+                ],
+                "id": 38985,
+                "original_language": "en",
+                "original_title": "Sorcerer",
+                "overview": "Four men from different parts of the globe, all hiding from their pasts in the same remote South American town, agree to risk their lives transporting several cases of dynamite (which is so old that it is dripping unstable nitroglycerin) across dangerous jungle terrain.",
+                "popularity": 3.0502,
+                "poster_path": "/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+                "release_date": "1977-06-24",
+                "title": "Sorcerer",
+                "video": false,
+                "vote_average": 7.441,
+                "vote_count": 599,
+                "credit_id": "5bea28fe0e0a263bf504cfbc",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 559969,
+                "original_language": "en",
+                "original_title": "El Camino: A Breaking Bad Movie",
+                "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+                "popularity": 6.2344,
+                "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+                "release_date": "2019-10-11",
+                "title": "El Camino: A Breaking Bad Movie",
+                "video": false,
+                "vote_average": 6.966,
+                "vote_count": 5180,
+                "credit_id": "5d8d19a8d9f4a60020535172",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Mark Johnson (born December 27, 1945) is an American film and television producer. He won the Academy Award for Best Picture for producing the 1988 film Rain Man. Johnson was born in Washington, D.C., the son of Dorothy (n\u00e9e King), a realtor, and Emery Johnson, who worked in the air cargo business. He graduated from the University of Virginia in 1971.",
+        "birthday": "1945-12-27",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5162,
+        "imdb_id": "nm0425741",
+        "known_for_department": "Production",
+        "name": "Mark Johnson",
+        "place_of_birth": "Washington, D.C., USA",
+        "popularity": 0.212,
+        "profile_path": "/gLuXkOQjqB81aHMGJ2OtYzEpHQu.jpg"
+    }
+}

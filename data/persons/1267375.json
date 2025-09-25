@@ -1,0 +1,75 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 102899,
+                "original_language": "en",
+                "original_title": "Ant-Man",
+                "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+                "popularity": 8.698,
+                "poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+                "release_date": "2015-07-14",
+                "title": "Ant-Man",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 20318,
+                "character": "Writer",
+                "credit_id": "55e516f4c3a36813f8000cfd",
+                "order": 60
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kkvejdQGeRH03ASrIKVqlFQMDeG.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    12,
+                    35,
+                    10751,
+                    878
+                ],
+                "id": 523777,
+                "original_language": "en",
+                "original_title": "Next Gen",
+                "overview": "A friendship with a top-secret robot turns a lonely girl's life into a thrilling adventure as they take on bullies, evil bots and a scheming madman.",
+                "popularity": 1.5711,
+                "poster_path": "/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg",
+                "release_date": "2018-09-07",
+                "title": "Next Gen",
+                "video": false,
+                "vote_average": 6.988,
+                "vote_count": 809,
+                "character": "Ani (voice)",
+                "credit_id": "5b92711c0e0a26608c00dd29",
+                "order": 7
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u30a2\u30f3\u30ca\u30fb\u30a2\u30ab\u30ca",
+            "Anna Kay Akana"
+        ],
+        "biography": "Anna Kay Akana (born August 18, 1989) is an American filmmaker, producer, actress, comedian, and model. She is known for her YouTube channel, which has over 1.8 million subscribers.",
+        "birthday": "1989-08-18",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "https://annaakana.com/",
+        "id": 1267375,
+        "imdb_id": "nm4331196",
+        "known_for_department": "Acting",
+        "name": "Anna Akana",
+        "place_of_birth": "USA",
+        "popularity": 0.6621,
+        "profile_path": "/taJmE5h3inYhvrLXO7Dq9IMGhEp.jpg"
+    }
+}

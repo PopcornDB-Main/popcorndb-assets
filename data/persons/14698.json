@@ -1,0 +1,159 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10435,
+                "original_language": "en",
+                "original_title": "Chaplin",
+                "overview": "An aged Charlie Chaplin narrates his life to his autobiography's editor, including his rise to wealth and comedic fame from poverty, his turbulent personal life and his run-ins with the FBI.",
+                "popularity": 3.8615,
+                "poster_path": "/Aeltt5tl02zrEj4GoMynHc94lWG.jpg",
+                "release_date": "1992-12-17",
+                "title": "Chaplin",
+                "video": false,
+                "vote_average": 7.438,
+                "vote_count": 1131,
+                "character": "Edna Purviance",
+                "credit_id": "52fe43709251416c750105ff",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tRKTlMoTsAhYpuq19V8Wk3RFY4O.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11005,
+                "original_language": "en",
+                "original_title": "Awakenings",
+                "overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to \"awaken\" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
+                "popularity": 6.0925,
+                "poster_path": "/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+                "release_date": "1990-12-04",
+                "title": "Awakenings",
+                "video": false,
+                "vote_average": 7.775,
+                "vote_count": 2687,
+                "character": "Paula",
+                "credit_id": "52fe43e09251416c75021a1b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/38yjZWYBI0xxNqoBKiGyA4UZjk.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 6075,
+                "original_language": "en",
+                "original_title": "Carlito's Way",
+                "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+                "popularity": 6.055,
+                "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+                "release_date": "1993-11-10",
+                "title": "Carlito's Way",
+                "video": false,
+                "vote_average": 7.83,
+                "vote_count": 3307,
+                "character": "Gail",
+                "credit_id": "52fe443bc3a36847f8089ee3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xBcuoZooxfrajF8312bSPWqvTMV.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14367,
+                "original_language": "en",
+                "original_title": "Adventures in Babysitting",
+                "overview": "When plans with her boyfriend fall through, high school senior Chris Parker ends up babysitting the Anderson kids, Brad and Sara. What should be a quiet night in, however, turns into a series of ridiculous exploits, starting when they leave the house to pick up Chris' friend Brenda. Soon, Brad's buddy Daryl is involved, and the group must contend with car thieves, blues musicians and much more.",
+                "popularity": 2.0881,
+                "poster_path": "/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg",
+                "release_date": "1987-07-01",
+                "title": "Adventures in Babysitting",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 702,
+                "character": "Brenda",
+                "credit_id": "52fe45ea9251416c75066e0f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xBSwwkAYl9h8QVG2OxNpSaSgJwr.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 43949,
+                "original_language": "en",
+                "original_title": "Flipped",
+                "overview": "When Juli meets Bryce in the second grade, she knows it's true love. After spending six years trying to convince Bryce the same, she's ready to give up - until he starts to reconsider.",
+                "popularity": 5.208,
+                "poster_path": "/6zDYFigohwncqFL00MKbFV01dWb.jpg",
+                "release_date": "2010-08-06",
+                "title": "Flipped",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 3178,
+                "character": "Trina Baker",
+                "credit_id": "52fe466dc3a36847f80fe781",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 74643,
+                "original_language": "fr",
+                "original_title": "The Artist",
+                "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+                "popularity": 3.4438,
+                "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+                "release_date": "2011-10-12",
+                "title": "The Artist",
+                "video": false,
+                "vote_average": 7.45,
+                "vote_count": 3365,
+                "character": "Doris Valentin",
+                "credit_id": "52fe48d7c3a368484e10d8db",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Penelope Miller",
+            "Penelope Andrea Miller",
+            "\u041f\u0435\u043d\u0435\u043b\u043e\u043f\u0430 \u042d\u043d\u043d \u041c\u0438\u043b\u043b\u0435\u0440",
+            "\u067e\u0646\u0644\u0648\u067e\u0647 \u0622\u0646 \u0645\u06cc\u0644\u0631"
+        ],
+        "biography": "Penelope Ann Miller (born January 13, 1964 as Penelope Andrea Miller), sometimes credited as Penelope Miller, is an American actress. She began her career on Broadway, and starred in several major Hollywood films, particularly in the early 1990s, and has continued appearing in supporting roles in both film and television.\n\nDescription above from the Wikipedia article Penelope Ann Miller, licensed under CC-BY-SA, full list of contributors on Wikipedia",
+        "birthday": "1964-01-13",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 14698,
+        "imdb_id": "nm0000542",
+        "known_for_department": "Acting",
+        "name": "Penelope Ann Miller",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.8206,
+        "profile_path": "/6wjG6NUBKc6Ca4KX6G6V4t6sU2.jpg"
+    }
+}

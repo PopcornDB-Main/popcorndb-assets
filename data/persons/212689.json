@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.113,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.05,
+                "vote_count": 10702,
+                "character": "Congressman",
+                "credit_id": "6328b0c8dcb6a30085b4b9f1",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 63.1735,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37856,
+                "character": "Doctor",
+                "credit_id": "55191d8bc3a3682aa8000cb4",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Jeffrey Hephner ",
+            "\u062c\u0641 \u0647\u0641\u0646\u0631"
+        ],
+        "biography": "Jeff Hephner is an actor.",
+        "birthday": "1975-06-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 212689,
+        "imdb_id": "nm0378363",
+        "known_for_department": "Acting",
+        "name": "Jeff Hephner",
+        "place_of_birth": "USA",
+        "popularity": 1.0205,
+        "profile_path": "/qlIzEnBEuLT9ofE1PCGKKHHGga2.jpg"
+    }
+}

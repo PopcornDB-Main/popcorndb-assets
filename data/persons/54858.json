@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 8408,
+                "original_language": "en",
+                "original_title": "Day of the Dead",
+                "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+                "popularity": 3.2169,
+                "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+                "release_date": "1985-07-03",
+                "title": "Day of the Dead",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 1308,
+                "character": "Logan",
+                "credit_id": "52fe44a5c3a36847f80a20ef",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mT2sN8L8DNjzb0wISls8XHnyjgs.jpg",
+                "genre_ids": [
+                    10751,
+                    878,
+                    12
+                ],
+                "id": 10122,
+                "original_language": "en",
+                "original_title": "Flight of the Navigator",
+                "overview": "12-year-old David is accidentally knocked out in the forest near his home, but when he awakens eight years have passed. His family is overjoyed to have him back, but is just as perplexed as he is that he hasn't aged. When a NASA scientist discovers a UFO nearby, David gets the chance to unravel the mystery and recover the life he lost.",
+                "popularity": 3.1559,
+                "poster_path": "/tdRgQWMximj0tL6OWu9kRTtePmI.jpg",
+                "release_date": "1986-07-30",
+                "title": "Flight of the Navigator",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 886,
+                "character": "Mr. Howard",
+                "credit_id": "5f283991869e7500366b4bdd",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1932-03-03",
+        "deathday": "2000-10-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 54858,
+        "imdb_id": "nm0508858",
+        "known_for_department": "Acting",
+        "name": "Richard Liberty",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.3961,
+        "profile_path": null
+    }
+}

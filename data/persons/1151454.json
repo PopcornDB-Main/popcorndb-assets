@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sIJTdyF6JFbIz5mENPpeSlCKYyB.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10749
+                ],
+                "id": 59436,
+                "original_language": "en",
+                "original_title": "Midnight in Paris",
+                "overview": "While on a trip to Paris with his fianc\u00e9e's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+                "popularity": 5.2502,
+                "poster_path": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+                "release_date": "2011-05-11",
+                "title": "Midnight in Paris",
+                "video": false,
+                "vote_average": 7.521,
+                "vote_count": 7491,
+                "character": "Edgar Degas",
+                "credit_id": "52fe4990c3a36847f81a0c15",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14645,
+                "original_language": "fr",
+                "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+                "overview": "Two neurotics, working for a suicide hotline on the night of Christmas Eve, get caught up in a catastrophe when a pregnant woman, her abusive boyfriend, and a transvestite visit their office.",
+                "popularity": 2.1395,
+                "poster_path": "/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+                "release_date": "1982-08-25",
+                "title": "Santa Claus Is a Stinker",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 1019,
+                "character": "",
+                "credit_id": "5edd60e49c24fc002368e2f7",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1151454,
+        "imdb_id": "nm0744554",
+        "known_for_department": "Acting",
+        "name": "Fran\u00e7ois Rostain",
+        "place_of_birth": null,
+        "popularity": 0.0388,
+        "profile_path": "/5oS1vQTvq93ujH7XCP3uD1gBrbR.jpg"
+    }
+}

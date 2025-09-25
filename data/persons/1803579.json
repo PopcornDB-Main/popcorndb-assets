@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    10749
+                ],
+                "id": 321612,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+                "popularity": 10.2932,
+                "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+                "release_date": "2017-03-16",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 15763,
+                "character": "Barber",
+                "credit_id": "58ff7258c3a36878d10000a3",
+                "order": 42
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1803579,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Daniel Ioannou",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

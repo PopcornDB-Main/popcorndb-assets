@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qJbMgG2ZkWOk7zdMfC4JVfEk10N.jpg",
+                "genre_ids": [
+                    80,
+                    36,
+                    53
+                ],
+                "id": 117,
+                "original_language": "en",
+                "original_title": "The Untouchables",
+                "overview": "Elliot Ness, an ambitious prohibition agent, is determined to take down Al Capone. In order to achieve this goal, he forms a group given the nickname \u201cThe Untouchables\u201d.",
+                "popularity": 8.308,
+                "poster_path": "/8BquGK22zCcsmBWiaIakaaPpSZb.jpg",
+                "release_date": "1987-06-03",
+                "title": "The Untouchables",
+                "video": false,
+                "vote_average": 7.756,
+                "vote_count": 5922,
+                "character": "Bodyguard",
+                "credit_id": "5996e69bc3a368172b00a1bd",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/80A15cocDNupdJw5f5i9TogpBum.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 4816,
+                "original_language": "en",
+                "original_title": "Ghost Dog: The Way of the Samurai",
+                "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob.",
+                "popularity": 4.1956,
+                "poster_path": "/gkH4zOxIfbb4BEbk9Q4cVOEpDaY.jpg",
+                "release_date": "1999-10-06",
+                "title": "Ghost Dog: The Way of the Samurai",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 1301,
+                "character": "Johnny Morini",
+                "credit_id": "59c94be8c3a36813a9074d87",
+                "order": 13
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1943-02-18",
+        "deathday": "2005-05-16",
+        "gender": 2,
+        "homepage": null,
+        "id": 1512293,
+        "imdb_id": "nm0900274",
+        "known_for_department": "Acting",
+        "name": "Vince Viverito",
+        "place_of_birth": "Chicago, Illinois, USA",
+        "popularity": 0.1286,
+        "profile_path": null
+    }
+}

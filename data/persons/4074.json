@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 288,
+                "original_language": "en",
+                "original_title": "High Noon",
+                "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+                "popularity": 4.4293,
+                "poster_path": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+                "release_date": "1952-06-09",
+                "title": "High Noon",
+                "video": false,
+                "vote_average": 7.666,
+                "vote_count": 1502,
+                "character": "Frank Miller",
+                "credit_id": "52fe4232c3a36847f800b787",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cap8458wFeRCJSKxL758dI82TRK.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 15794,
+                "original_language": "en",
+                "original_title": "White Heat",
+                "overview": "A psychopathic criminal with a mother complex makes a daring break from prison and then leads his old gang in a chemical plant payroll heist. After the heist, events take a crazy turn.",
+                "popularity": 4.9266,
+                "poster_path": "/v7cPOHKKZI9qChi7HDUxNIhEcLR.jpg",
+                "release_date": "1949-09-02",
+                "title": "White Heat",
+                "video": false,
+                "vote_average": 7.656,
+                "vote_count": 506,
+                "character": "Creel",
+                "credit_id": "52fe467d9251416c75079fef",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ladd Pippy"
+        ],
+        "biography": "",
+        "birthday": "1914-06-28",
+        "deathday": "1978-04-11",
+        "gender": 2,
+        "homepage": null,
+        "id": 4074,
+        "imdb_id": "nm0531756",
+        "known_for_department": "Acting",
+        "name": "Ian MacDonald",
+        "place_of_birth": "Great Falls, Montana, USA",
+        "popularity": 0.2582,
+        "profile_path": "/NauhxwGcj5yIpHZPKMhglc9RFf.jpg"
+    }
+}

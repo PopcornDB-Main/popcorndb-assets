@@ -1,0 +1,50 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    36
+                ],
+                "id": 407448,
+                "original_language": "en",
+                "original_title": "Detroit",
+                "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+                "popularity": 4.7886,
+                "poster_path": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+                "release_date": "2017-07-28",
+                "title": "Detroit",
+                "video": false,
+                "vote_average": 7.266,
+                "vote_count": 1689,
+                "character": "Detective Jones",
+                "credit_id": "5984b6f1925141438100b281",
+                "order": 34
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Dennis V. Staroselsky",
+            "Dennis Visdirir Staroselsky"
+        ],
+        "biography": "",
+        "birthday": "1978-11-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1150232,
+        "imdb_id": "nm2266212",
+        "known_for_department": "Acting",
+        "name": "Dennis Staroselsky",
+        "place_of_birth": "Brighton, Massachusetts, USA",
+        "popularity": 0.3364,
+        "profile_path": "/c5CpsEdHd8odkaBc1j8tRq17WxR.jpg"
+    }
+}

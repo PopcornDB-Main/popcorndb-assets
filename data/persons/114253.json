@@ -1,0 +1,188 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 787699,
+                "original_language": "en",
+                "original_title": "Wonka",
+                "overview": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
+                "popularity": 9.3082,
+                "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+                "release_date": "2023-12-06",
+                "title": "Wonka",
+                "video": false,
+                "vote_average": 7.06,
+                "vote_count": 4036,
+                "character": "Basil, Zoo Security Guard",
+                "credit_id": "615a2c3fec1879008c768ba1",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    10751
+                ],
+                "id": 116149,
+                "original_language": "en",
+                "original_title": "Paddington",
+                "overview": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+                "popularity": 5.3396,
+                "poster_path": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+                "release_date": "2014-11-24",
+                "title": "Paddington",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 3985,
+                "character": "Barry",
+                "credit_id": "54cc6fc6c3a3687f80000acc",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.8029,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 15864,
+                "character": "Blue Five",
+                "credit_id": "58633e46c3a36852ba0074aa",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 346648,
+                "original_language": "en",
+                "original_title": "Paddington 2",
+                "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+                "popularity": 5.0191,
+                "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+                "release_date": "2017-11-09",
+                "title": "Paddington 2",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 2582,
+                "character": "Barry",
+                "credit_id": "5a3975f3c3a36814a807fc7f",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3O5tanjVJGo8sgxC0Y8A1ecFB6d.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 420814,
+                "original_language": "en",
+                "original_title": "Christopher Robin",
+                "overview": "Christopher Robin, the boy who had countless adventures in the Hundred Acre Wood, has grown up and lost his way. Now it\u2019s up to his spirited and loveable stuffed animals, Winnie The Pooh, Tigger, Piglet, and the rest of the gang, to rekindle their friendship and remind him of endless days of childlike wonder and make-believe, when doing nothing was the very best something.",
+                "popularity": 2.7923,
+                "poster_path": "/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg",
+                "release_date": "2018-08-01",
+                "title": "Christopher Robin",
+                "video": false,
+                "vote_average": 7.299,
+                "vote_count": 2820,
+                "character": "Taxi Driver",
+                "credit_id": "5b5526ea9251416dcc00a2c5",
+                "order": 39
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 787699,
+                "original_language": "en",
+                "original_title": "Wonka",
+                "overview": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
+                "popularity": 9.3082,
+                "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+                "release_date": "2023-12-06",
+                "title": "Wonka",
+                "video": false,
+                "vote_average": 7.06,
+                "vote_count": 4036,
+                "credit_id": "60ac22873d355700403b90a9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 346648,
+                "original_language": "en",
+                "original_title": "Paddington 2",
+                "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+                "popularity": 5.0191,
+                "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+                "release_date": "2017-11-09",
+                "title": "Paddington 2",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 2582,
+                "credit_id": "5869a74b9251414e8201254f",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc0ac\uc774\uba3c \ud30c\ub108\ube44"
+        ],
+        "biography": "Simon Farnaby\u00a0(born 2 April 1973) is an English actor, comedian and writer. He is best known for his work with the\u00a0Them There\u00a0collective, where he has written and starred in productions including\u00a0Horrible Histories,\u00a0Yonderland, and\u00a0Ghosts.\u00a0\n\nFarnaby earned\u00a0BAFTA\u00a0nominations for his co-writing of\u00a0Paddington 2, both for\u00a0Best Adapted Screenplay\u00a0and\u00a0Best British Film. He was the winner of the 2023\u00a0Television BAFTA\u00a0for\u00a0memorable TV moments.\u00a0In 2023, he co-wrote and appeared in\u00a0Wonka, a film which serves as a prequel to the\u00a0Roald Dahl\u00a0novel\u00a0Charlie and the Chocolate Factory, exploring\u00a0Willy Wonka's origins.\n\nDescription above from the Wikipedia article Simon Farnaby, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1973-04-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 114253,
+        "imdb_id": "nm1375030",
+        "known_for_department": "Acting",
+        "name": "Simon Farnaby",
+        "place_of_birth": "Yorkshire, England, UK",
+        "popularity": 0.4933,
+        "profile_path": "/xslxzBfDYYHNFnAMWyjjxFUTlEk.jpg"
+    }
+}

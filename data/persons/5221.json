@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4MXAOW1hfTaz34KO65PRgaVo35z.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 1807,
+                "original_language": "en",
+                "original_title": "Elephant",
+                "overview": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+                "popularity": 4.6244,
+                "poster_path": "/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg",
+                "release_date": "2003-09-20",
+                "title": "Elephant",
+                "video": false,
+                "vote_average": 7.044,
+                "vote_count": 2006,
+                "character": "Janitor",
+                "credit_id": "64f298bae0ca7f012eb33da0",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zf52xLEyao2xcVnpThmzW2Xl0aj.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 476,
+                "original_language": "en",
+                "original_title": "Drugstore Cowboy",
+                "overview": "Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a peculiar quartet, formed by his wife, Dianne, and another couple, Rick and Nadine, who skillfully steal from drugstores and hospital medicine cabinets in order to appease their insatiable need for drugs. But neither fun nor luck last forever.",
+                "popularity": 2.4262,
+                "poster_path": "/2bQXK39axyedUL6DE1pzdMYgAw1.jpg",
+                "release_date": "1989-10-20",
+                "title": "Drugstore Cowboy",
+                "video": false,
+                "vote_average": 7.093,
+                "vote_count": 582,
+                "character": "Accomplice",
+                "credit_id": "5ac94e8f0e0a26496504e98d",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": "2018-07-05",
+        "gender": 2,
+        "homepage": null,
+        "id": 5221,
+        "imdb_id": "nm0598017",
+        "known_for_department": "Acting",
+        "name": "Ray Monge",
+        "place_of_birth": "Los Angeles, California, U.S",
+        "popularity": 0.047,
+        "profile_path": null
+    }
+}

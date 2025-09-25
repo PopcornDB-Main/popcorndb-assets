@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 923,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+                "popularity": 4.6088,
+                "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+                "release_date": "1978-09-02",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 2184,
+                "character": "Pie-in-Face Zombie (uncredited)",
+                "credit_id": "58e920c092514134eb02a063",
+                "order": 32
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/uFdLjtlgCbEtkQfBiZQPLfVryr5.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 20762,
+                "original_language": "en",
+                "original_title": "The Substitute",
+                "overview": "When an inner-city Miami schoolteacher gets her knee broken after standing up to the school's gang leader, her mercenary combat specialist boyfriend goes undercover as a substitute teacher to take down the punk. Soon he discovers a conspiracy of criminals at work, and must reassemble his team from his last jungle raid to stop them.",
+                "popularity": 3.8667,
+                "poster_path": "/oWajA1tS7eAtm80IMfcJAGrojQF.jpg",
+                "release_date": "1996-04-19",
+                "title": "The Substitute",
+                "video": false,
+                "vote_average": 6.917,
+                "vote_count": 520,
+                "credit_id": "5eac4a5dc8f3c4001daa36f8",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 88448,
+        "imdb_id": "nm0296689",
+        "known_for_department": "Writing",
+        "name": "Roy Frumkes",
+        "place_of_birth": null,
+        "popularity": 0.0698,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uxjPyKutAtw7lHZ3mHg0MzQvAK9.jpg",
+                "genre_ids": [
+                    9648,
+                    18,
+                    53
+                ],
+                "id": 10403,
+                "original_language": "en",
+                "original_title": "The Player",
+                "overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+                "popularity": 3.3881,
+                "poster_path": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+                "release_date": "1992-05-08",
+                "title": "The Player",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 878,
+                "character": "Alexandra Powers",
+                "credit_id": "52fe43689251416c7500f30b",
+                "order": 75
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 207,
+                "original_language": "en",
+                "original_title": "Dead Poets Society",
+                "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+                "popularity": 16.509,
+                "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+                "release_date": "1989-06-02",
+                "title": "Dead Poets Society",
+                "video": false,
+                "vote_average": 8.302,
+                "vote_count": 11907,
+                "character": "Chris Noel",
+                "credit_id": "53af20edc3a3682ed8003d67",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1967-09-09",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 131183,
+        "imdb_id": "nm0694490",
+        "known_for_department": "Acting",
+        "name": "Alexandra Powers",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 1.4619,
+        "profile_path": "/zfz44FfM0YbGeScUTlUmf7gPvpq.jpg"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kVGUdR1CXKAyCFj5Tt4uyR2bpFx.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 273895,
+                "original_language": "en",
+                "original_title": "Selma",
+                "overview": "\"Selma,\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.",
+                "popularity": 5.1753,
+                "poster_path": "/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg",
+                "release_date": "2014-12-25",
+                "title": "Selma",
+                "video": false,
+                "vote_average": 7.389,
+                "vote_count": 2258,
+                "character": "John Lewis",
+                "credit_id": "54b0aa59c3a3680939001107",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eWUJTW9HFDmlIACchS6Ohnk5Aom.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 323677,
+                "original_language": "en",
+                "original_title": "Race",
+                "overview": "Based on the story of Jesse Owens, the athlete whose quest to become the greatest track and field athlete in history thrusts him onto the world stage of the 1936 Olympics, where he faces off against Adolf Hitler's vision of Aryan supremacy.",
+                "popularity": 4.3775,
+                "poster_path": "/3pKLVyz6LGQU8xEDhYHSHsfy5Bg.jpg",
+                "release_date": "2016-02-19",
+                "title": "Race",
+                "video": false,
+                "vote_average": 7.251,
+                "vote_count": 1575,
+                "character": "Jesse Owens",
+                "credit_id": "551b73019251414af3001a22",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 465914,
+                "original_language": "en",
+                "original_title": "If Beale Street Could Talk",
+                "overview": "After her fiance is falsely imprisoned, a pregnant African-American woman sets out to clear his name and prove his innocence.",
+                "popularity": 3.1169,
+                "poster_path": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+                "release_date": "2018-12-14",
+                "title": "If Beale Street Could Talk",
+                "video": false,
+                "vote_average": 6.927,
+                "vote_count": 1172,
+                "character": "Alonzo \"Fonny\" Hunt",
+                "credit_id": "59f7a87fc3a36860580001cd",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0633\u062a\u064a\u0641\u0627\u0646 \u062c\u064a\u0645\u0633",
+            "\u05e1\u05d8\u05e4\u05df \u05d2\u05f3\u05d9\u05d9\u05de\u05e1",
+            "\u53f2\u5e1d\u82ac\u00b7\u8a79\u59c6\u65af"
+        ],
+        "biography": "Stephan James (born December 16, 1993) is a Canadian actor. After starring in a string of television series as a teenager, he rose to prominence upon winning a Canadian Screen Award for Best Actor for his role as track and field sprinter Jesse Owens in the 2016 film Race. In 2018, he starred in Barry Jenkins' acclaimed drama film If Beale Street Could Talk, based on the James Baldwin novel of the same name. Also that year, he portrayed Walter Cruz in the Amazon series Homecoming, for which he received a Golden Globe Award nomination.",
+        "birthday": "1993-12-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1388314,
+        "imdb_id": "nm4150847",
+        "known_for_department": "Acting",
+        "name": "Stephan James",
+        "place_of_birth": "Toronto, Ontario, Canada",
+        "popularity": 0.534,
+        "profile_path": "/itWiVFI7uE8s4QQjcQBbVO0hY7K.jpg"
+    }
+}

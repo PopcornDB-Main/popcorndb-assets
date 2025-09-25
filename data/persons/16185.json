@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7HWx6ADPMGmzoZh1LLpzJZLKsbx.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 801,
+                "original_language": "en",
+                "original_title": "Good Morning, Vietnam",
+                "overview": "A disk jockey goes to Vietnam to work for the Armed Forces Radio Service. While he becomes popular among the troops, his superiors disapprove of his humor.",
+                "popularity": 3.8822,
+                "poster_path": "/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+                "release_date": "1987-12-23",
+                "title": "Good Morning, Vietnam",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 2859,
+                "character": "Censor #1",
+                "credit_id": "52fe4278c3a36847f802138b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 280,
+                "original_language": "en",
+                "original_title": "Terminator 2: Judgment Day",
+                "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+                "popularity": 13.7182,
+                "poster_path": "/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+                "release_date": "1991-07-03",
+                "title": "Terminator 2: Judgment Day",
+                "video": false,
+                "vote_average": 8.133,
+                "vote_count": 13562,
+                "character": "Lewis as T-1000",
+                "credit_id": "56b1587f92514140740014a1",
+                "order": 27
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 16185,
+        "imdb_id": "nm0822734",
+        "known_for_department": "Acting",
+        "name": "Dan Stanton",
+        "place_of_birth": null,
+        "popularity": 0.3646,
+        "profile_path": "/rpWrNQr2DypzP0SBbsHkBj7HYA3.jpg"
+    }
+}

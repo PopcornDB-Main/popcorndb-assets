@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 634649,
+                "original_language": "en",
+                "original_title": "Spider-Man: No Way Home",
+                "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+                "popularity": 23.2259,
+                "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+                "release_date": "2021-12-15",
+                "title": "Spider-Man: No Way Home",
+                "video": false,
+                "vote_average": 7.94,
+                "vote_count": 21112,
+                "character": "NY1 Reporter",
+                "credit_id": "61bfe60c0443c9001c14d8c5",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 20.696,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.658,
+                "vote_count": 11223,
+                "character": "Newscaster",
+                "credit_id": "62256de1edeb430046f7c376",
+                "order": 70
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3353044,
+        "imdb_id": "nm13216937",
+        "known_for_department": "Acting",
+        "name": "Dean Meminger",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": "/zjCC8h9PoAd8b35X0NPXWajb6jS.jpg"
+    }
+}

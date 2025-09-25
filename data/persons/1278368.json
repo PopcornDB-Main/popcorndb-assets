@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 13475,
+                "original_language": "en",
+                "original_title": "Star Trek",
+                "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "popularity": 9.3534,
+                "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+                "release_date": "2009-05-06",
+                "title": "Star Trek",
+                "video": false,
+                "vote_average": 7.425,
+                "vote_count": 10142,
+                "character": "Starfleet Officer (uncredited)",
+                "credit_id": "52fe456d9251416c7505632f",
+                "order": 106
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k3PqsPLkKLDyjZupZ6gqZHPxMv3.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 54138,
+                "original_language": "en",
+                "original_title": "Star Trek Into Darkness",
+                "overview": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+                "popularity": 5.4297,
+                "poster_path": "/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg",
+                "release_date": "2013-05-05",
+                "title": "Star Trek Into Darkness",
+                "video": false,
+                "vote_average": 7.321,
+                "vote_count": 9341,
+                "character": "Transport Officer",
+                "credit_id": "546922b8eaeb816b580016f1",
+                "order": 42
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Chris Doohan"
+        ],
+        "biography": "",
+        "birthday": "1959-06-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1278368,
+        "imdb_id": "nm1067053",
+        "known_for_department": "Acting",
+        "name": "Christopher Doohan",
+        "place_of_birth": "Toronto, Canada",
+        "popularity": 0.0404,
+        "profile_path": null
+    }
+}

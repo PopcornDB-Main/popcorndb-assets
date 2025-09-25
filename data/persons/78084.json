@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3w2YSii9wQZsKKucAYwVxzOwm7s.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10752
+                ],
+                "id": 11589,
+                "original_language": "en",
+                "original_title": "Kelly's Heroes",
+                "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+                "popularity": 4.106,
+                "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+                "release_date": "1970-06-22",
+                "title": "Kelly's Heroes",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 757,
+                "character": "Pvt. Cowboy",
+                "credit_id": "52fe44619251416c75032bad",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.6755,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 4373,
+                "character": "Bob",
+                "credit_id": "5ed039515c071b001e2b05d5",
+                "order": 58
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1934-09-20",
+        "deathday": "2004-07-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 78084,
+        "imdb_id": "nm0606628",
+        "known_for_department": "Acting",
+        "name": "Jeff Morris",
+        "place_of_birth": "St. Joseph, Missouri, USA",
+        "popularity": 0.7156,
+        "profile_path": "/nAZRsstL5d88PlqSeTdocqOm29U.jpg"
+    }
+}

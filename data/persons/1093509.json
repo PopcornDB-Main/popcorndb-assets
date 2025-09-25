@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+                "genre_ids": [
+                    28,
+                    9648,
+                    878,
+                    53
+                ],
+                "id": 198663,
+                "original_language": "en",
+                "original_title": "The Maze Runner",
+                "overview": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+                "popularity": 23.2679,
+                "poster_path": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+                "release_date": "2014-09-10",
+                "title": "The Maze Runner",
+                "video": false,
+                "vote_average": 7.192,
+                "vote_count": 17558,
+                "character": "Patient Zero (uncredited)",
+                "credit_id": "5dbec6719638640016e3dd1f",
+                "order": 45
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 68734,
+                "original_language": "en",
+                "original_title": "Argo",
+                "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+                "popularity": 4.5663,
+                "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+                "release_date": "2012-10-11",
+                "title": "Argo",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 8597,
+                "character": "Blue Monster",
+                "credit_id": "5fdd3a57af2da8003eeb68c4",
+                "order": 68
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1093509,
+        "imdb_id": "nm2967554",
+        "known_for_department": "Acting",
+        "name": "Andrew Varenhorst",
+        "place_of_birth": null,
+        "popularity": 0.0621,
+        "profile_path": null
+    }
+}

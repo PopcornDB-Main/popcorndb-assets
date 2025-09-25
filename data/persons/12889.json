@@ -1,0 +1,181 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 8.4483,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.309,
+                "vote_count": 6101,
+                "character": "Bob McClane",
+                "credit_id": "52fe4283c3a36847f8024ebf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rPDcuFniW2yZrSRbLjeNdQy7P45.jpg",
+                "genre_ids": [
+                    37,
+                    28
+                ],
+                "id": 11509,
+                "original_language": "en",
+                "original_title": "Silverado",
+                "overview": "Four unwitting heroes cross paths on their journey to the sleepy town of Silverado. Little do they know the town where their family and friends reside has been taken over by a corrupt sheriff and a murderous posse. It's up to the sharp-shooting foursome to save the day, but first they have to break each other out of jail, and learn who their real friends are.",
+                "popularity": 3.9298,
+                "poster_path": "/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+                "release_date": "1985-07-10",
+                "title": "Silverado",
+                "video": false,
+                "vote_average": 6.977,
+                "vote_count": 754,
+                "character": "McKendrick",
+                "credit_id": "52fe444e9251416c750301e9",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ajKmVMSIr0BgRKn8tLSdIFrptTX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 3558,
+                "original_language": "en",
+                "original_title": "Girl, Interrupted",
+                "overview": "Set in the changing world of the late 1960s, Susanna Kaysen's prescribed \"short rest\" from a psychiatrist she had met only once becomes a strange, unknown journey into Alice's Wonderland, where she struggles with the thin line between normal and crazy. Susanna soon realizes how hard it is to get out once she has been committed, and she ultimately has to choose between the world of people who belong inside or the difficult world of reality outside.",
+                "popularity": 5.3387,
+                "poster_path": "/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+                "release_date": "1999-12-21",
+                "title": "Girl, Interrupted",
+                "video": false,
+                "vote_average": 7.567,
+                "vote_count": 3988,
+                "character": "Mr. Kaysen",
+                "credit_id": "656345b6fb5299010350975c",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 380,
+                "original_language": "en",
+                "original_title": "Rain Man",
+                "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+                "popularity": 8.5861,
+                "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+                "release_date": "1988-12-12",
+                "title": "Rain Man",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 6688,
+                "character": "Mr. Kelso",
+                "credit_id": "63b6c2b08ee49c007e348a19",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 4.8537,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2408,
+                "character": "Doctor",
+                "credit_id": "5616ff329251412ae900074a",
+                "order": 59
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1z4auHDSf2Kh6OqOVmwbeWc2Jrn.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    18,
+                    35
+                ],
+                "id": 8326,
+                "original_language": "en",
+                "original_title": "Holes",
+                "overview": "A wrongfully convicted boy is sent to a brutal desert detention camp where he must dig holes in order to build character. What he doesn't know is that he is digging holes in order to search for a lost treasure hidden somewhere in the camp.",
+                "popularity": 4.898,
+                "poster_path": "/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg",
+                "release_date": "2003-04-18",
+                "title": "Holes",
+                "video": false,
+                "vote_average": 6.876,
+                "vote_count": 1458,
+                "character": "Asst. Attorney General",
+                "credit_id": "5643f2279251410a44003f17",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n4CvA50GBtIPrSqCl8nMNZCliYI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 7214,
+                "original_language": "en",
+                "original_title": "Coach Carter",
+                "overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+                "popularity": 4.4694,
+                "poster_path": "/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
+                "release_date": "2005-01-14",
+                "title": "Coach Carter",
+                "video": false,
+                "vote_average": 7.578,
+                "vote_count": 3119,
+                "character": "St. Francis Coach",
+                "credit_id": "5d45af1c0f2fbd7864ed6d1d",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Raymond Baker"
+        ],
+        "biography": "Ray Baker (born July 9, 1948), sometimes credited as Raymond Baker, is an American theater, television and film actor. A longtime character actor, he has amassed over 100 screen credits.\n\nBaker was born in Omaha, Nebraska and grew up in Denver, Colorado. He graduated from the University of Denver before moving to New York and living and working there for twenty years. Baker appeared on and off Broadway and in regional theatre. From 1982 - 1995, Baker was married to actress Patricia Richardson, with whom he has three children. He has been married to actress and playwright Colleen Dodson since 1997.",
+        "birthday": "1948-07-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12889,
+        "imdb_id": "nm0048844",
+        "known_for_department": "Acting",
+        "name": "Ray Baker",
+        "place_of_birth": " Omaha, Nebraska, USA",
+        "popularity": 1.1282,
+        "profile_path": "/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg"
+    }
+}

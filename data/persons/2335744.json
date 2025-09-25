@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 23168,
+                "original_language": "en",
+                "original_title": "The Town",
+                "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her \u2013 but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
+                "popularity": 10.1481,
+                "poster_path": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+                "release_date": "2010-09-15",
+                "title": "The Town",
+                "video": false,
+                "vote_average": 7.22,
+                "vote_count": 5308,
+                "character": "FBI SWAT Team Leader",
+                "credit_id": "63ca5ae60398ab008e236643",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wj2nLa0vfS0SLu2vJ6ABTRhMrok.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334541,
+                "original_language": "en",
+                "original_title": "Manchester by the Sea",
+                "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+                "popularity": 10.01,
+                "poster_path": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+                "release_date": "2016-11-17",
+                "title": "Manchester by the Sea",
+                "video": false,
+                "vote_average": 7.546,
+                "vote_count": 6109,
+                "character": "Bartender",
+                "credit_id": "5d0041d8c3a3684adb20f7ef",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2335744,
+        "imdb_id": "nm4021830",
+        "known_for_department": "Acting",
+        "name": "Ben Hanson",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.6755,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 4373,
+                "character": "Cocktail Waitress",
+                "credit_id": "52fe424dc3a36847f8013bfb",
+                "order": 33
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2fmLLKSEzdfk41Iz76ewoKhyWgb.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 8469,
+                "original_language": "en",
+                "original_title": "Animal House",
+                "overview": "At a 1962 College, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+                "popularity": 3.4229,
+                "poster_path": "/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
+                "release_date": "1978-07-28",
+                "title": "Animal House",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1593,
+                "credit_id": "52fe44acc3a36847f80a3a1d",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1951-01-07",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 55247,
+        "imdb_id": "nm0413147",
+        "known_for_department": "Production",
+        "name": "Judith Belushi-Pisano",
+        "place_of_birth": "Wheaton, Illinois, USA",
+        "popularity": 0.9225,
+        "profile_path": "/61TEe2Zlu5gXenHd7USjhK7e0yE.jpg"
+    }
+}

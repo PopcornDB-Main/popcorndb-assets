@@ -1,0 +1,202 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lx89oBeJIastndjbQxznnfSYpmR.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    18,
+                    36
+                ],
+                "id": 796185,
+                "original_language": "fr",
+                "original_title": "Les Trois Mousquetaires : D'Artagnan",
+                "overview": "D'Artagnan, a spirited young Gascon, is left for dead after trying to save a noblewoman from being kidnapped. Once in Paris, he tries by all means to find his attackers, unaware that his quest will lead him to the very heart of a war where the future of France is at stake. Aided by King's Musketeers Athos, Porthos and Aramis, he faces the machinations of villainous Cardinal Richelieu and Milady de Winter, while falling in love with Constance, the Queen's confidante.",
+                "popularity": 4.1031,
+                "poster_path": "/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
+                "release_date": "2023-04-05",
+                "title": "The Three Musketeers: D'Artagnan",
+                "video": false,
+                "vote_average": 6.946,
+                "vote_count": 1306,
+                "character": "Villeneuve de Radis",
+                "credit_id": "638fa1b4bbe1dd00ada2f3bd",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+                "genre_ids": [
+                    35,
+                    36
+                ],
+                "id": 544510,
+                "original_language": "fr",
+                "original_title": "Edmond",
+                "overview": "Paris, France, December 1897. The young playwright Edmond Rostand feels like a failure. Inspiration has abandoned him. Married and father of two children, desperate and penniless, he persuades the great actor Constant Coquelin to perform the main role in his new play. But there is a problem: Coquelin wants to premiere it at Christmas and Edmond has not written a single word.",
+                "popularity": 1.9125,
+                "poster_path": "/9Y1VxSfJdu8fqQqgX0x6OObxvUw.jpg",
+                "release_date": "2018-11-10",
+                "title": "Cyrano, My Love",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 516,
+                "character": "Georges Feydeau",
+                "credit_id": "5b812a370e0a26459c00c897",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cOUZMd2Cr6uOHcdCDJtWRgVN4aN.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 491472,
+                "original_language": "en",
+                "original_title": "At Eternity's Gate",
+                "overview": "Famed but tormented artist Vincent van Gogh spends his final years in Arles, France, painting masterworks of the natural world that surrounds him.",
+                "popularity": 2.7434,
+                "poster_path": "/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg",
+                "release_date": "2018-11-15",
+                "title": "At Eternity's Gate",
+                "video": false,
+                "vote_average": 6.96,
+                "vote_count": 1497,
+                "character": "Artists Tambourin",
+                "credit_id": "5bc244fbc3a3682d60038177",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ujd2rMIVb0Z8orWrEbMWdJsBRYd.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    12
+                ],
+                "id": 484468,
+                "original_language": "fr",
+                "original_title": "Le Chant du loup",
+                "overview": "Shown from the perspective of a young submariner with unusually sensitive hearing and uncannily precise sound recognition. The fate of many often depends on his ability, and one time, whilst highly stressed, he makes a incorrect call which put his entire crew in mortal danger.  Trying to regain the confidence of his comrades, he conducts an unauthorised investigation of an apparent plot which, it turns out, risks escalating into a nuclear apocalypse. Suddenly working under pressure with the fleet admiral, they must do whatever is necessary, even the unthinkable, to prevent a nuclear war, since a confirmed nuclear strike order cannot be countermanded.",
+                "popularity": 11.6585,
+                "poster_path": "/8bxIzp9w9l9ZzGVwNaIKOaem05A.jpg",
+                "release_date": "2019-02-20",
+                "title": "The Wolf's Call",
+                "video": false,
+                "vote_average": 7.548,
+                "vote_count": 2088,
+                "character": "Second SNLE-B2R",
+                "credit_id": "5e0d10286dc6c000184b57c7",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+                "genre_ids": [
+                    35,
+                    36
+                ],
+                "id": 544510,
+                "original_language": "fr",
+                "original_title": "Edmond",
+                "overview": "Paris, France, December 1897. The young playwright Edmond Rostand feels like a failure. Inspiration has abandoned him. Married and father of two children, desperate and penniless, he persuades the great actor Constant Coquelin to perform the main role in his new play. But there is a problem: Coquelin wants to premiere it at Christmas and Edmond has not written a single word.",
+                "popularity": 1.9125,
+                "poster_path": "/9Y1VxSfJdu8fqQqgX0x6OObxvUw.jpg",
+                "release_date": "2018-11-10",
+                "title": "Cyrano, My Love",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 516,
+                "credit_id": "5b8129c80e0a26459600c99c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+                "genre_ids": [
+                    35,
+                    36
+                ],
+                "id": 544510,
+                "original_language": "fr",
+                "original_title": "Edmond",
+                "overview": "Paris, France, December 1897. The young playwright Edmond Rostand feels like a failure. Inspiration has abandoned him. Married and father of two children, desperate and penniless, he persuades the great actor Constant Coquelin to perform the main role in his new play. But there is a problem: Coquelin wants to premiere it at Christmas and Edmond has not written a single word.",
+                "popularity": 1.9125,
+                "poster_path": "/9Y1VxSfJdu8fqQqgX0x6OObxvUw.jpg",
+                "release_date": "2018-11-10",
+                "title": "Cyrano, My Love",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 516,
+                "credit_id": "5dea5aaca313b80014961ca5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+                "genre_ids": [
+                    35,
+                    36
+                ],
+                "id": 544510,
+                "original_language": "fr",
+                "original_title": "Edmond",
+                "overview": "Paris, France, December 1897. The young playwright Edmond Rostand feels like a failure. Inspiration has abandoned him. Married and father of two children, desperate and penniless, he persuades the great actor Constant Coquelin to perform the main role in his new play. But there is a problem: Coquelin wants to premiere it at Christmas and Edmond has not written a single word.",
+                "popularity": 1.9125,
+                "poster_path": "/9Y1VxSfJdu8fqQqgX0x6OObxvUw.jpg",
+                "release_date": "2018-11-10",
+                "title": "Cyrano, My Love",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 516,
+                "credit_id": "5deb12036d000c001753093f",
+                "department": "Writing",
+                "job": "Dialogue"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+                "genre_ids": [
+                    35,
+                    36
+                ],
+                "id": 544510,
+                "original_language": "fr",
+                "original_title": "Edmond",
+                "overview": "Paris, France, December 1897. The young playwright Edmond Rostand feels like a failure. Inspiration has abandoned him. Married and father of two children, desperate and penniless, he persuades the great actor Constant Coquelin to perform the main role in his new play. But there is a problem: Coquelin wants to premiere it at Christmas and Edmond has not written a single word.",
+                "popularity": 1.9125,
+                "poster_path": "/9Y1VxSfJdu8fqQqgX0x6OObxvUw.jpg",
+                "release_date": "2018-11-10",
+                "title": "Cyrano, My Love",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 516,
+                "credit_id": "5deb11f75c5cc80018cb385f",
+                "department": "Writing",
+                "job": "Idea"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Alexis Michalik, born 13 December 1982, is a Franco-British actor, scriptwriter and director. He adapted Shakespeare's Romeo and Juliet into his play R&J and he has written and staged his own plays, including Le Porteur d'histoire, Le Cercle des illusionnistes, Edmond and Intra Muros. He has acted in a number of films, including Sagan by Diane Kurys and Le Chant du loup by Abel Lanzac and he has acted in a number of TV series, mini-series, and TV films, including the series Kaboul Kitchen by Allan Mauduit and Jean-Patrick Benes. He has received various Moli\u00e8re awards for his plays.\n\nHe is the son of a Polish father, an artist, and a British mother. He was raised in the quartier des Abbesses in the 18th arrondissement of Paris. He studied at the coll\u00e8ge Jules-Ferry, and at the conservatoire in the 19th arrondissement, and he passed the entrance examination for the Conservatoire national d'art dramatique.\n\nHis first stage role was as Rom\u00e9o in 2001, in the play Juliette et Rom\u00e9o directed by Irina Brook at the th\u00e9\u00e2tre de Chaillot.\n\nIn 2003, he was admitted to the Conservatoire national sup\u00e9rieur d'art dramatique (CNSAD) in Paris. However, he gave up his place to stage his first show, Une folle journ\u00e9e, an adaptation of Mariage de Figaro by Beaumarchais. He created the show in 2005 at the Festival d'Avignon Off in the th\u00e9\u00e2tre des Corps Saints, playing the role of the Count. Michalik used the name of his source material to name his theatre company, Los Figaros.\n\nIn 2006, he created La M\u00e9g\u00e8re \u00e0 peu pr\u00e8s apprivois\u00e9e at Th\u00e9\u00e2tre La Luna (Buffon), a musical comedy adaptation of the play by Shakespeare, in which he played the role of Petruchio. He met Arthur Jugnot, who produced the play in Avignon in 2007 et 2008, at the th\u00e9\u00e2tre des B\u00e9liers, then in 2009 at the Vingti\u00e8me Th\u00e9\u00e2tre and then in 2010 at Le Splendid. The adaption was then put on television on the show Paris Premi\u00e8re. During this show, he met Dominique Besnehard, the show's host, who would later produce two of Michalik's first short films.\n\nIn 2008, he created R&J, an adaptation of Rom\u00e9o et Juliette by Shakespeare for three actors. In this production, he played various roles, including Romeo. The play was done in the th\u00e9\u00e2tre des B\u00e9liers in Avignon, and then at the Cin\u00e9 13 Th\u00e9\u00e2tre and at Studio des Champs-Elys\u00e9es.\n\nIn 2010, he adapted and directed the second act of Carmen by Bizet, in a show titled Carmen Rock & Soul Op\u00e9ra. The show, which was put on at the Festival des Mises en capsules, starred the singer Julie Zenatti in the title role and Christophe Mali (Tryo) playing Don Jos\u00e9, and 20 other actors, singers, dancers and musicians. The show as done at Cin\u00e9 13 Th\u00e9\u00e2tre.\n\nThen Benjamin Bellecour, co-director of Cin\u00e9 13 Th\u00e9\u00e2tre, invited Michalik to write and direct Michalik's first play, Le Porteur d'histoire. The play was done in a shortened form at the Festival Faits d'Hiver. In July 2011, the play was done in its current form at Th\u00e9\u00e2tre des B\u00e9liers . The play came back to Avignon in 2012 and also was done in Paris at Th\u00e9\u00e2tre 13 Jardin, where it was received well by the public and critics. His play was done again at the Studio des Champs-\u00c9lys\u00e9es in February 2013 and at Th\u00e9\u00e2tre des B\u00e9liers in 2017. ...\n\nSource: Article \"Alexis Michalik\" from Wikipedia in English, licensed under CC-BY-SA 3.0.",
+        "birthday": "1982-12-13",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.alexismichalik.com/",
+        "id": 431148,
+        "imdb_id": "nm1119022",
+        "known_for_department": "Acting",
+        "name": "Alexis Michalik",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.2833,
+        "profile_path": "/mTkQ8zxBj9uIFJeN5yR3uKOGMnk.jpg"
+    }
+}

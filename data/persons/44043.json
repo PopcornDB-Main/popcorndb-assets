@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    18
+                ],
+                "id": 860,
+                "original_language": "en",
+                "original_title": "WarGames",
+                "overview": "High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.",
+                "popularity": 5.1682,
+                "poster_path": "/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg",
+                "release_date": "1983-06-03",
+                "title": "WarGames",
+                "video": false,
+                "vote_average": 7.071,
+                "vote_count": 2007,
+                "character": "Sergeant",
+                "credit_id": "52fe4283c3a36847f8024dc7",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 6.3886,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 5425,
+                "character": "Joe Cox",
+                "credit_id": "52fe440dc3a36847f807f6d5",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jesse Goins"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 44043,
+        "imdb_id": "nm0324795",
+        "known_for_department": "Acting",
+        "name": "Jesse D. Goins",
+        "place_of_birth": null,
+        "popularity": 0.1983,
+        "profile_path": "/6K0VQm8EuSIGvrcxuvIR4rNHsOa.jpg"
+    }
+}

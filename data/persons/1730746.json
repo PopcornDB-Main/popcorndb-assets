@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 964980,
+                "original_language": "en",
+                "original_title": "Air",
+                "overview": "Discover the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand.",
+                "popularity": 9.7119,
+                "poster_path": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+                "release_date": "2023-04-05",
+                "title": "Air",
+                "video": false,
+                "vote_average": 7.313,
+                "vote_count": 2145,
+                "character": "Stan",
+                "credit_id": "6416b1165690b500bb019180",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wj2nLa0vfS0SLu2vJ6ABTRhMrok.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334541,
+                "original_language": "en",
+                "original_title": "Manchester by the Sea",
+                "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+                "popularity": 10.01,
+                "poster_path": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+                "release_date": "2016-11-17",
+                "title": "Manchester by the Sea",
+                "video": false,
+                "vote_average": 7.546,
+                "vote_count": 6109,
+                "character": "Otto",
+                "credit_id": "586899f39251414e75007df4",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Jackson Damon (born April 22, 1999) is an American actor. He is the nephew of Matt Damon.",
+        "birthday": "1999-04-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1730746,
+        "imdb_id": "nm8578252",
+        "known_for_department": "Acting",
+        "name": "Jackson Damon",
+        "place_of_birth": null,
+        "popularity": 0.1027,
+        "profile_path": "/AfR5CBFGmG5NVEPspydwWR5Ihl7.jpg"
+    }
+}

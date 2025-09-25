@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 314365,
+                "original_language": "en",
+                "original_title": "Spotlight",
+                "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+                "popularity": 4.8613,
+                "poster_path": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+                "release_date": "2015-11-06",
+                "title": "Spotlight",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 8479,
+                "character": "Paul Burke",
+                "credit_id": "572ebb4fc3a3684bd3002148",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wj2nLa0vfS0SLu2vJ6ABTRhMrok.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334541,
+                "original_language": "en",
+                "original_title": "Manchester by the Sea",
+                "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+                "popularity": 11.4539,
+                "poster_path": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+                "release_date": "2016-11-17",
+                "title": "Manchester by the Sea",
+                "video": false,
+                "vote_average": 7.546,
+                "vote_count": 6106,
+                "character": "Investigating Detective",
+                "credit_id": "58a1f7da925141452b0001d6",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1616708,
+        "imdb_id": "nm4313226",
+        "known_for_department": "Acting",
+        "name": "Brian Chamberlain",
+        "place_of_birth": null,
+        "popularity": 0.1793,
+        "profile_path": "/9OLxrYVy5bMKFO1cLT7lKl8zA9g.jpg"
+    }
+}

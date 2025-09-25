@@ -1,0 +1,228 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4II0fdNtTMR0elrMgQSn9wfYuuk.jpg",
+                "genre_ids": [
+                    35,
+                    37
+                ],
+                "id": 9474,
+                "original_language": "it",
+                "original_title": "Il mio nome \u00e8 Nessuno",
+                "overview": "Jack Beauregard, an aging gunman of the Old West, only wants to retire in peace and move to Europe, but a young gunfighter known as \"Nobody\" who idolizes Beauregard wants him to go out in a blaze of glory. So, he arranges for Jack to face the 150-man gang known as The Wild Bunch and earn his place in history.",
+                "popularity": 2.2566,
+                "poster_path": "/tJQEVI1p00Jh9TUgNEI623iu7ST.jpg",
+                "release_date": "1973-12-13",
+                "title": "My Name Is Nobody",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 996,
+                "character": "Squirrel",
+                "credit_id": "52fe44fcc3a36847f80b5df7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 278,
+                "original_language": "en",
+                "original_title": "The Shawshank Redemption",
+                "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                "popularity": 28.9882,
+                "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                "release_date": "1994-09-23",
+                "title": "The Shawshank Redemption",
+                "video": false,
+                "vote_average": 8.7,
+                "vote_count": 28883,
+                "character": "Pete",
+                "credit_id": "57dd161e9251414a1500528a",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 5.2711,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.348,
+                "vote_count": 5421,
+                "character": "Dougy",
+                "credit_id": "57dd1623c3a3685f850005fc",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jllyc0pY7xFYLyjuCEP6pO7hm8t.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    53
+                ],
+                "id": 9430,
+                "original_language": "en",
+                "original_title": "Go",
+                "overview": "A supermarket clerk decides to step in for an absent drug dealer, setting off an explosive, comedic chain of events.",
+                "popularity": 4.4939,
+                "poster_path": "/kP0OOAa4GTZSUPW8fgPbk1OmKEW.jpg",
+                "release_date": "1999-04-09",
+                "title": "Go",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 766,
+                "credit_id": "63cf0291028f14007f5c6160",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 3.504,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.196,
+                "vote_count": 1172,
+                "credit_id": "6438bab31d538600f40f9624",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rhwGCD3AosYcPK7rTFHmL4NdrP1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 6644,
+                "original_language": "en",
+                "original_title": "El Dorado",
+                "overview": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Harrah. Together with a fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+                "popularity": 6.2706,
+                "poster_path": "/poJxkMtTA3E95lJ6RnBgNxF0Vmx.jpg",
+                "release_date": "1966-12-17",
+                "title": "El Dorado",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 554,
+                "credit_id": "6438cce7ab6849012619f1ef",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 17529,
+                "original_language": "en",
+                "original_title": "True Grit",
+                "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+                "popularity": 3.5808,
+                "poster_path": "/9TjGjAD2deCtIG4ebi8LhIyFK6j.jpg",
+                "release_date": "1969-06-11",
+                "title": "True Grit",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 818,
+                "credit_id": "647feff1e375c0011c7db547",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10435,
+                "original_language": "en",
+                "original_title": "Chaplin",
+                "overview": "An aged Charlie Chaplin narrates his life to his autobiography's editor, including his rise to wealth and comedic fame from poverty, his turbulent personal life and his run-ins with the FBI.",
+                "popularity": 4.0012,
+                "poster_path": "/Aeltt5tl02zrEj4GoMynHc94lWG.jpg",
+                "release_date": "1992-12-17",
+                "title": "Chaplin",
+                "video": false,
+                "vote_average": 7.438,
+                "vote_count": 1131,
+                "credit_id": "668dd9a7d5dc6b08210229db",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    10749
+                ],
+                "id": 483,
+                "original_language": "en",
+                "original_title": "Wild at Heart",
+                "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula\u2019s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers\u2019 surreal honeymoon short.",
+                "popularity": 4.8745,
+                "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+                "release_date": "1990-08-17",
+                "title": "Wild at Heart",
+                "video": false,
+                "vote_average": 7.039,
+                "vote_count": 1798,
+                "credit_id": "5b7c16450e0a267c74012de4",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Neal Summers",
+            "Neil Summer",
+            "Neil Sommers"
+        ],
+        "biography": "Neil Summers is a British born American former film actor and stunt performer. He's also a collector of Western film memorabilia and wrote books about his experience in the film industry.",
+        "birthday": "1944-04-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 179188,
+        "imdb_id": "nm0838612",
+        "known_for_department": "Acting",
+        "name": "Neil Summers",
+        "place_of_birth": "London, England, UK",
+        "popularity": 1.4298,
+        "profile_path": "/2ESnlgBQzWM17KvSao5GrJInd0u.jpg"
+    }
+}

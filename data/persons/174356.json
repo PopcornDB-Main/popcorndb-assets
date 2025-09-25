@@ -1,0 +1,163 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+                "genre_ids": [
+                    37,
+                    35
+                ],
+                "id": 11072,
+                "original_language": "en",
+                "original_title": "Blazing Saddles",
+                "overview": "A town\u2014where everyone seems to be named Johnson\u2014stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+                "popularity": 3.9401,
+                "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+                "release_date": "1974-02-07",
+                "title": "Blazing Saddles",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 1969,
+                "character": "Desperado (uncredited)",
+                "credit_id": "633554638c3159007f9668c1",
+                "order": 125
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+                "genre_ids": [
+                    36,
+                    10752,
+                    18,
+                    12
+                ],
+                "id": 967,
+                "original_language": "en",
+                "original_title": "Spartacus",
+                "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+                "popularity": 6.2092,
+                "poster_path": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+                "release_date": "1960-10-13",
+                "title": "Spartacus",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 2262,
+                "character": "Gladiator (uncredited)",
+                "credit_id": "5601edc1c3a3685526000543",
+                "order": 32
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    53
+                ],
+                "id": 551,
+                "original_language": "en",
+                "original_title": "The Poseidon Adventure",
+                "overview": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+                "popularity": 3.772,
+                "poster_path": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+                "release_date": "1972-12-01",
+                "title": "The Poseidon Adventure",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 937,
+                "credit_id": "6420cf2b53466100cd4052dc",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 1051,
+                "original_language": "en",
+                "original_title": "The French Connection",
+                "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+                "popularity": 3.2183,
+                "poster_path": "/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+                "release_date": "1971-10-09",
+                "title": "The French Connection",
+                "video": false,
+                "vote_average": 7.498,
+                "vote_count": 2005,
+                "credit_id": "64251b066905fb0077f01ade",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 3.153,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.196,
+                "vote_count": 1172,
+                "credit_id": "6438baa4ab6849012619e780",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/le14c0VjhbBv475RAEQ13Wt2loo.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 10648,
+                "original_language": "en",
+                "original_title": "Magnum Force",
+                "overview": "\"Dirty\" Harry Callahan is a San Francisco Police Inspector on the trail of a group of rogue cops who have taken justice into their own hands. When shady characters are murdered one after another in grisly fashion, only Dirty Harry can stop them.",
+                "popularity": 3.0749,
+                "poster_path": "/1uX1uzn09seCftG3rTGLPyFXxV6.jpg",
+                "release_date": "1973-12-13",
+                "title": "Magnum Force",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1119,
+                "credit_id": "6438dd7087f3f200d44a9901",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1931-02-03",
+        "deathday": "2006-01-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 174356,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Jerry Summers",
+        "place_of_birth": null,
+        "popularity": 0.0717,
+        "profile_path": null
+    }
+}

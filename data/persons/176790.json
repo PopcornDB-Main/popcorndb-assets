@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    80
+                ],
+                "id": 944401,
+                "original_language": "fr",
+                "original_title": "Dogman",
+                "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+                "popularity": 9.9999,
+                "poster_path": "/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+                "release_date": "2023-09-27",
+                "title": "Dogman",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 1238,
+                "character": "Officer Rolling",
+                "credit_id": "637a9432a3b5e60082951374",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 4982,
+                "original_language": "en",
+                "original_title": "American Gangster",
+                "overview": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts.",
+                "popularity": 8.2396,
+                "poster_path": "/8sV6nWuKczuXRt0C6EWoXqJAj6G.jpg",
+                "release_date": "2007-11-02",
+                "title": "American Gangster",
+                "video": false,
+                "vote_average": 7.591,
+                "vote_count": 5725,
+                "character": "Officer Walsh",
+                "credit_id": "56c4b56ec3a3680d57000295",
+                "order": 95
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 176790,
+        "imdb_id": "nm1191921",
+        "known_for_department": "Acting",
+        "name": "Jeff Mantel",
+        "place_of_birth": null,
+        "popularity": 0.0596,
+        "profile_path": "/kKBsXe4p8myTG4LZ2O1MVEuzyRi.jpg"
+    }
+}

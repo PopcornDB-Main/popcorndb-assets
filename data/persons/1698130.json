@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 763215,
+                "original_language": "en",
+                "original_title": "Damsel",
+                "overview": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.",
+                "popularity": 8.7568,
+                "poster_path": "/290Lsuy4GJF3VEVqMbJqHs7xFdv.jpg",
+                "release_date": "2024-03-07",
+                "title": "Damsel",
+                "video": false,
+                "vote_average": 7.008,
+                "vote_count": 2540,
+                "character": "Local Guide",
+                "credit_id": "65ec0da75bce9e01494661b4",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 284052,
+                "original_language": "en",
+                "original_title": "Doctor Strange",
+                "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+                "popularity": 9.5286,
+                "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+                "release_date": "2016-10-25",
+                "title": "Doctor Strange",
+                "video": false,
+                "vote_average": 7.418,
+                "vote_count": 22792,
+                "character": "Kamar-Taj Librarian",
+                "credit_id": "5e84c848cb6db50018a8353b",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ezra Khan"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1698130,
+        "imdb_id": "nm1542545",
+        "known_for_department": "Acting",
+        "name": "Ezra Faroque Khan",
+        "place_of_birth": null,
+        "popularity": 0.1587,
+        "profile_path": "/2EsI39jd0H2646jE6Vf2UqFfT7w.jpg"
+    }
+}

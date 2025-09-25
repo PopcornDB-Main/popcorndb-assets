@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bdms9QMM4y6NBKIvXDINsKnK0Fj.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    36
+                ],
+                "id": 26428,
+                "original_language": "en",
+                "original_title": "Agora",
+                "overview": "A historical drama set in Roman Egypt, concerning philosopher Hypatia of Alexandria and her relationship with her slave Davus, who is torn between his love for her and the possibility of gaining his freedom by joining the rising tide of Christianity.",
+                "popularity": 2.5684,
+                "poster_path": "/1xsFa6I5vDd2UI1AJ1tsW7BUChv.jpg",
+                "release_date": "2009-05-17",
+                "title": "Agora",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1486,
+                "character": "Crier via Canopica",
+                "credit_id": "52fe4501c3a368484e043421",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    12
+                ],
+                "id": 98,
+                "original_language": "en",
+                "original_title": "Gladiator",
+                "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+                "popularity": 13.7275,
+                "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+                "release_date": "2000-05-04",
+                "title": "Gladiator",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 20050,
+                "character": "Centurion (uncredited)",
+                "credit_id": "6372509121621b007dda9756",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1114427,
+        "imdb_id": "nm1535253",
+        "known_for_department": "Acting",
+        "name": "Ray Mangion",
+        "place_of_birth": null,
+        "popularity": 0.055,
+        "profile_path": "/2SYBmopMZ5kkmcIsKgnDSm7qGD6.jpg"
+    }
+}

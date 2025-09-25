@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xQRh7hSPdtEE0aUmuY8EdifrXPK.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 12545,
+                "original_language": "en",
+                "original_title": "Jesus Christ Superstar",
+                "overview": "As played out by a theatre troupe, the last days of Jesus Christ are depicted from the perspective of Judas Iscariot, his betrayer. As Jesus' following increases, Judas begins to worry that Jesus is falling for his own hype, forgetting the principles of his teachings and growing too close to the prostitute Mary Magdalene.",
+                "popularity": 3.6148,
+                "poster_path": "/p5LGgKCVGGVZKTkwKzpBDIesydj.jpg",
+                "release_date": "1973-08-15",
+                "title": "Jesus Christ Superstar",
+                "video": false,
+                "vote_average": 7.086,
+                "vote_count": 579,
+                "character": "Jesus Christ",
+                "credit_id": "52fe44f89251416c750473e7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.4836,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27058,
+                "character": "Tracker",
+                "credit_id": "56770bc992514179db006778",
+                "order": 34
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Teddie Joe Neeley"
+        ],
+        "biography": "\u200bFrom Wikipedia, the free encyclopedia\n\nTed Neeley (born Teddie Joe Neeley on September 20, 1943 in Ranger, Texas) is a rock and roll drummer, singer, actor, composer, and record producer. He is probably best known for performing the title role in Jesus Christ Superstar in 1973.\n\nDescription above from the Wikipedia article Ted Neeley, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1943-09-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://tedneeley.com/",
+        "id": 72739,
+        "imdb_id": "nm0624189",
+        "known_for_department": "Acting",
+        "name": "Ted Neeley",
+        "place_of_birth": "Ranger, Texas, USA",
+        "popularity": 1.1104,
+        "profile_path": "/vVtqzgcptQb6jUsmtyogqwPpz3T.jpg"
+    }
+}

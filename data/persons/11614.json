@@ -1,0 +1,282 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 745,
+                "original_language": "en",
+                "original_title": "The Sixth Sense",
+                "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+                "popularity": 8.5538,
+                "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+                "release_date": "1999-08-06",
+                "title": "The Sixth Sense",
+                "video": false,
+                "vote_average": 7.95,
+                "vote_count": 12255,
+                "character": "Dr. Hill",
+                "credit_id": "55d4b8e6c3a368507000251f",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648
+                ],
+                "id": 9741,
+                "original_language": "en",
+                "original_title": "Unbreakable",
+                "overview": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead \u2014 and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+                "popularity": 6.2453,
+                "poster_path": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+                "release_date": "2000-11-22",
+                "title": "Unbreakable",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 9590,
+                "character": "Stadium Drug Dealer",
+                "credit_id": "57310db69251411250000227",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 381288,
+                "original_language": "en",
+                "original_title": "Split",
+                "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him \u2014 as well as everyone around him \u2014 as the walls between his compartments shatter apart.",
+                "popularity": 9.257,
+                "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+                "release_date": "2017-01-19",
+                "title": "Split",
+                "video": false,
+                "vote_average": 7.342,
+                "vote_count": 17840,
+                "character": "Jai, Hooters Lover",
+                "credit_id": "588bf7a8c3a368782c0019d5",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 745,
+                "original_language": "en",
+                "original_title": "The Sixth Sense",
+                "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+                "popularity": 8.5538,
+                "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+                "release_date": "1999-08-06",
+                "title": "The Sixth Sense",
+                "video": false,
+                "vote_average": 7.95,
+                "vote_count": 12255,
+                "credit_id": "52fe426fc3a36847f801e723",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 745,
+                "original_language": "en",
+                "original_title": "The Sixth Sense",
+                "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+                "popularity": 8.5538,
+                "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+                "release_date": "1999-08-06",
+                "title": "The Sixth Sense",
+                "video": false,
+                "vote_average": 7.95,
+                "vote_count": 12255,
+                "credit_id": "52fe426fc3a36847f801e791",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648
+                ],
+                "id": 9741,
+                "original_language": "en",
+                "original_title": "Unbreakable",
+                "overview": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead \u2014 and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+                "popularity": 6.2453,
+                "poster_path": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+                "release_date": "2000-11-22",
+                "title": "Unbreakable",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 9590,
+                "credit_id": "52fe4525c3a36847f80befff",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648
+                ],
+                "id": 9741,
+                "original_language": "en",
+                "original_title": "Unbreakable",
+                "overview": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead \u2014 and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+                "popularity": 6.2453,
+                "poster_path": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+                "release_date": "2000-11-22",
+                "title": "Unbreakable",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 9590,
+                "credit_id": "52fe4525c3a36847f80bf01b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648
+                ],
+                "id": 9741,
+                "original_language": "en",
+                "original_title": "Unbreakable",
+                "overview": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead \u2014 and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+                "popularity": 6.2453,
+                "poster_path": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+                "release_date": "2000-11-22",
+                "title": "Unbreakable",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 9590,
+                "credit_id": "52fe4525c3a36847f80befe7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 381288,
+                "original_language": "en",
+                "original_title": "Split",
+                "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him \u2014 as well as everyone around him \u2014 as the walls between his compartments shatter apart.",
+                "popularity": 9.257,
+                "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+                "release_date": "2017-01-19",
+                "title": "Split",
+                "video": false,
+                "vote_average": 7.342,
+                "vote_count": 17840,
+                "credit_id": "56b4096ac3a36806e60034cb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 381288,
+                "original_language": "en",
+                "original_title": "Split",
+                "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him \u2014 as well as everyone around him \u2014 as the walls between his compartments shatter apart.",
+                "popularity": 9.257,
+                "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+                "release_date": "2017-01-19",
+                "title": "Split",
+                "video": false,
+                "vote_average": 7.342,
+                "vote_count": 17840,
+                "credit_id": "56b40977c3a36806ec0037ce",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 381288,
+                "original_language": "en",
+                "original_title": "Split",
+                "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him \u2014 as well as everyone around him \u2014 as the walls between his compartments shatter apart.",
+                "popularity": 9.257,
+                "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+                "release_date": "2017-01-19",
+                "title": "Split",
+                "video": false,
+                "vote_average": 7.342,
+                "vote_count": 17840,
+                "credit_id": "57995edfc3a36835a700021d",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u5948\u7279\u00b7\u6c99\u9a6c\u5170",
+            "\u0e40\u0e2d\u0e47\u0e21. \u0e44\u0e19\u0e17\u0e4c \u0e0a\u0e22\u0e32\u0e21\u0e32\u0e25\u0e32\u0e19",
+            "\u0d2e\u0d28\u0d4b\u0d1c\u0d4d \u0d28\u0d46\u0d32\u0d4d\u0d32\u0d3f\u0d2f\u0d3e\u0d1f\u0d4d\u0d1f\u0d4d \u0d36\u0d4d\u0d2f\u0d3e\u0d2e\u0d33\u0d28\u0d4d\u200d",
+            "Manoj Nelliyattu Shyamalan",
+            "\u5948\u00b7\u6c99\u99ac\u862d",
+            "\u0627\u0645. \u0646\u0627\u06cc\u062a \u0634\u06cc\u0627\u0645\u0627\u0644\u0627\u0646",
+            "\u0645\u0627\u0646\u0648\u062c \u0646\u0644\u06cc\u0627\u062a\u0648 \u0634\u06cc\u0627\u0645\u0627\u0644\u0627\u0646",
+            "M.  \ub098\uc774\ud2b8 \uc0e4\ub9d0\ub780"
+        ],
+        "biography": "Manoj Nelliyattu \"M. Night\" Shyamalan, is an American filmmaker and actor. He is known for making original films with contemporary supernatural plots and twist endings. He was born in Mah\u00e9, India, and raised in Penn Valley, Pennsylvania. He made his directorial debut in 1992 with his first movie Praying with Anger. His second movie was the comedy-drama film Wide Awake (1998). His most well-received films include the supernatural thriller The Sixth Sense (1999), the superhero thriller Unbreakable (2000), and the science fiction thriller Signs (2002). Afterward, Shyamalan released a series of poorly received but sometimes financially successful movies, including the period-piece thriller The Village (2004), the dark fantasy Lady in the Water (2006), the eco-thriller The Happening (2008), The Last Airbender (2010), and the science fiction film After Earth (2013). Following the financial failure of After Earth, Shyamalan's career was revived with the release of the found-footage horror film The Visit (2015), the psychological thriller Split (2016), and the superhero thriller Glass (2019). Glass is the third and final chapter of his Unbreakable film series, which commenced in 2000. In addition to his directorial work, Shyamalan was a story creator and a producer for the horror film Devil (2010). Shyamalan was also called in for an uncredited rewrite for the teen film She's All That (1999) and also served as a writer for the film Stuart Little (1999). Shyamalan is also known for filming and setting his films in and around Philadelphia, Pennsylvania. Most of his commercially successful films were co-produced and released by Walt Disney Studios' Touchstone and Hollywood Pictures and Universal imprints. In 2008, Shyamalan was awarded the Padma Shri by the government of India.",
+        "birthday": "1970-08-06",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 11614,
+        "imdb_id": "nm0796117",
+        "known_for_department": "Directing",
+        "name": "M. Night Shyamalan",
+        "place_of_birth": "Mah\u00e9, India",
+        "popularity": 1.0733,
+        "profile_path": "/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 9.3956,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.89,
+                "vote_count": 8185,
+                "character": "Weston",
+                "credit_id": "52fe422ec3a36847f800a235",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 717980,
+                "original_language": "en",
+                "original_title": "Sharper",
+                "overview": "A small, wealthy family in New York City gets progressively torn apart by secrets, lies, and the theft that orchestrates all of it.",
+                "popularity": 4.058,
+                "poster_path": "/tq8x5F17q95T1j0up5rpzXFAylN.jpg",
+                "release_date": "2023-02-10",
+                "title": "Sharper",
+                "video": false,
+                "vote_average": 6.901,
+                "vote_count": 609,
+                "character": "David (Lawyer)",
+                "credit_id": "6380748dd6d64d008635e31c",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u30c7\u30a4\u30f4\u30a3\u30c3\u30c9\u30fb\u30d4\u30c8\u30a5"
+        ],
+        "biography": "David Pittu is an actor and director.",
+        "birthday": "1967-04-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3541,
+        "imdb_id": "nm0686042",
+        "known_for_department": "Acting",
+        "name": "David Pittu",
+        "place_of_birth": null,
+        "popularity": 0.1939,
+        "profile_path": "/uMVBTUEaCmkEpVR2tDKR1uSzsEG.jpg"
+    }
+}

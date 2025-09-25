@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
+                "genre_ids": [
+                    28,
+                    10752
+                ],
+                "id": 840326,
+                "original_language": "fi",
+                "original_title": "Sisu",
+                "overview": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.",
+                "popularity": 10.1824,
+                "poster_path": "/zehhtcLHnTOE0lw9rLTIRsJeeW2.jpg",
+                "release_date": "2022-09-09",
+                "title": "Sisu",
+                "video": false,
+                "vote_average": 7.408,
+                "vote_count": 2440,
+                "character": "Bank Customer",
+                "credit_id": "63d634d9c15b5500f0b72691",
+                "order": 56
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3169946,
+        "imdb_id": "nm2687493",
+        "known_for_department": "Acting",
+        "name": "Kari Parkkinen",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

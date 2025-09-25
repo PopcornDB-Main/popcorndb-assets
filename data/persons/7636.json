@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    53
+                ],
+                "id": 551,
+                "original_language": "en",
+                "original_title": "The Poseidon Adventure",
+                "overview": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+                "popularity": 3.772,
+                "poster_path": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+                "release_date": "1972-12-01",
+                "title": "The Poseidon Adventure",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 937,
+                "character": "Mr. Linarcos",
+                "credit_id": "52fe4251c3a36847f8014b6b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3lIuv1CO8g5vwbQsYsTqYJJ44qN.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 5924,
+                "original_language": "en",
+                "original_title": "Papillon",
+                "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+                "popularity": 4.6963,
+                "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+                "release_date": "1973-12-16",
+                "title": "Papillon",
+                "video": false,
+                "vote_average": 7.829,
+                "vote_count": 2006,
+                "character": "Deputy Warden",
+                "credit_id": "59c788a4c3a3681430059867",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Frederick Edward Sadoff",
+            "Fred Sadott"
+        ],
+        "biography": "Fred Sadoff\u00a0was an\u00a0American\u00a0stage, film and television\u00a0actor.",
+        "birthday": "1926-10-21",
+        "deathday": "1994-05-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 7636,
+        "imdb_id": "nm0755589",
+        "known_for_department": "Acting",
+        "name": "Fred Sadoff",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 0.8582,
+        "profile_path": "/5swO1WiAB9h01d0WIApNryD7Jpr.jpg"
+    }
+}

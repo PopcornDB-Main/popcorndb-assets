@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 240,
+                "original_language": "en",
+                "original_title": "The Godfather Part II",
+                "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+                "popularity": 16.2247,
+                "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+                "release_date": "1974-12-20",
+                "title": "The Godfather Part II",
+                "video": false,
+                "vote_average": 8.57,
+                "vote_count": 13187,
+                "character": "Senator #1",
+                "credit_id": "55e52f8392514137a80011ad",
+                "order": 58
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cSHie9qJvujqN4tYq6gx88WDf7o.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 576,
+                "original_language": "en",
+                "original_title": "The Wild Bunch",
+                "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+                "popularity": 4.049,
+                "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+                "release_date": "1969-06-19",
+                "title": "The Wild Bunch",
+                "video": false,
+                "vote_average": 7.609,
+                "vote_count": 1263,
+                "credit_id": "52fe4254c3a36847f8015e95",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1922-01-22",
+        "deathday": "1991-10-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 7768,
+        "imdb_id": "nm0271093",
+        "known_for_department": "Production",
+        "name": "Phil Feldman",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.0574,
+        "profile_path": null
+    }
+}

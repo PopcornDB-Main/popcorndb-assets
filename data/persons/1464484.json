@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4b2t4F8Ho5H0wKvylvOA7F2KbVr.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 20766,
+                "original_language": "en",
+                "original_title": "The Road",
+                "overview": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones and, when the snow falls, it is gray. Their destination is the warmer south, although they don't know what, if anything, awaits them there.",
+                "popularity": 5.2829,
+                "poster_path": "/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+                "release_date": "2009-11-25",
+                "title": "The Road",
+                "video": false,
+                "vote_average": 7.016,
+                "vote_count": 4043,
+                "character": "Baby Eater",
+                "credit_id": "62189c8ea88587006cd45a6c",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 8408,
+                "original_language": "en",
+                "original_title": "Day of the Dead",
+                "overview": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+                "popularity": 3.2169,
+                "poster_path": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+                "release_date": "1985-07-03",
+                "title": "Day of the Dead",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 1308,
+                "character": "Featured Zombie",
+                "credit_id": "5910ee38c3a36864ec034b23",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1464484,
+        "imdb_id": "nm0862955",
+        "known_for_department": "Acting",
+        "name": "Mark Tierno",
+        "place_of_birth": null,
+        "popularity": 0.0707,
+        "profile_path": "/tCupPNmJVkiWzuE1XUXUAFEmA8s.jpg"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    35,
+                    18
+                ],
+                "id": 680,
+                "original_language": "en",
+                "original_title": "Pulp Fiction",
+                "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+                "popularity": 18.5743,
+                "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+                "release_date": "1994-09-10",
+                "title": "Pulp Fiction",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 29078,
+                "character": "Sportscaster #1 - Coffee Shop",
+                "credit_id": "52fe426ac3a36847f801cb53",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 640,
+                "original_language": "en",
+                "original_title": "Catch Me If You Can",
+                "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+                "popularity": 11.2084,
+                "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+                "release_date": "2002-12-16",
+                "title": "Catch Me If You Can",
+                "video": false,
+                "vote_average": 7.979,
+                "vote_count": 16345,
+                "character": "Hotel Manager",
+                "credit_id": "596becf6c3a3684c02006341",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eohMDv8x1XRSkPdjWv5xsFct4Dj.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 500,
+                "original_language": "en",
+                "original_title": "Reservoir Dogs",
+                "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+                "popularity": 10.7688,
+                "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+                "release_date": "1992-09-02",
+                "title": "Reservoir Dogs",
+                "video": false,
+                "vote_average": 8.118,
+                "vote_count": 14838,
+                "character": "Shot Cop",
+                "credit_id": "5adc1dc19251410ac50187bd",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bob Ruth"
+        ],
+        "biography": "",
+        "birthday": "1936-01-01",
+        "deathday": "2018-12-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 1173999,
+        "imdb_id": "nm0751936",
+        "known_for_department": "Acting",
+        "name": "Robert Ruth",
+        "place_of_birth": "Chicago, Illinois, USA",
+        "popularity": 0.0956,
+        "profile_path": "/7evl0ZWubDDaIHnRA546Aj8WGvG.jpg"
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/Ma7mQsldFCaQpsZbm8zolgLfmV.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 901,
+                "original_language": "en",
+                "original_title": "City Lights",
+                "overview": "A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+                "popularity": 3.4158,
+                "poster_path": "/ugmakEL5y294I5bXgiBqApuZpwc.jpg",
+                "release_date": "1931-02-06",
+                "title": "City Lights",
+                "video": false,
+                "vote_average": 8.265,
+                "vote_count": 2318,
+                "character": "His Butler",
+                "credit_id": "52fe428ac3a36847f8026be5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 3082,
+                "original_language": "en",
+                "original_title": "Modern Times",
+                "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+                "popularity": 4.5373,
+                "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+                "release_date": "1936-02-05",
+                "title": "Modern Times",
+                "video": false,
+                "vote_average": 8.283,
+                "vote_count": 3884,
+                "character": "President of the Electro Steel Corp.",
+                "credit_id": "52fe4383c3a36847f8059f05",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hVla7xGSvz2z3Q81Nijax3zc5N5.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 28978,
+                "original_language": "en",
+                "original_title": "The Circus",
+                "overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
+                "popularity": 2.8279,
+                "poster_path": "/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg",
+                "release_date": "1928-01-06",
+                "title": "The Circus",
+                "video": false,
+                "vote_average": 7.934,
+                "vote_count": 840,
+                "character": "The Circus Proprietor and Ring Master",
+                "credit_id": "52fe45bfc3a368484e06cad5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    18
+                ],
+                "id": 962,
+                "original_language": "en",
+                "original_title": "The Gold Rush",
+                "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+                "popularity": 3.1193,
+                "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+                "release_date": "1925-07-13",
+                "title": "The Gold Rush",
+                "video": false,
+                "vote_average": 7.987,
+                "vote_count": 1706,
+                "character": "Prospector (uncredited)",
+                "credit_id": "5665cb1692514179e500049d",
+                "order": 38
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/Ma7mQsldFCaQpsZbm8zolgLfmV.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 901,
+                "original_language": "en",
+                "original_title": "City Lights",
+                "overview": "A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+                "popularity": 3.4158,
+                "poster_path": "/ugmakEL5y294I5bXgiBqApuZpwc.jpg",
+                "release_date": "1931-02-06",
+                "title": "City Lights",
+                "video": false,
+                "vote_average": 8.265,
+                "vote_count": 2318,
+                "credit_id": "52fe428ac3a36847f8026c05",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 3082,
+                "original_language": "en",
+                "original_title": "Modern Times",
+                "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+                "popularity": 4.5373,
+                "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+                "release_date": "1936-02-05",
+                "title": "Modern Times",
+                "video": false,
+                "vote_average": 8.283,
+                "vote_count": 3884,
+                "credit_id": "5621ae19c3a3680e100096f3",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hVla7xGSvz2z3Q81Nijax3zc5N5.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 28978,
+                "original_language": "en",
+                "original_title": "The Circus",
+                "overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
+                "popularity": 2.8279,
+                "poster_path": "/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg",
+                "release_date": "1928-01-06",
+                "title": "The Circus",
+                "video": false,
+                "vote_average": 7.934,
+                "vote_count": 840,
+                "credit_id": "6643f442e611e54458ec035c",
+                "department": "Production",
+                "job": "Casting"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Allan Ernest Garcia",
+            "Al E. Garcia",
+            "A.E. Garcia",
+            "Allan Garcia",
+            "Alan Garcia",
+            "Allen Garcia",
+            "Al Garcia",
+            "A. Garcia",
+            "Albert E. Garcia",
+            "Albert Garcia",
+            "Alfred Garcia",
+            "Ernesto Garcia",
+            "Ernest Garcia",
+            "Earnest Garcia",
+            "Frank Garcia"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia\n\nAl Ernest Garcia (11 March 1887 \u2013 4 September 1938) was an American actor, best known for his long association with Charlie Chaplin. He acted with Chaplin in six films between 1921 and 1936, cast mostly in clinical or villainous supporting roles. Garcia portrayed the brutal circus director in The Circus (1928), the snobbish butler of the millionaire in City Lights (1931), and the factory owner in Modern Times (1936). He was also a casting director for Chaplin on The Circus, City Lights, and Modern Times.\n\nGarcia was co-founder of the Motion Picture Extras and Supporting Players Association, founded in 1933.",
+        "birthday": "1887-03-11",
+        "deathday": "1938-09-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 13855,
+        "imdb_id": "nm0305087",
+        "known_for_department": "Acting",
+        "name": "Al Ernest Garcia",
+        "place_of_birth": "San Francisco, California, USA",
+        "popularity": 2.6565,
+        "profile_path": "/pz1VDUCBCvNiZ8qAHg9N4ejXmSX.jpg"
+    }
+}

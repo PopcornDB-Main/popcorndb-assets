@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/1l1013J6IQIipxN7KHTWipVngT0.jpg",
+                "genre_ids": [
+                    35,
+                    16,
+                    10751
+                ],
+                "id": 227973,
+                "original_language": "en",
+                "original_title": "The Peanuts Movie",
+                "overview": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest.",
+                "popularity": 5.693,
+                "poster_path": "/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg",
+                "release_date": "2015-11-05",
+                "title": "The Peanuts Movie",
+                "video": false,
+                "vote_average": 6.936,
+                "vote_count": 1722,
+                "character": "Group Voices (voice)",
+                "credit_id": "5ac662070e0a2649740128a9",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35
+                ],
+                "id": 10193,
+                "original_language": "en",
+                "original_title": "Toy Story 3",
+                "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+                "popularity": 14.6828,
+                "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+                "release_date": "2010-06-16",
+                "title": "Toy Story 3",
+                "video": false,
+                "vote_average": 7.802,
+                "vote_count": 15172,
+                "character": "Children (voice)",
+                "credit_id": "5ab19d4e925141646200057b",
+                "order": 51
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Theodore Finn Kayser"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2003733,
+        "imdb_id": "nm4161439",
+        "known_for_department": "Acting",
+        "name": "Theodore F. Kayser",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

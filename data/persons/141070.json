@@ -1,0 +1,157 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hwMWJ8G5173SGCHzrm0mVjvESaY.jpg",
+                "genre_ids": [
+                    27,
+                    18
+                ],
+                "id": 13666,
+                "original_language": "en",
+                "original_title": "The Wolf Man",
+                "overview": "After his brother's death, Larry Talbot returns home to his father and the family estate. Events soon take a turn for the worse when Larry is bitten by a werewolf.",
+                "popularity": 1.3643,
+                "poster_path": "/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg",
+                "release_date": "1941-12-12",
+                "title": "The Wolf Man",
+                "video": false,
+                "vote_average": 7.012,
+                "vote_count": 645,
+                "character": "Townswoman (uncredited)",
+                "credit_id": "6415e3e6e741460082163269",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 887,
+                "original_language": "en",
+                "original_title": "The Best Years of Our Lives",
+                "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+                "popularity": 5.3127,
+                "poster_path": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+                "release_date": "1946-12-25",
+                "title": "The Best Years of Our Lives",
+                "video": false,
+                "vote_average": 7.79,
+                "vote_count": 694,
+                "character": "Wedding Guest (uncredited)",
+                "credit_id": "64e28338a3b5e601d63b46d9",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 705,
+                "original_language": "en",
+                "original_title": "All About Eve",
+                "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+                "popularity": 2.0482,
+                "poster_path": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+                "release_date": "1950-11-09",
+                "title": "All About Eve",
+                "video": false,
+                "vote_average": 8.076,
+                "vote_count": 1604,
+                "character": "Sarah Siddons Awards Guest (uncredited)",
+                "credit_id": "636a4abd66565a007a460822",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/h1vBJ0uN4QCbBb5WVKxmtfTrHoY.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 11697,
+                "original_language": "en",
+                "original_title": "The Man Who Shot Liberty Valance",
+                "overview": "Questions arise when Senator Stoddard attends the funeral of a local man named Tom Doniphon in a small Western town. Flashing back, we learn Doniphon saved Stoddard, then a lawyer, when he was roughed up by a crew of outlaws terrorizing the town, led by Liberty Valance. As the territory's safety hung in the balance, Doniphon and Stoddard, two of the only people standing up to him, proved to be very important, but different, foes to Valance.",
+                "popularity": 2.5409,
+                "poster_path": "/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+                "release_date": "1962-04-13",
+                "title": "The Man Who Shot Liberty Valance",
+                "video": false,
+                "vote_average": 7.808,
+                "vote_count": 1216,
+                "character": "Townswoman (uncredited)",
+                "credit_id": "57001326c3a3686e84002e23",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 599,
+                "original_language": "en",
+                "original_title": "Sunset Boulevard",
+                "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+                "popularity": 5.7842,
+                "poster_path": "/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+                "release_date": "1950-08-10",
+                "title": "Sunset Boulevard",
+                "video": false,
+                "vote_average": 8.293,
+                "vote_count": 2743,
+                "character": "Courtier (uncredited)",
+                "credit_id": "57b5ee32c3a3687df8002a8c",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    10402,
+                    10749
+                ],
+                "id": 15121,
+                "original_language": "en",
+                "original_title": "The Sound of Music",
+                "overview": "In the years before the Second World War, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+                "popularity": 9.232,
+                "poster_path": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+                "release_date": "1965-03-29",
+                "title": "The Sound of Music",
+                "video": false,
+                "vote_average": 7.725,
+                "vote_count": 3442,
+                "character": "Party Guest (uncredited)",
+                "credit_id": "5ae5cc47c3a3687d000056e6",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Gertrude Aster",
+            "Gertrude Irene Eyster"
+        ],
+        "biography": "Gertrude Astor (Born Gertrude Eyster November 9, 1887 \u2013 November 9, 1977) was an American motion picture character actress, who began her career playing trombone on a riverboat.\n\nBorn in Lakewood, Ohio, Astor at the age of 12 ran off and  joined a woman's band as a trombone player and toured the states. In New York she left the band to obtain film work and got a job as an extra before her career took off. Astor was a prolific performer, between 1915 and 1962 she appeared in over 250 movies. Her first known credit is in a Biograph short in 1915. She then became a contract player at Universal. A tall, angular and beautiful woman, Astor frequently towered over the leading men of the era; thus, she was most frequently utilized in comedy roles as aristocrats, golddiggers and \"heroine's best pal\".\n\nHer best-known silent appearances were as the visiting stage star in Stage Struck (1925) with Gloria Swanson, as the vamp who plants stolen money on Harry Langdon in The Strong Man (1926), and as Laura LaPlante's wisecracking travelling companion in The Cat and the Canary (1927).\n\nAstor worked prolifically at Hal Roach studios with such headliners as Laurel and Hardy, Our Gang, and especially Charley Chase. She was also kept busy at Columbia Pictures' short subjects unit.\n\nShe continued to play bits in feature films throughout the 1940s, 1950s, and 1960s. She was briefly glimpsed as the first murder victim in the Sherlock Holmes adventure The Scarlet Claw and was among the ranks of dress extras in 1956's Around the World in Eighty Days. Her last appearance was in John Ford's The Man Who Shot Liberty Valance.\n\nIn her later years, Astor was a welcome guest at several Sons of the Desert gatherings, and became an honorary member of the Way Out West tent.\n\nShe died in Woodland Hills, California from a stroke. She is interred in the Abbey of Psalms in the Hollywood Forever Cemetery in Hollywood, CA.",
+        "birthday": "1887-11-09",
+        "deathday": "1977-11-09",
+        "gender": 1,
+        "homepage": null,
+        "id": 141070,
+        "imdb_id": "nm0040090",
+        "known_for_department": "Acting",
+        "name": "Gertrude Astor",
+        "place_of_birth": "Lakewood, Ohio, USA",
+        "popularity": 0.1738,
+        "profile_path": "/jjIoqFS6mmfZFlhX8pcBhPVzIBJ.jpg"
+    }
+}

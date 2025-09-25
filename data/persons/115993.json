@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8uw6OCa4ofQ6A9xz5ldtgnEVPDr.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 8438,
+                "original_language": "en",
+                "original_title": "Murder in the First",
+                "overview": "A young, inexperienced public defender is assigned to defend an inmate accused of committing murder while behind bars.",
+                "popularity": 2.9513,
+                "poster_path": "/sU37ONoL9qUyYXUhubJSYH9tEoc.jpg",
+                "release_date": "1995-01-20",
+                "title": "Murder in the First",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 585,
+                "character": "Winthrop",
+                "credit_id": "67392c55d17d5c34fbeebe61",
+                "order": 18
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1921-03-04",
+        "deathday": "2002-12-19",
+        "gender": 0,
+        "homepage": null,
+        "id": 115993,
+        "imdb_id": "nm0056582",
+        "known_for_department": "Acting",
+        "name": "Tony Barr",
+        "place_of_birth": null,
+        "popularity": 0.0582,
+        "profile_path": null
+    }
+}

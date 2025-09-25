@@ -1,0 +1,163 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8rBBojmT5vwkuVh2hFWBkbWtlBX.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 10139,
+                "original_language": "en",
+                "original_title": "Milk",
+                "overview": "The true story of Harvey Milk, the first openly gay man ever elected to public office. In San Francisco in the late 1970s, Harvey Milk becomes an activist for gay rights and inspires others to join him in his fight for equal rights that should be available to all Americans.",
+                "popularity": 4.2884,
+                "poster_path": "/ot4ImF4b7QbS6XsTdMH3pWxNmX2.jpg",
+                "release_date": "2008-11-05",
+                "title": "Milk",
+                "video": false,
+                "vote_average": 7.239,
+                "vote_count": 2294,
+                "character": "Anne Kronenberg",
+                "credit_id": "52fe43339251416c75007581",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sIJTdyF6JFbIz5mENPpeSlCKYyB.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10749
+                ],
+                "id": 59436,
+                "original_language": "en",
+                "original_title": "Midnight in Paris",
+                "overview": "While on a trip to Paris with his fianc\u00e9e's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+                "popularity": 5.2502,
+                "poster_path": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+                "release_date": "2011-05-11",
+                "title": "Midnight in Paris",
+                "video": false,
+                "vote_average": 7.521,
+                "vote_count": 7491,
+                "character": "Zelda Fitzgerald",
+                "credit_id": "52fe4990c3a36847f81a0bb3",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/33dV6HAnXBmwKl640gO3U4auqUN.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    18
+                ],
+                "id": 110415,
+                "original_language": "ko",
+                "original_title": "\uc124\uad6d\uc5f4\ucc28",
+                "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+                "popularity": 13.301,
+                "poster_path": "/9JPx09Rr0Txq2eSQfjq1DEBR5cx.jpg",
+                "release_date": "2013-08-01",
+                "title": "Snowpiercer",
+                "video": false,
+                "vote_average": 6.908,
+                "vote_count": 9997,
+                "character": "Teacher",
+                "credit_id": "52fe4ad6c3a36847f81e44ad",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 376290,
+                "original_language": "en",
+                "original_title": "Miss Sloane",
+                "overview": "An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.",
+                "popularity": 3.8499,
+                "poster_path": "/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+                "release_date": "2016-11-25",
+                "title": "Miss Sloane",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 1895,
+                "character": "Jane Molloy",
+                "credit_id": "568d95bf9251416b5500069b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 429197,
+                "original_language": "en",
+                "original_title": "Vice",
+                "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive r\u00e9sum\u00e9 includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+                "popularity": 4.4438,
+                "poster_path": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+                "release_date": "2018-12-25",
+                "title": "Vice",
+                "video": false,
+                "vote_average": 7.016,
+                "vote_count": 3453,
+                "character": "Mary Cheney",
+                "credit_id": "5a1918acc3a3680b88026a29",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    10749
+                ],
+                "id": 22538,
+                "original_language": "en",
+                "original_title": "Scott Pilgrim vs. the World",
+                "overview": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+                "popularity": 9.42,
+                "poster_path": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+                "release_date": "2010-08-12",
+                "title": "Scott Pilgrim vs. the World",
+                "video": false,
+                "vote_average": 7.49,
+                "vote_count": 8202,
+                "character": "Kim Pine",
+                "credit_id": "5fb8439efb3f61004127cbe4",
+                "order": 4
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc54c\ub9ac\uc2a8 \ud544",
+            "\u827e\u8389\u68ee\u00b7\u76ae\u723e",
+            "\u0622\u0644\u06cc\u0633\u0648\u0646 \u067e\u06cc\u0644"
+        ],
+        "biography": "Alison Pill is a Canadian actress and a former child actress. Pill began her career at age 12, appearing in numerous films and television series. She transitioned to adult roles and her breakthrough came with the television series The Book of Daniel (2006). That same year, she was nominated for a Tony Award for Best Featured Actress in a Play for her performance in The Lieutenant of Inishmore (2006). Pill had prominent roles in the films Confessions of a Teenage Drama Queen (2004), Plain Truth (2004), Milk (2008), Scott Pilgrim vs. the World (2010), Midnight in Paris (2011), Hail, Caesar! (2016), Vice (2018), the television series In Treatment (2009), The Pillars of the Earth (2010), The Newsroom (2012\u20132014), American Horror Story: Cult (2017), Star Trek: Picard (2020\u20132022), Devs (2020), and Them (2021).",
+        "birthday": "1985-11-27",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 17486,
+        "imdb_id": "nm0683467",
+        "known_for_department": "Acting",
+        "name": "Alison Pill",
+        "place_of_birth": "Toronto, Ontario, Canada",
+        "popularity": 1.0068,
+        "profile_path": "/ebcCkhqFtHvHx5dkBfVmlAknDxC.jpg"
+    }
+}

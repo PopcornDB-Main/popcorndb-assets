@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bWftGh0aLMzb8wetgziLq3fHpTJ.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 9769,
+                "original_language": "en",
+                "original_title": "Lolita",
+                "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+                "popularity": 10.0685,
+                "poster_path": "/9INcC14WZjCMKGE360VXmklCLdZ.jpg",
+                "release_date": "1997-09-27",
+                "title": "Lolita",
+                "video": false,
+                "vote_average": 7.135,
+                "vote_count": 1876,
+                "character": "Miss LaBone",
+                "credit_id": "54a42a0e925141198b006ce9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gwRWQeHfPuA8mg73kydQsM8rdXq.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 687,
+                "original_language": "en",
+                "original_title": "Dead Man Walking",
+                "overview": "A death row inmate turns for spiritual guidance to a local nun in the days leading up to his scheduled execution for the murders of a young couple.",
+                "popularity": 3.2164,
+                "poster_path": "/eShxyjhWoFl3BwsuEmVsr4nLaMZ.jpg",
+                "release_date": "1995-12-29",
+                "title": "Dead Man Walking",
+                "video": false,
+                "vote_average": 7.328,
+                "vote_count": 1416,
+                "character": "Parent #2",
+                "credit_id": "6374b79de6d3cc009be4a5b5",
+                "order": 43
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Joan Glover is known for Lolita (1997), Forces of Nature (1999) and Dead Man Walking (1995).",
+        "birthday": "1936-11-28",
+        "deathday": "2007-07-03",
+        "gender": 1,
+        "homepage": null,
+        "id": 1407052,
+        "imdb_id": "nm0323136",
+        "known_for_department": "Acting",
+        "name": "Joan Glover",
+        "place_of_birth": null,
+        "popularity": 0.1112,
+        "profile_path": "/evZY18PBHKiogK17Gf35z8GycnZ.jpg"
+    }
+}

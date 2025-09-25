@@ -1,0 +1,49 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878,
+                    53
+                ],
+                "id": 154,
+                "original_language": "en",
+                "original_title": "Star Trek II: The Wrath of Khan",
+                "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+                "popularity": 3.0596,
+                "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+                "release_date": "1982-06-04",
+                "title": "Star Trek II: The Wrath of Khan",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 2015,
+                "character": "Dr. David Marcus",
+                "credit_id": "52fe421fc3a36847f8005c27",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Merritt R. Butrick"
+        ],
+        "biography": "",
+        "birthday": "1959-09-03",
+        "deathday": "1989-03-17",
+        "gender": 2,
+        "homepage": null,
+        "id": 1795,
+        "imdb_id": "nm0125190",
+        "known_for_department": "Acting",
+        "name": "Merritt Butrick",
+        "place_of_birth": "Gainesville, Florida, USA",
+        "popularity": 0.4079,
+        "profile_path": "/ttqpi6Z3yfXxzyGnjNWYsiOobn9.jpg"
+    }
+}

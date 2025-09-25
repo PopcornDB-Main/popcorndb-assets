@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    53
+                ],
+                "id": 551,
+                "original_language": "en",
+                "original_title": "The Poseidon Adventure",
+                "overview": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+                "popularity": 2.4836,
+                "poster_path": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+                "release_date": "1972-12-01",
+                "title": "The Poseidon Adventure",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 937,
+                "character": "First Officer Larsen",
+                "credit_id": "56633f56c3a3682bef005363",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1930-11-19",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 151689,
+        "imdb_id": "nm0060789",
+        "known_for_department": "Acting",
+        "name": "Charles Bateman",
+        "place_of_birth": "San Diego, California, USA",
+        "popularity": 0.246,
+        "profile_path": "/aGkEkH67IOSLGXAZZfLBrGitdSV.jpg"
+    }
+}

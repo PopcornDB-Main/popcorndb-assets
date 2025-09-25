@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5KdLollJKNz9Pfy8jL2g9gEPEDw.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 469,
+                "original_language": "en",
+                "original_title": "Stranger Than Paradise",
+                "overview": "A New Yorker's life is thrown into a tailspin when his younger cousin surprise-visits him, starting a strange, unpredictable adventure.",
+                "popularity": 1.8253,
+                "poster_path": "/Q9wdlNjBOti4JhAjAQXphzShw3.jpg",
+                "release_date": "1984-10-01",
+                "title": "Stranger Than Paradise",
+                "video": false,
+                "vote_average": 7.151,
+                "vote_count": 570,
+                "character": "Aunt Lotte",
+                "credit_id": "52fe4247c3a36847f8011d9d",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 6397,
+        "imdb_id": "nm0823144",
+        "known_for_department": "Acting",
+        "name": "Cecillia Stark",
+        "place_of_birth": null,
+        "popularity": 0.0,
+        "profile_path": null
+    }
+}

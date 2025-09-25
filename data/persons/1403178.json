@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 717980,
+                "original_language": "en",
+                "original_title": "Sharper",
+                "overview": "A small, wealthy family in New York City gets progressively torn apart by secrets, lies, and the theft that orchestrates all of it.",
+                "popularity": 3.9657,
+                "poster_path": "/tq8x5F17q95T1j0up5rpzXFAylN.jpg",
+                "release_date": "2023-02-10",
+                "title": "Sharper",
+                "video": false,
+                "vote_average": 6.901,
+                "vote_count": 609,
+                "character": "Brenda",
+                "credit_id": "63f0f6ec4a4bfc00f07ce699",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tKRUCk2yARbAADLwwwrir6F5gpa.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 121986,
+                "original_language": "en",
+                "original_title": "Frances Ha",
+                "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+                "popularity": 6.1662,
+                "poster_path": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+                "release_date": "2013-05-17",
+                "title": "Frances Ha",
+                "video": false,
+                "vote_average": 7.35,
+                "vote_count": 1728,
+                "character": "\"Ask Me\" Girl",
+                "credit_id": "579535f3c3a3681f31004a80",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 492188,
+                "original_language": "en",
+                "original_title": "Marriage Story",
+                "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+                "popularity": 8.0279,
+                "poster_path": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+                "release_date": "2019-09-28",
+                "title": "Marriage Story",
+                "video": false,
+                "vote_average": 7.732,
+                "vote_count": 7159,
+                "character": "Agnes - Set Designer",
+                "credit_id": "5df607a565686e00138497a2",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Hannah Dunne (born 12 April 1990) is an American actress and model.",
+        "birthday": "1990-04-12",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1403178,
+        "imdb_id": "nm3231692",
+        "known_for_department": "Acting",
+        "name": "Hannah Dunne",
+        "place_of_birth": null,
+        "popularity": 0.9855,
+        "profile_path": "/moc83r7ZkviwYqJXeIE84YvKsUR.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mBh3NXCkSCasZGovzAuc9UlFCru.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    35
+                ],
+                "id": 14506,
+                "original_language": "en",
+                "original_title": "The Adventures of Baron Munchausen",
+                "overview": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+                "popularity": 4.4652,
+                "poster_path": "/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+                "release_date": "1988-12-07",
+                "title": "The Adventures of Baron Munchausen",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 947,
+                "character": "Treasurer",
+                "credit_id": "6290b70d209f1812c4aac952",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 192,
+                "original_language": "en",
+                "original_title": "The Name of the Rose",
+                "overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
+                "popularity": 4.2255,
+                "poster_path": "/2BuVu0j6v2kNY2gGxtO3sDGyob2.jpg",
+                "release_date": "1986-09-24",
+                "title": "The Name of the Rose",
+                "video": false,
+                "vote_average": 7.494,
+                "vote_count": 3164,
+                "character": "Monk",
+                "credit_id": "59a43e3ec3a3686a7900f721",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Franco Adducci was born on 13 June 1932. He was an actor, known for The Name of the Rose (1986), The Adventures of Baron Munchausen (1988) and The Killer Is Still Among Us (1986). He died on 4 January 1990 in Rome, Italy.",
+        "birthday": "1932-06-13",
+        "deathday": "1990-01-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 129337,
+        "imdb_id": "nm0011738",
+        "known_for_department": "Acting",
+        "name": "Franco Adducci",
+        "place_of_birth": "Rome, Lazio, Italy",
+        "popularity": 0.129,
+        "profile_path": null
+    }
+}

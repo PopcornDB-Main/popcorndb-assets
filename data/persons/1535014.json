@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/isnJGDrfR9dIrHMsPTvHtJaGEpc.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 504608,
+                "original_language": "en",
+                "original_title": "Rocketman",
+                "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+                "popularity": 4.1114,
+                "poster_path": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+                "release_date": "2019-05-17",
+                "title": "Rocketman",
+                "video": false,
+                "vote_average": 7.318,
+                "vote_count": 4818,
+                "character": "Dancer",
+                "credit_id": "643330124b6d9d00f3dc67bf",
+                "order": 69
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 17.7302,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 10313,
+                "character": "Dancer",
+                "credit_id": "64c1fd3edb4ed600aeb06845",
+                "order": 94
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Nikkita Chadha is a British actress and dancer from London, UK. Her heritage is Indian.",
+        "birthday": "1994-08-12",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1535014,
+        "imdb_id": "nm7703116",
+        "known_for_department": "Acting",
+        "name": "Nikkita Chadha",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.4645,
+        "profile_path": "/j0d1shh4OEBVjuZlFAoC1pugaps.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 322,
+                "original_language": "en",
+                "original_title": "Mystic River",
+                "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+                "popularity": 7.4564,
+                "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+                "release_date": "2003-10-08",
+                "title": "Mystic River",
+                "video": false,
+                "vote_average": 7.742,
+                "vote_count": 7056,
+                "character": "Communion Priest",
+                "credit_id": "5e52f916b87aec001aaa0378",
+                "order": 45
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 23168,
+                "original_language": "en",
+                "original_title": "The Town",
+                "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her \u2013 but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
+                "popularity": 10.1481,
+                "poster_path": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+                "release_date": "2010-09-15",
+                "title": "The Town",
+                "video": false,
+                "vote_average": 7.22,
+                "vote_count": 5308,
+                "character": "Morton Previt",
+                "credit_id": "5e52f9b8a76ac50016a58275",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1953-12-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2021442,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Ed O'Keefe",
+        "place_of_birth": "Boston, Massachusetts, USA",
+        "popularity": 0.0306,
+        "profile_path": null
+    }
+}

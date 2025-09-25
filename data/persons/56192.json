@@ -1,0 +1,178 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hdi07iPiYKVVzYUSKVU00r4j3ck.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 10734,
+                "original_language": "en",
+                "original_title": "Escape from Alcatraz",
+                "overview": "San Francisco Bay, January 18, 1960. Frank Lee Morris is transferred to Alcatraz, a maximum security prison located on a rocky island. Although no one has ever managed to escape from there, Frank and other inmates begin to carefully prepare an escape plan.",
+                "popularity": 8.2846,
+                "poster_path": "/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+                "release_date": "1979-06-22",
+                "title": "Escape from Alcatraz",
+                "video": false,
+                "vote_average": 7.513,
+                "vote_count": 2970,
+                "character": "Guard",
+                "credit_id": "57cb0ca7925141357d0040f0",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSH1j2uChyuxKmslXRf1AGyi43p.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 8879,
+                "original_language": "en",
+                "original_title": "Pale Rider",
+                "overview": "A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.",
+                "popularity": 4.5305,
+                "poster_path": "/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg",
+                "release_date": "1985-06-28",
+                "title": "Pale Rider",
+                "video": false,
+                "vote_average": 7.167,
+                "vote_count": 1131,
+                "character": "Stage Rider",
+                "credit_id": "5e053f279bcd0f001a0c6395",
+                "order": 46
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ydF3hT1fjrM71AbNAYBZKnq6rtL.jpg",
+                "genre_ids": [
+                    10752,
+                    18
+                ],
+                "id": 10015,
+                "original_language": "en",
+                "original_title": "Heartbreak Ridge",
+                "overview": "A hard-nosed, hard-living Marine gunnery sergeant clashes with his superiors and his ex-wife as he takes command of a spoiled recon platoon with a bad attitude.",
+                "popularity": 5.5789,
+                "poster_path": "/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg",
+                "release_date": "1986-12-05",
+                "title": "Heartbreak Ridge",
+                "video": false,
+                "vote_average": 6.887,
+                "vote_count": 1057,
+                "credit_id": "52fe43089251416c75000ca7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSH1j2uChyuxKmslXRf1AGyi43p.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 8879,
+                "original_language": "en",
+                "original_title": "Pale Rider",
+                "overview": "A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.",
+                "popularity": 4.5305,
+                "poster_path": "/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg",
+                "release_date": "1985-06-28",
+                "title": "Pale Rider",
+                "video": false,
+                "vote_average": 7.167,
+                "vote_count": 1131,
+                "credit_id": "52fe44c3c3a36847f80a8a67",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hdi07iPiYKVVzYUSKVU00r4j3ck.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 10734,
+                "original_language": "en",
+                "original_title": "Escape from Alcatraz",
+                "overview": "San Francisco Bay, January 18, 1960. Frank Lee Morris is transferred to Alcatraz, a maximum security prison located on a rocky island. Although no one has ever managed to escape from there, Frank and other inmates begin to carefully prepare an escape plan.",
+                "popularity": 8.2846,
+                "poster_path": "/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+                "release_date": "1979-06-22",
+                "title": "Escape from Alcatraz",
+                "video": false,
+                "vote_average": 7.513,
+                "vote_count": 2970,
+                "credit_id": "585eef9c92514115be0135cf",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ydF3hT1fjrM71AbNAYBZKnq6rtL.jpg",
+                "genre_ids": [
+                    10752,
+                    18
+                ],
+                "id": 10015,
+                "original_language": "en",
+                "original_title": "Heartbreak Ridge",
+                "overview": "A hard-nosed, hard-living Marine gunnery sergeant clashes with his superiors and his ex-wife as he takes command of a spoiled recon platoon with a bad attitude.",
+                "popularity": 5.5789,
+                "poster_path": "/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg",
+                "release_date": "1986-12-05",
+                "title": "Heartbreak Ridge",
+                "video": false,
+                "vote_average": 6.887,
+                "vote_count": 1057,
+                "credit_id": "59b29391925141070709d4f3",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSH1j2uChyuxKmslXRf1AGyi43p.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 8879,
+                "original_language": "en",
+                "original_title": "Pale Rider",
+                "overview": "A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.",
+                "popularity": 4.5305,
+                "poster_path": "/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg",
+                "release_date": "1985-06-28",
+                "title": "Pale Rider",
+                "video": false,
+                "vote_average": 7.167,
+                "vote_count": 1131,
+                "credit_id": "5e0536f29bcd0f00150ca7c4",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Fred George \"Fritz\" Manes was born on April 22, 1932 in Oakland, California. He met Clint Eastwood when both were attending Piedmont Junior High School. Manes served in the Marines during the Korean War and studied acting at the University of California, Los Angeles. He held a variety of jobs in radio and television before being hired by Clint Eastwood's production company, Malpaso, in 1973. During the 1970s and 1980s, Manes worked on a long list of Eastwood films as an associate producer, producer, or executive producer. He also occasionally played small roles or did stunt work. During the filming of Heartbreak Ridge, Manes and Eastwood had a falling out and Manes was unceremoniously fired from Malpaso. He later formed his own production company, Sundancer, and served on the California Film Commission.",
+        "birthday": "1932-04-22",
+        "deathday": "2011-09-27",
+        "gender": 2,
+        "homepage": null,
+        "id": 56192,
+        "imdb_id": "nm0541991",
+        "known_for_department": "Production",
+        "name": "Fritz Manes",
+        "place_of_birth": "Oakland, California, USA",
+        "popularity": 0.1075,
+        "profile_path": "/scvq2t0OSQQD7D0PQt5GqcYLOHQ.jpg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kOCJvnRYKg6CkvoFYbzz0itrUzR.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 384677,
+                "original_language": "en",
+                "original_title": "Set It Up",
+                "overview": "Two overworked and underpaid assistants come up with a plan to get their bosses off their backs by setting them up with each other.",
+                "popularity": 3.6377,
+                "poster_path": "/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+                "release_date": "2018-06-15",
+                "title": "Set It Up",
+                "video": false,
+                "vote_average": 6.926,
+                "vote_count": 2725,
+                "character": "Assistant Jamie",
+                "credit_id": "59847ecdc3a368754c0066fb",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 546554,
+                "original_language": "en",
+                "original_title": "Knives Out",
+                "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+                "popularity": 9.8244,
+                "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+                "release_date": "2019-11-27",
+                "title": "Knives Out",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 13116,
+                "character": "Alicia",
+                "credit_id": "5c0973629251414795020d35",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1709452,
+        "imdb_id": "nm8356373",
+        "known_for_department": "Acting",
+        "name": "Shyrley Rodriguez",
+        "place_of_birth": null,
+        "popularity": 0.1806,
+        "profile_path": "/jhu847FfnXsgWx740LEyE53gZZg.jpg"
+    }
+}

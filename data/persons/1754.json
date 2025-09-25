@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878,
+                    53
+                ],
+                "id": 154,
+                "original_language": "en",
+                "original_title": "Star Trek II: The Wrath of Khan",
+                "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+                "popularity": 3.0596,
+                "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+                "release_date": "1982-06-04",
+                "title": "Star Trek II: The Wrath of Khan",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 2014,
+                "character": "Cmdr. Pavel Chekov",
+                "credit_id": "52fe421fc3a36847f8005c1b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 4.0494,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1560,
+                "character": "Chekov",
+                "credit_id": "52fe4221c3a36847f80066bb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vfo2dzdXnoArYwrkM7kw1vgb7dL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 174,
+                "original_language": "en",
+                "original_title": "Star Trek VI: The Undiscovered Country",
+                "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+                "popularity": 2.135,
+                "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+                "release_date": "1991-12-06",
+                "title": "Star Trek VI: The Undiscovered Country",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1331,
+                "character": "Cmdr. Pavel Chekov",
+                "credit_id": "52fe4222c3a36847f8006ae3",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Walter Marvin Koenig"
+        ],
+        "biography": "Walter Marvin Koenig is an American actor, writer, teacher and director, known for his roles as Pavel Chekov in Star Trek and Alfred Bester in Babylon 5. He wrote the script for the 2008 science fiction legal thriller InAlienable.",
+        "birthday": "1936-09-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1754,
+        "imdb_id": "nm0000479",
+        "known_for_department": "Acting",
+        "name": "Walter Koenig",
+        "place_of_birth": "Chicago, Illinois, USA",
+        "popularity": 0.955,
+        "profile_path": "/zIZQwfxikwkPtZp8BqlzD1Gw2JC.jpg"
+    }
+}

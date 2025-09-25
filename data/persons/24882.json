@@ -1,0 +1,367 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.1065,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.024,
+                "vote_count": 2226,
+                "character": "Policeman (uncredited)",
+                "credit_id": "5cc39b030e0a260b0fefef1e",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "character": "Le client \u00e9gar\u00e9 / Le serveur (singing voice)",
+                "credit_id": "5e0d6327fd4f8000135d9b42",
+                "order": 25
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3yZva3ONs7C1kKJ6IVvrZQJCUIj.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10402,
+                    10749
+                ],
+                "id": 5590,
+                "original_language": "fr",
+                "original_title": "Peau d'\u00e2ne",
+                "overview": "A fairy godmother helps a princess disguise herself so she won't have to marry her father.",
+                "popularity": 1.6575,
+                "poster_path": "/kSODEFNpTBCOJNHhsbwrwvH0Uvd.jpg",
+                "release_date": "1970-12-20",
+                "title": "Donkey Skin",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 531,
+                "credit_id": "52fe440fc3a36847f8080003",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3yZva3ONs7C1kKJ6IVvrZQJCUIj.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10402,
+                    10749
+                ],
+                "id": 5590,
+                "original_language": "fr",
+                "original_title": "Peau d'\u00e2ne",
+                "overview": "A fairy godmother helps a princess disguise herself so she won't have to marry her father.",
+                "popularity": 1.6575,
+                "poster_path": "/kSODEFNpTBCOJNHhsbwrwvH0Uvd.jpg",
+                "release_date": "1970-12-20",
+                "title": "Donkey Skin",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 531,
+                "credit_id": "52fe440fc3a36847f8080057",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "credit_id": "52fe4433c3a36847f80880b5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "credit_id": "616e7b54bf09d1002d7947bf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "credit_id": "616e7b5c6728a8002a6674d3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "credit_id": "643881daab684900775ddac1",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3yZva3ONs7C1kKJ6IVvrZQJCUIj.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10402,
+                    10749
+                ],
+                "id": 5590,
+                "original_language": "fr",
+                "original_title": "Peau d'\u00e2ne",
+                "overview": "A fairy godmother helps a princess disguise herself so she won't have to marry her father.",
+                "popularity": 1.6575,
+                "poster_path": "/kSODEFNpTBCOJNHhsbwrwvH0Uvd.jpg",
+                "release_date": "1970-12-20",
+                "title": "Donkey Skin",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 531,
+                "credit_id": "643882481d53860077a47e77",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "credit_id": "5e0d64919974ee0015a54ab0",
+                "department": "Writing",
+                "job": "Scenario Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "credit_id": "5e0d649c9974ee0015a54abe",
+                "department": "Writing",
+                "job": "Dialogue"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 5967,
+                "original_language": "fr",
+                "original_title": "Les Parapluies de Cherbourg",
+                "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Genevi\u00e8ve Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Genevi\u00e8ve make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+                "popularity": 2.8064,
+                "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+                "release_date": "1964-02-19",
+                "title": "The Umbrellas of Cherbourg",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 836,
+                "credit_id": "5e0d679a5541fa00161f5448",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9x3yIrAJOkYSs0SBKcGCQlwPSNm.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "id": 2433,
+                "original_language": "fr",
+                "original_title": "Les Demoiselles de Rochefort",
+                "overview": "Delphine and Solange are two sisters living in Rochefort. Delphine is a dancing teacher and Solange composes and teaches the piano. Maxence is a poet and a painter. He is doing his military service. Simon owns a music shop, he left Paris one month ago to come back where he fell in love 10 years ago. They are looking for love, looking for each other, without being aware that their ideal partner is very close...",
+                "popularity": 1.7152,
+                "poster_path": "/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
+                "release_date": "1967-03-08",
+                "title": "The Young Girls of Rochefort",
+                "video": false,
+                "vote_average": 7.681,
+                "vote_count": 631,
+                "credit_id": "5ee44f4ba217c0001fd03bdf",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9x3yIrAJOkYSs0SBKcGCQlwPSNm.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "id": 2433,
+                "original_language": "fr",
+                "original_title": "Les Demoiselles de Rochefort",
+                "overview": "Delphine and Solange are two sisters living in Rochefort. Delphine is a dancing teacher and Solange composes and teaches the piano. Maxence is a poet and a painter. He is doing his military service. Simon owns a music shop, he left Paris one month ago to come back where he fell in love 10 years ago. They are looking for love, looking for each other, without being aware that their ideal partner is very close...",
+                "popularity": 1.7152,
+                "poster_path": "/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
+                "release_date": "1967-03-08",
+                "title": "The Young Girls of Rochefort",
+                "video": false,
+                "vote_average": 7.681,
+                "vote_count": 631,
+                "credit_id": "5ee44fa0197de4001f91cbdf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9x3yIrAJOkYSs0SBKcGCQlwPSNm.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "id": 2433,
+                "original_language": "fr",
+                "original_title": "Les Demoiselles de Rochefort",
+                "overview": "Delphine and Solange are two sisters living in Rochefort. Delphine is a dancing teacher and Solange composes and teaches the piano. Maxence is a poet and a painter. He is doing his military service. Simon owns a music shop, he left Paris one month ago to come back where he fell in love 10 years ago. They are looking for love, looking for each other, without being aware that their ideal partner is very close...",
+                "popularity": 1.7152,
+                "poster_path": "/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
+                "release_date": "1967-03-08",
+                "title": "The Young Girls of Rochefort",
+                "video": false,
+                "vote_average": 7.681,
+                "vote_count": 631,
+                "credit_id": "5ee4598197eab4001ee4573e",
+                "department": "Writing",
+                "job": "Lyricist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u96c5\u514b\u00b7\u5fb7\u7c73",
+            "\uc790\ub044 \ub4dc\ubbf8",
+            "\uc790\ud06c \ub4dc\ubbf8",
+            "\uc790\ud06c \ub370\ubbf8"
+        ],
+        "biography": "Jacques Demy (June 5, 1931 \u2013 October 27, 1990) was a French director and screenwriter. He appeared in the wake of the French New Wave. His films are well known for their sumptuous look, drawing on Hollywood musicals, fairy tales, jazz, and opera.",
+        "birthday": "1931-06-05",
+        "deathday": "1990-10-27",
+        "gender": 2,
+        "homepage": null,
+        "id": 24882,
+        "imdb_id": "nm0218840",
+        "known_for_department": "Directing",
+        "name": "Jacques Demy",
+        "place_of_birth": "Pontch\u00e2teau, Loire-Atlantique, France",
+        "popularity": 0.3608,
+        "profile_path": "/lAHh2WAzdI1RoylEYmWICZJVfCP.jpg"
+    }
+}

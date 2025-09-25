@@ -1,0 +1,123 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 197,
+                "original_language": "en",
+                "original_title": "Braveheart",
+                "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+                "popularity": 11.4772,
+                "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+                "release_date": "1995-05-24",
+                "title": "Braveheart",
+                "video": false,
+                "vote_average": 7.944,
+                "vote_count": 10594,
+                "character": "King Edward",
+                "credit_id": "52fe4225c3a36847f80079e3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hdi07iPiYKVVzYUSKVU00r4j3ck.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 10734,
+                "original_language": "en",
+                "original_title": "Escape from Alcatraz",
+                "overview": "San Francisco Bay, January 18, 1960. Frank Lee Morris is transferred to Alcatraz, a maximum security prison located on a rocky island. Although no one has ever managed to escape from there, Frank and other inmates begin to carefully prepare an escape plan.",
+                "popularity": 8.2773,
+                "poster_path": "/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+                "release_date": "1979-06-22",
+                "title": "Escape from Alcatraz",
+                "video": false,
+                "vote_average": 7.514,
+                "vote_count": 2968,
+                "character": "Warden",
+                "credit_id": "52fe43ac9251416c75019957",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/30XLt1HzwOsdciWVaYVxlJq3cjH.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 9016,
+                "original_language": "en",
+                "original_title": "Treasure Planet",
+                "overview": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
+                "popularity": 8.0455,
+                "poster_path": "/zMKatZ0c0NCoKzfizaCzVUcbKMf.jpg",
+                "release_date": "2002-11-26",
+                "title": "Treasure Planet",
+                "video": false,
+                "vote_average": 7.562,
+                "vote_count": 4404,
+                "character": "Billy Bones (voice)",
+                "credit_id": "52fe44d1c3a36847f80abe05",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 1645,
+                "original_language": "en",
+                "original_title": "A Time to Kill",
+                "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+                "popularity": 6.7739,
+                "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+                "release_date": "1996-07-24",
+                "title": "A Time to Kill",
+                "video": false,
+                "vote_average": 7.383,
+                "vote_count": 2686,
+                "character": "Judge Omar Noose",
+                "credit_id": "53b7bfec0e0a2676c7007301",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph Serf",
+            "Paddy Fitz",
+            "\u041f\u0430\u0442\u0440\u0456\u043a \u041c\u0430\u043a\u0413\u0443\u0435\u043d",
+            "Patrick Joseph McGoohan",
+            "\u067e\u0627\u062a\u0631\u06cc\u06a9 \u0645\u06a9\u200c\u06af\u0648\u0647\u0627\u0646"
+        ],
+        "biography": "Patrick Joseph McGoohan was an American-born actor, raised in Ireland and England, with an extensive stage and film career, most notably in the 1960s television series Danger Man (renamed Secret Agent when exported to the US), and The Prisoner. McGoohan wrote and directed several episodes of The Prisoner himself, occasionally using the pseudonyms Joseph Serf and Paddy Fitz. He subsequently appeared in several Columbo episodes, winning the Emmy twice, David Cronenberg's Scanners, and in Mel Gibson's Braveheart as King Edward I.",
+        "birthday": "1928-03-19",
+        "deathday": "2009-01-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 2463,
+        "imdb_id": "nm0001526",
+        "known_for_department": "Acting",
+        "name": "Patrick McGoohan",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 1.1571,
+        "profile_path": "/4oL5giyb1n4uxT4Nr3CPk6ugE8A.jpg"
+    }
+}

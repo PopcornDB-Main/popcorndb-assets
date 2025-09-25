@@ -1,0 +1,157 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tAbDYp1b7zK2oOhJKcza63dUtOl.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 636565,
+                "original_language": "it",
+                "original_title": "L'incredibile storia dell'Isola delle Rose",
+                "overview": "In 1968, engineer Giorgio Rosa established the independent state called \"The Isle of Roses\" off the coast of Rimini, built on a platform outside the territorial waters, with Esperanto as the official language. The Italian authorities did not take it well because the micronation was seen as an expedient to not pay taxes on the revenues obtained thanks to the arrival of numerous tourists and curious people.",
+                "popularity": 1.9811,
+                "poster_path": "/fbmYUDOo6tNq3A1VWhhxE6pjNEB.jpg",
+                "release_date": "2020-12-09",
+                "title": "Rose Island",
+                "video": false,
+                "vote_average": 7.036,
+                "vote_count": 1361,
+                "character": "Bruno Spaggiari",
+                "credit_id": "5d970fcb29c6263519862955",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k8IWwxApf3cVkv9bkAOQHbUveXE.jpg",
+                "genre_ids": [
+                    28,
+                    35
+                ],
+                "id": 439584,
+                "original_language": "it",
+                "original_title": "Smetto quando voglio - Ad honorem",
+                "overview": "Has been an year since Pietro Zinni's gang got caught in the Sopox production laboratory and each of them locked up in different jails. From Regina Coeli jail, Pietro keep warning the authorities a fool syntetized nerve gas and he is ready to make a killing, but no one takes him seriously.",
+                "popularity": 1.6925,
+                "poster_path": "/n4uLV4vdMltzUoxeHQJNoDKoiOY.jpg",
+                "release_date": "2017-11-30",
+                "title": "I Can Quit Whenever I Want 3: Ad Honorem",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 977,
+                "character": "Uomo Mercurio #2",
+                "credit_id": "5dfda605d236e600128bab5a",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/croyOm5E0cv5DQkdAx60YLtGg2X.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80
+                ],
+                "id": 406385,
+                "original_language": "it",
+                "original_title": "Smetto quando voglio - Masterclass",
+                "overview": "Pietro Zinni is asked by the police to revive the old gang to create a task force that will stop the spread of smart drugs.",
+                "popularity": 2.156,
+                "poster_path": "/hBQgBWtDym6E7Qem6uhbWJUUHW8.jpg",
+                "release_date": "2017-02-02",
+                "title": "I Can Quit Whenever I Want 2: Masterclass",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1228,
+                "character": "Uomo Mercurio #2",
+                "credit_id": "5dfda5bf9824c80015ded2b4",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 974576,
+                "original_language": "en",
+                "original_title": "Conclave",
+                "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+                "popularity": 8.0413,
+                "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+                "release_date": "2024-10-25",
+                "title": "Conclave",
+                "video": false,
+                "vote_average": 7.206,
+                "vote_count": 2900,
+                "credit_id": "6624547fcb5c8e01873f9b60",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zTnpY0BXP6ytvV4ZMsAmsIEDmNM.jpg",
+                "genre_ids": [
+                    18,
+                    14
+                ],
+                "id": 481432,
+                "original_language": "it",
+                "original_title": "Lazzaro felice",
+                "overview": "Purehearted teen Lazzaro is content living as a sharecropper in rural Italy, but an unlikely friendship with the marquise\u2019s son will change his world.",
+                "popularity": 5.0065,
+                "poster_path": "/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg",
+                "release_date": "2018-05-31",
+                "title": "Happy as Lazzaro",
+                "video": false,
+                "vote_average": 7.397,
+                "vote_count": 735,
+                "credit_id": "5bd2fd509251415ac600b790",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 974576,
+                "original_language": "en",
+                "original_title": "Conclave",
+                "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+                "popularity": 8.0413,
+                "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+                "release_date": "2024-10-25",
+                "title": "Conclave",
+                "video": false,
+                "vote_average": 7.206,
+                "vote_count": 2900,
+                "credit_id": "67664c6d71680b82ae90e80a",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1983-10-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1719159,
+        "imdb_id": "nm2181131",
+        "known_for_department": "Acting",
+        "name": "Marco Pancrazi",
+        "place_of_birth": "Tivoli, Lazio, Italy",
+        "popularity": 0.7861,
+        "profile_path": "/lcVvgSX4GC4jEtRx1ogrUX0ciNl.jpg"
+    }
+}

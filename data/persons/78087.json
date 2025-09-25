@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3w2YSii9wQZsKKucAYwVxzOwm7s.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10752
+                ],
+                "id": 11589,
+                "original_language": "en",
+                "original_title": "Kelly's Heroes",
+                "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+                "popularity": 4.106,
+                "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+                "release_date": "1970-06-22",
+                "title": "Kelly's Heroes",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 757,
+                "character": "Platoon Sgt. Bellamy (42nd Engineers)",
+                "credit_id": "52fe44619251416c75032bc9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kXsjmuBgRzsujspv4BiHsIgzOnD.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 10747,
+                "original_language": "en",
+                "original_title": "The Outlaw Josey Wales",
+                "overview": "After avenging his family's brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him - and Wales can't bring himself to leave them unprotected.",
+                "popularity": 4.1894,
+                "poster_path": "/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+                "release_date": "1976-06-30",
+                "title": "The Outlaw Josey Wales",
+                "video": false,
+                "vote_average": 7.44,
+                "vote_count": 1209,
+                "character": "Abe",
+                "credit_id": "54d79a09c3a368439a005ea9",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3lIuv1CO8g5vwbQsYsTqYJJ44qN.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 5924,
+                "original_language": "en",
+                "original_title": "Papillon",
+                "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+                "popularity": 4.6963,
+                "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+                "release_date": "1973-12-16",
+                "title": "Papillon",
+                "video": false,
+                "vote_average": 7.829,
+                "vote_count": 2006,
+                "character": "Guard",
+                "credit_id": "54d7fdd2c3a3683b920070a8",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Leonard King Lesser"
+        ],
+        "biography": "Leonard King Lesser (December 3, 1922 \u2013 February 16, 2011) was an American character actor and comedian best known for his recurring role as Uncle Leo on Seinfeld. He was also known for his role as Garvin on Everybody Loves Raymond.",
+        "birthday": "1922-12-03",
+        "deathday": "2011-02-16",
+        "gender": 2,
+        "homepage": null,
+        "id": 78087,
+        "imdb_id": "nm0504335",
+        "known_for_department": "Acting",
+        "name": "Len Lesser",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2762,
+        "profile_path": "/5qOuWP5I8JKVxD4WGyUfr4UaPHq.jpg"
+    }
+}

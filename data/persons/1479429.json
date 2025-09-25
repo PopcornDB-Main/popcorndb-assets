@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 9799,
+                "original_language": "en",
+                "original_title": "The Fast and the Furious",
+                "overview": "Dominic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.",
+                "popularity": 1.2302,
+                "poster_path": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+                "release_date": "2001-06-22",
+                "title": "The Fast and the Furious",
+                "video": false,
+                "vote_average": 6.997,
+                "vote_count": 10403,
+                "character": "Night Truck Driver",
+                "credit_id": "617eba76a097dc009225a992",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+                "genre_ids": [
+                    28,
+                    36,
+                    10752
+                ],
+                "id": 10590,
+                "original_language": "en",
+                "original_title": "We Were Soldiers",
+                "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+                "popularity": 3.0746,
+                "poster_path": "/d5uupBAORxnFNbkNQ2G0Bi2cpY8.jpg",
+                "release_date": "2002-03-01",
+                "title": "We Were Soldiers",
+                "video": false,
+                "vote_average": 7.142,
+                "vote_count": 2147,
+                "character": "Sfc. Bob White, Mortar Sergeant",
+                "credit_id": "55d21214c3a368587500772f",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1961-10-21",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1479429,
+        "imdb_id": "nm0925237",
+        "known_for_department": "Acting",
+        "name": "Mike White",
+        "place_of_birth": " Columbia, South Carolina, USA",
+        "popularity": 0.6765,
+        "profile_path": null
+    }
+}

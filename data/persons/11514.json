@@ -1,0 +1,257 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ySmjHc3LZd4VmmIa6sgwkMIm6xl.jpg",
+                "genre_ids": [
+                    35,
+                    10751
+                ],
+                "id": 771,
+                "original_language": "en",
+                "original_title": "Home Alone",
+                "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+                "popularity": 0.6992,
+                "poster_path": "/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
+                "release_date": "1990-11-16",
+                "title": "Home Alone",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 11855,
+                "character": "Kate",
+                "credit_id": "52fe4274c3a36847f801ff9b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+                "genre_ids": [
+                    14,
+                    35
+                ],
+                "id": 4011,
+                "original_language": "en",
+                "original_title": "Beetlejuice",
+                "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+                "popularity": 8.3153,
+                "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+                "release_date": "1988-03-30",
+                "title": "Beetlejuice",
+                "video": false,
+                "vote_average": 7.372,
+                "vote_count": 8050,
+                "character": "Delia",
+                "credit_id": "52fe43abc3a36847f8066747",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/38zhXIWXlWDzwI8gRJOf5ISyGFc.jpg",
+                "genre_ids": [
+                    35,
+                    53,
+                    18
+                ],
+                "id": 10843,
+                "original_language": "en",
+                "original_title": "After Hours",
+                "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+                "popularity": 3.8145,
+                "poster_path": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+                "release_date": "1985-09-13",
+                "title": "After Hours",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1603,
+                "character": "Gail",
+                "credit_id": "52fe43c09251416c7501cc4d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10751
+                ],
+                "id": 9479,
+                "original_language": "en",
+                "original_title": "The Nightmare Before Christmas",
+                "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+                "popularity": 13.022,
+                "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+                "release_date": "1993-10-09",
+                "title": "The Nightmare Before Christmas",
+                "video": false,
+                "vote_average": 7.834,
+                "vote_count": 9891,
+                "character": "Sally / Shock (voice)",
+                "credit_id": "52fe44fdc3a36847f80b607b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aCURY1tNUkvrNnjw5qYJXTUp7z.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 33602,
+                "original_language": "en",
+                "original_title": "Temple Grandin",
+                "overview": "A biopic of Temple Grandin, an autistic American who has become one of the leading scientists in humane livestock handling.",
+                "popularity": 3.2461,
+                "poster_path": "/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+                "release_date": "2010-02-06",
+                "title": "Temple Grandin",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 511,
+                "character": "Aunt Ann",
+                "credit_id": "52fe45279251416c910293e3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    14,
+                    10749
+                ],
+                "id": 976573,
+                "original_language": "en",
+                "original_title": "Elemental",
+                "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+                "popularity": 13.3117,
+                "poster_path": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+                "release_date": "2023-06-14",
+                "title": "Elemental",
+                "video": false,
+                "vote_average": 7.601,
+                "vote_count": 4957,
+                "character": "Brook (voice)",
+                "credit_id": "6422e2e78d22fc007c009b88",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 62214,
+                "original_language": "en",
+                "original_title": "Frankenweenie",
+                "overview": "When a car hits young Victor's pet dog Sparky, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked \"monster\" wreaks havoc and terror in the hearts of Victor's neighbors, he has to convince them that Sparky's still the good, loyal friend he was.",
+                "popularity": 6.5974,
+                "poster_path": "/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg",
+                "release_date": "2012-10-04",
+                "title": "Frankenweenie",
+                "video": false,
+                "vote_average": 7.001,
+                "vote_count": 3464,
+                "character": "Mrs. Frankenstein / Weird Girl / Gym Teacher (voice)",
+                "credit_id": "52fe4676c3a368484e091f57",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    14
+                ],
+                "id": 917496,
+                "original_language": "en",
+                "original_title": "Beetlejuice Beetlejuice",
+                "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+                "popularity": 12.7667,
+                "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+                "release_date": "2024-09-04",
+                "title": "Beetlejuice Beetlejuice",
+                "video": false,
+                "vote_average": 6.983,
+                "vote_count": 2735,
+                "character": "Delia",
+                "credit_id": "645d4dc0ad50f0011b6ca745",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    10751
+                ],
+                "id": 1184918,
+                "original_language": "en",
+                "original_title": "The Wild Robot",
+                "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+                "popularity": 22.1036,
+                "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+                "release_date": "2024-09-12",
+                "title": "The Wild Robot",
+                "video": false,
+                "vote_average": 8.316,
+                "vote_count": 5354,
+                "character": "Pinktail (voice)",
+                "credit_id": "65c03db1ba480200c968ce60",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v5xXTpfMT5NpjQeDMNYNLflaiuA.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 13002,
+                "original_language": "en",
+                "original_title": "Barbie in the 12 Dancing Princesses",
+                "overview": "King Randolph sends for his cousin, Duchess Rowena, to help turn his daughters, Princess Genevieve and her eleven sisters, into royal material. But the Duchess strips the sisters of their fun, including their favorite pastime: dancing. When all hope may be lost, the sisters discover a secret passageway to a magical land where they can dance the night away.",
+                "popularity": 4.3288,
+                "poster_path": "/yBB7PwXRFJ29U8m8SnTcWVizFvM.jpg",
+                "release_date": "2006-09-19",
+                "title": "Barbie in the 12 Dancing Princesses",
+                "video": false,
+                "vote_average": 7.606,
+                "vote_count": 1217,
+                "character": "Duchess Rowena (voice)",
+                "credit_id": "5cf3b24392514141f2bd4a10",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u041a\u0435\u0442\u0440\u0456\u043d\u043d \u041e\u2019\u0413\u0430\u0440\u0430",
+            "\u51f1\u85a9\u7433\u00b7\u5967\u54c8\u62c9",
+            "Catherine Anne O'Hara",
+            "\u06a9\u0627\u062a\u0631\u06cc\u0646 \u0627\u0648\u0647\u0627\u0631\u0627",
+            "\u06a9\u0627\u062a\u0631\u06cc\u0646 \u0627\u0648 \u0647\u0627\u0631\u0627"
+        ],
+        "biography": "Catherine Anne O'Hara, a Canadian-American actress and comedienne, began her career at Second City Theatre in Toronto. She gained fame on SCTV alongside comedy icons like Rick Moranis and John Candy. Known for roles in films like \"After Hours,\" \"Beetlejuice,\" \"Home Alone,\" and \"The Nightmare Before Christmas,\" she's also renowned for her work in Christopher Guest's mockumentaries. Her versatility extends to voicing Grandma Frump in \"The Addams Family.\" O'Hara received a Lifetime Artistic Achievement Award at the Governor General's Performance Arts Awards in 2020 and won a Golden Globe in 2021 for her role in \"Schitt's Creek.\"",
+        "birthday": "1954-03-04",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 11514,
+        "imdb_id": "nm0001573",
+        "known_for_department": "Acting",
+        "name": "Catherine O'Hara",
+        "place_of_birth": "Toronto, Ontario, Canada",
+        "popularity": 1.9461,
+        "profile_path": "/xjthrsXA31PVX91ByIQzORKSD0E.jpg"
+    }
+}

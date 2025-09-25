@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zP6pqpSRRiOCjjC5oWKZKkHqoSB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 595,
+                "original_language": "en",
+                "original_title": "To Kill a Mockingbird",
+                "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+                "popularity": 4.5981,
+                "poster_path": "/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+                "release_date": "1962-12-20",
+                "title": "To Kill a Mockingbird",
+                "video": false,
+                "vote_average": 7.991,
+                "vote_count": 2724,
+                "character": "Nathan Radley",
+                "credit_id": "55126dfd925141045c000e49",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    12
+                ],
+                "id": 665,
+                "original_language": "en",
+                "original_title": "Ben-Hur",
+                "overview": "In 25 AD, Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.",
+                "popularity": 5.7433,
+                "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+                "release_date": "1959-11-18",
+                "title": "Ben-Hur",
+                "video": false,
+                "vote_average": 7.886,
+                "vote_count": 2943,
+                "character": "Gaspar (uncredited)",
+                "credit_id": "5605e8009251413050000374",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1892-11-16",
+        "deathday": "1981-05-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 16055,
+        "imdb_id": "nm0354989",
+        "known_for_department": "Acting",
+        "name": "Richard Hale",
+        "place_of_birth": "Rogersville, Tennessee, USA",
+        "popularity": 0.7571,
+        "profile_path": "/xUSXxhdGDdvtdstaRsFyw5nmwi2.jpg"
+    }
+}

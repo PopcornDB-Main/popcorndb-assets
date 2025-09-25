@@ -1,0 +1,275 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 278,
+                "original_language": "en",
+                "original_title": "The Shawshank Redemption",
+                "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+                "popularity": 28.0345,
+                "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                "release_date": "1994-09-23",
+                "title": "The Shawshank Redemption",
+                "video": false,
+                "vote_average": 8.7,
+                "vote_count": 28883,
+                "character": "Warden Norton",
+                "credit_id": "52fe4231c3a36847f800b139",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10312,
+                "original_language": "en",
+                "original_title": "Patch Adams",
+                "overview": "The true story of Dr. Hunter \"Patch\" Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh\u2014even if it meant risking his own career.",
+                "popularity": 4.9241,
+                "poster_path": "/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
+                "release_date": "1998-12-25",
+                "title": "Patch Adams",
+                "video": false,
+                "vote_average": 7.317,
+                "vote_count": 3312,
+                "character": "Dean Walcott",
+                "credit_id": "52fe43579251416c7500ca19",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12,
+                    878
+                ],
+                "id": 425909,
+                "original_language": "en",
+                "original_title": "Ghostbusters: Afterlife",
+                "overview": "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+                "popularity": 5.5582,
+                "poster_path": "/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+                "release_date": "2021-11-18",
+                "title": "Ghostbusters: Afterlife",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 4895,
+                "character": "The Ghost Farmer",
+                "credit_id": "6196caf3149565008ff7c7a1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 68734,
+                "original_language": "en",
+                "original_title": "Argo",
+                "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+                "popularity": 6.3346,
+                "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+                "release_date": "2012-10-11",
+                "title": "Argo",
+                "video": false,
+                "vote_average": 7.281,
+                "vote_count": 8593,
+                "character": "Cyrus Vance",
+                "credit_id": "52fe47a1c3a368484e0d1be1",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/j9QaQVuyQIEwckUbjHpAgA7E4jJ.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 50348,
+                "original_language": "en",
+                "original_title": "The Lincoln Lawyer",
+                "overview": "Mick Haller is a charismatic defense attorney who does business out of his Lincoln Continental sedan. Mick spends most of his time defending petty crooks and other bottom-feeders, so it comes as quite a surprise when he lands the case of a lifetime: defending a Beverly Hills playboy who is accused of attempted murder. However, what Mick initially thinks is an open-and-shut case with a big monetary reward develops into something more sinister.",
+                "popularity": 4.9515,
+                "poster_path": "/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg",
+                "release_date": "2011-03-17",
+                "title": "The Lincoln Lawyer",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 3434,
+                "character": "Cecil Dobbs",
+                "credit_id": "52fe47c4c3a36847f8147189",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ebcXKfXz3ly9TXh5Anef8LYhfEn.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 87825,
+                "original_language": "en",
+                "original_title": "Trouble with the Curve",
+                "overview": "Slowed by age and failing eyesight, crack baseball scout Gus Lobel takes his grown daughter along as he checks out the final prospect of his career. Along the way, the two renew their bond, and she catches the eye of a young player-turned-scout.",
+                "popularity": 5.3546,
+                "poster_path": "/zLZQVmxOj5kICbS5Pq7rB1cbPvP.jpg",
+                "release_date": "2012-09-21",
+                "title": "Trouble with the Curve",
+                "video": false,
+                "vote_average": 6.995,
+                "vote_count": 1643,
+                "character": "Watson",
+                "credit_id": "52fe49da9251416c910baf77",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 9665,
+                "original_language": "en",
+                "original_title": "Glory",
+                "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+                "popularity": 4.6969,
+                "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+                "release_date": "1989-12-15",
+                "title": "Glory",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 1702,
+                "character": "Gen. Charles Garrison Harker",
+                "credit_id": "53c249ca0e0a26157c00a931",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9vJ57nbL4hWJrmsyjKTxiGXqrBU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 11929,
+                "original_language": "en",
+                "original_title": "Dolores Claiborne",
+                "overview": "Dolores Claiborne was accused of killing her abusive husband twenty years ago, but the court's findings were inconclusive and she was allowed to walk free. Now she has been accused of killing her employer, Vera Donovan, and this time there is a witness who can place her at the scene of the crime. Things look bad for Dolores when her daughter Selena, a successful Manhattan magazine writer, returns to cover the story.",
+                "popularity": 4.9767,
+                "poster_path": "/r1Yt0Mls43K2bzFONdaqDtTRTKM.jpg",
+                "release_date": "1995-03-24",
+                "title": "Dolores Claiborne",
+                "video": false,
+                "vote_average": 7.269,
+                "vote_count": 814,
+                "character": "Mr. Pease",
+                "credit_id": "544a64c0c3a3680faa0040cd",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 2604,
+                "original_language": "en",
+                "original_title": "Born on the Fourth of July",
+                "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+                "popularity": 9.0025,
+                "poster_path": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+                "release_date": "1989-12-20",
+                "title": "Born on the Fourth of July",
+                "video": false,
+                "vote_average": 7.017,
+                "vote_count": 1790,
+                "character": "Doctor",
+                "credit_id": "54cef36e925141475d007063",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 6.3934,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 2256,
+                "character": "TV Newsman #3",
+                "credit_id": "56186250925141374b000bb6",
+                "order": 54
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mujUrk2diGe5vRCb3kdpHZeobRs.jpg",
+                "genre_ids": [
+                    53
+                ],
+                "id": 6145,
+                "original_language": "en",
+                "original_title": "Fracture",
+                "overview": "A husband is on trial for the attempted murder of his wife, in what is seemingly an open/shut case for the ambitious district attorney trying to put him away. However, there are surprises for both around every corner, and, as a suspenseful game of cat-and-mouse is played out, each must manipulate and outwit the other.",
+                "popularity": 8.116,
+                "poster_path": "/qNen8x5gaikjIg9CFihgxYcJwQe.jpg",
+                "release_date": "2007-04-19",
+                "title": "Fracture",
+                "video": false,
+                "vote_average": 7.264,
+                "vote_count": 4083,
+                "character": "Judge Gardner",
+                "credit_id": "5b85ba9fc3a3683f8d0008ec",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Robert Patrick Gunton Jr.",
+            "\u5df4\u5e03\u00b7\u5ca1\u9813",
+            "\u0628\u0627\u0628 \u06af\u0627\u0646\u062a\u0648\u0646",
+            "\u0628\u0627\u0628 \u06af\u0627\u0646\u062a\u0646"
+        ],
+        "biography": "Robert Patrick \"Bob\" Gunton, Jr. (born November 15, 1945) is an American actor. He is known for playing strict, authoritarian characters, with his best known roles as Warden Samuel Norton in the 1994 prison film The Shawshank Redemption, Chief George Earle in 1993's Demolition Man, and President Juan Peron in the original Broadway cast of Evita.\n\nDescription above from the Wikipedia article Bob Gunton , licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1945-11-15",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4029,
+        "imdb_id": "nm0348409",
+        "known_for_department": "Acting",
+        "name": "Bob Gunton",
+        "place_of_birth": "Santa Monica, California, USA",
+        "popularity": 1.5553,
+        "profile_path": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aCURY1tNUkvrNnjw5qYJXTUp7z.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 33602,
+                "original_language": "en",
+                "original_title": "Temple Grandin",
+                "overview": "A biopic of Temple Grandin, an autistic American who has become one of the leading scientists in humane livestock handling.",
+                "popularity": 3.2461,
+                "poster_path": "/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+                "release_date": "2010-02-06",
+                "title": "Temple Grandin",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 511,
+                "character": "Professor Shanklin",
+                "credit_id": "52fe45279251416c91029407",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "genre_ids": [
+                    80,
+                    36,
+                    18
+                ],
+                "id": 466420,
+                "original_language": "en",
+                "original_title": "Killers of the Flower Moon",
+                "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
+                "popularity": 10.3114,
+                "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+                "release_date": "2023-10-18",
+                "title": "Killers of the Flower Moon",
+                "video": false,
+                "vote_average": 7.414,
+                "vote_count": 3758,
+                "character": "Kelsie's Lawyer",
+                "credit_id": "6532b556b2681f00ac489a7e",
+                "order": 152
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1960-10-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 110993,
+        "imdb_id": "nm0097022",
+        "known_for_department": "Acting",
+        "name": "David Born",
+        "place_of_birth": "Houston, Texas, USA",
+        "popularity": 0.0745,
+        "profile_path": "/qfw98nf0T6OVm0ZTcsINeDvghcL.jpg"
+    }
+}

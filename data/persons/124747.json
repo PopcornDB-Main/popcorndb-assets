@@ -1,0 +1,167 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xVEBLD278GuFZoPFskpD3dvdJlV.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    16
+                ],
+                "id": 20352,
+                "original_language": "en",
+                "original_title": "Despicable Me",
+                "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+                "popularity": 14.9477,
+                "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+                "release_date": "2010-07-08",
+                "title": "Despicable Me",
+                "video": false,
+                "vote_average": 7.252,
+                "vote_count": 15587,
+                "character": "Tim / Bob / Mark / Phil / Stuart (voice)",
+                "credit_id": "52fe43e3c3a368484e003eb5",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    16,
+                    878
+                ],
+                "id": 519182,
+                "original_language": "en",
+                "original_title": "Despicable Me 4",
+                "overview": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+                "popularity": 31.3976,
+                "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+                "release_date": "2024-06-20",
+                "title": "Despicable Me 4",
+                "video": false,
+                "vote_average": 7.012,
+                "vote_count": 2924,
+                "character": "Minions (voice)",
+                "credit_id": "62101dd13f4833006b77304f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 93456,
+                "original_language": "en",
+                "original_title": "Despicable Me 2",
+                "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+                "popularity": 13.4857,
+                "poster_path": "/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg",
+                "release_date": "2013-06-26",
+                "title": "Despicable Me 2",
+                "video": false,
+                "vote_average": 6.935,
+                "vote_count": 11638,
+                "character": "Kevin / Bob / Stuart / Additional Minions / Evil Minions (voice)",
+                "credit_id": "550f98b4925141065c00442a",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 438148,
+                "original_language": "en",
+                "original_title": "Minions: The Rise of Gru",
+                "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+                "popularity": 11.7069,
+                "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+                "release_date": "2022-06-29",
+                "title": "Minions: The Rise of Gru",
+                "video": false,
+                "vote_average": 7.285,
+                "vote_count": 3827,
+                "character": "Kevin / Stuart / Bob / Minions (voice)",
+                "credit_id": "588fdb0a92514133a50000f5",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/xVEBLD278GuFZoPFskpD3dvdJlV.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    16
+                ],
+                "id": 20352,
+                "original_language": "en",
+                "original_title": "Despicable Me",
+                "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+                "popularity": 14.9477,
+                "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+                "release_date": "2010-07-08",
+                "title": "Despicable Me",
+                "video": false,
+                "vote_average": 7.252,
+                "vote_count": 15587,
+                "credit_id": "52fe43e3c3a368484e003e95",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 93456,
+                "original_language": "en",
+                "original_title": "Despicable Me 2",
+                "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+                "popularity": 13.4857,
+                "poster_path": "/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg",
+                "release_date": "2013-06-26",
+                "title": "Despicable Me 2",
+                "video": false,
+                "vote_average": 6.935,
+                "vote_count": 11638,
+                "credit_id": "52fe492c9251416c750bfc61",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud53c\uc5d0\ub974 \uaf2c\ud33d",
+            "Pierre-Louis Padang Coffin"
+        ],
+        "biography": "Pierre Coffin, born in 1967, is a French animator and director. He was trained at the Gobelins in Paris and started to work at Amblimation, the 2D London based facility, where he worked on the Steven Spielberg-executive-produced We're Back! A Dinosaur's Story. He then started as a freelance animator in the French CGI studio Ex Machina where he worked as animator, animation supervisor, and eventually director. Afterwards, he started to collaborate with Passion Pictures Paris and Mac Guff where in 2010 he completed, with Chris Renaud, the feature CGI animated movie Despicable Me for Universal. He also provided voices for a few of the minor characters. Peter Coffin has created animations named Pings ( animations of penguins being hurt or killed).\n\nDescription above from the Wikipedia article Pierre Coffin, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1967-03-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 124747,
+        "imdb_id": "nm1853544",
+        "known_for_department": "Acting",
+        "name": "Pierre Coffin",
+        "place_of_birth": "Limoges, France",
+        "popularity": 0.421,
+        "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+    }
+}

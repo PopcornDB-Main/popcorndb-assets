@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/27Mj3rFYP3xqFy7lnz17vEd8Ms.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 725201,
+                "original_language": "en",
+                "original_title": "The Gray Man",
+                "overview": "When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
+                "popularity": 7.3227,
+                "poster_path": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+                "release_date": "2022-07-13",
+                "title": "The Gray Man",
+                "video": false,
+                "vote_average": 6.937,
+                "vote_count": 3917,
+                "character": "Interrogation Subject",
+                "credit_id": "62df224be9da6914975835d6",
+                "order": 66
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36
+                ],
+                "id": 359724,
+                "original_language": "en",
+                "original_title": "Ford v Ferrari",
+                "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+                "popularity": 13.8559,
+                "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                "release_date": "2019-11-13",
+                "title": "Ford v Ferrari",
+                "video": false,
+                "vote_average": 8.007,
+                "vote_count": 8493,
+                "character": "Le Mans Official #1",
+                "credit_id": "600cf89e3f8ede003f674089",
+                "order": 47
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.marcforget.com/",
+        "id": 1786275,
+        "imdb_id": "nm0004639",
+        "known_for_department": "Acting",
+        "name": "Marc Forget",
+        "place_of_birth": null,
+        "popularity": 0.0718,
+        "profile_path": "/vtph5mCjWppW2po9EXmrKjOLedc.jpg"
+    }
+}

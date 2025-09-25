@@ -1,0 +1,256 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.113,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.05,
+                "vote_count": 10701,
+                "character": "Edward Teller",
+                "credit_id": "6328ade55cea18009106ac6f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 429200,
+                "original_language": "en",
+                "original_title": "Good Time",
+                "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+                "popularity": 2.1024,
+                "poster_path": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+                "release_date": "2017-08-11",
+                "title": "Good Time",
+                "video": false,
+                "vote_average": 7.216,
+                "vote_count": 2944,
+                "character": "Nick Nikas",
+                "credit_id": "58ef9309c3a368069500010e",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/izNpxVcjKbF9BiYF4GVqxCOfewL.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 641662,
+                "original_language": "en",
+                "original_title": "Pieces of a Woman",
+                "overview": "When a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.",
+                "popularity": 3.1535,
+                "poster_path": "/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+                "release_date": "2020-12-30",
+                "title": "Pieces of a Woman",
+                "video": false,
+                "vote_average": 7.027,
+                "vote_count": 1249,
+                "character": "Chris",
+                "credit_id": "5e46355f41465c0016d480c3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f1azMRlp6YOLHf2PkzukyGPcpnX.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 718032,
+                "original_language": "en",
+                "original_title": "Licorice Pizza",
+                "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+                "popularity": 9.808,
+                "poster_path": "/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+                "release_date": "2021-11-26",
+                "title": "Licorice Pizza",
+                "video": false,
+                "vote_average": 6.962,
+                "vote_count": 2442,
+                "character": "Joel Wachs",
+                "credit_id": "5f4b8d9deec4f30036d13d3c",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 429200,
+                "original_language": "en",
+                "original_title": "Good Time",
+                "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+                "popularity": 2.1024,
+                "poster_path": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+                "release_date": "2017-08-11",
+                "title": "Good Time",
+                "video": false,
+                "vote_average": 7.216,
+                "vote_count": 2944,
+                "credit_id": "58474d9592514119ad002728",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 473033,
+                "original_language": "en",
+                "original_title": "Uncut Gems",
+                "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+                "popularity": 5.5157,
+                "poster_path": "/sg0xxJeb3u1C4kAxhSuTwTNpEDt.jpg",
+                "release_date": "2019-08-30",
+                "title": "Uncut Gems",
+                "video": false,
+                "vote_average": 7.161,
+                "vote_count": 5024,
+                "credit_id": "59a541fc9251412efa0089b6",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 429200,
+                "original_language": "en",
+                "original_title": "Good Time",
+                "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+                "popularity": 2.1024,
+                "poster_path": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+                "release_date": "2017-08-11",
+                "title": "Good Time",
+                "video": false,
+                "vote_average": 7.216,
+                "vote_count": 2944,
+                "credit_id": "5b0c7f2d9251417c17001ecd",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 473033,
+                "original_language": "en",
+                "original_title": "Uncut Gems",
+                "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+                "popularity": 5.5157,
+                "poster_path": "/sg0xxJeb3u1C4kAxhSuTwTNpEDt.jpg",
+                "release_date": "2019-08-30",
+                "title": "Uncut Gems",
+                "video": false,
+                "vote_average": 7.161,
+                "vote_count": 5024,
+                "credit_id": "5b76a6160e0a265c270282c5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 429200,
+                "original_language": "en",
+                "original_title": "Good Time",
+                "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+                "popularity": 2.1024,
+                "poster_path": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+                "release_date": "2017-08-11",
+                "title": "Good Time",
+                "video": false,
+                "vote_average": 7.216,
+                "vote_count": 2944,
+                "credit_id": "5c2cb450c3a368290ea2ecd9",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 473033,
+                "original_language": "en",
+                "original_title": "Uncut Gems",
+                "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+                "popularity": 5.5157,
+                "poster_path": "/sg0xxJeb3u1C4kAxhSuTwTNpEDt.jpg",
+                "release_date": "2019-08-30",
+                "title": "Uncut Gems",
+                "video": false,
+                "vote_average": 7.161,
+                "vote_count": 5024,
+                "credit_id": "5d8a50c0abf8e2001976ac9e",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ben Safdie",
+            "The Safdie Brothers",
+            "Benjamin Safdie",
+            "Benjamin 'Benny' Safdie"
+        ],
+        "biography": "Benjamin Safdie\u00a0(born February 24, 1986)\u00a0is an American film director, screenwriter, actor, and film editor best known for\u00a0working with his older brother Josh\u00a0as a filmmaker. His directorial works include\u00a0Heaven Knows What\u00a0(2014),\u00a0Good Time\u00a0(2017), and\u00a0Uncut Gems\u00a0(2019). Transitioning towards acting, Safdie was nominated for the\u00a0Independent Spirit Award for Best Supporting Male\u00a0for his role in\u00a0Good Time\u00a0and has since taken on roles in films such as\u00a0Licorice Pizza\u00a0(2021),\u00a0Are You There God? It's Me, Margaret.\u00a0and\u00a0Oppenheimer\u00a0(both 2023). He co-created, co-wrote and starred in the television show\u00a0The Curse\u00a0(2023).\n\nDescription above from the Wikipedia article Benny Safdie, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1986-02-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.elarapictures.com/",
+        "id": 227564,
+        "imdb_id": "nm1509478",
+        "known_for_department": "Directing",
+        "name": "Benny Safdie",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.8771,
+        "profile_path": "/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
+    }
+}

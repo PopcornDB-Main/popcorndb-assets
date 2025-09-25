@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 311,
+                "original_language": "en",
+                "original_title": "Once Upon a Time in America",
+                "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+                "popularity": 9.0949,
+                "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+                "release_date": "1984-05-23",
+                "title": "Once Upon a Time in America",
+                "video": false,
+                "vote_average": 8.406,
+                "vote_count": 5726,
+                "character": "Beefy",
+                "credit_id": "543d09530e0a265357001729",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zvNMZl0l2qYq0x0ntq8sILiIpLw.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 9040,
+                "original_language": "en",
+                "original_title": "Serpico",
+                "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+                "popularity": 4.5185,
+                "poster_path": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+                "release_date": "1973-12-18",
+                "title": "Serpico",
+                "video": false,
+                "vote_average": 7.534,
+                "vote_count": 2056,
+                "character": "Police Lieutenant (uncredited)",
+                "credit_id": "58b4689592514177a401aa04",
+                "order": 45
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g7prwSflNODkHZI6792MYoU4qoh.jpg",
+                "genre_ids": [
+                    53,
+                    12,
+                    18
+                ],
+                "id": 38985,
+                "original_language": "en",
+                "original_title": "Sorcerer",
+                "overview": "Four men from different parts of the globe, all hiding from their pasts in the same remote South American town, agree to risk their lives transporting several cases of dynamite (which is so old that it is dripping unstable nitroglycerin) across dangerous jungle terrain.",
+                "popularity": 3.0502,
+                "poster_path": "/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+                "release_date": "1977-06-24",
+                "title": "Sorcerer",
+                "video": false,
+                "vote_average": 7.441,
+                "vote_count": 599,
+                "character": "Marty",
+                "credit_id": "5bea2f4fc3a368173d055c57",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Frankie Gio"
+        ],
+        "biography": "",
+        "birthday": "1929-08-15",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1373773,
+        "imdb_id": "nm0320203",
+        "known_for_department": "Acting",
+        "name": "Frank Gio",
+        "place_of_birth": "USA",
+        "popularity": 0.9061,
+        "profile_path": "/tTGlVznd2p35AlKWGPmcTQRVJr2.jpg"
+    }
+}

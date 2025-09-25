@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oVCyqxwLkRPJC51w89Dwp6VL9vk.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 1646,
+                "original_language": "en",
+                "original_title": "Freedom Writers",
+                "overview": "A young teacher inspires her class of at-risk students to learn tolerance, apply themselves, and pursue education beyond high school.",
+                "popularity": 5.8119,
+                "poster_path": "/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg",
+                "release_date": "2007-01-05",
+                "title": "Freedom Writers",
+                "video": false,
+                "vote_average": 7.922,
+                "vote_count": 2340,
+                "character": "Ben",
+                "credit_id": "52fe4308c3a36847f80354f3",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cWMeHXEGeZ8cjEOmznjVGr04Ofu.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 284293,
+                "original_language": "en",
+                "original_title": "Still Alice",
+                "overview": "Alice Howland, happily married with three grown children, is a renowned linguistics professor who starts to forget words. When she receives a devastating diagnosis, Alice and her family find their bonds tested.",
+                "popularity": 5.3453,
+                "poster_path": "/m7lMKCHddIzlk1AkoNYdRos64DG.jpg",
+                "release_date": "2014-12-05",
+                "title": "Still Alice",
+                "video": false,
+                "vote_average": 7.476,
+                "vote_count": 3165,
+                "character": "Tom Howland",
+                "credit_id": "53d7f9d50e0a2603310025ec",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Hunter Parrish (born May 13, 1987) is an American actor and singer. He is known for playing Silas Botwin in Showtime's television series Weeds, as well as for appearing in several Hollywood films.",
+        "birthday": "1987-05-13",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 35236,
+        "imdb_id": "nm1446060",
+        "known_for_department": "Acting",
+        "name": "Hunter Parrish",
+        "place_of_birth": "Richmond, Virginia, USA",
+        "popularity": 0.786,
+        "profile_path": "/wFJhOeUeyHJrfkU6lUuHuwDuEaf.jpg"
+    }
+}

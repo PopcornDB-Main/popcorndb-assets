@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qwZRvb0DJ5IwDoRuKDRCBuHWzkw.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    18
+                ],
+                "id": 828,
+                "original_language": "en",
+                "original_title": "The Day the Earth Stood Still",
+                "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+                "popularity": 2.0036,
+                "poster_path": "/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg",
+                "release_date": "1951-09-28",
+                "title": "The Day the Earth Stood Still",
+                "video": false,
+                "vote_average": 7.448,
+                "vote_count": 1169,
+                "character": "Gort",
+                "credit_id": "52fe427dc3a36847f8022c27",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bd9lxQ4SgnNb6NPIph4pz5HGLpY.jpg",
+                "genre_ids": [
+                    878,
+                    27
+                ],
+                "id": 31682,
+                "original_language": "en",
+                "original_title": "The Incredible Shrinking Man",
+                "overview": "A dangerous combination of radiation and insecticide causes the unfortunate Scott Carey to shrink, slowly but surely, until he is only a few inches tall. His home becomes a wilderness where he must survive everything from spiders living in the cellar to his beloved cat.",
+                "popularity": 3.6256,
+                "poster_path": "/vI7IdqfvsyoQAjAzRWS2fYvUoOu.jpg",
+                "release_date": "1957-02-22",
+                "title": "The Incredible Shrinking Man",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 525,
+                "character": "Giant (uncredited)",
+                "credit_id": "66744d8053af75af04c4f4d1",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1916-02-22",
+        "deathday": "1959-01-19",
+        "gender": 2,
+        "homepage": null,
+        "id": 12284,
+        "imdb_id": "nm0552696",
+        "known_for_department": "Acting",
+        "name": "Lock Martin",
+        "place_of_birth": null,
+        "popularity": 1.285,
+        "profile_path": "/lz2P5A2WqZWBqN0dc6mHB5s9z9h.jpg"
+    }
+}

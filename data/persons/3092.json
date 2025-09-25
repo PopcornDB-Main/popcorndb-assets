@@ -1,0 +1,299 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 240,
+                "original_language": "en",
+                "original_title": "The Godfather Part II",
+                "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+                "popularity": 16.2247,
+                "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+                "release_date": "1974-12-20",
+                "title": "The Godfather Part II",
+                "video": false,
+                "vote_average": 8.6,
+                "vote_count": 13187,
+                "character": "Kay Corleone",
+                "credit_id": "52fe422bc3a36847f800950d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242,
+                "original_language": "en",
+                "original_title": "The Godfather Part III",
+                "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+                "popularity": 10.2501,
+                "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+                "release_date": "1990-12-25",
+                "title": "The Godfather Part III",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 6512,
+                "character": "Kay Adams",
+                "credit_id": "52fe422bc3a36847f8009725",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 4.3937,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4045,
+                "character": "Annie Hall",
+                "credit_id": "52fe426dc3a36847f801dbe3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 696,
+                "original_language": "en",
+                "original_title": "Manhattan",
+                "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+                "popularity": 3.2034,
+                "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+                "release_date": "1979-04-25",
+                "title": "Manhattan",
+                "video": false,
+                "vote_average": 7.722,
+                "vote_count": 2497,
+                "character": "Mary Wilkie",
+                "credit_id": "52fe426cc3a36847f801d603",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/px0d4Kzn9683SHLMS9K3e5OHk2H.jpg",
+                "genre_ids": [
+                    35,
+                    9648
+                ],
+                "id": 10440,
+                "original_language": "en",
+                "original_title": "Manhattan Murder Mystery",
+                "overview": "A middle-aged couple suspects foul play when their neighbor's wife suddenly drops dead.",
+                "popularity": 2.3401,
+                "poster_path": "/axriUXXcBVZMZT8I9boo07Jgptw.jpg",
+                "release_date": "1993-05-02",
+                "title": "Manhattan Murder Mystery",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1119,
+                "character": "Carol Lipton",
+                "credit_id": "52fe43719251416c75010993",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uVTEJPLof6fizkWvmhxEprut9oQ.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 11561,
+                "original_language": "en",
+                "original_title": "Sleeper",
+                "overview": "Miles Monroe, a clarinet-playing health food store proprietor, is revived out of cryostasis 200 years into a future world in order to help rebels fight an oppressive government regime.",
+                "popularity": 1.9345,
+                "poster_path": "/vVpUfsHuZecO7FlCtDBQd2ullyq.jpg",
+                "release_date": "1973-12-17",
+                "title": "Sleeper",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 803,
+                "character": "Luna Schlosser",
+                "credit_id": "52fe445a9251416c75031bc1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11686,
+                "original_language": "en",
+                "original_title": "Love and Death",
+                "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+                "popularity": 2.3679,
+                "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+                "release_date": "1975-06-10",
+                "title": "Love and Death",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 927,
+                "character": "Sonja",
+                "credit_id": "52fe44799251416c75035f89",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6YaphqLSVChdWgF7csZVjM0b08Y.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 11610,
+                "original_language": "en",
+                "original_title": "Play It Again, Sam",
+                "overview": "A neurotic film critic obsessed with the movie Casablanca (1942) attempts to get over his wife leaving him by dating again with the help of a married couple and his illusory idol, Humphrey Bogart.",
+                "popularity": 1.1406,
+                "poster_path": "/yZFz5rwrdVmEoHVkVU7EkZedDfz.jpg",
+                "release_date": "1972-05-04",
+                "title": "Play It Again, Sam",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 609,
+                "character": "Linda Christie",
+                "credit_id": "52fe44679251416c75033779",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 238,
+                "original_language": "en",
+                "original_title": "The Godfather",
+                "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+                "popularity": 29.4604,
+                "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+                "release_date": "1972-03-14",
+                "title": "The Godfather",
+                "video": false,
+                "vote_average": 8.686,
+                "vote_count": 21833,
+                "character": "Kay Adams",
+                "credit_id": "6489ab23bf31f25055a33a46",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o11rDwFa7nZMVI57Mm3C44YwmmF.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 127380,
+                "original_language": "en",
+                "original_title": "Finding Dory",
+                "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+                "popularity": 7.1829,
+                "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+                "release_date": "2016-06-16",
+                "title": "Finding Dory",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 12360,
+                "character": "Jenny (voice)",
+                "credit_id": "52fe4af8c3a368484e1707b3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 30890,
+                "original_language": "en",
+                "original_title": "Radio Days",
+                "overview": "The Narrator tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+                "popularity": 4.417,
+                "poster_path": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+                "release_date": "1987-01-30",
+                "title": "Radio Days",
+                "video": false,
+                "vote_average": 7.056,
+                "vote_count": 602,
+                "character": "New Year's Singer",
+                "credit_id": "52ff8850c3a3680f1724deb7",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/4MXAOW1hfTaz34KO65PRgaVo35z.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 1807,
+                "original_language": "en",
+                "original_title": "Elephant",
+                "overview": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+                "popularity": 3.8023,
+                "poster_path": "/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg",
+                "release_date": "2003-09-20",
+                "title": "Elephant",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 2004,
+                "credit_id": "5afb1a46c3a3680e8300b2f2",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Diane Hall",
+            "\u039d\u03c4\u03ac\u03b9\u03b1\u03bd \u039a\u03af\u03c4\u03bf\u03bd",
+            "\u9edb\u5b89\u00b7\u57fa\u987f",
+            "\u0414\u0430\u0454\u043d \u041a\u0456\u0442\u043e\u043d",
+            "\u0414\u0430\u044f\u043d \u041a\u0438\u0439\u0442\u044a\u043d",
+            "\u062f\u0627\u06cc\u0627\u0646 \u06a9\u06cc\u062a\u0648\u0646"
+        ],
+        "biography": "Diane Hall Keaton (born Diane Hall; January 5, 1946) is an American actress. Known for her idiosyncratic personality and fashion style, she has received various accolades throughout her career spanning over six decades, including an Academy Award, a British Academy Film Award, two Golden Globe Awards, and the AFI Life Achievement Award.\n\nShe began her career on stage appearing in the original 1968 Broadway production of the musical Hair. The next year, she received a Tony Award for Best Featured Actress in a Play nomination for her performance in Woody Allen's comic play Play it Again, Sam. She then made her screen debut in a small role in Lovers and Other Strangers (1970). She rose to prominence with her first major film role as Kay Adams-Corleone in Francis Ford Coppola's The Godfather (1972), a role she reprised in its sequels The Godfather Part II (1974) and The Godfather Part III (1990). The films that most shaped her career were those with director and co-star Woody Allen, beginning with the film adaptation of Play It Again, Sam (1972). Her next two films with Allen, Sleeper (1973) and Love and Death (1975), established her as a comic actor. Her fourth, the romantic comedy Annie Hall (1977), won her the Academy Award for Best Actress.\n\nTo avoid being typecast as her Annie Hall persona, she appeared in several dramatic films, starring in Looking for Mr. Goodbar (1977) and Allen's Interiors (1978), and received three more Academy Award nominations for playing feminist activist Louise Bryant in Reds (1981), a woman with leukemia in Marvin's Room (1996), and a dramatist in Something's Gotta Give (2003). Her other popular films include Manhattan (1979), Baby Boom (1987), Father of the Bride (1991), Manhattan Murder Mystery (1993), Father of the Bride Part II (1995), The First Wives Club (1996), The Family Stone (2005), Morning Glory (2010), Finding Dory (2016) and Book Club (2018).",
+        "birthday": "1946-01-05",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 3092,
+        "imdb_id": "nm0000473",
+        "known_for_department": "Acting",
+        "name": "Diane Keaton",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 1.1044,
+        "profile_path": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28,
+                    35
+                ],
+                "id": 447365,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 3",
+                "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+                "popularity": 16.4234,
+                "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+                "release_date": "2023-05-03",
+                "title": "Guardians of the Galaxy Vol. 3",
+                "video": false,
+                "vote_average": 7.931,
+                "vote_count": 7651,
+                "character": "Martinex",
+                "credit_id": "643eb6c4e0ca7f048b072f3b",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8EKxPfuEMg1qP0E1r1ZAk56J7MP.jpg",
+                "genre_ids": [
+                    28,
+                    16,
+                    878,
+                    14
+                ],
+                "id": 76589,
+                "original_language": "en",
+                "original_title": "Justice League: Doom",
+                "overview": "An adaptation of Mark Waid's \"Tower of Babel\" story from the JLA comic. Vandal Savage steals confidential files Batman has compiled on the members of the Justice League, and learns all their weaknesses.",
+                "popularity": 2.7092,
+                "poster_path": "/seCbcjdZYUl8SRKjeWfyi2ngzFj.jpg",
+                "release_date": "2012-02-28",
+                "title": "Justice League: Doom",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 901,
+                "character": "Flash (voice)",
+                "credit_id": "52fe4942c3a368484e1227af",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ltlPFTMRsohmi2QbbSZUkAVg7Nc.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    16,
+                    12
+                ],
+                "id": 297556,
+                "original_language": "en",
+                "original_title": "Justice League: Throne of Atlantis",
+                "overview": "After the events of Justice League: War, Ocean Master and Black Manta have declared a war against the surface in retaliation of the aftermath of Apokoliptian-tyrant Darkseid's planetary invasion. Queen Atlanna seeks out her other son, Ocean Master\u2019s half-brother Arthur Curry, a half-human with aquatic powers with no knowledge of his Atlantean heritage, to restore balance.  Living with powers he doesn\u2019t understand and seeing the danger around him, Curry takes steps to embrace his destiny, joining the Justice League, and with his new teammates he battles to save Earth from total destruction.",
+                "popularity": 3.1164,
+                "poster_path": "/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg",
+                "release_date": "2015-01-13",
+                "title": "Justice League: Throne of Atlantis",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 957,
+                "character": "Drift Leader (voice)",
+                "credit_id": "661f083f0816c7017ceec56c",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/scNssnn5PN99fBODNzxF5qN4Iw8.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    878,
+                    53
+                ],
+                "id": 16234,
+                "original_language": "en",
+                "original_title": "Batman Beyond: Return of the Joker",
+                "overview": "The Joker is back with a vengeance, and Neo-Gotham's Dark Knight, Terry McGinnis, needs answers as he stands alone to face the old Gotham's most infamous Clown Prince of Crime.",
+                "popularity": 4.5924,
+                "poster_path": "/rsqoX8tA6vD8kvJSQwLN8Df55nk.jpg",
+                "release_date": "2000-12-12",
+                "title": "Batman Beyond: Return of the Joker",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1148,
+                "character": "Ghoul (voice)",
+                "credit_id": "57dee3629251416bea000504",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 283995,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 2",
+                "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                "popularity": 14.198,
+                "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                "release_date": "2017-04-19",
+                "title": "Guardians of the Galaxy Vol. 2",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 22273,
+                "character": "Martinex",
+                "credit_id": "58ccbab5c3a36850f3003fb1",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 1061474,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+                "popularity": 227.5105,
+                "poster_path": "/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+                "release_date": "2025-07-09",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.508,
+                "vote_count": 3152,
+                "character": "Raptor Guard #1",
+                "credit_id": "684192085e80d04ceb28a0d1",
+                "order": 63
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michael Owen Rosenbaum"
+        ],
+        "biography": "Michael Rosenbaum (born July 11, 1972) is an American actor and director. He is best known for portraying Lex Luthor on Smallville and Flash in the DC animated universe.",
+        "birthday": "1972-07-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://themichaelrosenbaum.com/",
+        "id": 19975,
+        "imdb_id": "nm0742146",
+        "known_for_department": "Acting",
+        "name": "Michael Rosenbaum",
+        "place_of_birth": "Oceanside, New York, USA",
+        "popularity": 1.2344,
+        "profile_path": "/ymiZjRwcS3gcCtsfv4w3GjRc2yc.jpg"
+    }
+}

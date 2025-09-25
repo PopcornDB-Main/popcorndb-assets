@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ubICMSUij3ntP9BjnQsV3rTVnAF.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 783,
+                "original_language": "en",
+                "original_title": "Gandhi",
+                "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+                "popularity": 4.3456,
+                "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+                "release_date": "1982-12-01",
+                "title": "Gandhi",
+                "video": false,
+                "vote_average": 7.557,
+                "vote_count": 2390,
+                "character": "Nahari (uncredited)",
+                "credit_id": "52fe4275c3a36847f8020631",
+                "order": 48
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jUaZAbdpNl33VHprUl4qEohXn8q.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 228194,
+                "original_language": "en",
+                "original_title": "The Hundred-Foot Journey",
+                "overview": "A story centered around an Indian family who moves to France and opens a restaurant across the street from a Michelin-starred French restaurant.",
+                "popularity": 2.9177,
+                "poster_path": "/1vFhSr7INoulu18smHqicft05i8.jpg",
+                "release_date": "2014-08-06",
+                "title": "The Hundred-Foot Journey",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1478,
+                "character": "Papa",
+                "credit_id": "52fe4ec29251416c75161579",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    28
+                ],
+                "id": 348892,
+                "original_language": "hi",
+                "original_title": "\u092c\u091c\u0930\u0902\u0917\u0940 \u092d\u093e\u0908\u091c\u093e\u0928",
+                "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+                "popularity": 4.294,
+                "poster_path": "/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg",
+                "release_date": "2015-07-17",
+                "title": "Bajrangi Bhaijaan",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 507,
+                "character": "Molana",
+                "credit_id": "55b3f208925141788b005006",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0913\u092e \u092a\u0941\u0930\u0940",
+            "\u0993\u09ae \u09aa\u09c1\u09b0\u09c0",
+            "\u10dd\u10db \u10de\u10e3\u10e0\u10d8"
+        ],
+        "biography": "Om Puri (1950 -2017) was an Indian actor who has appeared in both mainstream Indian films and art films. His credits also include appearances in British and American films, including East is East and Charlie Wilson's War, and he was the recipient of  an honorary OBE.",
+        "birthday": "1950-10-18",
+        "deathday": "2017-01-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 11851,
+        "imdb_id": "nm0700875",
+        "known_for_department": "Acting",
+        "name": "Om Puri",
+        "place_of_birth": "Ambala, Haryana, India",
+        "popularity": 0.3006,
+        "profile_path": "/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    }
+}

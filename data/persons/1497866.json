@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7EazpcvoCfNZZysgljUAkQCBvW.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 614917,
+                "original_language": "en",
+                "original_title": "King Richard",
+                "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+                "popularity": 5.0956,
+                "poster_path": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+                "release_date": "2021-11-18",
+                "title": "King Richard",
+                "video": false,
+                "vote_average": 7.622,
+                "vote_count": 2673,
+                "character": "Stacey's Dad - Trevor",
+                "credit_id": "6199f97a52dc7f002abd35cd",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 495764,
+                "original_language": "en",
+                "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+                "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+                "popularity": 9.2251,
+                "poster_path": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+                "release_date": "2020-02-05",
+                "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 10524,
+                "character": "Erika's Date",
+                "credit_id": "5e3e424198f1f1000f0f54ec",
+                "order": 59
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1497866,
+        "imdb_id": "nm2502226",
+        "known_for_department": "Acting",
+        "name": "Andy Hoff",
+        "place_of_birth": null,
+        "popularity": 0.1831,
+        "profile_path": "/i9HJpnlNrZO20qjEVRn2VChVuCx.jpg"
+    }
+}

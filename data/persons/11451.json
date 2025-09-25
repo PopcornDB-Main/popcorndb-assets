@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c2O99arhWcuLexMHiuRfSuDMpYm.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 713,
+                "original_language": "en",
+                "original_title": "The Piano",
+                "overview": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+                "popularity": 4.5735,
+                "poster_path": "/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
+                "release_date": "1993-05-18",
+                "title": "The Piano",
+                "video": false,
+                "vote_average": 7.392,
+                "vote_count": 1573,
+                "character": "Seaman",
+                "credit_id": "61ad827a6840cc00635a5491",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 9.7963,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.889,
+                "vote_count": 8184,
+                "character": "Venture Crew - Crewman",
+                "credit_id": "61ad81ebaa659e004045f99a",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edward Campbell"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 11451,
+        "imdb_id": "nm0132426",
+        "known_for_department": "Acting",
+        "name": "Eddie Campbell",
+        "place_of_birth": null,
+        "popularity": 0.0418,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Bus Recruit",
+                "credit_id": "638f11405800c4008344b6ca",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+                "genre_ids": [
+                    28,
+                    36,
+                    10749,
+                    10752
+                ],
+                "id": 9361,
+                "original_language": "en",
+                "original_title": "The Last of the Mohicans",
+                "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+                "popularity": 7.8502,
+                "poster_path": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+                "release_date": "1992-08-26",
+                "title": "The Last of the Mohicans",
+                "video": false,
+                "vote_average": 7.385,
+                "vote_count": 3241,
+                "character": "Sentry",
+                "credit_id": "5ee793becb71b8001cb933aa",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2679690,
+        "imdb_id": "nm0281216",
+        "known_for_department": "Acting",
+        "name": "Michael Flannery",
+        "place_of_birth": null,
+        "popularity": 1.0038,
+        "profile_path": "/wJ64aHeuAnkPjJOtRatYWQ5AdDH.jpg"
+    }
+}

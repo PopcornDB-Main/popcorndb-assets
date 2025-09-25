@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p2U4wScUValTXnvikXy7kfQNDsH.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 891,
+                "original_language": "en",
+                "original_title": "All the President's Men",
+                "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+                "popularity": 9.3472,
+                "poster_path": "/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+                "release_date": "1976-04-09",
+                "title": "All the President's Men",
+                "video": false,
+                "vote_average": 7.656,
+                "vote_count": 1925,
+                "character": "Attorney #1",
+                "credit_id": "63a04e1b2f3b1700a010d443",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 8.2181,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 4776,
+                "character": "Reporter #2",
+                "credit_id": "609b868667203d0058aed8f0",
+                "order": 48
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "John O\u2019Leary (born 5 May 1926 - died 5 June 2019) is an American actor.",
+        "birthday": "1926-05-05",
+        "deathday": "2019-06-05",
+        "gender": 2,
+        "homepage": null,
+        "id": 53552,
+        "imdb_id": "nm0641599",
+        "known_for_department": "Acting",
+        "name": "John O'Leary",
+        "place_of_birth": "Newton, Massachusetts, USA",
+        "popularity": 0.3055,
+        "profile_path": "/v73J1QaYPRobDRDIqJYRqCDx52V.jpg"
+    }
+}

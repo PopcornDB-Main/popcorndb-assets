@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 575,
+                "original_language": "de",
+                "original_title": "Das Experiment",
+                "overview": "20 volunteers agree to take part in a seemingly well-paid experiment advertised by the university. It is supposed to be about aggressive behavior in an artificial prison situation. A journalist senses a story behind the ad and smuggles himself in among the test subjects. They are randomly divided into prisoners and guards. What seems like a game at the beginning soon turns into bloody seriousness.",
+                "popularity": 1.8131,
+                "poster_path": "/mfxXel8k2UWkgJ4MIsvVBsqnvFp.jpg",
+                "release_date": "2001-03-08",
+                "title": "The Experiment",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1140,
+                "character": "G\u00fcnther Sch\u00fctte, Prisoner Nr. 82",
+                "credit_id": "52fe4254c3a36847f8015d5f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/arFPEDEW4PzPaMBXgTPzJlumfGw.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 203833,
+                "original_language": "en",
+                "original_title": "The Book Thief",
+                "overview": "While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+                "popularity": 3.0586,
+                "poster_path": "/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+                "release_date": "2013-11-08",
+                "title": "The Book Thief",
+                "video": false,
+                "vote_average": 7.496,
+                "vote_count": 4414,
+                "character": "Alex Steiner",
+                "credit_id": "52fe4ce7c3a368484e1cc1cb",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1962-08-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 7804,
+        "imdb_id": "nm0831440",
+        "known_for_department": "Acting",
+        "name": "Oliver Stokowski",
+        "place_of_birth": "Kassel, Germany",
+        "popularity": 0.6712,
+        "profile_path": "/dIxyF7I4fxAOdANWnW6RYcqGPFL.jpg"
+    }
+}

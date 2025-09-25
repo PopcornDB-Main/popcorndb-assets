@@ -1,0 +1,52 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.6755,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 4373,
+                "character": "Chic Lady",
+                "credit_id": "59976be8c3a3685816000bb7",
+                "order": 55
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Twiggy Lawson",
+            "Lesley Lawson",
+            "Lesley Hornby",
+            "Twiggy Hornby"
+        ],
+        "biography": "Dame Lesley Lawson DBE (born 19 September 1949), widely known by the nickname Twiggy, is an English model and actress. Considered a British cultural icon and a prominent teenage model of the '60s, she first came to prominence for her big eyes, long eyelashes, and short hair.",
+        "birthday": "1949-09-19",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "http://www.twiggylawson.co.uk/",
+        "id": 40092,
+        "imdb_id": "nm0493341",
+        "known_for_department": "Acting",
+        "name": "Twiggy",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.3883,
+        "profile_path": "/78MWft5Adfoczsk7KhkpQUKd328.jpg"
+    }
+}

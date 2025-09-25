@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/godZeVdLEH6YFOBPajdLkAvhy5l.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 293310,
+                "original_language": "en",
+                "original_title": "Citizenfour",
+                "overview": "In June 2013, Laura Poitras and reporter Glenn Greenwald flew to Hong Kong for the first of many meetings with Edward Snowden. She brought her camera with her.",
+                "popularity": 2.1259,
+                "poster_path": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+                "release_date": "2014-10-10",
+                "title": "Citizenfour",
+                "video": false,
+                "vote_average": 7.737,
+                "vote_count": 1346,
+                "character": "Self",
+                "credit_id": "54690aec22136e68da001405",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.3378,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4469,
+                "character": "Edward Snowden",
+                "credit_id": "57d9845392514168510069bc",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edward Joseph Snowden",
+            "Ed Snowden"
+        ],
+        "biography": "Edward Snowden is an American computer professional, former Central Intelligence Agency (CIA) employee and former contractor for the United States government who copied and leaked classified information from the National Security Agency (NSA) in 2013 without prior authorization. His disclosures revealed numerous global surveillance programs, many run by the NSA and the Five Eyes Intelligence Alliance with the cooperation of telecommunication companies and European governments.",
+        "birthday": "1983-06-21",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.edwardsnowden.com/",
+        "id": 1386089,
+        "imdb_id": "nm5722984",
+        "known_for_department": "Acting",
+        "name": "Edward Snowden",
+        "place_of_birth": "Elizabeth City, North Carolina, USA",
+        "popularity": 0.9138,
+        "profile_path": "/q2n2J4HVxty15I9vPJ4j8yX6gdu.jpg"
+    }
+}

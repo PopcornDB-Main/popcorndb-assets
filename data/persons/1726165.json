@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 3.9434,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4045,
+                "character": "Alvy's Uncle",
+                "credit_id": "585bce28925141594103cd26",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 30890,
+                "original_language": "en",
+                "original_title": "Radio Days",
+                "overview": "The Narrator tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+                "popularity": 4.5524,
+                "poster_path": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+                "release_date": "1987-01-30",
+                "title": "Radio Days",
+                "video": false,
+                "vote_average": 7.056,
+                "vote_count": 602,
+                "character": "Mr. Needleman",
+                "credit_id": "5ea0e715b0460500225df6cc",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Martin Rosenblatt was born on June 14, 1917. He was an actor, known for Annie Hall (1977), Radio Days (1987) and New York Stories (1989). He was married to Anne. He died on June 24, 1991.",
+        "birthday": "1917-06-14",
+        "deathday": "1991-06-24",
+        "gender": 2,
+        "homepage": null,
+        "id": 1726165,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Martin Rosenblatt",
+        "place_of_birth": "New York City, New York",
+        "popularity": 0.044,
+        "profile_path": null
+    }
+}

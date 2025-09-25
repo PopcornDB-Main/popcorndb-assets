@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p5z5X3GRnaFEqgtEa7fiGhgtUkA.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 7304,
+                "original_language": "en",
+                "original_title": "Running Scared",
+                "overview": "A low-ranking thug is entrusted by his boss to dispose of a gun that killed corrupt cops, but things spiral out of control when the gun ends up in wrong hands.",
+                "popularity": 3.7631,
+                "poster_path": "/wVlwZbwJlI5C33STslTyVNRGjg6.jpg",
+                "release_date": "2006-01-06",
+                "title": "Running Scared",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1077,
+                "character": "Special Agent in Charge",
+                "credit_id": "6250bd0c2f1be00f574057d0",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "Doyle",
+                "credit_id": "59f512919251414cfd01efc3",
+                "order": 51
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1959-05-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 157790,
+        "imdb_id": "nm0941983",
+        "known_for_department": "Acting",
+        "name": "Glenn Wrage",
+        "place_of_birth": "Queens, New York City, New York, USA",
+        "popularity": 0.1108,
+        "profile_path": "/lLlRLiJJeT3wD4wb9AFnR67jWFm.jpg"
+    }
+}

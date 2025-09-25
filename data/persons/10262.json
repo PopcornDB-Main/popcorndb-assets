@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jM6KRCEIIY1pGUIGemnp1rNY6ko.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 10102,
+                "original_language": "fr",
+                "original_title": "La Grande Bouffe",
+                "overview": "Four friends gather at a villa with the intention of eating themselves to death.",
+                "popularity": 2.9985,
+                "poster_path": "/g4wOgslrQKprlQl927h0lQQ3P99.jpg",
+                "release_date": "1973-05-16",
+                "title": "La Grande Bouffe",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 525,
+                "character": "Andrea",
+                "credit_id": "52fe43269251416c75005745",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kB9Y59YDMOFdm5LgSyTVj4b6hh6.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 4909,
+                "original_language": "en",
+                "original_title": "The Day of the Jackal",
+                "overview": "An international assassin known as \u2018The Jackal\u2019 is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin\u2019s trail.",
+                "popularity": 5.8509,
+                "poster_path": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+                "release_date": "1973-05-16",
+                "title": "The Day of the Jackal",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 631,
+                "character": "Hotel Staff",
+                "credit_id": "5dc679a5a14e1000175c2f1d",
+                "order": 44
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Andr\u00e9a Ferreol",
+            "Andrea Ferreol"
+        ],
+        "biography": "Andr\u00e9a Ferr\u00e9ol is a French stage, film and television actress.",
+        "birthday": "1947-01-06",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 10262,
+        "imdb_id": "nm0275138",
+        "known_for_department": "Acting",
+        "name": "Andr\u00e9a Ferr\u00e9ol",
+        "place_of_birth": "Aix-en-Provence, Bouches-du-Rh\u00f4ne, France",
+        "popularity": 0.3251,
+        "profile_path": "/l2JBvxmFHXAMXsSxK7x18LVykOe.jpg"
+    }
+}

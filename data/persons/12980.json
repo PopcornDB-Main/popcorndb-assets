@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ucFDgf7Nw6cEwPh5o4cacp3k1aW.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    18
+                ],
+                "id": 864,
+                "original_language": "en",
+                "original_title": "Cool Runnings",
+                "overview": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican bobsled team.",
+                "popularity": 4.8427,
+                "poster_path": "/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
+                "release_date": "1993-10-01",
+                "title": "Cool Runnings",
+                "video": false,
+                "vote_average": 7.002,
+                "vote_count": 2140,
+                "character": "Larry",
+                "credit_id": "52fe4284c3a36847f80251b5",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gTO4GgaQDn5msqOvX6LeTj6H7CR.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 13939,
+                "original_language": "en",
+                "original_title": "Death Wish",
+                "overview": "After his wife is murdered by street punks, a pacifistic New York City architect becomes a one-man vigilante squad, prowling the streets for would-be muggers after dark.",
+                "popularity": 3.1347,
+                "poster_path": "/rNksI6UiuTgLtBy69WvKT1PrG0R.jpg",
+                "release_date": "1974-07-24",
+                "title": "Death Wish",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 893,
+                "character": "Man in Park (uncredited)",
+                "credit_id": "63892b85394a87007bd7cebf",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12980,
+        "imdb_id": "nm0319446",
+        "known_for_department": "Acting",
+        "name": "Larry Gilman",
+        "place_of_birth": null,
+        "popularity": 2.6428,
+        "profile_path": "/hF3XzBjLd02jqSQmFDymzQanEQ6.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 381284,
+                "original_language": "en",
+                "original_title": "Hidden Figures",
+                "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson \u2013 brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history \u2013 the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+                "popularity": 12.5756,
+                "poster_path": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+                "release_date": "2016-12-10",
+                "title": "Hidden Figures",
+                "video": false,
+                "vote_average": 8.052,
+                "vote_count": 10083,
+                "character": "Gordon Cooper",
+                "credit_id": "5871c59fc3a3684f0400efb2",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 302946,
+                "original_language": "en",
+                "original_title": "The Accountant",
+                "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+                "popularity": 9.3906,
+                "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+                "release_date": "2016-10-13",
+                "title": "The Accountant",
+                "video": false,
+                "vote_average": 7.129,
+                "vote_count": 6969,
+                "character": "Autistic Boy's Father",
+                "credit_id": "66cbf40ea41a6e7c1438abc6",
+                "order": 36
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joe Hardy, Jr."
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1538168,
+        "imdb_id": "nm3718649",
+        "known_for_department": "Acting",
+        "name": "Joe Hardy Jr.",
+        "place_of_birth": null,
+        "popularity": 0.0536,
+        "profile_path": null
+    }
+}

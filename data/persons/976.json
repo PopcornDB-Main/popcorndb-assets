@@ -1,0 +1,259 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 100,
+                "original_language": "en",
+                "original_title": "Lock, Stock and Two Smoking Barrels",
+                "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+                "popularity": 3.0514,
+                "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+                "release_date": "1998-08-28",
+                "title": "Lock, Stock and Two Smoking Barrels",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 6866,
+                "character": "Bacon",
+                "credit_id": "52fe4217c3a36847f8003607",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+                "genre_ids": [
+                    80,
+                    35
+                ],
+                "id": 107,
+                "original_language": "en",
+                "original_title": "Snatch",
+                "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+                "popularity": 8.3629,
+                "poster_path": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+                "release_date": "2000-09-01",
+                "title": "Snatch",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 9473,
+                "character": "Turkish",
+                "credit_id": "52fe4218c3a36847f8003be1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kT8orKwz2bmRdHBLnG44yucYtFy.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 204082,
+                "original_language": "en",
+                "original_title": "Homefront",
+                "overview": "Phil Broker is a former DEA agent who has gone through a crisis after his action against a biker gang went horribly wrong and it cost the life of his boss' son. He is recently widowed and is left with a 9-years-old daughter, Maddy. He decides to quit the turbulent and demanding life of thrill for Maddy's sake and retires to a small town. His daughter fights off a boy who was bullying her at school and this sets in motion a round of events that end in his direct confrontation with the local Meth drug lord. His past history with the biker gang also enters the arena, making matters more complex. But he has a mission in his mind to protect his daughter and he is ready to pay any cost that it demands.",
+                "popularity": 11.5808,
+                "poster_path": "/6pF8D9bDIAmuHgCqGKEfuNWRQam.jpg",
+                "release_date": "2013-11-12",
+                "title": "Homefront",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 3646,
+                "character": "Phil Broker",
+                "credit_id": "52fe4cecc3a368484e1cd19f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53,
+                    12,
+                    9648
+                ],
+                "id": 385687,
+                "original_language": "en",
+                "original_title": "Fast X",
+                "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.",
+                "popularity": 27.5052,
+                "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+                "release_date": "2023-05-17",
+                "title": "Fast X",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 6035,
+                "character": "Deckard Shaw",
+                "credit_id": "62ab7a9435a61e0062082a1b",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 168259,
+                "original_language": "en",
+                "original_title": "Furious 7",
+                "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+                "popularity": 14.0306,
+                "poster_path": "/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
+                "release_date": "2015-04-01",
+                "title": "Furious 7",
+                "video": false,
+                "vote_average": 7.224,
+                "vote_count": 10944,
+                "character": "Deckard Shaw",
+                "credit_id": "5431dfc70e0a265872002bd5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 637649,
+                "original_language": "en",
+                "original_title": "Wrath of Man",
+                "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+                "popularity": 15.9688,
+                "poster_path": "/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+                "release_date": "2021-04-22",
+                "title": "Wrath of Man",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 5738,
+                "character": "H",
+                "credit_id": "5d9b8d9135a61e002223556d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80
+                ],
+                "id": 385128,
+                "original_language": "en",
+                "original_title": "F9",
+                "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+                "popularity": 8.207,
+                "poster_path": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+                "release_date": "2021-05-19",
+                "title": "F9",
+                "video": false,
+                "vote_average": 7.039,
+                "vote_count": 7456,
+                "character": "Deckard Shaw (uncredited)",
+                "credit_id": "60c133baf18ce70029732901",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f0ACHVpV707zqu4etZrXnWNdSgL.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 866398,
+                "original_language": "en",
+                "original_title": "The Beekeeper",
+                "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+                "popularity": 15.5325,
+                "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+                "release_date": "2024-01-08",
+                "title": "The Beekeeper",
+                "video": false,
+                "vote_average": 7.289,
+                "vote_count": 3771,
+                "character": "Adam Clay",
+                "credit_id": "6129889455c92600639df293",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eY6bnNP10bWljC19v8UXAScHyuP.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 1538,
+                "original_language": "en",
+                "original_title": "Collateral",
+                "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+                "popularity": 8.1952,
+                "poster_path": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+                "release_date": "2004-08-04",
+                "title": "Collateral",
+                "video": false,
+                "vote_average": 7.233,
+                "vote_count": 5921,
+                "character": "Airport Man",
+                "credit_id": "67966b733f7fcf67d08f2b7e",
+                "order": 60
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/f0ACHVpV707zqu4etZrXnWNdSgL.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 866398,
+                "original_language": "en",
+                "original_title": "The Beekeeper",
+                "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+                "popularity": 15.5325,
+                "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+                "release_date": "2024-01-08",
+                "title": "The Beekeeper",
+                "video": false,
+                "vote_average": 7.289,
+                "vote_count": 3771,
+                "credit_id": "621353ffdfe31d006e38861b",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u0436\u0435\u0439\u0441\u043e\u043d \u0421\u0442\u044d\u0439\u0442\u0435\u043c",
+            "\u0414\u0436\u0435\u0439\u0441\u043e\u043d \u0421\u0442\u044d\u0442\u0445\u0435\u043c",
+            "\u0414\u0436\u0435\u0439\u0441\u043e\u043d \u0421\u0442\u044d\u0442\u0445\u044d\u043c",
+            "\u0414\u0436\u0435\u0439\u0441\u043e\u043d \u0421\u0442\u044d\u0442\u0435\u043c",
+            "\u0414\u0436\u0435\u0439\u0441\u043e\u043d \u0421\u0442\u044d\u0442\u044d\u043c"
+        ],
+        "biography": "Jason Statham\u00a0(/\u02c8ste\u026a\u03b8\u0259m/\u00a0STAY-th\u0259m; born 26 July 1967) is an English actor and producer. He is known for portraying tough, gritty, or violent characters in various\u00a0action thriller\u00a0films and has been credited for leading the resurgence of action films during the 2000s and 2010s. By 2017, his films had grossed over\u00a0\u00a31.1 billion ($1.5 billion), making him one of the industry's most\u00a0bankable stars.\n\nWhile working at local market stalls, Statham began practising\u00a0Chinese martial arts,\u00a0kickboxing, and\u00a0karate\u00a0recreationally in his youth. An avid\u00a0footballer\u00a0and\u00a0diver, he was a member of\u00a0Britain's national diving team\u00a0and competed for\u00a0England\u00a0in the\u00a01990 Commonwealth Games. Shortly after, he was asked to model for\u00a0French Connection,\u00a0Tommy Hilfiger, and\u00a0Levi's\u00a0in various advertising campaigns.\n\nStatham's history of working at market stalls inspired his casting in the\u00a0Guy Ritchie\u00a0crime films\u00a0Lock, Stock and Two Smoking Barrels\u00a0(1998) and\u00a0Snatch\u00a0(2000). Both films were commercial hits, and they helped catapult Statham to stardom.\u00a0He played supporting roles in the American action films\u00a0Turn It Up\u00a0(2000),\u00a0Ghosts of Mars\u00a0and\u00a0The One\u00a0(2001). From 2002 to 2008, he played the title role in the first three films in the\u00a0Transporter\u00a0film series\u00a0(2002\u20132008), which solidified his status as an action star. In 2003, he appeared in the ensemble heist action film\u00a0The Italian Job. He went on to play leading roles in the commercially successful films\u00a0Crank (2006),\u00a0The Bank Job\u00a0(2008),\u00a0The Mechanic\u00a0(2011),\u00a0Homefront\u00a0(2013),\u00a0Mechanic: Resurrection (2016),\u00a0The Meg\u00a0(2018),\u00a0Wrath of Man\u00a0(2021),\u00a0Meg 2: The Trench\u00a0(2023), and\u00a0The Beekeeper (2024).\n\nStatham has also starred as Lee Christmas in the ensemble action film series\u00a0The Expendables (2010\u20132023) and as\u00a0Deckard Shaw\u00a0in the\u00a0Fast & Furious\u00a0franchise\u00a0(2013\u20132023), including the spin-off\u00a0Hobbs & Shaw\u00a0(2019), which he co-produced. His voice acting work includes the documentaries\u00a0Thai Boxing: A Fighting Chance\u00a0(2002),\u00a0Truth in 24\u00a0(2008) and its\u00a02012 sequel, and the animated film\u00a0Gnomeo & Juliet\u00a0(2011).\n\nDescription above from the Wikipedia article Jason Statham, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1967-07-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 976,
+        "imdb_id": "nm0005458",
+        "known_for_department": "Acting",
+        "name": "Jason Statham",
+        "place_of_birth": "Shirebrook, Derbyshire, England, UK",
+        "popularity": 13.1972,
+        "profile_path": "/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
+    }
+}

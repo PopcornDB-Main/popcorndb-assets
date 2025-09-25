@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.4866,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.106,
+                "vote_count": 4470,
+                "character": "CIA Interviewer",
+                "credit_id": "58e0fc81c3a3683cbe019f53",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/maDBFV1ZpL9eJ2yRMEv4xw0pcwX.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 424488,
+                "original_language": "en",
+                "original_title": "Megan Leavey",
+                "overview": "The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.",
+                "popularity": 3.808,
+                "poster_path": "/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg",
+                "release_date": "2017-06-09",
+                "title": "Megan Leavey",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 802,
+                "character": "Navy Corpsman",
+                "credit_id": "594b63f3925141315500c7ff",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud30c\ucee4 \uc18c\uc5ec"
+        ],
+        "biography": "Parker Sawyers (born May 24, 1983) is an American actor.",
+        "birthday": "1983-05-24",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1349720,
+        "imdb_id": "nm4554036",
+        "known_for_department": "Acting",
+        "name": "Parker Sawyers",
+        "place_of_birth": "Indianapolis, Indiana, USA",
+        "popularity": 0.2165,
+        "profile_path": "/9YonM2rlIEV9rwGbIcX6uB8bJZW.jpg"
+    }
+}

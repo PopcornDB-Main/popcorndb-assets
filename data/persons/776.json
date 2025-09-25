@@ -1,0 +1,306 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 90,
+                "original_language": "en",
+                "original_title": "Beverly Hills Cop",
+                "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+                "popularity": 4.9556,
+                "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+                "release_date": "1984-12-05",
+                "title": "Beverly Hills Cop",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 4371,
+                "character": "Axel Foley",
+                "credit_id": "52fe4216c3a36847f8002f03",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2pViauhiZLhAUb1lsY6wRir69SF.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 1621,
+                "original_language": "en",
+                "original_title": "Trading Places",
+                "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
+                "popularity": 6.727,
+                "poster_path": "/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+                "release_date": "1983-06-07",
+                "title": "Trading Places",
+                "video": false,
+                "vote_average": 7.23,
+                "vote_count": 3444,
+                "character": "Billy Ray Valentine",
+                "credit_id": "52fe4305c3a36847f8034799",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 808,
+                "original_language": "en",
+                "original_title": "Shrek",
+                "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+                "popularity": 20.3424,
+                "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                "release_date": "2001-05-18",
+                "title": "Shrek",
+                "video": false,
+                "vote_average": 7.752,
+                "vote_count": 17966,
+                "character": "Donkey (voice)",
+                "credit_id": "52fe4279c3a36847f80218a5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 809,
+                "original_language": "en",
+                "original_title": "Shrek 2",
+                "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+                "popularity": 16.9781,
+                "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+                "release_date": "2004-05-19",
+                "title": "Shrek 2",
+                "video": false,
+                "vote_average": 7.302,
+                "vote_count": 12906,
+                "character": "Donkey (voice)",
+                "credit_id": "52fe4279c3a36847f802197f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 12.7162,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 10094,
+                "character": "Mushu (voice)",
+                "credit_id": "52fe43a09251416c75017cbb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 9602,
+                "original_language": "en",
+                "original_title": "Coming to America",
+                "overview": "An African prince decides it\u2019s time for him to find a princess... and his mission leads him and his most loyal friend to Queens, New York. In disguise as an impoverished immigrant, the pampered prince quickly finds himself a new job, new friends, new digs, new enemies and lots of trouble.",
+                "popularity": 9.9194,
+                "poster_path": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+                "release_date": "1988-06-29",
+                "title": "Coming to America",
+                "video": false,
+                "vote_average": 6.879,
+                "vote_count": 4538,
+                "character": "Prince Akeem / Clarence / Randy Watson / Saul",
+                "credit_id": "52fe450fc3a36847f80ba1c1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yrepQdpreOorLyBJyvZkGn3Izfe.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 490003,
+                "original_language": "en",
+                "original_title": "Won't You Be My Neighbor?",
+                "overview": "For more than thirty years, and through his television program, Fred Rogers (1928-2003), host, producer, writer and pianist, accompanied by his puppets and his many friends, spoke directly to young children about some of life's most important issues.",
+                "popularity": 0.944,
+                "poster_path": "/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+                "release_date": "2018-06-29",
+                "title": "Won't You Be My Neighbor?",
+                "video": false,
+                "vote_average": 8.008,
+                "vote_count": 568,
+                "character": "Self - Mr. Robinson (archive footage)",
+                "credit_id": "62afb3ae05f9cf00511e4da4",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ycAZWELqHygeqivCLuqNQsYPSP.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    36
+                ],
+                "id": 528888,
+                "original_language": "en",
+                "original_title": "Dolemite Is My Name",
+                "overview": "The story of Rudy Ray Moore, who created the iconic big screen pimp character Dolemite in the 1970s.",
+                "popularity": 2.3448,
+                "poster_path": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+                "release_date": "2019-10-04",
+                "title": "Dolemite Is My Name",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1209,
+                "character": "Rudy Ray Moore",
+                "credit_id": "5b19e9e29251414bcd00c0da",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 9602,
+                "original_language": "en",
+                "original_title": "Coming to America",
+                "overview": "An African prince decides it\u2019s time for him to find a princess... and his mission leads him and his most loyal friend to Queens, New York. In disguise as an impoverished immigrant, the pampered prince quickly finds himself a new job, new friends, new digs, new enemies and lots of trouble.",
+                "popularity": 9.9194,
+                "poster_path": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+                "release_date": "1988-06-29",
+                "title": "Coming to America",
+                "video": false,
+                "vote_average": 6.879,
+                "vote_count": 4538,
+                "credit_id": "5a2d19d1c3a3680b9d13b6c2",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ycAZWELqHygeqivCLuqNQsYPSP.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    36
+                ],
+                "id": 528888,
+                "original_language": "en",
+                "original_title": "Dolemite Is My Name",
+                "overview": "The story of Rudy Ray Moore, who created the iconic big screen pimp character Dolemite in the 1970s.",
+                "popularity": 2.3448,
+                "poster_path": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+                "release_date": "2019-10-04",
+                "title": "Dolemite Is My Name",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1209,
+                "credit_id": "5b23e487c3a3682e82000219",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 9602,
+                "original_language": "en",
+                "original_title": "Coming to America",
+                "overview": "An African prince decides it\u2019s time for him to find a princess... and his mission leads him and his most loyal friend to Queens, New York. In disguise as an impoverished immigrant, the pampered prince quickly finds himself a new job, new friends, new digs, new enemies and lots of trouble.",
+                "popularity": 9.9194,
+                "poster_path": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+                "release_date": "1988-06-29",
+                "title": "Coming to America",
+                "video": false,
+                "vote_average": 6.879,
+                "vote_count": 4538,
+                "credit_id": "668faf5ac2bb80f2b9e6a576",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 90,
+                "original_language": "en",
+                "original_title": "Beverly Hills Cop",
+                "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+                "popularity": 4.9556,
+                "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+                "release_date": "1984-12-05",
+                "title": "Beverly Hills Cop",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 4371,
+                "credit_id": "668fa4abf2253ec77ea79cef",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u827e\u8fea\u58a8\u83f2",
+            "\u30a8\u30c7\u30a3\u30fb\u30de\u30fc\u30d5\u30a3\u30fc",
+            "\u0627\u06cc\u0688\u06cc \u0645\u0631\u0641\u06cc",
+            "\u042d\u0434\u0434\u0438 \u041c\u0435\u0440\u0444\u0438",
+            "\u091a\u0932\u0928\u0947\u0935\u093e\u0932\u093e\u0938\u092b\u0930\u0940",
+            " \uc5d0\ub514 \uba38\ud53c",
+            "\u827e\u8fea\u00b7\u58a8\u83f2",
+            "\u0627\u062f\u06cc \u0645\u0648\u0631\u0641\u06cc"
+        ],
+        "biography": "Edward \"Eddie\" Regan Murphy (born April 3, 1961) is an American actor, voice actor, film director, producer, comedian, and singer.\n\nHe is the second-highest grossing actor in motion picture history. He was a regular cast member on Saturday Night Live from 1980 to 1984, and has worked as a stand-up comedian. He was ranked #10 on Comedy Central's list of the 100 Greatest Stand-ups of All Time. He has received Golden Globe Award nominations for Golden Globe Award for New Star of the Year - Actor for his performance in 48 Hrs and best actor in a comedy or musical for his performances in Beverly Hills Cop, Trading Places, and The Nutty Professor. In 2007, he won the Golden Globe for Best Supporting Actor for his portrayal of soul singer James \"Thunder\" Early in Dreamgirls, and received a nomination for the Academy Award for Best Supporting Actor for the same role. Murphy's work as a voice actor includes Thurgood Stubbs in The PJs, Donkey in the Shrek series and the dragon Mushu in Disney's Mulan. In some of his films, he plays multiple roles in addition to his main character, intended as a tribute to one of his idols Peter Sellers, who played multiple roles in Dr. Strangelove and elsewhere. Murphy has played multiple roles in Coming to America, Wes Craven's Vampire In Brooklyn, the Nutty Professor films (where he played the title role in two incarnations, plus his father, brother, mother, and grandmother), Bowfinger, and 2007's Norbit.",
+        "birthday": "1961-04-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 776,
+        "imdb_id": "nm0000552",
+        "known_for_department": "Acting",
+        "name": "Eddie Murphy",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 2.7557,
+        "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    }
+}

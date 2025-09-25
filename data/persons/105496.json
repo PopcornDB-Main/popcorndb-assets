@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1271,
+                "original_language": "en",
+                "original_title": "300",
+                "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+                "popularity": 10.1488,
+                "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+                "release_date": "2007-03-07",
+                "title": "300",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 14203,
+                "character": "Spartan with Stick",
+                "credit_id": "52fe42ecc3a36847f802d2fb",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 127585,
+                "original_language": "en",
+                "original_title": "X-Men: Days of Future Past",
+                "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+                "popularity": 13.1726,
+                "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+                "release_date": "2014-05-15",
+                "title": "X-Men: Days of Future Past",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 15762,
+                "character": "Secret Service Agent",
+                "credit_id": "57f87f8fc3a368311a001643",
+                "order": 75
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Born and raised in Montreal, Neil now resides in Los Angeles where, when not at work on a set or in a studio, he can be found playing hockey, practicing yoga and trying to get better at guitar.",
+        "birthday": "1970-04-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.neilstanleynapier.com",
+        "id": 105496,
+        "imdb_id": "nm0621034",
+        "known_for_department": "Acting",
+        "name": "Neil Napier",
+        "place_of_birth": "Montreal, Quebec, Canada",
+        "popularity": 0.3287,
+        "profile_path": "/HlBLkxkiD4rVehF0RKkHSmmIKf.jpg"
+    }
+}

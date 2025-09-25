@@ -1,0 +1,337 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 671,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Philosopher's Stone",
+                "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+                "popularity": 35.7984,
+                "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+                "release_date": "2001-11-16",
+                "title": "Harry Potter and the Philosopher's Stone",
+                "video": false,
+                "vote_average": 7.901,
+                "vote_count": 28610,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe4267c3a36847f801bec9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 673,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Prisoner of Azkaban",
+                "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+                "popularity": 22.6761,
+                "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+                "release_date": "2004-05-31",
+                "title": "Harry Potter and the Prisoner of Azkaban",
+                "video": false,
+                "vote_average": 8.011,
+                "vote_count": 22394,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe4267c3a36847f801c0ab",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xACx8htL9Ubz1qGe0gU2ggHonxV.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 672,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Chamber of Secrets",
+                "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione\u2019s magical abilities and courage.",
+                "popularity": 23.5938,
+                "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+                "release_date": "2002-11-13",
+                "title": "Harry Potter and the Chamber of Secrets",
+                "video": false,
+                "vote_average": 7.706,
+                "vote_count": 22825,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe4267c3a36847f801c01b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 675,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Order of the Phoenix",
+                "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+                "popularity": 18.8986,
+                "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+                "release_date": "2007-07-08",
+                "title": "Harry Potter and the Order of the Phoenix",
+                "video": false,
+                "vote_average": 7.674,
+                "vote_count": 20146,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe4268c3a36847f801c517",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 674,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Goblet of Fire",
+                "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools\u2014the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+                "popularity": 22.5397,
+                "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+                "release_date": "2005-11-16",
+                "title": "Harry Potter and the Goblet of Fire",
+                "video": false,
+                "vote_average": 7.801,
+                "vote_count": 21437,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe4268c3a36847f801c2fb",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 767,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Half-Blood Prince",
+                "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+                "popularity": 18.8173,
+                "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+                "release_date": "2009-07-15",
+                "title": "Harry Potter and the Half-Blood Prince",
+                "video": false,
+                "vote_average": 7.683,
+                "vote_count": 20120,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe4273c3a36847f801fa77",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 12444,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+                "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+                "popularity": 19.5516,
+                "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+                "release_date": "2010-11-17",
+                "title": "Harry Potter and the Deathly Hallows: Part 1",
+                "video": false,
+                "vote_average": 7.739,
+                "vote_count": 19733,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe44e19251416c75044307",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+                "genre_ids": [
+                    14,
+                    12
+                ],
+                "id": 12445,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+                "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+                "popularity": 18.4924,
+                "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+                "release_date": "2011-07-12",
+                "title": "Harry Potter and the Deathly Hallows: Part 2",
+                "video": false,
+                "vote_average": 8.084,
+                "vote_count": 21282,
+                "character": "Draco Malfoy",
+                "credit_id": "52fe44e29251416c750445fd",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8rft8A9nH43IReybFtYt21ezfMK.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 899082,
+                "original_language": "en",
+                "original_title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+                "overview": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+                "popularity": 6.8086,
+                "poster_path": "/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+                "release_date": "2022-01-01",
+                "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+                "video": false,
+                "vote_average": 7.304,
+                "vote_count": 3433,
+                "character": "Self",
+                "credit_id": "6193ebab957e6d0042bc99bf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lgW8td0pAmpTGFhicx0D582c51K.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 205601,
+                "original_language": "en",
+                "original_title": "Belle",
+                "overview": "Dido Elizabeth Bell, the illegitimate, mixed-race daughter of a Royal Navy admiral, plays an important role in the campaign to abolish slavery in England.",
+                "popularity": 3.2135,
+                "poster_path": "/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg",
+                "release_date": "2013-05-01",
+                "title": "Belle",
+                "video": false,
+                "vote_average": 7.125,
+                "vote_count": 697,
+                "character": "James Ashford",
+                "credit_id": "52fe4d0cc3a368484e1d41bd",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    18,
+                    878
+                ],
+                "id": 61791,
+                "original_language": "en",
+                "original_title": "Rise of the Planet of the Apes",
+                "overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+                "popularity": 9.6479,
+                "poster_path": "/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+                "release_date": "2011-08-03",
+                "title": "Rise of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.337,
+                "vote_count": 12317,
+                "character": "Dodge Landon",
+                "credit_id": "53bdf507c3a3684cdf0024b5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/maDBFV1ZpL9eJ2yRMEv4xw0pcwX.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 424488,
+                "original_language": "en",
+                "original_title": "Megan Leavey",
+                "overview": "The true story of Marine Corporal Megan Leavey, who forms a powerful bond with an aggressive combat dog, Rex. While deployed in Iraq, the two complete more than 100 missions and save countless lives, until an IED explosion puts their faithfulness to the test.",
+                "popularity": 4.0824,
+                "poster_path": "/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg",
+                "release_date": "2017-06-09",
+                "title": "Megan Leavey",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 800,
+                "character": "Sergeant Andrew Dean",
+                "credit_id": "581dfb679251410a1800ad58",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/z58p4iLs8NEUn0CFMyDF2LUwJKv.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    36
+                ],
+                "id": 428836,
+                "original_language": "en",
+                "original_title": "Ophelia",
+                "overview": "Ophelia comes of age as lady-in-waiting for Queen Gertrude, and her singular spirit captures Hamlet's affections. As lust and betrayal threaten the kingdom, Ophelia finds herself trapped between true love and controlling her own destiny.",
+                "popularity": 3.7076,
+                "poster_path": "/7ItW1N2L2YIWVlZh1cg2Ylh3i8f.jpg",
+                "release_date": "2019-06-28",
+                "title": "Ophelia",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 580,
+                "character": "Laertes",
+                "credit_id": "591bf5179251414a7b006540",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qmCCXB6fn1Sjztm4t56Xviw0uDI.jpg",
+                "genre_ids": [
+                    28,
+                    10752,
+                    12,
+                    36,
+                    18
+                ],
+                "id": 633515,
+                "original_language": "nl",
+                "original_title": "De Slag om de Schelde",
+                "overview": "In WWII's final years, a soldier in the German army, a British glider pilot, and a Dutch resistance fighter's paths intertwine. Their choices shape destinies, impacting not only their freedom but also that of others.",
+                "popularity": 5.2594,
+                "poster_path": "/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg",
+                "release_date": "2020-12-14",
+                "title": "The Forgotten Battle",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 728,
+                "character": "Tony Turner",
+                "credit_id": "5ddebd204f58010016fb4618",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Thomas Andrew Felton"
+        ],
+        "biography": "Thomas Andrew Felton (born September 22, 1987) is an English actor who played Draco Malfoy in the film adaptations of the best-selling Harry Potter fantasy novels by J. K. Rowling.\n\nBorn in Surrey, Felton began appearing in commercials and made his screen debut in the role of Peagreen Clock in The Borrowers (1997). He portrayed Louis T. Leonowens in Anna and the King (1999) before being cast in Harry Potter and the Philosopher's Stone (2001). Felton appeared in seven sequels until the final film, Harry Potter and the Deathly Hallows \u2013 Part 2 (2011). Felton appeared in the sci-fi film Rise of the Planet of the Apes (2011). He was subsequently cast in indie films From the Rough (2011) and The Apparition (2012).\n\nFelton starred as Viscount Trencavel in the historical miniseries Labyrinth and as James Ashford in the period drama Belle (2013), which released to critical acclaim. In 2015, he reoccured as a murder suspect in TNT's Murder in the First. Felton appeared in Message from the King and A United Kingdom, which premiered at the 2016 Toronto International Film Festival. He portrayed Doctor Alchemy on The CW's The Flash, based on the comic books of the same name. Felton co-starred in drama film Feed (2017), action-thriller Stratton (2017), and biographical film Megan Leavey (2017). Felton was a series regular on the 2018 sci-fi series Origin and appeared as Laertes in Claire McCarthy's Ophelia (2018), both to critical praise. Felton portrayed the villain in family-horror A Babysitter's Guide to Monster Hunting (2020).",
+        "birthday": "1987-09-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://tomfelton.com",
+        "id": 10993,
+        "imdb_id": "nm0271657",
+        "known_for_department": "Acting",
+        "name": "Tom Felton",
+        "place_of_birth": "Kensington, London, England, UK",
+        "popularity": 0.9742,
+        "profile_path": "/4fO0PjiBbNFEnYLPe55xUUP7Wgf.jpg"
+    }
+}

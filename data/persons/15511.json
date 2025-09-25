@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 948,
+                "original_language": "en",
+                "original_title": "Halloween",
+                "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+                "popularity": 7.2074,
+                "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+                "release_date": "1978-10-24",
+                "title": "Halloween",
+                "video": false,
+                "vote_average": 7.563,
+                "vote_count": 5880,
+                "character": "Lonnie",
+                "credit_id": "52fe4292c3a36847f80290af",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 15511,
+        "imdb_id": "nm0494506",
+        "known_for_department": "Acting",
+        "name": "Brent Le Page",
+        "place_of_birth": null,
+        "popularity": 0.0769,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 8.7172,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.306,
+                "vote_count": 4780,
+                "character": "Man in Taxi",
+                "credit_id": "609b84c0f706de005796bb2b",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Howard Jarvis was born on 22 September 1903 in Ogden, Utah, USA. He was an actor, known for Airplane! (1980), The Tonight Show Starring Johnny Carson (1962) and Over Easy (1977). He died on 12 August 1986 in Los Angeles County, California, USA.",
+        "birthday": "1903-09-22",
+        "deathday": "1986-08-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 3087759,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Howard Jarvis",
+        "place_of_birth": "Ogden, Utah, USA",
+        "popularity": 0.0261,
+        "profile_path": null
+    }
+}

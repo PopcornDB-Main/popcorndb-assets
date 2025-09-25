@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/1tqzKtAWMRURxPTvs1hzcSOoKxe.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 234200,
+                "original_language": "en",
+                "original_title": "Pride",
+                "overview": "In 1984, a group of LGBT activists decide to raise money to support the National Union of Mineworkers during their lengthy strike. There is only one problem: the Union seems embarrassed to receive their support.",
+                "popularity": 3.2875,
+                "poster_path": "/mrITqHNw0XzT7egAPByDuiE3QZf.jpg",
+                "release_date": "2014-09-12",
+                "title": "Pride",
+                "video": false,
+                "vote_average": 7.704,
+                "vote_count": 1357,
+                "character": "Reggie",
+                "credit_id": "52fe4e2ec3a36847f8282559",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p3P0eTh8AnqauhRZg0wgoBFvcjF.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 9833,
+                "original_language": "en",
+                "original_title": "The Phantom of the Opera",
+                "overview": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opera House.",
+                "popularity": 3.8025,
+                "poster_path": "/pFf1Xxzgxo6ffxAJeSkAb5b0P4S.jpg",
+                "release_date": "2004-12-08",
+                "title": "The Phantom of the Opera",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1692,
+                "character": "Young Phantom",
+                "credit_id": "5f56ca7f1511aa0036203609",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1989-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3566,
+        "imdb_id": "nm1546084",
+        "known_for_department": "Acting",
+        "name": "Chris Overton",
+        "place_of_birth": null,
+        "popularity": 0.2689,
+        "profile_path": "/gsJk5QCZNXqu7FtM9UZ1X8nyraG.jpg"
+    }
+}

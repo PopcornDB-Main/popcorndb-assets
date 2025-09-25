@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nVl6SKKzuweWqDo56Iipov2tqm0.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    10770
+                ],
+                "id": 839,
+                "original_language": "en",
+                "original_title": "Duel",
+                "overview": "Traveling businessman David Mann angers the driver of a rusty tanker while crossing the California desert. A simple trip turns deadly, as Mann struggles to stay on the road while the tanker plays cat and mouse with his life.",
+                "popularity": 2.151,
+                "poster_path": "/w9Vk1Txx14vWvACELFYFlixrsfr.jpg",
+                "release_date": "1971-11-13",
+                "title": "Duel",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1959,
+                "character": "Gas Station Attendant",
+                "credit_id": "52fe427ec3a36847f802339b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 12101,
+                "original_language": "en",
+                "original_title": "Soylent Green",
+                "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+                "popularity": 3.3848,
+                "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+                "release_date": "1973-04-18",
+                "title": "Soylent Green",
+                "video": false,
+                "vote_average": 6.94,
+                "vote_count": 1337,
+                "character": "Brady",
+                "credit_id": "6498682462f33500e912dd86",
+                "order": 41
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Herman Timberg Jr.",
+            "Herbert Timberg"
+        ],
+        "biography": "",
+        "birthday": "1914-06-22",
+        "deathday": "1986-06-20",
+        "gender": 2,
+        "homepage": null,
+        "id": 12425,
+        "imdb_id": "nm0378630",
+        "known_for_department": "Acting",
+        "name": "Tim Herbert",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2554,
+        "profile_path": "/9IPkyvIjY30wlKKG8Di4pfQ6n1h.jpg"
+    }
+}

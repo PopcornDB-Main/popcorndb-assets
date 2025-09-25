@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/7EazpcvoCfNZZysgljUAkQCBvW.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 614917,
+                "original_language": "en",
+                "original_title": "King Richard",
+                "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+                "popularity": 5.0956,
+                "poster_path": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+                "release_date": "2021-11-18",
+                "title": "King Richard",
+                "video": false,
+                "vote_average": 7.622,
+                "vote_count": 2673,
+                "character": "Rivera Country Club Waitress",
+                "credit_id": "619a6e2552dc7f004398b7a2",
+                "order": 68
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/trfjdJI51Krnig9UmxJQkz15ICo.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 11820,
+                "original_language": "en",
+                "original_title": "Mona Lisa Smile",
+                "overview": "Katherine Watson is a recent UCLA graduate hired to teach art history at the prestigious all-female Wellesley College, in 1953. Determined to confront the outdated mores of society and the institution that embraces them, Katherine inspires her traditional students, including Betty and Joan, to challenge the lives they are expected to lead.",
+                "popularity": 3.3655,
+                "poster_path": "/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+                "release_date": "2003-12-19",
+                "title": "Mona Lisa Smile",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1815,
+                "character": "Photographer",
+                "credit_id": "6239ed840752880072040525",
+                "order": 57
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mary S. Pascoe"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 3318989,
+        "imdb_id": "nm1248867",
+        "known_for_department": "Acting",
+        "name": "Mary Pascoe",
+        "place_of_birth": null,
+        "popularity": 0.0714,
+        "profile_path": "/qwvk6LarV4Xn22XqvJmJuRARLX4.jpg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2hABgVIhalvUB30Z2kIPVv8YX9n.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1654,
+                "original_language": "en",
+                "original_title": "The Dirty Dozen",
+                "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy ch\u00e2teau and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+                "popularity": 5.0242,
+                "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+                "release_date": "1967-06-15",
+                "title": "The Dirty Dozen",
+                "video": false,
+                "vote_average": 7.596,
+                "vote_count": 1257,
+                "character": "Gen. Worden's Aide",
+                "credit_id": "55e1e7c2c3a3680b5f00006e",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 3.9912,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1186,
+                "character": "Gourmand (voice)",
+                "credit_id": "60f8b1e2209f18007d57ae24",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 215334,
+        "imdb_id": "nm0934220",
+        "known_for_department": "Acting",
+        "name": "Thick Wilson",
+        "place_of_birth": null,
+        "popularity": 0.1483,
+        "profile_path": null
+    }
+}

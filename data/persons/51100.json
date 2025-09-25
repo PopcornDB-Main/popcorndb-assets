@@ -1,0 +1,218 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ieux01445tYkzGdAukUFiYZiDNn.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 41411,
+                "original_language": "fr",
+                "original_title": "La Rafle",
+                "overview": "A faithful retelling of the 1942 \"Vel' d'Hiv Roundup\" and the events surrounding it.",
+                "popularity": 3.512,
+                "poster_path": "/9osPoGTddZZfMUzFDs82n57y2wQ.jpg",
+                "release_date": "2010-03-10",
+                "title": "The Round Up",
+                "video": false,
+                "vote_average": 7.546,
+                "vote_count": 1025,
+                "character": "Schmuel Weismann",
+                "credit_id": "52fe45c7c3a36847f80d9fc5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6mqgl2szMLRYj4lhlXOjju5Tpeo.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    9648
+                ],
+                "id": 17578,
+                "original_language": "en",
+                "original_title": "The Adventures of Tintin",
+                "overview": "Intrepid young reporter, Tintin, and his loyal dog, Snowy, are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson and Thomson, travel half the world, one step ahead of their enemies, as Tintin endeavors to find the Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.",
+                "popularity": 5.2539,
+                "poster_path": "/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg",
+                "release_date": "2011-10-24",
+                "title": "The Adventures of Tintin",
+                "video": false,
+                "vote_average": 6.912,
+                "vote_count": 5582,
+                "character": "Ben Salaad (voice)",
+                "credit_id": "52fe47349251416c7509147d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sIJTdyF6JFbIz5mENPpeSlCKYyB.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10749
+                ],
+                "id": 59436,
+                "original_language": "en",
+                "original_title": "Midnight in Paris",
+                "overview": "While on a trip to Paris with his fianc\u00e9e's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+                "popularity": 5.2502,
+                "poster_path": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+                "release_date": "2011-05-11",
+                "title": "Midnight in Paris",
+                "video": false,
+                "vote_average": 7.521,
+                "vote_count": 7491,
+                "character": "D\u00e9tective Tisserant",
+                "credit_id": "52fe4990c3a36847f81a0bd5",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLg9t6c34soxT4UAebbL3Cnlbl5.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 77459,
+                "original_language": "fr",
+                "original_title": "Un monstre \u00e0 Paris",
+                "overview": "Paris, 1910. Emile, a shy movie projectionist, and Raoul, a colourful inventor, find themselves embarked on the hunt for a monster terrorizing citizens. They join forces with Lucille, the big-hearted star of the Bird of Paradise cabaret, an eccentric scientist and his irascible monkey to save the monster, who turns out to be an oversized but harmless flea, from the city's ruthlessly ambitious police chief.",
+                "popularity": 4.1476,
+                "poster_path": "/wSYZR2QL58jWPIEe9TG7G9PlTya.jpg",
+                "release_date": "2011-10-12",
+                "title": "A Monster in Paris",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 1297,
+                "character": "Raoul (voice)",
+                "credit_id": "52fe496cc3a368484e12ac65",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xVEBLD278GuFZoPFskpD3dvdJlV.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    16
+                ],
+                "id": 20352,
+                "original_language": "en",
+                "original_title": "Despicable Me",
+                "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+                "popularity": 12.614,
+                "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+                "release_date": "2010-07-08",
+                "title": "Despicable Me",
+                "video": false,
+                "vote_average": 7.252,
+                "vote_count": 15587,
+                "character": "(voice) (uncredited)",
+                "credit_id": "68c7070d249d983a38ca7034",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 93456,
+                "original_language": "en",
+                "original_title": "Despicable Me 2",
+                "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+                "popularity": 10.3383,
+                "poster_path": "/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg",
+                "release_date": "2013-06-26",
+                "title": "Despicable Me 2",
+                "video": false,
+                "vote_average": 6.935,
+                "vote_count": 11637,
+                "character": "(voice) (uncredited)",
+                "credit_id": "68c70759d9306cf49a230eb8",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    16,
+                    878
+                ],
+                "id": 519182,
+                "original_language": "en",
+                "original_title": "Despicable Me 4",
+                "overview": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+                "popularity": 29.7746,
+                "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+                "release_date": "2024-06-20",
+                "title": "Despicable Me 4",
+                "video": false,
+                "vote_average": 7.013,
+                "vote_count": 2921,
+                "character": "(voice) (uncredited)",
+                "credit_id": "68c7086df3323b474e2200b8",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 438148,
+                "original_language": "en",
+                "original_title": "Minions: The Rise of Gru",
+                "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+                "popularity": 12.0132,
+                "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+                "release_date": "2022-06-29",
+                "title": "Minions: The Rise of Gru",
+                "video": false,
+                "vote_average": 7.286,
+                "vote_count": 3826,
+                "character": "(voice) (uncredited)",
+                "credit_id": "68c7090e772bdac7a9e2fe4f",
+                "order": 54
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0490\u0430\u0434 \u0415\u043b\u044c\u043c\u0430\u043b\u0435\u0445",
+            "\u062c\u0627\u062f \u0627\u0644\u0645\u0627\u0644\u062d",
+            "\u06ad\u0627\u062f \u0627\u0644\u0645\u0627\u0644\u062d",
+            "\u0643\u0627\u062f \u0627\u0644\u0645\u0627\u0644\u062d",
+            "\u063a\u0627\u062f \u0627\u0644\u0645\u0627\u0644\u062d",
+            "\u06af\u0627\u062f \u0627\u0644\u0645\u0627\u0644\u062d\u0647"
+        ],
+        "biography": "Gad Elmaleh (born April 19, 1971) is a French-Moroccan stand-up comedian and actor. He has starred in several feature films, including Coco, Hors de prix, and La Doublure.\n\nHe is known for his stand-up comedy specials D\u00e9calages (1997), La Vie normale (2000), L'autre c'est moi (2005), Papa est en haut (2007), Sans tambour (2013), 20 ans de sc\u00e8ne (2015), Oh My Gad (2015), Gad Elmaleh part en live (2016), American Dream (2017), D\u2019Ailleurs (2022).",
+        "birthday": "1971-04-19",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://gadelmaleh.com",
+        "id": 51100,
+        "imdb_id": "nm0255362",
+        "known_for_department": "Acting",
+        "name": "Gad Elmaleh",
+        "place_of_birth": "Casablanca, Morocco",
+        "popularity": 0.486,
+        "profile_path": "/oxWWtXt59WrngUja6INnFlyxtD2.jpg"
+    }
+}

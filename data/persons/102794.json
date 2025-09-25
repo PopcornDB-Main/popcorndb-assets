@@ -1,0 +1,49 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    12
+                ],
+                "id": 425,
+                "original_language": "en",
+                "original_title": "Ice Age",
+                "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters \u2013 Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth \u2013 find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
+                "popularity": 17.4868,
+                "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+                "release_date": "2002-03-14",
+                "title": "Ice Age",
+                "video": false,
+                "vote_average": 7.365,
+                "vote_count": 13806,
+                "character": "Glyptodon (voice)",
+                "credit_id": "551645df9251414ec9000413",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Lil Cocker"
+        ],
+        "biography": "",
+        "birthday": "1932-09-09",
+        "deathday": "2024-08-09",
+        "gender": 1,
+        "homepage": null,
+        "id": 102794,
+        "imdb_id": "nm0564669",
+        "known_for_department": "Acting",
+        "name": "Mitzi McCall",
+        "place_of_birth": "Pittsburgh, Pennsylvania, USA",
+        "popularity": 0.1658,
+        "profile_path": "/rLcQCzfIkDkw8ZoaMKTc5NOmB4M.jpg"
+    }
+}

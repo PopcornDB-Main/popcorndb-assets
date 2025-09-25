@@ -1,0 +1,317 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 416477,
+                "original_language": "en",
+                "original_title": "The Big Sick",
+                "overview": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+                "popularity": 5.1842,
+                "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+                "release_date": "2017-03-30",
+                "title": "The Big Sick",
+                "video": false,
+                "vote_average": 7.332,
+                "vote_count": 2517,
+                "character": "CJ",
+                "credit_id": "57ddbc61925141785d002cce",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gESm6yc2MZpSXakgqLF0OlLaRn1.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 582014,
+                "original_language": "en",
+                "original_title": "Promising Young Woman",
+                "overview": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+                "popularity": 3.8322,
+                "poster_path": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+                "release_date": "2020-12-13",
+                "title": "Promising Young Woman",
+                "video": false,
+                "vote_average": 7.411,
+                "vote_count": 3433,
+                "character": "Ryan",
+                "credit_id": "5c9e893fc3a368735b7fdfb1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "character": "Self",
+                "credit_id": "6089b4df2dda89004119e672",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "credit_id": "6089b83be19de90029f83dc3",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "credit_id": "6089b4eec1606a00771da992",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "credit_id": "60b6d7c4a8067300578b350f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "credit_id": "60b36b8efd140b005978f7b0",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "credit_id": "60b36b98aafebd0040bca0da",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "credit_id": "60b4080db7b69d0057c58589",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9sfVyE3sP2dkCwDyV7UlYP5TAAR.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 823754,
+                "original_language": "en",
+                "original_title": "Bo Burnham: Inside",
+                "overview": "Stuck in COVID-19 lockdown, US comedian and musician Bo Burnham attempts to stay sane and happy by writing, shooting and performing a one-man comedy special.",
+                "popularity": 2.4744,
+                "poster_path": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+                "release_date": "2021-07-22",
+                "title": "Bo Burnham: Inside",
+                "video": false,
+                "vote_average": 8.026,
+                "vote_count": 546,
+                "credit_id": "6171ea36d18b24008dd95f18",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 489925,
+                "original_language": "en",
+                "original_title": "Eighth Grade",
+                "overview": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school \u2014 the end of her thus far disastrous eighth grade year \u2014 before she begins high school.",
+                "popularity": 3.9068,
+                "poster_path": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+                "release_date": "2018-01-19",
+                "title": "Eighth Grade",
+                "video": false,
+                "vote_average": 7.16,
+                "vote_count": 1590,
+                "credit_id": "5a1f26a10e0a264cca080a1e",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 489925,
+                "original_language": "en",
+                "original_title": "Eighth Grade",
+                "overview": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school \u2014 the end of her thus far disastrous eighth grade year \u2014 before she begins high school.",
+                "popularity": 3.9068,
+                "poster_path": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+                "release_date": "2018-01-19",
+                "title": "Eighth Grade",
+                "video": false,
+                "vote_average": 7.16,
+                "vote_count": 1590,
+                "credit_id": "5a1f26a7925141032407ff7e",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 666277,
+                "original_language": "en",
+                "original_title": "Past Lives",
+                "overview": "After decades apart, childhood friends Nora and Hae Sung are reunited in New York for one fateful weekend as they confront notions of destiny, love, and the choices that make a life.",
+                "popularity": 7.7375,
+                "poster_path": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+                "release_date": "2023-06-02",
+                "title": "Past Lives",
+                "video": false,
+                "vote_average": 7.728,
+                "vote_count": 2022,
+                "credit_id": "684f00f9e9ca8a7b3c3fe8f8",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Robert \"Bo\" Burnham",
+            "Robert Burnham",
+            "Robert Pickering Burnham",
+            "\u535a\u4f2f\u54c8"
+        ],
+        "biography": "Robert Pickering \"Bo\" Burnham (born August 21, 1990) is an American comedian, musician, actor, film director, screenwriter, and poet. He began his career on YouTube in March 2006, with his videos gaining more than 300 million views as of March 2021.\n\nBurnham signed a four-year record deal with Comedy Central Records and released his debut EP, Bo fo Sho, in 2008. His first full-length album, Bo Burnham, was released the following year. At the age of 18, he became the youngest person to record a half-hour comedy special with Comedy Central. In 2010, his second album, Words Words Words, was released along with his first live comedy special of the same name on Comedy Central. His third album and second comedy special, what., was released in 2013 on his YouTube channel and Netflix. He finished in first place at the 2011 Comedy Central Stand-up Showdown. His third stand-up comedy special, Make Happy, was released exclusively on Netflix in 2016. His fourth comedy special, Bo Burnham: Inside, premiered on Netflix in 2021.\n\nIn 2013, Burnham co-created and starred in the MTV television series Zach Stone Is Gonna Be Famous and released a book of poetry called Egghead: Or, You Can't Survive on Ideas Alone. His first feature film as a writer and director, Eighth Grade, was released in 2018 to widespread critical acclaim; among other accolades, it received the Writers Guild of America Award for Best Original Screenplay and the Directors Guild of America Award for Outstanding Directing \u2013 First-Time Feature Film. In 2020, Burnham starred as Ryan Cooper in the film Promising Young Woman.",
+        "birthday": "1990-08-21",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.boburnham.com/",
+        "id": 115128,
+        "imdb_id": "nm3102998",
+        "known_for_department": "Acting",
+        "name": "Bo Burnham",
+        "place_of_birth": "Hamilton, Massachusetts, USA",
+        "popularity": 0.3313,
+        "profile_path": "/xMAatohXadCfz9ipvqvIaTLwOmV.jpg"
+    }
+}

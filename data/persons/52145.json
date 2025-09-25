@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/y1giivdsGLyo1LCvlsL6mLKyTZ7.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648
+                ],
+                "id": 1018,
+                "original_language": "en",
+                "original_title": "Mulholland Drive",
+                "overview": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+                "popularity": 9.3955,
+                "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+                "release_date": "2001-06-06",
+                "title": "Mulholland Drive",
+                "video": false,
+                "vote_average": 7.808,
+                "vote_count": 6652,
+                "character": "Bob Brooker",
+                "credit_id": "52fe42e5c3a36847f802af8b",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    37
+                ],
+                "id": 581,
+                "original_language": "en",
+                "original_title": "Dances with Wolves",
+                "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide\u2014and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+                "popularity": 8.3759,
+                "poster_path": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+                "release_date": "1990-03-30",
+                "title": "Dances with Wolves",
+                "video": false,
+                "vote_average": 7.842,
+                "vote_count": 4467,
+                "character": "Major",
+                "credit_id": "52fe4256c3a36847f80163a1",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/le14c0VjhbBv475RAEQ13Wt2loo.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 10648,
+                "original_language": "en",
+                "original_title": "Magnum Force",
+                "overview": "\"Dirty\" Harry Callahan is a San Francisco Police Inspector on the trail of a group of rogue cops who have taken justice into their own hands. When shady characters are murdered one after another in grisly fashion, only Dirty Harry can stop them.",
+                "popularity": 3.0749,
+                "poster_path": "/1uX1uzn09seCftG3rTGLPyFXxV6.jpg",
+                "release_date": "1973-12-13",
+                "title": "Magnum Force",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1119,
+                "character": "Palancio's Hitter",
+                "credit_id": "67019dc5f878adfed085763c",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Wayne Grace (7 May 1940 \u2013 13 August 2022; age 82) was an actor.",
+        "birthday": "1940-05-07",
+        "deathday": "2022-08-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 52145,
+        "imdb_id": "nm0333412",
+        "known_for_department": "Acting",
+        "name": "Wayne Grace",
+        "place_of_birth": "Pomona, California, USA",
+        "popularity": 0.1613,
+        "profile_path": "/11uxoFw8pwHfNhUIw40L0jSdckX.jpg"
+    }
+}

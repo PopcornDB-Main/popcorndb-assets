@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nVpp3ZcIFtJJ3fJp65eJczehIN8.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 3063,
+                "original_language": "en",
+                "original_title": "Duck Soup",
+                "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+                "popularity": 2.3419,
+                "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+                "release_date": "1933-11-12",
+                "title": "Duck Soup",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 816,
+                "character": "Chicolini",
+                "credit_id": "52fe4381c3a36847f8059439",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d7YwLX0PnX8vsaaQq9bz93jczGw.jpg",
+                "genre_ids": [
+                    35,
+                    10402
+                ],
+                "id": 37719,
+                "original_language": "en",
+                "original_title": "A Night at the Opera",
+                "overview": "The Marx Brothers take on high society and the opera world to bring two lovers together. A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+                "popularity": 2.2205,
+                "poster_path": "/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+                "release_date": "1935-11-15",
+                "title": "A Night at the Opera",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 519,
+                "character": "Fiorello",
+                "credit_id": "52fe46679251416c910535b9",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Leo Marx",
+            "Leonard \"Chico\" Marx",
+            "Leonard Marx"
+        ],
+        "biography": "Leonard \"Chico\" Marx (March 22, 1887 \u2013 October 11, 1961) was an American comedian and film star as part of the Marx Brothers. His persona in the act was that of a dim-witted con artist, seemingly of rural Italian origin, who wore shabby clothes, and sported a curly-haired wig and Tyrolean hat.\n\nDescription above from the Wikipedia article Chico Marx, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1887-03-21",
+        "deathday": "1961-10-11",
+        "gender": 2,
+        "homepage": null,
+        "id": 10799,
+        "imdb_id": "nm0555597",
+        "known_for_department": "Acting",
+        "name": "Chico Marx",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2809,
+        "profile_path": "/skCr15bjcjhCheQMGvE4k3U0LGp.jpg"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/insPcjOIWFf6Uc9DR0ORgXATqSM.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 4960,
+                "original_language": "en",
+                "original_title": "Synecdoche, New York",
+                "overview": "A theater director struggles with his work, and the women in his life, as he attempts to create a life-size replica of New York inside a warehouse as part of his new play.",
+                "popularity": 2.8503,
+                "poster_path": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+                "release_date": "2008-10-24",
+                "title": "Synecdoche, New York",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1496,
+                "character": "Michael",
+                "credit_id": "64d292606d4c97012e8cb9cb",
+                "order": 46
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 164254,
+        "imdb_id": "nm1740817",
+        "known_for_department": "Acting",
+        "name": "Timothy Doyle",
+        "place_of_birth": null,
+        "popularity": 0.2008,
+        "profile_path": null
+    }
+}

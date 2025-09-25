@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 21.1918,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 11225,
+                "character": "Newscaster",
+                "credit_id": "62256dd6126ec3006ebd2a0f",
+                "order": 69
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oQ024BtJgArg8WI4zfuc2vkCJno.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 363676,
+                "original_language": "en",
+                "original_title": "Sully",
+                "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the Hudson River, saving the lives of all 155 souls aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+                "popularity": 6.3982,
+                "poster_path": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+                "release_date": "2016-09-07",
+                "title": "Sully",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 7439,
+                "character": "Bobby Cuza",
+                "credit_id": "67b9619a06b5536bdc0a6a47",
+                "order": 48
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3455794,
+        "imdb_id": "nm8416667",
+        "known_for_department": "Acting",
+        "name": "Bobby Cuza",
+        "place_of_birth": null,
+        "popularity": 0.0795,
+        "profile_path": "/6x4I5HEqJBlXTdaLWaeWd8U2TnU.jpg"
+    }
+}

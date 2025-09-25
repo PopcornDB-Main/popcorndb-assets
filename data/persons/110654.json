@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    10749
+                ],
+                "id": 10340,
+                "original_language": "en",
+                "original_title": "Lady and the Tramp",
+                "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
+                "popularity": 5.7702,
+                "poster_path": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+                "release_date": "1955-06-22",
+                "title": "Lady and the Tramp",
+                "video": false,
+                "vote_average": 7.122,
+                "vote_count": 5459,
+                "character": "Beaver (voice)",
+                "credit_id": "52fe435d9251416c7500d799",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80
+                ],
+                "id": 11576,
+                "original_language": "en",
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+                "popularity": 9.1287,
+                "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+                "release_date": "1963-11-07",
+                "title": "It's a Mad, Mad, Mad, Mad World",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 637,
+                "character": "Deputy Sheriff",
+                "credit_id": "52fe445f9251416c750326f5",
+                "order": 25
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Stanley Friberg"
+        ],
+        "biography": "Stan Freberg (born Stanley Friberg; August 7, 1926 \u2013 April 7, 2015) was an American author, actor, comedian, musician, radio personality, puppeteer and advertising creative director, whose career began in 1943. He remained active in the industry into his late 80s, more than 70 years after entering it.",
+        "birthday": "1926-08-07",
+        "deathday": "2015-04-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 110654,
+        "imdb_id": "nm0292677",
+        "known_for_department": "Acting",
+        "name": "Stan Freberg",
+        "place_of_birth": "Pasadena, California, USA",
+        "popularity": 0.1579,
+        "profile_path": "/msFe4Y7ud9k3DgcCmlXL0EZH6nR.jpg"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 18.309,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Elderly Southern Woman",
+                "credit_id": "55d0caafc3a3684453006715",
+                "order": 101
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gYapxyWZXFYcCHtf5dVB2Ub9RTy.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 2007,
+                "original_language": "en",
+                "original_title": "Lorenzo's Oil",
+                "overview": "Augusto and Michaela Odone are dealt a cruel blow by fate when their five-year-old son Lorenzo is diagnosed with a rare and incurable disease. But the Odones' persistence and faith leads to an unorthodox cure which saves their boy and re-writes medical history.",
+                "popularity": 2.9254,
+                "poster_path": "/suRf59zRu1h8Zq4Gxekn6UiLGaM.jpg",
+                "release_date": "1992-12-30",
+                "title": "Lorenzo's Oil",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 542,
+                "character": "Murphy Family",
+                "credit_id": "5deebf03025764001455b740",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 37828,
+        "imdb_id": "nm0242216",
+        "known_for_department": "Acting",
+        "name": "Nora Dunfee",
+        "place_of_birth": null,
+        "popularity": 0.0785,
+        "profile_path": "/x6Mv6OcxemBbEUg9SGcQTAZZ5WP.jpg"
+    }
+}

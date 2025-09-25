@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 6.3934,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 2256,
+                "character": "Self (archive footage)",
+                "credit_id": "62e9803d25cd85005dffff99",
+                "order": 85
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 18.309,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Self - with JFK in Dallas (archive footage) (uncredited)",
+                "credit_id": "67178acf8e05a8c9a84d342f",
+                "order": 160
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "John Connally was born on February 27, 1917 in Floresville, Texas, USA. He was previously married to Nellie Connally. He died on June 15, 1993 in Houston, Texas, USA.",
+        "birthday": "1917-02-27",
+        "deathday": "1993-06-15",
+        "gender": 2,
+        "homepage": null,
+        "id": 1471210,
+        "imdb_id": "nm0174916",
+        "known_for_department": "Acting",
+        "name": "John Connally",
+        "place_of_birth": "Floresville, Texas, USA",
+        "popularity": 0.0807,
+        "profile_path": "/adXOOZSOYaN1ZV8OSJ51lcj79Yu.jpg"
+    }
+}

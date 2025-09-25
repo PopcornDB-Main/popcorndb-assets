@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 15.8646,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Wild Eyed Man",
+                "credit_id": "55d0cb769251413193007b8b",
+                "order": 111
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    9648
+                ],
+                "id": 686,
+                "original_language": "en",
+                "original_title": "Contact",
+                "overview": "A radio astronomer receives the first extraterrestrial radio signal ever picked up on Earth. As the world powers scramble to decipher the message and decide upon a course of action, she must make some difficult decisions between her beliefs, the truth, and reality.",
+                "popularity": 6.4553,
+                "poster_path": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+                "release_date": "1997-07-11",
+                "title": "Contact",
+                "video": false,
+                "vote_average": 7.435,
+                "vote_count": 4708,
+                "character": "Davio",
+                "credit_id": "5908bfd9c3a368588800efda",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/etiP3Mu3ze2j9m3FEAAyOKFYlH0.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 563,
+                "original_language": "en",
+                "original_title": "Starship Troopers",
+                "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+                "popularity": 8.0489,
+                "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+                "release_date": "1997-11-07",
+                "title": "Starship Troopers",
+                "video": false,
+                "vote_average": 7.09,
+                "vote_count": 5182,
+                "character": "Expert",
+                "credit_id": "5bb634580e0a263393010972",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Tim McNeil"
+        ],
+        "biography": "Timothy McNeil was born in 1958 in Houston, Texas, USA. He is an actor and writer, known for Anything (2017), Starship Troopers (1997) and Small Days (2010).",
+        "birthday": "1958-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 169643,
+        "imdb_id": "nm0573934",
+        "known_for_department": "Acting",
+        "name": "Timothy McNeil",
+        "place_of_birth": "Houston, Texas, USA",
+        "popularity": 0.1253,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 380,
+                "original_language": "en",
+                "original_title": "Rain Man",
+                "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+                "popularity": 8.4238,
+                "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+                "release_date": "1988-12-12",
+                "title": "Rain Man",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 6688,
+                "character": "Dr. Bruner",
+                "credit_id": "52fe423cc3a36847f800e8c3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
+                "genre_ids": [
+                    12,
+                    878
+                ],
+                "id": 329,
+                "original_language": "en",
+                "original_title": "Jurassic Park",
+                "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+                "popularity": 11.1108,
+                "poster_path": "/bRKmwU9eXZI5dKT11Zx1KsayiLW.jpg",
+                "release_date": "1993-06-11",
+                "title": "Jurassic Park",
+                "video": false,
+                "vote_average": 7.96,
+                "vote_count": 17108,
+                "character": "Harding",
+                "credit_id": "661861cfb9a0bd017c10a11b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 640,
+                "original_language": "en",
+                "original_title": "Catch Me If You Can",
+                "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+                "popularity": 11.2084,
+                "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+                "release_date": "2002-12-16",
+                "title": "Catch Me If You Can",
+                "video": false,
+                "vote_average": 7.979,
+                "vote_count": 16345,
+                "character": "FBI Agent",
+                "credit_id": "596bf54ac3a3684c39006675",
+                "order": 84
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9PGxCEZCnxgPALlpu7avGMYhVRR.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    9648
+                ],
+                "id": 11831,
+                "original_language": "en",
+                "original_title": "Amistad",
+                "overview": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+                "popularity": 0.9528,
+                "poster_path": "/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+                "release_date": "1997-12-10",
+                "title": "Amistad",
+                "video": false,
+                "vote_average": 7.019,
+                "vote_count": 1340,
+                "character": "Magistrate",
+                "credit_id": "5cc576da0e0a263743ec635e",
+                "order": 57
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    53
+                ],
+                "id": 180,
+                "original_language": "en",
+                "original_title": "Minority Report",
+                "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+                "popularity": 11.7892,
+                "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+                "release_date": "2002-06-20",
+                "title": "Minority Report",
+                "video": false,
+                "vote_average": 7.352,
+                "vote_count": 9149,
+                "credit_id": "52fe4223c3a36847f8006f89",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
+                "genre_ids": [
+                    12,
+                    878
+                ],
+                "id": 329,
+                "original_language": "en",
+                "original_title": "Jurassic Park",
+                "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+                "popularity": 11.1108,
+                "poster_path": "/bRKmwU9eXZI5dKT11Zx1KsayiLW.jpg",
+                "release_date": "1993-06-11",
+                "title": "Jurassic Park",
+                "video": false,
+                "vote_average": 7.96,
+                "vote_count": 17108,
+                "credit_id": "52fe4238c3a36847f800d2c9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 424,
+                "original_language": "en",
+                "original_title": "Schindler's List",
+                "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+                "popularity": 14.6569,
+                "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                "release_date": "1993-12-15",
+                "title": "Schindler's List",
+                "video": false,
+                "vote_average": 8.566,
+                "vote_count": 16703,
+                "credit_id": "52fe4241c3a36847f801026b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 9576,
+                "original_language": "en",
+                "original_title": "Tootsie",
+                "overview": "When struggling, out of work actor Michael Dorsey secretly adopts a female alter ego \u2013 Dorothy Michaels \u2013 in order to land a part in a daytime drama, he unwittingly becomes a feminist icon and ends up in a romantic pickle.",
+                "popularity": 3.4871,
+                "poster_path": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+                "release_date": "1982-12-17",
+                "title": "Tootsie",
+                "video": false,
+                "vote_average": 7.214,
+                "vote_count": 1834,
+                "credit_id": "55f21c249251416701002da3",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 380,
+                "original_language": "en",
+                "original_title": "Rain Man",
+                "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+                "popularity": 8.4238,
+                "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+                "release_date": "1988-12-12",
+                "title": "Rain Man",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 6688,
+                "credit_id": "56964c8fc3a36823cb0032de",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 380,
+                "original_language": "en",
+                "original_title": "Rain Man",
+                "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+                "popularity": 8.4238,
+                "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+                "release_date": "1988-12-12",
+                "title": "Rain Man",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 6688,
+                "credit_id": "56964ca39251413f7e002f18",
+                "department": "Production",
+                "job": "Co-Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nGerald Robert Molen (born January 6, 1935) is a high profile American film producer. He works very closely with Steven Spielberg, having produced five of his films, and won an Academy Award for co-producing Schindler's List. Gerald \"Jerry\" Molen is now semi-retired and spends his time alternating between Montana and Las Vegas, Nevada.\n\nMolen was born in Great Falls, Montana, the son of Edith Lorraine (n\u00e9e Meyer) and Gerald Richard Molen. He grew up in North Hollywood, California, after moving from Montana, with a number of younger brothers and sisters. His mother ran a diner, \"The Blue Onion\", which was located across from one of the major studios. Molen got his start in the movie business by changing tires on studio trucks.\n\nMolen has appeared in cameos in several of the films he produced, including Rain Man, Days of Thunder, and Jurassic Park. The name 'Molen' can be seen painted on the front of a large black cauldron in the movie Hook as the camera pans across the pirate docks in Neverland.\n\nMolen is an active member of The Church of Jesus Christ of Latter-day Saints.\n\nDescription above from the Wikipedia article Gerald R. Molen, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1935-01-06",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2211,
+        "imdb_id": "nm0596520",
+        "known_for_department": "Production",
+        "name": "Gerald R. Molen",
+        "place_of_birth": "Great Falls, Montana, USA",
+        "popularity": 0.3111,
+        "profile_path": "/m1C2E9MWClm3ITzxQzUxmE1qphL.jpg"
+    }
+}

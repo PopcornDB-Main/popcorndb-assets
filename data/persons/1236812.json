@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    10402
+                ],
+                "id": 11176,
+                "original_language": "en",
+                "original_title": "The Muppet Movie",
+                "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+                "popularity": 2.3321,
+                "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+                "release_date": "1979-06-22",
+                "title": "The Muppet Movie",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 657,
+                "character": "Additional Muppet Performer",
+                "credit_id": "5e9090cb15959f0019edfdf7",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 4.0677,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1187,
+                "character": "Historian, Scroll Keeper",
+                "credit_id": "60f8afae6e3deb002de663d5",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Bob Payne is an American retired puppeteer and puppet builder. He is also known as Robert Payne and Bobby Payne.\n\nDescription above from the Wikipedia article Bob Payne, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1236812,
+        "imdb_id": "nm0668267",
+        "known_for_department": "Acting",
+        "name": "Bob Payne",
+        "place_of_birth": null,
+        "popularity": 0.0681,
+        "profile_path": "/sUXwuixsuCeJQl6P2wbl8KKQSqc.jpg"
+    }
+}

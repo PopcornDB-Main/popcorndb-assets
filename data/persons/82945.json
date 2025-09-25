@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aCURY1tNUkvrNnjw5qYJXTUp7z.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 33602,
+                "original_language": "en",
+                "original_title": "Temple Grandin",
+                "overview": "A biopic of Temple Grandin, an autistic American who has become one of the leading scientists in humane livestock handling.",
+                "popularity": 3.1623,
+                "poster_path": "/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
+                "release_date": "2010-02-06",
+                "title": "Temple Grandin",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 511,
+                "character": "Billy",
+                "credit_id": "52fe45279251416c910293ff",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wlP3Sjw5WVvjsi2CGFp84QwrZZC.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 228970,
+                "original_language": "en",
+                "original_title": "Wild",
+                "overview": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail.",
+                "popularity": 4.444,
+                "poster_path": "/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+                "release_date": "2014-12-05",
+                "title": "Wild",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 2575,
+                "character": "T.J.",
+                "credit_id": "537243d60e0a2672f4002067",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 559969,
+                "original_language": "en",
+                "original_title": "El Camino: A Breaking Bad Movie",
+                "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+                "popularity": 6.0349,
+                "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+                "release_date": "2019-10-11",
+                "title": "El Camino: A Breaking Bad Movie",
+                "video": false,
+                "vote_average": 6.966,
+                "vote_count": 5180,
+                "character": "Skinny Pete",
+                "credit_id": "5d61c2ae87f3f20013fd2e76",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Charles Edward Baker "
+        ],
+        "biography": "Charles Edward Baker (born February 27, 1971) is an American actor, writer, and director. He played Skinny Pete on the AMC series Breaking Bad, and had a recurring role on the NBC series The Blacklist.",
+        "birthday": "1971-02-27",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 82945,
+        "imdb_id": "nm1889973",
+        "known_for_department": "Acting",
+        "name": "Charles Baker",
+        "place_of_birth": "Washington, D.C., USA",
+        "popularity": 0.5579,
+        "profile_path": "/mhSoY1plaop5eufoHDP4fkIGUfh.jpg"
+    }
+}

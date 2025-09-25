@@ -1,0 +1,285 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yYe63HwFBNFDcnWtBm8KR6NSAeg.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    10752
+                ],
+                "id": 409,
+                "original_language": "en",
+                "original_title": "The English Patient",
+                "overview": "In the 1930s, Count Alm\u00e1sy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Alm\u00e1sy enters into a world of love, betrayal, and politics.",
+                "popularity": 5.3782,
+                "poster_path": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+                "release_date": "1996-11-14",
+                "title": "The English Patient",
+                "video": false,
+                "vote_average": 7.16,
+                "vote_count": 2287,
+                "character": "Geoffrey Clifton",
+                "credit_id": "52fe4240c3a36847f800fb2f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 508,
+                "original_language": "en",
+                "original_title": "Love Actually",
+                "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+                "popularity": 6.624,
+                "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+                "release_date": "2003-09-07",
+                "title": "Love Actually",
+                "video": false,
+                "vote_average": 7.105,
+                "vote_count": 7037,
+                "character": "Jamie Bennett",
+                "credit_id": "52fe424bc3a36847f8013359",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/85BQpS3lEA7wESlGUCFQZNoPoo8.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 11631,
+                "original_language": "en",
+                "original_title": "Mamma Mia!",
+                "overview": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+                "popularity": 8.0232,
+                "poster_path": "/ejxnVdXrojc1K2MXlRvplqro4Jn.jpg",
+                "release_date": "2008-07-03",
+                "title": "Mamma Mia!",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 6774,
+                "character": "Harry Bright",
+                "credit_id": "52fe446c9251416c7503428b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4rHZyoFxGxvkMNiLFEqwm19HCtc.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 34653,
+                "original_language": "en",
+                "original_title": "A Single Man",
+                "overview": "Set in Los Angeles in 1962, at the height of the Cuban missile crisis, is the story of a British college professor who dwells on the past and cannot see his future. We follow him through a single day, where a series of events and encounters ultimately lead him to decide if there is a meaning to life after the death of his long time partner, Jim.",
+                "popularity": 4.5482,
+                "poster_path": "/AvqTb66bS1i1NjlPC76zvxo0taT.jpg",
+                "release_date": "2009-12-11",
+                "title": "A Single Man",
+                "video": false,
+                "vote_average": 7.279,
+                "vote_count": 1598,
+                "character": "George",
+                "credit_id": "52fe45729251416c910329cf",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bFntIQxWBwtzYAFc68xF1GKAfiv.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 17979,
+                "original_language": "en",
+                "original_title": "A Christmas Carol",
+                "overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+                "popularity": 5.4874,
+                "poster_path": "/goHDZUnqZJ7FN4h48Qh6MzJNExl.jpg",
+                "release_date": "2009-11-04",
+                "title": "A Christmas Carol",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 4725,
+                "character": "Fred (voice)",
+                "credit_id": "52fe47589251416c75096045",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    28,
+                    12
+                ],
+                "id": 207703,
+                "original_language": "en",
+                "original_title": "Kingsman: The Secret Service",
+                "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+                "popularity": 9.5994,
+                "poster_path": "/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+                "release_date": "2015-01-24",
+                "title": "Kingsman: The Secret Service",
+                "video": false,
+                "vote_average": 7.623,
+                "vote_count": 17273,
+                "character": "Harry Hart / Galahad",
+                "credit_id": "52fe4d3ac3a368484e1ddc97",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 45269,
+                "original_language": "en",
+                "original_title": "The King's Speech",
+                "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+                "popularity": 6.0751,
+                "poster_path": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+                "release_date": "2010-11-26",
+                "title": "The King's Speech",
+                "video": false,
+                "vote_average": 7.735,
+                "vote_count": 8986,
+                "character": "King George VI",
+                "credit_id": "53015230c3a3680a1114e905",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eVHVwP71el20fofkCHo78ebQv7Q.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80
+                ],
+                "id": 343668,
+                "original_language": "en",
+                "original_title": "Kingsman: The Golden Circle",
+                "overview": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
+                "popularity": 7.6505,
+                "poster_path": "/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
+                "release_date": "2017-09-20",
+                "title": "Kingsman: The Golden Circle",
+                "video": false,
+                "vote_average": 6.954,
+                "vote_count": 10743,
+                "character": "Harry Hart",
+                "credit_id": "57861e809251410fc6000843",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8HKwxHZ23sW8wz4yb28IWnAM1M6.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 458423,
+                "original_language": "en",
+                "original_title": "Mamma Mia! Here We Go Again",
+                "overview": "Five years after meeting her three fathers, Sophie Sheridan prepares to open her mother\u2019s hotel. In 1979, young Donna Sheridan meets the men who each could be Sophie\u2019s biological father.",
+                "popularity": 6.4288,
+                "poster_path": "/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+                "release_date": "2018-07-18",
+                "title": "Mamma Mia! Here We Go Again",
+                "video": false,
+                "vote_average": 7.089,
+                "vote_count": 3470,
+                "character": "Harry Bright",
+                "credit_id": "59207631c3a3687a64048640",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vDQwbN2ymkMQ8ldL3Sc275FGBw3.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    53
+                ],
+                "id": 530915,
+                "original_language": "en",
+                "original_title": "1917",
+                "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+                "popularity": 9.7606,
+                "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+                "release_date": "2019-12-25",
+                "title": "1917",
+                "video": false,
+                "vote_average": 7.987,
+                "vote_count": 12990,
+                "character": "General Erinmore",
+                "credit_id": "5cbe2a57c3a368145881c5d3",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6HRo6TUVcb0x9Rzq3h8rURvZMzf.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 333352,
+                "original_language": "en",
+                "original_title": "Eye in the Sky",
+                "overview": "A UK-based military officer in command of a top secret drone operation to capture terrorists in Kenya discovers the targets are planning a suicide bombing and the mission escalates from \u201ccapture\u201d to \u201ckill.\u201d As American pilot Steve Watts is about to engage, a nine-year old girl enters the kill zone, triggering an international dispute reaching the highest levels of US and British government over the moral, political, and personal implications of modern warfare.",
+                "popularity": 3.8192,
+                "poster_path": "/xMY2XbaRtmto9LXwo83wnYRKN2U.jpg",
+                "release_date": "2015-09-07",
+                "title": "Eye in the Sky",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 1638,
+                "credit_id": "55a3b407925141297700535c",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Colin Andrew Firth",
+            "\ucf5c\ub9b0 \ud37c\uc2a4",
+            "\u30b3\u30ea\u30f3\u30fb\u30d5\u30a1\u30fc\u30b9",
+            "\u0643\u0648\u0644\u064a\u0646 \u0641\u064a\u0631\u062b",
+            "\u0e42\u0e04\u0e25\u0e34\u0e19 \u0e40\u0e1f\u0e34\u0e23\u0e4c\u0e18",
+            "\u54e5\u9023\u00b7\u8cbb\u592b",
+            "\u67ef\u6797\u00b7\u4f5b\u65af",
+            "\u041a\u043e\u043b\u0438\u043d \u0424\u0451\u0440\u0442",
+            "\u06a9\u0627\u0644\u06cc\u0646 \u0641\u0631\u062b"
+        ],
+        "biography": "Colin Andrew Firth (born 10 September 1960) is an English actor and producer. He was identified in the mid-1980s with the \"Brit Pack\" of rising young British actors, undertaking a challenging series of roles, including leading roles in A Month in the Country (1987), Tumbledown (1988) and Valmont (1989). His portrayal of Mr. Darcy in the 1995 television adaptation of Jane Austen's Pride and Prejudice led to widespread attention, and to roles in more prominent films such as The English Patient (1996), Shakespeare in Love (1998), Bridget Jones's Diary (2001), The Importance of Being Earnest (2002), Girl with a Pearl Earring (2003), Richard Curtis's romantic comedy ensemble film Love Actually (2003), and the musical comedy Mamma Mia! (2008) and its sequel, Mamma Mia! Here We Go Again! (2018).\n\nIn 2009, Firth received international acclaim for his performance in Tom Ford's A Single Man, for which he won a BAFTA Award and received his first Academy Award nomination. In 2010, his portrayal of King George VI in Tom Hooper's The King's Speech won him the Academy Award for Best Actor. He subsequently appeared as MI6 agent Bill Haydon in Tinker Tailor Soldier Spy (2011), and as secret agent Harry Hart in Kingsman: The Secret Service (2014) and its sequel Kingsman: The Golden Circle (2017). He has since appeared in the musical fantasy Mary Poppins Returns (2018), and Sam Mendes' war film 1917 (2019), and Supernova (2020). He is also known for his performances in television including the BBC film Conspiracy (2001), and HBO's The Staircase (2022), receiving Primetime Emmy Award nominations for each.\n\nIn 2012, he founded the production company Raindog Films, where he served as a producer for Eye in the Sky (2015) and Loving (2016). His films have grossed more than $3 billion from 42 releases worldwide. Firth has campaigned for the rights of indigenous tribal people and is a member of Survival International. He has campaigned on issues of asylum seekers, refugees' rights and the environment. He commissioned and co-authored a scientific paper on a study of the differences in brain structure between people of differing political orientations.\n\nHe is the recipient of various accolades, including an Academy Award, two British Academy Film Awards, a Golden Globe Award, and three Screen Actors Guild Awards. In 2011, Firth was appointed a CBE by Queen Elizabeth II at Buckingham Palace for his services to drama. That same year, he received a star on the Hollywood Walk of Fame, and appeared in Time magazine's 100 most influential people in the world.",
+        "birthday": "1960-09-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5472,
+        "imdb_id": "nm0000147",
+        "known_for_department": "Acting",
+        "name": "Colin Firth",
+        "place_of_birth": "Grayshott, Hampshire, England, UK",
+        "popularity": 2.6925,
+        "profile_path": "/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+    }
+}

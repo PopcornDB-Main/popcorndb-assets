@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.0551,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5717,
+                "character": "Croupier (uncredited)",
+                "credit_id": "53a1bc0e0e0a266ff30000a7",
+                "order": 74
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    53
+                ],
+                "id": 3767,
+                "original_language": "en",
+                "original_title": "Gilda",
+                "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+                "popularity": 4.004,
+                "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+                "release_date": "1946-04-25",
+                "title": "Gilda",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 609,
+                "character": "Gambler (uncredited)",
+                "credit_id": "638751eba410c8007921e04c",
+                "order": 69
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1rSF7UoY6aU8i7yJOLovZv8AYwX.jpg",
+                "genre_ids": [
+                    53
+                ],
+                "id": 31997,
+                "original_language": "en",
+                "original_title": "Saboteur",
+                "overview": "Aircraft factory worker Barry Kane flees across the United States after he is wrongly accused of starting the fire that killed his best friend.",
+                "popularity": 3.4948,
+                "poster_path": "/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg",
+                "release_date": "1942-04-24",
+                "title": "Saboteur",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 518,
+                "character": "Party Guest (uncredited)",
+                "credit_id": "664fa8f0b94d4acdcd4f89fa",
+                "order": 87
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1278060,
+        "imdb_id": "nm0689447",
+        "known_for_department": "Acting",
+        "name": "Alexander Pollard",
+        "place_of_birth": null,
+        "popularity": 0.0387,
+        "profile_path": null
+    }
+}

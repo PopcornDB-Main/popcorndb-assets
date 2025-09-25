@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 18.309,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "The Minister",
+                "credit_id": "638f28da5800c400a5dc7e8b",
+                "order": 112
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1850,
+                "original_language": "en",
+                "original_title": "Man on the Moon",
+                "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+                "popularity": 4.1341,
+                "poster_path": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+                "release_date": "1999-12-22",
+                "title": "Man on the Moon",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1868,
+                "character": "Taxi Security Guard",
+                "credit_id": "63903530f36a32009654ecdc",
+                "order": 48
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 951054,
+        "imdb_id": "nm0358023",
+        "known_for_department": "Acting",
+        "name": "Lonnie Hamilton",
+        "place_of_birth": null,
+        "popularity": 0.0193,
+        "profile_path": null
+    }
+}

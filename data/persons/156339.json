@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 37799,
+                "original_language": "en",
+                "original_title": "The Social Network",
+                "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+                "popularity": 7.5791,
+                "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+                "release_date": "2010-10-01",
+                "title": "The Social Network",
+                "video": false,
+                "vote_average": 7.37,
+                "vote_count": 12636,
+                "character": "Bank Teller",
+                "credit_id": "5a454a220e0a2620e00840fb",
+                "order": 86
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b6XrxL6iRfhRn4PrZ4JehrLpgdD.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 391713,
+                "original_language": "en",
+                "original_title": "Lady Bird",
+                "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+                "popularity": 5.1322,
+                "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+                "release_date": "2017-09-01",
+                "title": "Lady Bird",
+                "video": false,
+                "vote_average": 7.254,
+                "vote_count": 8778,
+                "character": "NYC Nurse",
+                "credit_id": "5a4549f19251411f3e07f295",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Monique Diane Edwards"
+        ],
+        "biography": "Monique Edwards is an American stage, film and television actor, singer and director.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": "http://moniqueedwards.com",
+        "id": 156339,
+        "imdb_id": "nm0006720",
+        "known_for_department": "Acting",
+        "name": "Monique Edwards",
+        "place_of_birth": "Kittery, Maine, USA",
+        "popularity": 0.1272,
+        "profile_path": "/chEmMXbXoWxD2DEmqKlvMyBR3Ht.jpg"
+    }
+}

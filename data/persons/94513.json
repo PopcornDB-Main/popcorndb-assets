@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zYM9IbF08gB1Ip3Qee19HPvNY8T.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 9386,
+                "original_language": "en",
+                "original_title": "In the Line of Fire",
+                "overview": "Veteran Secret Service agent Frank Horrigan is a man haunted by his failure to save President Kennedy while serving protection detail in Dallas. Thirty years later, a man calling himself \"Booth\" threatens the life of the current President, forcing Horrigan to come back to protection detail to confront the ghosts from his past.",
+                "popularity": 3.8495,
+                "poster_path": "/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+                "release_date": "1993-07-08",
+                "title": "In the Line of Fire",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1684,
+                "character": "FBI Technician",
+                "credit_id": "55e644b29251410f0d000adc",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 881,
+                "original_language": "en",
+                "original_title": "A Few Good Men",
+                "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
+                "popularity": 5.3445,
+                "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+                "release_date": "1992-12-11",
+                "title": "A Few Good Men",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3874,
+                "character": "Bailiff",
+                "credit_id": "6063ae5cd6d64d003e2b7b2d",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 94513,
+        "imdb_id": "nm0522990",
+        "known_for_department": "Acting",
+        "name": "Lawrence Lowe",
+        "place_of_birth": null,
+        "popularity": 0.1001,
+        "profile_path": null
+    }
+}

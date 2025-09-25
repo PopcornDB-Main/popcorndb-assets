@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 387,
+                "original_language": "de",
+                "original_title": "Das Boot",
+                "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+                "popularity": 4.05,
+                "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+                "release_date": "1981-09-17",
+                "title": "Das Boot",
+                "video": false,
+                "vote_average": 8.085,
+                "vote_count": 2345,
+                "character": "",
+                "credit_id": "5ed83238c4f552001ec0b9b7",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2665007,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Christian Seipolt",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

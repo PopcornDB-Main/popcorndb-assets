@@ -1,0 +1,76 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 5.6958,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.348,
+                "vote_count": 5421,
+                "character": "Sal",
+                "credit_id": "52fe440dc3a36847f807f715",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eJ6kPtua2rEvjxHdCtnIobXJZSf.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 829,
+                "original_language": "en",
+                "original_title": "Chinatown",
+                "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+                "popularity": 4.8392,
+                "poster_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+                "release_date": "1974-06-20",
+                "title": "Chinatown",
+                "video": false,
+                "vote_average": 7.92,
+                "vote_count": 4019,
+                "character": "Policeman",
+                "credit_id": "53a48b9e0e0a2614490000e7",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Leon Jay DeBroux",
+            "Lee Jones-De Broux",
+            "Lee Jones De Broux",
+            "Lee DeBroux",
+            "Lee Jones-DeBroux"
+        ],
+        "biography": "Lee de Broux (born May 7, 1941) is an American character actor of film and television who is best known for his roles in such films and television series as Chinatown, RoboCop, The Gun, Geronimo: An American Legend, Norma Rae, Cannon and Gunsmoke.",
+        "birthday": "1941-05-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 106768,
+        "imdb_id": "nm0207616",
+        "known_for_department": "Acting",
+        "name": "Lee de Broux",
+        "place_of_birth": "La Mesa, California, USA",
+        "popularity": 0.1675,
+        "profile_path": "/9u5KPjQlpBpfiLctkX3gD0uADxX.jpg"
+    }
+}

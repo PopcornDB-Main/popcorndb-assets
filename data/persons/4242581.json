@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.5191,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Jabba the Hutt (voice) (uncredited)",
+                "credit_id": "66af08728657210cf0bda492",
+                "order": 175
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 11,
+                "original_language": "en",
+                "original_title": "Star Wars",
+                "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+                "popularity": 16.2268,
+                "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+                "release_date": "1977-05-25",
+                "title": "Star Wars",
+                "video": false,
+                "vote_average": 8.206,
+                "vote_count": 21485,
+                "character": "Greedo (voice) (uncredited)",
+                "credit_id": "66af0856d006f791ff5b76b0",
+                "order": 103
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1944-10-02",
+        "deathday": "2007-10-15",
+        "gender": 2,
+        "homepage": null,
+        "id": 4242581,
+        "imdb_id": "nm5925474",
+        "known_for_department": "Acting",
+        "name": "Larry Ward",
+        "place_of_birth": "San Luis Obispo, California, USA",
+        "popularity": 0.3306,
+        "profile_path": null
+    }
+}

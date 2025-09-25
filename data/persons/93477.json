@@ -1,0 +1,96 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9829,
+                "original_language": "en",
+                "original_title": "United 93",
+                "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+                "popularity": 4.4218,
+                "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+                "release_date": "2006-04-28",
+                "title": "United 93",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1560,
+                "character": "Andrew Garcia",
+                "credit_id": "64ea9579594c9400c5540687",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 508,
+                "original_language": "en",
+                "original_title": "Love Actually",
+                "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+                "popularity": 7.0488,
+                "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+                "release_date": "2003-09-07",
+                "title": "Love Actually",
+                "video": false,
+                "vote_average": 7.103,
+                "vote_count": 7044,
+                "character": "US Expert",
+                "credit_id": "63a31150be6d88008cb1a641",
+                "order": 57
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 13597,
+                "original_language": "en",
+                "original_title": "Labyrinth",
+                "overview": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King who whisks Toby away to his castle at the center of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
+                "popularity": 5.6745,
+                "poster_path": "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+                "release_date": "1986-06-27",
+                "title": "Labyrinth",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 2573,
+                "character": "Goblin (voice)",
+                "credit_id": "5de2db4f0cd446001937328b",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Peter Mariner"
+        ],
+        "biography": "Peter Marinker (born July 28, 1941) is a Canadian-born English actor, voice actor and stage actor who has worked extensively in England, the United States, and Canada.",
+        "birthday": "1941-07-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 93477,
+        "imdb_id": "nm0547603",
+        "known_for_department": "Acting",
+        "name": "Peter Marinker",
+        "place_of_birth": "London, United Kingdom",
+        "popularity": 0.518,
+        "profile_path": "/ys24WuW2ebo6KTn0Jz2qJL3RnV9.jpg"
+    }
+}

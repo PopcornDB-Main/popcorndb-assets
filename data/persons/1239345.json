@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/i8aK8cGt5iYfMmUJiAe5AKIqYE5.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 264644,
+                "original_language": "en",
+                "original_title": "Room",
+                "overview": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+                "popularity": 4.6143,
+                "poster_path": "/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+                "release_date": "2015-10-16",
+                "title": "Room",
+                "video": false,
+                "vote_average": 7.999,
+                "vote_count": 9430,
+                "character": "Reporter #1",
+                "credit_id": "560efe0bc3a368681700d33f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    9648
+                ],
+                "id": 329865,
+                "original_language": "en",
+                "original_title": "Arrival",
+                "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+                "popularity": 17.187,
+                "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+                "release_date": "2016-11-10",
+                "title": "Arrival",
+                "video": false,
+                "vote_average": 7.619,
+                "vote_count": 18543,
+                "character": "TV Anchor",
+                "credit_id": "58a0858f925141260500856c",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 376290,
+                "original_language": "en",
+                "original_title": "Miss Sloane",
+                "overview": "An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.",
+                "popularity": 3.7223,
+                "poster_path": "/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+                "release_date": "2016-11-25",
+                "title": "Miss Sloane",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 1895,
+                "character": "TV Reporter",
+                "credit_id": "5c32794ec3a36879cfa746c2",
+                "order": 42
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1239345,
+        "imdb_id": "nm0836380",
+        "known_for_department": "Acting",
+        "name": "Ola Sturik",
+        "place_of_birth": null,
+        "popularity": 0.0916,
+        "profile_path": null
+    }
+}

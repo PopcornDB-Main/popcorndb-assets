@@ -1,0 +1,65 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/osVUxxcXnJd9tqSRZBk4RxVl0As.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 1542,
+                "original_language": "en",
+                "original_title": "Office Space",
+                "overview": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+                "popularity": 3.6511,
+                "poster_path": "/v7fBXxHZ5WQn2PGgpXhTqHgtcJk.jpg",
+                "release_date": "1999-02-19",
+                "title": "Office Space",
+                "video": false,
+                "vote_average": 7.375,
+                "vote_count": 3180,
+                "character": "Rob Newhouse",
+                "credit_id": "52fe42fcc3a36847f8031b85",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dxXhdYuQyuMPX0lCEo6LhCv69Xq.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 13416,
+                "original_language": "en",
+                "original_title": "Friday Night Lights",
+                "overview": "A small, turbulent town in Texas obsesses over their high school football team to an unhealthy degree. When the star tailback, Boobie Miles, is seriously injured during the first game of the season, all hope is lost, and the town's dormant social problems begin to flare up. It is left to the inspiring abilities of new coach Gary Gaines to instill in the other team members -- and, by proxy, the town itself -- a sense of self-respect and honor.",
+                "popularity": 4.0271,
+                "poster_path": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+                "release_date": "2004-10-08",
+                "title": "Friday Night Lights",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 594,
+                "character": "Carter Booth Coach",
+                "credit_id": "62ebdfe7fc5f06006108814b",
+                "order": 49
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1077912,
+        "imdb_id": "nm0413756",
+        "known_for_department": "Acting",
+        "name": "Kyle Scott Jackson",
+        "place_of_birth": null,
+        "popularity": 0.0596,
+        "profile_path": null
+    }
+}

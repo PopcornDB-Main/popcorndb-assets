@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 615777,
+                "original_language": "en",
+                "original_title": "Babylon",
+                "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+                "popularity": 9.2328,
+                "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+                "release_date": "2022-12-22",
+                "title": "Babylon",
+                "video": false,
+                "vote_average": 7.379,
+                "vote_count": 3480,
+                "character": "Kyle",
+                "credit_id": "63a8b976271ca500d9011bd6",
+                "order": 110
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jOqOduY1tLhXgVZo7ypCtDVr0mM.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 489999,
+                "original_language": "en",
+                "original_title": "Searching",
+                "overview": "After David Kim's 16-year-old daughter goes missing, a local investigation is opened and a detective is assigned to the case. But 37 hours later and without a single lead, David decides to search the one place no one has looked yet, where all secrets are kept today: his daughter's laptop.",
+                "popularity": 3.0395,
+                "poster_path": "/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg",
+                "release_date": "2018-08-24",
+                "title": "Searching",
+                "video": false,
+                "vote_average": 7.571,
+                "vote_count": 4028,
+                "character": "Mr. Lee",
+                "credit_id": "5c4a23fa0e0a26494fcfa689",
+                "order": 36
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1267251,
+        "imdb_id": "nm3653250",
+        "known_for_department": "Acting",
+        "name": "John Macey",
+        "place_of_birth": null,
+        "popularity": 0.0429,
+        "profile_path": "/40Xf0hXUJwyvmqgyJTnYJ0WjGb3.jpg"
+    }
+}

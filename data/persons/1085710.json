@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6M2IeELPSKZZ4iAPz2w0i7wdm6X.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 3432,
+                "original_language": "en",
+                "original_title": "Mr. Brooks",
+                "overview": "A psychological thriller about a man who is sometimes controlled by his murder-and-mayhem-loving alter ego.",
+                "popularity": 2.5607,
+                "poster_path": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+                "release_date": "2007-05-31",
+                "title": "Mr. Brooks",
+                "video": false,
+                "vote_average": 6.935,
+                "vote_count": 1774,
+                "character": "CSI Agent",
+                "credit_id": "5e1e07d5a24c5000150c46db",
+                "order": 32
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1085710,
+        "imdb_id": "nm2399594",
+        "known_for_department": "Acting",
+        "name": "Deborah R. Jones",
+        "place_of_birth": null,
+        "popularity": 0.0453,
+        "profile_path": null
+    }
+}

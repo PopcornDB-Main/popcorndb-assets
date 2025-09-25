@@ -1,0 +1,231 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg",
+                "genre_ids": [
+                    878,
+                    53
+                ],
+                "id": 1272,
+                "original_language": "en",
+                "original_title": "Sunshine",
+                "overview": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun \u2014 but the mission fails. Seven years later, a new team is sent to finish the mission as mankind\u2019s last hope.",
+                "popularity": 4.5976,
+                "poster_path": "/8kX6xmEwz0RpEJkeWjXTkxbOCAp.jpg",
+                "release_date": "2007-04-05",
+                "title": "Sunshine",
+                "video": false,
+                "vote_average": 6.966,
+                "vote_count": 3994,
+                "character": "Cassie",
+                "credit_id": "52fe42ecc3a36847f802d38f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    36
+                ],
+                "id": 652,
+                "original_language": "en",
+                "original_title": "Troy",
+                "overview": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+                "popularity": 17.5945,
+                "poster_path": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+                "release_date": "2004-05-13",
+                "title": "Troy",
+                "video": false,
+                "vote_average": 7.165,
+                "vote_count": 10606,
+                "character": "Briseis",
+                "credit_id": "52fe4265c3a36847f801b0a3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2Cpg8hUn60PK9CW9d5SWf605Ah8.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    28,
+                    878
+                ],
+                "id": 614930,
+                "original_language": "en",
+                "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+                "overview": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
+                "popularity": 7.9523,
+                "poster_path": "/kbnhvFPyXKCKLNhg1pkz6rXQ4Le.jpg",
+                "release_date": "2023-07-31",
+                "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+                "video": false,
+                "vote_average": 7.209,
+                "vote_count": 1465,
+                "character": "Leatherhead (voice)",
+                "credit_id": "6403f413392712008618445c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 49018,
+                "original_language": "en",
+                "original_title": "Insidious",
+                "overview": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+                "popularity": 10.5854,
+                "poster_path": "/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
+                "release_date": "2011-03-31",
+                "title": "Insidious",
+                "video": false,
+                "vote_average": 6.943,
+                "vote_count": 7048,
+                "character": "Renai Lambert",
+                "credit_id": "52fe4780c3a36847f8139523",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 49538,
+                "original_language": "en",
+                "original_title": "X-Men: First Class",
+                "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                "popularity": 0.4825,
+                "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+                "release_date": "2011-06-01",
+                "title": "X-Men: First Class",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 13124,
+                "character": "Moira MacTaggert",
+                "credit_id": "52fe479bc3a36847f813ecc3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qnYwh0tGs0wvjkf7pGPr3TmVFh6.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 97367,
+                "original_language": "en",
+                "original_title": "The Place Beyond the Pines",
+                "overview": "A motorcycle stunt rider considers committing a crime in order to provide for his wife and child, an act that puts him on a collision course with a cop-turned-politician.",
+                "popularity": 4.1591,
+                "poster_path": "/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+                "release_date": "2013-03-20",
+                "title": "The Place Beyond the Pines",
+                "video": false,
+                "vote_average": 6.98,
+                "vote_count": 4991,
+                "character": "Jennifer Cross",
+                "credit_id": "52fe49dd9251416c750d5ea9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 632856,
+                "original_language": "en",
+                "original_title": "Spirited",
+                "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
+                "popularity": 3.4183,
+                "poster_path": "/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+                "release_date": "2022-11-10",
+                "title": "Spirited",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 676,
+                "character": "Ms. Blansky",
+                "credit_id": "6377c892156cc7007631232f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 491418,
+                "original_language": "en",
+                "original_title": "Instant Family",
+                "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+                "popularity": 4.4738,
+                "poster_path": "/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+                "release_date": "2018-11-13",
+                "title": "Instant Family",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3099,
+                "character": "Ellie Wagner",
+                "credit_id": "5a29eaf9c3a3680b8f11d24f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 522478,
+                "original_language": "en",
+                "original_title": "Peter Rabbit 2: The Runaway",
+                "overview": "Peter Rabbit runs away from his human family when he learns they are going to portray him in a bad light in their book. Soon, he crosses paths with an older rabbit who ropes him into a heist.",
+                "popularity": 6.4166,
+                "poster_path": "/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg",
+                "release_date": "2021-03-25",
+                "title": "Peter Rabbit 2: The Runaway",
+                "video": false,
+                "vote_average": 7.065,
+                "vote_count": 853,
+                "character": "Bea",
+                "credit_id": "5c7bcea59251412a5d4cf046",
+                "order": 1
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mary Rose Byrne",
+            "\ub85c\uc988 \ubc88",
+            "\u30ed\u30fc\u30ba\u30fb\u30d0\u30fc\u30f3",
+            "\u0631\u0632 \u0628\u06cc\u0631\u0646"
+        ],
+        "biography": "Mary Rose Byrne (born 24 July 1979) is an Australian actress. She made her screen debut in the film Dallas Doll (1994), and continued to act in Australian film and television throughout the 1990s. She obtained her first leading film role in The Goddess of 1967 (2000), which brought her the Volpi Cup for Best Actress and made the transition to Hollywood in the small role of Dorm\u00e9 in Star Wars: Episode II \u2013 Attack of the Clones (2002), followed by larger parts in Troy (2004), 28 Weeks Later (2007), and Knowing (2009).\n\nByrne appeared as Ellen Parsons in the legal thriller series Damages (2007\u20132012), which earned her two Golden Globe Awards nominations and two Primetime Emmy Award nominations. Get Him to the Greek (2010) and Bridesmaids (2011) established her as a comedic actress, in addition to the dramas and thrillers in which she continues to appear. She has since starred in a number of commercially successful comedies and dramas, including Insidious (2010) and its sequel Insidious: Chapter 2 (2013), X-Men: First Class (2011) and its sequel X-Men: Apocalypse (2016), Annie (2014), as well as Peter Rabbit (2018) and its sequel Peter Rabbit 2: The Runaway (2021). Byrne also portrayed Gloria Steinem in the miniseries Mrs. America (2020) and led the comedy series Physical (2021\u20132023) and Platonic (2023).\n\nByrne has been in relationship with American actor Bobby Cannavale since 2012 and they have two sons. And she is the sister-in-law of New Zealand actress Rose McIver from her brother's marriage.",
+        "birthday": "1979-07-24",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 9827,
+        "imdb_id": "nm0126284",
+        "known_for_department": "Acting",
+        "name": "Rose Byrne",
+        "place_of_birth": "Sydney, New South Wales, Australia",
+        "popularity": 2.9841,
+        "profile_path": "/6YauDiiTBwRGC1xnwspPmNvPWUu.jpg"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zbPVujc7qIEqpqkG70t2NpNvHOa.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    10749
+                ],
+                "id": 526050,
+                "original_language": "en",
+                "original_title": "Little",
+                "overview": "Jordan Sanders, a take-no-prisoners tech mogul, wakes up one morning in the body of her 13-year-old self right before a do-or-die presentation. Her beleaguered assistant April is the only one in on the secret that her daily tormentor is now trapped in an awkward tween body, just as everything is on the line.",
+                "popularity": 4.0416,
+                "poster_path": "/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg",
+                "release_date": "2019-04-04",
+                "title": "Little",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 733,
+                "character": "Young Jordan Sanders",
+                "credit_id": "5b0632319251410db5006717",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fZkhO3JhRajayNejQUaIiBegayM.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    37
+                ],
+                "id": 637693,
+                "original_language": "en",
+                "original_title": "Spirit Untamed",
+                "overview": "Lucky Prescott's life is changed forever when she moves from her home in the city to a small frontier town and befriends a wild mustang named Spirit.",
+                "popularity": 5.3335,
+                "poster_path": "/fLE2mvuvhvzmSICOsqR9uE50Ave.jpg",
+                "release_date": "2021-05-20",
+                "title": "Spirit Untamed",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 536,
+                "character": "Prudence Granger (voice)",
+                "credit_id": "6050656b4ca676006b81dc83",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 675445,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Movie",
+                "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+                "popularity": 7.4087,
+                "poster_path": "/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg",
+                "release_date": "2021-08-09",
+                "title": "PAW Patrol: The Movie",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 1241,
+                "character": "Liberty (voice)",
+                "credit_id": "60704595a06645004121ea51",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 893723,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Mighty Movie",
+                "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+                "popularity": 10.0674,
+                "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+                "release_date": "2023-09-21",
+                "title": "PAW Patrol: The Mighty Movie",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 510,
+                "character": "Liberty (voice)",
+                "credit_id": "683a1ddbf8606d3aa5cda25c",
+                "order": 2
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zbPVujc7qIEqpqkG70t2NpNvHOa.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    10749
+                ],
+                "id": 526050,
+                "original_language": "en",
+                "original_title": "Little",
+                "overview": "Jordan Sanders, a take-no-prisoners tech mogul, wakes up one morning in the body of her 13-year-old self right before a do-or-die presentation. Her beleaguered assistant April is the only one in on the secret that her daily tormentor is now trapped in an awkward tween body, just as everything is on the line.",
+                "popularity": 4.0416,
+                "poster_path": "/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg",
+                "release_date": "2019-04-04",
+                "title": "Little",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 733,
+                "credit_id": "5c363257c3a36827331c2d08",
+                "department": "Writing",
+                "job": "Idea"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zbPVujc7qIEqpqkG70t2NpNvHOa.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    10749
+                ],
+                "id": 526050,
+                "original_language": "en",
+                "original_title": "Little",
+                "overview": "Jordan Sanders, a take-no-prisoners tech mogul, wakes up one morning in the body of her 13-year-old self right before a do-or-die presentation. Her beleaguered assistant April is the only one in on the secret that her daily tormentor is now trapped in an awkward tween body, just as everything is on the line.",
+                "popularity": 4.0416,
+                "poster_path": "/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg",
+                "release_date": "2019-04-04",
+                "title": "Little",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 733,
+                "credit_id": "5f37fafdefcea9003699af7c",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0645\u0627\u0631\u0633\u0627\u06cc \u0645\u0627\u0631\u062a\u06cc\u0646"
+        ],
+        "biography": "Marsai Martin (born August 14, 2004) is an American child actress and singer. She is known for her role as Diane Johnson in the ABC comedy series Black-ish. She is set to star and executive-produce the Universal Pictures comedy film Little, based on her idea.",
+        "birthday": "2004-08-14",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1407498,
+        "imdb_id": "nm6343162",
+        "known_for_department": "Acting",
+        "name": "Marsai Martin",
+        "place_of_birth": "Plano, Texas, U.S.",
+        "popularity": 0.7017,
+        "profile_path": "/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+    }
+}

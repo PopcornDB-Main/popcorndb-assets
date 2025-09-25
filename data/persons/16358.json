@@ -1,0 +1,202 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tO40eTUxPoKrmMKBDWViA9pVYg3.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1523,
+                "original_language": "en",
+                "original_title": "The Last King of Scotland",
+                "overview": "Young Scottish doctor, Nicholas Garrigan decides it's time for an adventure after he finishes his formal education, so he decides to try his luck in Uganda, and arrives during the downfall of President Obote. General Idi Amin comes to power and asks Garrigan to become his personal doctor.",
+                "popularity": 2.8146,
+                "poster_path": "/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+                "release_date": "2006-09-27",
+                "title": "The Last King of Scotland",
+                "video": false,
+                "vote_average": 7.421,
+                "vote_count": 2236,
+                "character": "British Diplomat",
+                "credit_id": "52fe42fac3a36847f803157f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10749
+                ],
+                "id": 12783,
+                "original_language": "en",
+                "original_title": "The Duchess",
+                "overview": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+                "popularity": 3.6895,
+                "poster_path": "/77ckyYrWmR12kl3qToqmDySnuwv.jpg",
+                "release_date": "2008-09-05",
+                "title": "The Duchess",
+                "video": false,
+                "vote_average": 6.995,
+                "vote_count": 1726,
+                "character": "Charles Fox",
+                "credit_id": "52fe45239251416c7504ceff",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 12444,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+                "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+                "popularity": 18.8359,
+                "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+                "release_date": "2010-11-17",
+                "title": "Harry Potter and the Deathly Hallows: Part 1",
+                "video": false,
+                "vote_average": 7.739,
+                "vote_count": 19733,
+                "character": "Kreacher (voice)",
+                "credit_id": "52fe44e29251416c75044447",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/am9WwUTZuUDuinVcyST4OxJ8vFs.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 38684,
+                "original_language": "en",
+                "original_title": "Jane Eyre",
+                "overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+                "popularity": 5.7409,
+                "poster_path": "/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg",
+                "release_date": "2011-03-11",
+                "title": "Jane Eyre",
+                "video": false,
+                "vote_average": 7.204,
+                "vote_count": 1509,
+                "character": "Mr. Brocklehurst",
+                "credit_id": "52fe46d09251416c91060a35",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 266856,
+                "original_language": "en",
+                "original_title": "The Theory of Everything",
+                "overview": "The Theory of Everything is the extraordinary story of one of the world\u2019s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
+                "popularity": 6.154,
+                "poster_path": "/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg",
+                "release_date": "2014-11-07",
+                "title": "The Theory of Everything",
+                "video": false,
+                "vote_average": 7.839,
+                "vote_count": 10823,
+                "character": "Frank Hawking",
+                "credit_id": "546e724ac3a3682fa10000c4",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ki5RnA0xNOEd3R0RohXqJt9R6Om.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 177677,
+                "original_language": "en",
+                "original_title": "Mission: Impossible - Rogue Nation",
+                "overview": "Ethan and team take on their most impossible mission yet\u2014eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+                "popularity": 10.84,
+                "poster_path": "/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg",
+                "release_date": "2015-07-28",
+                "title": "Mission: Impossible - Rogue Nation",
+                "video": false,
+                "vote_average": 7.218,
+                "vote_count": 9291,
+                "character": "Atlee",
+                "credit_id": "550efe66c3a3683f39002f60",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rOwEWgbryAxp7D1xpzREqh3EOTX.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 259693,
+                "original_language": "en",
+                "original_title": "The Conjuring 2",
+                "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+                "popularity": 48.0606,
+                "poster_path": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+                "release_date": "2016-06-08",
+                "title": "The Conjuring 2",
+                "video": false,
+                "vote_average": 7.294,
+                "vote_count": 8812,
+                "character": "Maurice Grosse",
+                "credit_id": "56806d51c3a3684be900dc39",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14
+                ],
+                "id": 441130,
+                "original_language": "en",
+                "original_title": "Wolfwalkers",
+                "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+                "popularity": 3.9147,
+                "poster_path": "/ehAKuE48okTuonq6TpsNQj8vFTC.jpg",
+                "release_date": "2020-10-26",
+                "title": "Wolfwalkers",
+                "video": false,
+                "vote_average": 8.214,
+                "vote_count": 1292,
+                "character": "Lord Protector (voice)",
+                "credit_id": "5f5765879661fc003510f9de",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0633\u0627\u06cc\u0645\u0646 \u0645\u06a9\u200c\u0628\u0631\u0646\u06cc"
+        ],
+        "biography": "Simon Montagu McBurney, OBE (born 25 August 1957) is an English Olivier Award-winning and Tony Award-nominated actor, writer and director. He is the founder and artistic director of Th\u00e9\u00e2tre de Complicit\u00e9 in England, now called Complicite.\n\nDescription above from the Wikipedia article Simon McBurney, licensed under CC-BY-SA, full list of contributors on Wikipedia.\u200b",
+        "birthday": "1957-08-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 16358,
+        "imdb_id": "nm0564402",
+        "known_for_department": "Acting",
+        "name": "Simon McBurney",
+        "place_of_birth": "Cambridge, England, UK",
+        "popularity": 0.8752,
+        "profile_path": "/h0J9UH1g1C0c8T8x1mjvfUv5X5f.jpg"
+    }
+}

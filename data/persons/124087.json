@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/kcBlY5FasH8ti150aYExULw53ui.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    36
+                ],
+                "id": 16052,
+                "original_language": "en",
+                "original_title": "Selena",
+                "overview": "In this biographical drama, Selena Quintanilla is born into a musical Mexican-American family in Texas. Her father, Abraham, realizes that his young daughter is talented and begins performing with her at small venues. She finds success and falls for her guitarist, Chris Perez, who draws the ire of her father. Seeking mainstream stardom, Selena begins recording an English-language album which, tragically, she would never complete.",
+                "popularity": 3.5355,
+                "poster_path": "/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg",
+                "release_date": "1997-03-21",
+                "title": "Selena",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1262,
+                "character": "Police Officer - 1961",
+                "credit_id": "645d967488b14800e12fb0db",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 5.8781,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.602,
+                "vote_count": 2256,
+                "character": "Tippet Shooter",
+                "credit_id": "561873f9c3a368245a001083",
+                "order": 62
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Gilmer Thurman Glasgow"
+        ],
+        "biography": "",
+        "birthday": "1953-07-18",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 124087,
+        "imdb_id": "nm0321874",
+        "known_for_department": "Acting",
+        "name": "Gil Glasgow",
+        "place_of_birth": "San Juan, Texas, USA",
+        "popularity": 0.0901,
+        "profile_path": "/fEaLdsNue0zMV4PEiWDim6RtcuG.jpg"
+    }
+}

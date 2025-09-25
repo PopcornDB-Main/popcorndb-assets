@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2Kkqmy3EpXqBDqv1vvsNXX3pwww.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 42269,
+                "original_language": "it",
+                "original_title": "C'eravamo tanto amati",
+                "overview": "Three partisans bound by a strong friendship return home after the war, but the clash with everyday reality puts a strain on their bond.",
+                "popularity": 1.7523,
+                "poster_path": "/zGGWYpiKNwjpKxelPxOMqJnUgDs.jpg",
+                "release_date": "1974-12-21",
+                "title": "We All Loved Each Other So Much",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 619,
+                "character": "Edoardo",
+                "credit_id": "67997f85a05b63435ca96460",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 5210271,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Alfonso Crudele",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

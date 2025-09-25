@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.9553,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.867,
+                "vote_count": 3247,
+                "character": "Helga's Father",
+                "credit_id": "568ea4fdc3a36858f900322a",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    27
+                ],
+                "id": 10242,
+                "original_language": "en",
+                "original_title": "What Ever Happened to Baby Jane?",
+                "overview": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.",
+                "popularity": 3.7595,
+                "poster_path": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+                "release_date": "1962-10-31",
+                "title": "What Ever Happened to Baby Jane?",
+                "video": false,
+                "vote_average": 7.904,
+                "vote_count": 1103,
+                "character": "Man in Television Commercial",
+                "credit_id": "5b7c800492514149f500542a",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mike Fox",
+            "Myron Melvin Fox"
+        ],
+        "biography": "",
+        "birthday": "1921-02-27",
+        "deathday": "1996-06-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 51230,
+        "imdb_id": "nm0289147",
+        "known_for_department": "Acting",
+        "name": "Michael Fox",
+        "place_of_birth": "Yonkers, New York, USA",
+        "popularity": 0.3589,
+        "profile_path": "/gDdahoYRHFJsCQ0wvnGjm8DvDtZ.jpg"
+    }
+}

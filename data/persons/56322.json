@@ -1,0 +1,215 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 10625,
+                "original_language": "en",
+                "original_title": "Mean Girls",
+                "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+                "popularity": 11.6877,
+                "poster_path": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+                "release_date": "2004-04-30",
+                "title": "Mean Girls",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 9134,
+                "character": "Mrs. George",
+                "credit_id": "52fe43979251416c7501666d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    18,
+                    35
+                ],
+                "id": 150540,
+                "original_language": "en",
+                "original_title": "Inside Out",
+                "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+                "popularity": 15.5054,
+                "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+                "release_date": "2015-06-17",
+                "title": "Inside Out",
+                "video": false,
+                "vote_average": 7.91,
+                "vote_count": 22792,
+                "character": "Joy (voice)",
+                "credit_id": "52fe4ae69251416c910c9619",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 1022789,
+                "original_language": "en",
+                "original_title": "Inside Out 2",
+                "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+                "popularity": 29.7826,
+                "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+                "release_date": "2024-06-11",
+                "title": "Inside Out 2",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 6131,
+                "character": "Joy (voice)",
+                "credit_id": "631bd7450bb076007b78d023",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q2haCPQUzeMlRlX0wKJgddMbE0o.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 355338,
+                "original_language": "en",
+                "original_title": "Riley's First Date?",
+                "overview": "Riley, now 12, who is hanging out with her parents at home when potential trouble comes knocking. Mom's and Dad's Emotions find themselves forced to deal with Riley going on her first \"date.\"",
+                "popularity": 1.8904,
+                "poster_path": "/cGLwfmLqg39822RFQMUDat0UJev.jpg",
+                "release_date": "2015-11-03",
+                "title": "Riley's First Date?",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1087,
+                "character": "Joy (voice)",
+                "credit_id": "5fab2f4ee2bca8004199ca95",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10402
+                ],
+                "id": 583689,
+                "original_language": "en",
+                "original_title": "Moxie",
+                "overview": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+                "popularity": 2.3645,
+                "poster_path": "/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg",
+                "release_date": "2021-03-03",
+                "title": "Moxie",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 825,
+                "character": "Lisa Carter",
+                "credit_id": "5ff8c6a4336e0100407d3077",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    18,
+                    35
+                ],
+                "id": 150540,
+                "original_language": "en",
+                "original_title": "Inside Out",
+                "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+                "popularity": 15.5054,
+                "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+                "release_date": "2015-06-17",
+                "title": "Inside Out",
+                "video": false,
+                "vote_average": 7.91,
+                "vote_count": 22792,
+                "credit_id": "5609890bc3a3686817000042",
+                "department": "Crew",
+                "job": "Additional Dialogue"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10402
+                ],
+                "id": 583689,
+                "original_language": "en",
+                "original_title": "Moxie",
+                "overview": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+                "popularity": 2.3645,
+                "poster_path": "/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg",
+                "release_date": "2021-03-03",
+                "title": "Moxie",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 825,
+                "credit_id": "5c6ddc5f9251417aa20e0d20",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10402
+                ],
+                "id": 583689,
+                "original_language": "en",
+                "original_title": "Moxie",
+                "overview": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+                "popularity": 2.3645,
+                "poster_path": "/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg",
+                "release_date": "2021-03-03",
+                "title": "Moxie",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 825,
+                "credit_id": "5c6ddcd90e0a267f9d9ab736",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Amy Meredith Poehler",
+            "\uc5d0\uc774\ubbf8 \ud3ec\uc5d8\ub7ec",
+            "\u0627\u0645\u06cc \u067e\u0648\u0644\u0631"
+        ],
+        "biography": "Amy Poehler (/\u02c8po\u028al\u0259r/; born September 16, 1971) is an American actress, comedian, writer, producer, and director. After studying improv at Chicago's Second City and ImprovOlympic in the early 1990s, she co-founded the improvisational-comedy troupe Upright Citizens Brigade. The group moved to New York City in 1996 where their act became a half-hour sketch-comedy series on Comedy Central in 1998. Along with other members of the comedy group, Poehler is a founder of the Upright Citizens Brigade Theatre.\n\nDescription above from the Wikipedia article Amy Poehler, licensed under CC-BY-SA, full list of contributors on Wikipedia.\u200b",
+        "birthday": "1971-09-16",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 56322,
+        "imdb_id": "nm0688132",
+        "known_for_department": "Acting",
+        "name": "Amy Poehler",
+        "place_of_birth": "Newton, Massachusetts, USA",
+        "popularity": 1.2527,
+        "profile_path": "/rwmvRonpluV6dCPiQissYrchvSD.jpg"
+    }
+}

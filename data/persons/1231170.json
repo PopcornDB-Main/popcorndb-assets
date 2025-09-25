@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 10.0533,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 4063,
+                "character": "6th Elder",
+                "credit_id": "57def025c3a3681298008964",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+                "genre_ids": [
+                    878,
+                    80
+                ],
+                "id": 185,
+                "original_language": "en",
+                "original_title": "A Clockwork Orange",
+                "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+                "popularity": 9.0838,
+                "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+                "release_date": "1971-12-19",
+                "title": "A Clockwork Orange",
+                "video": false,
+                "vote_average": 8.185,
+                "vote_count": 13337,
+                "character": "Prison Governor",
+                "credit_id": "590724a7c3a3684af002b65c",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Michael Gover was born on August 31, 1913 in Copenhagen, Denmark. He was an actor, known for A Clockwork Orange (1971), Superman (1978) and The Avengers (1961). He died on May 2, 1987 in Felpham, West Sussex, England, UK.",
+        "birthday": "1913-08-31",
+        "deathday": "1987-05-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 1231170,
+        "imdb_id": "nm0332842",
+        "known_for_department": "Acting",
+        "name": "Michael Gover",
+        "place_of_birth": "Copenhagen, Denmark",
+        "popularity": 0.1792,
+        "profile_path": null
+    }
+}

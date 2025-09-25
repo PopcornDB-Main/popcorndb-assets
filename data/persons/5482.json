@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yYe63HwFBNFDcnWtBm8KR6NSAeg.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    10752
+                ],
+                "id": 409,
+                "original_language": "en",
+                "original_title": "The English Patient",
+                "overview": "In the 1930s, Count Alm\u00e1sy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Alm\u00e1sy enters into a world of love, betrayal, and politics.",
+                "popularity": 5.9932,
+                "poster_path": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+                "release_date": "1996-11-14",
+                "title": "The English Patient",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 2287,
+                "character": "Rupert Douglas",
+                "credit_id": "52fe4240c3a36847f800fb5b",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10751,
+                    14,
+                    18
+                ],
+                "id": 10437,
+                "original_language": "en",
+                "original_title": "The Muppet Christmas Carol",
+                "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+                "popularity": 3.2047,
+                "poster_path": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+                "release_date": "1992-12-11",
+                "title": "The Muppet Christmas Carol",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 1071,
+                "character": "Young Scrooge",
+                "credit_id": "5f3a415ea3b5e60036edb25c",
+                "order": 12
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ray Coulthard"
+        ],
+        "biography": "Raymond Coulthard was born in 1968 in Chester, Cheshire, England. He is an actor, known for\u00a0The English Patient\u00a0(1996),\u00a0The Muppet Christmas Carol\u00a0(1992) and\u00a0Hotel Babylon\u00a0(2006).",
+        "birthday": "1968-09-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5482,
+        "imdb_id": "nm0183557",
+        "known_for_department": "Acting",
+        "name": "Raymond Coulthard",
+        "place_of_birth": "Chester, Cheshire, England, UK",
+        "popularity": 0.6607,
+        "profile_path": "/biVywUndrVFDSeECGQxgwzdpw5L.jpg"
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/bVmDpF2VzVivzH8GVFXfVJeRPd7.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 37495,
+                "original_language": "en",
+                "original_title": "Four Lions",
+                "overview": "Four Lions tells the story of a group of British jihadists who push their abstract dreams of glory to the breaking point. As the wheels fly off, and their competing ideologies clash, what emerges is an emotionally engaging (and entirely plausible) farce.",
+                "popularity": 4.5674,
+                "poster_path": "/x4JzaRPXBs9wiHCe3e3ymXWuwfd.jpg",
+                "release_date": "2010-05-07",
+                "title": "Four Lions",
+                "video": false,
+                "vote_average": 6.95,
+                "vote_count": 1199,
+                "character": "Omar",
+                "credit_id": "52fe464e9251416c91050435",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4QpKxH614YFIsmiIBVUbsnG2H8w.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    28,
+                    878,
+                    12,
+                    14,
+                    18
+                ],
+                "id": 961323,
+                "original_language": "en",
+                "original_title": "Nimona",
+                "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
+                "popularity": 4.8982,
+                "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+                "release_date": "2023-06-23",
+                "title": "Nimona",
+                "video": false,
+                "vote_average": 7.863,
+                "vote_count": 1238,
+                "character": "Ballister Boldheart (voice)",
+                "credit_id": "625438c2a0b6b51c58a00fcf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yFPaqqXMGsdOKit3fsAJ9tqPJRP.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242582,
+                "original_language": "en",
+                "original_title": "Nightcrawler",
+                "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+                "popularity": 8.7404,
+                "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+                "release_date": "2014-10-23",
+                "title": "Nightcrawler",
+                "video": false,
+                "vote_average": 7.705,
+                "vote_count": 11228,
+                "character": "Rick",
+                "credit_id": "537a2b46c3a3685e29000038",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 7.199,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 15863,
+                "character": "Bodhi Rook",
+                "credit_id": "55cfaeedc3a3681bf0004d51",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 502033,
+                "original_language": "en",
+                "original_title": "Sound of Metal",
+                "overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+                "popularity": 4.6683,
+                "poster_path": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+                "release_date": "2020-11-20",
+                "title": "Sound of Metal",
+                "video": false,
+                "vote_average": 7.711,
+                "vote_count": 2665,
+                "character": "Ruben Stone",
+                "credit_id": "5b52a95f0e0a26231a007313",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 502033,
+                "original_language": "en",
+                "original_title": "Sound of Metal",
+                "overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+                "popularity": 4.6683,
+                "poster_path": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+                "release_date": "2020-11-20",
+                "title": "Sound of Metal",
+                "video": false,
+                "vote_average": 7.711,
+                "vote_count": 2665,
+                "credit_id": "5d8d8008172d7f001f5358cd",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Riz MC",
+            "Rizwan \"Riz\" Ahmed",
+            "Rizwan Ahmed",
+            " \u03a1\u03b9\u03b6 \u0391\u03c7\u03bc\u03ad\u03bd\u03c4"
+        ],
+        "biography": "Rizwan \"Riz\" Ahmed\u00a0(Urdu pronunciation:\u00a0[\u027e\u026az\u02ccw\u0251\u02d0n\u02c8\u025b\u0266\u02ccm\u0259d\u032a]; born\u00a01 December 1982) is a British actor and rapper. He has received\u00a0several awards, including an\u00a0Academy Award\u00a0and a\u00a0Primetime Emmy Award, with nominations for two\u00a0Golden Globe Awards\u00a0and two\u00a0British Academy Film Awards. In 2017, he was named in the\u00a0Time Listing of the\u00a0most influential people in the world.\n\nAfter studying acting at the\u00a0Royal Central School of Speech and Drama, Ahmed began his acting career with independent films such as\u00a0The Road to Guantanamo\u00a0(2006),\u00a0Shifty\u00a0(2008),\u00a0Four Lions (2010),\u00a0Trishna\u00a0(2011), and\u00a0The Reluctant Fundamentalist\u00a0(2012). He had his break-out role in\u00a0Nightcrawler\u00a0(2014), which led to roles in the 2016 big-budget films\u00a0Jason Bourne\u00a0and\u00a0Rogue One. For starring as a young man accused of murder in the\u00a0HBO\u00a0miniseries\u00a0The Night Of (2016), Ahmed won the\u00a0Primetime Emmy Award for Outstanding Lead Actor in a Limited Series. He received another Emmy nomination in the same year for his guest role in\u00a0Girls. He went on to play\u00a0Carlton Drake\u00a0in the superhero film\u00a0Venom\u00a0(2018) and a drummer who loses his hearing in the drama film\u00a0Sound of Metal\u00a0(2019). The latter earned him a nomination for the\u00a0Academy Award for Best Actor. He produced, co-wrote, and starred in\u00a0Mogul Mowgli\u00a0(2020), which earned a nomination for the\u00a0BAFTA Award for Outstanding British Film.\n\nAs a rapper, Ahmed is a member of the\u00a0Swet Shop Boys and has earned critical acclaim with the\u00a0hip hop\u00a0albums\u00a0Microscope\u00a0and\u00a0Cashmere and commercial success featuring in the\u00a0Billboard\u00a0200\u00a0chart-topping\u00a0Hamilton Mixtape, with his song \"Immigrants (We Get the Job Done)\" winning an\u00a0MTV Video Music Award. His second studio album,\u00a0The Long Goodbye,\u00a0was accompanied by a short film of the same name, which won him the\u00a0Academy Award for Best Live Action Short Film.\n\nAs an activist, Ahmed is known for his\u00a0political rap\u00a0music, has been involved in raising awareness and funds for\u00a0Rohingya\u00a0and\u00a0Syrian refugee\u00a0children, and has advocated 'BAME' representation at the\u00a0House of Commons.\n\nDescription above from the Wikipedia article Riz Ahmed, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1982-12-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 53240,
+        "imdb_id": "nm1981893",
+        "known_for_department": "Acting",
+        "name": "Riz Ahmed",
+        "place_of_birth": "Wembley, London, England, UK",
+        "popularity": 1.8412,
+        "profile_path": "/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    }
+}

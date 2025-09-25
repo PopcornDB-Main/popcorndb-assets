@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5tb7RjF0OAAaiGDUXsuedvhoGqV.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 837881,
+                "original_language": "en",
+                "original_title": "She Said",
+                "overview": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation \u2014 a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+                "popularity": 4.0153,
+                "poster_path": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+                "release_date": "2022-11-17",
+                "title": "She Said",
+                "video": false,
+                "vote_average": 7.224,
+                "vote_count": 655,
+                "character": "Rose McGowan (voice)",
+                "credit_id": "63974befa1a9ba0087303ce8",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 416477,
+                "original_language": "en",
+                "original_title": "The Big Sick",
+                "overview": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+                "popularity": 5.3065,
+                "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+                "release_date": "2017-03-30",
+                "title": "The Big Sick",
+                "video": false,
+                "vote_average": 7.331,
+                "vote_count": 2519,
+                "character": "Party Goer 3",
+                "credit_id": "5963d2329251410a590f8551",
+                "order": 40
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1848813,
+        "imdb_id": "nm4559130",
+        "known_for_department": "Acting",
+        "name": "Keilly McQuail",
+        "place_of_birth": null,
+        "popularity": 0.1852,
+        "profile_path": "/yzUNOVRzY3nMO19HaU3GqGwzigk.jpg"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2D08E4pqE95FM8yOJ3gOy5zWaW0.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10634,
+                "original_language": "en",
+                "original_title": "Friday",
+                "overview": "Craig and Smokey are two guys in Los Angeles hanging out on their porch on a Friday afternoon, smoking and drinking, looking for something to do.",
+                "popularity": 5.7996,
+                "poster_path": "/g57KcE8tbpp3RK3DlIhPkfA6DE2.jpg",
+                "release_date": "1995-04-26",
+                "title": "Friday",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1909,
+                "character": "Mr. Parker",
+                "credit_id": "52fe43999251416c75016b09",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aUbyQhWcPS7S0Su2d9Tgk3NxdPk.jpg",
+                "genre_ids": [
+                    10402,
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 302429,
+                "original_language": "en",
+                "original_title": "Strange Magic",
+                "overview": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
+                "popularity": 4.9121,
+                "poster_path": "/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg",
+                "release_date": "2015-01-23",
+                "title": "Strange Magic",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 526,
+                "character": "Plum Elf (voice)",
+                "credit_id": "63ec330ef925320085339a57",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+                "genre_ids": [
+                    14,
+                    35
+                ],
+                "id": 4011,
+                "original_language": "en",
+                "original_title": "Beetlejuice",
+                "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+                "popularity": 8.3153,
+                "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+                "release_date": "1988-03-30",
+                "title": "Beetlejuice",
+                "video": false,
+                "vote_average": 7.372,
+                "vote_count": 8050,
+                "character": "Preacher",
+                "credit_id": "54a2c282925141212700607c",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Ewok Wicket's younger brother Widdle",
+                "credit_id": "54eb2400c3a36836d9006559",
+                "order": 51
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 847,
+                "original_language": "en",
+                "original_title": "Willow",
+                "overview": "The evil Queen Bavmorda hunts the newborn princess Elora Danan, a child prophesied to bring about her downfall. When the royal infant is found by Willow, a timid farmer and aspiring sorcerer, he's entrusted with delivering her from evil.",
+                "popularity": 3.5609,
+                "poster_path": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+                "release_date": "1988-05-20",
+                "title": "Willow",
+                "video": false,
+                "vote_average": 7.009,
+                "vote_count": 2039,
+                "character": "Vohnkar Warrior",
+                "credit_id": "57bc8198c3a368301300ac46",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    53
+                ],
+                "id": 78,
+                "original_language": "en",
+                "original_title": "Blade Runner",
+                "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+                "popularity": 12.7734,
+                "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+                "release_date": "1982-06-25",
+                "title": "Blade Runner",
+                "video": false,
+                "vote_average": 7.941,
+                "vote_count": 14371,
+                "credit_id": "6505e4a3fa27f4014eb10b97",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph Anthony \"Tony\" Cox",
+            "Joseph Anthony Cox",
+            "Anthony J. Cox",
+            "Anthony Cox",
+            "Joe Anthony Cox",
+            "Joe Antony Cox"
+        ],
+        "biography": "Joseph Anthony \"Tony\" Cox is an American actor known for his comedic performances in Bad Santa, Me, Myself and Irene, Date Movie, Epic Movie and Disaster Movie. He is also known for his work in George Lucas's Willow, as an Ewok in Star Wars Episode VI: Return of the Jedi and as The Preacher in Tim Burton's Beetlejuice. Cox also appeared in the music videos \"Just Lose It\" by Eminem and \"From tha Chuuuch to da Palace\" by Snoop Dogg.",
+        "birthday": "1958-03-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 19754,
+        "imdb_id": "nm0185272",
+        "known_for_department": "Acting",
+        "name": "Tony Cox",
+        "place_of_birth": "Uniontown, Alabama, USA",
+        "popularity": 0.4844,
+        "profile_path": "/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+    }
+}

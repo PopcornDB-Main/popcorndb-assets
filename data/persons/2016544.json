@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/o11rDwFa7nZMVI57Mm3C44YwmmF.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 127380,
+                "original_language": "en",
+                "original_title": "Finding Dory",
+                "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+                "popularity": 5.7954,
+                "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+                "release_date": "2016-06-16",
+                "title": "Finding Dory",
+                "video": false,
+                "vote_average": 7.04,
+                "vote_count": 12363,
+                "character": "Additional Voices (voice)",
+                "credit_id": "661d55e90102c90186074119",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1l1013J6IQIipxN7KHTWipVngT0.jpg",
+                "genre_ids": [
+                    35,
+                    16,
+                    10751
+                ],
+                "id": 227973,
+                "original_language": "en",
+                "original_title": "The Peanuts Movie",
+                "overview": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their arch-nemesis, while his best pal Charlie Brown begins his own epic quest.",
+                "popularity": 6.5347,
+                "poster_path": "/aiwdwnl7RFs1vcBanOKr13ye3wE.jpg",
+                "release_date": "2015-11-05",
+                "title": "The Peanuts Movie",
+                "video": false,
+                "vote_average": 6.936,
+                "vote_count": 1724,
+                "character": "Group Voices (voice)",
+                "credit_id": "5ac6627e0e0a264974012949",
+                "order": 37
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2016544,
+        "imdb_id": "nm2210033",
+        "known_for_department": "Acting",
+        "name": "Dylan Naber",
+        "place_of_birth": null,
+        "popularity": 0.0297,
+        "profile_path": "/klwaz2HhvXzivqANJWPqDWVCA94.jpg"
+    }
+}

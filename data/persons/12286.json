@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qwZRvb0DJ5IwDoRuKDRCBuHWzkw.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    18
+                ],
+                "id": 828,
+                "original_language": "en",
+                "original_title": "The Day the Earth Stood Still",
+                "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+                "popularity": 2.4402,
+                "poster_path": "/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg",
+                "release_date": "1951-09-28",
+                "title": "The Day the Earth Stood Still",
+                "video": false,
+                "vote_average": 7.448,
+                "vote_count": 1169,
+                "character": "H. V. Kaltenborn",
+                "credit_id": "52fe427dc3a36847f8022c2f",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8482,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 1118,
+                "character": "Radio Broadcaster",
+                "credit_id": "52fe4384c3a36847f805a05b",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 12286,
+        "imdb_id": "nm0436225",
+        "known_for_department": "Acting",
+        "name": "H.V. Kaltenborn",
+        "place_of_birth": null,
+        "popularity": 0.1105,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sIJTdyF6JFbIz5mENPpeSlCKYyB.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10749
+                ],
+                "id": 59436,
+                "original_language": "en",
+                "original_title": "Midnight in Paris",
+                "overview": "While on a trip to Paris with his fianc\u00e9e's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+                "popularity": 5.2502,
+                "poster_path": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+                "release_date": "2011-05-11",
+                "title": "Midnight in Paris",
+                "video": false,
+                "vote_average": 7.521,
+                "vote_count": 7491,
+                "character": "Leo Stein",
+                "credit_id": "52fe4990c3a36847f81a0c11",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y0eyUFB8dBLKjbQFeAgFMiklQDq.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1254,
+                "original_language": "fr",
+                "original_title": "Je vais bien, ne t'en fais pas",
+                "overview": "A 19-year-old searches for her twin brother after he runs away from home, following a fight with their father.",
+                "popularity": 1.5668,
+                "poster_path": "/yD6skMZZq0Rgn2NhI9dk4B2Dipu.jpg",
+                "release_date": "2006-09-06",
+                "title": "Don't Worry, I'm Fine",
+                "video": false,
+                "vote_average": 7.206,
+                "vote_count": 593,
+                "character": "Thomas' father",
+                "credit_id": "6627a7db258823014b90d51b",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lx89oBeJIastndjbQxznnfSYpmR.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    18,
+                    36
+                ],
+                "id": 796185,
+                "original_language": "fr",
+                "original_title": "Les Trois Mousquetaires : D'Artagnan",
+                "overview": "D'Artagnan, a spirited young Gascon, is left for dead after trying to save a noblewoman from being kidnapped. Once in Paris, he tries by all means to find his attackers, unaware that his quest will lead him to the very heart of a war where the future of France is at stake. Aided by King's Musketeers Athos, Porthos and Aramis, he faces the machinations of villainous Cardinal Richelieu and Milady de Winter, while falling in love with Constance, the Queen's confidante.",
+                "popularity": 4.1031,
+                "poster_path": "/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
+                "release_date": "2023-04-05",
+                "title": "The Three Musketeers: D'Artagnan",
+                "video": false,
+                "vote_average": 6.946,
+                "vote_count": 1306,
+                "character": "",
+                "credit_id": "67d7cca725f01d54167c1726",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 51105,
+        "imdb_id": "nm0163553",
+        "known_for_department": "Acting",
+        "name": "Laurent Claret",
+        "place_of_birth": null,
+        "popularity": 2.4835,
+        "profile_path": "/lbhnP8WmVayx4xW28KGSe3zYvdP.jpg"
+    }
+}

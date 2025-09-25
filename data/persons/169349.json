@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 557,
+                "original_language": "en",
+                "original_title": "Spider-Man",
+                "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+                "popularity": 24.7151,
+                "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+                "release_date": "2002-05-01",
+                "title": "Spider-Man",
+                "video": false,
+                "vote_average": 7.316,
+                "vote_count": 19887,
+                "character": "Doctor",
+                "credit_id": "55dd056b9251417456000b46",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36
+                ],
+                "id": 359724,
+                "original_language": "en",
+                "original_title": "Ford v Ferrari",
+                "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+                "popularity": 13.8559,
+                "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                "release_date": "2019-11-13",
+                "title": "Ford v Ferrari",
+                "video": false,
+                "vote_average": 8.007,
+                "vote_count": 8493,
+                "character": "SCCA Official",
+                "credit_id": "5e7f8334ec370c0015443900",
+                "order": 28
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.evanarnold.com",
+        "id": 169349,
+        "imdb_id": "nm0036439",
+        "known_for_department": "Acting",
+        "name": "Evan Arnold",
+        "place_of_birth": null,
+        "popularity": 0.2456,
+        "profile_path": "/meFpF2hqoODL1TMNgx1MNqUWiC1.jpg"
+    }
+}

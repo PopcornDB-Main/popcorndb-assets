@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 2048,
+                "original_language": "en",
+                "original_title": "I, Robot",
+                "overview": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
+                "popularity": 8.5531,
+                "poster_path": "/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
+                "release_date": "2004-07-15",
+                "title": "I, Robot",
+                "video": false,
+                "vote_average": 6.956,
+                "vote_count": 12214,
+                "character": "USR Attorney #1",
+                "credit_id": "56f7f957c3a3686a59006d40",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36658,
+                "original_language": "en",
+                "original_title": "X2",
+                "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker's scheme to exterminate all mutants.",
+                "popularity": 0.3553,
+                "poster_path": "/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+                "release_date": "2003-04-27",
+                "title": "X2",
+                "video": false,
+                "vote_average": 7.031,
+                "vote_count": 10515,
+                "character": "Stryker Soldier",
+                "credit_id": "56f7fbd9c3a3686a67007509",
+                "order": 50
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Aaron Douglas (born August 23, 1971) is a Canadian actor. He is best known for portraying Galen Tyrol in the science fiction series Battlestar Galactica. He has also appeared in The Bridge, Hemlock Grove, and as antagonist Gordon Rimmer in Dirk Gently's Holistic Detective Agency.",
+        "birthday": "1971-08-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 77222,
+        "imdb_id": "nm0234928",
+        "known_for_department": "Acting",
+        "name": "Aaron Douglas",
+        "place_of_birth": " New Westminster, British Columbia, Canada",
+        "popularity": 0.3121,
+        "profile_path": "/hDAlimxTkFyWORistWPJsvTKDYJ.jpg"
+    }
+}

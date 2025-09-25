@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/isnJGDrfR9dIrHMsPTvHtJaGEpc.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 504608,
+                "original_language": "en",
+                "original_title": "Rocketman",
+                "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+                "popularity": 4.1114,
+                "poster_path": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+                "release_date": "2019-05-17",
+                "title": "Rocketman",
+                "video": false,
+                "vote_average": 7.318,
+                "vote_count": 4818,
+                "character": "Richard",
+                "credit_id": "63a87fc7238513007b1de1ee",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yfQXs8yXplCVXTLi9mxgvRf4ymE.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12,
+                    28
+                ],
+                "id": 695721,
+                "original_language": "en",
+                "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+                "popularity": 9.5135,
+                "poster_path": "/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg",
+                "release_date": "2023-11-15",
+                "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "video": false,
+                "vote_average": 6.995,
+                "vote_count": 3213,
+                "character": "Smiley",
+                "credit_id": "63a880112385130092545b2c",
+                "order": 63
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3844900,
+        "imdb_id": "nm9300609",
+        "known_for_department": "Acting",
+        "name": "Carl Spencer",
+        "place_of_birth": null,
+        "popularity": 0.1161,
+        "profile_path": "/otXVUm3I75F7x76p7xyStBUJrey.jpg"
+    }
+}

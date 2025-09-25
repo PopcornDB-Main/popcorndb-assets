@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1271,
+                "original_language": "en",
+                "original_title": "300",
+                "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+                "popularity": 9.6619,
+                "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+                "release_date": "2007-03-07",
+                "title": "300",
+                "video": false,
+                "vote_average": 7.19,
+                "vote_count": 14208,
+                "character": "Ephor #3",
+                "credit_id": "539d2ce3c3a3683b50002400",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nCzfXkipK6LCg9JAPkrYw2QA0GO.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 15487,
+                "original_language": "en",
+                "original_title": "The Greatest Game Ever Played",
+                "overview": "A biopic of 20-year-old Francis Ouimet who defeated his golfing idol and 1900 US Open Champion, Harry Vardon.",
+                "popularity": 3.8833,
+                "poster_path": "/kh4vd6wKa6j9xVFzxhQrsT0p2YN.jpg",
+                "release_date": "2005-09-30",
+                "title": "The Greatest Game Ever Played",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 509,
+                "character": "Black Top Hatted Man",
+                "credit_id": "5fb17e355ed962003d12c57a",
+                "order": 8
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1233013,
+        "imdb_id": "nm0705211",
+        "known_for_department": "Acting",
+        "name": "Tom Rack",
+        "place_of_birth": null,
+        "popularity": 0.081,
+        "profile_path": "/4pB79oFOqGD8njh0xbE306i9zMc.jpg"
+    }
+}

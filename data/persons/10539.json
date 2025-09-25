@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    18,
+                    28
+                ],
+                "id": 871,
+                "original_language": "en",
+                "original_title": "Planet of the Apes",
+                "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+                "popularity": 8.0971,
+                "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+                "release_date": "1968-02-07",
+                "title": "Planet of the Apes",
+                "video": false,
+                "vote_average": 7.646,
+                "vote_count": 3741,
+                "character": "Zira",
+                "credit_id": "52fe4285c3a36847f8025621",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 702,
+                "original_language": "en",
+                "original_title": "A Streetcar Named Desire",
+                "overview": "A disturbed, aging Southern belle moves in with her sister for solace \u2014 but being face-to-face with her brutish brother-in-law accelerates her downward spiral.",
+                "popularity": 3.2619,
+                "poster_path": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+                "release_date": "1951-09-19",
+                "title": "A Streetcar Named Desire",
+                "video": false,
+                "vote_average": 7.617,
+                "vote_count": 1411,
+                "character": "Stella Kowalski",
+                "credit_id": "52fe426dc3a36847f801db0f",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Janet Cole"
+        ],
+        "biography": "Kim Hunter (November 12, 1922 \u2013 September 11, 2002) was an American film, theatre, and television actress. She won both an Academy Award and a Golden Globe Award, each as Best Supporting Actress, for her performance as Stella Kowalski in the 1951 film A Streetcar Named Desire. Decades later she received a Daytime Emmy Award for her work on the long running soap The Edge of Night.\n\nDescription above from the Wikipedia article Kim Hunter, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1922-11-12",
+        "deathday": "2002-09-11",
+        "gender": 1,
+        "homepage": null,
+        "id": 10539,
+        "imdb_id": "nm0001375",
+        "known_for_department": "Acting",
+        "name": "Kim Hunter",
+        "place_of_birth": "Detroit, Michigan, USA",
+        "popularity": 0.602,
+        "profile_path": "/knu87rUxQVZ65Plp6BgoyasAHOT.jpg"
+    }
+}

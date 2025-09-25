@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+                "genre_ids": [
+                    28,
+                    36,
+                    10752
+                ],
+                "id": 10590,
+                "original_language": "en",
+                "original_title": "We Were Soldiers",
+                "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+                "popularity": 3.0746,
+                "poster_path": "/d5uupBAORxnFNbkNQ2G0Bi2cpY8.jpg",
+                "release_date": "2002-03-01",
+                "title": "We Were Soldiers",
+                "video": false,
+                "vote_average": 7.142,
+                "vote_count": 2147,
+                "character": "Lt. Cochran (uncredited)",
+                "credit_id": "55d214aac3a3681bf0009b57",
+                "order": 59
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    12,
+                    10749
+                ],
+                "id": 2289,
+                "original_language": "en",
+                "original_title": "Cold Mountain",
+                "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+                "popularity": 7.0466,
+                "poster_path": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+                "release_date": "2003-12-24",
+                "title": "Cold Mountain",
+                "video": false,
+                "vote_average": 6.929,
+                "vote_count": 1861,
+                "character": "Rourke",
+                "credit_id": "607c044e01b1ca0041e45290",
+                "order": 23
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 945810,
+        "imdb_id": "nm1101359",
+        "known_for_department": "Acting",
+        "name": "Ben Allison",
+        "place_of_birth": null,
+        "popularity": 0.1112,
+        "profile_path": null
+    }
+}

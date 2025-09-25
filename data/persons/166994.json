@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 11.4334,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.731,
+                "vote_count": 10301,
+                "character": "Wardrobe (voice)",
+                "credit_id": "52fe43099251416c75000fd7",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aLMP6CYWyGadDXRFQILgmUgFW7d.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10749,
+                    16,
+                    10751
+                ],
+                "id": 15789,
+                "original_language": "en",
+                "original_title": "A Goofy Movie",
+                "overview": "An endearing modern-day story about how the lovable Goof bonds with his teenage son Max on a hilarious cross-country road trip. En route to the ol' fishing hole, they find themselves up to their floppy ears in misadventure!",
+                "popularity": 4.296,
+                "poster_path": "/2aLNp9HBPNj9mI5R2tFw4vcfbFL.jpg",
+                "release_date": "1995-04-07",
+                "title": "A Goofy Movie",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 1838,
+                "character": "Miss Maples (voice)",
+                "credit_id": "5ef3d9752afb2500344528a4",
+                "order": 17
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "JoAnne Worley"
+        ],
+        "biography": "",
+        "birthday": "1937-09-06",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 166994,
+        "imdb_id": "nm0941506",
+        "known_for_department": "Acting",
+        "name": "Jo Anne Worley",
+        "place_of_birth": "Lowell, Indiana, USA",
+        "popularity": 0.2377,
+        "profile_path": "/EzPTRJ2GxUFgYo6JXw19G2JDb3.jpg"
+    }
+}

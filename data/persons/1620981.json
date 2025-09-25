@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 492188,
+                "original_language": "en",
+                "original_title": "Marriage Story",
+                "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+                "popularity": 8.0279,
+                "poster_path": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+                "release_date": "2019-09-28",
+                "title": "Marriage Story",
+                "video": false,
+                "vote_average": 7.732,
+                "vote_count": 7159,
+                "character": "Theater Actor",
+                "credit_id": "5df606cf26dac10017518aba",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/d2faCjeaynI2nPDVh9PiRapcLcl.jpg",
+                "genre_ids": [
+                    18,
+                    10402
+                ],
+                "id": 661539,
+                "original_language": "en",
+                "original_title": "A Complete Unknown",
+                "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
+                "popularity": 6.4367,
+                "poster_path": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+                "release_date": "2024-12-25",
+                "title": "A Complete Unknown",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1196,
+                "character": "Tom Wilson",
+                "credit_id": "67722ebe5863b1e81912add7",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Eric Berryman is an actor, known for Marriage Story (2019), Bonding (2018) and The Marvelous Mrs. Maisel (2017).",
+        "birthday": "1989-01-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1620981,
+        "imdb_id": "nm2650183",
+        "known_for_department": "Acting",
+        "name": "Eric Berryman",
+        "place_of_birth": "Baltimore, Maryland, USA",
+        "popularity": 0.9903,
+        "profile_path": "/jLAMItci2V87HpdX3fTGS9ZY72I.jpg"
+    }
+}

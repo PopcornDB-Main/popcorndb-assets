@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 814,
+                "original_language": "en",
+                "original_title": "An American Werewolf in London",
+                "overview": "American tourists David and Jack are savaged by an unidentified vicious animal whilst hiking on the Yorkshire Moors. Retiring to the home of a beautiful nurse to recuperate, David soon experiences disturbing changes to his mind and body.",
+                "popularity": 3.7138,
+                "poster_path": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+                "release_date": "1981-08-21",
+                "title": "An American Werewolf in London",
+                "video": false,
+                "vote_average": 7.408,
+                "vote_count": 2546,
+                "character": "Mr. Kessler",
+                "credit_id": "579fcf1c9251411655004740",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2EfbAWLq8s2f1LxTAIuLGYpKETV.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    14
+                ],
+                "id": 8009,
+                "original_language": "en",
+                "original_title": "Highlander",
+                "overview": "He fought his first battle on the Scottish Highlands in 1536. He will fight his greatest battle on the streets of New York City in 1986. His name is Connor MacLeod. He is immortal.",
+                "popularity": 6.5051,
+                "poster_path": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+                "release_date": "1986-03-07",
+                "title": "Highlander",
+                "video": false,
+                "vote_average": 6.872,
+                "vote_count": 2745,
+                "character": "Dr Willis Kenderly",
+                "credit_id": "5a4a4d22c3a36805df011e12",
+                "order": 20
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Gordon Sterne was born on 16 January 1923 in Essen, Germany. He was an actor, known for An American Werewolf in London (1981), Highlander (1986) and Melissa (1997). He died on 4 April 2017.",
+        "birthday": "1923-01-16",
+        "deathday": "2017-04-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 185033,
+        "imdb_id": "nm0827936",
+        "known_for_department": "Acting",
+        "name": "Gordon Sterne",
+        "place_of_birth": "Essen, Germany",
+        "popularity": 0.3631,
+        "profile_path": null
+    }
+}

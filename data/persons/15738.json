@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/zpBl7qfBB1ir1BVNQtPlPwQ6IFd.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1165,
+                "original_language": "en",
+                "original_title": "The Queen",
+                "overview": "The Queen is an intimate behind the scenes glimpse at the interaction between HM Elizabeth II and Prime Minister Tony Blair during their struggle, following the death of Diana, to reach a compromise between what was a private tragedy for the Royal family and the public's demand for an overt display of mourning.",
+                "popularity": 3.7225,
+                "poster_path": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+                "release_date": "2006-09-15",
+                "title": "The Queen",
+                "video": false,
+                "vote_average": 6.953,
+                "vote_count": 1364,
+                "character": "Trevor Rees-Jones",
+                "credit_id": "52fe42e9c3a36847f802c373",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9S0BHQuZAyNMG0GpHAMSIbF38au.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 2140,
+                "original_language": "en",
+                "original_title": "Kiss of the Dragon",
+                "overview": "Liu Jian, an elite Chinese police officer, comes to Paris to arrest a Chinese drug lord. When Jian is betrayed by a French officer and framed for murder, he must go into hiding and find new allies.",
+                "popularity": 5.0941,
+                "poster_path": "/1ubtSyagwfNF9Bn9s2CKITRtx1d.jpg",
+                "release_date": "2001-07-06",
+                "title": "Kiss of the Dragon",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 1263,
+                "character": "Pilot",
+                "credit_id": "5960bbd992514121f009cd56",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 15738,
+        "imdb_id": "nm0057246",
+        "known_for_department": "Acting",
+        "name": "Paul Barrett",
+        "place_of_birth": "Chester, England, UK",
+        "popularity": 0.0868,
+        "profile_path": "/rHwotJE3Em5o0VX8T9SQ0I4pWyt.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 2604,
+                "original_language": "en",
+                "original_title": "Born on the Fourth of July",
+                "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+                "popularity": 8.4394,
+                "poster_path": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+                "release_date": "1989-12-20",
+                "title": "Born on the Fourth of July",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1790,
+                "character": "Barmaid - Arthur's Bar",
+                "credit_id": "55e87ec79251413e3e002f5d",
+                "order": 63
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 241,
+                "original_language": "en",
+                "original_title": "Natural Born Killers",
+                "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+                "popularity": 5.0091,
+                "poster_path": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+                "release_date": "1994-08-26",
+                "title": "Natural Born Killers",
+                "video": false,
+                "vote_average": 7.053,
+                "vote_count": 3591,
+                "character": "Antonia Chavez",
+                "credit_id": "57d3de9e92514174d8000624",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Melinda Ramos Renna",
+            "Melinda Ramos"
+        ],
+        "biography": "",
+        "birthday": "1952-02-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 180533,
+        "imdb_id": "nm0719604",
+        "known_for_department": "Acting",
+        "name": "Melinda Renna",
+        "place_of_birth": "Arlington, Texas, USA",
+        "popularity": 1.7941,
+        "profile_path": "/9hPaSbTX4A98F3dUDU7xkBOa428.jpg"
+    }
+}

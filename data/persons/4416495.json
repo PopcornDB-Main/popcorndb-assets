@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    80
+                ],
+                "id": 134,
+                "original_language": "en",
+                "original_title": "O Brother, Where Art Thou?",
+                "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+                "popularity": 5.603,
+                "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+                "release_date": "2000-08-30",
+                "title": "O Brother, Where Art Thou?",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4358,
+                "character": "The Whites",
+                "credit_id": "6570bbc5dd731b0138fc2834",
+                "order": 43
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 4416495,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Cheryl White",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

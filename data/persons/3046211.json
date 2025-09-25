@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 675445,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Movie",
+                "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+                "popularity": 7.4087,
+                "poster_path": "/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg",
+                "release_date": "2021-08-09",
+                "title": "PAW Patrol: The Movie",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 1241,
+                "character": "Carmen (voice)",
+                "credit_id": "6071a8b24d0e8d007bffd8e5",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 893723,
+                "original_language": "en",
+                "original_title": "PAW Patrol: The Mighty Movie",
+                "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+                "popularity": 10.0674,
+                "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+                "release_date": "2023-09-21",
+                "title": "PAW Patrol: The Mighty Movie",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 510,
+                "character": "Carmen (voice)",
+                "credit_id": "683a214b57447f1d40edcb1f",
+                "order": 24
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1986-01-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 3046211,
+        "imdb_id": "nm2310571",
+        "known_for_department": "Acting",
+        "name": "Monique Alvarez",
+        "place_of_birth": null,
+        "popularity": 0.0338,
+        "profile_path": null
+    }
+}

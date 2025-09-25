@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 11.688,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19963,
+                "character": "Bala-Tik",
+                "credit_id": "5707a56292514117cd0005c2",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    18
+                ],
+                "id": 374720,
+                "original_language": "en",
+                "original_title": "Dunkirk",
+                "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+                "popularity": 8.077,
+                "poster_path": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+                "release_date": "2017-07-19",
+                "title": "Dunkirk",
+                "video": false,
+                "vote_average": 7.449,
+                "vote_count": 17005,
+                "character": "Highlander 1",
+                "credit_id": "58a000f5c3a3680300001b66",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lfMtVr5hkFeGy4dMaEf3XUQr76d.jpg",
+                "genre_ids": [
+                    12,
+                    80,
+                    18
+                ],
+                "id": 433498,
+                "original_language": "en",
+                "original_title": "Papillon",
+                "overview": "Henri \u201cPapillon\u201d Charri\u00e8re, a safecracker from the Parisian underworld, is wrongfully convicted and sentenced to life imprisonment in the penal colony of French Guiana, where he forges a strong friendship with Louis Dega, a counterfeiter who needs his protection.",
+                "popularity": 5.3735,
+                "poster_path": "/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg",
+                "release_date": "2017-09-07",
+                "title": "Papillon",
+                "video": false,
+                "vote_average": 7.325,
+                "vote_count": 2030,
+                "character": "Guittou",
+                "credit_id": "5b2faf4ec3a368582300569f",
+                "order": 5
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Tom Vernel",
+            "\u0628\u0631\u0627\u06cc\u0627\u0646 \u0648\u0631\u0646\u0644"
+        ],
+        "biography": "",
+        "birthday": "1990-12-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1446565,
+        "imdb_id": "nm4451290",
+        "known_for_department": "Acting",
+        "name": "Brian Vernel",
+        "place_of_birth": "Glasgow, Scotland, UK",
+        "popularity": 0.5596,
+        "profile_path": "/4soXoVA4Mzp2g0I9hguOvnC6Mk.jpg"
+    }
+}

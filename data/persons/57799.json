@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 603,
+                "original_language": "en",
+                "original_title": "The Matrix",
+                "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+                "popularity": 19.2458,
+                "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+                "release_date": "1999-03-31",
+                "title": "The Matrix",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 26791,
+                "character": "Lieutenant",
+                "credit_id": "52fe425bc3a36847f80181db",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5mQZqk2qSJCsYmvw1cQJLEcLNYM.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 64682,
+                "original_language": "en",
+                "original_title": "The Great Gatsby",
+                "overview": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
+                "popularity": 8.6921,
+                "poster_path": "/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+                "release_date": "2013-05-09",
+                "title": "The Great Gatsby",
+                "video": false,
+                "vote_average": 7.361,
+                "vote_count": 12603,
+                "character": "Policeman - Wilson's Garage",
+                "credit_id": "659460f4fc31d371ac46f334",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 324786,
+                "original_language": "en",
+                "original_title": "Hacksaw Ridge",
+                "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+                "popularity": 17.0287,
+                "poster_path": "/wuz8TjCIWR2EVVMuEfBnQ1vuGS3.jpg",
+                "release_date": "2016-10-07",
+                "title": "Hacksaw Ridge",
+                "video": false,
+                "vote_average": 8.193,
+                "vote_count": 14313,
+                "character": "General Musgrove",
+                "credit_id": "588f815b92514101a900a6dc",
+                "order": 33
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richmond Young"
+        ],
+        "biography": "",
+        "birthday": "1950-06-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 57799,
+        "imdb_id": "nm0949303",
+        "known_for_department": "Acting",
+        "name": "Bill Young",
+        "place_of_birth": "Denman, New South Wales, Australia",
+        "popularity": 0.2033,
+        "profile_path": "/5FQC1XSeuIGE8r4vj0sFhY4zPCq.jpg"
+    }
+}

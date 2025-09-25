@@ -1,0 +1,191 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80,
+                    9648
+                ],
+                "id": 10528,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes",
+                "overview": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                "popularity": 10.0683,
+                "poster_path": "/fvnu6QHyR0gSV1JI6lMyXCny21a.jpg",
+                "release_date": "2009-12-23",
+                "title": "Sherlock Holmes",
+                "video": false,
+                "vote_average": 7.215,
+                "vote_count": 14333,
+                "character": "Thug",
+                "credit_id": "52fe43819251416c75012f9f",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2784,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16515,
+                "character": "Ramelle Paratrooper",
+                "credit_id": "5783a9099251417df6001ca3",
+                "order": 25
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/LTjGvAf92YLudl5zqJP9tHLuSo.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 4518,
+                "original_language": "en",
+                "original_title": "Elizabeth",
+                "overview": "The story of the ascension to the throne and the early reign of Queen Elizabeth the First, the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+                "popularity": 6.5001,
+                "poster_path": "/qEk48VLOdibXFVIEzE9ETZUBcCs.jpg",
+                "release_date": "1998-09-13",
+                "title": "Elizabeth",
+                "video": false,
+                "vote_average": 7.176,
+                "vote_count": 1437,
+                "credit_id": "62896f4a6c84922f76f5bc8d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53,
+                    12,
+                    9648
+                ],
+                "id": 385687,
+                "original_language": "en",
+                "original_title": "Fast X",
+                "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.",
+                "popularity": 27.5052,
+                "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+                "release_date": "2023-05-17",
+                "title": "Fast X",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 6035,
+                "credit_id": "648365eebf31f2505f3dedc7",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 9693,
+                "original_language": "en",
+                "original_title": "Children of Men",
+                "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+                "popularity": 8.5658,
+                "poster_path": "/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+                "release_date": "2006-09-22",
+                "title": "Children of Men",
+                "video": false,
+                "vote_average": 7.612,
+                "vote_count": 7439,
+                "credit_id": "5f5abea67ad08c003a52a3d7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    80,
+                    9648
+                ],
+                "id": 58574,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes: A Game of Shadows",
+                "overview": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes\u2019 intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the  detective.",
+                "popularity": 6.3216,
+                "poster_path": "/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+                "release_date": "2011-11-22",
+                "title": "Sherlock Holmes: A Game of Shadows",
+                "video": false,
+                "vote_average": 7.142,
+                "vote_count": 10607,
+                "credit_id": "5f7648f38741c4003a688e95",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    12
+                ],
+                "id": 98,
+                "original_language": "en",
+                "original_title": "Gladiator",
+                "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+                "popularity": 13.7275,
+                "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+                "release_date": "2000-05-04",
+                "title": "Gladiator",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 20050,
+                "credit_id": "5f7794fef8e982003771220f",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Pete Miles"
+        ],
+        "biography": "",
+        "birthday": "1963-06-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1230574,
+        "imdb_id": "nm0587215",
+        "known_for_department": "Crew",
+        "name": "Peter Miles",
+        "place_of_birth": null,
+        "popularity": 0.2985,
+        "profile_path": "/2Cu56fQK90ZWMq46B0WYMkF5m3I.jpg"
+    }
+}

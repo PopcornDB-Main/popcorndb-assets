@@ -1,0 +1,75 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 3.9434,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4045,
+                "character": "Lacey Party Guest",
+                "credit_id": "56d200a9c3a3681e4400b247",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+                "genre_ids": [
+                    14,
+                    27,
+                    35
+                ],
+                "id": 927,
+                "original_language": "en",
+                "original_title": "Gremlins",
+                "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+                "popularity": 6.8104,
+                "poster_path": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+                "release_date": "1984-06-08",
+                "title": "Gremlins",
+                "video": false,
+                "vote_average": 7.136,
+                "vote_count": 6657,
+                "character": "Lew Landers (WDHB-TV reporter)",
+                "credit_id": "609a580020af77003b80fdec",
+                "order": 29
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James MacKrell",
+            "James McKrell",
+            "James Mackrell",
+            "Jim MacKrell",
+            "Jim Mc Krell"
+        ],
+        "biography": "",
+        "birthday": "1937-10-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 100614,
+        "imdb_id": "nm0572100",
+        "known_for_department": "Acting",
+        "name": "Jim McKrell",
+        "place_of_birth": "Little Rock, Arkansas, USA",
+        "popularity": 0.2275,
+        "profile_path": "/fjy46X3ZITbYZprD2Tem7vvRp8n.jpg"
+    }
+}

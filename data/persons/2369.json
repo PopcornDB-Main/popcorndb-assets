@@ -1,0 +1,188 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 192,
+                "original_language": "en",
+                "original_title": "The Name of the Rose",
+                "overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
+                "popularity": 4.5432,
+                "poster_path": "/2BuVu0j6v2kNY2gGxtO3sDGyob2.jpg",
+                "release_date": "1986-09-24",
+                "title": "The Name of the Rose",
+                "video": false,
+                "vote_average": 7.494,
+                "vote_count": 3164,
+                "character": "The Abbot",
+                "credit_id": "52fe4225c3a36847f8007665",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36,
+                    53
+                ],
+                "id": 612,
+                "original_language": "en",
+                "original_title": "Munich",
+                "overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+                "popularity": 4.5927,
+                "poster_path": "/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+                "release_date": "2005-12-23",
+                "title": "Munich",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 2803,
+                "character": "Papa",
+                "credit_id": "52fe425dc3a36847f8018aeb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kB9Y59YDMOFdm5LgSyTVj4b6hh6.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 4909,
+                "original_language": "en",
+                "original_title": "The Day of the Jackal",
+                "overview": "An international assassin known as \u2018The Jackal\u2019 is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin\u2019s trail.",
+                "popularity": 5.8509,
+                "poster_path": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+                "release_date": "1973-05-16",
+                "title": "The Day of the Jackal",
+                "video": false,
+                "vote_average": 7.541,
+                "vote_count": 631,
+                "character": "Deputy Commissioner Claude Lebel",
+                "credit_id": "52fe43e1c3a36847f8075f15",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/h6UcOYmiwliqG2a0hHqvPsA4n4C.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 8195,
+                "original_language": "en",
+                "original_title": "Ronin",
+                "overview": "A briefcase with undisclosed contents \u2013 sought by Irish terrorists and the Russian mob \u2013 makes its way into criminals' hands. An Irish liaison assembles a squad of mercenaries, or 'ronin', and gives them the thorny task of recovering the case.",
+                "popularity": 3.8076,
+                "poster_path": "/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg",
+                "release_date": "1998-09-25",
+                "title": "Ronin",
+                "video": false,
+                "vote_average": 6.961,
+                "vote_count": 2490,
+                "character": "Jean-Pierre",
+                "credit_id": "52fe4494c3a36847f809e34f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bdms9QMM4y6NBKIvXDINsKnK0Fj.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    36
+                ],
+                "id": 26428,
+                "original_language": "en",
+                "original_title": "Agora",
+                "overview": "A historical drama set in Roman Egypt, concerning philosopher Hypatia of Alexandria and her relationship with her slave Davus, who is torn between his love for her and the possibility of gaining his freedom by joining the rising tide of Christianity.",
+                "popularity": 3.3259,
+                "poster_path": "/1xsFa6I5vDd2UI1AJ1tsW7BUChv.jpg",
+                "release_date": "2009-05-17",
+                "title": "Agora",
+                "video": false,
+                "vote_average": 6.998,
+                "vote_count": 1488,
+                "character": "Theon",
+                "credit_id": "52fe4501c3a368484e0433a1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vFhxd3Z1zaV3Yu5XLpvWzSxJCe8.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1245,
+                "original_language": "en",
+                "original_title": "The Remains of the Day",
+                "overview": "A rule-bound head butler's world of manners and decorum in the household he maintains is tested by the arrival of a housekeeper who falls in love with him in post-WWI Britain. The possibility of romance and his master's cultivation of ties with the Nazi cause challenge his carefully maintained veneer of servitude.",
+                "popularity": 3.9004,
+                "poster_path": "/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+                "release_date": "1993-11-05",
+                "title": "The Remains of the Day",
+                "video": false,
+                "vote_average": 7.367,
+                "vote_count": 1395,
+                "character": "Dupont D'Ivry",
+                "credit_id": "542efe7ac3a368043900070d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yhfHeIsR5Ki02b5SqBuLqAsLDCk.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 3009,
+                "original_language": "en",
+                "original_title": "Le Proc\u00e8s",
+                "overview": "The surreal tale of an unassuming man who is accused of a never-specified crime and shambles through bizarre encounters to escape this nightmare.",
+                "popularity": 1.3546,
+                "poster_path": "/2o1oe54a4doiwB4uJq9Kx1RHal0.jpg",
+                "release_date": "1962-08-25",
+                "title": "The Trial",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 525,
+                "character": "Priest",
+                "credit_id": "5b135265c3a36862a4007873",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michel Lonsdale",
+            "\u041c\u0430\u0439\u043a\u043b \u041b\u043e\u043d\u0441\u0434\u0435\u0439\u043b",
+            "\u041c\u0438\u0448\u0435\u043b\u044c \u041b\u043e\u043d\u0441\u0434\u0430\u043b\u044c",
+            "\u041c\u0430\u0439\u043a\u043b \u041b\u043e\u043d\u0441\u0434\u0430\u043b\u044c"
+        ],
+        "biography": "Michael Edward Lonsdale Crouch (24 May 1931 \u2013 21 September 2020), commonly known as Michael Lonsdale and sometimes as Michel Lonsdale, was a French actor and author.\n\nDescription above from the Wikipedia article\u00a0Michael Lonsdale, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1931-05-24",
+        "deathday": "2020-09-21",
+        "gender": 2,
+        "homepage": "https://www.aartis.fr/artiste.cfm/26133_115_2-Michael_Lonsdale.html",
+        "id": 2369,
+        "imdb_id": "nm0003909",
+        "known_for_department": "Acting",
+        "name": "Michael Lonsdale",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.6473,
+        "profile_path": "/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg"
+    }
+}

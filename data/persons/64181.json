@@ -1,0 +1,167 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    10402
+                ],
+                "id": 11176,
+                "original_language": "en",
+                "original_title": "The Muppet Movie",
+                "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+                "popularity": 2.9046,
+                "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+                "release_date": "1979-06-22",
+                "title": "The Muppet Movie",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 657,
+                "character": "The Great Gonzo / Dr. Bunsen Honeydew / Zoot / Doglion / Iraqian in El Sleezo Cafe / Pig (voice)",
+                "credit_id": "52fe44089251416c75026a7d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 1022789,
+                "original_language": "en",
+                "original_title": "Inside Out 2",
+                "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+                "popularity": 29.7826,
+                "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+                "release_date": "2024-06-11",
+                "title": "Inside Out 2",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 6129,
+                "character": "Mind Cop Frank (voice)",
+                "credit_id": "65ea1dbe3d7454017dba2bfd",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    18,
+                    35
+                ],
+                "id": 150540,
+                "original_language": "en",
+                "original_title": "Inside Out",
+                "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+                "popularity": 15.5054,
+                "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+                "release_date": "2015-06-17",
+                "title": "Inside Out",
+                "video": false,
+                "vote_average": 7.91,
+                "vote_count": 22792,
+                "character": "Subconscious Guard Frank (voice)",
+                "credit_id": "563a93549251414cc900273c",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 13597,
+                "original_language": "en",
+                "original_title": "Labyrinth",
+                "overview": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King who whisks Toby away to his castle at the center of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
+                "popularity": 5.8337,
+                "poster_path": "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+                "release_date": "1986-06-27",
+                "title": "Labyrinth",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 2570,
+                "character": "Didymus / The Hat / The Four Guards / Left Door Knocker / Firey 3 (voice)",
+                "credit_id": "5de2d8bba7e3630019693ff6",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10751,
+                    14,
+                    18
+                ],
+                "id": 10437,
+                "original_language": "en",
+                "original_title": "The Muppet Christmas Carol",
+                "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+                "popularity": 3.9431,
+                "poster_path": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+                "release_date": "1992-12-11",
+                "title": "The Muppet Christmas Carol",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 1070,
+                "character": "The Great Gonzo as Charles Dickens / Robert Marley / Dr. Bunsen Honeydew / Betina Cratchit / Rat / Zoot (voice)",
+                "credit_id": "5f3a408f7390c0003963afb3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 3.9881,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1186,
+                "character": "Fizzgig, a Friendly Monster / General, Garthim Master",
+                "credit_id": "60f8ae9ac439c00046604bc5",
+                "order": 3
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nDave Goelz (born July 16, 1946) is a puppeteer best-known for his association with The Muppets, and in particular with the Muppet character Gonzo. His other Muppet characters include Dr. Bunsen Honeydew, Zoot (the saxophonist of Dr. Teeth and The Electric Mayhem), Beauregard the janitor and Tiny (the humungous chicken in The Adventures of Elmo in Grouchland) . He also performed the characters of Boober Fraggle and Uncle Travelling Matt on Fraggle Rock. He also performed the puppetry for various characters, including Sir Didymus and Wiseman's Hat (both voiced by David Shaughnessy) in Labyrinth. Outside of Muppeteering, he is the current voice actor for the Disney character Figment. After Jim Henson died in 1990, Goelz took over puppeteering Waldorf in 1992.\n\nDescription above from the Wikipedia article Dave Goelz, licensed under CC-BY-SA, full list of contributors on Wikipedia .",
+        "birthday": "1946-07-16",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 64181,
+        "imdb_id": "nm0324397",
+        "known_for_department": "Acting",
+        "name": "Dave Goelz",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.325,
+        "profile_path": "/tBJDwH008IVSeTCB5e2P856NbIv.jpg"
+    }
+}

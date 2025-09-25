@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uGXid3UHMzoL2hyNfWSPDWkqbKC.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 10787,
+                "original_language": "en",
+                "original_title": "The Invisible Man",
+                "overview": "After experimenting on himself and becoming invisible, scientist Jack Griffin, now aggressive due to the drug's effects, seeks a way to reverse the experiment at any cost.",
+                "popularity": 2.034,
+                "poster_path": "/ewfUA5pMEJrmQCdI4TsHmLlIUbf.jpg",
+                "release_date": "1933-11-03",
+                "title": "The Invisible Man",
+                "video": false,
+                "vote_average": 7.507,
+                "vote_count": 893,
+                "character": "Inspector Bird",
+                "credit_id": "52fe43b79251416c7501b5d7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwMWJ8G5173SGCHzrm0mVjvESaY.jpg",
+                "genre_ids": [
+                    27,
+                    18
+                ],
+                "id": 13666,
+                "original_language": "en",
+                "original_title": "The Wolf Man",
+                "overview": "After his brother's death, Larry Talbot returns home to his father and the family estate. Events soon take a turn for the worse when Larry is bitten by a werewolf.",
+                "popularity": 1.1972,
+                "poster_path": "/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg",
+                "release_date": "1941-12-12",
+                "title": "The Wolf Man",
+                "video": false,
+                "vote_average": 7.012,
+                "vote_count": 645,
+                "character": "Reverend Norman (uncredited)",
+                "credit_id": "55c80a60c3a368549a0000c7",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Harry Oakes Stubbs",
+            "Harry O. Stubbs",
+            "Mr. Harry Stubbs"
+        ],
+        "biography": "",
+        "birthday": "1874-12-06",
+        "deathday": "1950-03-09",
+        "gender": 2,
+        "homepage": null,
+        "id": 30145,
+        "imdb_id": "nm0835913",
+        "known_for_department": "Acting",
+        "name": "Harry Stubbs",
+        "place_of_birth": "Southampton, Hampshire, England, UK",
+        "popularity": 0.0429,
+        "profile_path": "/9w8e41q6hzBIMss8EQvtaIPOSmV.jpg"
+    }
+}

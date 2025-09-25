@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    14
+                ],
+                "id": 628,
+                "original_language": "en",
+                "original_title": "Interview with the Vampire",
+                "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+                "popularity": 9.1837,
+                "poster_path": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+                "release_date": "1994-11-11",
+                "title": "Interview with the Vampire",
+                "video": false,
+                "vote_average": 7.382,
+                "vote_count": 6109,
+                "character": "Dollmaker",
+                "credit_id": "52fe4260c3a36847f8019a2f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 18.309,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 28632,
+                "character": "Barber",
+                "credit_id": "55d0c1f9c3a3681bf9008562",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 6.3934,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 2256,
+                "character": "Jerry Johnson Sidekick",
+                "credit_id": "561874cf925141374b000f91",
+                "order": 65
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "George Kelly is known for Forrest Gump (1994), JFK (1991) and Interview with the Vampire: The Vampire Chronicles (1994).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 951881,
+        "imdb_id": "nm0446404",
+        "known_for_department": "Acting",
+        "name": "George Kelly",
+        "place_of_birth": null,
+        "popularity": 0.2771,
+        "profile_path": null
+    }
+}

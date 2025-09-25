@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 599,
+                "original_language": "en",
+                "original_title": "Sunset Boulevard",
+                "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+                "popularity": 5.7842,
+                "poster_path": "/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+                "release_date": "1950-08-10",
+                "title": "Sunset Boulevard",
+                "video": false,
+                "vote_average": 8.293,
+                "vote_count": 2743,
+                "character": "Max von Mayerling",
+                "credit_id": "52fe425ac3a36847f8017c29",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9eHg5qX7LkjW2Zrejvap2RmFGlD.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 777,
+                "original_language": "fr",
+                "original_title": "La Grande Illusion",
+                "overview": "A group of French soldiers, including the patrician Captain de Boeldieu and the working-class Lieutenant Mar\u00e9chal, grapple with their own class differences after being captured and held in a World War I German prison camp. When the men are transferred to a high-security fortress, they must concoct a plan to escape beneath the watchful eye of aristocratic German officer von Rauffenstein, who has formed an unexpected bond with de Boeldieu.",
+                "popularity": 3.2904,
+                "poster_path": "/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+                "release_date": "1937-06-04",
+                "title": "Grand Illusion",
+                "video": false,
+                "vote_average": 7.87,
+                "vote_count": 736,
+                "character": "Le capitaine von Rauffenstein",
+                "credit_id": "52fe4275c3a36847f8020275",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Erich Stroheim",
+            "Eric von Stroheim",
+            "\uc5d0\ub9ac\ud788 \ud3f0 \uc288\ud2b8\ub85c\ud558\uc784",
+            "\uc5d0\ub9ac\ud788 \ud3f0 \uc2a4\ud2b8\ub85c\ud558\uc784",
+            "Erich Oswald Hans Carl Maria von Stroheim",
+            "Eric Oswald Stroheim"
+        ],
+        "biography": "Erich von Stroheim (September 22, 1885 \u2013 May 12, 1957) was a multifaceted Austrian-American actor, director, and writer known for his contributions to cinema during the silent film era. He was renowned for his meticulous attention to detail as a director and for portraying intense, often morally ambiguous characters on screen. Stroheim gained fame for directing and starring in films like \"Greed\" and \"The Merry Widow.\" His style was marked by elaborate storytelling and a commitment to realism. Stroheim's career was impactful, though often marked by conflicts with studios due to his uncompromising vision, which led to some of his films being heavily edited against his wishes.",
+        "birthday": "1885-09-22",
+        "deathday": "1957-05-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 8630,
+        "imdb_id": "nm0002233",
+        "known_for_department": "Acting",
+        "name": "Erich von Stroheim",
+        "place_of_birth": "Vienna, Austria-Hungary [now Austria]",
+        "popularity": 0.1766,
+        "profile_path": "/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5IM4A22LKZlQiynzIw1qNF6h5cE.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    10752
+                ],
+                "id": 616,
+                "original_language": "en",
+                "original_title": "The Last Samurai",
+                "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+                "popularity": 9.2419,
+                "poster_path": "/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+                "release_date": "2003-12-05",
+                "title": "The Last Samurai",
+                "video": false,
+                "vote_average": 7.595,
+                "vote_count": 7176,
+                "character": "Omura",
+                "credit_id": "52fe425ec3a36847f8018ea9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6epfs9UMFbYuj4UfjHq5EDic8V9.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 7549,
+                "original_language": "zh",
+                "original_title": "\u970d\u5143\u7532",
+                "overview": "After going through a series of tragic events in his life, martial arts master Huo Yuanjia returns to Tianjin and must fight four international soldiers, in order to safeguard his nation's pride.",
+                "popularity": 6.7453,
+                "poster_path": "/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg",
+                "release_date": "2006-01-26",
+                "title": "Fearless",
+                "video": false,
+                "vote_average": 7.513,
+                "vote_count": 1334,
+                "character": "Mita",
+                "credit_id": "52fe4483c3a36847f809a735",
+                "order": 30
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Masato Harada is a Japanese film director, film critic, and sometimes an actor; he is best known to foreign audiences as Omura in The Last Samurai and as Mr Mita in Fearless.",
+        "birthday": "1949-07-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.haradafilms.com/",
+        "id": 52909,
+        "imdb_id": "nm0361735",
+        "known_for_department": "Directing",
+        "name": "Masato Harada",
+        "place_of_birth": "Numazu, Prefettura di Shizuoka, Giappone",
+        "popularity": 0.6837,
+        "profile_path": "/dvaQECb1hQ15TV3ytt2tT8Pnknl.jpg"
+    }
+}

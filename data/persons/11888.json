@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    28
+                ],
+                "id": 792,
+                "original_language": "en",
+                "original_title": "Platoon",
+                "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+                "popularity": 6.7554,
+                "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+                "release_date": "1986-12-19",
+                "title": "Platoon",
+                "video": false,
+                "vote_average": 7.747,
+                "vote_count": 4817,
+                "character": "Junior",
+                "credit_id": "5a7a1523c3a3682261027d6e",
+                "order": 11
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 11888,
+        "imdb_id": "nm0426047",
+        "known_for_department": "Acting",
+        "name": "Reggie Johnson",
+        "place_of_birth": null,
+        "popularity": 0.2371,
+        "profile_path": null
+    }
+}

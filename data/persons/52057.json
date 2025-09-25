@@ -1,0 +1,161 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 274,
+                "original_language": "en",
+                "original_title": "The Silence of the Lambs",
+                "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+                "popularity": 3.9428,
+                "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+                "release_date": "1991-02-14",
+                "title": "The Silence of the Lambs",
+                "video": false,
+                "vote_average": 8.347,
+                "vote_count": 17103,
+                "character": "TV Anchor Man",
+                "credit_id": "52fe4230c3a36847f800adf3",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mE2TjYsnqdWxPt45kIElw3az4O9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9800,
+                "original_language": "en",
+                "original_title": "Philadelphia",
+                "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+                "popularity": 3.7367,
+                "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+                "release_date": "1993-12-22",
+                "title": "Philadelphia",
+                "video": false,
+                "vote_average": 7.718,
+                "vote_count": 4416,
+                "character": "Jerome Green",
+                "credit_id": "5370ee9a0e0a26615c000138",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gpcJuvH1tRWfdGv6ysWVRN3EZXL.jpg",
+                "genre_ids": [
+                    35,
+                    28
+                ],
+                "id": 24804,
+                "original_language": "en",
+                "original_title": "Black Dynamite",
+                "overview": "This is the story of 1970s African-American action legend Black Dynamite. The Man killed his brother, pumped heroin into local orphanages, and flooded the ghetto with adulterated malt liquor. Black Dynamite was the one hero willing to fight The Man all the way from the blood-soaked city streets to the hallowed halls of the Honky House.",
+                "popularity": 2.7322,
+                "poster_path": "/u3oWQDz0JggzzsVlsuHY7XVxp5Y.jpg",
+                "release_date": "2009-10-16",
+                "title": "Black Dynamite",
+                "video": false,
+                "vote_average": 7.105,
+                "vote_count": 659,
+                "character": "Osiris",
+                "credit_id": "53bad10ec3a368324e000013",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vxhnRV7jGncAZmf0FFHMs6rFHWn.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 9591,
+                "original_language": "en",
+                "original_title": "That Thing You Do!",
+                "overview": "A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.",
+                "popularity": 3.2741,
+                "poster_path": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+                "release_date": "1996-10-04",
+                "title": "That Thing You Do!",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 874,
+                "character": "Lamarr",
+                "credit_id": "54b8bf54c3a3686c68004183",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eEN7tsCCHppGhONHngvHKSdxi7r.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 11036,
+                "original_language": "en",
+                "original_title": "The Notebook",
+                "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+                "popularity": 17.9819,
+                "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+                "release_date": "2004-05-25",
+                "title": "The Notebook",
+                "video": false,
+                "vote_average": 7.891,
+                "vote_count": 12069,
+                "character": "Band Leader",
+                "credit_id": "56a6de54c3a36819cb001736",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sBB39VMtByFltGGGW2c5N6LOAvj.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 8470,
+                "original_language": "en",
+                "original_title": "John Q",
+                "overview": "John Quincy Archibald is a father and husband whose son is diagnosed with an enlarged heart and then finds out he cannot receive a transplant because HMO insurance will not cover it. Therefore, he decides to take a hospital full of patients hostage until the hospital puts his son's name on the donor's list.",
+                "popularity": 4.8531,
+                "poster_path": "/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg",
+                "release_date": "2002-02-15",
+                "title": "John Q",
+                "video": false,
+                "vote_average": 7.137,
+                "vote_count": 2485,
+                "character": "Sgt. Moody",
+                "credit_id": "60976232356a71003ec72aed",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Obba Babatund\u00e8",
+            "Obba Babatunde"
+        ],
+        "biography": "Obba Babatund\u00e9 (born December 1, 1951) is an American actor of stage and screen, known for his Emmy-nominated performance in the television movie Miss Evers' Boys, a NAACP Image Award-nominated performance in the TV movie Introducing Dorothy Dandridge, and a Tony Award-nominated role for his performance as C.C. White in the original cast of the 1981 Broadway musical Dreamgirls.\n\nBabatund\u00e9 was a protege of Sammy Davis, Jr., who said of him, \"This is the only cat who can do everything I can do.\" Babatund\u00e9 does dance, sing, play instruments, execute impersonations, including his portrayal of Davis, aided by their similarity in energy, size and talent, tap dancing and performing on multiple instruments. In fall 2009, Babatund\u00e9 played Davis in the title role of \"Sammy: Once in a Lifetime,\" a world premiere musical at the Old Globe Theatre in San Diego.\n\nEarly in 2000, Babatund\u00e9 partnered with writer/producer Ruth Adkins Robinson for a series of TV projects including \"TV in Black: The First 50 Years,\" \"Oscar's Black Odyssey: From Hattie to Hallie\" and \"Dorthy Dandridge: An American Beauty\". The pair have projects that will take them through 2011.\n\nHis TV roles have often portrayed authority figures, such as a recurring guest-starring role as a high school principal on Dawson's Creek, an appearance as a judge in a two-part episode of Any Day Now, and as the father of the main characters on Half & Half. He also played Harvard college Dean Cain in the movie How High, as well as the role of Willie Long in the movie Life, and co-starred as an attorney in Philadelphia and as a senator in the 2004 reprise of The Manchurian Candidate. He also played the director in season 3 of Friends in an episode titled \"The One with All the Jealousy\". Other TV shows he has had recurring roles on include The Fresh Prince of Bel-Air, Chicago Hope, Rocket Power, Static Shock, and Karen Sisco. He played a small but pivotal role as a doorman/bellhop in the film That Thing You Do! and also appeared in The Wild Thornberrys Movie as the voice of Boko. He played a famous producer known as Gordy Berry on two episodes of The Fresh Prince of Bel-Air. In the 1998 miniseries, The Temptations, he played the founder of Motown Records Berry Gordy.\n\nBabatund\u00e9 is adept at American sign language and had used this talent in many roles including on one NYPD Blue.\n\nHis recorded work includes a performance with the New York pianist Onaje Allan Gumbs on the 2007 album Sack Full of Dreams. The actor/producer is also an avid horseman and is a highly regarded rider and trainer in the Rodeo Circuit, including the annual Bill Pickett Rodeol.\n\n\u200bFrom Wikipedia, the free encyclopedia",
+        "birthday": "1951-12-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 52057,
+        "imdb_id": "nm0044762",
+        "known_for_department": "Acting",
+        "name": "Obba Babatund\u00e9",
+        "place_of_birth": "Queens, New York City, New York, USA",
+        "popularity": 0.6486,
+        "profile_path": "/jkvxfhETmwR877VluO5kfbxxNER.jpg"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 10315,
+                "original_language": "en",
+                "original_title": "Fantastic Mr. Fox",
+                "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+                "popularity": 8.3104,
+                "poster_path": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+                "release_date": "2009-10-14",
+                "title": "Fantastic Mr. Fox",
+                "video": false,
+                "vote_average": 7.815,
+                "vote_count": 5780,
+                "character": "Nathan Bunce (voice)",
+                "credit_id": "53a4cede0e0a26143c0004f0",
+                "order": 7
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 120467,
+                "original_language": "en",
+                "original_title": "The Grand Budapest Hotel",
+                "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+                "popularity": 10.1235,
+                "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+                "release_date": "2014-02-26",
+                "title": "The Grand Budapest Hotel",
+                "video": false,
+                "vote_average": 8.036,
+                "vote_count": 15411,
+                "credit_id": "5319c3edc3a3685c4a003025",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 542178,
+                "original_language": "en",
+                "original_title": "The French Dispatch",
+                "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+                "popularity": 4.1191,
+                "poster_path": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+                "release_date": "2021-10-21",
+                "title": "The French Dispatch",
+                "video": false,
+                "vote_average": 7.028,
+                "vote_count": 2781,
+                "credit_id": "5e31bd74ac8e6b0015bfa5a4",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1959-09-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.hugoguinness.com/",
+        "id": 992097,
+        "imdb_id": "nm2450453",
+        "known_for_department": "Acting",
+        "name": "Hugo Guinness",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.3302,
+        "profile_path": "/2QYi8pZhzEZIJQf9bQZamYL6Lll.jpg"
+    }
+}

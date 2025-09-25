@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+                "genre_ids": [
+                    35,
+                    10402
+                ],
+                "id": 704,
+                "original_language": "en",
+                "original_title": "A Hard Day's Night",
+                "overview": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
+                "popularity": 2.4348,
+                "poster_path": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+                "release_date": "1964-07-07",
+                "title": "A Hard Day's Night",
+                "video": false,
+                "vote_average": 7.332,
+                "vote_count": 708,
+                "character": "Hotel Waiter",
+                "credit_id": "5623cd70c3a3680e1600d7be",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jXPrGgk6PypAsv8IPq8NqlQi6ts.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    10749
+                ],
+                "id": 3001,
+                "original_language": "en",
+                "original_title": "How to Steal a Million",
+                "overview": "A woman must steal a statue from a Paris museum to help conceal her father's art forgeries.",
+                "popularity": 5.0699,
+                "poster_path": "/xaf3pwmITJvfz9Ab8DiGM8OOtBC.jpg",
+                "release_date": "1966-07-13",
+                "title": "How to Steal a Million",
+                "video": false,
+                "vote_average": 7.489,
+                "vote_count": 623,
+                "character": "Insurance Clerk",
+                "credit_id": "58715a01c3a3684f0a00bf24",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Eddie Malin",
+            "Edward Ernest Malin"
+        ],
+        "biography": "",
+        "birthday": "1894-10-22",
+        "deathday": "1977-03-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 1242930,
+        "imdb_id": "nm0539625",
+        "known_for_department": "Acting",
+        "name": "Edward Malin",
+        "place_of_birth": "Hackney, London, England, UK",
+        "popularity": 0.531,
+        "profile_path": "/rrnrlFMpViTLlnHiozaTv78Z8IA.jpg"
+    }
+}

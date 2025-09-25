@@ -1,0 +1,98 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/tntH2nSeaGTOXV6CITPSvczSiXw.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 454640,
+                "original_language": "en",
+                "original_title": "The Angry Birds Movie 2",
+                "overview": "Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.",
+                "popularity": 6.0584,
+                "poster_path": "/dz3AjGWAPV4cK8lRDY0DdaVfGUK.jpg",
+                "release_date": "2019-08-02",
+                "title": "The Angry Birds Movie 2",
+                "video": false,
+                "vote_average": 7.064,
+                "vote_count": 1795,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5e91d6a33679a10013386874",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 12.7162,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 10095,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5f338bdb8a88b200359fe8b5",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 808,
+                "original_language": "en",
+                "original_title": "Shrek",
+                "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+                "popularity": 20.3424,
+                "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                "release_date": "2001-05-18",
+                "title": "Shrek",
+                "video": false,
+                "vote_average": 7.752,
+                "vote_count": 17967,
+                "credit_id": "5aa44bcbc3a3687c3201403d",
+                "department": "Sound",
+                "job": "ADR & Dubbing"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Mitch David Carter"
+        ],
+        "biography": "",
+        "birthday": "1944-09-22",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 64447,
+        "imdb_id": "nm0141831",
+        "known_for_department": "Acting",
+        "name": "Mitch Carter",
+        "place_of_birth": "USA",
+        "popularity": 0.4869,
+        "profile_path": "/pn8Q6KGE8zxlOsshdqLG34wzlNv.jpg"
+    }
+}

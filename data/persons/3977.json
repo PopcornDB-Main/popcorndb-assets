@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 280,
+                "original_language": "en",
+                "original_title": "Terminator 2: Judgment Day",
+                "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+                "popularity": 13.7182,
+                "poster_path": "/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+                "release_date": "1991-07-03",
+                "title": "Terminator 2: Judgment Day",
+                "video": false,
+                "vote_average": 8.133,
+                "vote_count": 13562,
+                "character": "Miles Dyson",
+                "credit_id": "52fe4231c3a36847f800b2a3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1637,
+                "original_language": "en",
+                "original_title": "Speed",
+                "overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3\u00a0million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...",
+                "popularity": 8.2683,
+                "poster_path": "/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg",
+                "release_date": "1994-06-09",
+                "title": "Speed",
+                "video": false,
+                "vote_average": 7.144,
+                "vote_count": 6487,
+                "character": "Capt. McMahon",
+                "credit_id": "52fe4307c3a36847f8034f9d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 4982,
+                "original_language": "en",
+                "original_title": "American Gangster",
+                "overview": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts.",
+                "popularity": 8.2396,
+                "poster_path": "/8sV6nWuKczuXRt0C6EWoXqJAj6G.jpg",
+                "release_date": "2007-11-02",
+                "title": "American Gangster",
+                "video": false,
+                "vote_average": 7.591,
+                "vote_count": 5725,
+                "character": "Charlie Williams",
+                "credit_id": "52fe43ebc3a36847f807841b",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kPlCjRGUv5okUM8Zsa3xE0sSJHI.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 17443,
+                "original_language": "en",
+                "original_title": "...And Justice for All",
+                "overview": "An ethical Baltimore defense lawyer disgusted with rampant legal corruption is forced to defend a judge he despises in a rape trial under the threat of being disbarred.",
+                "popularity": 1.5828,
+                "poster_path": "/AiAXiqN883MYQMzxeEzAtV9jkU0.jpg",
+                "release_date": "1979-10-19",
+                "title": "...And Justice for All",
+                "video": false,
+                "vote_average": 7.07,
+                "vote_count": 546,
+                "character": "Prison Doctor",
+                "credit_id": "52fe47269251416c7508f53d",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5HVwz8cImMEwcV2z1SMFyJHY51q.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9609,
+                "original_language": "en",
+                "original_title": "Of Mice and Men",
+                "overview": "Two drifters, one a gentle but slow giant, try to make money working the fields during the Depression so they can fulfill their dreams.",
+                "popularity": 3.7043,
+                "poster_path": "/qAHLUMZyoW3iwj2b01B2nKcePTA.jpg",
+                "release_date": "1992-09-16",
+                "title": "Of Mice and Men",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 681,
+                "character": "Crooks",
+                "credit_id": "5497fe289251417315002fa9",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.7837,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.11,
+                "vote_count": 10399,
+                "character": "Silas Stone",
+                "credit_id": "60144de85ad76b0040719557",
+                "order": 16
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joseph Thomas Morton, Jr.",
+            "Joseph Thomas Morton",
+            "Joseph Morton",
+            "\u062c\u0648 \u0645\u0648\u0631\u062a\u0648\u0646"
+        ],
+        "biography": "Joe Morton is an American stage, television, and film actor. He is best known for his Emmy awarded role as Eli Pope in the television series Scandal, and for playing Reverend Arthur Finer on God Friended Me. Morton studied Drama at Hofstra University, Hempstead, New York.",
+        "birthday": "1947-10-18",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3977,
+        "imdb_id": "nm0608012",
+        "known_for_department": "Acting",
+        "name": "Joe Morton",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 1.0734,
+        "profile_path": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    }
+}

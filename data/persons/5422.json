@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 406,
+                "original_language": "fr",
+                "original_title": "La Haine",
+                "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Sa\u00efd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+                "popularity": 5.141,
+                "poster_path": "/a6DGCZC2fHNr07tyRumM30ALEKE.jpg",
+                "release_date": "1995-05-31",
+                "title": "La Haine",
+                "video": false,
+                "vote_average": 8.084,
+                "vote_count": 4287,
+                "character": "Santo",
+                "credit_id": "58f3ea719251413d72017ddc",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fO0qXJnBJYuWJ5dvWWGXfRF8MXA.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 382591,
+                "original_language": "fr",
+                "original_title": "Demain tout commence",
+                "overview": "A man without attachments or responsibilities suddenly finds himself with an abandoned baby and leaves for London to try and find the mother. Eight years later after he and his daughter become inseparable Gloria's mother reappears.",
+                "popularity": 3.5512,
+                "poster_path": "/aFgtdhuzgI2eqnIVWtRB03x3pnt.jpg",
+                "release_date": "2016-12-07",
+                "title": "Two Is a Family",
+                "video": false,
+                "vote_average": 7.737,
+                "vote_count": 3008,
+                "character": "Samuel's father",
+                "credit_id": "606638f2158c850042a575c4",
+                "order": 21
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Souleymane Dicko",
+            "Solo Dicko"
+        ],
+        "biography": "",
+        "birthday": "1966-08-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5422,
+        "imdb_id": "nm0813217",
+        "known_for_department": "Acting",
+        "name": "Solo",
+        "place_of_birth": "France",
+        "popularity": 0.1351,
+        "profile_path": "/ydu1Na06GXKjARkfbdv4ulG6z6.jpg"
+    }
+}

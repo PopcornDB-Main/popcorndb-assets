@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yTgqGrzDtJPAYpWN2QrL5TTtWrr.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 11836,
+                "original_language": "en",
+                "original_title": "The SpongeBob SquarePants Movie",
+                "overview": "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it looks like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.",
+                "popularity": 7.902,
+                "poster_path": "/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg",
+                "release_date": "2004-11-19",
+                "title": "The SpongeBob SquarePants Movie",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 3048,
+                "character": "Singing Goofy Goober (voice)",
+                "credit_id": "5c0dc7c79251414f2901d94f",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    878
+                ],
+                "id": 607,
+                "original_language": "en",
+                "original_title": "Men in Black",
+                "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+                "popularity": 10.6535,
+                "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+                "release_date": "1997-07-02",
+                "title": "Men in Black",
+                "video": false,
+                "vote_average": 7.213,
+                "vote_count": 14278,
+                "character": "Frank the Pug (voice)",
+                "credit_id": "5e62d4b6357c00001334f61c",
+                "order": 39
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1959-04-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1036563,
+        "imdb_id": "nm0087456",
+        "known_for_department": "Acting",
+        "name": "Tim Blaney",
+        "place_of_birth": "Connecticut, USA",
+        "popularity": 0.7829,
+        "profile_path": "/t0KK9MfZTgpLHYWDit18exJlhgW.jpg"
+    }
+}

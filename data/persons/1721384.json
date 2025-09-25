@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/q2Ev0aXGXm5Hnm12TVtvdgNhMnv.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    12
+                ],
+                "id": 285783,
+                "original_language": "en",
+                "original_title": "The Walk",
+                "overview": "The story of French high-wire artist Philippe Petit's attempt to cross the Twin Towers of the World Trade Center in 1974.",
+                "popularity": 2.3865,
+                "poster_path": "/tiESRqurrZwAC0hpERogOsBhjeg.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Walk",
+                "video": false,
+                "vote_average": 6.995,
+                "vote_count": 3270,
+                "character": "Portly Photographer",
+                "credit_id": "584d5aef9251411e2600b1ce",
+                "order": 38
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Vlad Stokanic"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.glenntalent.ca/artist/stokanic-vlado/",
+        "id": 1721384,
+        "imdb_id": "nm4018621",
+        "known_for_department": "Acting",
+        "name": "Vlado Stokanic",
+        "place_of_birth": null,
+        "popularity": 0.456,
+        "profile_path": "/dzrfmiNhIav8hjz2yfZHAnuFiLx.jpg"
+    }
+}

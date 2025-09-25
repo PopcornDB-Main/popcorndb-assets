@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 557,
+                "original_language": "en",
+                "original_title": "Spider-Man",
+                "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+                "popularity": 23.6392,
+                "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+                "release_date": "2002-05-01",
+                "title": "Spider-Man",
+                "video": false,
+                "vote_average": 7.316,
+                "vote_count": 19899,
+                "character": "Teacher",
+                "credit_id": "52fe4251c3a36847f8014f31",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kWYHKVCl2aD3kRco4eRUr4h6LsD.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752,
+                    28
+                ],
+                "id": 2024,
+                "original_language": "en",
+                "original_title": "The Patriot",
+                "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                "popularity": 12.2458,
+                "poster_path": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+                "release_date": "2000-06-28",
+                "title": "The Patriot",
+                "video": false,
+                "vote_average": 7.181,
+                "vote_count": 4089,
+                "character": "Joshua",
+                "credit_id": "5acd618dc3a3687e72033d7b",
+                "order": 26
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 20583,
+        "imdb_id": "nm0400186",
+        "known_for_department": "Acting",
+        "name": "Shan Omar Huey",
+        "place_of_birth": null,
+        "popularity": 0.1788,
+        "profile_path": null
+    }
+}

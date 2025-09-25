@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/n4CvA50GBtIPrSqCl8nMNZCliYI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 7214,
+                "original_language": "en",
+                "original_title": "Coach Carter",
+                "overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+                "popularity": 4.4694,
+                "poster_path": "/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
+                "release_date": "2005-01-14",
+                "title": "Coach Carter",
+                "video": false,
+                "vote_average": 7.578,
+                "vote_count": 3119,
+                "character": "Ty Crane",
+                "credit_id": "62c60d498ec4ab01a93f2fa9",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2242508,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Sidney Faison",
+        "place_of_birth": null,
+        "popularity": 0.0552,
+        "profile_path": null
+    }
+}

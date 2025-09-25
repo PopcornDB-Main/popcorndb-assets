@@ -1,0 +1,181 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cSHie9qJvujqN4tYq6gx88WDf7o.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 576,
+                "original_language": "en",
+                "original_title": "The Wild Bunch",
+                "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+                "popularity": 4.049,
+                "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+                "release_date": "1969-06-19",
+                "title": "The Wild Bunch",
+                "video": false,
+                "vote_average": 7.61,
+                "vote_count": 1264,
+                "character": "Pike Bishop",
+                "credit_id": "52fe4255c3a36847f8015ec9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 599,
+                "original_language": "en",
+                "original_title": "Sunset Boulevard",
+                "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+                "popularity": 5.7842,
+                "poster_path": "/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+                "release_date": "1950-08-10",
+                "title": "Sunset Boulevard",
+                "video": false,
+                "vote_average": 8.293,
+                "vote_count": 2743,
+                "character": "Joe Gillis",
+                "credit_id": "52fe425ac3a36847f8017c21",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rM3C9s0b9oiOQDdrfLSOoE0sjWl.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10752
+                ],
+                "id": 632,
+                "original_language": "en",
+                "original_title": "Stalag 17",
+                "overview": "It's a dreary Christmas 1944 for the American POWs in Stalag 17 and the men in Barracks 4, all sergeants, have to deal with a grave problem\u2014there seems to be a security leak.",
+                "popularity": 3.9468,
+                "poster_path": "/lfve9FDKjT7JPbWI9NCs5340F79.jpg",
+                "release_date": "1953-05-29",
+                "title": "Stalag 17",
+                "video": false,
+                "vote_average": 7.695,
+                "vote_count": 628,
+                "character": "Sgt. J.J. Sefton",
+                "credit_id": "52fe4261c3a36847f8019d5b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/EcQKZcVYZ8EjK3eN1quPvkMrL9.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 826,
+                "original_language": "en",
+                "original_title": "The Bridge on the River Kwai",
+                "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+                "popularity": 4.3162,
+                "poster_path": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+                "release_date": "1957-10-11",
+                "title": "The Bridge on the River Kwai",
+                "video": false,
+                "vote_average": 7.818,
+                "vote_count": 2229,
+                "character": "Cmdr. Shears",
+                "credit_id": "52fe427dc3a36847f8022aa5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/of6OQnsvPHXEASczrBc3nVsMZ7q.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10774,
+                "original_language": "en",
+                "original_title": "Network",
+                "overview": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
+                "popularity": 3.8792,
+                "poster_path": "/gZ8hhuVEQ78CLND09trZJ45Eiy8.jpg",
+                "release_date": "1976-11-14",
+                "title": "Network",
+                "video": false,
+                "vote_average": 7.812,
+                "vote_count": 1878,
+                "character": "Max Schumacher",
+                "credit_id": "52fe43b49251416c7501aee7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 5919,
+                "original_language": "en",
+                "original_title": "The Towering Inferno",
+                "overview": "At the opening party of a colossal\u2014but poorly constructed\u2014skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+                "popularity": 4.4211,
+                "poster_path": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+                "release_date": "1974-12-14",
+                "title": "The Towering Inferno",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 975,
+                "character": "Jim Duncan",
+                "credit_id": "52fe442dc3a36847f8086dd5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ftNimlo6fP4WKRMWnF1ghX4fPUy.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 6620,
+                "original_language": "en",
+                "original_title": "Sabrina",
+                "overview": "Linus and David Larrabee are the two sons of a very wealthy family. Linus is all work \u2013 busily running the family corporate empire, he has no time for a wife and family. David is all play \u2013 technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to capture David's attention, while falling in love with Linus.",
+                "popularity": 4.2015,
+                "poster_path": "/86ix9wBxiMAaISt4HpmXQm6Mlym.jpg",
+                "release_date": "1954-09-01",
+                "title": "Sabrina",
+                "video": false,
+                "vote_average": 7.505,
+                "vote_count": 1294,
+                "character": "David Larrabee",
+                "credit_id": "52fe445fc3a36847f8091fd1",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "William Franklin Beedle Jr.",
+            "\u0648\u06cc\u0644\u06cc\u0627\u0645 \u0647\u0648\u0644\u062f\u0646"
+        ],
+        "biography": "William Holden (April 17, 1918 \u2013 November 12, 1981) was an American actor. He won the Academy Award for Best Actor in 1953 and the Emmy Award for Best Actor in 1974. One of the biggest box office draws of the 1950s, he was named one of the \"Top 10 Stars of the Year\" six times (1954\u20131958, 1961) and appeared on the American Film Institute's AFI's 100 Years\u2026100 Stars list as #25.",
+        "birthday": "1918-04-17",
+        "deathday": "1981-11-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 8252,
+        "imdb_id": "nm0000034",
+        "known_for_department": "Acting",
+        "name": "William Holden",
+        "place_of_birth": "O'Fallon, Illinois, USA",
+        "popularity": 0.6829,
+        "profile_path": "/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg"
+    }
+}

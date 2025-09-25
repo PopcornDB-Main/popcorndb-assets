@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 638,
+                "original_language": "en",
+                "original_title": "Lost Highway",
+                "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelg\u00e4ngers, and an impossible transformation inside a prison cell.",
+                "popularity": 4.8435,
+                "poster_path": "/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+                "release_date": "1997-01-15",
+                "title": "Lost Highway",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2779,
+                "character": "Doctor Smordin",
+                "credit_id": "52fe4262c3a36847f801a297",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.8396,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "character": "Dr. Hugo Bronfenbrenner",
+                "credit_id": "6390e411d34eb3007c14095a",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1932-09-03",
+        "deathday": "2001-01-26",
+        "gender": 2,
+        "homepage": null,
+        "id": 9294,
+        "imdb_id": "nm0126007",
+        "known_for_department": "Acting",
+        "name": "David Byrd",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.1609,
+        "profile_path": "/foS0mfzOAq1MdhgJ9wMfqqbzLnq.jpg"
+    }
+}

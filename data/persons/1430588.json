@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.5191,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Ewok",
+                "credit_id": "54eb2b6d9251416824003c13",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 847,
+                "original_language": "en",
+                "original_title": "Willow",
+                "overview": "The evil Queen Bavmorda hunts the newborn princess Elora Danan, a child prophesied to bring about her downfall. When the royal infant is found by Willow, a timid farmer and aspiring sorcerer, he's entrusted with delivering her from evil.",
+                "popularity": 3.721,
+                "poster_path": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+                "release_date": "1988-05-20",
+                "title": "Willow",
+                "video": false,
+                "vote_average": 7.009,
+                "vote_count": 2039,
+                "character": "Nelwyn Villager (uncredited)",
+                "credit_id": "600d9fbed55c3d003e72e089",
+                "order": 41
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "John Cumming is an actor.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1430588,
+        "imdb_id": "nm0191823",
+        "known_for_department": "Acting",
+        "name": "John Cumming",
+        "place_of_birth": null,
+        "popularity": 0.0297,
+        "profile_path": null
+    }
+}

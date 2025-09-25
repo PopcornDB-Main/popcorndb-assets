@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/u9ZLyLvqHY5VDjn0Rs4LKAklsAV.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 840,
+                "original_language": "en",
+                "original_title": "Close Encounters of the Third Kind",
+                "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+                "popularity": 5.3436,
+                "poster_path": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+                "release_date": "1977-12-14",
+                "title": "Close Encounters of the Third Kind",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4401,
+                "character": "Federale",
+                "credit_id": "52fe427fc3a36847f802354f",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/djRD1jAXkUEQIFnG6fFFQAh9LD4.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18,
+                    28
+                ],
+                "id": 10518,
+                "original_language": "en",
+                "original_title": "Marathon Man",
+                "overview": "A graduate student and obsessive runner in New York is drawn into a mysterious plot involving his brother, a member of the secretive Division.",
+                "popularity": 2.7391,
+                "poster_path": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+                "release_date": "1976-10-08",
+                "title": "Marathon Man",
+                "video": false,
+                "vote_average": 7.175,
+                "vote_count": 1146,
+                "character": "Guard in Uruguay",
+                "credit_id": "6341a2c0a5743d007e5662c0",
+                "order": 31
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Chuey Franco"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1151582,
+        "imdb_id": "nm0290521",
+        "known_for_department": "Acting",
+        "name": "Chuy Franco",
+        "place_of_birth": null,
+        "popularity": 0.2667,
+        "profile_path": null
+    }
+}

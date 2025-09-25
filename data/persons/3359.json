@@ -1,0 +1,191 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/i8fiqKaQklF02VmQYhSxmwa8KOH.jpg",
+                "genre_ids": [
+                    9648,
+                    10749,
+                    53
+                ],
+                "id": 223,
+                "original_language": "en",
+                "original_title": "Rebecca",
+                "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+                "popularity": 2.5313,
+                "poster_path": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+                "release_date": "1940-03-23",
+                "title": "Rebecca",
+                "video": false,
+                "vote_average": 7.899,
+                "vote_count": 1869,
+                "character": "Maxim de Winter",
+                "credit_id": "52fe4228c3a36847f80088b3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+                "genre_ids": [
+                    36,
+                    10752,
+                    18,
+                    12
+                ],
+                "id": 967,
+                "original_language": "en",
+                "original_title": "Spartacus",
+                "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+                "popularity": 6.0939,
+                "poster_path": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+                "release_date": "1960-10-13",
+                "title": "Spartacus",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 2262,
+                "character": "Marcus Licinius Crassus",
+                "credit_id": "52fe4294c3a36847f8029d43",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hz0otaeBaQVCFjaqIcCEY2QbLVt.jpg",
+                "genre_ids": [
+                    53,
+                    9648,
+                    80
+                ],
+                "id": 993,
+                "original_language": "en",
+                "original_title": "Sleuth",
+                "overview": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.",
+                "popularity": 2.794,
+                "poster_path": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+                "release_date": "1972-12-10",
+                "title": "Sleuth",
+                "video": false,
+                "vote_average": 7.675,
+                "vote_count": 656,
+                "character": "Andrew Wyke",
+                "credit_id": "52fe4297c3a36847f802ab87",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/djRD1jAXkUEQIFnG6fFFQAh9LD4.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18,
+                    28
+                ],
+                "id": 10518,
+                "original_language": "en",
+                "original_title": "Marathon Man",
+                "overview": "A graduate student and obsessive runner in New York is drawn into a mysterious plot involving his brother, a member of the secretive Division.",
+                "popularity": 3.4461,
+                "poster_path": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+                "release_date": "1976-10-08",
+                "title": "Marathon Man",
+                "video": false,
+                "vote_average": 7.174,
+                "vote_count": 1145,
+                "character": "Dr. Christian Szell",
+                "credit_id": "52fe437f9251416c75012a19",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ozo1BNadCZ2w0rRf1e4ioOnIEqf.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 10323,
+                "original_language": "en",
+                "original_title": "Clash of the Titans",
+                "overview": "To win the right to marry his love, the beautiful princess Andromeda, and fulfil his destiny, half-God-half-mortal Perseus must complete various tasks including taming Pegasus, capturing Medusa's head and battling the feared Kraken.",
+                "popularity": 3.562,
+                "poster_path": "/5JCLODNLJH6alc3KmyoiC21Nlob.jpg",
+                "release_date": "1981-06-12",
+                "title": "Clash of the Titans",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 807,
+                "character": "Zeus",
+                "credit_id": "52fe43599251416c7500cf0f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1oRug23GWxgyQmqQGbX7ke974lp.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 5902,
+                "original_language": "en",
+                "original_title": "A Bridge Too Far",
+                "overview": "The story of Operation Market Garden\u2014a failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+                "popularity": 8.766,
+                "poster_path": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+                "release_date": "1977-06-15",
+                "title": "A Bridge Too Far",
+                "video": false,
+                "vote_average": 7.226,
+                "vote_count": 866,
+                "character": "Dr. Jan Spaander",
+                "credit_id": "52fe442bc3a36847f80866a1",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 6003,
+                "original_language": "en",
+                "original_title": "Romeo and Juliet",
+                "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+                "popularity": 2.9925,
+                "poster_path": "/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+                "release_date": "1968-04-02",
+                "title": "Romeo and Juliet",
+                "video": false,
+                "vote_average": 7.417,
+                "vote_count": 696,
+                "character": "Narrator (voice) (uncredited)",
+                "credit_id": "56ac0ff99251417e140043be",
+                "order": 22
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u041b\u043e\u0443\u0440\u0435\u043d\u0441 \u041e\u043b\u0438\u0432\u044c\u0435",
+            "Sir Laurence Olivier",
+            "Laurence Kerr Olivier",
+            "\u041b\u043e\u0443\u0440\u0435\u043d\u0441 \u041e\u043b\u0456\u0432\u02bc\u0454",
+            "\u0644\u0627\u0631\u0646\u0633 \u0627\u0644\u06cc\u0648\u06cc\u0647"
+        ],
+        "biography": "Laurence Kerr Olivier, Baron Olivier, OM was an English actor and director who, along with his contemporaries Ralph Richardson, Peggy Ashcroft and John Gielgud, dominated the British stage of the mid-20th century. He also worked in films throughout his career, playing more than fifty cinema roles. Late in his career, he had considerable success in television roles.\n\nHis family had no theatrical connections, but Olivier's father, a clergyman, decided that his son should become an actor. After attending a drama school in London, Olivier learned his craft in a succession of acting jobs during the late 1920s. In 1930 he had his first important West End success in No\u00ebl Coward's Private Lives, and he appeared in his first film. In 1935 he played in a celebrated production of Romeo and Juliet alongside Gielgud and Ashcroft, and by the end of the decade he was an established star. In the 1940s, together with Richardson and John Burrell, Olivier was the co-director of the Old Vic, building it into a highly respected company. There his most celebrated roles included Shakespeare's Richard III and Sophocles's Oedipus. In the 1950s Olivier was an independent actor-manager, but his stage career was in the doldrums until he joined the avant garde English Stage Company in 1957 to play the title role in The Entertainer, a part he later played on film. From 1963 to 1973 he was the founding director of Britain's National Theatre, running a resident company that fostered many future stars. His own parts there included the title role in Othello (1965) and Shylock in The Merchant of Venice (1970).\n\nAmong Olivier's films are Wuthering Heights (1939), Rebecca (1940), and a trilogy of Shakespeare films as actor-director: Henry V (1944), Hamlet (1948), and Richard III (1955). His later films included The Shoes of the Fisherman (1968), Sleuth (1972), Marathon Man (1976), and The Boys from Brazil (1978). His television appearances included an adaptation of The Moon and Sixpence (1960), Long Day's Journey into Night (1973), Love Among the Ruins (1975), Cat on a Hot Tin Roof (1976), Brideshead Revisited (1981) and King Lear (1983).\n\nOlivier's honours included a knighthood (1947), a life peerage (1970) and the Order of Merit (1981). For his on-screen work he received four Academy Awards, two British Academy Film Awards, five Emmy Awards and three Golden Globe Awards. The National Theatre's largest auditorium is named in his honour, and he is commemorated in the Laurence Olivier Awards, given annually by the Society of London Theatre. He was married three times, to the actresses Jill Esmond from 1930 to 1940, Vivien Leigh from 1940 to 1960, and Joan Plowright from 1961 until his death.\n\nDescription above from the Wikipedia article Laurence Olivier, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1907-05-22",
+        "deathday": "1989-07-11",
+        "gender": 2,
+        "homepage": "https://www.laurenceolivier.com/",
+        "id": 3359,
+        "imdb_id": "nm0000059",
+        "known_for_department": "Acting",
+        "name": "Laurence Olivier",
+        "place_of_birth": "Dorking, Surrey, England, UK",
+        "popularity": 1.0194,
+        "profile_path": "/kziWbtgEJB0dFZA6kPyzoaYEyQ5.jpg"
+    }
+}

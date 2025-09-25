@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.3835,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Ewok",
+                "credit_id": "54ec2a4fc3a3686d660011e0",
+                "order": 75
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 13597,
+                "original_language": "en",
+                "original_title": "Labyrinth",
+                "overview": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King who whisks Toby away to his castle at the center of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
+                "popularity": 5.8337,
+                "poster_path": "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+                "release_date": "1986-06-27",
+                "title": "Labyrinth",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 2570,
+                "character": "Goblin Corps",
+                "credit_id": "5de2dcad3faba000150bf6b2",
+                "order": 56
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Peter Mandell is an actor.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 362851,
+        "imdb_id": "nm0541741",
+        "known_for_department": "Acting",
+        "name": "Peter Mandell",
+        "place_of_birth": null,
+        "popularity": 0.5425,
+        "profile_path": "/qa2FpKTRKRjewJM3bRIPsWIyC8y.jpg"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 10474,
+                "original_language": "en",
+                "original_title": "The Basketball Diaries",
+                "overview": "A high school basketball player\u2019s life turns upside down after free-falling into the harrowing world of drug addiction.",
+                "popularity": 5.217,
+                "poster_path": "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+                "release_date": "1995-04-21",
+                "title": "The Basketball Diaries",
+                "video": false,
+                "vote_average": 7.407,
+                "vote_count": 2093,
+                "character": "Manny",
+                "credit_id": "52fe43779251416c750116cb",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 769,
+                "original_language": "en",
+                "original_title": "GoodFellas",
+                "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+                "popularity": 15.4085,
+                "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                "release_date": "1990-09-12",
+                "title": "GoodFellas",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 13625,
+                "character": "Gambling Doorman",
+                "credit_id": "56048bdcc3a3685c4200014c",
+                "order": 64
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 163985,
+        "imdb_id": "nm0019080",
+        "known_for_department": "Acting",
+        "name": "Manny Alfaro",
+        "place_of_birth": null,
+        "popularity": 0.0973,
+        "profile_path": "/uDwLeHYpCRD9RGLaDRfUDQnquSU.jpg"
+    }
+}

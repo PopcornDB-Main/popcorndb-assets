@@ -1,0 +1,208 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 11,
+                "original_language": "en",
+                "original_title": "Star Wars",
+                "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+                "popularity": 16.2268,
+                "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+                "release_date": "1977-05-25",
+                "title": "Star Wars",
+                "video": false,
+                "vote_average": 8.206,
+                "vote_count": 21485,
+                "character": "Chief Jawa",
+                "credit_id": "52fe420dc3a36847f800049f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1891,
+                "original_language": "en",
+                "original_title": "The Empire Strikes Back",
+                "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+                "popularity": 6.9175,
+                "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+                "release_date": "1980-05-20",
+                "title": "The Empire Strikes Back",
+                "video": false,
+                "vote_average": 8.395,
+                "vote_count": 17683,
+                "character": "Chief Ugnaught",
+                "credit_id": "52fe431ec3a36847f803bba5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 8.5191,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 16311,
+                "character": "Teebo",
+                "credit_id": "54e9f40ec3a36836d6003bc5",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9IYyCLf5NNAQFK9pNtqzEU9HWzM.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 68,
+                "original_language": "en",
+                "original_title": "Brazil",
+                "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+                "popularity": 4.5109,
+                "poster_path": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+                "release_date": "1985-02-20",
+                "title": "Brazil",
+                "video": false,
+                "vote_average": 7.67,
+                "vote_count": 3484,
+                "character": "Dr. Chapman",
+                "credit_id": "58857a1ec3a3684d5d0014bf",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mBh3NXCkSCasZGovzAuc9UlFCru.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    35
+                ],
+                "id": 14506,
+                "original_language": "en",
+                "original_title": "The Adventures of Baron Munchausen",
+                "overview": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+                "popularity": 4.2656,
+                "poster_path": "/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+                "release_date": "1988-12-07",
+                "title": "The Adventures of Baron Munchausen",
+                "video": false,
+                "vote_average": 6.967,
+                "vote_count": 947,
+                "character": "Jeremy / Gustavus",
+                "credit_id": "58864e7992514111a90007f7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 847,
+                "original_language": "en",
+                "original_title": "Willow",
+                "overview": "The evil Queen Bavmorda hunts the newborn princess Elora Danan, a child prophesied to bring about her downfall. When the royal infant is found by Willow, a timid farmer and aspiring sorcerer, he's entrusted with delivering her from evil.",
+                "popularity": 3.721,
+                "poster_path": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+                "release_date": "1988-05-20",
+                "title": "Willow",
+                "video": false,
+                "vote_average": 7.009,
+                "vote_count": 2039,
+                "character": "Nelwyn Band Member (uncredited)",
+                "credit_id": "5db4ecd23faba0001933d2c8",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 13597,
+                "original_language": "en",
+                "original_title": "Labyrinth",
+                "overview": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King who whisks Toby away to his castle at the center of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
+                "popularity": 6.3145,
+                "poster_path": "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+                "release_date": "1986-06-27",
+                "title": "Labyrinth",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 2570,
+                "character": "Goblin Corps",
+                "credit_id": "5db4ed16d40d4c0012fbaa3b",
+                "order": 54
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 4.3788,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1186,
+                "character": "Additional Performer",
+                "credit_id": "5db4ed4b25a5360011e45f07",
+                "order": 14
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jackie Purves"
+        ],
+        "biography": "Jack Purvis was a British film actor. Purvis was a dwarf, and thus was mainly cast in roles requiring actors of short stature. Purvis appeared as a different alien creature in each of the three films of the original Star Wars trilogy, and also appeared in three of director Terry Gilliam's early fantasy films: Time Bandits, Brazil, and The Adventures of Baron Munchausen. Several years before his death, Purvis became quadriplegic after breaking his neck in a car accident. He died in November 1997 at the age of 60.",
+        "birthday": "1937-07-13",
+        "deathday": "1997-11-21",
+        "gender": 2,
+        "homepage": null,
+        "id": 132538,
+        "imdb_id": "nm0701023",
+        "known_for_department": "Acting",
+        "name": "Jack Purvis",
+        "place_of_birth": "London, England, UK",
+        "popularity": 0.8864,
+        "profile_path": "/cvrq0WtEi4NWbiqjr2oevG2ye3C.jpg"
+    }
+}

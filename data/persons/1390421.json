@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3CcO4QdasRCitq2dczOpx7CXgLM.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    18
+                ],
+                "id": 12837,
+                "original_language": "en",
+                "original_title": "The Secret Life of Bees",
+                "overview": "Set in South Carolina in 1964, this is the tale of Lily Owens a 14 year-old girl who is haunted by the memory of her late mother. To escape her lonely life and troubled relationship with her father, Lily flees with Rosaleen, her caregiver and only friend, to a South Carolina town that holds the secret to her mother's past.",
+                "popularity": 4.0251,
+                "poster_path": "/m1LGEeoYfc6crbfG8WmTKg9SVqL.jpg",
+                "release_date": "2008-09-17",
+                "title": "The Secret Life of Bees",
+                "video": false,
+                "vote_average": 7.478,
+                "vote_count": 549,
+                "character": "Young Lily",
+                "credit_id": "5f70b0c5d55e4d00378a2f43",
+                "order": 15
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Adrian 'Addy' Miller"
+        ],
+        "biography": "",
+        "birthday": "2000-01-04",
+        "deathday": null,
+        "gender": 1,
+        "homepage": "http://addymiller.blogspot.com",
+        "id": 1390421,
+        "imdb_id": "nm2900452",
+        "known_for_department": "Acting",
+        "name": "Addy Miller",
+        "place_of_birth": "North Carolina, USA",
+        "popularity": 0.4894,
+        "profile_path": "/dlwq2KCKGQTKUoEW6uptRSLi6qQ.jpg"
+    }
+}

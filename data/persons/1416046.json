@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749
+                ],
+                "id": 770,
+                "original_language": "en",
+                "original_title": "Gone with the Wind",
+                "overview": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+                "popularity": 7.332,
+                "poster_path": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+                "release_date": "1939-12-15",
+                "title": "Gone with the Wind",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 4191,
+                "character": "Extra (uncredited)",
+                "credit_id": "555ab766c3a368778200ec56",
+                "order": 104
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.8661,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 1117,
+                "character": "(uncredited)",
+                "credit_id": "555f2cabc3a3683d130017ed",
+                "order": 164
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eMgflonfRY89Zj4LZykJKPpG4wg.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 596,
+                "original_language": "en",
+                "original_title": "The Grapes of Wrath",
+                "overview": "Tom Joad returns to his home after a jail sentence to find his family kicked out of their farm due to foreclosure. He catches up with them on his Uncle\u2019s farm, and joins them the next day as they head for California and a new life... Hopefully.",
+                "popularity": 5.0306,
+                "poster_path": "/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+                "release_date": "1940-03-15",
+                "title": "The Grapes of Wrath",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 1042,
+                "character": "Boy (uncredited)",
+                "credit_id": "684f092e7a1db9c21a294f7e",
+                "order": 124
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1416046,
+        "imdb_id": "nm1124727",
+        "known_for_department": "Acting",
+        "name": "Spencer Quinn",
+        "place_of_birth": null,
+        "popularity": 0.0533,
+        "profile_path": null
+    }
+}

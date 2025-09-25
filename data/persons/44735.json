@@ -1,0 +1,184 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3ZjxENlw4HXioGGwhqaJrvdEXKo.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10707,
+                "original_language": "en",
+                "original_title": "The Squid and the Whale",
+                "overview": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+                "popularity": 8.0392,
+                "poster_path": "/h4FMTKrWgwSUQTSbMnSA4ECKzl2.jpg",
+                "release_date": "2005-10-05",
+                "title": "The Squid and the Whale",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1020,
+                "character": "Walt Berkman",
+                "credit_id": "52fe43a69251416c75018ac7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 37799,
+                "original_language": "en",
+                "original_title": "The Social Network",
+                "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+                "popularity": 8.9012,
+                "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+                "release_date": "2010-10-01",
+                "title": "The Social Network",
+                "video": false,
+                "vote_average": 7.37,
+                "vote_count": 12633,
+                "character": "Mark Zuckerberg",
+                "credit_id": "52fe466f9251416c910546cb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 19908,
+                "original_language": "en",
+                "original_title": "Zombieland",
+                "overview": "Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.",
+                "popularity": 7.8902,
+                "poster_path": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+                "release_date": "2009-10-02",
+                "title": "Zombieland",
+                "video": false,
+                "vote_average": 7.258,
+                "vote_count": 12680,
+                "character": "Columbus",
+                "credit_id": "52fe47f89251416c750ab947",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 75656,
+                "original_language": "en",
+                "original_title": "Now You See Me",
+                "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+                "popularity": 10.6086,
+                "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+                "release_date": "2013-05-29",
+                "title": "Now You See Me",
+                "video": false,
+                "vote_average": 7.333,
+                "vote_count": 16011,
+                "character": "J. Daniel Atlas",
+                "credit_id": "52fe490bc3a368484e117c75",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jfesUBA5dUxlPw2E1M7fCahTHG8.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 249688,
+                "original_language": "en",
+                "original_title": "The End of the Tour",
+                "overview": "The story of the five-day interview between Rolling Stone reporter David Lipsky and acclaimed novelist David Foster Wallace, which took place right after the 1996 publication of Wallace's groundbreaking epic novel, 'Infinite Jest.'",
+                "popularity": 2.8446,
+                "poster_path": "/3fEuVd8Xorwtk5kFVvyiNlOtcIw.jpg",
+                "release_date": "2015-07-31",
+                "title": "The End of the Tour",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 586,
+                "character": "David Lipsky",
+                "credit_id": "52fe4f49c3a36847f82cab6d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    28
+                ],
+                "id": 338967,
+                "original_language": "en",
+                "original_title": "Zombieland: Double Tap",
+                "overview": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+                "popularity": 6.5122,
+                "poster_path": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+                "release_date": "2019-10-09",
+                "title": "Zombieland: Double Tap",
+                "video": false,
+                "vote_average": 6.916,
+                "vote_count": 5973,
+                "character": "Columbus",
+                "credit_id": "5ad39e1fc3a3685c31003736",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.7837,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.11,
+                "vote_count": 10399,
+                "character": "Lex Luthor",
+                "credit_id": "60144bf75b4fed003e9f41fb",
+                "order": 10
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jesse Adam Eisenberg",
+            "\uc81c\uc2dc \uc544\uc774\uc820\ubc84\uadf8",
+            "\u6770\u897f\u30fb\u827e\u68ee\u4f2f\u683c",
+            "\u0414\u0436\u0435\u0441\u0441\u0456 \u0410\u0439\u0437\u0435\u043d\u0431\u0435\u0440\u0433",
+            "\u062c\u0633\u06cc \u0622\u06cc\u0632\u0646\u0628\u0631\u06af",
+            "\u5091\u897f\u827e\u68ee\u67cf\u683c"
+        ],
+        "biography": "Jesse Adam Eisenberg\u00a0is an American actor and filmmaker. He has received\u00a0numerous accolades, including nominations for two\u00a0Academy Awards, three\u00a0BAFTA Awards, and three\u00a0Golden Globe Awards.\n\nEisenberg debuted on television with the short-lived comedy-drama \u00a0Get Real\u00a0(1999\u20132000). Following his first leading role in the film\u00a0Roger Dodger\u00a0(2002), he starred in films such as\u00a0The Squid and the Whale\u00a0(2005),\u00a0Adventureland(2009) and\u00a0Zombieland\u00a0(2009). He gained wider recognition for starring as\u00a0Facebook\u00a0founder\u00a0Mark Zuckerberg\u00a0in\u00a0David Fincher's film\u00a0The Social Network\u00a0(2010), for which he was nominated for the\u00a0Academy Award for Best Actor. Eisenberg then starred in the\u00a0Woody Allen\u00a0films\u00a0To Rome with Love\u00a0(2012) and\u00a0Caf\u00e9 Society\u00a0(2016), the heist films\u00a0Now You See Me\u00a0(2013) and its\u00a02016 sequel, and independent dramas such as\u00a0The Double\u00a0(2013).\n\nHe portrayed\u00a0Lex Luthor\u00a0in the superhero film\u00a0Batman v Superman: Dawn of Justice\u00a0(2016) and had a lead voice role in the animated films\u00a0Rio(2011) and\u00a0Rio 2\u00a0(2014). In 2022, he starred in the\u00a0FX / Hulu\u00a0miniseries\u00a0Fleishman Is in Trouble. He made his film directorial debut with the black comedy\u00a0When You Finish Saving the World. He has since directed, written, and starred in\u00a0A Real Pain\u00a0(2024), which earned him a nomination for the\u00a0Academy Award for Best Original Screenplay.\n\nEisenberg has contributed pieces to \u00a0The New Yorker\u00a0and\u00a0McSweeney's websites. He has written and starred in three plays for the New York stage:\u00a0Asuncion,\u00a0The Revisionist, and\u00a0The Spoils. He released his first book,\u00a0Bream Gives Me Hiccups: and Other Stories in 2015.",
+        "birthday": "1983-10-05",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 44735,
+        "imdb_id": "nm0251986",
+        "known_for_department": "Acting",
+        "name": "Jesse Eisenberg",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 1.7185,
+        "profile_path": "/8BMnXLVJDysMO1E8JCAyOFv2QAb.jpg"
+    }
+}

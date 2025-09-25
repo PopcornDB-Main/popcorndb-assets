@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6JU2ysRVOHqav0Hs6BUv4mvvDxZ.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 646389,
+                "original_language": "en",
+                "original_title": "Plane",
+                "overview": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+                "popularity": 7.708,
+                "poster_path": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+                "release_date": "2023-01-11",
+                "title": "Plane",
+                "video": false,
+                "vote_average": 6.916,
+                "vote_count": 2465,
+                "character": "Maxwell Carver",
+                "credit_id": "612e0fd0a135330061477712",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+                "genre_ids": [
+                    10749,
+                    878,
+                    53
+                ],
+                "id": 950396,
+                "original_language": "en",
+                "original_title": "The Gorge",
+                "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+                "popularity": 35.4167,
+                "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+                "release_date": "2025-02-13",
+                "title": "The Gorge",
+                "video": false,
+                "vote_average": 7.698,
+                "vote_count": 3010,
+                "character": "Crewman",
+                "credit_id": "67af99819669ff44cc3b750d",
+                "order": 9
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u30aa\u30ea\u30d0\u30fc\u30fb\u30c8\u30ec\u30f4\u30a7\u30ca"
+        ],
+        "biography": "",
+        "birthday": "1981-05-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1395206,
+        "imdb_id": "nm3165541",
+        "known_for_department": "Acting",
+        "name": "Oliver Trevena",
+        "place_of_birth": "Hastings, East Sussex, England, UK",
+        "popularity": 0.331,
+        "profile_path": "/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg"
+    }
+}

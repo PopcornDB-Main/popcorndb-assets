@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 17.5505,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 10314,
+                "character": "Doctor",
+                "credit_id": "6470e59877070000c25860fe",
+                "order": 59
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 505600,
+                "original_language": "en",
+                "original_title": "Booksmart",
+                "overview": "Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.",
+                "popularity": 4.2465,
+                "poster_path": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+                "release_date": "2019-05-24",
+                "title": "Booksmart",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 2722,
+                "character": "George's Mom",
+                "credit_id": "5ce8bd430e0a2661d1c99ded",
+                "order": 19
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1965-04-23",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1571604,
+        "imdb_id": "nm1967930",
+        "known_for_department": "Acting",
+        "name": "Deb Hiett",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.3241,
+        "profile_path": "/dD5RdZwhCQtaiJYjQvDcXd9MuFw.jpg"
+    }
+}

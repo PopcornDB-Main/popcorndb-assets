@@ -1,0 +1,371 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 24428,
+                "original_language": "en",
+                "original_title": "The Avengers",
+                "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                "popularity": 42.9973,
+                "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+                "release_date": "2012-04-25",
+                "title": "The Avengers",
+                "video": false,
+                "vote_average": 7.804,
+                "vote_count": 33051,
+                "character": "Thor",
+                "credit_id": "52fe4495c3a368484e02b1a5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 13475,
+                "original_language": "en",
+                "original_title": "Star Trek",
+                "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "popularity": 9.6898,
+                "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+                "release_date": "2009-05-06",
+                "title": "Star Trek",
+                "video": false,
+                "vote_average": 7.426,
+                "vote_count": 10139,
+                "character": "Commander George Kirk",
+                "credit_id": "52fe456c9251416c7505619d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    12,
+                    10751
+                ],
+                "id": 698687,
+                "original_language": "en",
+                "original_title": "Transformers One",
+                "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+                "popularity": 11.3434,
+                "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+                "release_date": "2024-09-11",
+                "title": "Transformers One",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 1378,
+                "character": "Orion Pax / Optimus Prime (voice)",
+                "credit_id": "644ab47eb0040a02fbe447c8",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 9.7222,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7473,
+                "character": "James Hunt",
+                "credit_id": "52fe49be9251416c750d20ab",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 99861,
+                "original_language": "en",
+                "original_title": "Avengers: Age of Ultron",
+                "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+                "popularity": 17.4116,
+                "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+                "release_date": "2015-04-22",
+                "title": "Avengers: Age of Ultron",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 23720,
+                "character": "Thor",
+                "credit_id": "52fe4a449251416c750e3455",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284053,
+                "original_language": "en",
+                "original_title": "Thor: Ragnarok",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+                "popularity": 11.4854,
+                "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "release_date": "2017-10-02",
+                "title": "Thor: Ragnarok",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 21393,
+                "character": "Thor",
+                "credit_id": "545d46a80e0a261fb3004e81",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.705,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.235,
+                "vote_count": 30938,
+                "character": "Thor",
+                "credit_id": "54a9d012c3a3680c29005762",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 545609,
+                "original_language": "en",
+                "original_title": "Extraction",
+                "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+                "popularity": 6.8106,
+                "poster_path": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+                "release_date": "2020-04-23",
+                "title": "Extraction",
+                "video": false,
+                "vote_average": 7.31,
+                "vote_count": 6329,
+                "character": "Tyler Rake",
+                "credit_id": "5b88a097c3a3682e5000260a",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 284052,
+                "original_language": "en",
+                "original_title": "Doctor Strange",
+                "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+                "popularity": 11.3097,
+                "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+                "release_date": "2016-10-25",
+                "title": "Doctor Strange",
+                "video": false,
+                "vote_average": 7.419,
+                "vote_count": 22789,
+                "character": "Thor (uncredited)",
+                "credit_id": "5e84cd0e691cd5001257c0c5",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.7585,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.237,
+                "vote_count": 26720,
+                "character": "Thor",
+                "credit_id": "5e85ce145294e700154ac43f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 697843,
+                "original_language": "en",
+                "original_title": "Extraction 2",
+                "overview": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
+                "popularity": 9.7013,
+                "poster_path": "/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+                "release_date": "2023-06-09",
+                "title": "Extraction 2",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 2671,
+                "character": "Tyler Rake",
+                "credit_id": "6007d3f80816c7003ef86bf5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 786892,
+                "original_language": "en",
+                "original_title": "Furiosa: A Mad Max Saga",
+                "overview": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
+                "popularity": 14.55,
+                "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+                "release_date": "2024-05-22",
+                "title": "Furiosa: A Mad Max Saga",
+                "video": false,
+                "vote_average": 7.468,
+                "vote_count": 4378,
+                "character": "Dementus",
+                "credit_id": "60089d2d676ce200515ecb95",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cU0NFIVj11wo2ERNsb6pBeefqgV.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 413279,
+                "original_language": "en",
+                "original_title": "Team Thor",
+                "overview": "Discover what Thor was up to during the events of Captain America: Civil War.",
+                "popularity": 1.6827,
+                "poster_path": "/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg",
+                "release_date": "2016-08-28",
+                "title": "Team Thor",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 553,
+                "character": "Thor",
+                "credit_id": "604e879789f74900526ec514",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 697843,
+                "original_language": "en",
+                "original_title": "Extraction 2",
+                "overview": "Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster.",
+                "popularity": 9.7013,
+                "poster_path": "/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+                "release_date": "2023-06-09",
+                "title": "Extraction 2",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 2671,
+                "credit_id": "63c81dbc70b44400e95a37f4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 545609,
+                "original_language": "en",
+                "original_title": "Extraction",
+                "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+                "popularity": 6.8106,
+                "poster_path": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+                "release_date": "2020-04-23",
+                "title": "Extraction",
+                "video": false,
+                "vote_average": 7.31,
+                "vote_count": 6329,
+                "credit_id": "5e5a34f3357c000019266f35",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Christopher Bruce Hemsworth",
+            "\u041a\u0440\u0456\u0441 \u0425\u0435\u043c\u0441\u0432\u043e\u0440\u0442",
+            "\u06a9\u0631\u06cc\u0633 \u0647\u0645\u0633\u0648\u0631\u062b",
+            "\u06a9\u0631\u06cc\u0633 \u0647\u0650\u0645\u0632\u0648\u064f\u0631\u062b"
+        ],
+        "biography": "Christopher Hemsworth\u00a0AM is an Australian actor. Born and raised in\u00a0Melbourne, Victoria, and\u00a0Bulman, Northern Territory, he rose to prominence playing\u00a0Kim Hyde in the Australian television series\u00a0Home and Away (2004\u20132007) before beginning a film career in\u00a0Hollywood. In the\u00a0Marvel Cinematic Universe(MCU), Hemsworth starred as\u00a0Thor\u00a0in the\u00a02011 film of the same name\u00a0and reprised the role in several subsequent instalments, which established him among the world's highest-paid actors.\n\nHis other film roles include the action films\u00a0Star Trek\u00a0(2009),\u00a0Snow White and the Huntsman(2012) and its sequel\u00a0The Huntsman: Winter's War (2016),\u00a0Red Dawn\u00a0(2012),\u00a0Blackhat\u00a0(2015),\u00a0Men in Black: International\u00a0(2019),\u00a0Extraction\u00a0(2020) and its\u00a02023 sequel, the thriller\u00a0A Perfect Getaway (2009), and the comedy\u00a0Ghostbusters\u00a0(2016). Hemsworth's most critically acclaimed films include the comedy horror\u00a0The Cabin in the Woods\u00a0(2012), the biographical sports film\u00a0Rush (2013) in which he portrayed\u00a0James Hunt, the action film\u00a0Furiosa: A Mad Max Saga\u00a0(2024); the latter earned him a nomination for the\u00a0AACTA Award for Best Actor in a Supporting Role, and the voice of\u00a0Optimus Prime\u00a0in the animated feature film,\u00a0Transformers One\u00a0(2024).",
+        "birthday": "1983-08-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 74568,
+        "imdb_id": "nm1165110",
+        "known_for_department": "Acting",
+        "name": "Chris Hemsworth",
+        "place_of_birth": "Melbourne, Victoria, Australia",
+        "popularity": 2.4969,
+        "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    }
+}

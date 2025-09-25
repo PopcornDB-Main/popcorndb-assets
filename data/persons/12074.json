@@ -1,0 +1,302 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 808,
+                "original_language": "en",
+                "original_title": "Shrek",
+                "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+                "popularity": 20.3424,
+                "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                "release_date": "2001-05-18",
+                "title": "Shrek",
+                "video": false,
+                "vote_average": 7.752,
+                "vote_count": 17967,
+                "character": "Lord Farquaad (voice)",
+                "credit_id": "52fe4279c3a36847f80218ad",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 717980,
+                "original_language": "en",
+                "original_title": "Sharper",
+                "overview": "A small, wealthy family in New York City gets progressively torn apart by secrets, lies, and the theft that orchestrates all of it.",
+                "popularity": 4.0635,
+                "poster_path": "/tq8x5F17q95T1j0up5rpzXFAylN.jpg",
+                "release_date": "2023-02-10",
+                "title": "Sharper",
+                "video": false,
+                "vote_average": 6.901,
+                "vote_count": 609,
+                "character": "Richard Hobbes",
+                "credit_id": "613c134cfe5c91002c48144a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rZXTcmx7mKysaseyWZHs6wzPAcZ.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 11050,
+                "original_language": "en",
+                "original_title": "Terms of Endearment",
+                "overview": "Aurora, a finicky woman, is in search of true love while her daughter faces marital issues. Together, they help each other deal with problems and find reasons to live a joyful life.",
+                "popularity": 2.4811,
+                "poster_path": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+                "release_date": "1983-11-20",
+                "title": "Terms of Endearment",
+                "video": false,
+                "vote_average": 7.116,
+                "vote_count": 787,
+                "character": "Sam Burns",
+                "credit_id": "52fe43eb9251416c7502312b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+                "genre_ids": [
+                    53,
+                    9648,
+                    80
+                ],
+                "id": 11644,
+                "original_language": "en",
+                "original_title": "Blow Out",
+                "overview": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead \u2014 a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+                "popularity": 2.6303,
+                "poster_path": "/weMW1wLzeagP3tw6BfmYf1iL7dz.jpg",
+                "release_date": "1981-07-24",
+                "title": "Blow Out",
+                "video": false,
+                "vote_average": 7.374,
+                "vote_count": 1560,
+                "character": "Burke",
+                "credit_id": "52fe446f9251416c75034979",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8jN59DDt6ZgYn6g4QSao2Erpolm.jpg",
+                "genre_ids": [
+                    10749,
+                    35
+                ],
+                "id": 25195,
+                "original_language": "en",
+                "original_title": "Leap Year",
+                "overview": "When yet another anniversary passes without a marriage proposal from her boyfriend, Anna decides to take action. Aware of a Celtic tradition that allows women to pop the question on Feb. 29, she plans to follow her lover to Dublin and ask him to marry her. Fate has other plans, however, and Anna winds up on the other side of the Emerald Isle with handsome, but surly, Declan -- an Irishman who may just lead Anna down the road to true love.",
+                "popularity": 5.5086,
+                "poster_path": "/i86hMi5iEF3WnYLCaGHdT5FPdYg.jpg",
+                "release_date": "2010-01-08",
+                "title": "Leap Year",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2085,
+                "character": "Jack Brady",
+                "credit_id": "52fe44bdc3a368484e03413f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/u218sykbUQIh6EWtTdJzguU5LcG.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 16858,
+                "original_language": "en",
+                "original_title": "All That Jazz",
+                "overview": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+                "popularity": 3.0101,
+                "poster_path": "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+                "release_date": "1979-12-16",
+                "title": "All That Jazz",
+                "video": false,
+                "vote_average": 7.505,
+                "vote_count": 544,
+                "character": "Lucas Sergeant",
+                "credit_id": "52fe46f09251416c7508890b",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 63.1735,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 37855,
+                "character": "Donald",
+                "credit_id": "52fe4bbf9251416c910e4815",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dENLz9Np9EV5Ro8UIBhbKC8BmSS.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    18,
+                    878
+                ],
+                "id": 61791,
+                "original_language": "en",
+                "original_title": "Rise of the Planet of the Apes",
+                "overview": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+                "popularity": 9.4285,
+                "poster_path": "/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+                "release_date": "2011-08-03",
+                "title": "Rise of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.337,
+                "vote_count": 12317,
+                "character": "Charles Rodman",
+                "credit_id": "5377b16dc3a368553a001f74",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 302946,
+                "original_language": "en",
+                "original_title": "The Accountant",
+                "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+                "popularity": 9.3906,
+                "poster_path": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+                "release_date": "2016-10-13",
+                "title": "The Accountant",
+                "video": false,
+                "vote_average": 7.129,
+                "vote_count": 6969,
+                "character": "Lamar Blackburn",
+                "credit_id": "54cd431ec3a3687f82001f0c",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 376290,
+                "original_language": "en",
+                "original_title": "Miss Sloane",
+                "overview": "An ambitious lobbyist faces off against the powerful gun lobby in an attempt to pass gun control legislation.",
+                "popularity": 3.7223,
+                "poster_path": "/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+                "release_date": "2016-11-25",
+                "title": "Miss Sloane",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 1895,
+                "character": "Senator Ronald Sperling",
+                "credit_id": "577f2aa2c3a36831ac002083",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "genre_ids": [
+                    80,
+                    36,
+                    18
+                ],
+                "id": 466420,
+                "original_language": "en",
+                "original_title": "Killers of the Flower Moon",
+                "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
+                "popularity": 10.3114,
+                "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+                "release_date": "2023-10-18",
+                "title": "Killers of the Flower Moon",
+                "video": false,
+                "vote_average": 7.414,
+                "vote_count": 3758,
+                "character": "Prosecutor Peter Leaward",
+                "credit_id": "6112b891f04d01001f96bcab",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 974576,
+                "original_language": "en",
+                "original_title": "Conclave",
+                "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+                "popularity": 8.7054,
+                "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+                "release_date": "2024-10-25",
+                "title": "Conclave",
+                "video": false,
+                "vote_average": 7.206,
+                "vote_count": 2890,
+                "character": "Tremblay",
+                "credit_id": "67485fc01992d710d3acb279",
+                "order": 2
+            }
+        ],
+        "crew": []
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u838a\u674e\u5bcc\u9ad8",
+            "John Arthur Lithgow",
+            "\u7d04\u7ff0.\u674e\u65af\u9ad8",
+            "\u062c\u0627\u0646 \u0644\u06cc\u062a\u06af\u0648"
+        ],
+        "biography": "John Arthur Lithgow is an American actor. He studied at\u00a0Harvard University\u00a0and the\u00a0London Academy of Music and Dramatic Art\u00a0before becoming known for his diverse work\u00a0on stage and screen. He has received\u00a0numerous accolades, including six\u00a0Primetime Emmy Awards, two\u00a0Golden Globe Awards, and two\u00a0Tony Awards, as well as nominations for two\u00a0Academy Awards, a\u00a0British Academy Film Award, four\u00a0Grammy Awards, four\u00a0Screen Actors Guild Awards, and a\u00a0Laurence Olivier Award.\n\nLithgow won two\u00a0Tony Awards, his first for\u00a0Best Featured Actor in a Play\u00a0for his\u00a0Broadway\u00a0debut in\u00a0The Changing Room\u00a0(1972) and his second for\u00a0Best Actor in a Musical\u00a0for the musical\u00a0Sweet Smell of Success\u00a0(2002). He was Tony-nominated for\u00a0Requiem for a Heavyweight (1985),\u00a0M. Butterfly\u00a0(1988), and\u00a0Dirty Rotten Scoundrels\u00a0(2005). He has acted in the plays\u00a0The Columnist\u00a0(2012),\u00a0A Delicate Balance (2014), and\u00a0Hillary and Clinton\u00a0(2019). He portrayed\u00a0Roald Dahl\u00a0in the play\u00a0Giant\u00a0on the\u00a0West End,\u00a0for which he was nominated for the\u00a0Olivier Award for Best Actor.\u00a0\n\nHe starred as\u00a0Dick Solomon\u00a0in the television sitcom\u00a03rd Rock from the Sun\u00a0(1996\u20132001), winning three\u00a0Primetime Emmy Awards for Best Actor in a Comedy Series. He received further\u00a0Primetime Emmy Awards\u00a0for his performances as\u00a0Arthur Mitchell\u00a0in the drama\u00a0Dexter\u00a0(2009) and as\u00a0Winston Churchill\u00a0in the\u00a0Netflix\u00a0drama\u00a0The Crown\u00a0(2016\u20132019). He also starred in\u00a0HBO's\u00a0Perry Mason\u00a0(2020) and\u00a0FX's\u00a0The Old Man (2022).\n\nOn film, he has received two\u00a0Academy Awards for Best Supporting Actor\u00a0nominations for his roles as a\u00a0transsexual\u00a0ex-football player in\u00a0The World According to Garp\u00a0(1982) and a lonely banker in\u00a0Terms of Endearment\u00a0(1983). He also acted in\u00a0All That Jazz\u00a0(1979),\u00a0Blow Out\u00a0(1981),\u00a0Footloose\u00a0(1984),\u00a0Harry and the Hendersons\u00a0(1987),\u00a0A Civil Action\u00a0(1998),\u00a0Shrek\u00a0(2001),\u00a0Kinsey\u00a0(2004),\u00a0Rise of the Planet of the Apes\u00a0(2011),\u00a0Love Is Strange\u00a0(2014),\u00a0Interstellar (2014),\u00a0Late Night\u00a0(2019),\u00a0Bombshell\u00a0(2019),\u00a0Killers of the Flower Moon\u00a0(2023), and\u00a0Conclave (2024).",
+        "birthday": "1945-10-19",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12074,
+        "imdb_id": "nm0001475",
+        "known_for_department": "Acting",
+        "name": "John Lithgow",
+        "place_of_birth": "Rochester, New York, USA",
+        "popularity": 1.8719,
+        "profile_path": "/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+    }
+}
