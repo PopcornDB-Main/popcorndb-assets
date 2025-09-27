@@ -1,0 +1,207 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 335787,
+                "original_language": "en",
+                "original_title": "Uncharted",
+                "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor \u201cSully\u201d Sullivan embark on a dangerous pursuit of \u201cthe greatest treasure never found\u201d while also tracking clues that may lead to Nathan\u2019s long-lost brother.",
+                "popularity": 7.5554,
+                "poster_path": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+                "release_date": "2022-02-10",
+                "title": "Uncharted",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 6430,
+                "character": "Club Bartender #1",
+                "credit_id": "626f03c509ed8f0052421cd9",
+                "order": 22
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 284052,
+                "original_language": "en",
+                "original_title": "Doctor Strange",
+                "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+                "popularity": 8.6435,
+                "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+                "release_date": "2016-10-25",
+                "title": "Doctor Strange",
+                "video": false,
+                "vote_average": 7.418,
+                "vote_count": 22801,
+                "credit_id": "64d59e9ff14dad013a8addfd",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297762,
+                "original_language": "en",
+                "original_title": "Wonder Woman",
+                "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+                "popularity": 15.0374,
+                "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+                "release_date": "2017-05-30",
+                "title": "Wonder Woman",
+                "video": false,
+                "vote_average": 7.214,
+                "vote_count": 20449,
+                "credit_id": "653ee7cf109cd0012cffdd3a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 453395,
+                "original_language": "en",
+                "original_title": "Doctor Strange in the Multiverse of Madness",
+                "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+                "popularity": 13.1331,
+                "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+                "release_date": "2022-05-04",
+                "title": "Doctor Strange in the Multiverse of Madness",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 9786,
+                "credit_id": "653ee7925907de011bc56fb9",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+                "genre_ids": [
+                    28,
+                    14
+                ],
+                "id": 547016,
+                "original_language": "en",
+                "original_title": "The Old Guard",
+                "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+                "popularity": 10.0183,
+                "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+                "release_date": "2020-07-09",
+                "title": "The Old Guard",
+                "video": false,
+                "vote_average": 7.124,
+                "vote_count": 4554,
+                "credit_id": "653ee7aacc9683014eb9cf98",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 335787,
+                "original_language": "en",
+                "original_title": "Uncharted",
+                "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor \u201cSully\u201d Sullivan embark on a dangerous pursuit of \u201cthe greatest treasure never found\u201d while also tracking clues that may lead to Nathan\u2019s long-lost brother.",
+                "popularity": 7.5554,
+                "poster_path": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+                "release_date": "2022-02-10",
+                "title": "Uncharted",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 6430,
+                "credit_id": "6349fa8d1089ba007d534c21",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53,
+                    12,
+                    9648
+                ],
+                "id": 385687,
+                "original_language": "en",
+                "original_title": "Fast X",
+                "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.",
+                "popularity": 25.5018,
+                "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+                "release_date": "2023-05-17",
+                "title": "Fast X",
+                "video": false,
+                "vote_average": 7.026,
+                "vote_count": 6043,
+                "credit_id": "646bbb03a5046e00e5b76cd4",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    878
+                ],
+                "id": 533535,
+                "original_language": "en",
+                "original_title": "Deadpool & Wolverine",
+                "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+                "popularity": 33.6195,
+                "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+                "release_date": "2024-07-24",
+                "title": "Deadpool & Wolverine",
+                "video": false,
+                "vote_average": 7.579,
+                "vote_count": 7746,
+                "credit_id": "677f162634a4e75e497b224f",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 3532449,
+        "imdb_id": "nm8529554",
+        "known_for_department": "Crew",
+        "name": "Julia Schunevitsch",
+        "place_of_birth": null,
+        "popularity": 0.1655,
+        "profile_path": "/iCGvMtqjwsyLBYRGjY11wbmml9.jpg"
+    }
+}

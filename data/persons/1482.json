@@ -1,0 +1,408 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.7209,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "character": "Hudsucker Brainstormer",
+                "credit_id": "6390e619cede6900d3c431f0",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qBayL198ACrAVX9ixzFPYtqvxQX.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 764,
+                "original_language": "en",
+                "original_title": "The Evil Dead",
+                "overview": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+                "popularity": 6.3642,
+                "poster_path": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+                "release_date": "1981-10-15",
+                "title": "The Evil Dead",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4231,
+                "character": "Fake Shemp",
+                "credit_id": "66186c260f0da5017cdeae72",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8G6HCS82vNxgg5wp7oBDSk32XpF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 558,
+                "original_language": "en",
+                "original_title": "Spider-Man 2",
+                "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+                "popularity": 7.4997,
+                "poster_path": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+                "release_date": "2004-06-25",
+                "title": "Spider-Man 2",
+                "video": false,
+                "vote_average": 7.295,
+                "vote_count": 15738,
+                "character": "Man Buying 'Spider-Man No More' Newspaper (uncredited)",
+                "credit_id": "67dca4b6db76d0433cf2cf61",
+                "order": 114
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/vfzsU4VzupTeiyTMPpbKzZKmk4X.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 6615,
+                "original_language": "en",
+                "original_title": "Lars and the Real Girl",
+                "overview": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
+                "popularity": 6.0416,
+                "poster_path": "/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+                "release_date": "2007-10-12",
+                "title": "Lars and the Real Girl",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 1927,
+                "credit_id": "52fe445ec3a36847f8091deb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dxXhdYuQyuMPX0lCEo6LhCv69Xq.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 13416,
+                "original_language": "en",
+                "original_title": "Friday Night Lights",
+                "overview": "A small, turbulent town in Texas obsesses over their high school football team to an unhealthy degree. When the star tailback, Boobie Miles, is seriously injured during the first game of the season, all hope is lost, and the town's dormant social problems begin to flare up. It is left to the inspiring abilities of new coach Gary Gaines to instill in the other team members -- and, by proxy, the town itself -- a sense of self-respect and honor.",
+                "popularity": 3.1071,
+                "poster_path": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+                "release_date": "2004-10-08",
+                "title": "Friday Night Lights",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 594,
+                "credit_id": "54fdb248925141238c004c90",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    80
+                ],
+                "id": 134,
+                "original_language": "en",
+                "original_title": "O Brother, Where Art Thou?",
+                "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+                "popularity": 6.8692,
+                "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+                "release_date": "2000-08-30",
+                "title": "O Brother, Where Art Thou?",
+                "video": false,
+                "vote_average": 7.317,
+                "vote_count": 4361,
+                "credit_id": "56788278925141118c0009d0",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ti6kJ80ZB8RZTiDIzPkhaCJMoqq.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 115,
+                "original_language": "en",
+                "original_title": "The Big Lebowski",
+                "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+                "popularity": 6.1381,
+                "poster_path": "/9mprbw31MGdd66LR0AQKoDMoFRv.jpg",
+                "release_date": "1998-03-06",
+                "title": "The Big Lebowski",
+                "video": false,
+                "vote_average": 7.839,
+                "vote_count": 11684,
+                "credit_id": "5678828f92514111900008f0",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ti6kJ80ZB8RZTiDIzPkhaCJMoqq.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 115,
+                "original_language": "en",
+                "original_title": "The Big Lebowski",
+                "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+                "popularity": 6.1381,
+                "poster_path": "/9mprbw31MGdd66LR0AQKoDMoFRv.jpg",
+                "release_date": "1998-03-06",
+                "title": "The Big Lebowski",
+                "video": false,
+                "vote_average": 7.839,
+                "vote_count": 11684,
+                "credit_id": "568f01289251416b4e003ee0",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwjVHxKKk2hb6CJX46U4Cv0Zq0a.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 10778,
+                "original_language": "en",
+                "original_title": "The Man Who Wasn't There",
+                "overview": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it.",
+                "popularity": 3.1398,
+                "poster_path": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+                "release_date": "2001-10-26",
+                "title": "The Man Who Wasn't There",
+                "video": false,
+                "vote_average": 7.526,
+                "vote_count": 1655,
+                "credit_id": "569f75469251415e5e009893",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.7209,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "credit_id": "6390ea16d7107e009b50533d",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/asC4h9U7pD72bkYcqzgTB7VJYLy.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 11545,
+                "original_language": "en",
+                "original_title": "Rushmore",
+                "overview": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+                "popularity": 4.1115,
+                "poster_path": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+                "release_date": "1998-12-11",
+                "title": "Rushmore",
+                "video": false,
+                "vote_average": 7.395,
+                "vote_count": 2591,
+                "credit_id": "65c70bd454a09801840157a9",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/asC4h9U7pD72bkYcqzgTB7VJYLy.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 11545,
+                "original_language": "en",
+                "original_title": "Rushmore",
+                "overview": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+                "popularity": 4.1115,
+                "poster_path": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+                "release_date": "1998-12-11",
+                "title": "Rushmore",
+                "video": false,
+                "vote_average": 7.395,
+                "vote_count": 2591,
+                "credit_id": "65c70c2eb6cff10164a4a028",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    878
+                ],
+                "id": 607,
+                "original_language": "en",
+                "original_title": "Men in Black",
+                "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+                "popularity": 8.9084,
+                "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+                "release_date": "1997-07-02",
+                "title": "Men in Black",
+                "video": false,
+                "vote_average": 7.213,
+                "vote_count": 14283,
+                "credit_id": "599f505cc3a36847c5001555",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jBz16NsAeKjpHNznl1EHlcr704P.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 9571,
+                "original_language": "en",
+                "original_title": "Dazed and Confused",
+                "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+                "popularity": 3.3614,
+                "poster_path": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+                "release_date": "1993-09-24",
+                "title": "Dazed and Confused",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 2145,
+                "credit_id": "663ff58653a2e5c7930b38f3",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 275,
+                "original_language": "en",
+                "original_title": "Fargo",
+                "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+                "popularity": 5.6499,
+                "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+                "release_date": "1996-03-08",
+                "title": "Fargo",
+                "video": false,
+                "vote_average": 7.851,
+                "vote_count": 8579,
+                "credit_id": "5e4886e8134d580014309310",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg",
+                "genre_ids": [
+                    14,
+                    27,
+                    35
+                ],
+                "id": 766,
+                "original_language": "en",
+                "original_title": "Army of Darkness",
+                "overview": "Ash, a handsome, shotgun-toting, chainsaw-armed department store clerk, is time warped backwards into England's Dark Ages, where he romances a beauty and faces legions of the undead.",
+                "popularity": 4.3639,
+                "poster_path": "/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+                "release_date": "1992-10-31",
+                "title": "Army of Darkness",
+                "video": false,
+                "vote_average": 7.255,
+                "vote_count": 3339,
+                "credit_id": "671dbaa0e833d92ef0605f46",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    80
+                ],
+                "id": 134,
+                "original_language": "en",
+                "original_title": "O Brother, Where Art Thou?",
+                "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+                "popularity": 6.8692,
+                "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+                "release_date": "2000-08-30",
+                "title": "O Brother, Where Art Thou?",
+                "video": false,
+                "vote_average": 7.317,
+                "vote_count": 4361,
+                "credit_id": "68cf43dab6c8bf2bb6cec145",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Victor Malone"
+        ],
+        "biography": "",
+        "birthday": "1985-08-31",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1482,
+        "imdb_id": "nm0131625",
+        "known_for_department": "Production",
+        "name": "John Cameron",
+        "place_of_birth": null,
+        "popularity": 0.3713,
+        "profile_path": "/uv1fsKsOxRGC8n1YL7fBGn4mkRP.jpg"
+    }
+}

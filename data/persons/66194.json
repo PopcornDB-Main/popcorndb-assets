@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 168,
+                "original_language": "en",
+                "original_title": "Star Trek IV: The Voyage Home",
+                "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+                "popularity": 5.3146,
+                "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+                "release_date": "1986-11-26",
+                "title": "Star Trek IV: The Voyage Home",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1561,
+                "character": "Young Doctor",
+                "credit_id": "672c62a750e15e8f5a586652",
+                "order": 37
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 12.0145,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.904,
+                "vote_count": 10100,
+                "credit_id": "52fe43a09251416c75017cad",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1948-12-21",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 66194,
+        "imdb_id": "nm0802027",
+        "known_for_department": "Acting",
+        "name": "Raymond Singer",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2149,
+        "profile_path": "/jDCkRuoDljtBarE1VmpXwD9Qz0x.jpg"
+    }
+}

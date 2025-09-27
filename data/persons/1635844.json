@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 300669,
+                "original_language": "en",
+                "original_title": "Don't Breathe",
+                "overview": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
+                "popularity": 4.906,
+                "poster_path": "/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+                "release_date": "2016-06-08",
+                "title": "Don't Breathe",
+                "video": false,
+                "vote_average": 7.014,
+                "vote_count": 7704,
+                "character": "Ginger",
+                "credit_id": "57bbe243c3a3682e270024ee",
+                "order": 7
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 497698,
+                "original_language": "en",
+                "original_title": "Black Widow",
+                "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+                "popularity": 13.1722,
+                "poster_path": "/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+                "release_date": "2021-07-07",
+                "title": "Black Widow",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 10770,
+                "credit_id": "5d62fc3ebc8abc176f257de7",
+                "department": "Crew",
+                "job": "Translator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1975-01-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1635844,
+        "imdb_id": "nm2169138",
+        "known_for_department": "Acting",
+        "name": "Katia Bokor",
+        "place_of_birth": "Moscow, Russia",
+        "popularity": 0.2206,
+        "profile_path": "/rYSr2waTA0uf8BE1nGflR5K8nVt.jpg"
+    }
+}

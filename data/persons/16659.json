@@ -1,0 +1,351 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/paSilBRK7Qw3iIbf3xIYVDKnVF9.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    53,
+                    10749
+                ],
+                "id": 9434,
+                "original_language": "en",
+                "original_title": "Grosse Pointe Blank",
+                "overview": "Hitman Martin Blank becomes a moving target after he rebuffs a fellow assassin's invitation to form a union. On the advice of his quirky assistant and neurotic psychiatrist, Martin begrudgingly heads out to Grosse Pointe, Michigan for his ten-year high school reunion, where he soon comes across the woman he jilted on prom night.",
+                "popularity": 1.4198,
+                "poster_path": "/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg",
+                "release_date": "1997-04-11",
+                "title": "Grosse Pointe Blank",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 967,
+                "character": "Assistant #1",
+                "credit_id": "623e3757c3bffe0049bca402",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1fI06RK90Vp7ybQxs84ep1iQrqD.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9846,
+                "original_language": "en",
+                "original_title": "To Live and Die in L.A.",
+                "overview": "When his longtime partner on the force is killed, reckless U.S. Secret Service agent Richard Chance vows revenge, setting out to nab dangerous counterfeit artist Eric Masters.",
+                "popularity": 3.2159,
+                "poster_path": "/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
+                "release_date": "1985-11-01",
+                "title": "To Live and Die in L.A.",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 709,
+                "character": "FBI Agent",
+                "credit_id": "623e3728e38bd8005c0f8309",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 37094,
+                "original_language": "en",
+                "original_title": "Falling Down",
+                "overview": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+                "popularity": 5.9082,
+                "poster_path": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+                "release_date": "1993-02-26",
+                "title": "Falling Down",
+                "video": false,
+                "vote_average": 7.386,
+                "vote_count": 3857,
+                "credit_id": "60f592f37b7b4d0020eb879a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18
+                ],
+                "id": 111,
+                "original_language": "en",
+                "original_title": "Scarface",
+                "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                "popularity": 12.0712,
+                "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+                "release_date": "1983-12-09",
+                "title": "Scarface",
+                "video": false,
+                "vote_average": 8.16,
+                "vote_count": 12462,
+                "credit_id": "65162b5f93bd6900c4de1370",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80,
+                    12
+                ],
+                "id": 1541,
+                "original_language": "en",
+                "original_title": "Thelma & Louise",
+                "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+                "popularity": 4.9019,
+                "poster_path": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+                "release_date": "1991-05-24",
+                "title": "Thelma & Louise",
+                "video": false,
+                "vote_average": 7.599,
+                "vote_count": 3660,
+                "credit_id": "6553b52c53866e00c5b0ab7a",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1850,
+                "original_language": "en",
+                "original_title": "Man on the Moon",
+                "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+                "popularity": 3.0508,
+                "poster_path": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+                "release_date": "1999-12-22",
+                "title": "Man on the Moon",
+                "video": false,
+                "vote_average": 7.247,
+                "vote_count": 1871,
+                "credit_id": "656938d671f095011b25a8e4",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+                "genre_ids": [
+                    10749,
+                    27
+                ],
+                "id": 6114,
+                "original_language": "en",
+                "original_title": "Bram Stoker's Dracula",
+                "overview": "In 19th century England, Count Dracula travels to London and meets Mina Harker, a young woman who appears as the reincarnation of his lost love.",
+                "popularity": 5.9215,
+                "poster_path": "/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+                "release_date": "1992-11-13",
+                "title": "Bram Stoker's Dracula",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 5446,
+                "credit_id": "657291cb4b6d9d00c9428064",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80,
+                    12
+                ],
+                "id": 1541,
+                "original_language": "en",
+                "original_title": "Thelma & Louise",
+                "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+                "popularity": 4.9019,
+                "poster_path": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+                "release_date": "1991-05-24",
+                "title": "Thelma & Louise",
+                "video": false,
+                "vote_average": 7.599,
+                "vote_count": 3660,
+                "credit_id": "56447aa2c3a36870dd005945",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    35,
+                    53,
+                    80
+                ],
+                "id": 941,
+                "original_language": "en",
+                "original_title": "Lethal Weapon",
+                "overview": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces.",
+                "popularity": 5.0507,
+                "poster_path": "/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
+                "release_date": "1987-03-06",
+                "title": "Lethal Weapon",
+                "video": false,
+                "vote_average": 7.285,
+                "vote_count": 4779,
+                "credit_id": "61d3d2161b722c00412f42b4",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5JaR6UEoCJJLtLpqFOVMY4O4R7P.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 949,
+                "original_language": "en",
+                "original_title": "Heat",
+                "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+                "popularity": 8.0572,
+                "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+                "release_date": "1995-12-15",
+                "title": "Heat",
+                "video": false,
+                "vote_average": 7.921,
+                "vote_count": 7801,
+                "credit_id": "6438c99987f3f200f3773383",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 106,
+                "original_language": "en",
+                "original_title": "Predator",
+                "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                "popularity": 10.2073,
+                "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+                "release_date": "1987-06-12",
+                "title": "Predator",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 8548,
+                "credit_id": "5a5b8610c3a36867d3022960",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1fI06RK90Vp7ybQxs84ep1iQrqD.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9846,
+                "original_language": "en",
+                "original_title": "To Live and Die in L.A.",
+                "overview": "When his longtime partner on the force is killed, reckless U.S. Secret Service agent Richard Chance vows revenge, setting out to nab dangerous counterfeit artist Eric Masters.",
+                "popularity": 3.2159,
+                "poster_path": "/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
+                "release_date": "1985-11-01",
+                "title": "To Live and Die in L.A.",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 709,
+                "credit_id": "648db8d342bf0100e49e4d1a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    53
+                ],
+                "id": 9495,
+                "original_language": "en",
+                "original_title": "The Crow",
+                "overview": "Exactly one year after young rock guitarist Eric Draven and his fianc\u00e9e are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+                "popularity": 6.233,
+                "poster_path": "/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+                "release_date": "1994-05-11",
+                "title": "The Crow",
+                "video": false,
+                "vote_average": 7.521,
+                "vote_count": 4305,
+                "credit_id": "5b5e5267c3a368422f03a2b5",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/u9ZLyLvqHY5VDjn0Rs4LKAklsAV.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 840,
+                "original_language": "en",
+                "original_title": "Close Encounters of the Third Kind",
+                "overview": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+                "popularity": 4.5895,
+                "poster_path": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+                "release_date": "1977-12-14",
+                "title": "Close Encounters of the Third Kind",
+                "video": false,
+                "vote_average": 7.346,
+                "vote_count": 4404,
+                "credit_id": "64bde4810ed2ab00ff87451d",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bob Bass"
+        ],
+        "biography": "",
+        "birthday": "1936-08-06",
+        "deathday": "2001-11-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 16659,
+        "imdb_id": "nm0060037",
+        "known_for_department": "Crew",
+        "name": "Bobby Bass",
+        "place_of_birth": "Jefferson County, Kentucky, USA",
+        "popularity": 0.1536,
+        "profile_path": null
+    }
+}

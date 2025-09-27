@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6JU2ysRVOHqav0Hs6BUv4mvvDxZ.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 646389,
+                "original_language": "en",
+                "original_title": "Plane",
+                "overview": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+                "popularity": 7.8476,
+                "poster_path": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+                "release_date": "2023-01-11",
+                "title": "Plane",
+                "video": false,
+                "vote_average": 6.915,
+                "vote_count": 2467,
+                "character": "Joshua Jeong",
+                "credit_id": "64c82bd141aac40fb67f9e2e",
+                "order": 22
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 271110,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "popularity": 11.1493,
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "release_date": "2016-04-27",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "vote_average": 7.447,
+                "vote_count": 23415,
+                "credit_id": "64ceb581303c8500ade3fac7",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1851892,
+        "imdb_id": "nm5522502",
+        "known_for_department": "Crew",
+        "name": "John J. Shim",
+        "place_of_birth": null,
+        "popularity": 0.0363,
+        "profile_path": null
+    }
+}

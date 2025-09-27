@@ -1,0 +1,443 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2292,
+                "original_language": "en",
+                "original_title": "Clerks",
+                "overview": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+                "popularity": 2.5406,
+                "poster_path": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+                "release_date": "1994-10-19",
+                "title": "Clerks",
+                "video": false,
+                "vote_average": 7.384,
+                "vote_count": 2613,
+                "character": "Silent Bob",
+                "credit_id": "52fe434bc3a36847f8049281",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qaTlXgurqg85Ya5AW4Ab8RixqD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2295,
+                "original_language": "en",
+                "original_title": "Clerks II",
+                "overview": "A calamity at Dante and Randall's shops sends them looking for new horizons - but they ultimately settle at Mooby's, a fictional Disney-McDonald's-style fast-food empire.",
+                "popularity": 3.9992,
+                "poster_path": "/cLSW0nW94XT0DmBS69ublcLfQ9c.jpg",
+                "release_date": "2006-07-21",
+                "title": "Clerks II",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 1405,
+                "character": "Silent Bob",
+                "credit_id": "52fe434bc3a36847f804949f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12
+                ],
+                "id": 1832,
+                "original_language": "en",
+                "original_title": "Dogma",
+                "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+                "popularity": 4.437,
+                "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+                "release_date": "1999-10-04",
+                "title": "Dogma",
+                "video": false,
+                "vote_average": 6.924,
+                "vote_count": 2647,
+                "character": "Silent Bob",
+                "credit_id": "52fe4318c3a36847f8039eaf",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 10.3096,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19970,
+                "character": "Stormtrooper (voice) (uncredited)",
+                "credit_id": "66b3cb1bffd0572dbb27d5ab",
+                "order": 180
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8ys582mL65EAxYOwPQr6A3E0KEz.jpg",
+                "genre_ids": [
+                    878,
+                    16,
+                    28
+                ],
+                "id": 408647,
+                "original_language": "en",
+                "original_title": "Teen Titans: The Judas Contract",
+                "overview": "Tara Markov is a girl who has power over earth and stone; she is also more than she seems. Is the newest Teen Titan an ally or a threat? And what are the mercenary Deathstroke's plans for the Titans?",
+                "popularity": 3.9448,
+                "poster_path": "/nuGIlNAJUati4qEAH1nrYKUA3xa.jpg",
+                "release_date": "2017-03-31",
+                "title": "Teen Titans: The Judas Contract",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 732,
+                "character": "Kevin Smith (voice)",
+                "credit_id": "58e4b03ec3a3684aa401c14b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1hdorswm5HPxb81xq84H9gqveUq.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 371638,
+                "original_language": "en",
+                "original_title": "The Disaster Artist",
+                "overview": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+                "popularity": 1.6645,
+                "poster_path": "/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg",
+                "release_date": "2017-03-12",
+                "title": "The Disaster Artist",
+                "video": false,
+                "vote_average": 7.107,
+                "vote_count": 3620,
+                "character": "Kevin Smith",
+                "credit_id": "5a1c8ae4925141032605ddd7",
+                "order": 42
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2292,
+                "original_language": "en",
+                "original_title": "Clerks",
+                "overview": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+                "popularity": 2.5406,
+                "poster_path": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+                "release_date": "1994-10-19",
+                "title": "Clerks",
+                "video": false,
+                "vote_average": 7.384,
+                "vote_count": 2613,
+                "credit_id": "52fe434ac3a36847f8049253",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qaTlXgurqg85Ya5AW4Ab8RixqD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2295,
+                "original_language": "en",
+                "original_title": "Clerks II",
+                "overview": "A calamity at Dante and Randall's shops sends them looking for new horizons - but they ultimately settle at Mooby's, a fictional Disney-McDonald's-style fast-food empire.",
+                "popularity": 3.9992,
+                "poster_path": "/cLSW0nW94XT0DmBS69ublcLfQ9c.jpg",
+                "release_date": "2006-07-21",
+                "title": "Clerks II",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 1405,
+                "credit_id": "52fe434bc3a36847f8049471",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2292,
+                "original_language": "en",
+                "original_title": "Clerks",
+                "overview": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+                "popularity": 2.5406,
+                "poster_path": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+                "release_date": "1994-10-19",
+                "title": "Clerks",
+                "video": false,
+                "vote_average": 7.384,
+                "vote_count": 2613,
+                "credit_id": "52fe434bc3a36847f804925f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qaTlXgurqg85Ya5AW4Ab8RixqD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2295,
+                "original_language": "en",
+                "original_title": "Clerks II",
+                "overview": "A calamity at Dante and Randall's shops sends them looking for new horizons - but they ultimately settle at Mooby's, a fictional Disney-McDonald's-style fast-food empire.",
+                "popularity": 3.9992,
+                "poster_path": "/cLSW0nW94XT0DmBS69ublcLfQ9c.jpg",
+                "release_date": "2006-07-21",
+                "title": "Clerks II",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 1405,
+                "credit_id": "52fe434bc3a36847f8049465",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2292,
+                "original_language": "en",
+                "original_title": "Clerks",
+                "overview": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+                "popularity": 2.5406,
+                "poster_path": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+                "release_date": "1994-10-19",
+                "title": "Clerks",
+                "video": false,
+                "vote_average": 7.384,
+                "vote_count": 2613,
+                "credit_id": "52fe434bc3a36847f8049265",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qaTlXgurqg85Ya5AW4Ab8RixqD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2295,
+                "original_language": "en",
+                "original_title": "Clerks II",
+                "overview": "A calamity at Dante and Randall's shops sends them looking for new horizons - but they ultimately settle at Mooby's, a fictional Disney-McDonald's-style fast-food empire.",
+                "popularity": 3.9992,
+                "poster_path": "/cLSW0nW94XT0DmBS69ublcLfQ9c.jpg",
+                "release_date": "2006-07-21",
+                "title": "Clerks II",
+                "video": false,
+                "vote_average": 6.892,
+                "vote_count": 1405,
+                "credit_id": "52fe434bc3a36847f804946b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12
+                ],
+                "id": 1832,
+                "original_language": "en",
+                "original_title": "Dogma",
+                "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+                "popularity": 4.437,
+                "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+                "release_date": "1999-10-04",
+                "title": "Dogma",
+                "video": false,
+                "vote_average": 6.924,
+                "vote_count": 2647,
+                "credit_id": "52fe4318c3a36847f8039efd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12
+                ],
+                "id": 1832,
+                "original_language": "en",
+                "original_title": "Dogma",
+                "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+                "popularity": 4.437,
+                "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+                "release_date": "1999-10-04",
+                "title": "Dogma",
+                "video": false,
+                "vote_average": 6.924,
+                "vote_count": 2647,
+                "credit_id": "52fe4318c3a36847f8039eb5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12
+                ],
+                "id": 1832,
+                "original_language": "en",
+                "original_title": "Dogma",
+                "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+                "popularity": 4.437,
+                "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+                "release_date": "1999-10-04",
+                "title": "Dogma",
+                "video": false,
+                "vote_average": 6.924,
+                "vote_count": 2647,
+                "credit_id": "52fe4318c3a36847f8039ed3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oLsts7ct0NVkdYpx5rZg10MG6zh.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 489,
+                "original_language": "en",
+                "original_title": "Good Will Hunting",
+                "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+                "popularity": 12.7558,
+                "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+                "release_date": "1997-12-05",
+                "title": "Good Will Hunting",
+                "video": false,
+                "vote_average": 8.157,
+                "vote_count": 13107,
+                "credit_id": "572f8b479251413e52000a24",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXzdoMyLYvz7AoXPGx5STZ1XZDd.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    12
+                ],
+                "id": 1832,
+                "original_language": "en",
+                "original_title": "Dogma",
+                "overview": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loophole and reenter Heaven.",
+                "popularity": 4.437,
+                "poster_path": "/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+                "release_date": "1999-10-04",
+                "title": "Dogma",
+                "video": false,
+                "vote_average": 6.924,
+                "vote_count": 2647,
+                "credit_id": "63a927e3b3316b0085c8ef8d",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 10.3096,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19970,
+                "credit_id": "63a92735a6a4c10080979e03",
+                "department": "Crew",
+                "job": "Additional Dialogue"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2292,
+                "original_language": "en",
+                "original_title": "Clerks",
+                "overview": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+                "popularity": 2.5406,
+                "poster_path": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+                "release_date": "1994-10-19",
+                "title": "Clerks",
+                "video": false,
+                "vote_average": 7.384,
+                "vote_count": 2613,
+                "credit_id": "6436d484945d36009aa3658b",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kevin Patrick Smith",
+            "\u06a9\u0648\u06cc\u0646 \u0627\u0633\u0645\u06cc\u062a"
+        ],
+        "biography": "Kevin Patrick Smith (born August 2, 1970) is an American filmmaker, actor, comedian, public speaker, comic book writer, author, and podcaster.\n\nHe came to prominence with the low-budget comedy film Clerks (1994), which he wrote, directed, co-produced, and acted in as the character Silent Bob of stoner duo Jay and Silent Bob. Jay and Silent Bob also appeared in Smith's later films Mallrats, Chasing Amy, Dogma, Jay and Silent Bob Strike Back, Clerks II and Jay and Silent Bob Reboot, which are set primarily in his home state of New Jersey. While not strictly sequential, the films have crossover plot elements, character references, and a shared canon known as the \"View Askewniverse\", named after Smith's production company View Askew Productions, which he co-founded with Scott Mosier.",
+        "birthday": "1970-08-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.viewaskew.com",
+        "id": 19303,
+        "imdb_id": "nm0003620",
+        "known_for_department": "Directing",
+        "name": "Kevin Smith",
+        "place_of_birth": "Red Bank, New Jersey, USA",
+        "popularity": 1.2339,
+        "profile_path": "/uxDQ0NTZMnOuAaPa0tQzMFV9dx4.jpg"
+    }
+}

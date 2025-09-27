@@ -1,0 +1,256 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/dxXhdYuQyuMPX0lCEo6LhCv69Xq.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 13416,
+                "original_language": "en",
+                "original_title": "Friday Night Lights",
+                "overview": "A small, turbulent town in Texas obsesses over their high school football team to an unhealthy degree. When the star tailback, Boobie Miles, is seriously injured during the first game of the season, all hope is lost, and the town's dormant social problems begin to flare up. It is left to the inspiring abilities of new coach Gary Gaines to instill in the other team members -- and, by proxy, the town itself -- a sense of self-respect and honor.",
+                "popularity": 3.1071,
+                "poster_path": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+                "release_date": "2004-10-08",
+                "title": "Friday Night Lights",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 594,
+                "character": "State Trooper",
+                "credit_id": "62ebe4e61bf266005da53d8b",
+                "order": 70
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 74643,
+                "original_language": "fr",
+                "original_title": "The Artist",
+                "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+                "popularity": 2.4813,
+                "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+                "release_date": "2011-10-12",
+                "title": "The Artist",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 3368,
+                "character": "Thug #1",
+                "credit_id": "566dac68925141664f00bc39",
+                "order": 43
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 524,
+                "original_language": "en",
+                "original_title": "Casino",
+                "overview": "In early-1970s Las Vegas, Sam \"Ace\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
+                "popularity": 10.5462,
+                "poster_path": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+                "release_date": "1995-11-22",
+                "title": "Casino",
+                "video": false,
+                "vote_average": 7.995,
+                "vote_count": 6186,
+                "credit_id": "651745909b861600ff68dad7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 58,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+                "popularity": 18.1778,
+                "poster_path": "/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
+                "release_date": "2006-07-06",
+                "title": "Pirates of the Caribbean: Dead Man's Chest",
+                "video": false,
+                "vote_average": 7.371,
+                "vote_count": 16594,
+                "credit_id": "65104221344a8e00c59e8d38",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 22,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship\u2014The Black Pearl\u2014so that he can rescue the woman he loves.",
+                "popularity": 20.2178,
+                "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+                "release_date": "2003-07-09",
+                "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "video": false,
+                "vote_average": 7.814,
+                "vote_count": 21447,
+                "credit_id": "653eea6ccc968300c9e4944d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 285,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: At World's End",
+                "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+                "popularity": 15.3163,
+                "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+                "release_date": "2007-05-19",
+                "title": "Pirates of the Caribbean: At World's End",
+                "video": false,
+                "vote_average": 7.261,
+                "vote_count": 14926,
+                "credit_id": "653eed5ecc9683014eb9d0c3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 74643,
+                "original_language": "fr",
+                "original_title": "The Artist",
+                "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+                "popularity": 2.4813,
+                "poster_path": "/z68py0ZqPgeacGPG54AGVRbNBS7.jpg",
+                "release_date": "2011-10-12",
+                "title": "The Artist",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 3368,
+                "credit_id": "566f0e28c3a368264700fba1",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    878,
+                    53
+                ],
+                "id": 281,
+                "original_language": "en",
+                "original_title": "Strange Days",
+                "overview": "Former policeman Lenny Nero has moved into a more lucrative trade: the illegal sale of virtual reality-like recordings that allow users to experience the emotions and past experiences of others. While they typically contain tawdry incidents, Nero is shocked when he receives one showing a murder.",
+                "popularity": 5.7784,
+                "poster_path": "/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+                "release_date": "1995-10-13",
+                "title": "Strange Days",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 1432,
+                "credit_id": "66168282242f94017dc4cca8",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12
+                ],
+                "id": 644,
+                "original_language": "en",
+                "original_title": "A.I. Artificial Intelligence",
+                "overview": "David, a robotic boy\u2014the first of his kind programmed to love\u2014is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+                "popularity": 7.6057,
+                "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+                "release_date": "2001-06-29",
+                "title": "A.I. Artificial Intelligence",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 6391,
+                "credit_id": "5c5623c10e0a26494de0adac",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    80,
+                    14
+                ],
+                "id": 854,
+                "original_language": "en",
+                "original_title": "The Mask",
+                "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+                "popularity": 10.1502,
+                "poster_path": "/yd3wjLLeQHJ3oRDy4wwiNNFVyLW.jpg",
+                "release_date": "1994-07-29",
+                "title": "The Mask",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 10742,
+                "credit_id": "5f6d1b20a6e2d2003862abaa",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mark Donaldson",
+            " Mark J. Donaldson"
+        ],
+        "biography": "J. Mark Donaldson is an Actor and Stunt Person known for Ant-Man and the Wasp (2018), The Kingdom (2007) and Pirates of the Caribbean: At World's End (2007).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://www.istunt.com/mark-donaldson",
+        "id": 1370953,
+        "imdb_id": "nm0232116",
+        "known_for_department": "Crew",
+        "name": "J. Mark Donaldson",
+        "place_of_birth": "Los Angeles, California, U.S",
+        "popularity": 0.1401,
+        "profile_path": null
+    }
+}

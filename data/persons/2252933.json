@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 508,
+                "original_language": "en",
+                "original_title": "Love Actually",
+                "overview": "Eight very different couples deal with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London.",
+                "popularity": 7.304,
+                "poster_path": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+                "release_date": "2003-09-07",
+                "title": "Love Actually",
+                "video": false,
+                "vote_average": 7.103,
+                "vote_count": 7046,
+                "character": "Airport Guard",
+                "credit_id": "63a318a94f33ad00c32e445d",
+                "order": 108
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+                "genre_ids": [
+                    27,
+                    35
+                ],
+                "id": 747,
+                "original_language": "en",
+                "original_title": "Shaun of the Dead",
+                "overview": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+                "popularity": 6.8118,
+                "poster_path": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+                "release_date": "2004-04-09",
+                "title": "Shaun of the Dead",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 8885,
+                "credit_id": "64d6ae6fd100b600e2692a1b",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2252933,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Dave Fisher",
+        "place_of_birth": null,
+        "popularity": 0.0518,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 17.46,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23551,
+                "character": "Guard at Blackgate",
+                "credit_id": "672488328d192614066158e4",
+                "order": 83
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 27205,
+                "original_language": "en",
+                "original_title": "Inception",
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "popularity": 29.1986,
+                "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+                "release_date": "2010-07-15",
+                "title": "Inception",
+                "video": false,
+                "vote_average": 8.37,
+                "vote_count": 37985,
+                "credit_id": "5bcdff539251410574000164",
+                "department": "Crew",
+                "job": "Stand In"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 466272,
+                "original_language": "en",
+                "original_title": "Once Upon a Time... in Hollywood",
+                "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski\u2026",
+                "popularity": 14.5391,
+                "poster_path": "/wQKeS2JrsRF8XSfd9zqflrc5gad.jpg",
+                "release_date": "2019-07-24",
+                "title": "Once Upon a Time... in Hollywood",
+                "video": false,
+                "vote_average": 7.426,
+                "vote_count": 14162,
+                "credit_id": "5d5a4020d2c0c10015981354",
+                "department": "Crew",
+                "job": "Stand In"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2157877,
+        "imdb_id": "nm2438033",
+        "known_for_department": "Crew",
+        "name": "Michael James Faradie",
+        "place_of_birth": null,
+        "popularity": 0.8539,
+        "profile_path": null
+    }
+}

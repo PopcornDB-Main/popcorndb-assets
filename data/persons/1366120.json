@@ -1,0 +1,195 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    12
+                ],
+                "id": 51162,
+                "original_language": "en",
+                "original_title": "Winnie the Pooh",
+                "overview": "During an ordinary day in Hundred Acre Wood, Winnie the Pooh sets out to find some honey. Misinterpreting a note from Christopher Robin, Owl convinces Pooh, Tigger, Rabbit, Piglet, Kanga, Roo, and Eeyore that their young friend has been captured by a creature named \"Backson\" and they set out to rescue him.",
+                "popularity": 2.7609,
+                "poster_path": "/xlFs85nq62jeR4a9iHNGB113m6x.jpg",
+                "release_date": "2011-04-06",
+                "title": "Winnie the Pooh",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 910,
+                "character": "Kanga (voice)",
+                "credit_id": "5aa99553c3a36840ae004790",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/u2bZhH3nTf0So0UIC1QxAqBvC07.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14
+                ],
+                "id": 109445,
+                "original_language": "en",
+                "original_title": "Frozen",
+                "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+                "popularity": 18.2846,
+                "poster_path": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+                "release_date": "2013-11-20",
+                "title": "Frozen",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 17077,
+                "credit_id": "5aa997919251410e41004b13",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    10402,
+                    12
+                ],
+                "id": 354912,
+                "original_language": "en",
+                "original_title": "Coco",
+                "overview": "Despite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+                "popularity": 21.2751,
+                "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+                "release_date": "2017-10-27",
+                "title": "Coco",
+                "video": false,
+                "vote_average": 8.202,
+                "vote_count": 20246,
+                "credit_id": "5aaabb4f0e0a261e49001e27",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 330457,
+                "original_language": "en",
+                "original_title": "Frozen II",
+                "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+                "popularity": 10.0713,
+                "poster_path": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+                "release_date": "2019-11-20",
+                "title": "Frozen II",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 10027,
+                "credit_id": "5dc6203ea14e1000135b399b",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 330457,
+                "original_language": "en",
+                "original_title": "Frozen II",
+                "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+                "popularity": 10.0713,
+                "poster_path": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+                "release_date": "2019-11-20",
+                "title": "Frozen II",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 10027,
+                "credit_id": "5de3365fc51acd0015f8c4b9",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 330457,
+                "original_language": "en",
+                "original_title": "Frozen II",
+                "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+                "popularity": 10.0713,
+                "poster_path": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+                "release_date": "2019-11-20",
+                "title": "Frozen II",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 10027,
+                "credit_id": "5de9688227d9cc0017e918ef",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    12
+                ],
+                "id": 51162,
+                "original_language": "en",
+                "original_title": "Winnie the Pooh",
+                "overview": "During an ordinary day in Hundred Acre Wood, Winnie the Pooh sets out to find some honey. Misinterpreting a note from Christopher Robin, Owl convinces Pooh, Tigger, Rabbit, Piglet, Kanga, Roo, and Eeyore that their young friend has been captured by a creature named \"Backson\" and they set out to rescue him.",
+                "popularity": 2.7609,
+                "poster_path": "/xlFs85nq62jeR4a9iHNGB113m6x.jpg",
+                "release_date": "2011-04-06",
+                "title": "Winnie the Pooh",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 910,
+                "credit_id": "673b9a7d15ccbf3414ded542",
+                "department": "Sound",
+                "job": "Songs"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Kristen Anderson-Lopez is an American songwriter. She is best known for co-writing songs for the animated film Frozen (2013) with her husband Robert Lopez. Lopez won the Academy Award for Best Original Song for \"Let It Go\" from Frozen and \"Remember Me\" from Coco (2017) at the 86th Academy Awards and 90th Academy Awards. She also won two Grammy Awards at the 57th Annual Grammy Awards.",
+        "birthday": "1972-03-21",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1366120,
+        "imdb_id": "nm2844448",
+        "known_for_department": "Sound",
+        "name": "Kristen Anderson-Lopez",
+        "place_of_birth": "New York, New York, U.S.",
+        "popularity": 0.1391,
+        "profile_path": "/j0IJP06I5SVUtxcbZ1oRG0SB2D8.jpg"
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 102899,
+                "original_language": "en",
+                "original_title": "Ant-Man",
+                "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+                "popularity": 8.4547,
+                "poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+                "release_date": "2015-07-14",
+                "title": "Ant-Man",
+                "video": false,
+                "vote_average": 7.067,
+                "vote_count": 20321,
+                "character": "Armed Guard",
+                "credit_id": "55e513afc3a36813eb000c15",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zb7b40ieuRGiIc9ebIEapneaCsl.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 59440,
+                "original_language": "en",
+                "original_title": "Warrior",
+                "overview": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament \u2013 a path that puts the fighter on a collision course with his estranged, older brother.",
+                "popularity": 6.9883,
+                "poster_path": "/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+                "release_date": "2011-09-09",
+                "title": "Warrior",
+                "video": false,
+                "vote_average": 7.845,
+                "vote_count": 4793,
+                "character": "Francisco Barbosa",
+                "credit_id": "5628282b9251414cd50001e9",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.1886,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.236,
+                "vote_count": 30958,
+                "credit_id": "64d46d2af14dad011dfb4042",
+                "department": "Crew",
+                "job": "Utility Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284053,
+                "original_language": "en",
+                "original_title": "Thor: Ragnarok",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+                "popularity": 10.5803,
+                "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "release_date": "2017-10-02",
+                "title": "Thor: Ragnarok",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 21406,
+                "credit_id": "64d59553d100b600ff09bae1",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 118340,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy",
+                "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                "popularity": 7.2188,
+                "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+                "release_date": "2014-07-30",
+                "title": "Guardians of the Galaxy",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 28888,
+                "credit_id": "64d5a4aaf495ee028f6326bb",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pp3QUzMXfP7q0ocmE1b15FH6PQ6.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    10749
+                ],
+                "id": 868759,
+                "original_language": "en",
+                "original_title": "Ghosted",
+                "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie\u2014but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+                "popularity": 11.0962,
+                "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+                "release_date": "2023-04-18",
+                "title": "Ghosted",
+                "video": false,
+                "vote_average": 6.933,
+                "vote_count": 2006,
+                "credit_id": "6516e0a7a199a600fe75796c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 495764,
+                "original_language": "en",
+                "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+                "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+                "popularity": 10.6603,
+                "poster_path": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+                "release_date": "2020-02-05",
+                "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+                "video": false,
+                "vote_average": 6.893,
+                "vote_count": 10531,
+                "credit_id": "6438c6dfab6849009825ec1e",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1895,
+                "original_language": "en",
+                "original_title": "Star Wars: Episode III - Revenge of the Sith",
+                "overview": "The evil Darth Sidious enacts his final plan for unlimited power \u2013 and the heroic Jedi Anakin Skywalker must choose a side.",
+                "popularity": 7.8713,
+                "poster_path": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+                "release_date": "2005-05-17",
+                "title": "Star Wars: Episode III - Revenge of the Sith",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 14355,
+                "credit_id": "667f88e003c83073718a9853",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    878
+                ],
+                "id": 533535,
+                "original_language": "en",
+                "original_title": "Deadpool & Wolverine",
+                "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+                "popularity": 34.3586,
+                "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+                "release_date": "2024-07-24",
+                "title": "Deadpool & Wolverine",
+                "video": false,
+                "vote_average": 7.579,
+                "vote_count": 7743,
+                "credit_id": "668d92a90293ab2aa81f6a80",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    53
+                ],
+                "id": 718930,
+                "original_language": "en",
+                "original_title": "Bullet Train",
+                "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.",
+                "popularity": 13.3041,
+                "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+                "release_date": "2022-08-03",
+                "title": "Bullet Train",
+                "video": false,
+                "vote_average": 7.425,
+                "vote_count": 6920,
+                "credit_id": "64b31c0cc8a2d400e393490b",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 271110,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "popularity": 11.6814,
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "release_date": "2016-04-27",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "vote_average": 7.447,
+                "vote_count": 23413,
+                "credit_id": "64ceb4a285090f00c87ce697",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    878
+                ],
+                "id": 550988,
+                "original_language": "en",
+                "original_title": "Free Guy",
+                "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+                "popularity": 10.6657,
+                "poster_path": "/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg",
+                "release_date": "2021-08-11",
+                "title": "Free Guy",
+                "video": false,
+                "vote_average": 7.47,
+                "vote_count": 9278,
+                "credit_id": "5d0e354cc3a368168222ddd7",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 545609,
+                "original_language": "en",
+                "original_title": "Extraction",
+                "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+                "popularity": 7.0235,
+                "poster_path": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+                "release_date": "2020-04-23",
+                "title": "Extraction",
+                "video": false,
+                "vote_average": 7.309,
+                "vote_count": 6336,
+                "credit_id": "5ea35f8a66f2d200243d742c",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 1726,
+                "original_language": "en",
+                "original_title": "Iron Man",
+                "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+                "popularity": 15.7256,
+                "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+                "release_date": "2008-04-30",
+                "title": "Iron Man",
+                "video": false,
+                "vote_average": 7.653,
+                "vote_count": 27330,
+                "credit_id": "5f596e92079a970035b5cc36",
+                "department": "Crew",
+                "job": "Stunt Double"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Daniel Stevens is known for\u00a0Avengers: Endgame (2019),\u00a0Black Panther (2018),\u00a0and\u00a0Iron Man (2008).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://instabio.cc/danielstevens",
+        "id": 1502956,
+        "imdb_id": "nm1174894",
+        "known_for_department": "Crew",
+        "name": "Daniel Stevens",
+        "place_of_birth": null,
+        "popularity": 0.3101,
+        "profile_path": "/oJhASwyMincQlxf42aJn9khlt9Z.jpg"
+    }
+}

@@ -1,0 +1,467 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    10402
+                ],
+                "id": 11176,
+                "original_language": "en",
+                "original_title": "The Muppet Movie",
+                "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+                "popularity": 2.8254,
+                "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+                "release_date": "1979-06-22",
+                "title": "The Muppet Movie",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 658,
+                "character": "Professor Max Krassman",
+                "credit_id": "52fe44089251416c75026ac7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+                "genre_ids": [
+                    37,
+                    35
+                ],
+                "id": 11072,
+                "original_language": "en",
+                "original_title": "Blazing Saddles",
+                "overview": "A town\u2014where everyone seems to be named Johnson\u2014stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+                "popularity": 3.1607,
+                "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+                "release_date": "1974-02-07",
+                "title": "Blazing Saddles",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1971,
+                "character": "Governor William J. Le Petomane / Indian Chief",
+                "credit_id": "52fe43f19251416c75023bb1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.0575,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.866,
+                "vote_count": 3249,
+                "character": "Werewolf / Cat Hit by Dart / Victor Frankenstein (voice)",
+                "credit_id": "568ea433c3a3685906003422",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 342473,
+                "original_language": "en",
+                "original_title": "Ballerina",
+                "overview": "In 1879 Paris, a young orphan dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.",
+                "popularity": 4.0177,
+                "poster_path": "/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg",
+                "release_date": "2016-12-14",
+                "title": "Ballerina",
+                "video": false,
+                "vote_average": 7.188,
+                "vote_count": 1934,
+                "character": "Mustachioed Creep (voice)",
+                "credit_id": "58e9b21c925141351f02f12b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 342473,
+                "original_language": "en",
+                "original_title": "Ballerina",
+                "overview": "In 1879 Paris, a young orphan dreams of becoming a ballerina and flees her rural Brittany for Paris, where she passes for someone else and accedes to the position of pupil at the Grand Opera house.",
+                "popularity": 4.0177,
+                "poster_path": "/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg",
+                "release_date": "2016-12-14",
+                "title": "Ballerina",
+                "video": false,
+                "vote_average": 7.188,
+                "vote_count": 1934,
+                "character": "Luteau (voice)",
+                "credit_id": "5a1bc83c0e0a264cbc05121b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7bJjfaAIsUT0SYwSy9ahzJLrka.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 30197,
+                "original_language": "en",
+                "original_title": "The Producers",
+                "overview": "Broadway producer Max Bialystock and his accountant, Leo Bloom, plan to make money by charming wealthy old biddies to invest in a production many times over the actual cost, and then put on a sure-fire flop, so nobody will ask for their money back \u2013 and what can be a more certain flop than a tasteless musical celebrating Hitler.",
+                "popularity": 1.8484,
+                "poster_path": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+                "release_date": "1968-03-18",
+                "title": "The Producers",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 834,
+                "character": "Singer in \"Springtime for Hitler\" (voice) (uncredited)",
+                "credit_id": "5b2f1a209251417470000a4e",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    16,
+                    35,
+                    14
+                ],
+                "id": 301528,
+                "original_language": "en",
+                "original_title": "Toy Story 4",
+                "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+                "popularity": 11.5234,
+                "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+                "release_date": "2019-06-19",
+                "title": "Toy Story 4",
+                "video": false,
+                "vote_average": 7.469,
+                "vote_count": 10152,
+                "character": "Melephant Brooks (voice)",
+                "credit_id": "5d06694792514163d1bfb2bc",
+                "order": 30
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.0575,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.866,
+                "vote_count": 3249,
+                "credit_id": "52fe437ec3a36847f8058703",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.0575,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.866,
+                "vote_count": 3249,
+                "credit_id": "52fe437ec3a36847f8058715",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7bJjfaAIsUT0SYwSy9ahzJLrka.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 30197,
+                "original_language": "en",
+                "original_title": "The Producers",
+                "overview": "Broadway producer Max Bialystock and his accountant, Leo Bloom, plan to make money by charming wealthy old biddies to invest in a production many times over the actual cost, and then put on a sure-fire flop, so nobody will ask for their money back \u2013 and what can be a more certain flop than a tasteless musical celebrating Hitler.",
+                "popularity": 1.8484,
+                "poster_path": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+                "release_date": "1968-03-18",
+                "title": "The Producers",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 834,
+                "credit_id": "52fe44049251416c910023b1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+                "genre_ids": [
+                    37,
+                    35
+                ],
+                "id": 11072,
+                "original_language": "en",
+                "original_title": "Blazing Saddles",
+                "overview": "A town\u2014where everyone seems to be named Johnson\u2014stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+                "popularity": 3.1607,
+                "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+                "release_date": "1974-02-07",
+                "title": "Blazing Saddles",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1971,
+                "credit_id": "52fe43f19251416c75023bbb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+                "genre_ids": [
+                    37,
+                    35
+                ],
+                "id": 11072,
+                "original_language": "en",
+                "original_title": "Blazing Saddles",
+                "overview": "A town\u2014where everyone seems to be named Johnson\u2014stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+                "popularity": 3.1607,
+                "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+                "release_date": "1974-02-07",
+                "title": "Blazing Saddles",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1971,
+                "credit_id": "52fe43f19251416c75023be7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+                "genre_ids": [
+                    37,
+                    35
+                ],
+                "id": 11072,
+                "original_language": "en",
+                "original_title": "Blazing Saddles",
+                "overview": "A town\u2014where everyone seems to be named Johnson\u2014stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+                "popularity": 3.1607,
+                "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+                "release_date": "1974-02-07",
+                "title": "Blazing Saddles",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1971,
+                "credit_id": "60e1a4bf10561100761ba100",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+                "genre_ids": [
+                    37,
+                    35
+                ],
+                "id": 11072,
+                "original_language": "en",
+                "original_title": "Blazing Saddles",
+                "overview": "A town\u2014where everyone seems to be named Johnson\u2014stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+                "popularity": 3.1607,
+                "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+                "release_date": "1974-02-07",
+                "title": "Blazing Saddles",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1971,
+                "credit_id": "60e1a4cf4ca676002dde766d",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7bJjfaAIsUT0SYwSy9ahzJLrka.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 30197,
+                "original_language": "en",
+                "original_title": "The Producers",
+                "overview": "Broadway producer Max Bialystock and his accountant, Leo Bloom, plan to make money by charming wealthy old biddies to invest in a production many times over the actual cost, and then put on a sure-fire flop, so nobody will ask for their money back \u2013 and what can be a more certain flop than a tasteless musical celebrating Hitler.",
+                "popularity": 1.8484,
+                "poster_path": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+                "release_date": "1968-03-18",
+                "title": "The Producers",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 834,
+                "credit_id": "60fc27d7d7fbda0062ab1af9",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7bJjfaAIsUT0SYwSy9ahzJLrka.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 30197,
+                "original_language": "en",
+                "original_title": "The Producers",
+                "overview": "Broadway producer Max Bialystock and his accountant, Leo Bloom, plan to make money by charming wealthy old biddies to invest in a production many times over the actual cost, and then put on a sure-fire flop, so nobody will ask for their money back \u2013 and what can be a more certain flop than a tasteless musical celebrating Hitler.",
+                "popularity": 1.8484,
+                "poster_path": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+                "release_date": "1968-03-18",
+                "title": "The Producers",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 834,
+                "credit_id": "60fc27e3f29d66005d2bae6e",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/i7bJjfaAIsUT0SYwSy9ahzJLrka.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 30197,
+                "original_language": "en",
+                "original_title": "The Producers",
+                "overview": "Broadway producer Max Bialystock and his accountant, Leo Bloom, plan to make money by charming wealthy old biddies to invest in a production many times over the actual cost, and then put on a sure-fire flop, so nobody will ask for their money back \u2013 and what can be a more certain flop than a tasteless musical celebrating Hitler.",
+                "popularity": 1.8484,
+                "poster_path": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+                "release_date": "1968-03-18",
+                "title": "The Producers",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 834,
+                "credit_id": "54e4af66925141139d000b08",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 3034,
+                "original_language": "en",
+                "original_title": "Young Frankenstein",
+                "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+                "popularity": 3.0575,
+                "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+                "release_date": "1974-12-15",
+                "title": "Young Frankenstein",
+                "video": false,
+                "vote_average": 7.866,
+                "vote_count": 3249,
+                "credit_id": "5797fb9bc3a368294000427f",
+                "department": "Writing",
+                "job": "Screenstory"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 9426,
+                "original_language": "en",
+                "original_title": "The Fly",
+                "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+                "popularity": 5.6429,
+                "poster_path": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+                "release_date": "1986-08-15",
+                "title": "The Fly",
+                "video": false,
+                "vote_average": 7.421,
+                "vote_count": 4700,
+                "credit_id": "662ddf60c3aa3f0123fd2dbf",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1YlaU9vXlD4K5EBGZKjaCb9rJb9.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1955,
+                "original_language": "en",
+                "original_title": "The Elephant Man",
+                "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+                "popularity": 6.5851,
+                "poster_path": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+                "release_date": "1980-10-09",
+                "title": "The Elephant Man",
+                "video": false,
+                "vote_average": 8.048,
+                "vote_count": 3728,
+                "credit_id": "662ddf2ef6fd18012222b0b5",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Melvin James Kaminsky ",
+            "\u0645\u0644 \u0628\u0631\u0648\u06a9\u0633"
+        ],
+        "biography": "Melvin James Brooks\u00a0(n\u00e9\u00a0Kaminsky; June 28, 1926) is an American actor, comedian, filmmaker, and songwriter. With a career spanning over seven decades, he is known as a writer and director of a variety of successful broad\u00a0farces\u00a0and\u00a0parodies.\u00a0A recipient of\u00a0numerous accolades, he is one of\u00a021 entertainers to win the EGOT\u00a0(which includes an\u00a0Emmy, a\u00a0Grammy, an\u00a0Oscar, and a\u00a0Tony). He received a\u00a0Kennedy Center Honor\u00a0in 2009, a\u00a0Hollywood Walk of Fame\u00a0star in 2010, the\u00a0AFI Life Achievement Award\u00a0in 2013, a\u00a0British Film Institute Fellowship\u00a0in 2015, a\u00a0National Medal of Arts in 2016, a\u00a0BAFTA Fellowship\u00a0in 2017, and the\u00a0Honorary Academy Award\u00a0in 2024.\n\nBrooks began his career as a comic and a writer for\u00a0Sid Caesar's variety show\u00a0Your Show of Shows(1950\u20131954). There, he worked with\u00a0Neil Simon,\u00a0Woody Allen,\u00a0Larry Gelbart, and\u00a0Carl Reiner. With Reiner, he co-created the comedy sketch\u00a0The 2000 Year Old Man. He released several comedy albums, starting with\u00a02000 Year Old Man\u00a0in 1960. Brooks received five nominations for the\u00a0Grammy Award for Best Comedy Album, finally winning in 1999. With\u00a0Buck Henry, he created the hit satirical spy\u00a0comedy\u00a0series\u00a0Get Smart\u00a0(1965\u20131970) on NBC television.\n\nBrooks won the\u00a0Academy Award for Best Original Screenplay\u00a0for\u00a0The Producers\u00a0(1967). He then rose to prominence by directing a string of successful comedy films such as\u00a0The Twelve Chairs\u00a0(1970),\u00a0Blazing Saddles\u00a0(1974),\u00a0Young Frankenstein\u00a0(1974),\u00a0Silent Movie\u00a0(1976), and\u00a0High Anxiety\u00a0(1977). Later, Brooks made\u00a0History of the World, Part I\u00a0(1981),\u00a0Spaceballs\u00a0(1987),\u00a0Life Stinks\u00a0(1991),\u00a0Robin Hood: Men in Tights\u00a0(1993), and\u00a0Dracula: Dead and Loving It\u00a0(1995).\u00a0A\u00a0musical adaptation\u00a0of his first film,\u00a0The Producers, ran on Broadway from 2001 to 2007 and earned Brooks three\u00a0Tony Awards. The project was remade into a\u00a0musical film in 2005. He wrote and produced the\u00a0Hulu\u00a0series\u00a0History of the World, Part II\u00a0(2023).\n\nBrooks was married to actress\u00a0Anne Bancroft\u00a0from 1964 until she died in 2005. Their son, Max Brooks, is an actor and author known for his novel World War Z: An Oral History of the Zombie War\u00a0(2006). In 2021, Mel Brooks published his memoir titled\u00a0All About Me!. Three of his films are included on the\u00a0American Film Institute's list of the\u00a0top 100 comedy films of the past 100 years (1900\u20132000), all of which were ranked in the top 15:\u00a0Blazing Saddles\u00a0at number 6,\u00a0The Producers at number 11, and\u00a0Young Frankenstein\u00a0at number 13.",
+        "birthday": "1926-06-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 14639,
+        "imdb_id": "nm0000316",
+        "known_for_department": "Acting",
+        "name": "Mel Brooks",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 1.0031,
+        "profile_path": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+    }
+}

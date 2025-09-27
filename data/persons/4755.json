@@ -1,0 +1,348 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9U4Di9iOslz3eJ9eRkdg5Qrf9JY.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1371,
+                "original_language": "en",
+                "original_title": "Rocky III",
+                "overview": "Following Rocky Balboa's intense battle with his most powerful adversary yet \u2013 the ferocious Clubber Lang \u2013 Rocky joins forces with former rival Apollo Creed in an effort to get back his fighting spirit.",
+                "popularity": 5.3431,
+                "poster_path": "/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+                "release_date": "1982-05-28",
+                "title": "Rocky III",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 4308,
+                "character": "Opponent",
+                "credit_id": "5e7377edb1f68d0012df09a3",
+                "order": 50
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 1700,
+                "original_language": "en",
+                "original_title": "Misery",
+                "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+                "popularity": 5.1395,
+                "poster_path": "/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg",
+                "release_date": "1990-11-30",
+                "title": "Misery",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 4906,
+                "credit_id": "6052740bf48e0d007cab162d",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/96WHK0TiIslmM8rGVIejMtMtaPG.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 604,
+                "original_language": "en",
+                "original_title": "The Matrix Reloaded",
+                "overview": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+                "popularity": 8.3652,
+                "poster_path": "/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+                "release_date": "2003-05-15",
+                "title": "The Matrix Reloaded",
+                "video": false,
+                "vote_average": 7.065,
+                "vote_count": 11452,
+                "credit_id": "60e5bc41b76cbb002d449848",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    35,
+                    53,
+                    80
+                ],
+                "id": 941,
+                "original_language": "en",
+                "original_title": "Lethal Weapon",
+                "overview": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces.",
+                "popularity": 5.0507,
+                "poster_path": "/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
+                "release_date": "1987-03-06",
+                "title": "Lethal Weapon",
+                "video": false,
+                "vote_average": 7.285,
+                "vote_count": 4780,
+                "credit_id": "61d33a8b31644b00662bf7b8",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1fI06RK90Vp7ybQxs84ep1iQrqD.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9846,
+                "original_language": "en",
+                "original_title": "To Live and Die in L.A.",
+                "overview": "When his longtime partner on the force is killed, reckless U.S. Secret Service agent Richard Chance vows revenge, setting out to nab dangerous counterfeit artist Eric Masters.",
+                "popularity": 3.2159,
+                "poster_path": "/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
+                "release_date": "1985-11-01",
+                "title": "To Live and Die in L.A.",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 709,
+                "credit_id": "64304a8ce92d830077f7b3e9",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18
+                ],
+                "id": 111,
+                "original_language": "en",
+                "original_title": "Scarface",
+                "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                "popularity": 12.0712,
+                "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+                "release_date": "1983-12-09",
+                "title": "Scarface",
+                "video": false,
+                "vote_average": 8.16,
+                "vote_count": 12462,
+                "credit_id": "64304aa96dea3a0096dbae40",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rBL73dGfdEqTr7Xj0HytF9s9SbM.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 11153,
+                "original_language": "en",
+                "original_title": "National Lampoon's Vacation",
+                "overview": "Clark Griswold is on a quest to take his family to the Walley World theme park for a vacation, but things don't go exactly as planned.",
+                "popularity": 3.9056,
+                "poster_path": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+                "release_date": "1983-07-29",
+                "title": "National Lampoon's Vacation",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1640,
+                "credit_id": "64304ab81dbc880113f73df7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c8P7vv4m4sFi5ul6Zppu9irnUVF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35
+                ],
+                "id": 11006,
+                "original_language": "en",
+                "original_title": "Smokey and the Bandit",
+                "overview": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+                "popularity": 3.7603,
+                "poster_path": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+                "release_date": "1977-05-27",
+                "title": "Smokey and the Bandit",
+                "video": false,
+                "vote_average": 6.984,
+                "vote_count": 758,
+                "credit_id": "64304c351b729400b3257df8",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y4TbQOC9DCzZop9HwKuX73rKbYO.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 9631,
+                "original_language": "en",
+                "original_title": "The Negotiator",
+                "overview": "The police try to arrest expert hostage negotiator Danny Roman, who insists he's being framed for his partner's murder in what he believes is an elaborate conspiracy. Thinking there's evidence in the Internal Affairs offices that might clear him, he takes everyone in the office hostage and demands that another well-known negotiator be brought in to handle the situation and secretly investigate the conspiracy.",
+                "popularity": 5.4242,
+                "poster_path": "/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg",
+                "release_date": "1998-07-29",
+                "title": "The Negotiator",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 2227,
+                "credit_id": "64304d8895c0af0097a2755c",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 671,
+                "original_language": "en",
+                "original_title": "Harry Potter and the Philosopher's Stone",
+                "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+                "popularity": 32.639,
+                "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+                "release_date": "2001-11-16",
+                "title": "Harry Potter and the Philosopher's Stone",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 28631,
+                "credit_id": "5c55e372c3a36805e882e967",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zMHyNxNt4zhL939XX8QLBW3gWfu.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    10752
+                ],
+                "id": 8619,
+                "original_language": "en",
+                "original_title": "Master and Commander: The Far Side of the World",
+                "overview": "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend.",
+                "popularity": 3.3888,
+                "poster_path": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+                "release_date": "2003-11-14",
+                "title": "Master and Commander: The Far Side of the World",
+                "video": false,
+                "vote_average": 7.171,
+                "vote_count": 3325,
+                "credit_id": "5c5cc3efc3a3684d8d88e802",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 2907,
+                "original_language": "en",
+                "original_title": "The Addams Family",
+                "overview": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.",
+                "popularity": 9.3739,
+                "poster_path": "/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+                "release_date": "1991-11-22",
+                "title": "The Addams Family",
+                "video": false,
+                "vote_average": 7.066,
+                "vote_count": 4818,
+                "credit_id": "5daaf93c223a8b001556b9ae",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lyHnFsWafILUlizalpCSikJT7Ui.jpg",
+                "genre_ids": [
+                    878,
+                    27
+                ],
+                "id": 11850,
+                "original_language": "en",
+                "original_title": "Invasion of the Body Snatchers",
+                "overview": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+                "popularity": 4.5325,
+                "poster_path": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+                "release_date": "1978-12-20",
+                "title": "Invasion of the Body Snatchers",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 1212,
+                "credit_id": "5f1a2d1cb3440900349c2d1f",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k63j5qexRlpD3wxzETKfuZRVWiT.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749,
+                    14
+                ],
+                "id": 9007,
+                "original_language": "en",
+                "original_title": "Just Like Heaven",
+                "overview": "Shortly after David Abbott moves into his new San Francisco digs, he has an unwelcome visitor on his hands: winsome Elizabeth Masterson, who asserts that the apartment is hers -- and promptly vanishes. When she starts appearing and disappearing at will, David thinks she's a ghost, while Elizabeth is convinced she's alive.",
+                "popularity": 3.2239,
+                "poster_path": "/2cLbyVNhEEaUJGg7rfbLtX6454I.jpg",
+                "release_date": "2005-09-16",
+                "title": "Just Like Heaven",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 2473,
+                "credit_id": "679b3c8de21cbb9a5b345404",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David Richard Ellis",
+            "David Ellis",
+            "\u062f\u06cc\u0648\u06cc\u062f \u0622\u0631. \u0627\u0644\u06cc\u0633"
+        ],
+        "biography": "David Richard Ellis (September 8, 1952 - January 7, 2013) was an American filmmaker, actor and  stuntman. He is best known for directing the films Final Destination 2 (2003), Cellular (2004), Snakes on a Plane (2006) and Shark Night 3D (2011).",
+        "birthday": "1952-09-08",
+        "deathday": "2013-01-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 4755,
+        "imdb_id": "nm0254786",
+        "known_for_department": "Directing",
+        "name": "David R. Ellis",
+        "place_of_birth": "Santa Monica, California, USA",
+        "popularity": 0.2569,
+        "profile_path": "/zw1ccRyxUBy0y7JDdXTZAYg96xd.jpg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 161,
+                "original_language": "en",
+                "original_title": "Ocean's Eleven",
+                "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+                "popularity": 8.191,
+                "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+                "release_date": "2001-12-07",
+                "title": "Ocean's Eleven",
+                "video": false,
+                "vote_average": 7.45,
+                "vote_count": 12052,
+                "character": "Police Officer",
+                "credit_id": "5eb5b2b9cc277c00216a0148",
+                "order": 62
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 550,
+                "original_language": "en",
+                "original_title": "Fight Club",
+                "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+                "popularity": 41.252,
+                "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+                "release_date": "1999-10-15",
+                "title": "Fight Club",
+                "video": false,
+                "vote_average": 8.438,
+                "vote_count": 30778,
+                "credit_id": "5894cab49251410b990005b2",
+                "department": "Crew",
+                "job": "Transportation Captain"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1586924,
+        "imdb_id": "nm0019166",
+        "known_for_department": "Crew",
+        "name": "Jim Alfonso",
+        "place_of_birth": null,
+        "popularity": 0.0338,
+        "profile_path": null
+    }
+}

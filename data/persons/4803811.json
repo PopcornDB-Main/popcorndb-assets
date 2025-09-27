@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 932086,
+                "original_language": "en",
+                "original_title": "Horizon: An American Saga - Chapter 1",
+                "overview": "In 1859, families discover the lure of the Old West as they settle in territories from Wyoming to Kansas. Meanwhile, a gruff cowboy soon finds himself on the run with a prostitute and a young boy after killing a fellow gunman.",
+                "popularity": 4.7386,
+                "poster_path": "/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+                "release_date": "2024-06-26",
+                "title": "Horizon: An American Saga - Chapter 1",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 564,
+                "character": "Dr. Bowman",
+                "credit_id": "6682059bd900cdaa2965a08b",
+                "order": 53
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    37
+                ],
+                "id": 581,
+                "original_language": "en",
+                "original_title": "Dances with Wolves",
+                "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide\u2014and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+                "popularity": 6.3229,
+                "poster_path": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+                "release_date": "1990-03-30",
+                "title": "Dances with Wolves",
+                "video": false,
+                "vote_average": 7.843,
+                "vote_count": 4473,
+                "credit_id": "66a050cfa8ad40144e5288f2",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John J. Coinman"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 4803811,
+        "imdb_id": "nm0170024",
+        "known_for_department": "Acting",
+        "name": "John Coinman",
+        "place_of_birth": null,
+        "popularity": 0.3103,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 2758,
+                "original_language": "en",
+                "original_title": "Addams Family Values",
+                "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+                "popularity": 8.2465,
+                "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+                "release_date": "1993-11-19",
+                "title": "Addams Family Values",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 3169,
+                "character": "Mr. Glicker",
+                "credit_id": "52fe436ac3a36847f8052a81",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 11368,
+                "original_language": "en",
+                "original_title": "Blood Simple",
+                "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+                "popularity": 6.0069,
+                "poster_path": "/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
+                "release_date": "1984-03-26",
+                "title": "Blood Simple",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 1519,
+                "character": "Marty's Vomiting (voice) (uncredited)",
+                "credit_id": "550599fcc3a3686b75000582",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    878
+                ],
+                "id": 607,
+                "original_language": "en",
+                "original_title": "Men in Black",
+                "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+                "popularity": 8.9084,
+                "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+                "release_date": "1997-07-02",
+                "title": "Men in Black",
+                "video": false,
+                "vote_average": 7.213,
+                "vote_count": 14282,
+                "character": "Alien on TV Monitor (uncredited)",
+                "credit_id": "5f49c27e39b6c30036973ecd",
+                "order": 60
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eOn6EtViFLxXAmPPjJR861Dx4PX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 290,
+                "original_language": "en",
+                "original_title": "Barton Fink",
+                "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+                "popularity": 3.241,
+                "poster_path": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+                "release_date": "1991-08-01",
+                "title": "Barton Fink",
+                "video": false,
+                "vote_average": 7.454,
+                "vote_count": 1766,
+                "character": "Page Calling for Barton Fink (uncredited)",
+                "credit_id": "609fa1ade18e3f002a401486",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cEsnLkTCJ4jh9Oym7nPAPGnOMm3.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 379,
+                "original_language": "en",
+                "original_title": "Miller's Crossing",
+                "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+                "popularity": 2.9017,
+                "poster_path": "/ab3pnsTKp3BgcAFy0FgWBFBg9FL.jpg",
+                "release_date": "1990-09-21",
+                "title": "Miller's Crossing",
+                "video": false,
+                "vote_average": 7.458,
+                "vote_count": 1740,
+                "credit_id": "52fe423cc3a36847f800e7b1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    878
+                ],
+                "id": 607,
+                "original_language": "en",
+                "original_title": "Men in Black",
+                "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+                "popularity": 8.9084,
+                "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+                "release_date": "1997-07-02",
+                "title": "Men in Black",
+                "video": false,
+                "vote_average": 7.213,
+                "vote_count": 14282,
+                "credit_id": "52fe425cc3a36847f8018739",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dbdegCWeD4iK5LXxSBjGdIRsVXS.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 639,
+                "original_language": "en",
+                "original_title": "When Harry Met Sally...",
+                "overview": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
+                "popularity": 4.3785,
+                "poster_path": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+                "release_date": "1989-07-12",
+                "title": "When Harry Met Sally...",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 4306,
+                "credit_id": "52fe4262c3a36847f801a523",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 1700,
+                "original_language": "en",
+                "original_title": "Misery",
+                "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+                "popularity": 5.1395,
+                "poster_path": "/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg",
+                "release_date": "1990-11-30",
+                "title": "Misery",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 4906,
+                "credit_id": "52fe430ec3a36847f8036fff",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 2758,
+                "original_language": "en",
+                "original_title": "Addams Family Values",
+                "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+                "popularity": 8.2465,
+                "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+                "release_date": "1993-11-19",
+                "title": "Addams Family Values",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 3169,
+                "credit_id": "52fe436ac3a36847f8052a33",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 2907,
+                "original_language": "en",
+                "original_title": "The Addams Family",
+                "overview": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.",
+                "popularity": 9.3739,
+                "poster_path": "/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+                "release_date": "1991-11-22",
+                "title": "The Addams Family",
+                "video": false,
+                "vote_average": 7.066,
+                "vote_count": 4818,
+                "credit_id": "52fe4374c3a36847f80554bf",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 1700,
+                "original_language": "en",
+                "original_title": "Misery",
+                "overview": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+                "popularity": 5.1395,
+                "poster_path": "/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg",
+                "release_date": "1990-11-30",
+                "title": "Misery",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 4906,
+                "credit_id": "605271e4d2147c003db4ac11",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dGbBnTYxdHf1qyUgHsuFpxn1K4E.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    35,
+                    10749,
+                    10751
+                ],
+                "id": 2280,
+                "original_language": "en",
+                "original_title": "Big",
+                "overview": "When a young boy makes a wish at a carnival machine to be big\u2014he wakes up the following morning to find that it has been granted and his body has grown older overnight. But he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups including getting a job and having his first romantic encounter with a woman.",
+                "popularity": 5.4543,
+                "poster_path": "/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+                "release_date": "1988-06-03",
+                "title": "Big",
+                "video": false,
+                "vote_average": 7.181,
+                "vote_count": 3789,
+                "credit_id": "52fe4349c3a36847f8048b01",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 11368,
+                "original_language": "en",
+                "original_title": "Blood Simple",
+                "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+                "popularity": 6.0069,
+                "poster_path": "/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
+                "release_date": "1984-03-26",
+                "title": "Blood Simple",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 1519,
+                "credit_id": "55059a24c3a36862e5002ade",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oSFshBf9Wrv5UcmZYAmy28BwSSh.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 378,
+                "original_language": "en",
+                "original_title": "Raising Arizona",
+                "overview": "When a childless couple--an ex-con and an ex-cop--decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+                "popularity": 4.2867,
+                "poster_path": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+                "release_date": "1987-03-13",
+                "title": "Raising Arizona",
+                "video": false,
+                "vote_average": 7.062,
+                "vote_count": 2209,
+                "credit_id": "567f2bb19251414d98001351",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cEsnLkTCJ4jh9Oym7nPAPGnOMm3.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 379,
+                "original_language": "en",
+                "original_title": "Miller's Crossing",
+                "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+                "popularity": 2.9017,
+                "poster_path": "/ab3pnsTKp3BgcAFy0FgWBFBg9FL.jpg",
+                "release_date": "1990-09-21",
+                "title": "Miller's Crossing",
+                "video": false,
+                "vote_average": 7.458,
+                "vote_count": 1740,
+                "credit_id": "673a2ac76067cb94676a3445",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ubc30\ub9ac \uc18c\ub128\ud3a0\ub4dc"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nBarry Sonnenfeld (born April 1, 1953) is an American filmmaker and television director. He worked as cinematographer for the Coen Brothers, then later he directed and produced big budget films such as Men in Black.\n\nDescription above from the Wikipedia article Barry Sonnenfeld, licensed under CC-BY-SA, full list of contributors on Wikipedia.\u200b",
+        "birthday": "1953-04-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5174,
+        "imdb_id": "nm0001756",
+        "known_for_department": "Directing",
+        "name": "Barry Sonnenfeld",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.3757,
+        "profile_path": "/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg"
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.1228,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.501,
+                "vote_count": 15872,
+                "character": "Additional Voices (voice)",
+                "credit_id": "5863403b9251412b7d007157",
+                "order": 93
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 109424,
+                "original_language": "en",
+                "original_title": "Captain Phillips",
+                "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+                "popularity": 4.6196,
+                "poster_path": "/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+                "release_date": "2013-10-10",
+                "title": "Captain Phillips",
+                "video": false,
+                "vote_average": 7.538,
+                "vote_count": 7180,
+                "credit_id": "54a818039251414d5b001f19",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yFPaqqXMGsdOKit3fsAJ9tqPJRP.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242582,
+                "original_language": "en",
+                "original_title": "Nightcrawler",
+                "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+                "popularity": 9.0762,
+                "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+                "release_date": "2014-10-23",
+                "title": "Nightcrawler",
+                "video": false,
+                "vote_average": 7.705,
+                "vote_count": 11236,
+                "credit_id": "54f9bbcc925141438d0017b9",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yFPaqqXMGsdOKit3fsAJ9tqPJRP.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 242582,
+                "original_language": "en",
+                "original_title": "Nightcrawler",
+                "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+                "popularity": 9.0762,
+                "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+                "release_date": "2014-10-23",
+                "title": "Nightcrawler",
+                "video": false,
+                "vote_average": 7.705,
+                "vote_count": 11236,
+                "credit_id": "57767755c3a3687bc100066f",
+                "department": "Visual Effects",
+                "job": "VFX Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eY6bnNP10bWljC19v8UXAScHyuP.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    53
+                ],
+                "id": 1538,
+                "original_language": "en",
+                "original_title": "Collateral",
+                "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+                "popularity": 5.265,
+                "poster_path": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+                "release_date": "2004-08-04",
+                "title": "Collateral",
+                "video": false,
+                "vote_average": 7.234,
+                "vote_count": 5929,
+                "credit_id": "58113250c3a3687a8d00d4d3",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.1228,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.501,
+                "vote_count": 15872,
+                "credit_id": "5824e3d29251416d1f0035ce",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xcDiiWTFJ6T3D3qayL1DdlDeQz8.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 4771,
+                "original_language": "en",
+                "original_title": "Gone Baby Gone",
+                "overview": "When 4 year old Amanda McCready disappears from her home and the police make little headway in solving the case, the girl's aunt, Beatrice McCready hires two private detectives, Patrick Kenzie and Angie Gennaro. The detectives freely admit that they have little experience with this type of case, but the family wants them for two reasons\u2014they're not cops and they know the tough neighborhood in which they all live.",
+                "popularity": 2.5089,
+                "poster_path": "/wZR1dvctqODqNGv6LJBEj6DQ2zK.jpg",
+                "release_date": "2007-09-18",
+                "title": "Gone Baby Gone",
+                "video": false,
+                "vote_average": 7.304,
+                "vote_count": 3949,
+                "credit_id": "586165e1c3a3681a6803771d",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qkOw5IZXESOiRH4wzdIYJlBZiCp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297802,
+                "original_language": "en",
+                "original_title": "Aquaman",
+                "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+                "popularity": 9.7256,
+                "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+                "release_date": "2018-12-07",
+                "title": "Aquaman",
+                "video": false,
+                "vote_average": 6.874,
+                "vote_count": 14485,
+                "credit_id": "5cae65880e0a2626e9c14584",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1408401,
+        "imdb_id": "nm0382743",
+        "known_for_department": "Editing",
+        "name": "Kevin Hickman",
+        "place_of_birth": null,
+        "popularity": 0.1257,
+        "profile_path": null
+    }
+}

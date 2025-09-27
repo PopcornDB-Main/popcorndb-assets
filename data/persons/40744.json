@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    36,
+                    10749
+                ],
+                "id": 853,
+                "original_language": "en",
+                "original_title": "Enemy at the Gates",
+                "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
+                "popularity": 6.6361,
+                "poster_path": "/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+                "release_date": "2001-02-28",
+                "title": "Enemy at the Gates",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 3839,
+                "character": "Politruk",
+                "credit_id": "5a5cdf4b0e0a261541001b68",
+                "order": 49
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 752,
+                "original_language": "en",
+                "original_title": "V for Vendetta",
+                "overview": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as \u201cV\u201d conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+                "popularity": 7.0504,
+                "poster_path": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+                "release_date": "2006-02-23",
+                "title": "V for Vendetta",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 15013,
+                "credit_id": "52fe4270c3a36847f801edaf",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 40744,
+        "imdb_id": "nm0897371",
+        "known_for_department": "Crew",
+        "name": "Vladimir Vilanov",
+        "place_of_birth": null,
+        "popularity": 0.0434,
+        "profile_path": null
+    }
+}

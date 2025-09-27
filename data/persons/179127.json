@@ -1,0 +1,158 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/yTKXKR9quKkH8N8szLjWLJ6TLBy.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1879,
+                "original_language": "en",
+                "original_title": "Guess Who's Coming to Dinner",
+                "overview": "A couple's attitudes are challenged when their daughter brings home a fianc\u00e9 who is black.",
+                "popularity": 3.2449,
+                "poster_path": "/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+                "release_date": "1967-12-11",
+                "title": "Guess Who's Coming to Dinner",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 876,
+                "character": "Cab Driver",
+                "credit_id": "57b9d3189251413621000195",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80
+                ],
+                "id": 11576,
+                "original_language": "en",
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+                "popularity": 6.2221,
+                "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+                "release_date": "1963-11-07",
+                "title": "It's a Mad, Mad, Mad, Mad World",
+                "video": false,
+                "vote_average": 6.97,
+                "vote_count": 637,
+                "credit_id": "64d6c1eef495ee028f63af11",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/teLJilYBEdBiCNwPuiJaJT0p7i8.jpg",
+                "genre_ids": [
+                    37,
+                    18,
+                    9648
+                ],
+                "id": 11901,
+                "original_language": "en",
+                "original_title": "High Plains Drifter",
+                "overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+                "popularity": 4.659,
+                "poster_path": "/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+                "release_date": "1973-04-19",
+                "title": "High Plains Drifter",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 1246,
+                "credit_id": "6533fc23a0be2800c5686c7b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 301,
+                "original_language": "en",
+                "original_title": "Rio Bravo",
+                "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+                "popularity": 3.9704,
+                "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+                "release_date": "1959-03-18",
+                "title": "Rio Bravo",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 1204,
+                "credit_id": "6438dc0cc2679600e03a1182",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3114,
+                "original_language": "en",
+                "original_title": "The Searchers",
+                "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+                "popularity": 2.7867,
+                "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Searchers",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1495,
+                "credit_id": "6438dca181a7fc00787324b1",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.5208,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.452,
+                "vote_count": 2590,
+                "credit_id": "6438de764a52f800d5e3b79d",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1918-07-13",
+        "deathday": "1997-10-15",
+        "gender": 2,
+        "homepage": null,
+        "id": 179127,
+        "imdb_id": "nm0399734",
+        "known_for_department": "Acting",
+        "name": "John Hudkins",
+        "place_of_birth": "Lincoln, Nebraska, USA",
+        "popularity": 0.2236,
+        "profile_path": "/a9pu80QdFPdlSRnFAESTlewGPqd.jpg"
+    }
+}

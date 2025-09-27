@@ -1,0 +1,382 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 13885,
+                "original_language": "en",
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+                "popularity": 5.1737,
+                "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+                "release_date": "2007-12-20",
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "video": false,
+                "vote_average": 7.179,
+                "vote_count": 6097,
+                "character": "Happy Customer",
+                "credit_id": "651c673cea84c700aeeb6c6a",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.4094,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.501,
+                "vote_count": 15871,
+                "character": "Blue Eight",
+                "credit_id": "59e6394a92514131240015f2",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+                "genre_ids": [
+                    28,
+                    14
+                ],
+                "id": 547016,
+                "original_language": "en",
+                "original_title": "The Old Guard",
+                "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+                "popularity": 9.8517,
+                "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+                "release_date": "2020-07-09",
+                "title": "The Old Guard",
+                "video": false,
+                "vote_average": 7.124,
+                "vote_count": 4554,
+                "character": "Security Tech",
+                "credit_id": "5f247164498ef90038ad21ef",
+                "order": 44
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 13885,
+                "original_language": "en",
+                "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+                "popularity": 5.1737,
+                "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+                "release_date": "2007-12-20",
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "video": false,
+                "vote_average": 7.179,
+                "vote_count": 6097,
+                "credit_id": "6152a5daaf58cb002af738f1",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.4094,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.501,
+                "vote_count": 15871,
+                "credit_id": "59e6396292514130ca001557",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o869RihWTdTyBcEZBjz0izvEsVf.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 693134,
+                "original_language": "en",
+                "original_title": "Dune: Part Two",
+                "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+                "popularity": 16.5841,
+                "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+                "release_date": "2024-02-27",
+                "title": "Dune: Part Two",
+                "video": false,
+                "vote_average": 8.1,
+                "vote_count": 7054,
+                "credit_id": "6452b6cfc0442900e2f0f16d",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 911430,
+                "original_language": "en",
+                "original_title": "F1",
+                "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more chance at glory.",
+                "popularity": 138.6086,
+                "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+                "release_date": "2025-06-25",
+                "title": "F1",
+                "video": false,
+                "vote_average": 7.827,
+                "vote_count": 2161,
+                "credit_id": "66880b7de07dff5bfa5e5bee",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/o4p4joAAFETuUFCHJe2XYJcnCdi.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10876,
+                "original_language": "en",
+                "original_title": "Quills",
+                "overview": "In early 19th-century France, the Marquis de Sade is confined to an asylum where his forbidden writings continue to circulate beyond its walls. As the authorities tighten control, a clash unfolds between the Marquis\u2019 unyielding imagination, the reformist ideals of the Abb\u00e9 in charge, and the repressive measures of a doctor sent to silence him. Desire, power, and censorship collide in a battle over freedom of expression.",
+                "popularity": 3.8188,
+                "poster_path": "/AvGdw3BpvJV2wHmK2qY0N7XHqET.jpg",
+                "release_date": "2000-11-22",
+                "title": "Quills",
+                "video": false,
+                "vote_average": 7.152,
+                "vote_count": 678,
+                "credit_id": "5b282048925141087a001b01",
+                "department": "Directing",
+                "job": "Second Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/npFPqZeHlEPOlLEpykP6kuSsi6v.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    18
+                ],
+                "id": 49047,
+                "original_language": "en",
+                "original_title": "Gravity",
+                "overview": "Dr. Ryan Stone, a brilliant medical engineer, is on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.",
+                "popularity": 9.3891,
+                "poster_path": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+                "release_date": "2013-10-03",
+                "title": "Gravity",
+                "video": false,
+                "vote_average": 7.162,
+                "vote_count": 15808,
+                "credit_id": "5bbe05cc0e0a26660c030f2a",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ki5RnA0xNOEd3R0RohXqJt9R6Om.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 177677,
+                "original_language": "en",
+                "original_title": "Mission: Impossible - Rogue Nation",
+                "overview": "Ethan and team take on their most impossible mission yet\u2014eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+                "popularity": 8.885,
+                "poster_path": "/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg",
+                "release_date": "2015-07-28",
+                "title": "Mission: Impossible - Rogue Nation",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 9303,
+                "credit_id": "5cad08139251417a82fffb17",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 19.5227,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.658,
+                "vote_count": 11238,
+                "credit_id": "5e4e81a0a93d25001543be0d",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.4094,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.501,
+                "vote_count": 15871,
+                "credit_id": "5ed29101528b2e001e694a8c",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+                "genre_ids": [
+                    28,
+                    14
+                ],
+                "id": 547016,
+                "original_language": "en",
+                "original_title": "The Old Guard",
+                "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+                "popularity": 9.8517,
+                "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+                "release_date": "2020-07-09",
+                "title": "The Old Guard",
+                "video": false,
+                "vote_average": 7.124,
+                "vote_count": 4554,
+                "credit_id": "5f03759ae7868700377f32e1",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+                "genre_ids": [
+                    28,
+                    14
+                ],
+                "id": 547016,
+                "original_language": "en",
+                "original_title": "The Old Guard",
+                "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+                "popularity": 9.8517,
+                "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+                "release_date": "2020-07-09",
+                "title": "The Old Guard",
+                "video": false,
+                "vote_average": 7.124,
+                "vote_count": 4554,
+                "credit_id": "5f037242e7868700357ef699",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 19.5227,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.658,
+                "vote_count": 11238,
+                "credit_id": "5ff34d81e263bb00400d96fa",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c2gcLDxniE0lNmT2a7CcQVuW6En.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 36557,
+                "original_language": "en",
+                "original_title": "Casino Royale",
+                "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond\u2014on his maiden mission as a 00 Agent\u2014to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+                "popularity": 15.1673,
+                "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+                "release_date": "2006-11-14",
+                "title": "Casino Royale",
+                "video": false,
+                "vote_average": 7.564,
+                "vote_count": 11161,
+                "credit_id": "6032f22a9af171004045f52b",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1724987,
+        "imdb_id": null,
+        "known_for_department": "Directing",
+        "name": "Toby Hefferman",
+        "place_of_birth": null,
+        "popularity": 0.1582,
+        "profile_path": "/ucqGTZSeoPURbyKN4SmBpp2MExm.jpg"
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
+                "genre_ids": [
+                    37,
+                    35,
+                    18,
+                    10402,
+                    9648,
+                    10749
+                ],
+                "id": 537996,
+                "original_language": "en",
+                "original_title": "The Ballad of Buster Scruggs",
+                "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+                "popularity": 7.1107,
+                "poster_path": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+                "release_date": "2018-11-09",
+                "title": "The Ballad of Buster Scruggs",
+                "video": false,
+                "vote_average": 7.133,
+                "vote_count": 4226,
+                "character": "Posse (segment \"Near Algodones\")",
+                "credit_id": "6595540ca698cf2793439fbb",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ozdXqMwijV192aSrojjFQMGeWSh.jpg",
+                "genre_ids": [
+                    18,
+                    37,
+                    36,
+                    12
+                ],
+                "id": 384680,
+                "original_language": "en",
+                "original_title": "Hostiles",
+                "overview": "A legendary Native American-hating Army captain nearing retirement in 1892 is given one last assignment: to escort a Cheyenne chief and his family through dangerous territory back to his Montana reservation.",
+                "popularity": 5.1419,
+                "poster_path": "/rqoezyB51GfhiloOB5ZErg5HXas.jpg",
+                "release_date": "2017-12-22",
+                "title": "Hostiles",
+                "video": false,
+                "vote_average": 6.942,
+                "vote_count": 2394,
+                "character": "Ezekiel Lounde",
+                "credit_id": "5a3e9ae8c3a3680bb0013ffd",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 932086,
+                "original_language": "en",
+                "original_title": "Horizon: An American Saga - Chapter 1",
+                "overview": "In 1859, families discover the lure of the Old West as they settle in territories from Wyoming to Kansas. Meanwhile, a gruff cowboy soon finds himself on the run with a prostitute and a young boy after killing a fellow gunman.",
+                "popularity": 4.7386,
+                "poster_path": "/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+                "release_date": "2024-06-26",
+                "title": "Horizon: An American Saga - Chapter 1",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 564,
+                "credit_id": "651f3b9d07216600ff387dd2",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/syKiIOqEoOi1Hb0Oh0n9cImcBab.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 756999,
+                "original_language": "en",
+                "original_title": "The Black Phone",
+                "overview": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer\u2019s previous victims. And they are dead set on making sure that what happened to them doesn\u2019t happen to Finney.",
+                "popularity": 12.824,
+                "poster_path": "/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+                "release_date": "2022-06-17",
+                "title": "The Black Phone",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 5265,
+                "credit_id": "6164575ad18fb9008ffca4f5",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 285,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: At World's End",
+                "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+                "popularity": 15.3163,
+                "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+                "release_date": "2007-05-19",
+                "title": "Pirates of the Caribbean: At World's End",
+                "video": false,
+                "vote_average": 7.261,
+                "vote_count": 14926,
+                "credit_id": "653eece85907de0138e2451b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eBmIaAm1CkBuuyIUQYorhQKzTTg.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 3580,
+                "original_language": "en",
+                "original_title": "Changeling",
+                "overview": "Los Angeles, 1928. When single mother Christine Collins leaves for work, her son vanishes without a trace. Five months later, the police reunite mother and son. But when Christine suspects that the boy returned to her isn't her child, her quest for truth exposes a world of corruption.",
+                "popularity": 3.3195,
+                "poster_path": "/y9Qi39dL3PceGCH8afyC7QrhbhI.jpg",
+                "release_date": "2008-10-24",
+                "title": "Changeling",
+                "video": false,
+                "vote_average": 7.581,
+                "vote_count": 4320,
+                "credit_id": "637b860c63aad2009bb4a7ee",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "genre_ids": [
+                    80,
+                    36,
+                    18
+                ],
+                "id": 466420,
+                "original_language": "en",
+                "original_title": "Killers of the Flower Moon",
+                "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
+                "popularity": 13.3038,
+                "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+                "release_date": "2023-10-18",
+                "title": "Killers of the Flower Moon",
+                "video": false,
+                "vote_average": 7.413,
+                "vote_count": 3768,
+                "credit_id": "6422d72923be4600df9a0e0e",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 27205,
+                "original_language": "en",
+                "original_title": "Inception",
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "popularity": 28.0656,
+                "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+                "release_date": "2010-07-15",
+                "title": "Inception",
+                "video": false,
+                "vote_average": 8.37,
+                "vote_count": 37990,
+                "credit_id": "66345347358da7012a551d25",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18
+                ],
+                "id": 2034,
+                "original_language": "en",
+                "original_title": "Training Day",
+                "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+                "popularity": 7.0211,
+                "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+                "release_date": "2001-10-05",
+                "title": "Training Day",
+                "video": false,
+                "vote_average": 7.506,
+                "vote_count": 6247,
+                "credit_id": "6442ae1bd35dea0455fb0b11",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    53
+                ],
+                "id": 180,
+                "original_language": "en",
+                "original_title": "Minority Report",
+                "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+                "popularity": 8.6885,
+                "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+                "release_date": "2002-06-20",
+                "title": "Minority Report",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 9159,
+                "credit_id": "5bcce7c40e0a26015b012961",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 161,
+                "original_language": "en",
+                "original_title": "Ocean's Eleven",
+                "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+                "popularity": 8.191,
+                "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+                "release_date": "2001-12-07",
+                "title": "Ocean's Eleven",
+                "video": false,
+                "vote_average": 7.45,
+                "vote_count": 12052,
+                "credit_id": "5c60ad3f0e0a267deb94f5ce",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kWYHKVCl2aD3kRco4eRUr4h6LsD.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752,
+                    28
+                ],
+                "id": 2024,
+                "original_language": "en",
+                "original_title": "The Patriot",
+                "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                "popularity": 7.5201,
+                "poster_path": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+                "release_date": "2000-06-28",
+                "title": "The Patriot",
+                "video": false,
+                "vote_average": 7.181,
+                "vote_count": 4091,
+                "credit_id": "5c79cd0dc3a3681932172116",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 1726,
+                "original_language": "en",
+                "original_title": "Iron Man",
+                "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+                "popularity": 14.1706,
+                "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+                "release_date": "2008-04-30",
+                "title": "Iron Man",
+                "video": false,
+                "vote_average": 7.653,
+                "vote_count": 27332,
+                "credit_id": "5f5977615bce9e0036bf47d5",
+                "department": "Crew",
+                "job": "Utility Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3n4Bfg390okuusER56enINib0kL.jpg",
+                "genre_ids": [
+                    12,
+                    80,
+                    18,
+                    9648,
+                    37
+                ],
+                "id": 8053,
+                "original_language": "en",
+                "original_title": "The Three Burials of Melquiades Estrada",
+                "overview": "When brash Texas border officer Mike Norton wrongfully kills and buries the friend and ranch hand of Pete Perkins, the latter is reminded of a promise he made to bury his friend, Melquiades Estrada, in his Mexican home town. He kidnaps Norton and exhumes Estrada's corpse, and the odd caravan sets out on horseback for Mexico.",
+                "popularity": 1.2367,
+                "poster_path": "/uHOEb6mo45qMSJaZqbkVa7oW1Y7.jpg",
+                "release_date": "2005-11-17",
+                "title": "The Three Burials of Melquiades Estrada",
+                "video": false,
+                "vote_average": 7.039,
+                "vote_count": 614,
+                "credit_id": "685f8b4ba51a8f2014805cf3",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard L. Bucher"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1130026,
+        "imdb_id": "nm0118150",
+        "known_for_department": "Crew",
+        "name": "Richard Bucher",
+        "place_of_birth": null,
+        "popularity": 0.1477,
+        "profile_path": null
+    }
+}

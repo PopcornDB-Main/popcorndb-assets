@@ -1,0 +1,493 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ytclDXEffquvzjwNXbiYEU1b6F2.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 4643,
+                "original_language": "en",
+                "original_title": "The Guardian",
+                "overview": "A high school swim champion with a troubled past enrolls in the U.S. Coast Guard's 'A' School, where legendary rescue swimmer Ben Randall teaches him some hard lessons about loss, love, and self-sacrifice.",
+                "popularity": 3.9718,
+                "poster_path": "/zFhFjrckfmdb33VDeRykumMmebU.jpg",
+                "release_date": "2006-09-28",
+                "title": "The Guardian",
+                "video": false,
+                "vote_average": 7.136,
+                "vote_count": 1579,
+                "character": "Fishing Boat Captain",
+                "credit_id": "66d378a1d4d215b280581035",
+                "order": 61
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 37136,
+                "original_language": "en",
+                "original_title": "The Naked Gun: From the Files of Police Squad!",
+                "overview": "When the bumbling Lieutenant Frank Drebin investigates events following the shooting of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+                "popularity": 8.5506,
+                "poster_path": "/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+                "release_date": "1988-12-02",
+                "title": "The Naked Gun: From the Files of Police Squad!",
+                "video": false,
+                "vote_average": 7.265,
+                "vote_count": 4121,
+                "character": "Hijacked Taurus Driver (uncredited)",
+                "credit_id": "66d3851e0229c4941e78d58f",
+                "order": 68
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 8.7534,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.306,
+                "vote_count": 4783,
+                "character": "Religious Zealot #4",
+                "credit_id": "609b8cdc5b2f47003f1bb3a4",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27
+                ],
+                "id": 9533,
+                "original_language": "en",
+                "original_title": "Red Dragon",
+                "overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+                "popularity": 1.9584,
+                "poster_path": "/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+                "release_date": "2002-10-02",
+                "title": "Red Dragon",
+                "video": false,
+                "vote_average": 7.029,
+                "vote_count": 4472,
+                "character": "Deputy in Car",
+                "credit_id": "67681bc4a0c300283c749501",
+                "order": 60
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53,
+                    10752
+                ],
+                "id": 1368,
+                "original_language": "en",
+                "original_title": "First Blood",
+                "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+                "popularity": 5.7646,
+                "poster_path": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+                "release_date": "1982-10-22",
+                "title": "First Blood",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 6575,
+                "credit_id": "52fe42efc3a36847f802e1f1",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 8.7534,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.306,
+                "vote_count": 4783,
+                "credit_id": "52fe427ac3a36847f8021c6b",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27
+                ],
+                "id": 9533,
+                "original_language": "en",
+                "original_title": "Red Dragon",
+                "overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+                "popularity": 1.9584,
+                "poster_path": "/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+                "release_date": "2002-10-02",
+                "title": "Red Dragon",
+                "video": false,
+                "vote_average": 7.029,
+                "vote_count": 4472,
+                "credit_id": "60612afaf056d500529dcfd8",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDu3nkdjzkJ9loy3QyppGcLjaI7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11321,
+                "original_language": "en",
+                "original_title": "Seven Pounds",
+                "overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+                "popularity": 4.2631,
+                "poster_path": "/85zUipgVy2QbvAJ6djZXYaGckMv.jpg",
+                "release_date": "2008-12-18",
+                "title": "Seven Pounds",
+                "video": false,
+                "vote_average": 7.605,
+                "vote_count": 6984,
+                "credit_id": "624bd85c091e62009dd03993",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4ZQIEbCwrD1cTvslORZcrNtQqYO.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 8769,
+                "original_language": "en",
+                "original_title": "Christine",
+                "overview": "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie's girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                "popularity": 3.9029,
+                "poster_path": "/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg",
+                "release_date": "1983-12-09",
+                "title": "Christine",
+                "video": false,
+                "vote_average": 6.868,
+                "vote_count": 2096,
+                "credit_id": "65253f08fd630000e2020fa6",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zpVMWiNJgcwHB0zIMGjXQMnSKPZ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10024,
+                "original_language": "en",
+                "original_title": "My Sister's Keeper",
+                "overview": "Sara and Brian live an idyllic life with their young son and daughter. But their family is rocked by sudden, heartbreaking news that forces them to make a difficult and unorthodox choice in order to save their baby girl's life. The parents' desperate decision raises both ethical and moral questions and rips away at the foundation of their relationship. Their actions ultimately set off a court case that threatens to tear the family apart, while revealing surprising truths that challenge everyone's perceptions of love and loyalty and give new meaning to the definition of healing.",
+                "popularity": 3.1423,
+                "poster_path": "/atRGqnG7pe0hZP97RWDLrT2hRGZ.jpg",
+                "release_date": "2009-06-26",
+                "title": "My Sister's Keeper",
+                "video": false,
+                "vote_average": 7.374,
+                "vote_count": 2174,
+                "credit_id": "653d4661109cd000ad6262b7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zyWbOvKCdA9V9P5xuUG2eiPYsUo.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    10751
+                ],
+                "id": 10601,
+                "original_language": "en",
+                "original_title": "Peter Pan",
+                "overview": "In stifling Edwardian London, Wendy Darling mesmerizes her brothers every night with bedtime tales of swordplay, swashbuckling and the fearsome Captain Hook. But the children become the heroes of an even greater story, when Peter Pan flies into their nursery one night and leads them over moonlit rooftops through a galaxy of stars and to the lush jungles of Neverland.",
+                "popularity": 4.7222,
+                "poster_path": "/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg",
+                "release_date": "2003-12-18",
+                "title": "Peter Pan",
+                "video": false,
+                "vote_average": 7.15,
+                "vote_count": 2699,
+                "credit_id": "653d46cb50733c013e3435ad",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 9665,
+                "original_language": "en",
+                "original_title": "Glory",
+                "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+                "popularity": 3.4727,
+                "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+                "release_date": "1989-12-15",
+                "title": "Glory",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 1703,
+                "credit_id": "653d4994c8a5ac00ad37245a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5e8V714wUtpPgMD9xD8NjTEqlyu.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 14746,
+                "original_language": "en",
+                "original_title": "Streets of Fire",
+                "overview": "Raven Shaddock and his gang of merciless biker friends kidnap rock singer Ellen Aim. Ellen's former lover, soldier-for-hire Tom Cody, happens to be passing through town on a visit. In an attempt to save his star act, Ellen's manager hires Tom to rescue her. Along with a former soldier, they battle through dangerous cityscapes, determined to get Ellen back.",
+                "popularity": 2.3242,
+                "poster_path": "/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+                "release_date": "1984-06-01",
+                "title": "Streets of Fire",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 520,
+                "credit_id": "653d4b75c8a5ac00e3a1063b",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sqZGYcHJWWNHsECBl57FOCfjpFX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 11393,
+                "original_language": "en",
+                "original_title": "The Natural",
+                "overview": "An unknown middle-aged batter named Roy Hobbs with a mysterious past appears out of nowhere to take a losing 1930s baseball team to the top of the league.",
+                "popularity": 5.8732,
+                "poster_path": "/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+                "release_date": "1984-05-11",
+                "title": "The Natural",
+                "video": false,
+                "vote_average": 6.909,
+                "vote_count": 619,
+                "credit_id": "653d4b9a5907de011bc4bc67",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/llVPUs3j9RywSMstGRepSeS8vSL.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 6471,
+                "original_language": "en",
+                "original_title": "The Jerk",
+                "overview": "After discovering he's not really black like the rest of his family, likable dimwit Navin Johnson sets off on a hilarious misadventure that takes him from rags to riches and back again. The slaphappy jerk strikes it rich, but life in the fast lane isn't all it's cracked up to be and, in the end, all that really matters to Johnson is his true love.",
+                "popularity": 1.6974,
+                "poster_path": "/mIjOWtUofyt9Jawge7FbvITjU3D.jpg",
+                "release_date": "1979-12-14",
+                "title": "The Jerk",
+                "video": false,
+                "vote_average": 6.906,
+                "vote_count": 850,
+                "credit_id": "653d4e26519bbb0138323930",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zyWbOvKCdA9V9P5xuUG2eiPYsUo.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    10751
+                ],
+                "id": 10601,
+                "original_language": "en",
+                "original_title": "Peter Pan",
+                "overview": "In stifling Edwardian London, Wendy Darling mesmerizes her brothers every night with bedtime tales of swordplay, swashbuckling and the fearsome Captain Hook. But the children become the heroes of an even greater story, when Peter Pan flies into their nursery one night and leads them over moonlit rooftops through a galaxy of stars and to the lush jungles of Neverland.",
+                "popularity": 4.7222,
+                "poster_path": "/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg",
+                "release_date": "2003-12-18",
+                "title": "Peter Pan",
+                "video": false,
+                "vote_average": 7.15,
+                "vote_count": 2699,
+                "credit_id": "653d5194c8a5ac0100fa001e",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lxCUDgZ54myV7goBrkpFoHRt9Ms.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80
+                ],
+                "id": 64688,
+                "original_language": "en",
+                "original_title": "21 Jump Street",
+                "overview": "When cops Schmidt and Jenko join the secret Jump Street unit, they use their youthful appearances to go undercover as high school students. They trade in their guns and badges for backpacks, and set out to shut down a dangerous drug ring. But, as time goes on, Schmidt and Jenko discover that high school is nothing like it was just a few years earlier -- and, what's more, they must again confront the teenage terror and anxiety they thought they had left behind.",
+                "popularity": 5.9257,
+                "poster_path": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+                "release_date": "2012-03-14",
+                "title": "21 Jump Street",
+                "video": false,
+                "vote_average": 6.883,
+                "vote_count": 10617,
+                "credit_id": "643b09f446aed4049e4f27b9",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 37136,
+                "original_language": "en",
+                "original_title": "The Naked Gun: From the Files of Police Squad!",
+                "overview": "When the bumbling Lieutenant Frank Drebin investigates events following the shooting of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+                "popularity": 8.5506,
+                "poster_path": "/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+                "release_date": "1988-12-02",
+                "title": "The Naked Gun: From the Files of Police Squad!",
+                "video": false,
+                "vote_average": 7.265,
+                "vote_count": 4121,
+                "credit_id": "5a481b4e0e0a2648a1007a4d",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53,
+                    10752
+                ],
+                "id": 1368,
+                "original_language": "en",
+                "original_title": "First Blood",
+                "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+                "popularity": 5.7646,
+                "poster_path": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+                "release_date": "1982-10-22",
+                "title": "First Blood",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 6575,
+                "credit_id": "5c39bbbd9251414dd0739d6f",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36657,
+                "original_language": "en",
+                "original_title": "X-Men",
+                "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+                "popularity": 0.4029,
+                "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+                "release_date": "2000-07-13",
+                "title": "X-Men",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 11768,
+                "credit_id": "5ceafc17925141669ebb0ed0",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fwo0IsHudrMVmASe107UciIOlmR.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    35
+                ],
+                "id": 11616,
+                "original_language": "it",
+                "original_title": "Nati con la camicia",
+                "overview": "After Doug picks up hitchhiking Rosco with his truck, they are mistaken for two bank robbers by the traffic police. They manage to escape  only to be confused for two secret agents while trying to take a flight at the airport.",
+                "popularity": 1.9009,
+                "poster_path": "/gfv6ctg1BTtpQeOkwThe4EzDSK9.jpg",
+                "release_date": "1983-02-01",
+                "title": "Go for It",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 520,
+                "credit_id": "5e46b40341465c0014d4ec78",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Conrad Palmisano",
+            "Conrad Palmisario"
+        ],
+        "biography": "Conrad Palmisano (born May 1, 1944) is an American film stuntman and director.\n\nHe was married to singer and actress Irene Cara from 1986 to 1991. They met while filming Certain Fury (1985).",
+        "birthday": "1948-05-01",
+        "deathday": "2024-01-10",
+        "gender": 2,
+        "homepage": null,
+        "id": 12948,
+        "imdb_id": "nm0003886",
+        "known_for_department": "Crew",
+        "name": "Conrad E. Palmisano",
+        "place_of_birth": "Santa Rosa, California, USA",
+        "popularity": 0.192,
+        "profile_path": "/9012ElbfHVSrl0Jzvip19rFaLBP.jpg"
+    }
+}

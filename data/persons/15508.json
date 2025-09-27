@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 948,
+                "original_language": "en",
+                "original_title": "Halloween",
+                "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+                "popularity": 8.0347,
+                "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+                "release_date": "1978-10-24",
+                "title": "Halloween",
+                "video": false,
+                "vote_average": 7.562,
+                "vote_count": 5885,
+                "character": "Marion",
+                "credit_id": "52fe4292c3a36847f80290a3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iukXiB3Guz5VyTlraZiBnHT8Y0B.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 1103,
+                "original_language": "en",
+                "original_title": "Escape from New York",
+                "overview": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+                "popularity": 4.4132,
+                "poster_path": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+                "release_date": "1981-05-23",
+                "title": "Escape from New York",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 3338,
+                "character": "Stewardess",
+                "credit_id": "616ced456bdec3002ae23dd9",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yrepQdpreOorLyBJyvZkGn3Izfe.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 490003,
+                "original_language": "en",
+                "original_title": "Won't You Be My Neighbor?",
+                "overview": "For more than thirty years, and through his television program, Fred Rogers (1928-2003), host, producer, writer and pianist, accompanied by his puppets and his many friends, spoke directly to young children about some of life's most important issues.",
+                "popularity": 0.8461,
+                "poster_path": "/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+                "release_date": "2018-06-29",
+                "title": "Won't You Be My Neighbor?",
+                "video": false,
+                "vote_average": 8.006,
+                "vote_count": 569,
+                "credit_id": "62af96fa4bfa54009374b72d",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Nancy Stephans"
+        ],
+        "biography": "Nancy Jane Stephens is an American actress who has starred in many films and television shows. Stephens is perhaps best known for her role as Nurse Marion Chambers in John Carpenter's horror film Halloween (1978). She reprised the role in Halloween II (1981), Halloween H20: Twenty Years Later (1998) and Halloween Kills (2021).",
+        "birthday": "1949-07-02",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 15508,
+        "imdb_id": "nm0827111",
+        "known_for_department": "Acting",
+        "name": "Nancy Stephens",
+        "place_of_birth": "Texas, USA",
+        "popularity": 0.2171,
+        "profile_path": "/6oS5nCeHAqszh2HgxoHXbmmnamB.jpg"
+    }
+}

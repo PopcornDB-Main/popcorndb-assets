@@ -1,0 +1,188 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 260513,
+                "original_language": "en",
+                "original_title": "Incredibles 2",
+                "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.",
+                "popularity": 24.3811,
+                "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+                "release_date": "2018-06-14",
+                "title": "Incredibles 2",
+                "video": false,
+                "vote_average": 7.455,
+                "vote_count": 13268,
+                "character": "Victor Cachet (voice)",
+                "credit_id": "66a0902afadd7c4c9c381d59",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 62211,
+                "original_language": "en",
+                "original_title": "Monsters University",
+                "overview": "A look at the relationship between Mike and Sulley during their days at Monsters University \u2014 when they weren't necessarily the best of friends.",
+                "popularity": 10.3238,
+                "poster_path": "/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+                "release_date": "2013-06-19",
+                "title": "Monsters University",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 10976,
+                "credit_id": "6690e319d8fbf8844fd17602",
+                "department": "Crew",
+                "job": "Software Team Lead"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 9806,
+                "original_language": "en",
+                "original_title": "The Incredibles",
+                "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+                "popularity": 30.068,
+                "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+                "release_date": "2004-10-27",
+                "title": "The Incredibles",
+                "video": false,
+                "vote_average": 7.717,
+                "vote_count": 18285,
+                "credit_id": "6690e38e93c2c8e85cd99ca1",
+                "department": "Crew",
+                "job": "Software Team Lead"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 585,
+                "original_language": "en",
+                "original_title": "Monsters, Inc.",
+                "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+                "popularity": 16.121,
+                "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+                "release_date": "2001-11-01",
+                "title": "Monsters, Inc.",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 19125,
+                "credit_id": "6690e3d866d37f3d528118bf",
+                "department": "Crew",
+                "job": "Software Engineer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 863,
+                "original_language": "en",
+                "original_title": "Toy Story 2",
+                "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+                "popularity": 15.2939,
+                "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+                "release_date": "1999-10-30",
+                "title": "Toy Story 2",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 14374,
+                "credit_id": "6690e4186b897548e606b00f",
+                "department": "Crew",
+                "job": "Software Engineer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pWd09ohdwOSNF4IWG8a25qORc2O.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35,
+                    18
+                ],
+                "id": 9487,
+                "original_language": "en",
+                "original_title": "A Bug's Life",
+                "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+                "popularity": 9.7949,
+                "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+                "release_date": "1998-11-25",
+                "title": "A Bug's Life",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 9460,
+                "credit_id": "6690e46647433bf7ae8b36a6",
+                "department": "Crew",
+                "job": "Software Engineer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 863,
+                "original_language": "en",
+                "original_title": "Toy Story 2",
+                "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+                "popularity": 15.2939,
+                "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+                "release_date": "1999-10-30",
+                "title": "Toy Story 2",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 14374,
+                "credit_id": "66a090b05840f0fd4c7057b1",
+                "department": "Lighting",
+                "job": "Lighting Technician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 4825243,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Michael B. Johnson",
+        "place_of_birth": null,
+        "popularity": 0.0322,
+        "profile_path": null
+    }
+}

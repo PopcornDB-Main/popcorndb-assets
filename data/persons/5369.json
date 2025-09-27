@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2mu6XkJE0B6nK5jeOvXOyWPVmhw.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 401,
+                "original_language": "en",
+                "original_title": "Garden State",
+                "overview": "Andrew returns to his hometown for the funeral of his mother, a journey that reconnects him with past friends. The trip coincides with his decision to stop taking his powerful antidepressants. A chance meeting with Sam - a girl also suffering from various maladies - opens up the possibility of rekindling emotional attachments, confronting his psychologist father, and perhaps beginning a new life.",
+                "popularity": 1.5028,
+                "poster_path": "/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+                "release_date": "2004-07-28",
+                "title": "Garden State",
+                "video": false,
+                "vote_average": 7.087,
+                "vote_count": 1930,
+                "character": "Restaurant Manager",
+                "credit_id": "52fe423ec3a36847f800f3cd",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 350,
+                "original_language": "en",
+                "original_title": "The Devil Wears Prada",
+                "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
+                "popularity": 10.0646,
+                "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+                "release_date": "2006-06-29",
+                "title": "The Devil Wears Prada",
+                "video": false,
+                "vote_average": 7.392,
+                "vote_count": 12513,
+                "character": "Paul",
+                "credit_id": "5f502e5ba1074b0034ee54c6",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/d3eUH2Cb9C121I43kpYaPjyEDq1.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 290542,
+                "original_language": "en",
+                "original_title": "You're Not You",
+                "overview": "A drama centered on a classical pianist who has been diagnosed with ALS and the brash college student who becomes her caregiver.",
+                "popularity": 2.4117,
+                "poster_path": "/jvrdukoeCuVckHlbAxU0MPoIzPI.jpg",
+                "release_date": "2014-10-10",
+                "title": "You're Not You",
+                "video": false,
+                "vote_average": 7.404,
+                "vote_count": 814,
+                "credit_id": "5409002f0e0a263a1e000958",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "George Costello Wolfe"
+        ],
+        "biography": "George Costello Wolfe (born September 23, 1954) is an American playwright and director of theater and film. He won a Tony Award in 1993 for directing \"Angels in America: Millennium Approaches,\" and another Tony Award in 1996 for his direction of the musical \"Bring In 'da Noise/Bring In 'da Funk.\"",
+        "birthday": "1954-09-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 5369,
+        "imdb_id": "nm0938045",
+        "known_for_department": "Directing",
+        "name": "George C. Wolfe",
+        "place_of_birth": "Frankfort, Kentucky, USA",
+        "popularity": 0.0761,
+        "profile_path": "/kH6xHlBleRUJt0c0AOAsv5DMoib.jpg"
+    }
+}

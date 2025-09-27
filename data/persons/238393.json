@@ -1,0 +1,186 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mgDv2dDihyetAcENxyf2tpXY245.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 1407,
+                "original_language": "fr",
+                "original_title": "La M\u00f4me",
+                "overview": "From the mean streets of the Belleville district of Paris to the dazzling limelight of New York's most famous concert halls, Edith Piaf's life was a constant battle to sing and survive, to live and love. Raised in her grandmother's brothel, Piaf was discovered in 1935 by nightclub owner Louis Leplee, who persuaded her to sing despite her extreme nervousness. Piaf became one of France's immortal icons, her voice one of the indelible signatures of the 20th century.",
+                "popularity": 2.6964,
+                "poster_path": "/3b9DAONAsFRhJKu25R33PE3VwDh.jpg",
+                "release_date": "2007-02-14",
+                "title": "La Vie en Rose",
+                "video": false,
+                "vote_average": 7.391,
+                "vote_count": 1669,
+                "character": "Boxing trainer",
+                "credit_id": "52fe42f4c3a36847f802f5f1",
+                "order": 51
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uO7N3fDn3nWSPiuJaau834QD1Gr.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 7291,
+                "original_language": "fr",
+                "original_title": "36 quai des Orf\u00e8vres",
+                "overview": "In Paris, two cops are competing for the vacant job of chief of police, in the middle of the search for a gang of violent thieves. The movie is directed by Olivier Marchal, a former police officer who spent 12 years with the French police before creating this story, taken in part from real events of the 1980s.",
+                "popularity": 1.7821,
+                "poster_path": "/8TGPyv6wUg6zpJe0XfBf4pPwI2y.jpg",
+                "release_date": "2004-11-24",
+                "title": "36th Precinct",
+                "video": false,
+                "vote_average": 6.902,
+                "vote_count": 617,
+                "character": "Francis Horn",
+                "credit_id": "52fe4477c3a36847f8097b81",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/leukkAoRu9rsa3s8oaLm8C10EWw.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 10027,
+                "original_language": "en",
+                "original_title": "Unleashed",
+                "overview": "Raised as a slave, Danny is used to fighting for his survival. In fact, his \"master,\" Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart's crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter's long-buried heart.",
+                "popularity": 5.2794,
+                "poster_path": "/gghvmS3UxtOw1UHIgYjpeZNxHil.jpg",
+                "release_date": "2005-02-02",
+                "title": "Unleashed",
+                "video": false,
+                "vote_average": 6.936,
+                "vote_count": 2076,
+                "character": "Boss First Fight",
+                "credit_id": "625f3a90befb09009894d8b2",
+                "order": 34
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    80
+                ],
+                "id": 944401,
+                "original_language": "fr",
+                "original_title": "Dogman",
+                "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+                "popularity": 13.5984,
+                "poster_path": "/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+                "release_date": "2023-09-27",
+                "title": "Dogman",
+                "video": false,
+                "vote_average": 7.884,
+                "vote_count": 1240,
+                "credit_id": "637a996dfab3fa00aace783e",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 2501,
+                "original_language": "en",
+                "original_title": "The Bourne Identity",
+                "overview": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy\u2014but who does he work for?",
+                "popularity": 9.7794,
+                "poster_path": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+                "release_date": "2002-06-14",
+                "title": "The Bourne Identity",
+                "video": false,
+                "vote_average": 7.469,
+                "vote_count": 9654,
+                "credit_id": "57ac639892514157ea001692",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ieux01445tYkzGdAukUFiYZiDNn.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 41411,
+                "original_language": "fr",
+                "original_title": "La Rafle",
+                "overview": "A faithful retelling of the 1942 \"Vel' d'Hiv Roundup\" and the events surrounding it.",
+                "popularity": 3.7703,
+                "poster_path": "/9osPoGTddZZfMUzFDs82n57y2wQ.jpg",
+                "release_date": "2010-03-10",
+                "title": "The Round Up",
+                "video": false,
+                "vote_average": 7.547,
+                "vote_count": 1026,
+                "credit_id": "5bdf17040e0a26058f027f7b",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uO7N3fDn3nWSPiuJaau834QD1Gr.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 7291,
+                "original_language": "fr",
+                "original_title": "36 quai des Orf\u00e8vres",
+                "overview": "In Paris, two cops are competing for the vacant job of chief of police, in the middle of the search for a gang of violent thieves. The movie is directed by Olivier Marchal, a former police officer who spent 12 years with the French police before creating this story, taken in part from real events of the 1980s.",
+                "popularity": 1.7821,
+                "poster_path": "/8TGPyv6wUg6zpJe0XfBf4pPwI2y.jpg",
+                "release_date": "2004-11-24",
+                "title": "36th Precinct",
+                "video": false,
+                "vote_average": 6.902,
+                "vote_count": 617,
+                "credit_id": "5efd12bd5437f500378ed684",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\uc54c\ub7ad \ud53c\uae00\ub77c\uc988"
+        ],
+        "biography": "",
+        "birthday": "1962-10-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 238393,
+        "imdb_id": "nm0276567",
+        "known_for_department": "Acting",
+        "name": "Alain Figlarz",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.27,
+        "profile_path": "/wqag3Ab0zVl5Gkeet0NPJodpsiG.jpg"
+    }
+}

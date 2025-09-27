@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/uDDgaNppSCJm6kWDLl7vMeu8xcl.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1440,
+                "original_language": "en",
+                "original_title": "Little Children",
+                "overview": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations.",
+                "popularity": 9.2345,
+                "poster_path": "/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg",
+                "release_date": "2006-10-06",
+                "title": "Little Children",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1072,
+                "character": "Ray from Next Door",
+                "credit_id": "61ba0917cb75d1001c0a0769",
+                "order": 56
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 17.1291,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23554,
+                "credit_id": "54c22b5a9251416e6000cdc1",
+                "department": "Art",
+                "job": "Leadman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1399463,
+        "imdb_id": "nm0343337",
+        "known_for_department": "Art",
+        "name": "Bruce Lee Gross",
+        "place_of_birth": null,
+        "popularity": 0.0393,
+        "profile_path": null
+    }
+}

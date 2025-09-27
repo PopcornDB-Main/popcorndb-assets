@@ -1,0 +1,274 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+                "genre_ids": [
+                    12,
+                    53,
+                    878
+                ],
+                "id": 2756,
+                "original_language": "en",
+                "original_title": "The Abyss",
+                "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+                "popularity": 7.5965,
+                "poster_path": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+                "release_date": "1989-08-09",
+                "title": "The Abyss",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 3208,
+                "character": "Dr. Berg",
+                "credit_id": "571a3d73c3a36852680023a8",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lyHnFsWafILUlizalpCSikJT7Ui.jpg",
+                "genre_ids": [
+                    878,
+                    27
+                ],
+                "id": 11850,
+                "original_language": "en",
+                "original_title": "Invasion of the Body Snatchers",
+                "overview": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+                "popularity": 4.5325,
+                "poster_path": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+                "release_date": "1978-12-20",
+                "title": "Invasion of the Body Snatchers",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 1212,
+                "character": "Health Dept. Floor Cleaner (uncredited)",
+                "credit_id": "5f1a2b1b303c8500354425ea",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 103,
+                "original_language": "en",
+                "original_title": "Taxi Driver",
+                "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+                "popularity": 9.3732,
+                "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+                "release_date": "1976-02-09",
+                "title": "Taxi Driver",
+                "video": false,
+                "vote_average": 8.135,
+                "vote_count": 12879,
+                "credit_id": "52fe4218c3a36847f80037fd",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jfxTTQqb9FRUPDLMn5BUWVvVsKf.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    10751
+                ],
+                "id": 1265,
+                "original_language": "en",
+                "original_title": "Bridge to Terabithia",
+                "overview": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
+                "popularity": 8.3566,
+                "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+                "release_date": "2007-02-15",
+                "title": "Bridge to Terabithia",
+                "video": false,
+                "vote_average": 7.305,
+                "vote_count": 5009,
+                "credit_id": "52fe42ebc3a36847f802cef7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 6.9803,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.922,
+                "vote_count": 4528,
+                "credit_id": "52fe4300c3a36847f8032f37",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/a4f6y7gbMmMLrwzJZrwmcNmEBM1.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 1592,
+                "original_language": "en",
+                "original_title": "Primal Fear",
+                "overview": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room.",
+                "popularity": 5.8001,
+                "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+                "release_date": "1996-03-06",
+                "title": "Primal Fear",
+                "video": false,
+                "vote_average": 7.655,
+                "vote_count": 3632,
+                "credit_id": "52fe4302c3a36847f80339a1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    18
+                ],
+                "id": 5503,
+                "original_language": "en",
+                "original_title": "The Fugitive",
+                "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+                "popularity": 6.2845,
+                "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+                "release_date": "1993-08-06",
+                "title": "The Fugitive",
+                "video": false,
+                "vote_average": 7.466,
+                "vote_count": 4519,
+                "credit_id": "52fe440ac3a36847f807eb7f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lyHnFsWafILUlizalpCSikJT7Ui.jpg",
+                "genre_ids": [
+                    878,
+                    27
+                ],
+                "id": 11850,
+                "original_language": "en",
+                "original_title": "Invasion of the Body Snatchers",
+                "overview": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+                "popularity": 4.5325,
+                "poster_path": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+                "release_date": "1978-12-20",
+                "title": "Invasion of the Body Snatchers",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 1212,
+                "credit_id": "52fe44929251416c750398ff",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xgU3KkqiME9pGe5gGCNpUYkoSWg.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 13.1521,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.677,
+                "vote_count": 11018,
+                "credit_id": "609916f38ee49c003e74a7ab",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 238,
+                "original_language": "en",
+                "original_title": "The Godfather",
+                "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+                "popularity": 27.4785,
+                "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+                "release_date": "1972-03-14",
+                "title": "The Godfather",
+                "video": false,
+                "vote_average": 8.686,
+                "vote_count": 21857,
+                "credit_id": "62bd4492097c490051497166",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 1547,
+                "original_language": "en",
+                "original_title": "The Lost Boys",
+                "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+                "popularity": 7.2238,
+                "poster_path": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+                "release_date": "1987-07-31",
+                "title": "The Lost Boys",
+                "video": false,
+                "vote_average": 7.084,
+                "vote_count": 2168,
+                "credit_id": "5f6941cb955c6500387f0e05",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Michael Crawford Chapman, A.S.C. (November 21, 1935 \u2013 September 20, 2020) was an American cinematographer and film director well known for his work on many films of the American New Wave of the 1970s and in the 1980s with directors such as Martin Scorsese and Ivan Reitman. He shot more than forty feature films, over half of those with only three different directors.\n\nDescription above from the Wikipedia article Michael Chapman (cinematographer), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1935-11-21",
+        "deathday": "2020-09-20",
+        "gender": 2,
+        "homepage": null,
+        "id": 1044,
+        "imdb_id": "nm0152469",
+        "known_for_department": "Camera",
+        "name": "Michael Chapman",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.2156,
+        "profile_path": "/vFFWHlwwIgWoi2NPoVq3uzikCnM.jpg"
+    }
+}

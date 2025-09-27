@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 369972,
+                "original_language": "en",
+                "original_title": "First Man",
+                "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+                "popularity": 3.5884,
+                "poster_path": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+                "release_date": "2018-10-10",
+                "title": "First Man",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 5439,
+                "character": "NASA Pilot (uncredited)",
+                "credit_id": "61973cc59512e10043d386db",
+                "order": 88
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+                "genre_ids": [
+                    80,
+                    36,
+                    18
+                ],
+                "id": 466420,
+                "original_language": "en",
+                "original_title": "Killers of the Flower Moon",
+                "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.",
+                "popularity": 13.3038,
+                "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+                "release_date": "2023-10-18",
+                "title": "Killers of the Flower Moon",
+                "video": false,
+                "vote_average": 7.413,
+                "vote_count": 3769,
+                "credit_id": "61973be8abdafc002a22ef59",
+                "department": "Crew",
+                "job": "Stand In"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2367751,
+        "imdb_id": "nm8422973",
+        "known_for_department": "Acting",
+        "name": "Aaron J. Brooks",
+        "place_of_birth": null,
+        "popularity": 0.3749,
+        "profile_path": "/mZW38mcR8eKbZLPRzLNkHQU8bSO.jpg"
+    }
+}

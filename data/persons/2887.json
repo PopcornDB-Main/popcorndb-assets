@@ -1,0 +1,346 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/hpzbQDjl2yzf6MwrYOrbDJCmojc.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 227,
+                "original_language": "en",
+                "original_title": "The Outsiders",
+                "overview": "When two poor Greasers, Johnny and Ponyboy, are assaulted by a vicious gang, the Socs, and Johnny kills one of the attackers, tension begins to mount between the two rival gangs, setting off a turbulent chain of events.",
+                "popularity": 3.5023,
+                "poster_path": "/pl8Tf36TAOb2i561yPbQ9xl4P4D.jpg",
+                "release_date": "1983-03-25",
+                "title": "The Outsiders",
+                "video": false,
+                "vote_average": 7.207,
+                "vote_count": 1453,
+                "character": "Buck Merrill",
+                "credit_id": "52fe4229c3a36847f8008c09",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g2SvOk7ZEgV1VyOfJB2CwFyqgmF.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 232,
+                "original_language": "en",
+                "original_title": "Rumble Fish",
+                "overview": "Rusty James, an absent-minded street thug, struggles to live up to his legendary older brother's reputation and longs for the days when gang warfare was going on.",
+                "popularity": 2.9908,
+                "poster_path": "/nwIUWs7cexC8Wk9c6ey8nFltAZd.jpg",
+                "release_date": "1983-10-09",
+                "title": "Rumble Fish",
+                "video": false,
+                "vote_average": 6.987,
+                "vote_count": 717,
+                "character": "Benny",
+                "credit_id": "52fe422ac3a36847f8008f45",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6q6iWqADBkXmOG7IJ3FgQxPzRNE.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 883,
+                "original_language": "en",
+                "original_title": "Coffee and Cigarettes",
+                "overview": "An anthology of eleven vignettes featuring star-studded casts of extremely unique individuals who all share the common activities of conversing while drinking coffee and smoking cigarettes.",
+                "popularity": 1.5351,
+                "poster_path": "/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg",
+                "release_date": "2004-03-12",
+                "title": "Coffee and Cigarettes",
+                "video": false,
+                "vote_average": 6.909,
+                "vote_count": 984,
+                "character": "Tom (segment \"Somewhere in California\")",
+                "credit_id": "52fe4287c3a36847f8025f23",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 718032,
+                "original_language": "en",
+                "original_title": "Licorice Pizza",
+                "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+                "popularity": 8.0286,
+                "poster_path": "/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+                "release_date": "2021-11-26",
+                "title": "Licorice Pizza",
+                "video": false,
+                "vote_average": 6.958,
+                "vote_count": 2455,
+                "character": "Rex Blau",
+                "credit_id": "613f359faaf897008c06f372",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 1554,
+                "original_language": "en",
+                "original_title": "Down by Law",
+                "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
+                "popularity": 3.6055,
+                "poster_path": "/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
+                "release_date": "1986-09-20",
+                "title": "Down by Law",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 793,
+                "character": "Zack",
+                "credit_id": "52fe42fdc3a36847f8032139",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/j44XhCxpLTi8WnrX52H83Z86ovG.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 695,
+                "original_language": "en",
+                "original_title": "Short Cuts",
+                "overview": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+                "popularity": 4.0745,
+                "poster_path": "/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+                "release_date": "1993-10-01",
+                "title": "Short Cuts",
+                "video": false,
+                "vote_average": 7.216,
+                "vote_count": 638,
+                "character": "Earl Piggot",
+                "credit_id": "52fe426cc3a36847f801d54f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wDLgGI6Rswo30YkWoM6TGq0VWVy.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 13198,
+                "original_language": "en",
+                "original_title": "Wristcutters: A Love Story",
+                "overview": "Zia, distraught over breaking up with his girlfriend, decides to end it all. Unfortunately, he discovers that there is no real ending, only a run-down afterlife that is strikingly similar to his old one, just a bit worse. Discovering that his ex-girlfriend has also \"offed\" herself, he sets out on a road trip to find her.",
+                "popularity": 4.0617,
+                "poster_path": "/qModiIR60IMLP28ruGZluQOtsOj.jpg",
+                "release_date": "2007-10-19",
+                "title": "Wristcutters: A Love Story",
+                "video": false,
+                "vote_average": 6.966,
+                "vote_count": 580,
+                "character": "Kneller",
+                "credit_id": "52fe454d9251416c75051e89",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 177,
+                "original_language": "en",
+                "original_title": "The Fisher King",
+                "overview": "Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves.",
+                "popularity": 3.5393,
+                "poster_path": "/hwIYw22HmAUMobV4zsX69MgfVUz.jpg",
+                "release_date": "1991-09-20",
+                "title": "The Fisher King",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1394,
+                "character": "Disabled Vet (uncredited)",
+                "credit_id": "569313de9251416557000dd9",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
+                "genre_ids": [
+                    37,
+                    35,
+                    18,
+                    10402,
+                    9648,
+                    10749
+                ],
+                "id": 537996,
+                "original_language": "en",
+                "original_title": "The Ballad of Buster Scruggs",
+                "overview": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+                "popularity": 7.1107,
+                "poster_path": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+                "release_date": "2018-11-09",
+                "title": "The Ballad of Buster Scruggs",
+                "video": false,
+                "vote_average": 7.133,
+                "vote_count": 4226,
+                "character": "Prospector (segment \"All Gold Canyon\")",
+                "credit_id": "5b67e8e20e0a267ee50b8163",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+                "genre_ids": [
+                    10749,
+                    27
+                ],
+                "id": 6114,
+                "original_language": "en",
+                "original_title": "Bram Stoker's Dracula",
+                "overview": "In 19th century England, Count Dracula travels to London and meets Mina Harker, a young woman who appears as the reincarnation of his lost love.",
+                "popularity": 5.9215,
+                "poster_path": "/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+                "release_date": "1992-11-13",
+                "title": "Bram Stoker's Dracula",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 5446,
+                "character": "R.M. Renfield",
+                "credit_id": "5e8d602187e63e00152b190d",
+                "order": 8
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/s7lwxcX5iZuOdoQhM77WyQaPtWv.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 339,
+                "original_language": "en",
+                "original_title": "Night on Earth",
+                "overview": "A quintet of cabbies in five cities and their remarkable fares on the same eventful night.",
+                "popularity": 2.2962,
+                "poster_path": "/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
+                "release_date": "1991-12-12",
+                "title": "Night on Earth",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 973,
+                "credit_id": "52fe423ac3a36847f800dac3",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bYJyQqqJV30RJX6VPE3Rz1lPZhH.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 2100,
+                "original_language": "en",
+                "original_title": "The Last Castle",
+                "overview": "A court-martialed general rallies together 1200 inmates to rise against the system that put him away.",
+                "popularity": 6.9785,
+                "poster_path": "/pYnUfauPVK6g8IRO2REYl4TUZ2p.jpg",
+                "release_date": "2001-10-19",
+                "title": "The Last Castle",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1330,
+                "credit_id": "52fe4335c3a36847f80429af",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 1554,
+                "original_language": "en",
+                "original_title": "Down by Law",
+                "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
+                "popularity": 3.6055,
+                "poster_path": "/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
+                "release_date": "1986-09-20",
+                "title": "Down by Law",
+                "video": false,
+                "vote_average": 7.349,
+                "vote_count": 793,
+                "credit_id": "65ae9ce509c24c00ad01c8a7",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s7lwxcX5iZuOdoQhM77WyQaPtWv.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 339,
+                "original_language": "en",
+                "original_title": "Night on Earth",
+                "overview": "A quintet of cabbies in five cities and their remarkable fares on the same eventful night.",
+                "popularity": 2.2962,
+                "poster_path": "/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
+                "release_date": "1991-12-12",
+                "title": "Night on Earth",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 973,
+                "credit_id": "59837c43c3a36837100034ff",
+                "department": "Sound",
+                "job": "Songs"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Thomas Alan Waits",
+            "\u6c64\u59c6\u00b7\u5a01\u5179"
+        ],
+        "biography": "Thomas Alan Waits (born December 7, 1949) is an American musician, composer, songwriter and actor. His lyrics often focus on the underbelly of society and are delivered in his trademark deep, gravelly voice. He worked primarily in jazz during the 1970s, but his music since the 1980s has reflected greater influence from blues, rock, vaudeville, and experimental genres.\n\nWaits was born and raised in a middle-class family in Whittier, California. Inspired by the work of Bob Dylan and the Beat Generation, he began singing on the San Diego folk music circuit as a young boy. He relocated to Los Angeles in 1972, where he worked as a songwriter before signing a recording contract with Asylum Records. His first albums were the jazz-oriented Closing Time (1973) and The Heart of Saturday Night (1974), which reflected his lyrical interest in nightlife, poverty, and criminality. He repeatedly toured the United States, Europe, and Japan, and attracted greater critical recognition and commercial success with Small Change (1976), Blue Valentine (1978), and Heartattack and Vine (1980). He produced the soundtrack for Francis Ford Coppola's film One from the Heart (1981), and subsequently made cameo appearances in several Coppola films.\n\nIn 1980, Waits married Kathleen Brennan, split from his manager and record label, and moved to New York City. With Brennan's encouragement and frequent collaboration, he pursued a more experimental and eclectic musical aesthetic influenced by the work of Harry Partch and Captain Beefheart. This was reflected in a series of albums released by Island Records, including Swordfishtrombones (1983), Rain Dogs (1985), and Franks Wild Years (1987). He continued appearing in films, notably starring in Jim Jarmusch's Down by Law (1986), and also made theatrical appearances. With theatre director Robert Wilson, he produced the musicals The Black Rider (1990) and Alice (1992), first performed in Hamburg. Having returned to California in the 1990s, his albums Bone Machine (1992), The Black Rider (1993), and Mule Variations (1999) earned him increasing critical acclaim and multiple Grammy Awards. In the late 1990s, he switched to the record label ANTI-, which released Blood Money (2002), Alice (2002), Real Gone (2004), and Bad as Me (2011).\n\nDespite a lack of mainstream commercial success, Waits has influenced many musicians and gained an international cult following, and several biographies have been written about him. In 2015, he was ranked at No. 55 on Rolling Stone's \"100 Greatest Songwriters of All Time\". He was inducted into the Rock and Roll Hall of Fame in 2011.",
+        "birthday": "1949-12-07",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.tomwaits.com",
+        "id": 2887,
+        "imdb_id": "nm0001823",
+        "known_for_department": "Acting",
+        "name": "Tom Waits",
+        "place_of_birth": "Pomona, California, USA",
+        "popularity": 0.8164,
+        "profile_path": "/uxDkURjzHnaglIH2YRWUMJjoDx.jpg"
+    }
+}

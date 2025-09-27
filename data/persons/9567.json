@@ -1,0 +1,191 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2ycAZWELqHygeqivCLuqNQsYPSP.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    36
+                ],
+                "id": 528888,
+                "original_language": "en",
+                "original_title": "Dolemite Is My Name",
+                "overview": "The story of Rudy Ray Moore, who created the iconic big screen pimp character Dolemite in the 1970s.",
+                "popularity": 2.2933,
+                "poster_path": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+                "release_date": "2019-10-04",
+                "title": "Dolemite Is My Name",
+                "video": false,
+                "vote_average": 7.004,
+                "vote_count": 1212,
+                "character": "FBI Agent #1",
+                "credit_id": "6414b7d85690b5007a53c464",
+                "order": 57
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yTgqGrzDtJPAYpWN2QrL5TTtWrr.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 11836,
+                "original_language": "en",
+                "original_title": "The SpongeBob SquarePants Movie",
+                "overview": "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it looks like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.",
+                "popularity": 9.0973,
+                "poster_path": "/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg",
+                "release_date": "2004-11-19",
+                "title": "The SpongeBob SquarePants Movie",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 3048,
+                "character": "Scruffy the Pirate",
+                "credit_id": "646767aad1857200e5a36aac",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/x29PYzoNYPGzdj3M8FDwSwEgNpf.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 5236,
+                "original_language": "en",
+                "original_title": "Kiss Kiss Bang Bang",
+                "overview": "A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role...",
+                "popularity": 2.4859,
+                "poster_path": "/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
+                "release_date": "2005-09-14",
+                "title": "Kiss Kiss Bang Bang",
+                "video": false,
+                "vote_average": 7.162,
+                "vote_count": 2835,
+                "character": "Dexter Goon",
+                "credit_id": "60848e4fbefb09006ea94c3b",
+                "order": 36
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5n2jz145P1CRdPfA296MmEZF1sQ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 512263,
+                "original_language": "en",
+                "original_title": "Honey Boy",
+                "overview": "The story of a child star attempting to mend his relationship with his law-breaking, alcohol-abusing father over the course of a decade, loosely based on Shia LaBeouf\u2019s life.",
+                "popularity": 3.156,
+                "poster_path": "/juBWCym4Gc0XSDOvM7P4eOlzw1P.jpg",
+                "release_date": "2019-09-28",
+                "title": "Honey Boy",
+                "video": false,
+                "vote_average": 7.058,
+                "vote_count": 706,
+                "credit_id": "6326fd8153866e007d7f7d5d",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vfo2dzdXnoArYwrkM7kw1vgb7dL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 174,
+                "original_language": "en",
+                "original_title": "Star Trek VI: The Undiscovered Country",
+                "overview": "After years of war, the Federation and the Klingon empire find themselves on the brink of a peace summit when a Klingon ship is nearly destroyed by an apparent attack from the Enterprise. Both worlds brace for what may be their deadliest encounter.",
+                "popularity": 1.8635,
+                "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+                "release_date": "1991-12-06",
+                "title": "Star Trek VI: The Undiscovered Country",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1332,
+                "credit_id": "6414b83c31032501015005ac",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 5915,
+                "original_language": "en",
+                "original_title": "Into the Wild",
+                "overview": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+                "popularity": 8.4105,
+                "poster_path": "/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+                "release_date": "2007-09-21",
+                "title": "Into the Wild",
+                "video": false,
+                "vote_average": 7.797,
+                "vote_count": 9803,
+                "credit_id": "6414baca6a22270085ef23cf",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 638,
+                "original_language": "en",
+                "original_title": "Lost Highway",
+                "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelg\u00e4ngers, and an impossible transformation inside a prison cell.",
+                "popularity": 4.5077,
+                "poster_path": "/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+                "release_date": "1997-01-15",
+                "title": "Lost Highway",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2781,
+                "credit_id": "6414c3cce9c0dc00ecc87c9c",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Cole McKayh",
+            "Colin McKay",
+            "Cole McKay",
+            "Cole McCay",
+            "Cole Mc Kay"
+        ],
+        "biography": "Cole S. McKay is a stuntman, stunt actor, stunt coordinator, and director.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 9567,
+        "imdb_id": "nm0570946",
+        "known_for_department": "Crew",
+        "name": "Cole S. McKay",
+        "place_of_birth": null,
+        "popularity": 0.1384,
+        "profile_path": "/breu8Nt0B8ofjkDD6R6yUGbMyZ8.jpg"
+    }
+}

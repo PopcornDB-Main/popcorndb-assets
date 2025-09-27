@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qg0OLFasb1kNrAhKjqh4zTW37pS.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    53
+                ],
+                "id": 6479,
+                "original_language": "en",
+                "original_title": "I Am Legend",
+                "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+                "popularity": 9.0409,
+                "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+                "release_date": "2007-12-12",
+                "title": "I Am Legend",
+                "video": false,
+                "vote_average": 7.211,
+                "vote_count": 16272,
+                "character": "Infected",
+                "credit_id": "5bce2a689251410581004852",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qM08KBrvuzENc0G9RzlzyVjkSm.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    10749
+                ],
+                "id": 85446,
+                "original_language": "en",
+                "original_title": "Step Up Revolution",
+                "overview": "Emily arrives in Miami with aspirations to become a professional dancer. She sparks with Sean, the leader of a dance crew whose neighborhood is threatened by Emily's father's development plans.",
+                "popularity": 3.6369,
+                "poster_path": "/jMpwxmk3r7Aq36GcqMbCuP9DJYQ.jpg",
+                "release_date": "2012-07-26",
+                "title": "Step Up Revolution",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 2076,
+                "character": "Mob Dancer",
+                "credit_id": "5c4182e60e0a26765393871e",
+                "order": 37
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 491418,
+                "original_language": "en",
+                "original_title": "Instant Family",
+                "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+                "popularity": 4.6658,
+                "poster_path": "/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+                "release_date": "2018-11-13",
+                "title": "Instant Family",
+                "video": false,
+                "vote_average": 7.511,
+                "vote_count": 3102,
+                "credit_id": "60216107ea37e000403f0f55",
+                "department": "Crew",
+                "job": "Choreographer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Marc Anthony Inniss aka Marvelous",
+            "Marc 'Marvelous' Inniss"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1398066,
+        "imdb_id": "nm2859719",
+        "known_for_department": "Acting",
+        "name": "Marc Inniss",
+        "place_of_birth": null,
+        "popularity": 0.0744,
+        "profile_path": "/foMPMiQUuO7tFx1MzF2J0136gdT.jpg"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    10402
+                ],
+                "id": 11176,
+                "original_language": "en",
+                "original_title": "The Muppet Movie",
+                "overview": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+                "popularity": 2.7992,
+                "poster_path": "/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+                "release_date": "1979-06-22",
+                "title": "The Muppet Movie",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 658,
+                "character": "Scooter / Statler / Janice / Sweetums / Beaker / Fozzie Bear (assistant) (voice)",
+                "credit_id": "52fe44089251416c75026a79",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2pViauhiZLhAUb1lsY6wRir69SF.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 1621,
+                "original_language": "en",
+                "original_title": "Trading Places",
+                "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
+                "popularity": 6.1606,
+                "poster_path": "/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+                "release_date": "1983-06-07",
+                "title": "Trading Places",
+                "video": false,
+                "vote_average": 7.229,
+                "vote_count": 3451,
+                "character": "Wilson",
+                "credit_id": "5575b400c3a3685606001d6e",
+                "order": 73
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10751,
+                    14,
+                    18
+                ],
+                "id": 10437,
+                "original_language": "en",
+                "original_title": "The Muppet Christmas Carol",
+                "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+                "popularity": 3.6136,
+                "poster_path": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+                "release_date": "1992-12-11",
+                "title": "The Muppet Christmas Carol",
+                "video": false,
+                "vote_average": 7.421,
+                "vote_count": 1072,
+                "credit_id": "5e90969efdc146001347b99f",
+                "department": "Crew",
+                "job": "In Memory Of"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Richard Hunt (August 17, 1951 \u2013 January 7, 1992) was an American puppeteer, best known as a Muppet performer on Sesame Street, The Muppet Show, Fraggle Rock, and other projects for The Jim Henson Company. His roles on The Muppet Show included Scooter, Statler, Janice, Beaker, and Sweetums and characters on Sesame Street included Gladys the Cow, Don Music, and Forgetful Jones.\n\nDescription above from the Wikipedia article Richard Hunt, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1951-08-17",
+        "deathday": "1992-01-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 68456,
+        "imdb_id": "nm0402611",
+        "known_for_department": "Acting",
+        "name": "Richard Hunt",
+        "place_of_birth": "The Bronx, New York City, New York, USA",
+        "popularity": 0.2568,
+        "profile_path": "/itvasFV2Qgnrsx4ejAaUTT7KAYj.jpg"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ugDZGeweSN9EH8XrLaBHLm5AxuA.jpg",
+                "genre_ids": [
+                    18,
+                    27
+                ],
+                "id": 6404,
+                "original_language": "de",
+                "original_title": "Nosferatu - Phantom der Nacht",
+                "overview": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
+                "popularity": 3.6029,
+                "poster_path": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
+                "release_date": "1979-01-17",
+                "title": "Nosferatu the Vampyre",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1016,
+                "character": "Renfield",
+                "credit_id": "52fe4450c3a36847f808ebe1",
+                "order": 3
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/foS1hXCMagcl3GnK0hJHslNw9Ne.jpg",
+                "genre_ids": [
+                    53,
+                    27,
+                    9648,
+                    18
+                ],
+                "id": 11482,
+                "original_language": "en",
+                "original_title": "Le locataire",
+                "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+                "popularity": 1.6659,
+                "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+                "release_date": "1976-05-26",
+                "title": "The Tenant",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1174,
+                "credit_id": "52fe44499251416c7502f5bd",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dS8AcMrQfC1PQA7njdFECCPkMvd.jpg",
+                "genre_ids": [
+                    16,
+                    878
+                ],
+                "id": 16306,
+                "original_language": "fr",
+                "original_title": "La Plan\u00e8te sauvage",
+                "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
+                "popularity": 1.5581,
+                "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+                "release_date": "1973-12-01",
+                "title": "Fantastic Planet",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1021,
+                "credit_id": "66658206e11ce64e724dcce8",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Roland Topor was a French illustrator, cartoonist, comics artist, painter, novelist, playwright, film and TV writer, filmmaker and actor, known for the surreal nature of his work. He gained notoriety as one of the home cartoonists of the subversive French magazine Hara-Kiri, renamed later Charlie-Hebdo. \n\nRoland Topor wrote the novel The Tenant (Le Locataire chim\u00e9rique, 1964), which was adapted to film by Roman Polanski in 1976. The Tenant is the story of a Parisian of Polish descent, a chilling exploration of alienation and identity, asking disturbing questions about how we define ourselves.",
+        "birthday": "1938-01-07",
+        "deathday": "1997-04-16",
+        "gender": 2,
+        "homepage": null,
+        "id": 49505,
+        "imdb_id": "nm0867718",
+        "known_for_department": "Writing",
+        "name": "Roland Topor",
+        "place_of_birth": "Paris, France",
+        "popularity": 0.2141,
+        "profile_path": "/AwrJsLOQcZAb5qXsqOEN55BAjla.jpg"
+    }
+}

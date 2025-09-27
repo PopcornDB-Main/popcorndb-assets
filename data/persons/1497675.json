@@ -1,0 +1,233 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5e8V714wUtpPgMD9xD8NjTEqlyu.jpg",
+                "genre_ids": [
+                    28
+                ],
+                "id": 14746,
+                "original_language": "en",
+                "original_title": "Streets of Fire",
+                "overview": "Raven Shaddock and his gang of merciless biker friends kidnap rock singer Ellen Aim. Ellen's former lover, soldier-for-hire Tom Cody, happens to be passing through town on a visit. In an attempt to save his star act, Ellen's manager hires Tom to rescue her. Along with a former soldier, they battle through dangerous cityscapes, determined to get Ellen back.",
+                "popularity": 2.3242,
+                "poster_path": "/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+                "release_date": "1984-06-01",
+                "title": "Streets of Fire",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 520,
+                "character": "The Roadmasters",
+                "credit_id": "592591209251413b500101fa",
+                "order": 33
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 105,
+                "original_language": "en",
+                "original_title": "Back to the Future",
+                "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+                "popularity": 11.9872,
+                "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+                "release_date": "1985-07-03",
+                "title": "Back to the Future",
+                "video": false,
+                "vote_average": 8.321,
+                "vote_count": 20884,
+                "credit_id": "6276a0b304733f00a64c07ef",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+                "genre_ids": [
+                    28,
+                    36,
+                    10749,
+                    10752
+                ],
+                "id": 9361,
+                "original_language": "en",
+                "original_title": "The Last of the Mohicans",
+                "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+                "popularity": 5.4755,
+                "poster_path": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+                "release_date": "1992-08-26",
+                "title": "The Last of the Mohicans",
+                "video": false,
+                "vote_average": 7.385,
+                "vote_count": 3244,
+                "credit_id": "60fcfa8757176f00733d30e7",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/14h57Khhp9hi11aJivH58u5tFyR.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    878
+                ],
+                "id": 10925,
+                "original_language": "en",
+                "original_title": "The Return of the Living Dead",
+                "overview": "When foreman Frank shows new employee Freddy a secret military experiment in a supply warehouse in Louisville, Kentucky, the two klutzes accidentally release a gas that reanimates corpses into flesh-eating zombies. As the epidemic spreads throughout the town, and the creatures satisfy their hunger in gory and outlandish ways, Frank and Freddy fight to survive with the help of their boss and a mysterious mortician.",
+                "popularity": 4.0423,
+                "poster_path": "/oNsV9BychAe4Sk6xFKp558Rlpyz.jpg",
+                "release_date": "1985-04-25",
+                "title": "The Return of the Living Dead",
+                "video": false,
+                "vote_average": 7.182,
+                "vote_count": 2198,
+                "credit_id": "6117c94e151c5c002c796edd",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/smK3ud9IKSLVuRXdKauJ9p0DwNB.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 2322,
+                "original_language": "en",
+                "original_title": "Sneakers",
+                "overview": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers.",
+                "popularity": 9.7214,
+                "poster_path": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+                "release_date": "1992-09-09",
+                "title": "Sneakers",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 979,
+                "credit_id": "657c6f77e93e95218eac665d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
+                "genre_ids": [
+                    27,
+                    35,
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 1547,
+                "original_language": "en",
+                "original_title": "The Lost Boys",
+                "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+                "popularity": 7.2238,
+                "poster_path": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+                "release_date": "1987-07-31",
+                "title": "The Lost Boys",
+                "video": false,
+                "vote_average": 7.084,
+                "vote_count": 2168,
+                "credit_id": "59a93a0cc3a3683c8702853f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    10749
+                ],
+                "id": 483,
+                "original_language": "en",
+                "original_title": "Wild at Heart",
+                "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula\u2019s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers\u2019 surreal honeymoon short.",
+                "popularity": 3.0321,
+                "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+                "release_date": "1990-08-17",
+                "title": "Wild at Heart",
+                "video": false,
+                "vote_average": 7.039,
+                "vote_count": 1798,
+                "credit_id": "5b7b737cc3a368197e002c65",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rahJyvdMruvqUmSLWRQKYS57mx8.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 562,
+                "original_language": "en",
+                "original_title": "Die Hard",
+                "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+                "popularity": 8.0077,
+                "poster_path": "/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+                "release_date": "1988-07-15",
+                "title": "Die Hard",
+                "video": false,
+                "vote_average": 7.801,
+                "vote_count": 11682,
+                "credit_id": "67e89163a7145a40a94178bb",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k28lTv01nuncbs9Y2WZh6FQunqv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9909,
+                "original_language": "en",
+                "original_title": "Dangerous Minds",
+                "overview": "Former Marine Louanne Johnson lands a gig teaching in a pilot program for bright but underachieving teens at a notorious inner-city high school. After having a terrible first day, she decides she must throw decorum to the wind. When Johnson returns to the classroom, she does so armed with a no-nonsense attitude informed by her military training and a fearless determination to better the lives of her students -- no matter what the cost.",
+                "popularity": 3.0081,
+                "poster_path": "/yWHWC8fJRp2kLgiFrEa8o3krOH9.jpg",
+                "release_date": "1995-08-11",
+                "title": "Dangerous Minds",
+                "video": false,
+                "vote_average": 6.978,
+                "vote_count": 1202,
+                "credit_id": "67f17d0ea7336870ee994eb4",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bernhard Pock",
+            "Bernard Pock",
+            "Bernice Pock"
+        ],
+        "biography": "",
+        "birthday": "1963-03-28",
+        "deathday": "1996-06-05",
+        "gender": 2,
+        "homepage": null,
+        "id": 1497675,
+        "imdb_id": "nm0687884",
+        "known_for_department": "Crew",
+        "name": "Bernie Pock",
+        "place_of_birth": "Innsbruck, Austria",
+        "popularity": 0.6304,
+        "profile_path": "/iqadYjsL9jJe0ZxbuU8xawagyAQ.jpg"
+    }
+}

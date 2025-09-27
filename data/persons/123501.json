@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/sGKUhw88FMH5gfz0E6BK2YOZ5se.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 82695,
+                "original_language": "en",
+                "original_title": "Les Mis\u00e9rables",
+                "overview": "An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+                "popularity": 8.4654,
+                "poster_path": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+                "release_date": "2012-12-18",
+                "title": "Les Mis\u00e9rables",
+                "video": false,
+                "vote_average": 7.315,
+                "vote_count": 5418,
+                "character": "Constable 2",
+                "credit_id": "52fe486c9251416c9108c0e9",
+                "order": 43
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 118340,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy",
+                "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                "popularity": 6.8599,
+                "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+                "release_date": "2014-07-30",
+                "title": "Guardians of the Galaxy",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 28889,
+                "credit_id": "64d5a4194a4bf6013bb1da4c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    80,
+                    9648
+                ],
+                "id": 58574,
+                "original_language": "en",
+                "original_title": "Sherlock Holmes: A Game of Shadows",
+                "overview": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes\u2019 intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the  detective.",
+                "popularity": 5.7407,
+                "poster_path": "/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+                "release_date": "2011-11-22",
+                "title": "Sherlock Holmes: A Game of Shadows",
+                "video": false,
+                "vote_average": 7.141,
+                "vote_count": 10615,
+                "credit_id": "5f764ac11f748b0037219d73",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 123501,
+        "imdb_id": "nm1067116",
+        "known_for_department": "Crew",
+        "name": "Paul Howell",
+        "place_of_birth": null,
+        "popularity": 0.0739,
+        "profile_path": null
+    }
+}

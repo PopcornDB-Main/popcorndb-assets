@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 9390,
+                "original_language": "en",
+                "original_title": "Jerry Maguire",
+                "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+                "popularity": 4.2323,
+                "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+                "release_date": "1996-12-13",
+                "title": "Jerry Maguire",
+                "video": false,
+                "vote_average": 6.971,
+                "vote_count": 3486,
+                "character": "Dennis Wilburn",
+                "credit_id": "5c6b9eaec3a36843c6e678c4",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 90,
+                "original_language": "en",
+                "original_title": "Beverly Hills Cop",
+                "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+                "popularity": 4.082,
+                "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+                "release_date": "1984-12-05",
+                "title": "Beverly Hills Cop",
+                "video": false,
+                "vote_average": 7.202,
+                "vote_count": 4374,
+                "credit_id": "681c6caba62c4f98146e366d",
+                "department": "Sound",
+                "job": "Songs"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Eagles ",
+            "The Eagles "
+        ],
+        "biography": "Glenn Lewis Frey (/fra\u026a/; November 6, 1948 \u2013 January 18, 2016) was an American musician. He was a founding member of the rock band Eagles, for whom he was the co-lead singer and frontman, roles he came to share with fellow member Don Henley, with whom he wrote most of Eagles' material.",
+        "birthday": "1948-11-06",
+        "deathday": "2016-01-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 77941,
+        "imdb_id": "nm0004940",
+        "known_for_department": "Acting",
+        "name": "Glenn Frey",
+        "place_of_birth": "Detroit, Michigan, USA",
+        "popularity": 0.8215,
+        "profile_path": "/f4Mi3Uws3ZLlb0cIGwkPX51R4ti.jpg"
+    }
+}

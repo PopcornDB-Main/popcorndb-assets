@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/p3P0eTh8AnqauhRZg0wgoBFvcjF.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    10749
+                ],
+                "id": 9833,
+                "original_language": "en",
+                "original_title": "The Phantom of the Opera",
+                "overview": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opera House.",
+                "popularity": 3.9362,
+                "poster_path": "/pFf1Xxzgxo6ffxAJeSkAb5b0P4S.jpg",
+                "release_date": "2004-12-08",
+                "title": "The Phantom of the Opera",
+                "video": false,
+                "vote_average": 7.26,
+                "vote_count": 1693,
+                "character": "Opera Populaire Orchestra",
+                "credit_id": "5f56ce9ae627190038ede3e6",
+                "order": 90
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    878
+                ],
+                "id": 286217,
+                "original_language": "en",
+                "original_title": "The Martian",
+                "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+                "popularity": 16.1315,
+                "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Martian",
+                "video": false,
+                "vote_average": 7.689,
+                "vote_count": 20438,
+                "credit_id": "5bb91e870e0a2634e8016c56",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2143622,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Chris Worsey",
+        "place_of_birth": null,
+        "popularity": 0.0362,
+        "profile_path": null
+    }
+}

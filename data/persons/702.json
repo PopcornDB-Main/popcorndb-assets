@@ -1,0 +1,299 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 87,
+                "original_language": "en",
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+                "popularity": 5.7791,
+                "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+                "release_date": "1984-05-23",
+                "title": "Indiana Jones and the Temple of Doom",
+                "video": false,
+                "vote_average": 7.302,
+                "vote_count": 9706,
+                "character": "Chief Henchman",
+                "credit_id": "52fe4215c3a36847f8002c35",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    80
+                ],
+                "id": 268,
+                "original_language": "en",
+                "original_title": "Batman",
+                "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+                "popularity": 8.7129,
+                "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+                "release_date": "1989-06-21",
+                "title": "Batman",
+                "video": false,
+                "vote_average": 7.234,
+                "vote_count": 8205,
+                "character": "Goon",
+                "credit_id": "5bbea020c3a36844fe001115",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/moYfd709S8xnb8Od2yeG5VBt9Bp.jpg",
+                "genre_ids": [
+                    28,
+                    14
+                ],
+                "id": 364,
+                "original_language": "en",
+                "original_title": "Batman Returns",
+                "overview": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.",
+                "popularity": 7.5561,
+                "poster_path": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+                "release_date": "1992-06-19",
+                "title": "Batman Returns",
+                "video": false,
+                "vote_average": 6.942,
+                "vote_count": 6801,
+                "credit_id": "64d63c00d100b601395c9d26",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 58,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+                "popularity": 18.1778,
+                "poster_path": "/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
+                "release_date": "2006-07-06",
+                "title": "Pirates of the Caribbean: Dead Man's Chest",
+                "video": false,
+                "vote_average": 7.371,
+                "vote_count": 16594,
+                "credit_id": "651040ac26dac1010c758f4a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 285,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: At World's End",
+                "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+                "popularity": 15.3163,
+                "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+                "release_date": "2007-05-19",
+                "title": "Pirates of the Caribbean: At World's End",
+                "video": false,
+                "vote_average": 7.261,
+                "vote_count": 14926,
+                "credit_id": "653eede3519bbb00e18d3c66",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 27205,
+                "original_language": "en",
+                "original_title": "Inception",
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "popularity": 28.0656,
+                "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+                "release_date": "2010-07-15",
+                "title": "Inception",
+                "video": false,
+                "vote_average": 8.37,
+                "vote_count": 37990,
+                "credit_id": "66345494a1c59d0129e72bd8",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 18785,
+                "original_language": "en",
+                "original_title": "The Hangover",
+                "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug \u2013 who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+                "popularity": 17.8134,
+                "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+                "release_date": "2009-06-02",
+                "title": "The Hangover",
+                "video": false,
+                "vote_average": 7.327,
+                "vote_count": 17500,
+                "credit_id": "64a0a7e4d5191f01393dfe30",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 18785,
+                "original_language": "en",
+                "original_title": "The Hangover",
+                "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug \u2013 who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+                "popularity": 17.8134,
+                "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+                "release_date": "2009-06-02",
+                "title": "The Hangover",
+                "video": false,
+                "vote_average": 7.327,
+                "vote_count": 17500,
+                "credit_id": "64a0a8630cb33500fe5eb535",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    53
+                ],
+                "id": 718930,
+                "original_language": "en",
+                "original_title": "Bullet Train",
+                "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.",
+                "popularity": 12.1851,
+                "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+                "release_date": "2022-08-03",
+                "title": "Bullet Train",
+                "video": false,
+                "vote_average": 7.425,
+                "vote_count": 6920,
+                "credit_id": "64b31be30e4fc800c68386b3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/obyCUbpZvMTizOqYWHqkTFgfvnf.jpg",
+                "genre_ids": [
+                    10752,
+                    10749,
+                    36,
+                    28
+                ],
+                "id": 676,
+                "original_language": "en",
+                "original_title": "Pearl Harbor",
+                "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+                "popularity": 7.2761,
+                "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+                "release_date": "2001-05-21",
+                "title": "Pearl Harbor",
+                "video": false,
+                "vote_average": 6.941,
+                "vote_count": 6747,
+                "credit_id": "64c570c4eec5b5011cb05791",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    53
+                ],
+                "id": 180,
+                "original_language": "en",
+                "original_title": "Minority Report",
+                "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+                "popularity": 8.6885,
+                "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+                "release_date": "2002-06-20",
+                "title": "Minority Report",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 9159,
+                "credit_id": "5bcce705c3a36828630138d4",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 847,
+                "original_language": "en",
+                "original_title": "Willow",
+                "overview": "The evil Queen Bavmorda hunts the newborn princess Elora Danan, a child prophesied to bring about her downfall. When the royal infant is found by Willow, a timid farmer and aspiring sorcerer, he's entrusted with delivering her from evil.",
+                "popularity": 2.5217,
+                "poster_path": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+                "release_date": "1988-05-20",
+                "title": "Willow",
+                "video": false,
+                "vote_average": 7.008,
+                "vote_count": 2040,
+                "credit_id": "67ad24f3d63e9deeea36dbc1",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Philip Tann",
+            "Phillip Tan",
+            "Phil Tan"
+        ],
+        "biography": "Phil Tan was born in Singapore where he spent his childhood and then at the age of five moved to the UK. Phil started off his athletic career as a gymnast where he became the British Youth Tumbling champion and a member of the British squad for many years. Years later after getting into martial arts, Phil also became the Men's British Tae Kwon do Champion.\u00a0\n\nPhil's first break in film, was as an actor and fight choreographer in a film called\u00a0Le complot diabolique du docteur Fu Manchu\n\n\u00a0(1980) with\u00a0Peter Sellers. Afer that came a year on\u00a0Greystoke, la l\u00e9gende de Tarzan\u00a0(1984), also as an actor and trainer forChristopher Lambert. Phil was then contacted by\u00a0Steven Spielberg\u00a0and\u00a0Robert Watts\u00a0to train the pricipal actor 'Jonathan Ke Quanin' for\u00a0Indiana Jones et le temple maudit(1984).\n\nHe was then invited to become a member of The British Stunt Register in 1986. That was the start of Phil's stunt career. Now Philip Tan lives in LA and works as a 2nd Unit Director, stunt and fight co-ordinator on some of Hollywoods bigget movies.\n\n- IMDb Mini Biography By:\u00a0Philip Tan",
+        "birthday": "1960-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 702,
+        "imdb_id": "nm0848883",
+        "known_for_department": "Acting",
+        "name": "Philip Tan",
+        "place_of_birth": "Singapore",
+        "popularity": 0.5231,
+        "profile_path": "/6cXDkOsHPbdsgiUUM7UIz6s8cXX.jpg"
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/1hdorswm5HPxb81xq84H9gqveUq.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 371638,
+                "original_language": "en",
+                "original_title": "The Disaster Artist",
+                "overview": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+                "popularity": 1.6645,
+                "poster_path": "/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg",
+                "release_date": "2017-03-12",
+                "title": "The Disaster Artist",
+                "video": false,
+                "vote_average": 7.107,
+                "vote_count": 3620,
+                "character": "J.J. Abrams",
+                "credit_id": "5957980ec3a36825e80096ff",
+                "order": 47
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 13475,
+                "original_language": "en",
+                "original_title": "Star Trek",
+                "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "popularity": 8.4356,
+                "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+                "release_date": "2009-05-06",
+                "title": "Star Trek",
+                "video": false,
+                "vote_average": 7.425,
+                "vote_count": 10150,
+                "credit_id": "52fe456c9251416c75056141",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 13475,
+                "original_language": "en",
+                "original_title": "Star Trek",
+                "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+                "popularity": 8.4356,
+                "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+                "release_date": "2009-05-06",
+                "title": "Star Trek",
+                "video": false,
+                "vote_average": 7.425,
+                "vote_count": 10150,
+                "credit_id": "52fe456c9251416c75056147",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k3PqsPLkKLDyjZupZ6gqZHPxMv3.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 54138,
+                "original_language": "en",
+                "original_title": "Star Trek Into Darkness",
+                "overview": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+                "popularity": 4.5789,
+                "poster_path": "/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg",
+                "release_date": "2013-05-05",
+                "title": "Star Trek Into Darkness",
+                "video": false,
+                "vote_average": 7.32,
+                "vote_count": 9345,
+                "credit_id": "52fe488dc3a36847f816d78f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k3PqsPLkKLDyjZupZ6gqZHPxMv3.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 54138,
+                "original_language": "en",
+                "original_title": "Star Trek Into Darkness",
+                "overview": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew.",
+                "popularity": 4.5789,
+                "poster_path": "/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg",
+                "release_date": "2013-05-05",
+                "title": "Star Trek Into Darkness",
+                "video": false,
+                "vote_average": 7.32,
+                "vote_count": 9345,
+                "credit_id": "52fe488dc3a36847f816d7b1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 10.3096,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19971,
+                "credit_id": "52fe4a959251416c750e7123",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 10.3096,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19971,
+                "credit_id": "52fe4a959251416c750e7149",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    12
+                ],
+                "id": 56292,
+                "original_language": "en",
+                "original_title": "Mission: Impossible - Ghost Protocol",
+                "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
+                "popularity": 8.5443,
+                "poster_path": "/psiWp3VTjznfokmGQG9uqiiknQQ.jpg",
+                "release_date": "2011-12-07",
+                "title": "Mission: Impossible - Ghost Protocol",
+                "video": false,
+                "vote_average": 7.105,
+                "vote_count": 10372,
+                "credit_id": "53563f9d0e0a262865002e7e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ki5RnA0xNOEd3R0RohXqJt9R6Om.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 177677,
+                "original_language": "en",
+                "original_title": "Mission: Impossible - Rogue Nation",
+                "overview": "Ethan and team take on their most impossible mission yet\u2014eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+                "popularity": 8.5589,
+                "poster_path": "/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg",
+                "release_date": "2015-07-28",
+                "title": "Mission: Impossible - Rogue Nation",
+                "video": false,
+                "vote_average": 7.218,
+                "vote_count": 9305,
+                "credit_id": "550eff09c3a3683dd6002c98",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/veGaHYcRHFPEoKfqxKbCEXI8tOT.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    18,
+                    27
+                ],
+                "id": 333371,
+                "original_language": "en",
+                "original_title": "10 Cloverfield Lane",
+                "overview": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
+                "popularity": 4.2692,
+                "poster_path": "/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg",
+                "release_date": "2016-03-10",
+                "title": "10 Cloverfield Lane",
+                "video": false,
+                "vote_average": 6.993,
+                "vote_count": 8285,
+                "credit_id": "55c1384fc3a3681a8f000659",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wO0MIGcA7w7tBI9Ey80Q4Z7qnPm.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14
+                ],
+                "id": 995133,
+                "original_language": "en",
+                "original_title": "The Boy, the Mole, the Fox and the Horse",
+                "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
+                "popularity": 4.5467,
+                "poster_path": "/aBBJRyS17TIrdXih3uSYvPAR3Ua.jpg",
+                "release_date": "2022-12-25",
+                "title": "The Boy, the Mole, the Fox and the Horse",
+                "video": false,
+                "vote_average": 8.211,
+                "vote_count": 660,
+                "credit_id": "63447eaed6c300007f5f1655",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 353081,
+                "original_language": "en",
+                "original_title": "Mission: Impossible - Fallout",
+                "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+                "popularity": 8.6035,
+                "poster_path": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+                "release_date": "2018-07-25",
+                "title": "Mission: Impossible - Fallout",
+                "video": false,
+                "vote_average": 7.443,
+                "vote_count": 8727,
+                "credit_id": "55f7e53fc3a3686d0300cebe",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    10749
+                ],
+                "id": 22538,
+                "original_language": "en",
+                "original_title": "Scott Pilgrim vs. the World",
+                "overview": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+                "popularity": 8.3435,
+                "poster_path": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+                "release_date": "2010-08-12",
+                "title": "Scott Pilgrim vs. the World",
+                "video": false,
+                "vote_average": 7.489,
+                "vote_count": 8210,
+                "credit_id": "5f7cd03801e4d10036f46818",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 10.3096,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19971,
+                "credit_id": "6780d292ed679e53f87b2022",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "J. J. Abrams",
+            "Jeffrey Jacob Abrams",
+            "J\u00b7J\u00b7\u827e\u5e03\u65af",
+            "J. J. \uc5d0\uc774\ube0c\ub7fc\uc2a4"
+        ],
+        "biography": "Jeffrey Jacob Abrams\u00a0(born June 27, 1966)\u00a0is an American filmmaker and composer. He is best known for his works in the genres of\u00a0action,\u00a0drama, and\u00a0science fiction. Abrams wrote and produced films such as\u00a0Regarding Henry (1991),\u00a0Forever Young (1992),\u00a0Armageddon (1998),\u00a0Cloverfield\u00a0(2008),\u00a0Star Trek (2009),\u00a0Star Wars: The Force Awakens (2015), and\u00a0Star Wars: The Rise of Skywalker (2019). Abrams' films have grossed over $4 billion worldwide, making him the\u00a0tenth-highest-grossing film director of all time.\n\nAbrams has created numerous television series, including\u00a0Felicity\u00a0(co-creator, 1998\u20132002),\u00a0Alias(creator, 2001\u20132006),\u00a0Lost\u00a0(co-creator, 2004\u20132010), and\u00a0Fringe\u00a0(co-creator, 2008\u20132013). He won two\u00a0Emmy Awards\u00a0for\u00a0Lost\u00a0\u2013\u00a0Outstanding Directing for a Drama Series\u00a0and\u00a0Outstanding Drama Series.\n\nHis directorial film work includes\u00a0Mission: Impossible III\u00a0(2006),\u00a0Star Trek\u00a0(2009),\u00a0Super 8(2011), and\u00a0Star Trek Into Darkness\u00a0(2013). He also directed, co-produced, and co-wrote\u00a0The Force Awakens, the seventh episode of the\u00a0Star Wars\u00a0Skywalker Saga\u00a0and the first film of the\u00a0sequel trilogy. The film is his highest-grossing, the\u00a0fifth-highest-grossing film of all time not adjusted for inflation, as well as the\u00a0most expensive film ever made. He returned to\u00a0Star Wars\u00a0by executive producing\u00a0The Last Jedi\u00a0(2017) and directing and co-writing\u00a0The Rise of Skywalker\u00a0(2019).\n\nAbrams' frequent collaborators include producer\u00a0Bryan Burk; producer/directors\u00a0Damon Lindelof\u00a0and\u00a0Tommy Gormley; actors\u00a0Greg Grunberg,\u00a0Simon Pegg,\u00a0Amanda Foreman, and\u00a0Keri Russell; composer\u00a0Michael Giacchino; writers\u00a0Alex Kurtzman\u00a0and\u00a0Roberto Orci; cinematographers\u00a0Daniel Mindel\u00a0and\u00a0Larry Fong; and editors\u00a0Maryann Brandon\u00a0and\u00a0Mary Jo Markey.\n\nDescription above from the Wikipedia article J.J. Abrams, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1966-06-27",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 15344,
+        "imdb_id": "nm0009190",
+        "known_for_department": "Directing",
+        "name": "J.J. Abrams",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 1.058,
+        "profile_path": "/uiEVOx3QclxnN76t8PU6v5IcUUP.jpg"
+    }
+}

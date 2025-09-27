@@ -1,0 +1,367 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 11524,
+                "original_language": "en",
+                "original_title": "Thief",
+                "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+                "popularity": 4.3698,
+                "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+                "release_date": "1981-03-27",
+                "title": "Thief",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 760,
+                "character": "Detective D. Simpson",
+                "credit_id": "54c2534bc3a3687c4000dda2",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    878
+                ],
+                "id": 754,
+                "original_language": "en",
+                "original_title": "Face/Off",
+                "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
+                "popularity": 5.7678,
+                "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+                "release_date": "1997-06-27",
+                "title": "Face/Off",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 5604,
+                "character": "Port Police Commander",
+                "credit_id": "636f05d281383100abf5ee8f",
+                "order": 37
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 8337,
+                "original_language": "en",
+                "original_title": "They Live",
+                "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+                "popularity": 4.2415,
+                "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+                "release_date": "1988-11-04",
+                "title": "They Live",
+                "video": false,
+                "vote_average": 7.299,
+                "vote_count": 3236,
+                "credit_id": "6112b316f04d01001f96b086",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kXsjmuBgRzsujspv4BiHsIgzOnD.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 10747,
+                "original_language": "en",
+                "original_title": "The Outlaw Josey Wales",
+                "overview": "After avenging his family's brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him - and Wales can't bring himself to leave them unprotected.",
+                "popularity": 3.6502,
+                "poster_path": "/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+                "release_date": "1976-06-30",
+                "title": "The Outlaw Josey Wales",
+                "video": false,
+                "vote_average": 7.44,
+                "vote_count": 1210,
+                "credit_id": "613d068e60c751002aee3682",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 2898,
+                "original_language": "en",
+                "original_title": "As Good as It Gets",
+                "overview": "Melvin Udall, a cranky, bigoted, obsessive-compulsive writer of romantic fiction, is rude to everyone he meets, including his gay neighbor, Simon. After Simon is brutally attacked and hospitalized, Melvin finds his life turned upside down when he has to look after Simon's dog. In addition, Carol, the only waitress at the local diner who will tolerate him, leaves work to care for her chronically ill son, making it impossible for Melvin to eat breakfast.",
+                "popularity": 5.5929,
+                "poster_path": "/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+                "release_date": "1997-12-19",
+                "title": "As Good as It Gets",
+                "video": false,
+                "vote_average": 7.398,
+                "vote_count": 3934,
+                "credit_id": "56af9a3ec3a368317e0003de",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 105,
+                "original_language": "en",
+                "original_title": "Back to the Future",
+                "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+                "popularity": 11.9872,
+                "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+                "release_date": "1985-07-03",
+                "title": "Back to the Future",
+                "video": false,
+                "vote_average": 8.321,
+                "vote_count": 20883,
+                "credit_id": "56af99f692514101ed00041f",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 1572,
+                "original_language": "en",
+                "original_title": "Die Hard: With a Vengeance",
+                "overview": "New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he'd seen it all, until a genius named Simon engages McClane, his new \"partner\" -- and his beloved city -- in a deadly game that demands their concentration.",
+                "popularity": 7.0152,
+                "poster_path": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+                "release_date": "1995-05-19",
+                "title": "Die Hard: With a Vengeance",
+                "video": false,
+                "vote_average": 7.272,
+                "vote_count": 6373,
+                "credit_id": "6420b8738d22fc00ef16e821",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 984,
+                "original_language": "en",
+                "original_title": "Dirty Harry",
+                "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan \u2013 famous for his take-no-prisoners approach to law enforcement \u2013 is tasked with hunting down the psychopath.",
+                "popularity": 3.0874,
+                "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+                "release_date": "1971-12-23",
+                "title": "Dirty Harry",
+                "video": false,
+                "vote_average": 7.452,
+                "vote_count": 2590,
+                "credit_id": "6438deec87f3f20096088f8c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 196,
+                "original_language": "en",
+                "original_title": "Back to the Future Part III",
+                "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+                "popularity": 5.8919,
+                "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+                "release_date": "1990-05-25",
+                "title": "Back to the Future Part III",
+                "video": false,
+                "vote_average": 7.488,
+                "vote_count": 11054,
+                "credit_id": "5a6f301ec3a368555202c88a",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 165,
+                "original_language": "en",
+                "original_title": "Back to the Future Part II",
+                "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+                "popularity": 6.5534,
+                "poster_path": "/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+                "release_date": "1989-11-22",
+                "title": "Back to the Future Part II",
+                "video": false,
+                "vote_average": 7.772,
+                "vote_count": 13371,
+                "credit_id": "5a93180ac3a36824f602415a",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    37
+                ],
+                "id": 273248,
+                "original_language": "en",
+                "original_title": "The Hateful Eight",
+                "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+                "popularity": 6.0575,
+                "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+                "release_date": "2015-12-25",
+                "title": "The Hateful Eight",
+                "video": false,
+                "vote_average": 7.755,
+                "vote_count": 14718,
+                "credit_id": "648e64632f8d090100aa47b5",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
+                "genre_ids": [
+                    10751,
+                    35
+                ],
+                "id": 13156,
+                "original_language": "en",
+                "original_title": "Secondhand Lions",
+                "overview": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+                "popularity": 3.7211,
+                "poster_path": "/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+                "release_date": "2003-09-19",
+                "title": "Secondhand Lions",
+                "video": false,
+                "vote_average": 7.195,
+                "vote_count": 795,
+                "credit_id": "648e6529263462014e5805c4",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 10.0902,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.184,
+                "vote_count": 27074,
+                "credit_id": "648e64d02f8d0900c665d5dc",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    878
+                ],
+                "id": 754,
+                "original_language": "en",
+                "original_title": "Face/Off",
+                "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
+                "popularity": 5.7678,
+                "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+                "release_date": "1997-06-27",
+                "title": "Face/Off",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 5604,
+                "credit_id": "648e65f9c2ff3d011cb98602",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 11524,
+                "original_language": "en",
+                "original_title": "Thief",
+                "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+                "popularity": 4.3698,
+                "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+                "release_date": "1981-03-27",
+                "title": "Thief",
+                "video": false,
+                "vote_average": 7.222,
+                "vote_count": 760,
+                "credit_id": "648e689d263462014e58080a",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Walter Scott Jr.",
+            "Walter E. Scott",
+            "Walt Scott"
+        ],
+        "biography": "Walter Scott was born on July 20, 1940 in Blythe, California, USA. He is an actor and assistant director, known for They Live (1988), Chain Reaction (1996) and Back to the Future (1985).",
+        "birthday": "1940-07-20",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 16474,
+        "imdb_id": "nm0778780",
+        "known_for_department": "Crew",
+        "name": "Walter Scott",
+        "place_of_birth": "Blythe, California, USA",
+        "popularity": 0.9631,
+        "profile_path": "/A9dmPAJ9RKChD2hOUssR9is9n6R.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 9799,
+                "original_language": "en",
+                "original_title": "The Fast and the Furious",
+                "overview": "Dominic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.",
+                "popularity": 0.9797,
+                "poster_path": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+                "release_date": "2001-06-22",
+                "title": "The Fast and the Furious",
+                "video": false,
+                "vote_average": 6.996,
+                "vote_count": 10406,
+                "character": "Dispatcher",
+                "credit_id": "5585921892514137c3000532",
+                "order": 22
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 168259,
+                "original_language": "en",
+                "original_title": "Furious 7",
+                "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+                "popularity": 11.6867,
+                "poster_path": "/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
+                "release_date": "2015-04-01",
+                "title": "Furious 7",
+                "video": false,
+                "vote_average": 7.224,
+                "vote_count": 10953,
+                "credit_id": "554fa7d89251413fcf00773d",
+                "department": "Production",
+                "job": "Associate Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 84064,
+        "imdb_id": "nm0602605",
+        "known_for_department": "Acting",
+        "name": "F. Valentino Morales",
+        "place_of_birth": null,
+        "popularity": 0.2913,
+        "profile_path": "/3rqEJlOs5qdfxb1P4OYKGHiYzDO.jpg"
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+                "genre_ids": [
+                    878,
+                    53
+                ],
+                "id": 206487,
+                "original_language": "en",
+                "original_title": "Predestination",
+                "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+                "popularity": 5.3854,
+                "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+                "release_date": "2014-08-28",
+                "title": "Predestination",
+                "video": false,
+                "vote_average": 7.424,
+                "vote_count": 6758,
+                "character": "Trainer's Assistant",
+                "credit_id": "54c0f406c3a3686c61010ac7",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    10749
+                ],
+                "id": 746036,
+                "original_language": "en",
+                "original_title": "The Fall Guy",
+                "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+                "popularity": 8.9434,
+                "poster_path": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+                "release_date": "2024-04-24",
+                "title": "The Fall Guy",
+                "video": false,
+                "vote_average": 7.002,
+                "vote_count": 3194,
+                "character": "Hymes",
+                "credit_id": "6639c08e66565a012616ebb4",
+                "order": 25
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+                "genre_ids": [
+                    28,
+                    14,
+                    12
+                ],
+                "id": 460465,
+                "original_language": "en",
+                "original_title": "Mortal Kombat",
+                "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+                "popularity": 7.028,
+                "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+                "release_date": "2021-04-07",
+                "title": "Mortal Kombat",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 6066,
+                "credit_id": "60a20e4eb0ba7e00293f1608",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284053,
+                "original_language": "en",
+                "original_title": "Thor: Ragnarok",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+                "popularity": 9.7909,
+                "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "release_date": "2017-10-02",
+                "title": "Thor: Ragnarok",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 21406,
+                "credit_id": "64d5936cf495ee02919ddaf3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 49051,
+                "original_language": "en",
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+                "popularity": 14.9644,
+                "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+                "release_date": "2012-12-12",
+                "title": "The Hobbit: An Unexpected Journey",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 19002,
+                "credit_id": "64da801af495ee0293562f86",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    10749
+                ],
+                "id": 746036,
+                "original_language": "en",
+                "original_title": "The Fall Guy",
+                "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+                "popularity": 8.9434,
+                "poster_path": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+                "release_date": "2024-04-24",
+                "title": "The Fall Guy",
+                "video": false,
+                "vote_average": 7.002,
+                "vote_count": 3194,
+                "credit_id": "665b9950cb008b13d798110c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q9HocL5f8WwPldwpvmpk8ZaNZkC.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 500664,
+                "original_language": "en",
+                "original_title": "Upgrade",
+                "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure \u2014 an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility \u2014 skills he uses to seek revenge against the thugs who destroyed his life.",
+                "popularity": 5.593,
+                "poster_path": "/5f28TXtvHioXirX2n1XH8EJ314v.jpg",
+                "release_date": "2018-05-31",
+                "title": "Upgrade",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 4690,
+                "credit_id": "666744a1bafab27e75aa52a3",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+                "genre_ids": [
+                    878,
+                    53
+                ],
+                "id": 206487,
+                "original_language": "en",
+                "original_title": "Predestination",
+                "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+                "popularity": 5.3854,
+                "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+                "release_date": "2014-08-28",
+                "title": "Predestination",
+                "video": false,
+                "vote_average": 7.424,
+                "vote_count": 6758,
+                "credit_id": "5fc50d508a84d20042140d00",
+                "department": "Crew",
+                "job": "Fight Choreographer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cvq9cRMDJIGzNpHaPVGFftqPcLj.jpg",
+                "genre_ids": [
+                    878,
+                    53
+                ],
+                "id": 206487,
+                "original_language": "en",
+                "original_title": "Predestination",
+                "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+                "popularity": 5.3854,
+                "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+                "release_date": "2014-08-28",
+                "title": "Predestination",
+                "video": false,
+                "vote_average": 7.424,
+                "vote_count": 6758,
+                "credit_id": "6727095d5af29e88553af432",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mark Campbell",
+            "Mark Lee Campbell",
+            "Markylee Campbell"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1416897,
+        "imdb_id": "nm1148079",
+        "known_for_department": "Acting",
+        "name": "Marky Lee Campbell",
+        "place_of_birth": null,
+        "popularity": 0.1243,
+        "profile_path": null
+    }
+}

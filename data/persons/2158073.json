@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/qg0OLFasb1kNrAhKjqh4zTW37pS.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    53
+                ],
+                "id": 6479,
+                "original_language": "en",
+                "original_title": "I Am Legend",
+                "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+                "popularity": 9.0409,
+                "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+                "release_date": "2007-12-12",
+                "title": "I Am Legend",
+                "video": false,
+                "vote_average": 7.211,
+                "vote_count": 16272,
+                "character": "Infected",
+                "credit_id": "5bce2b09c3a3683d6900472f",
+                "order": 40
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    35
+                ],
+                "id": 106646,
+                "original_language": "en",
+                "original_title": "The Wolf of Wall Street",
+                "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+                "popularity": 21.6883,
+                "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+                "release_date": "2013-12-25",
+                "title": "The Wolf of Wall Street",
+                "video": false,
+                "vote_average": 8.028,
+                "vote_count": 24995,
+                "credit_id": "65ca50509451e701637bc04b",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2158073,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Asa Liebmann",
+        "place_of_birth": null,
+        "popularity": 0.0398,
+        "profile_path": null
+    }
+}

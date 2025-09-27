@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/9U4Di9iOslz3eJ9eRkdg5Qrf9JY.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1371,
+                "original_language": "en",
+                "original_title": "Rocky III",
+                "overview": "Following Rocky Balboa's intense battle with his most powerful adversary yet \u2013 the ferocious Clubber Lang \u2013 Rocky joins forces with former rival Apollo Creed in an effort to get back his fighting spirit.",
+                "popularity": 5.3431,
+                "poster_path": "/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+                "release_date": "1982-05-28",
+                "title": "Rocky III",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 4308,
+                "character": "Challenger",
+                "credit_id": "5e736bd2357c0000194a6288",
+                "order": 38
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    28
+                ],
+                "id": 90,
+                "original_language": "en",
+                "original_title": "Beverly Hills Cop",
+                "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+                "popularity": 4.082,
+                "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+                "release_date": "1984-12-05",
+                "title": "Beverly Hills Cop",
+                "video": false,
+                "vote_average": 7.202,
+                "vote_count": 4374,
+                "credit_id": "65235cf274507d00ff9af73d",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Rex Person",
+            "Rex Ierson"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1720933,
+        "imdb_id": "nm0675509",
+        "known_for_department": "Acting",
+        "name": "Rex Pierson",
+        "place_of_birth": null,
+        "popularity": 0.0382,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 137106,
+                "original_language": "en",
+                "original_title": "The Lego Movie",
+                "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+                "popularity": 7.6428,
+                "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+                "release_date": "2014-02-06",
+                "title": "The Lego Movie",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 8137,
+                "character": "Computer (voice)",
+                "credit_id": "542f58d90e0a264f04000a4b",
+                "order": 33
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 283995,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 2",
+                "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                "popularity": 10.5634,
+                "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                "release_date": "2017-04-19",
+                "title": "Guardians of the Galaxy Vol. 2",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 22284,
+                "credit_id": "649fdb6a8c0a4800ae23b93e",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284054,
+                "original_language": "en",
+                "original_title": "Black Panther",
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "popularity": 8.9817,
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "release_date": "2018-02-13",
+                "title": "Black Panther",
+                "video": false,
+                "vote_average": 7.369,
+                "vote_count": 22820,
+                "credit_id": "649fdbc781da39010b8aaa52",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 363088,
+                "original_language": "en",
+                "original_title": "Ant-Man and the Wasp",
+                "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+                "popularity": 9.3367,
+                "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+                "release_date": "2018-07-04",
+                "title": "Ant-Man and the Wasp",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 13747,
+                "credit_id": "649fdc1dd5191f01393da08a",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qkOw5IZXESOiRH4wzdIYJlBZiCp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297802,
+                "original_language": "en",
+                "original_title": "Aquaman",
+                "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+                "popularity": 9.7256,
+                "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+                "release_date": "2018-12-07",
+                "title": "Aquaman",
+                "video": false,
+                "vote_average": 6.874,
+                "vote_count": 14485,
+                "credit_id": "649fdc46d5191f01393da0a4",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 639721,
+                "original_language": "en",
+                "original_title": "The Addams Family 2",
+                "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+                "popularity": 5.3701,
+                "poster_path": "/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+                "release_date": "2021-10-01",
+                "title": "The Addams Family 2",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1352,
+                "credit_id": "649fdca5d5191f00c505ead4",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 137106,
+                "original_language": "en",
+                "original_title": "The Lego Movie",
+                "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+                "popularity": 7.6428,
+                "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+                "release_date": "2014-02-06",
+                "title": "The Lego Movie",
+                "video": false,
+                "vote_average": 7.42,
+                "vote_count": 8137,
+                "credit_id": "5bb10bbec3a3681423002413",
+                "department": "Production",
+                "job": "Production Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1370760,
+        "imdb_id": "nm4341923",
+        "known_for_department": "Production",
+        "name": "Leiki Veskimets",
+        "place_of_birth": "Stockholm, Stockholms l\u00e4n, Sweden",
+        "popularity": 0.1054,
+        "profile_path": "/qGE7h4xy2iOWan2hFp7rJQX2MGb.jpg"
+    }
+}

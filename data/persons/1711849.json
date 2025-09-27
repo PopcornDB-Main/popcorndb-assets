@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/ufUdEHvs31M8yw3HMFjhTaVJIVp.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1374,
+                "original_language": "en",
+                "original_title": "Rocky IV",
+                "overview": "Rocky Balboa holds the world heavyweight championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union. This time, Rocky's training regimen takes him to Siberia, where he prepares for a globally televised match in the heart of Moscow. But nothing can truly prepare him for what he's about to face \u2013 a fight to the finish, in which he must defend not only himself, but also the honor of his country!",
+                "popularity": 4.872,
+                "poster_path": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+                "release_date": "1985-11-21",
+                "title": "Rocky IV",
+                "video": false,
+                "vote_average": 7.08,
+                "vote_count": 4613,
+                "character": "Reporter",
+                "credit_id": "5e7385b9b1f68d0014df81b7",
+                "order": 41
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 13,
+                "original_language": "en",
+                "original_title": "Forrest Gump",
+                "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+                "popularity": 16.7205,
+                "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                "release_date": "1994-06-23",
+                "title": "Forrest Gump",
+                "video": false,
+                "vote_average": 8.466,
+                "vote_count": 28650,
+                "credit_id": "5cc6230ec3a3684677822bad",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 3.5012,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.489,
+                "vote_count": 2411,
+                "credit_id": "6850e8d65ddf1a7904b6de78",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1711849,
+        "imdb_id": null,
+        "known_for_department": "Camera",
+        "name": "Richard A. Kelley",
+        "place_of_birth": null,
+        "popularity": 0.401,
+        "profile_path": "/pMuuydvbRQmUS6fkMT6Y52Y0h8t.jpg"
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.7209,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "character": "Thorstenson Finlandson",
+                "credit_id": "6390e5a622931a0095fa7f7a",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80,
+                    12
+                ],
+                "id": 1541,
+                "original_language": "en",
+                "original_title": "Thelma & Louise",
+                "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+                "popularity": 4.9019,
+                "poster_path": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+                "release_date": "1991-05-24",
+                "title": "Thelma & Louise",
+                "video": false,
+                "vote_average": 7.599,
+                "vote_count": 3660,
+                "credit_id": "52fe42fbc3a36847f8031aa7",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3B4DbexR2hXINqJN6LqhmmAaVeS.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 24420,
+                "original_language": "en",
+                "original_title": "The Time Traveler's Wife",
+                "overview": "Due to a genetic disorder, handsome librarian Henry DeTamble involuntarily zips through time, appearing at various moments in the life of his true love, the beautiful artist Clare Abshire.",
+                "popularity": 6.9258,
+                "poster_path": "/J3ewuzQwhFro0pDpdcbZ4j7MYy.jpg",
+                "release_date": "2009-08-14",
+                "title": "The Time Traveler's Wife",
+                "video": false,
+                "vote_average": 6.934,
+                "vote_count": 2581,
+                "credit_id": "52fe4495c3a368484e02afb1",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.7209,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1113,
+                "credit_id": "52fe44a49251416c7503be29",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aDFKsJW39VxoFcs9oTcMPpMiSZQ.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 9267,
+                "original_language": "en",
+                "original_title": "And Now for Something Completely Different",
+                "overview": "A collection of Monty Python's Flying Circus skits from the first two seasons of their British TV series.",
+                "popularity": 0.9964,
+                "poster_path": "/ajbdFQLvJTlNu4LnVWGnNMb4mZ8.jpg",
+                "release_date": "1971-09-28",
+                "title": "And Now for Something Completely Different",
+                "video": false,
+                "vote_average": 7.223,
+                "vote_count": 553,
+                "credit_id": "52fe44dec3a36847f80aef1b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aDn3wL0ObbA5TCn5ZLri9xI2kUZ.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749,
+                    53
+                ],
+                "id": 9281,
+                "original_language": "en",
+                "original_title": "Witness",
+                "overview": "While protecting an Amish boy \u2013 the sole witness to a brutal murder \u2013 and his mother, a detective is forced to seek refuge within their community when his own life comes under threat.",
+                "popularity": 3.9004,
+                "poster_path": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+                "release_date": "1985-02-08",
+                "title": "Witness",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1779,
+                "credit_id": "52fe44e1c3a36847f80af7f9",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 1714,
+                "original_language": "en",
+                "original_title": "Fahrenheit 451",
+                "overview": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as \u201cfiremen,\u201d to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation\u2026",
+                "popularity": 1.4584,
+                "poster_path": "/k2CTpexoS9MO9lKVFfnzwVdJuM.jpg",
+                "release_date": "1966-09-07",
+                "title": "Fahrenheit 451",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 1018,
+                "credit_id": "5edc5253f36a32001e87af15",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Thom Noble is a British film editor who won an Academy Award and an ACE Eddie Award for the film Witness (1985). He was nominated for the Academy Award and the BAFTA Award for Best Editing for the film Thelma & Louise (1991).\n\nIn 2018, he was on jury for the Mumbai International Film Festival.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 17399,
+        "imdb_id": "nm0633677",
+        "known_for_department": "Editing",
+        "name": "Thom Noble",
+        "place_of_birth": null,
+        "popularity": 0.0638,
+        "profile_path": null
+    }
+}

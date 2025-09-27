@@ -1,0 +1,349 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/4hfcpHmMEgmFTdnVx4XCtM6dgCG.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28,
+                    10751,
+                    10749
+                ],
+                "id": 102651,
+                "original_language": "en",
+                "original_title": "Maleficent",
+                "overview": "A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land. She rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal \u2013 an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom \u2013 and to Maleficent's true happiness as well.",
+                "popularity": 9.5726,
+                "poster_path": "/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg",
+                "release_date": "2014-05-28",
+                "title": "Maleficent",
+                "video": false,
+                "vote_average": 7.089,
+                "vote_count": 13419,
+                "character": "Stefan's Soldier / Henry's Soldier (uncredited)",
+                "credit_id": "55e41e61c3a3684191003bda",
+                "order": 41
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 763215,
+                "original_language": "en",
+                "original_title": "Damsel",
+                "overview": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.",
+                "popularity": 7.725,
+                "poster_path": "/290Lsuy4GJF3VEVqMbJqHs7xFdv.jpg",
+                "release_date": "2024-03-07",
+                "title": "Damsel",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 2542,
+                "credit_id": "65eaa4b972c13e0162c4ecb1",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    878
+                ],
+                "id": 533535,
+                "original_language": "en",
+                "original_title": "Deadpool & Wolverine",
+                "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+                "popularity": 33.6195,
+                "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+                "release_date": "2024-07-24",
+                "title": "Deadpool & Wolverine",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 7745,
+                "credit_id": "66759664ed6c6cbb2db05487",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 497698,
+                "original_language": "en",
+                "original_title": "Black Widow",
+                "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+                "popularity": 13.1722,
+                "poster_path": "/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+                "release_date": "2021-07-07",
+                "title": "Black Widow",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 10770,
+                "credit_id": "5d9440d5a06efe001e5a96a6",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zcwEuzsG2vEZkKyScc63wWZf8Yv.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 617126,
+                "original_language": "en",
+                "original_title": "The Fantastic 4: First Steps",
+                "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+                "popularity": 642.9939,
+                "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+                "release_date": "2025-07-22",
+                "title": "The Fantastic 4: First Steps",
+                "video": false,
+                "vote_average": 7.185,
+                "vote_count": 1482,
+                "credit_id": "673f9fe54dfa06b5df92d847",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qZYvF1M7y8Gfp4S6OBHbYfB0Lgc.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 639933,
+                "original_language": "en",
+                "original_title": "The Northman",
+                "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+                "popularity": 10.1125,
+                "poster_path": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+                "release_date": "2022-04-07",
+                "title": "The Northman",
+                "video": false,
+                "vote_average": 7.035,
+                "vote_count": 4708,
+                "credit_id": "673fa0c6015d2e0f702ded43",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 19.0208,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.658,
+                "vote_count": 11239,
+                "credit_id": "673fa0e3dd53fa0060330ea5",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    80
+                ],
+                "id": 385128,
+                "original_language": "en",
+                "original_title": "F9",
+                "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+                "popularity": 7.208,
+                "poster_path": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+                "release_date": "2021-05-19",
+                "title": "F9",
+                "video": false,
+                "vote_average": 7.037,
+                "vote_count": 7463,
+                "credit_id": "673fa120dae2e6a938254562",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+                "genre_ids": [
+                    10752,
+                    36,
+                    53
+                ],
+                "id": 530915,
+                "original_language": "en",
+                "original_title": "1917",
+                "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+                "popularity": 9.1898,
+                "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+                "release_date": "2019-12-25",
+                "title": "1917",
+                "video": false,
+                "vote_average": 7.986,
+                "vote_count": 12998,
+                "credit_id": "673fa160dd53fa0060330edf",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q9mF0HhnKT5deOIRAQSFjhLC8c1.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    12,
+                    28
+                ],
+                "id": 420809,
+                "original_language": "en",
+                "original_title": "Maleficent: Mistress of Evil",
+                "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+                "popularity": 6.0929,
+                "poster_path": "/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+                "release_date": "2019-10-16",
+                "title": "Maleficent: Mistress of Evil",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 6301,
+                "credit_id": "673fa18b015d2e0f702ded9c",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297762,
+                "original_language": "en",
+                "original_title": "Wonder Woman",
+                "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+                "popularity": 15.0374,
+                "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+                "release_date": "2017-05-30",
+                "title": "Wonder Woman",
+                "video": false,
+                "vote_average": 7.214,
+                "vote_count": 20448,
+                "credit_id": "673fae8ecce66cf899e92126",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.1228,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.501,
+                "vote_count": 15872,
+                "credit_id": "673faea28b4e4c2ef6f76fb0",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+                "genre_ids": [
+                    14,
+                    12
+                ],
+                "id": 259316,
+                "original_language": "en",
+                "original_title": "Fantastic Beasts and Where to Find Them",
+                "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+                "popularity": 8.6229,
+                "poster_path": "/h6NYfVUyM6CDURtZSnBpz647Ldd.jpg",
+                "release_date": "2016-11-16",
+                "title": "Fantastic Beasts and Where to Find Them",
+                "video": false,
+                "vote_average": 7.311,
+                "vote_count": 19244,
+                "credit_id": "673faebf4b15b8ae31afe2dd",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 99861,
+                "original_language": "en",
+                "original_title": "Avengers: Age of Ultron",
+                "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+                "popularity": 15.0228,
+                "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+                "release_date": "2015-04-22",
+                "title": "Avengers: Age of Ultron",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 23732,
+                "credit_id": "673faee71cd8c243e6be55aa",
+                "department": "Crew",
+                "job": "Stunt Double"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joshua Richard Dyer"
+        ],
+        "biography": "Josh Dyer is a stuntman, known for Avengers: Age of Ultron (2015),\u00a0Rogue One (2016),\u00a0and\u00a0Wonder Woman (2017).",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://britishstuntregister.com/member/josh-dyer/",
+        "id": 1502469,
+        "imdb_id": "nm5922452",
+        "known_for_department": "Crew",
+        "name": "Josh Dyer",
+        "place_of_birth": null,
+        "popularity": 0.1139,
+        "profile_path": "/9qv3HhF8q6BAEpSoCJ3Np7mkxDI.jpg"
+    }
+}

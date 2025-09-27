@@ -1,0 +1,344 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/smK3ud9IKSLVuRXdKauJ9p0DwNB.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 2322,
+                "original_language": "en",
+                "original_title": "Sneakers",
+                "overview": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers.",
+                "popularity": 9.7214,
+                "poster_path": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+                "release_date": "1992-09-09",
+                "title": "Sneakers",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 979,
+                "character": "Gregor\u2019s Chauffeur",
+                "credit_id": "61a2ca5dd371970067e39599",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k1YVyPL1ZvEXAOeBvNEuPweA3XY.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 2609,
+                "original_language": "en",
+                "original_title": "Planes, Trains and Automobiles",
+                "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.",
+                "popularity": 2.3996,
+                "poster_path": "/3RSucVsX96Ste8WDJfZP1hbNGqQ.jpg",
+                "release_date": "1987-11-26",
+                "title": "Planes, Trains and Automobiles",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 2055,
+                "character": "Screaming Driver",
+                "credit_id": "63859205a410c800d00cd3ab",
+                "order": 35
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iukXiB3Guz5VyTlraZiBnHT8Y0B.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 1103,
+                "original_language": "en",
+                "original_title": "Escape from New York",
+                "overview": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+                "popularity": 3.8368,
+                "poster_path": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+                "release_date": "1981-05-23",
+                "title": "Escape from New York",
+                "video": false,
+                "vote_average": 7.052,
+                "vote_count": 3338,
+                "credit_id": "64d781d2001bbd013aedb605",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/knYZcpl08qhiEPCytyNXOq7Z1oS.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 10633,
+                "original_language": "en",
+                "original_title": "In the Heat of the Night",
+                "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
+                "popularity": 4.274,
+                "poster_path": "/1zjS7aSgvOX98BSWEsshDw3kxe5.jpg",
+                "release_date": "1967-08-02",
+                "title": "In the Heat of the Night",
+                "video": false,
+                "vote_average": 7.652,
+                "vote_count": 1162,
+                "credit_id": "56cf3d59c3a3681e4400392d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    18
+                ],
+                "id": 9277,
+                "original_language": "en",
+                "original_title": "The Sting",
+                "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+                "popularity": 6.84,
+                "poster_path": "/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
+                "release_date": "1973-12-25",
+                "title": "The Sting",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 2768,
+                "credit_id": "574dbe1fc3a36858a8000038",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    53
+                ],
+                "id": 5919,
+                "original_language": "en",
+                "original_title": "The Towering Inferno",
+                "overview": "At the opening party of a colossal\u2014but poorly constructed\u2014skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+                "popularity": 2.9749,
+                "poster_path": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+                "release_date": "1974-12-14",
+                "title": "The Towering Inferno",
+                "video": false,
+                "vote_average": 7.01,
+                "vote_count": 978,
+                "credit_id": "6420cb508d22fc007cffa0d1",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    53
+                ],
+                "id": 551,
+                "original_language": "en",
+                "original_title": "The Poseidon Adventure",
+                "overview": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+                "popularity": 2.4361,
+                "poster_path": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+                "release_date": "1972-12-01",
+                "title": "The Poseidon Adventure",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 937,
+                "credit_id": "6420ce4c23be4600febe0e19",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kFm4FbjD2mBWtK9uyXryFtOD0Ut.jpg",
+                "genre_ids": [
+                    10751,
+                    35
+                ],
+                "id": 11528,
+                "original_language": "en",
+                "original_title": "The Sandlot",
+                "overview": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+                "popularity": 4.5053,
+                "poster_path": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+                "release_date": "1993-04-07",
+                "title": "The Sandlot",
+                "video": false,
+                "vote_average": 7.537,
+                "vote_count": 1239,
+                "credit_id": "64244dcdc0442901f000b395",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kFm4FbjD2mBWtK9uyXryFtOD0Ut.jpg",
+                "genre_ids": [
+                    10751,
+                    35
+                ],
+                "id": 11528,
+                "original_language": "en",
+                "original_title": "The Sandlot",
+                "overview": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+                "popularity": 4.5053,
+                "poster_path": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+                "release_date": "1993-04-07",
+                "title": "The Sandlot",
+                "video": false,
+                "vote_average": 7.537,
+                "vote_count": 1239,
+                "credit_id": "64245324960cde00e0bb457e",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 9013,
+                "original_language": "en",
+                "original_title": "Midnight Run",
+                "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+                "popularity": 2.4393,
+                "poster_path": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+                "release_date": "1988-07-20",
+                "title": "Midnight Run",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 1174,
+                "credit_id": "6438ba7ec26796010338064b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/z6L2ZDAeJxPCSQm3BOAqpM5r3JN.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 334,
+                "original_language": "en",
+                "original_title": "Magnolia",
+                "overview": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+                "popularity": 8.9554,
+                "poster_path": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+                "release_date": "1999-12-17",
+                "title": "Magnolia",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 3753,
+                "credit_id": "64483277ce997a04e3874024",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lAaAtQ5b8iX9JeG6QUq4RM1paKD.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 10435,
+                "original_language": "en",
+                "original_title": "Chaplin",
+                "overview": "An aged Charlie Chaplin narrates his life to his autobiography's editor, including his rise to wealth and comedic fame from poverty, his turbulent personal life and his run-ins with the FBI.",
+                "popularity": 2.8311,
+                "poster_path": "/Aeltt5tl02zrEj4GoMynHc94lWG.jpg",
+                "release_date": "1992-12-17",
+                "title": "Chaplin",
+                "video": false,
+                "vote_average": 7.436,
+                "vote_count": 1135,
+                "credit_id": "668dd97ac586b183f57beb72",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ihIVjdiuvtVuFUaCqfNJwajIs3i.jpg",
+                "genre_ids": [
+                    14,
+                    10402
+                ],
+                "id": 13192,
+                "original_language": "en",
+                "original_title": "Moonwalker",
+                "overview": "Moonwalker is a 1988 American experimental anthology musical film starring Michael Jackson. Rather than featuring one continuous narrative, the film expresses the influence of fandom and innocence through a collection of short films about Jackson, some of which are long-form music videos from Jackson's 1987 album Bad. The film is named after his famous dance, \"the moonwalk\", which he originally learned as \"the backslide\" but perfected the dance into something no one had seen before. The movie's introduction is a type of music video for Jackson's \"Man in the Mirror\" but is not the official video for the song. The film then expresses a montage of Michael's career, which leads into a parody of his Bad video titled \"Badder\", followed by sections \"Speed Demon\" and \"Leave Me Alone\". What follows is the biggest section where Michael plays a hero with magical powers and saves three children from Mr. Big. This section is \"Smooth Criminal\" which leads into a performance of \"Come Together\".",
+                "popularity": 3.0126,
+                "poster_path": "/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg",
+                "release_date": "1988-10-29",
+                "title": "Moonwalker",
+                "video": false,
+                "vote_average": 6.975,
+                "vote_count": 588,
+                "credit_id": "5b9af293925141425100904e",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    80,
+                    14
+                ],
+                "id": 854,
+                "original_language": "en",
+                "original_title": "The Mask",
+                "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+                "popularity": 10.1502,
+                "poster_path": "/yd3wjLLeQHJ3oRDy4wwiNNFVyLW.jpg",
+                "release_date": "1994-07-29",
+                "title": "The Mask",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 10743,
+                "credit_id": "5f6d197e6f31af00390ced57",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Johnny Moio",
+            "John Angelo Moio",
+            "John A. Moio",
+            "John Mojo"
+        ],
+        "biography": "",
+        "birthday": "1939-05-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1535123,
+        "imdb_id": "nm0596156",
+        "known_for_department": "Crew",
+        "name": "John Moio",
+        "place_of_birth": "Ohio, USA",
+        "popularity": 0.1949,
+        "profile_path": null
+    }
+}

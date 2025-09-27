@@ -1,0 +1,221 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 809,
+                "original_language": "en",
+                "original_title": "Shrek 2",
+                "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+                "popularity": 15.3606,
+                "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+                "release_date": "2004-05-19",
+                "title": "Shrek 2",
+                "video": false,
+                "vote_average": 7.301,
+                "vote_count": 12911,
+                "character": "Wolf (voice)",
+                "credit_id": "58d8343a925141448e013851",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8K92dxdtyrhXB6fEnfGWmWnSFV7.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 228326,
+                "original_language": "en",
+                "original_title": "The Book of Life",
+                "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans three fantastical worlds where he must face his greatest fears.",
+                "popularity": 7.2227,
+                "poster_path": "/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
+                "release_date": "2014-10-01",
+                "title": "The Book of Life",
+                "video": false,
+                "vote_average": 7.533,
+                "vote_count": 2815,
+                "character": "Thomas (voice)",
+                "credit_id": "5ac5678492514162b4000afd",
+                "order": 33
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    14,
+                    12,
+                    10751
+                ],
+                "id": 808,
+                "original_language": "en",
+                "original_title": "Shrek",
+                "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+                "popularity": 19.5181,
+                "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+                "release_date": "2001-05-18",
+                "title": "Shrek",
+                "video": false,
+                "vote_average": 7.752,
+                "vote_count": 17974,
+                "credit_id": "52fe4279c3a36847f8021849",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 809,
+                "original_language": "en",
+                "original_title": "Shrek 2",
+                "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+                "popularity": 15.3606,
+                "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+                "release_date": "2004-05-19",
+                "title": "Shrek 2",
+                "video": false,
+                "vote_average": 7.301,
+                "vote_count": 12911,
+                "credit_id": "52fe4279c3a36847f8021951",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14
+                ],
+                "id": 550205,
+                "original_language": "en",
+                "original_title": "Wish Dragon",
+                "overview": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+                "popularity": 6.5003,
+                "poster_path": "/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+                "release_date": "2021-01-15",
+                "title": "Wish Dragon",
+                "video": false,
+                "vote_average": 7.879,
+                "vote_count": 1408,
+                "credit_id": "60e9e86883ee670027cde499",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8K92dxdtyrhXB6fEnfGWmWnSFV7.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 228326,
+                "original_language": "en",
+                "original_title": "The Book of Life",
+                "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans three fantastical worlds where he must face his greatest fears.",
+                "popularity": 7.2227,
+                "poster_path": "/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
+                "release_date": "2014-10-01",
+                "title": "The Book of Life",
+                "video": false,
+                "vote_average": 7.533,
+                "vote_count": 2815,
+                "credit_id": "5ac549cd9251416018092ef5",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 36955,
+                "original_language": "en",
+                "original_title": "True Lies",
+                "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+                "popularity": 6.6998,
+                "poster_path": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+                "release_date": "1994-07-15",
+                "title": "True Lies",
+                "video": false,
+                "vote_average": 7.085,
+                "vote_count": 4322,
+                "credit_id": "5cc9c31cc3a3682dad85faff",
+                "department": "Production",
+                "job": "Production Executive"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tntH2nSeaGTOXV6CITPSvczSiXw.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 454640,
+                "original_language": "en",
+                "original_title": "The Angry Birds Movie 2",
+                "overview": "Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.",
+                "popularity": 7.1321,
+                "poster_path": "/dz3AjGWAPV4cK8lRDY0DdaVfGUK.jpg",
+                "release_date": "2019-08-02",
+                "title": "The Angry Birds Movie 2",
+                "video": false,
+                "vote_average": 7.058,
+                "vote_count": 1798,
+                "credit_id": "5e91c180befb090014bd326e",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Aron J. Warner"
+        ],
+        "biography": "",
+        "birthday": "1961-03-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 12106,
+        "imdb_id": "nm0912403",
+        "known_for_department": "Production",
+        "name": "Aron Warner",
+        "place_of_birth": "USA",
+        "popularity": 1.3779,
+        "profile_path": "/xufgIi9MJIuLmn3q4qi3AMmFtkM.jpg"
+    }
+}

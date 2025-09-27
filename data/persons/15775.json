@@ -1,0 +1,170 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/aLMP6CYWyGadDXRFQILgmUgFW7d.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10749,
+                    16,
+                    10751
+                ],
+                "id": 15789,
+                "original_language": "en",
+                "original_title": "A Goofy Movie",
+                "overview": "An endearing modern-day story about how the lovable Goof bonds with his teenage son Max on a hilarious cross-country road trip. En route to the ol' fishing hole, they find themselves up to their floppy ears in misadventure!",
+                "popularity": 4.3391,
+                "poster_path": "/2aLNp9HBPNj9mI5R2tFw4vcfbFL.jpg",
+                "release_date": "1995-04-07",
+                "title": "A Goofy Movie",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 1838,
+                "character": "Lester (voice)",
+                "credit_id": "5914621bc3a368413900c741",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    16,
+                    18
+                ],
+                "id": 37135,
+                "original_language": "en",
+                "original_title": "Tarzan",
+                "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+                "popularity": 7.2744,
+                "poster_path": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+                "release_date": "1999-06-17",
+                "title": "Tarzan",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 7051,
+                "credit_id": "52fe462c9251416c9104bac1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aLMP6CYWyGadDXRFQILgmUgFW7d.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10749,
+                    16,
+                    10751
+                ],
+                "id": 15789,
+                "original_language": "en",
+                "original_title": "A Goofy Movie",
+                "overview": "An endearing modern-day story about how the lovable Goof bonds with his teenage son Max on a hilarious cross-country road trip. En route to the ol' fishing hole, they find themselves up to their floppy ears in misadventure!",
+                "popularity": 4.3391,
+                "poster_path": "/2aLNp9HBPNj9mI5R2tFw4vcfbFL.jpg",
+                "release_date": "1995-04-07",
+                "title": "A Goofy Movie",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 1838,
+                "credit_id": "52fe467d9251416c75079edd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 10.8747,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.731,
+                "vote_count": 10309,
+                "credit_id": "572a7607c3a3684806000028",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14,
+                    10749
+                ],
+                "id": 812,
+                "original_language": "en",
+                "original_title": "Aladdin",
+                "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+                "popularity": 7.5732,
+                "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+                "release_date": "1992-11-25",
+                "title": "Aladdin",
+                "video": false,
+                "vote_average": 7.655,
+                "vote_count": 11621,
+                "credit_id": "5849436a92514119af01196f",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2ze42e0l0bPYEcJXInUukvNfZKk.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 10144,
+                "original_language": "en",
+                "original_title": "The Little Mermaid",
+                "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+                "popularity": 10.0331,
+                "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+                "release_date": "1989-11-17",
+                "title": "The Little Mermaid",
+                "video": false,
+                "vote_average": 7.348,
+                "vote_count": 8156,
+                "credit_id": "5ab8058a0e0a261fe8021970",
+                "department": "Visual Effects",
+                "job": "Character Designer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Kevin Lima (born c. 1962) is an American film director who has directed a number of Disney films including his debut film A Goofy Movie in 1995, Tarzan, 102 Dalmatians, Eloise at the Plaza, Eloise at Christmastime and Enchanted. Before directing, he worked as an animator and character designer on films such as The Little Mermaid and The Great Mouse Detective and a story editor for Aladdin and Oliver & Company. At the moment he is working on a feature adaptation of the classic tale of Tom Thumb entitled Thumb for Warner Bros. Kevin is also developing Candy Land with Universal and Hasbro and Afterlife with Fox 2000.\n\nKevin studied film and animation at the California Institute of the Arts, during the mid-80's. He is married to Brenda Chapman, an animation Director at Pixar.\n\nHis grandparents were both Portuguese.\n\nDescription above from the Wikipedia article Kevin Lima, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1962-06-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 15775,
+        "imdb_id": "nm0510674",
+        "known_for_department": "Directing",
+        "name": "Kevin Lima",
+        "place_of_birth": "Pawtucket, Rhode Island, USA",
+        "popularity": 0.4257,
+        "profile_path": "/kNqnN6z8S6DcfSTBDQ4G8pYXb3S.jpg"
+    }
+}

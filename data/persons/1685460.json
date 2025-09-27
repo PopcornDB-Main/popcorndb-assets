@@ -1,0 +1,372 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/2YIzEKCMfexbLIoeVUkR8MPayB2.jpg",
+                "genre_ids": [
+                    9648,
+                    878,
+                    53
+                ],
+                "id": 846,
+                "original_language": "en",
+                "original_title": "The X-Files",
+                "overview": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+                "popularity": 5.8633,
+                "poster_path": "/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg",
+                "release_date": "1998-06-19",
+                "title": "The X-Files",
+                "video": false,
+                "vote_average": 6.887,
+                "vote_count": 1692,
+                "character": "Pilot",
+                "credit_id": "57ea39fa92514110840087a9",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    878
+                ],
+                "id": 263115,
+                "original_language": "en",
+                "original_title": "Logan",
+                "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+                "popularity": 8.3906,
+                "poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+                "release_date": "2017-02-28",
+                "title": "Logan",
+                "video": false,
+                "vote_average": 7.82,
+                "vote_count": 19848,
+                "character": "Helicopter Pilot",
+                "credit_id": "5922defcc3a3687a6406ba50",
+                "order": 89
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.7298,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 10409,
+                "credit_id": "60543919a1d33200288abdaf",
+                "department": "Crew",
+                "job": "Aerial Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wWqTMWkEw6HouLd1zPZbZWxtAPr.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 399566,
+                "original_language": "en",
+                "original_title": "Godzilla vs. Kong",
+                "overview": "In a time when monsters walk the Earth, humanity\u2019s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+                "popularity": 6.7305,
+                "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+                "release_date": "2021-03-24",
+                "title": "Godzilla vs. Kong",
+                "video": false,
+                "vote_average": 7.561,
+                "vote_count": 10320,
+                "credit_id": "606a9b5d44ea54005933317c",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 17.46,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23551,
+                "credit_id": "60c0e357960cde0040f29099",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kBSSbN1sOiJtXjAGVZXxHJR9Kox.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 361743,
+                "original_language": "en",
+                "original_title": "Top Gun: Maverick",
+                "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+                "popularity": 19.7495,
+                "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+                "release_date": "2022-05-21",
+                "title": "Top Gun: Maverick",
+                "video": false,
+                "vote_average": 8.168,
+                "vote_count": 10195,
+                "credit_id": "62b57fa69ae61305856cd9c0",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+                "genre_ids": [
+                    28,
+                    10752,
+                    36
+                ],
+                "id": 855,
+                "original_language": "en",
+                "original_title": "Black Hawk Down",
+                "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                "popularity": 8.6541,
+                "poster_path": "/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+                "release_date": "2001-12-28",
+                "title": "Black Hawk Down",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 6053,
+                "credit_id": "587cbde1c3a368426e00d272",
+                "department": "Crew",
+                "job": "Aerial Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2wlMpTuiovYCZHpwKtbSTY8Wor.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    18
+                ],
+                "id": 9567,
+                "original_language": "en",
+                "original_title": "Tears of the Sun",
+                "overview": "Navy SEAL Lieutenant A.K. Waters and his elite squadron of tactical specialists are forced to choose between their duty and their humanity, between following orders by ignoring the conflict that surrounds them, or finding the courage to follow their conscience and protect a group of innocent refugees. When the democratic government of Nigeria collapses and the country is taken over by a ruthless military dictator, Waters, a fiercely loyal and hardened veteran is dispatched on a routine mission to retrieve a Doctors Without Borders physician.",
+                "popularity": 5.4537,
+                "poster_path": "/fszAQ7bEuO3cLTXZUSXCas28MgE.jpg",
+                "release_date": "2003-03-07",
+                "title": "Tears of the Sun",
+                "video": false,
+                "vote_average": 6.89,
+                "vote_count": 2471,
+                "credit_id": "5970c8829251412d4c038fc4",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    53
+                ],
+                "id": 180,
+                "original_language": "en",
+                "original_title": "Minority Report",
+                "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+                "popularity": 9.7653,
+                "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+                "release_date": "2002-06-20",
+                "title": "Minority Report",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 9160,
+                "credit_id": "597b5de1c3a36836c001406c",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 22,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship\u2014The Black Pearl\u2014so that he can rescue the woman he loves.",
+                "popularity": 19.981,
+                "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+                "release_date": "2003-07-09",
+                "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "video": false,
+                "vote_average": 7.814,
+                "vote_count": 21446,
+                "credit_id": "59dc88d892514124c507188e",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 71.1038,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37897,
+                "credit_id": "5bb7ac239251410dd102ebb3",
+                "department": "Crew",
+                "job": "Pilot"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2YIzEKCMfexbLIoeVUkR8MPayB2.jpg",
+                "genre_ids": [
+                    9648,
+                    878,
+                    53
+                ],
+                "id": 846,
+                "original_language": "en",
+                "original_title": "The X-Files",
+                "overview": "Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.",
+                "popularity": 5.8633,
+                "poster_path": "/yLIw6shz2WC3W3iI0jROsF4B2ha.jpg",
+                "release_date": "1998-06-19",
+                "title": "The X-Files",
+                "video": false,
+                "vote_average": 6.887,
+                "vote_count": 1692,
+                "credit_id": "5cca1b4192514119e5fa660c",
+                "department": "Crew",
+                "job": "Aerial Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 58,
+                "original_language": "en",
+                "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+                "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+                "popularity": 17.5662,
+                "poster_path": "/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
+                "release_date": "2006-07-06",
+                "title": "Pirates of the Caribbean: Dead Man's Chest",
+                "video": false,
+                "vote_average": 7.371,
+                "vote_count": 16593,
+                "credit_id": "5f93dbf307291c0034f23ac2",
+                "department": "Crew",
+                "job": "Aerial Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 577922,
+                "original_language": "en",
+                "original_title": "Tenet",
+                "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+                "popularity": 9.5434,
+                "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+                "release_date": "2020-08-22",
+                "title": "Tenet",
+                "video": false,
+                "vote_average": 7.175,
+                "vote_count": 10489,
+                "credit_id": "602076b5cc9683003fc1f6a7",
+                "department": "Crew",
+                "job": "Aerial Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c2gcLDxniE0lNmT2a7CcQVuW6En.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 36557,
+                "original_language": "en",
+                "original_title": "Casino Royale",
+                "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond\u2014on his maiden mission as a 00 Agent\u2014to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+                "popularity": 15.1673,
+                "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+                "release_date": "2006-11-14",
+                "title": "Casino Royale",
+                "video": false,
+                "vote_average": 7.564,
+                "vote_count": 11162,
+                "credit_id": "6031422afab3fa003dfd93fa",
+                "department": "Crew",
+                "job": "Pilot"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " David W. Paris",
+            "David William Paris "
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1685460,
+        "imdb_id": "nm0661545",
+        "known_for_department": "Crew",
+        "name": "David Paris",
+        "place_of_birth": null,
+        "popularity": 0.2355,
+        "profile_path": null
+    }
+}

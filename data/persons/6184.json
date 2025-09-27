@@ -1,0 +1,290 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.6062,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5612,
+                "character": "Noisy Civilian",
+                "credit_id": "5bc3784692514179ba048b97",
+                "order": 59
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 6.8072,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10633,
+                "credit_id": "52fe4245c3a36847f8011419",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 7.7503,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7483,
+                "credit_id": "52fe49bf9251416c750d20e5",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 127585,
+                "original_language": "en",
+                "original_title": "X-Men: Days of Future Past",
+                "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+                "popularity": 10.1631,
+                "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+                "release_date": "2014-05-15",
+                "title": "X-Men: Days of Future Past",
+                "video": false,
+                "vote_average": 7.529,
+                "vote_count": 15769,
+                "credit_id": "52fe4affc3a368484e17208f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    878
+                ],
+                "id": 105,
+                "original_language": "en",
+                "original_title": "Back to the Future",
+                "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+                "popularity": 11.9872,
+                "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+                "release_date": "1985-07-03",
+                "title": "Back to the Future",
+                "video": false,
+                "vote_average": 8.321,
+                "vote_count": 20883,
+                "credit_id": "540079470e0a2658d800225b",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.6062,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5612,
+                "credit_id": "557cb1b6c3a368632800298a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xBcuoZooxfrajF8312bSPWqvTMV.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 14367,
+                "original_language": "en",
+                "original_title": "Adventures in Babysitting",
+                "overview": "When plans with her boyfriend fall through, high school senior Chris Parker ends up babysitting the Anderson kids, Brad and Sara. What should be a quiet night in, however, turns into a series of ridiculous exploits, starting when they leave the house to pick up Chris' friend Brenda. Soon, Brad's buddy Daryl is involved, and the group must contend with car thieves, blues musicians and much more.",
+                "popularity": 2.1288,
+                "poster_path": "/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg",
+                "release_date": "1987-07-01",
+                "title": "Adventures in Babysitting",
+                "video": false,
+                "vote_average": 6.874,
+                "vote_count": 703,
+                "credit_id": "55d541a4c3a3687b99002b14",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/20wSDAS6rUWhkZQ2PxPC9TRsAd1.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 11499,
+                "original_language": "en",
+                "original_title": "Frost/Nixon",
+                "overview": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured doubts about their boss's ability to hold his own. But as the cameras rolled, a charged battle of wits resulted.",
+                "popularity": 3.2862,
+                "poster_path": "/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+                "release_date": "2008-10-15",
+                "title": "Frost/Nixon",
+                "video": false,
+                "vote_average": 7.277,
+                "vote_count": 1233,
+                "credit_id": "56431056c3a36870e30015f7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/huf42HJE04aFDr6RZEGw1Xxb6Pv.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    36
+                ],
+                "id": 921,
+                "original_language": "en",
+                "original_title": "Cinderella Man",
+                "overview": "The true story of boxer Jim Braddock who, following his retirement in the 1930s, makes a surprise comeback in order to lift his family out of poverty.",
+                "popularity": 7.1644,
+                "poster_path": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+                "release_date": "2005-06-02",
+                "title": "Cinderella Man",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2288,
+                "credit_id": "574f7f939251417a34000014",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 6.8072,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10633,
+                "credit_id": "5b03cf29c3a3686c7d01bfda",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 8.6062,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 5612,
+                "credit_id": "5b03d0130e0a2623e30237f5",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/D3eDUNEzJPBDG3TCJcR7RyRgTA.jpg",
+                "genre_ids": [
+                    18,
+                    28
+                ],
+                "id": 96721,
+                "original_language": "en",
+                "original_title": "Rush",
+                "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+                "popularity": 7.7503,
+                "poster_path": "/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg",
+                "release_date": "2013-09-02",
+                "title": "Rush",
+                "video": false,
+                "vote_average": 7.727,
+                "vote_count": 7483,
+                "credit_id": "5cbf86abc3a36809ab817ed2",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Todd Hallowell is an assistant director and producer, known for A Beautiful Mind (2001), X-Men: Days of Future Past (2014) and Apollo 13 (1995).",
+        "birthday": "1952-08-29",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 6184,
+        "imdb_id": "nm0356745",
+        "known_for_department": "Production",
+        "name": "Todd Hallowell",
+        "place_of_birth": "Cambridge, Minnesota, USA",
+        "popularity": 0.2949,
+        "profile_path": "/l5HU6JgdQ8a9RTsU07LEQGm4QZ4.jpg"
+    }
+}

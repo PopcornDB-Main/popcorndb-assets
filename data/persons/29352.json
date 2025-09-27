@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [
+            {
+                "adult": false,
+                "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 30890,
+                "original_language": "en",
+                "original_title": "Radio Days",
+                "overview": "The Narrator tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+                "popularity": 4.7784,
+                "poster_path": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+                "release_date": "1987-01-30",
+                "title": "Radio Days",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 603,
+                "character": "New Year's Bandleader",
+                "credit_id": "5ea0f29be942be00241e9184",
+                "order": 89
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 3.2882,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.735,
+                "vote_count": 4049,
+                "credit_id": "5669c6dbc3a36836b4005e49",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 29352,
+        "imdb_id": "nm0005986",
+        "known_for_department": "Sound",
+        "name": "Artie Butler",
+        "place_of_birth": null,
+        "popularity": 0.0256,
+        "profile_path": null
+    }
+}
