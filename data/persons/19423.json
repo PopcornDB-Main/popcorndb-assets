@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/djRD1jAXkUEQIFnG6fFFQAh9LD4.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18,
+                    28
+                ],
+                "id": 10518,
+                "original_language": "en",
+                "original_title": "Marathon Man",
+                "overview": "A graduate student and obsessive runner in New York is drawn into a mysterious plot involving his brother, a member of the secretive Division.",
+                "popularity": 3.2307,
+                "poster_path": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+                "release_date": "1976-10-08",
+                "title": "Marathon Man",
+                "video": false,
+                "vote_average": 7.176,
+                "vote_count": 1149,
+                "credit_id": "52fe437f9251416c750129ff",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3w2YSii9wQZsKKucAYwVxzOwm7s.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10752
+                ],
+                "id": 11589,
+                "original_language": "en",
+                "original_title": "Kelly's Heroes",
+                "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+                "popularity": 3.6746,
+                "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+                "release_date": "1970-06-22",
+                "title": "Kelly's Heroes",
+                "video": false,
+                "vote_average": 7.344,
+                "vote_count": 757,
+                "credit_id": "52fe44619251416c75032b87",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    18
+                ],
+                "id": 11524,
+                "original_language": "en",
+                "original_title": "Thief",
+                "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+                "popularity": 4.4119,
+                "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+                "release_date": "1981-03-27",
+                "title": "Thief",
+                "video": false,
+                "vote_average": 7.223,
+                "vote_count": 760,
+                "credit_id": "635fe80c0f52650079a01cfc",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1920-11-26",
+        "deathday": "2008-02-27",
+        "gender": 2,
+        "homepage": null,
+        "id": 19423,
+        "imdb_id": "nm0065639",
+        "known_for_department": "Production",
+        "name": "Sidney Beckerman",
+        "place_of_birth": null,
+        "popularity": 0.704,
+        "profile_path": null
+    }
+}

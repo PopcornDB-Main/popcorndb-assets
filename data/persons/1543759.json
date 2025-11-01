@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    80
+                ],
+                "id": 268,
+                "original_language": "en",
+                "original_title": "Batman",
+                "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+                "popularity": 8.7129,
+                "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+                "release_date": "1989-06-21",
+                "title": "Batman",
+                "video": false,
+                "vote_average": 7.234,
+                "vote_count": 8207,
+                "credit_id": "5abcd175c3a3684396026d20",
+                "department": "Lighting",
+                "job": "Rigging Grip"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 69.4581,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37911,
+                "credit_id": "5bb7ce549251410dc602d44c",
+                "department": "Lighting",
+                "job": "Rigging Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1543759,
+        "imdb_id": "nm2017851",
+        "known_for_department": "Lighting",
+        "name": "Bernie Hagadorn",
+        "place_of_birth": null,
+        "popularity": 0.088,
+        "profile_path": null
+    }
+}

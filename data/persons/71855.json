@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 11688,
+                "original_language": "en",
+                "original_title": "The Emperor's New Groove",
+                "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
+                "popularity": 10.9675,
+                "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
+                "release_date": "2000-12-15",
+                "title": "The Emperor's New Groove",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 7018,
+                "credit_id": "591341429251414e8905974d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xVEBLD278GuFZoPFskpD3dvdJlV.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    16
+                ],
+                "id": 20352,
+                "original_language": "en",
+                "original_title": "Despicable Me",
+                "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+                "popularity": 12.3875,
+                "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+                "release_date": "2010-07-08",
+                "title": "Despicable Me",
+                "video": false,
+                "vote_average": 7.253,
+                "vote_count": 15597,
+                "credit_id": "59134161c3a368646b05d0fc",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Pamela Ziegenhagen-Shefland"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 71855,
+        "imdb_id": "nm0956063",
+        "known_for_department": "Editing",
+        "name": "Pam Ziegenhagen",
+        "place_of_birth": null,
+        "popularity": 0.0362,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/t1ptcIJiPzxR4cM9q7i0RFizFd8.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    10751
+                ],
+                "id": 173,
+                "original_language": "en",
+                "original_title": "20,000 Leagues Under the Sea",
+                "overview": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
+                "popularity": 3.6529,
+                "poster_path": "/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+                "release_date": "1954-12-23",
+                "title": "20,000 Leagues Under the Sea",
+                "video": false,
+                "vote_average": 7.045,
+                "vote_count": 930,
+                "credit_id": "52fe4222c3a36847f8006a01",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g67r1eiQD3ERSEQFCFkSn7TeGw5.jpg",
+                "genre_ids": [
+                    12,
+                    878
+                ],
+                "id": 775,
+                "original_language": "fr",
+                "original_title": "Le Voyage dans la Lune",
+                "overview": "Professor Barbenfouillis and five of his colleagues from the Academy of Astronomy travel to the Moon aboard a rocket propelled by a giant cannon. Once on the lunar surface, the bold explorers face the many perils hidden in the caves of the mysterious planet.",
+                "popularity": 1.7684,
+                "poster_path": "/9o0v5LLFk51nyTBHZSre6OB37n2.jpg",
+                "release_date": "1902-06-15",
+                "title": "A Trip to the Moon",
+                "video": false,
+                "vote_average": 7.908,
+                "vote_count": 1889,
+                "credit_id": "52fe4275c3a36847f8020161",
+                "department": "Writing",
+                "job": "Novel"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jules Gabriel Verne",
+            "\u0416\u044e\u043b\u044c \u0413\u0430\u0431\u0440\u0438\u0435\u043b\u044c \u0412\u0435\u0440\u043d",
+            "\u0416\u044e\u043b\u044c \u0412\u0435\u0440\u043d",
+            "\u0416\u044e\u043b\u044c  \u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c \u0412\u0435\u0440\u043d"
+        ],
+        "biography": "Jules Gabriel Verne was a French novelist, poet, and playwright best known for his adventure novels and his profound influence on the literary genre of science fiction.",
+        "birthday": "1828-02-08",
+        "deathday": "1905-03-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 2088,
+        "imdb_id": "nm0894523",
+        "known_for_department": "Writing",
+        "name": "Jules Verne",
+        "place_of_birth": "Nantes, France",
+        "popularity": 0.3174,
+        "profile_path": "/vdbQLwcvF3UNTJw9Z2OgQzGzoGx.jpg"
+    }
+}

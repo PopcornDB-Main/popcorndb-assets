@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    36
+                ],
+                "id": 614934,
+                "original_language": "en",
+                "original_title": "Elvis",
+                "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+                "popularity": 4.8896,
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "release_date": "2022-06-22",
+                "title": "Elvis",
+                "video": false,
+                "vote_average": 7.482,
+                "vote_count": 3680,
+                "credit_id": "620ea5157ad08c001b8e9eb4",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wEXYJgW5l2IwwNdRVk9ixgKl8qu.jpg",
+                "genre_ids": [
+                    10749,
+                    14
+                ],
+                "id": 465136,
+                "original_language": "en",
+                "original_title": "Every Day",
+                "overview": "16-year old Rhiannon falls in love with a mysterious spirit named \u201cA\u201d that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and \u201cA\u201d work each day to find each other, not knowing what the next day will bring.",
+                "popularity": 4.3468,
+                "poster_path": "/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg",
+                "release_date": "2018-02-22",
+                "title": "Every Day",
+                "video": false,
+                "vote_average": 7.251,
+                "vote_count": 2265,
+                "credit_id": "5a4b1353c3a36805df020bba",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1951899,
+        "imdb_id": "nm1395268",
+        "known_for_department": "Sound",
+        "name": "Elliott Wheeler",
+        "place_of_birth": null,
+        "popularity": 0.0621,
+        "profile_path": null
+    }
+}

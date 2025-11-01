@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 1725,
+                "original_language": "en",
+                "original_title": "West Side Story",
+                "overview": "In the slums of the upper West Side of Manhattan, tensions are high as a gang of Polish-Americans compete against a gang of recently immigrated Puerto Ricans, but this doesn't stop two romantics from each gang falling in love.",
+                "popularity": 2.2974,
+                "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+                "release_date": "1961-12-13",
+                "title": "West Side Story",
+                "video": false,
+                "vote_average": 7.238,
+                "vote_count": 1955,
+                "credit_id": "592972f49251413b5b04d1bb",
+                "department": "Sound",
+                "job": "Vocal Coach"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10749
+                ],
+                "id": 11113,
+                "original_language": "en",
+                "original_title": "My Fair Lady",
+                "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+                "popularity": 5.6283,
+                "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+                "release_date": "1964-12-01",
+                "title": "My Fair Lady",
+                "video": false,
+                "vote_average": 7.502,
+                "vote_count": 1371,
+                "credit_id": "5e5a1f5166ae4d001983b580",
+                "department": "Sound",
+                "job": "Music Arranger"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Robert Tucker"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1824482,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Bobby Tucker",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

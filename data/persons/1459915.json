@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 7.6626,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10636,
+                "credit_id": "5f905bcaf8aee80033c8c729",
+                "department": "Visual Effects",
+                "job": "Compositing Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rbsm633lnt3hKHEpk7FOt3dy82a.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    80
+                ],
+                "id": 134,
+                "original_language": "en",
+                "original_title": "O Brother, Where Art Thou?",
+                "overview": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+                "popularity": 5.786,
+                "poster_path": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+                "release_date": "2000-08-30",
+                "title": "O Brother, Where Art Thou?",
+                "video": false,
+                "vote_average": 7.317,
+                "vote_count": 4361,
+                "credit_id": "68d43385965f8ded07e72211",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1459915,
+        "imdb_id": "nm0377035",
+        "known_for_department": "Crew",
+        "name": "Claas Henke",
+        "place_of_birth": null,
+        "popularity": 0.0453,
+        "profile_path": null
+    }
+}

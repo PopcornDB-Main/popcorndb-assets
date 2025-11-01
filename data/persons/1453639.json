@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12,
+                    35
+                ],
+                "id": 77174,
+                "original_language": "en",
+                "original_title": "ParaNorman",
+                "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
+                "popularity": 6.0125,
+                "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+                "release_date": "2012-08-03",
+                "title": "ParaNorman",
+                "video": false,
+                "vote_average": 7.006,
+                "vote_count": 2634,
+                "credit_id": "552b840d9251416b3e001872",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 10315,
+                "original_language": "en",
+                "original_title": "Fantastic Mr. Fox",
+                "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+                "popularity": 7.885,
+                "poster_path": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+                "release_date": "2009-10-14",
+                "title": "Fantastic Mr. Fox",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 5791,
+                "credit_id": "552b871ec3a368596e00584f",
+                "department": "Visual Effects",
+                "job": "Animation"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1453639,
+        "imdb_id": "nm1303842",
+        "known_for_department": "Visual Effects",
+        "name": "Kevin Walton",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

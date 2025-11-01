@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 634649,
+                "original_language": "en",
+                "original_title": "Spider-Man: No Way Home",
+                "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+                "popularity": 26.4078,
+                "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+                "release_date": "2021-12-15",
+                "title": "Spider-Man: No Way Home",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 21139,
+                "credit_id": "630321465f4b730082684ab9",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g01B5oD3j2sIupAQY2Ykm4TIRks.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    35,
+                    10751
+                ],
+                "id": 324849,
+                "original_language": "en",
+                "original_title": "The Lego Batman Movie",
+                "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+                "popularity": 7.3776,
+                "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+                "release_date": "2017-02-08",
+                "title": "The Lego Batman Movie",
+                "video": false,
+                "vote_average": 7.232,
+                "vote_count": 5210,
+                "credit_id": "5bad73b992514150e804451a",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1919-05-23",
+        "deathday": "1988-12-19",
+        "gender": 2,
+        "homepage": null,
+        "id": 2136834,
+        "imdb_id": "nm6291729",
+        "known_for_department": "Crew",
+        "name": "Robert Bernstein",
+        "place_of_birth": "Manhattan, New York City, New York, USA",
+        "popularity": 0.2165,
+        "profile_path": null
+    }
+}

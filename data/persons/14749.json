@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    10749
+                ],
+                "id": 88,
+                "original_language": "en",
+                "original_title": "Dirty Dancing",
+                "overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer\u2014and unexpectedly falling in love.",
+                "popularity": 6.6364,
+                "poster_path": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+                "release_date": "1987-08-21",
+                "title": "Dirty Dancing",
+                "video": false,
+                "vote_average": 7.329,
+                "vote_count": 6327,
+                "credit_id": "5643597fc3a36870e000206b",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sdL37sfUBth7mdkAolI83bXAl7L.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    10751,
+                    35
+                ],
+                "id": 482321,
+                "original_language": "en",
+                "original_title": "Ron's Gone Wrong",
+                "overview": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+                "popularity": 3.7811,
+                "poster_path": "/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+                "release_date": "2021-10-14",
+                "title": "Ron's Gone Wrong",
+                "video": false,
+                "vote_average": 7.884,
+                "vote_count": 1939,
+                "credit_id": "6607bc5a021cee016348a700",
+                "department": "Sound",
+                "job": "Orchestrator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Michael Jeffrey Lloyd ",
+            " Michael Lloyd II"
+        ],
+        "biography": "",
+        "birthday": "1948-11-03",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 14749,
+        "imdb_id": "nm0516083",
+        "known_for_department": "Sound",
+        "name": "Michael Lloyd",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.4429,
+        "profile_path": null
+    }
+}

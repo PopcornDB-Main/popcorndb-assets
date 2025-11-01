@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/etiP3Mu3ze2j9m3FEAAyOKFYlH0.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 563,
+                "original_language": "en",
+                "original_title": "Starship Troopers",
+                "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+                "popularity": 5.0787,
+                "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+                "release_date": "1997-11-07",
+                "title": "Starship Troopers",
+                "video": false,
+                "vote_average": 7.091,
+                "vote_count": 5193,
+                "credit_id": "52fe4253c3a36847f8015589",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 4.0009,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.491,
+                "vote_count": 2414,
+                "credit_id": "6850e5238a77dfd7b492dc7d",
+                "department": "Art",
+                "job": "Set Designer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bruce Hill"
+        ],
+        "biography": "",
+        "birthday": "1962-06-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 7733,
+        "imdb_id": "nm0384096",
+        "known_for_department": "Art",
+        "name": "Bruce Robert Hill",
+        "place_of_birth": null,
+        "popularity": 0.0765,
+        "profile_path": null
+    }
+}

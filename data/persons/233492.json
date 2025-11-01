@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1628,
+                "original_language": "fr",
+                "original_title": "Jules et Jim",
+                "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+                "popularity": 1.7689,
+                "poster_path": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+                "release_date": "1962-01-23",
+                "title": "Jules and Jim",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1014,
+                "credit_id": "5e113f51e78e2d0013751d64",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 147,
+                "original_language": "fr",
+                "original_title": "Les Quatre Cents Coups",
+                "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+                "popularity": 3.2738,
+                "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+                "release_date": "1959-06-03",
+                "title": "The 400 Blows",
+                "video": false,
+                "vote_average": 8.023,
+                "vote_count": 2230,
+                "credit_id": "5e3e421498f1f100120e063c",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1931-11-17",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 233492,
+        "imdb_id": "nm0090351",
+        "known_for_department": "Directing",
+        "name": "Robert Bober",
+        "place_of_birth": "Berlin, Germany",
+        "popularity": 0.0585,
+        "profile_path": null
+    }
+}

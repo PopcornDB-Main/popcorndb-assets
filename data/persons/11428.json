@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 756,
+                "original_language": "en",
+                "original_title": "Fantasia",
+                "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+                "popularity": 3.8834,
+                "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+                "release_date": "1940-11-13",
+                "title": "Fantasia",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 3191,
+                "credit_id": "52fe4272c3a36847f801f305",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    10751
+                ],
+                "id": 3170,
+                "original_language": "en",
+                "original_title": "Bambi",
+                "overview": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
+                "popularity": 5.5238,
+                "poster_path": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+                "release_date": "1942-08-14",
+                "title": "Bambi",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 5854,
+                "credit_id": "5ea190929cc67b00202877fc",
+                "department": "Directing",
+                "job": "Co-Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1896-03-27",
+        "deathday": "1981-08-14",
+        "gender": 2,
+        "homepage": null,
+        "id": 11428,
+        "imdb_id": "nm0766402",
+        "known_for_department": "Directing",
+        "name": "Paul Satterfield",
+        "place_of_birth": "Georgia, USA",
+        "popularity": 0.0802,
+        "profile_path": null
+    }
+}

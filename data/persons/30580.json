@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mRVzzlXswVmXWqCPni9JIla5fmj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 3116,
+                "original_language": "en",
+                "original_title": "Midnight Cowboy",
+                "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+                "popularity": 3.395,
+                "poster_path": "/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+                "release_date": "1969-05-25",
+                "title": "Midnight Cowboy",
+                "video": false,
+                "vote_average": 7.508,
+                "vote_count": 1514,
+                "credit_id": "52fe4388c3a36847f805b50d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 238,
+                "original_language": "en",
+                "original_title": "The Godfather",
+                "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+                "popularity": 27.7017,
+                "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+                "release_date": "1972-03-14",
+                "title": "The Godfather",
+                "video": false,
+                "vote_average": 8.686,
+                "vote_count": 21863,
+                "credit_id": "53884fb2c3a3681ad700458c",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1923-02-22",
+        "deathday": "1998-12-31",
+        "gender": 2,
+        "homepage": null,
+        "id": 30580,
+        "imdb_id": "nm0809602",
+        "known_for_department": "Art",
+        "name": "Philip Smith",
+        "place_of_birth": "Woodstock, Ohio, USA",
+        "popularity": 0.0738,
+        "profile_path": null
+    }
+}

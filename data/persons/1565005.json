@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rXrpYOveFl76ivMmyb2612T7Q8w.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80
+                ],
+                "id": 64688,
+                "original_language": "en",
+                "original_title": "21 Jump Street",
+                "overview": "When cops Schmidt and Jenko join the secret Jump Street unit, they use their youthful appearances to go undercover as high school students. They trade in their guns and badges for backpacks, and set out to shut down a dangerous drug ring. But, as time goes on, Schmidt and Jenko discover that high school is nothing like it was just a few years earlier -- and, what's more, they must again confront the teenage terror and anxiety they thought they had left behind.",
+                "popularity": 6.802,
+                "poster_path": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+                "release_date": "2012-03-14",
+                "title": "21 Jump Street",
+                "video": false,
+                "vote_average": 6.882,
+                "vote_count": 10626,
+                "credit_id": "569c29059251415e6d000d61",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 557,
+                "original_language": "en",
+                "original_title": "Spider-Man",
+                "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+                "popularity": 17.8638,
+                "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+                "release_date": "2002-05-01",
+                "title": "Spider-Man",
+                "video": false,
+                "vote_average": 7.316,
+                "vote_count": 19930,
+                "credit_id": "5c68b367c3a3686fb6d553c7",
+                "department": "Sound",
+                "job": "Music Consultant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1565005,
+        "imdb_id": "nm0322156",
+        "known_for_department": "Sound",
+        "name": "Karen Glauber",
+        "place_of_birth": null,
+        "popularity": 0.0453,
+        "profile_path": null
+    }
+}

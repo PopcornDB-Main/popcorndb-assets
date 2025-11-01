@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    18
+                ],
+                "id": 745,
+                "original_language": "en",
+                "original_title": "The Sixth Sense",
+                "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+                "popularity": 7.8606,
+                "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+                "release_date": "1999-08-06",
+                "title": "The Sixth Sense",
+                "video": false,
+                "vote_average": 7.949,
+                "vote_count": 12272,
+                "credit_id": "589f96d6c3a3684fe0003948",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    53
+                ],
+                "id": 78,
+                "original_language": "en",
+                "original_title": "Blade Runner",
+                "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+                "popularity": 9.5888,
+                "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+                "release_date": "1982-06-25",
+                "title": "Blade Runner",
+                "video": false,
+                "vote_average": 7.941,
+                "vote_count": 14387,
+                "credit_id": "5fb9341387ae7b003d514fb7",
+                "department": "Art",
+                "job": "Assistant Property Master"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Arthur Shippee Jr.",
+            "Art Shippee"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1459199,
+        "imdb_id": "nm0794135",
+        "known_for_department": "Art",
+        "name": "Arthur Shippee",
+        "place_of_birth": null,
+        "popularity": 2.1585,
+        "profile_path": null
+    }
+}

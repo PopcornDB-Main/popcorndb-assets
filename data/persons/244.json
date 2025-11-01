@@ -1,0 +1,159 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+                "genre_ids": [
+                    878,
+                    9648,
+                    12
+                ],
+                "id": 62,
+                "original_language": "en",
+                "original_title": "2001: A Space Odyssey",
+                "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+                "popularity": 10.5963,
+                "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+                "release_date": "1968-04-02",
+                "title": "2001: A Space Odyssey",
+                "video": false,
+                "vote_average": 8.063,
+                "vote_count": 12043,
+                "credit_id": "52fe4212c3a36847f8001a17",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    80
+                ],
+                "id": 268,
+                "original_language": "en",
+                "original_title": "Batman",
+                "overview": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+                "popularity": 8.5249,
+                "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+                "release_date": "1989-06-21",
+                "title": "Batman",
+                "video": false,
+                "vote_average": 7.234,
+                "vote_count": 8207,
+                "credit_id": "52fe422fc3a36847f800aa4b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 679,
+                "original_language": "en",
+                "original_title": "Aliens",
+                "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+                "popularity": 10.686,
+                "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "release_date": "1986-07-18",
+                "title": "Aliens",
+                "video": false,
+                "vote_average": 7.952,
+                "vote_count": 10331,
+                "credit_id": "52fe4269c3a36847f801c967",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 694,
+                "original_language": "en",
+                "original_title": "The Shining",
+                "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+                "popularity": 11.6445,
+                "poster_path": "/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+                "release_date": "1980-05-23",
+                "title": "The Shining",
+                "video": false,
+                "vote_average": 8.209,
+                "vote_count": 18201,
+                "credit_id": "52fe426bc3a36847f801d3d1",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 935,
+                "original_language": "en",
+                "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+                "popularity": 5.743,
+                "poster_path": "/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg",
+                "release_date": "1964-01-29",
+                "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "video": false,
+                "vote_average": 8.123,
+                "vote_count": 5890,
+                "credit_id": "5686bfa8c3a368607501f456",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nKwGUiqPdNf47XFjlbR5IFwAaOL.jpg",
+                "genre_ids": [
+                    12,
+                    36,
+                    10752
+                ],
+                "id": 947,
+                "original_language": "en",
+                "original_title": "Lawrence of Arabia",
+                "overview": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+                "popularity": 4.5605,
+                "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+                "release_date": "1962-12-11",
+                "title": "Lawrence of Arabia",
+                "video": false,
+                "vote_average": 7.995,
+                "vote_count": 3219,
+                "credit_id": "5715157dc3a3684122010c0c",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Ray Lovejoy (18 February 1939 \u2013 18 October 2001) was a British film editor with about thirty editing credits. He had a notable collaboration with director Peter Yates that extended over six films including The Dresser (1983), which was nominated for numerous BAFTA Awards and Academy Awards.\n\nLovejoy was an assistant to editor Anne V. Coates for films from The Horse's Mouth (1958) to Lawrence of Arabia (1962). He was next an assistant to editor Anthony Harvey on Dr. Strangelove (1964), which was produced and directed by Stanley Kubrick. Harvey subsequently became a director himself, and Kubrick promoted Lovejoy to be the editor for his subsequent film 2001: A Space Odyssey (1968). Kubrick and Lovejoy next worked together on The Shining (1980); Kubrick worked with other editors for his two films from the 1970s.\n\nStephen Prince described Lovejoy's contributions to 1980s films as follows, \"Ray Lovejoy cut Stanley Kubrick's 2001: A Space Odyssey (1968), and he worked again with Kubrick on The Shining and supplied that film with an entirely different--tenser, more foreboding--texture than the stately science-fiction film possesses. Lovejoy also proved adept at editing for blockbuster effect. His cutting in Aliens sustained that sequel's narrative momentum with a speed and tension that its predecessor did not have, and his editing on Batman finessed that film's gaping narrative problems by simply rushing past them.\"\n\nIn 1987, he was nominated for the Academy Award for Best Film Editing for his work on the film Aliens (1986). In 2012, the Motion Picture Editors Guild published a list of the 75 best-edited films of all time based on a survey of its members. Two films edited by Lovejoy are on this listing. 2001: A Space Odyssey was listed nineteenth, and The Shining was listed as forty-fourth.\n\nLovejoy died of a heart attack on 18 October 2001.",
+        "birthday": "1939-02-18",
+        "deathday": "2001-10-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 244,
+        "imdb_id": "nm0522487",
+        "known_for_department": "Editing",
+        "name": "Ray Lovejoy",
+        "place_of_birth": "UK",
+        "popularity": 0.081,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    18
+                ],
+                "id": 508442,
+                "original_language": "en",
+                "original_title": "Soul",
+                "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+                "popularity": 9.117,
+                "poster_path": "/pEz5aROvfy5FBW1OTlrDO3VryWO.jpg",
+                "release_date": "2020-12-25",
+                "title": "Soul",
+                "video": false,
+                "vote_average": 8.1,
+                "vote_count": 10945,
+                "credit_id": "60b1185a5b0714007897e97a",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16,
+                    14
+                ],
+                "id": 508439,
+                "original_language": "en",
+                "original_title": "Onward",
+                "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+                "popularity": 4.8196,
+                "poster_path": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+                "release_date": "2020-02-29",
+                "title": "Onward",
+                "video": false,
+                "vote_average": 7.658,
+                "vote_count": 6370,
+                "credit_id": "60e8579b43250f005f407b85",
+                "department": "Sound",
+                "job": "Foley Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 284052,
+                "original_language": "en",
+                "original_title": "Doctor Strange",
+                "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+                "popularity": 9.0216,
+                "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+                "release_date": "2016-10-25",
+                "title": "Doctor Strange",
+                "video": false,
+                "vote_average": 7.418,
+                "vote_count": 22804,
+                "credit_id": "58c3e0c99251413432002c8d",
+                "department": "Sound",
+                "job": "Foley Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.2455,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.236,
+                "vote_count": 30971,
+                "credit_id": "5ac38eba0e0a260c14036f0f",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 363088,
+                "original_language": "en",
+                "original_title": "Ant-Man and the Wasp",
+                "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+                "popularity": 9.2633,
+                "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+                "release_date": "2018-07-04",
+                "title": "Ant-Man and the Wasp",
+                "video": false,
+                "vote_average": 6.913,
+                "vote_count": 13751,
+                "credit_id": "5b59e32b0e0a2611fe0146d8",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 260513,
+                "original_language": "en",
+                "original_title": "Incredibles 2",
+                "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.",
+                "popularity": 24.0772,
+                "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+                "release_date": "2018-06-14",
+                "title": "Incredibles 2",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 13271,
+                "credit_id": "5ba95f1b0e0a2635ec05f3b6",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1463395,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Steve Orlando",
+        "place_of_birth": null,
+        "popularity": 0.1166,
+        "profile_path": null
+    }
+}

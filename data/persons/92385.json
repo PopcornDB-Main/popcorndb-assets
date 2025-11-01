@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 9.2135,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 4789,
+                "credit_id": "609b9314ec45520040019c0f",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rahJyvdMruvqUmSLWRQKYS57mx8.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 562,
+                "original_language": "en",
+                "original_title": "Die Hard",
+                "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+                "popularity": 10.7772,
+                "poster_path": "/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+                "release_date": "1988-07-15",
+                "title": "Die Hard",
+                "video": false,
+                "vote_average": 7.801,
+                "vote_count": 11692,
+                "credit_id": "67e82d7c5f93a9fd25ddb997",
+                "department": "Sound",
+                "job": "Boom Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 92385,
+        "imdb_id": "nm0427913",
+        "known_for_department": "Sound",
+        "name": "Dennis Jones",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

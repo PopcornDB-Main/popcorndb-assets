@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 507089,
+                "original_language": "en",
+                "original_title": "Five Nights at Freddy's",
+                "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+                "popularity": 11.8545,
+                "poster_path": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+                "release_date": "2023-10-25",
+                "title": "Five Nights at Freddy's",
+                "video": false,
+                "vote_average": 7.389,
+                "vote_count": 4575,
+                "credit_id": "650ad9756c19ea00ca46bc0d",
+                "department": "Crew",
+                "job": "Compositor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kPKwqHl2rYsi9rFWJWA6afKdmlT.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    37
+                ],
+                "id": 400090,
+                "original_language": "en",
+                "original_title": "The Nightingale",
+                "overview": "In 1825, Clare, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker who is also marked by trauma from his own violence-filled past.",
+                "popularity": 2.8624,
+                "poster_path": "/9nRpZmvdEgq8hMu1rNyc90XQtH6.jpg",
+                "release_date": "2018-09-23",
+                "title": "The Nightingale",
+                "video": false,
+                "vote_average": 7.061,
+                "vote_count": 617,
+                "credit_id": "5f48e0111bf2660037d5c1a6",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2757945,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Paul Wicke",
+        "place_of_birth": null,
+        "popularity": 0.0505,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9VJh0YPms8QM8GYDvt5wtmRsCU5.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10749
+                ],
+                "id": 13320,
+                "original_language": "en",
+                "original_title": "Funny Face",
+                "overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
+                "popularity": 1.7574,
+                "poster_path": "/tzTjalpIz6NyFrWPPlOBFoBjb7z.jpg",
+                "release_date": "1957-02-13",
+                "title": "Funny Face",
+                "video": false,
+                "vote_average": 6.975,
+                "vote_count": 708,
+                "credit_id": "5a1750200e0a264cbc006bbf",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eMgflonfRY89Zj4LZykJKPpG4wg.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 596,
+                "original_language": "en",
+                "original_title": "The Grapes of Wrath",
+                "overview": "Tom Joad returns to his home after a jail sentence to find his family kicked out of their farm due to foreclosure. He catches up with them on his Uncle\u2019s farm, and joins them the next day as they head for California and a new life... Hopefully.",
+                "popularity": 4.693,
+                "poster_path": "/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+                "release_date": "1940-03-15",
+                "title": "The Grapes of Wrath",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 1046,
+                "credit_id": "684f02e024370a5bfb3fc272",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 8512,
+        "imdb_id": "nm0505336",
+        "known_for_department": "Sound",
+        "name": "George Leverett",
+        "place_of_birth": null,
+        "popularity": 0.0327,
+        "profile_path": null
+    }
+}

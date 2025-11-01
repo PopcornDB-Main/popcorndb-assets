@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/drUgiqUfxmCCNZ9i0eeTEPqeDF.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 46838,
+                "original_language": "en",
+                "original_title": "Tucker and Dale vs. Evil",
+                "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+                "popularity": 3.6144,
+                "poster_path": "/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+                "release_date": "2010-01-22",
+                "title": "Tucker and Dale vs. Evil",
+                "video": false,
+                "vote_average": 7.387,
+                "vote_count": 2945,
+                "credit_id": "52fe470fc3a36847f81213bd",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    878
+                ],
+                "id": 1091,
+                "original_language": "en",
+                "original_title": "The Thing",
+                "overview": "A twelve-man team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror...And becomes one of them.",
+                "popularity": 9.2855,
+                "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+                "release_date": "1982-06-25",
+                "title": "The Thing",
+                "video": false,
+                "vote_average": 8.069,
+                "vote_count": 7461,
+                "credit_id": "5bda91d70e0a2603b6007e10",
+                "department": "Camera",
+                "job": "Second Assistant Camera"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David A. Geddes"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.davidgeddes.com/",
+        "id": 31906,
+        "imdb_id": "nm0311454",
+        "known_for_department": "Camera",
+        "name": "David Geddes",
+        "place_of_birth": " Vancouver, British Columbia, Canada",
+        "popularity": 1.8641,
+        "profile_path": null
+    }
+}

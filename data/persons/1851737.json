@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/kBSSbN1sOiJtXjAGVZXxHJR9Kox.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 361743,
+                "original_language": "en",
+                "original_title": "Top Gun: Maverick",
+                "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+                "popularity": 19.1658,
+                "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+                "release_date": "2022-05-21",
+                "title": "Top Gun: Maverick",
+                "video": false,
+                "vote_average": 8.168,
+                "vote_count": 10205,
+                "credit_id": "62b5564cae36680052d963c9",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9JcMUzQy9gPqDmJJGH3AcL145mv.jpg",
+                "genre_ids": [
+                    27,
+                    28,
+                    53,
+                    80
+                ],
+                "id": 755,
+                "original_language": "en",
+                "original_title": "From Dusk Till Dawn",
+                "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+                "popularity": 5.6543,
+                "poster_path": "/uBoQytp3KTQFaVqTe6d0ECGaKh9.jpg",
+                "release_date": "1996-01-19",
+                "title": "From Dusk Till Dawn",
+                "video": false,
+                "vote_average": 7.029,
+                "vote_count": 6192,
+                "credit_id": "5969f0d5c3a3683b4f00d709",
+                "department": "Art",
+                "job": "Set Dresser"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Howard Miller"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1851737,
+        "imdb_id": "nm0588483",
+        "known_for_department": "Art",
+        "name": "Howard Payne Miller",
+        "place_of_birth": null,
+        "popularity": 0.0327,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 10674,
+                "original_language": "en",
+                "original_title": "Mulan",
+                "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+                "popularity": 13.0865,
+                "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+                "release_date": "1998-06-18",
+                "title": "Mulan",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 10102,
+                "credit_id": "52fe43a09251416c75017c95",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 10.752,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.73,
+                "vote_count": 10311,
+                "credit_id": "5ab82b3f0e0a261fe2026536",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1958-08-12",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 66191,
+        "imdb_id": "nm0176905",
+        "known_for_department": "Directing",
+        "name": "Barry Cook",
+        "place_of_birth": "Nashville, Tennessee, USA",
+        "popularity": 1.1819,
+        "profile_path": "/y0lmcTr8fkC0jsfIJxNrUSSUzPn.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sE8MaqJVQObAKhyxIFNdTHRfQxv.jpg",
+                "genre_ids": [
+                    16,
+                    35
+                ],
+                "id": 53565,
+                "original_language": "en",
+                "original_title": "Steamboat Willie",
+                "overview": "Mickey Mouse, piloting a steamboat, delights his passenger, Minnie Mouse, by making musical instruments out of the menagerie on deck.",
+                "popularity": 4.0949,
+                "poster_path": "/ybR0RzVkF9OLEsQHfYMDVgjrmH8.jpg",
+                "release_date": "1928-05-15",
+                "title": "Steamboat Willie",
+                "video": false,
+                "vote_average": 7.29,
+                "vote_count": 575,
+                "credit_id": "54d833c6c3a3683b8c007326",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wmSxNVGZOV1A51Yx6ChDXk3NVVi.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10751
+                ],
+                "id": 408,
+                "original_language": "en",
+                "original_title": "Snow White and the Seven Dwarfs",
+                "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
+                "popularity": 9.2776,
+                "poster_path": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+                "release_date": "1938-01-14",
+                "title": "Snow White and the Seven Dwarfs",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 7748,
+                "credit_id": "569c59aec3a36858c3001794",
+                "department": "Visual Effects",
+                "job": "Animation"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard James Lundy",
+            "Richard Lundy"
+        ],
+        "biography": "From Wikipedia, the free encyclopedia\n\nRichard James \"Dick\" Lundy (August 14, 1907 \u2013 April 7, 1990) was an American animator and film director who worked at several animation studios including Walt Disney Animation Studios, MGM, and Hanna-Barbera. Lundy was a pioneer of personality animation and is best remembered as one of the creators of Donald Duck. Throughout his career he worked as a primary animator on at least 60 films, both short and feature-length, and directed 51 shorts.",
+        "birthday": "1907-08-14",
+        "deathday": "1990-04-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 150768,
+        "imdb_id": "nm0526645",
+        "known_for_department": "Visual Effects",
+        "name": "Dick Lundy",
+        "place_of_birth": "Sault Sainte Marie, Michigan, USA",
+        "popularity": 0.1735,
+        "profile_path": "/1ZOtBI746xrJErPiqUf2JFVUxu6.jpg"
+    }
+}

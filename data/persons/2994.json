@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/A291ofGZZMc1LdiIeOMDIWrU65g.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    53,
+                    80
+                ],
+                "id": 234,
+                "original_language": "de",
+                "original_title": "Das Cabinet des Dr. Caligari",
+                "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fianc\u00e9e Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+                "popularity": 5.4872,
+                "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+                "release_date": "1920-02-27",
+                "title": "The Cabinet of Dr. Caligari",
+                "video": false,
+                "vote_average": 7.927,
+                "vote_count": 1683,
+                "credit_id": "679018d2e1af20590faacc7b",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Austrian director, screenwriter, and producer. He was killed at Majdanek concentration camp in 1943.",
+        "birthday": "1882-09-28",
+        "deathday": "1943-01-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 2994,
+        "imdb_id": "nm0576901",
+        "known_for_department": "Directing",
+        "name": "Rudolf Meinert",
+        "place_of_birth": "Wien, Austria",
+        "popularity": 0.0281,
+        "profile_path": "/dYSOaJmda2XqNTA9cjNgpkZ0QBc.jpg"
+    }
+}

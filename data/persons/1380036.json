@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 4.2282,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4052,
+                "credit_id": "5669be6c925141738300185f",
+                "department": "Crew",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 12102,
+                "original_language": "en",
+                "original_title": "Kramer vs. Kramer",
+                "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+                "popularity": 2.962,
+                "poster_path": "/gmkGQQpvOq52icAer3vriT5S25O.jpg",
+                "release_date": "1979-12-07",
+                "title": "Kramer vs. Kramer",
+                "video": false,
+                "vote_average": 7.574,
+                "vote_count": 2324,
+                "credit_id": "5b15bc92925141788100cf8d",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 7.5976,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.923,
+                "vote_count": 4530,
+                "credit_id": "60124f4d458199003e22c8de",
+                "department": "Art",
+                "job": "Property Master"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Tom Saccio"
+        ],
+        "biography": "",
+        "birthday": "1942-05-16",
+        "deathday": "2014-09-18",
+        "gender": 2,
+        "homepage": null,
+        "id": 1380036,
+        "imdb_id": "nm0755029",
+        "known_for_department": "Art",
+        "name": "Thomas Saccio",
+        "place_of_birth": "Brooklyn, New York, USA",
+        "popularity": 1.3715,
+        "profile_path": null
+    }
+}

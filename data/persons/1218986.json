@@ -1,0 +1,161 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 453395,
+                "original_language": "en",
+                "original_title": "Doctor Strange in the Multiverse of Madness",
+                "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+                "popularity": 14.8325,
+                "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+                "release_date": "2022-05-04",
+                "title": "Doctor Strange in the Multiverse of Madness",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 9790,
+                "credit_id": "6275ae5ca5046e00505e6702",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 102899,
+                "original_language": "en",
+                "original_title": "Ant-Man",
+                "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+                "popularity": 8.8747,
+                "poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+                "release_date": "2015-07-14",
+                "title": "Ant-Man",
+                "video": false,
+                "vote_average": 7.067,
+                "vote_count": 20325,
+                "credit_id": "58dfb8f69251415e5f009fd8",
+                "department": "Art",
+                "job": "Storyboard Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 118340,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy",
+                "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                "popularity": 5.7735,
+                "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+                "release_date": "2014-07-30",
+                "title": "Guardians of the Galaxy",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 28896,
+                "credit_id": "5b202b679251416e1b00441e",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 99861,
+                "original_language": "en",
+                "original_title": "Avengers: Age of Ultron",
+                "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+                "popularity": 15.7504,
+                "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+                "release_date": "2015-04-22",
+                "title": "Avengers: Age of Ultron",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 23735,
+                "credit_id": "5f58f52a8c22c00037ce32e1",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 24428,
+                "original_language": "en",
+                "original_title": "The Avengers",
+                "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                "popularity": 45.229,
+                "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+                "release_date": "2012-04-25",
+                "title": "The Avengers",
+                "video": false,
+                "vote_average": 7.81,
+                "vote_count": 33164,
+                "credit_id": "5f5b9cfc56b9f70037798299",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.2455,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.236,
+                "vote_count": 30970,
+                "credit_id": "5f638726d236e6003479d646",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Bryan D. Andrews\u00a0(born 1975) is an American storyboard artist and writer known for his work in\u00a0science fiction\u00a0and\u00a0superhero films. Born in 1975, Andrews began his film career with a credit in\u00a0Warner Bros. Feature Animation's 1998 film\u00a0Quest for Camelot. He contributed to\u00a0Joseph: King of Dreams,\u00a0Jackie Chan Adventures,\u00a0Samurai Jack,\u00a0My Life as a Teenage Robot, and various instalments of the\u00a0Marvel Cinematic Universe\u00a0(MCU), such as\u00a0Doctor Strange\u00a0and\u00a0Avengers: Endgame. Andrews also worked alongside\u00a0Genndy Tartakovsky\u00a0to produce the animated series\u00a0Sym-Bionic Titan\u00a0for\u00a0Cartoon Network for 20 episodes.\n\nAndrews was recognized at the 2004 and 2005\u00a0Primetime Emmy Awards\u00a0for his work on\u00a0Star Wars: Clone Wars\u00a0in the category \"Outstanding Animated Program (for Programming One Hour or More). He has since received two Primetime Emmys for his work on\u00a0Samurai Jack, one Primetime Emmy nomination each for\u00a0Samurai Jack\u00a0and\u00a0Escape from Cluster Prime, one\u00a0Art Directors Guild\u00a0award for\u00a0Avengers: Endgame, and one nomination for\u00a0Doctor Strange.\n\nDescription above from the Wikipedia article Bryan Andrews (filmmaker), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1218986,
+        "imdb_id": "nm1635535",
+        "known_for_department": "Art",
+        "name": "Bryan Andrews",
+        "place_of_birth": null,
+        "popularity": 0.4094,
+        "profile_path": "/28gfwWcp0961McmxFld5nKdNXV3.jpg"
+    }
+}

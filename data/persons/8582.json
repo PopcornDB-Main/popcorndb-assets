@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bvXUe1KBYOAl3Eh2jT6c1sQwmTf.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11356,
+                "original_language": "en",
+                "original_title": "The Odd Couple",
+                "overview": "In New York, Felix, a neurotic news writer who just broke up with his wife, is urged by his chaotic friend Oscar, a sports journalist, to move in with him, but their lifestyles are as different as night and day are, so Felix's ideas about housekeeping soon begin to irritate Oscar.",
+                "popularity": 1.9648,
+                "poster_path": "/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+                "release_date": "1968-05-16",
+                "title": "The Odd Couple",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 608,
+                "credit_id": "5c2b3ded0e0a2655ee38ab82",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bW6GHF3Yg9fSsJGlRVHXlGY8vaM.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 14.1811,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.678,
+                "vote_count": 11033,
+                "credit_id": "5c2b4de00e0a2655fa38ba85",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rhwGCD3AosYcPK7rTFHmL4NdrP1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 6644,
+                "original_language": "en",
+                "original_title": "El Dorado",
+                "overview": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Harrah. Together with a fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+                "popularity": 4.8471,
+                "poster_path": "/poJxkMtTA3E95lJ6RnBgNxF0Vmx.jpg",
+                "release_date": "1966-12-17",
+                "title": "El Dorado",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 555,
+                "credit_id": "5c2b3d30c3a3682919a0c886",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John Carter",
+            "Jack Carter"
+        ],
+        "biography": "",
+        "birthday": "1907-10-22",
+        "deathday": "1982-02-22",
+        "gender": 2,
+        "homepage": null,
+        "id": 8582,
+        "imdb_id": "nm0141728",
+        "known_for_department": "Sound",
+        "name": "John R. Carter",
+        "place_of_birth": "Gainesville, Virginia, USA",
+        "popularity": 0.13,
+        "profile_path": null
+    }
+}

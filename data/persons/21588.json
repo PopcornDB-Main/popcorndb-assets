@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    9648
+                ],
+                "id": 141,
+                "original_language": "en",
+                "original_title": "Donnie Darko",
+                "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+                "popularity": 7.9985,
+                "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+                "release_date": "2001-01-19",
+                "title": "Donnie Darko",
+                "video": false,
+                "vote_average": 7.766,
+                "vote_count": 12921,
+                "credit_id": "600dbc624d0e8d003d73c8ea",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oSFshBf9Wrv5UcmZYAmy28BwSSh.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 378,
+                "original_language": "en",
+                "original_title": "Raising Arizona",
+                "overview": "When a childless couple--an ex-con and an ex-cop--decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+                "popularity": 4.6998,
+                "poster_path": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+                "release_date": "1987-03-13",
+                "title": "Raising Arizona",
+                "video": false,
+                "vote_average": 7.06,
+                "vote_count": 2210,
+                "credit_id": "6752906384ca928d00c9ff19",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard P. Crudo",
+            "Richard Cruedo"
+        ],
+        "biography": "",
+        "birthday": "1957-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 21588,
+        "imdb_id": "nm0003452",
+        "known_for_department": "Camera",
+        "name": "Richard Crudo",
+        "place_of_birth": "Brooklyn, New York City, New York, USA",
+        "popularity": 0.0782,
+        "profile_path": "/hXpTq4SeHbimeFTSXczyVhGNqic.jpg"
+    }
+}

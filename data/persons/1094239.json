@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 10895,
+                "original_language": "en",
+                "original_title": "Pinocchio",
+                "overview": "A little wooden puppet yearns to become a real boy.",
+                "popularity": 7.9487,
+                "poster_path": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+                "release_date": "1940-02-23",
+                "title": "Pinocchio",
+                "video": false,
+                "vote_average": 7.099,
+                "vote_count": 6071,
+                "credit_id": "65b13cf115c6360137aa6674",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 756,
+                "original_language": "en",
+                "original_title": "Fantasia",
+                "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+                "popularity": 3.8834,
+                "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+                "release_date": "1940-11-13",
+                "title": "Fantasia",
+                "video": false,
+                "vote_average": 7.348,
+                "vote_count": 3191,
+                "credit_id": "66cb216cd2fa570ea68f40aa",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1094239,
+        "imdb_id": "nm1968474",
+        "known_for_department": "Directing",
+        "name": "Ford Beebe Jr.",
+        "place_of_birth": null,
+        "popularity": 0.512,
+        "profile_path": null
+    }
+}

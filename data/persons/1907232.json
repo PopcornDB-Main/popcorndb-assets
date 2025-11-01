@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+                "genre_ids": [
+                    18,
+                    12,
+                    878
+                ],
+                "id": 286217,
+                "original_language": "en",
+                "original_title": "The Martian",
+                "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+                "popularity": 14.4068,
+                "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+                "release_date": "2015-09-30",
+                "title": "The Martian",
+                "video": false,
+                "vote_average": 7.689,
+                "vote_count": 20451,
+                "credit_id": "5bb912900e0a2634e6015079",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 330459,
+                "original_language": "en",
+                "original_title": "Rogue One: A Star Wars Story",
+                "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+                "popularity": 6.8332,
+                "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+                "release_date": "2016-12-14",
+                "title": "Rogue One: A Star Wars Story",
+                "video": false,
+                "vote_average": 7.501,
+                "vote_count": 15878,
+                "credit_id": "5ed293a7e4b576001f324c1f",
+                "department": "Production",
+                "job": "Production Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1907232,
+        "imdb_id": "nm2476213",
+        "known_for_department": "Production",
+        "name": "Diala Al Raie",
+        "place_of_birth": null,
+        "popularity": 0.0429,
+        "profile_path": null
+    }
+}

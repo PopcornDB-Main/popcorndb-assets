@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/s3E7WrOEgqYvA8ycAccqhtda95i.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    16,
+                    14,
+                    878
+                ],
+                "id": 15359,
+                "original_language": "en",
+                "original_title": "Wonder Woman",
+                "overview": "On the mystical island of Themyscira, a proud and fierce warrior race of Amazons have raised a daughter of untold beauty, grace and strength: Princess Diana. When an Army fighter pilot, Steve Trevor, crash-lands on the island, the rebellious and headstrong Diana defies Amazonian law by accompanying Trevor back to civilization.",
+                "popularity": 1.962,
+                "poster_path": "/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+                "release_date": "2009-03-03",
+                "title": "Wonder Woman",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 592,
+                "credit_id": "60ad0762d132d6002987e809",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jFEy7DClkMm8nGXAwmpe577Vlq0.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    16
+                ],
+                "id": 40662,
+                "original_language": "en",
+                "original_title": "Batman: Under the Red Hood",
+                "overview": "One part vigilante, one part criminal kingpin, Red Hood begins cleaning up Gotham with the efficiency of Batman, but without following the same ethical code.",
+                "popularity": 5.7858,
+                "poster_path": "/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg",
+                "release_date": "2010-07-27",
+                "title": "Batman: Under the Red Hood",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 1664,
+                "credit_id": "5febe06abf7744003f2a79d2",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2916169,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "George Brooks",
+        "place_of_birth": null,
+        "popularity": 0.0713,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    14,
+                    878,
+                    36
+                ],
+                "id": 211387,
+                "original_language": "en",
+                "original_title": "Marvel One-Shot: Agent Carter",
+                "overview": "The film takes place one year after the events of Captain America: The First Avenger, in which Agent Carter, a member of the Strategic Scientific Reserve, is in search of the mysterious Zodiac.",
+                "popularity": 2.2038,
+                "poster_path": "/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
+                "release_date": "2013-10-04",
+                "title": "Marvel One-Shot: Agent Carter",
+                "video": false,
+                "vote_average": 7.241,
+                "vote_count": 824,
+                "credit_id": "58c3f98cc3a3681ab6003936",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284053,
+                "original_language": "en",
+                "original_title": "Thor: Ragnarok",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+                "popularity": 10.4692,
+                "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "release_date": "2017-10-02",
+                "title": "Thor: Ragnarok",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 21412,
+                "credit_id": "5a96caa09251417b0f00bbf8",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    12,
+                    10751
+                ],
+                "id": 698687,
+                "original_language": "en",
+                "original_title": "Transformers One",
+                "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+                "popularity": 11.8506,
+                "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+                "release_date": "2024-09-11",
+                "title": "Transformers One",
+                "video": false,
+                "vote_average": 8.039,
+                "vote_count": 1387,
+                "credit_id": "66d04f87d41af2938ba4861f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 497698,
+                "original_language": "en",
+                "original_title": "Black Widow",
+                "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+                "popularity": 11.1499,
+                "poster_path": "/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+                "release_date": "2021-07-07",
+                "title": "Black Widow",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 10774,
+                "credit_id": "5e1d43eb4df2910011bf6872",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wWqTMWkEw6HouLd1zPZbZWxtAPr.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 399566,
+                "original_language": "en",
+                "original_title": "Godzilla vs. Kong",
+                "overview": "In a time when monsters walk the Earth, humanity\u2019s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+                "popularity": 7.382,
+                "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+                "release_date": "2021-03-24",
+                "title": "Godzilla vs. Kong",
+                "video": false,
+                "vote_average": 7.562,
+                "vote_count": 10325,
+                "credit_id": "600daed6d55c3d003e72fcac",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 986056,
+                "original_language": "en",
+                "original_title": "Thunderbolts*",
+                "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+                "popularity": 41.9303,
+                "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+                "release_date": "2025-04-30",
+                "title": "Thunderbolts*",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 2652,
+                "credit_id": "67ef1e942f7d437027992b63",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 986056,
+                "original_language": "en",
+                "original_title": "Thunderbolts*",
+                "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+                "popularity": 41.9303,
+                "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+                "release_date": "2025-04-30",
+                "title": "Thunderbolts*",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 2652,
+                "credit_id": "67ef1e9ff5a80aa5459924b7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 617126,
+                "original_language": "en",
+                "original_title": "The Fantastic 4: First Steps",
+                "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+                "popularity": 691.9206,
+                "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+                "release_date": "2025-07-22",
+                "title": "The Fantastic 4: First Steps",
+                "video": false,
+                "vote_average": 7.171,
+                "vote_count": 1575,
+                "credit_id": "6866a44e055d0a0cc0705815",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+                "genre_ids": [
+                    878,
+                    12
+                ],
+                "id": 617126,
+                "original_language": "en",
+                "original_title": "The Fantastic 4: First Steps",
+                "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+                "popularity": 691.9206,
+                "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+                "release_date": "2025-07-22",
+                "title": "The Fantastic 4: First Steps",
+                "video": false,
+                "vote_average": 7.171,
+                "vote_count": 1575,
+                "credit_id": "6866a4b8295918d25231fb92",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Eric Pearson\u00a0(born December 14, 1984) is an American\u00a0screenwriter. He is best known for his work with\u00a0Marvel Studios, writing various short films for their\u00a0Marvel One-Shots\u00a0series\u00a0and the feature films\u00a0Thor: Ragnarok\u00a0(2017),\u00a0Black Widow (2021),\u00a0Thunderbolts*\u00a0(2025),\u00a0The Fantastic Four: First Steps\u00a0(2025), and\u00a0Blade. He also contributed to the screenplays for\u00a0Godzilla vs. Kong (2021) and\u00a0Transformers One\u00a0(2024).\n\nDescription above from the Wikipedia article Eric Pearson, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1984-12-14",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 579281,
+        "imdb_id": "nm3069408",
+        "known_for_department": "Writing",
+        "name": "Eric Pearson",
+        "place_of_birth": null,
+        "popularity": 0.5255,
+        "profile_path": "/S2ZAnKX48e4yGZ8nb8f0f6fuTw.jpg"
+    }
+}

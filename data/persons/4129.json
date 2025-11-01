@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.1696,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5728,
+                "credit_id": "52fe4233c3a36847f800b8b3",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    10749
+                ],
+                "id": 11113,
+                "original_language": "en",
+                "original_title": "My Fair Lady",
+                "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+                "popularity": 5.0879,
+                "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+                "release_date": "1964-12-01",
+                "title": "My Fair Lady",
+                "video": false,
+                "vote_average": 7.498,
+                "vote_count": 1369,
+                "credit_id": "5e5a208c9b8616000ff6fdab",
+                "department": "Sound",
+                "job": "Sound"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Francis Scheid",
+            "Fran Scheid",
+            "Fran Sheid",
+            "Francis Shide"
+        ],
+        "biography": "",
+        "birthday": "1907-07-23",
+        "deathday": "1999-06-01",
+        "gender": 2,
+        "homepage": null,
+        "id": 4129,
+        "imdb_id": "nm0770568",
+        "known_for_department": "Sound",
+        "name": "Francis J. Scheid",
+        "place_of_birth": "San Francisco, California, USA",
+        "popularity": 0.0693,
+        "profile_path": null
+    }
+}

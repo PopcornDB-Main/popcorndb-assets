@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 74.3647,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37911,
+                "credit_id": "5bb7f5bb0e0a2677c2000e01",
+                "department": "Visual Effects",
+                "job": "VFX Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 264660,
+                "original_language": "en",
+                "original_title": "Ex Machina",
+                "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+                "popularity": 6.2631,
+                "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+                "release_date": "2015-01-21",
+                "title": "Ex Machina",
+                "video": false,
+                "vote_average": 7.573,
+                "vote_count": 13720,
+                "credit_id": "5bcba006c3a3682399005ed2",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2142855,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Adam Broderick",
+        "place_of_birth": null,
+        "popularity": 0.1006,
+        "profile_path": null
+    }
+}

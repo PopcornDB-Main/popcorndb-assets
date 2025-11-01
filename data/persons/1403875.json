@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/1OK9voMZPeeXZ9OFcT7sUJJxmSw.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 9075,
+                "original_language": "nl",
+                "original_title": "Zwartboek",
+                "overview": "In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.",
+                "popularity": 3.8452,
+                "poster_path": "/gAUAE1WiKjcbrPjpMc99MxBR3U2.jpg",
+                "release_date": "2006-09-14",
+                "title": "Black Book",
+                "video": false,
+                "vote_average": 7.449,
+                "vote_count": 1199,
+                "credit_id": "549c2fc3c3a3682f19003d85",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    80,
+                    53
+                ],
+                "id": 390043,
+                "original_language": "en",
+                "original_title": "The Hitman's Bodyguard",
+                "overview": "The world\u2019s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+                "popularity": 5.5671,
+                "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+                "release_date": "2017-08-16",
+                "title": "The Hitman's Bodyguard",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 6423,
+                "credit_id": "5a2db4420e0a264cc414d83a",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ricky Wiessenhaan"
+        ],
+        "biography": "",
+        "birthday": "1970-10-27",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1403875,
+        "imdb_id": "nm0927669",
+        "known_for_department": "Crew",
+        "name": "Rick Wiessenhaan",
+        "place_of_birth": "Rotterdam, Zuid-Holland, Netherlands",
+        "popularity": 0.6893,
+        "profile_path": null
+    }
+}

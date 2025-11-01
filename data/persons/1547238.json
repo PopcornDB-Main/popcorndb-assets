@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    53
+                ],
+                "id": 718930,
+                "original_language": "en",
+                "original_title": "Bullet Train",
+                "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.",
+                "popularity": 13.3344,
+                "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+                "release_date": "2022-08-03",
+                "title": "Bullet Train",
+                "video": false,
+                "vote_average": 7.426,
+                "vote_count": 6934,
+                "credit_id": "64b31c320e4fc800ad5dc9c2",
+                "department": "Crew",
+                "job": "Utility Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 245891,
+                "original_language": "en",
+                "original_title": "John Wick",
+                "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                "popularity": 10.6452,
+                "poster_path": "/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+                "release_date": "2014-10-22",
+                "title": "John Wick",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 20069,
+                "credit_id": "64ceacb2303c850100b0bc3d",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joshua Seifert",
+            "Josh Siefert"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1547238,
+        "imdb_id": "nm2259454",
+        "known_for_department": "Lighting",
+        "name": "Josh Seifert",
+        "place_of_birth": null,
+        "popularity": 0.3134,
+        "profile_path": null
+    }
+}

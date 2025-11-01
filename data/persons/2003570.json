@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/b6zLmqCKUFBqrc9zmMVT50YWhjK.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    80
+                ],
+                "id": 59,
+                "original_language": "en",
+                "original_title": "A History of Violence",
+                "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+                "popularity": 4.6019,
+                "poster_path": "/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+                "release_date": "2005-09-23",
+                "title": "A History of Violence",
+                "video": false,
+                "vote_average": 7.16,
+                "vote_count": 3483,
+                "credit_id": "63de640ccd2046007970c7bd",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oLsts7ct0NVkdYpx5rZg10MG6zh.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 489,
+                "original_language": "en",
+                "original_title": "Good Will Hunting",
+                "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+                "popularity": 13.8006,
+                "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+                "release_date": "1997-12-05",
+                "title": "Good Will Hunting",
+                "video": false,
+                "vote_average": 8.157,
+                "vote_count": 13115,
+                "credit_id": "677e545bf2c621807dbb0ec9",
+                "department": "Art",
+                "job": "First Assistant Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2003570,
+        "imdb_id": "nm0495901",
+        "known_for_department": "Art",
+        "name": "Gordon Lebredt",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

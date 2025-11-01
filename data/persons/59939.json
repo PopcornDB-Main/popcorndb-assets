@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
+                "genre_ids": [
+                    14,
+                    27,
+                    18,
+                    53
+                ],
+                "id": 9871,
+                "original_language": "en",
+                "original_title": "Ginger Snaps",
+                "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
+                "popularity": 3.1943,
+                "poster_path": "/4NmAtQdttqG4d1jyIK3vJvuyMov.jpg",
+                "release_date": "2001-03-13",
+                "title": "Ginger Snaps",
+                "video": false,
+                "vote_average": 6.906,
+                "vote_count": 930,
+                "credit_id": "52fe453bc3a36847f80c3521",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/drUgiqUfxmCCNZ9i0eeTEPqeDF.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 46838,
+                "original_language": "en",
+                "original_title": "Tucker and Dale vs. Evil",
+                "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+                "popularity": 4.3681,
+                "poster_path": "/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+                "release_date": "2010-01-22",
+                "title": "Tucker and Dale vs. Evil",
+                "video": false,
+                "vote_average": 7.39,
+                "vote_count": 2952,
+                "credit_id": "52fe470fc3a36847f8121407",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 59939,
+        "imdb_id": "nm0793232",
+        "known_for_department": "Sound",
+        "name": "Mike Shields",
+        "place_of_birth": null,
+        "popularity": 0.1415,
+        "profile_path": null
+    }
+}

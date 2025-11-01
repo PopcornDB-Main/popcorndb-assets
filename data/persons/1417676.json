@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 4.4525,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5728,
+                "credit_id": "57584a2b925141718b00054d",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    53
+                ],
+                "id": 963,
+                "original_language": "en",
+                "original_title": "The Maltese Falcon",
+                "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+                "popularity": 2.6835,
+                "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+                "release_date": "1941-10-18",
+                "title": "The Maltese Falcon",
+                "video": false,
+                "vote_average": 7.711,
+                "vote_count": 1778,
+                "credit_id": "642b42a1c0a30800935c8e8f",
+                "department": "Production",
+                "job": "Unit Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1417676,
+        "imdb_id": "nm0020168",
+        "known_for_department": "Directing",
+        "name": "Al Alleborn",
+        "place_of_birth": null,
+        "popularity": 0.0327,
+        "profile_path": null
+    }
+}

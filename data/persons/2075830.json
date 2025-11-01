@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iv1ajZACUGHn4JztG9Z8yvbcmic.jpg",
+                "genre_ids": [
+                    35,
+                    10402
+                ],
+                "id": 1584,
+                "original_language": "en",
+                "original_title": "School of Rock",
+                "overview": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his students the finer points of rock 'n' roll. The school's hard-nosed principal is rightly suspicious of Finn's activities. But Finn's roommate remains in the dark about what he's doing.",
+                "popularity": 4.3931,
+                "poster_path": "/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+                "release_date": "2003-10-03",
+                "title": "School of Rock",
+                "video": false,
+                "vote_average": 7.084,
+                "vote_count": 5885,
+                "credit_id": "5b3817439251413ca602c862",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7aW9IZjpsoTXYEARlnOvTtl6EBr.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1391,
+                "original_language": "es",
+                "original_title": "Y tu mam\u00e1 tambi\u00e9n",
+                "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+                "popularity": 7.9328,
+                "poster_path": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+                "release_date": "2001-06-08",
+                "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+                "video": false,
+                "vote_average": 7.417,
+                "vote_count": 1638,
+                "credit_id": "5eeb1af1db4ed60034caf271",
+                "department": "Sound",
+                "job": "Sound"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2075830,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Michael Holmstrom",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

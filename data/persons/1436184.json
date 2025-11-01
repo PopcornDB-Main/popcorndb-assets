@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 9693,
+                "original_language": "en",
+                "original_title": "Children of Men",
+                "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+                "popularity": 8.3335,
+                "poster_path": "/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+                "release_date": "2006-09-22",
+                "title": "Children of Men",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 7458,
+                "credit_id": "60522de56517d6002926cf53",
+                "department": "Visual Effects",
+                "job": "2D Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ig7qUy7drkEFZNCK7gi0hMn1WMN.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 68726,
+                "original_language": "en",
+                "original_title": "Pacific Rim",
+                "overview": "Using massive piloted robots to combat the alien threat, earth's survivors take the fight to the invading alien force lurking in the depths of the Pacific Ocean. Nearly defenseless in the face of the relentless enemy, the forces of mankind have no choice but to turn to two unlikely heroes who now stand as earth's final hope against the mounting apocalypse.",
+                "popularity": 11.4461,
+                "poster_path": "/mmznhaQDwlHWpUwKuNxtQiubbmM.jpg",
+                "release_date": "2013-07-11",
+                "title": "Pacific Rim",
+                "video": false,
+                "vote_average": 6.911,
+                "vote_count": 12889,
+                "credit_id": "5bfac4710e0a263abe02c1d2",
+                "department": "Visual Effects",
+                "job": "Compositing Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1436184,
+        "imdb_id": "nm1158239",
+        "known_for_department": "Visual Effects",
+        "name": "Jon Bowen",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

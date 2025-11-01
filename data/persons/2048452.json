@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 6.9569,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 6108,
+                "credit_id": "5b0487db0e0a261d9f0007bd",
+                "department": "Art",
+                "job": "Painter"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.8944,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.238,
+                "vote_count": 26759,
+                "credit_id": "5c9c848bc3a368182526548b",
+                "department": "Art",
+                "job": "Paint Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2048452,
+        "imdb_id": null,
+        "known_for_department": "Art",
+        "name": "Larry Clark",
+        "place_of_birth": null,
+        "popularity": 0.0503,
+        "profile_path": null
+    }
+}

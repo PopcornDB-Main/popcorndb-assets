@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 2048,
+                "original_language": "en",
+                "original_title": "I, Robot",
+                "overview": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
+                "popularity": 7.166,
+                "poster_path": "/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
+                "release_date": "2004-07-15",
+                "title": "I, Robot",
+                "video": false,
+                "vote_average": 6.956,
+                "vote_count": 12225,
+                "credit_id": "5c704a280e0a2606dc6ac23f",
+                "department": "Production",
+                "job": "Casting Consultant"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 106,
+                "original_language": "en",
+                "original_title": "Predator",
+                "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                "popularity": 10.7442,
+                "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+                "release_date": "1987-06-12",
+                "title": "Predator",
+                "video": false,
+                "vote_average": 7.54,
+                "vote_count": 8557,
+                "credit_id": "5cf2f5e3c3a3685f111dd293",
+                "department": "Production",
+                "job": "Casting Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Billy Da Mota"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 22055,
+        "imdb_id": "nm0198963",
+        "known_for_department": "Production",
+        "name": "Billy DaMota",
+        "place_of_birth": null,
+        "popularity": 0.1767,
+        "profile_path": null
+    }
+}

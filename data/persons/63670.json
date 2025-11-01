@@ -1,0 +1,191 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/oM5mMTGBqsmMJO3l5tkQdQ0Xujm.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    12
+                ],
+                "id": 10112,
+                "original_language": "en",
+                "original_title": "The Aristocats",
+                "overview": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children\u2014Bonfamille\u2019s beloved family of cats\u2014the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O\u2019Malley Cat and his jazz-playing alley cats come to the aristocats\u2019 rescue.",
+                "popularity": 9.6507,
+                "poster_path": "/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+                "release_date": "1970-12-24",
+                "title": "The Aristocats",
+                "video": false,
+                "vote_average": 7.294,
+                "vote_count": 5229,
+                "credit_id": "52fe43299251416c75005e7f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14
+                ],
+                "id": 10693,
+                "original_language": "en",
+                "original_title": "Peter Pan",
+                "overview": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.",
+                "popularity": 8.6959,
+                "poster_path": "/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
+                "release_date": "1953-02-05",
+                "title": "Peter Pan",
+                "video": false,
+                "vote_average": 7.197,
+                "vote_count": 5565,
+                "credit_id": "607cdbc1713ed4003fdcbddf",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    16,
+                    10749
+                ],
+                "id": 11224,
+                "original_language": "en",
+                "original_title": "Cinderella",
+                "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+                "popularity": 9.7387,
+                "poster_path": "/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+                "release_date": "1950-02-22",
+                "title": "Cinderella",
+                "video": false,
+                "vote_average": 7.046,
+                "vote_count": 6936,
+                "credit_id": "585c4077c3a3687f99000500",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 12092,
+                "original_language": "en",
+                "original_title": "Alice in Wonderland",
+                "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+                "popularity": 11.4294,
+                "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+                "release_date": "1951-07-28",
+                "title": "Alice in Wonderland",
+                "video": false,
+                "vote_average": 7.189,
+                "vote_count": 6066,
+                "credit_id": "5907695cc3a3684a4e0332fa",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q9mF0HhnKT5deOIRAQSFjhLC8c1.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    12,
+                    28
+                ],
+                "id": 420809,
+                "original_language": "en",
+                "original_title": "Maleficent: Mistress of Evil",
+                "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+                "popularity": 7.1581,
+                "poster_path": "/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+                "release_date": "2019-10-16",
+                "title": "Maleficent: Mistress of Evil",
+                "video": false,
+                "vote_average": 7.303,
+                "vote_count": 6304,
+                "credit_id": "5ead741e27d9cc001dcfacaa",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 6.2326,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 5325,
+                "credit_id": "5fb935bfe10f4600410a2837",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 6.2326,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 5325,
+                "credit_id": "68d70a36f1c834ba3038b266",
+                "department": "Sound",
+                "job": "Songs"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Winston Hibler was an American screenwriter, film producer, director, and narrator associated with Walt Disney Studios. Educated at the American Academy of Dramatic Arts, he began his career as a Broadway actor before transitioning to writing for radio, film, and television. Joining Disney in 1942, Hibler contributed as a songwriter, co-writing songs like \"Following the Leader\" from Peter Pan and \"I Wonder\" from Sleeping Beauty. He narrated several of Disney's True-Life Adventures documentaries and produced films such as Nikki, Wild Dog of the North (1961) and The Aristocats (1970). Hibler's versatile contributions significantly shaped Disney's storytelling and musical legacy.",
+        "birthday": "1910-10-08",
+        "deathday": "1976-08-08",
+        "gender": 2,
+        "homepage": null,
+        "id": 63670,
+        "imdb_id": "nm0382548",
+        "known_for_department": "Writing",
+        "name": "Winston Hibler",
+        "place_of_birth": "Harrisburg, Pennsylvania, USA",
+        "popularity": 0.197,
+        "profile_path": null
+    }
+}

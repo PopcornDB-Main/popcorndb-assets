@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    53
+                ],
+                "id": 78,
+                "original_language": "en",
+                "original_title": "Blade Runner",
+                "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+                "popularity": 9.8328,
+                "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+                "release_date": "1982-06-25",
+                "title": "Blade Runner",
+                "video": false,
+                "vote_average": 7.941,
+                "vote_count": 14393,
+                "credit_id": "549e9e559251414bb2006477",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rQEhJmR9SJ2yJUKjD8RDTagVBHy.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 37247,
+                "original_language": "en",
+                "original_title": "The Graduate",
+                "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+                "popularity": 7.2417,
+                "poster_path": "/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+                "release_date": "1967-12-21",
+                "title": "The Graduate",
+                "video": false,
+                "vote_average": 7.632,
+                "vote_count": 3514,
+                "credit_id": "5b3664b29251413c9102ae91",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Al Bettcher"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1404765,
+        "imdb_id": "nm0079281",
+        "known_for_department": "Camera",
+        "name": "Albert Bettcher",
+        "place_of_birth": null,
+        "popularity": 1.1675,
+        "profile_path": null
+    }
+}

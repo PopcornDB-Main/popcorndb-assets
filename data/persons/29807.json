@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    878
+                ],
+                "id": 3035,
+                "original_language": "en",
+                "original_title": "Frankenstein",
+                "overview": "Tampering with life and death, Henry Frankenstein pieces together salvaged body parts to bring a human monster to life; the mad scientist's dreams are shattered by his creation's violent rage as the monster awakens to a world in which he is unwelcome.",
+                "popularity": 4.9564,
+                "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+                "release_date": "1931-11-21",
+                "title": "Frankenstein",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1681,
+                "credit_id": "52fe437fc3a36847f80587f7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cemjdP7HrUyJAry85vRT19Hidbi.jpg",
+                "genre_ids": [
+                    27,
+                    14
+                ],
+                "id": 138,
+                "original_language": "en",
+                "original_title": "Dracula",
+                "overview": "British estate agent Renfield travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a castle in London. After Dracula enslaves Renfield and drives him to insanity, the pair sail to London together and Dracula, a secret vampire, begins preying on London socialites.",
+                "popularity": 3.0967,
+                "poster_path": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
+                "release_date": "1931-02-12",
+                "title": "Dracula",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1287,
+                "credit_id": "5ba81f8dc3a3680e61035889",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1900-06-05",
+        "deathday": "1945-10-26",
+        "gender": 2,
+        "homepage": null,
+        "id": 29807,
+        "imdb_id": "nm0287124",
+        "known_for_department": "Writing",
+        "name": "Garrett Fort",
+        "place_of_birth": null,
+        "popularity": 0.2578,
+        "profile_path": null
+    }
+}

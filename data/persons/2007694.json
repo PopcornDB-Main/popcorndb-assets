@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 10.752,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.73,
+                "vote_count": 10311,
+                "credit_id": "5ab826d5c3a3680a49024a34",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 6.9569,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 6107,
+                "credit_id": "66b3d8f7a7097f8b62f977ff",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2007694,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Henry Schuman",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

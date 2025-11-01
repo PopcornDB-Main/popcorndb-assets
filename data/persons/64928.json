@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/AaWRVwgcrclhAgVNy7zXH7itSRF.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    18
+                ],
+                "id": 11837,
+                "original_language": "en",
+                "original_title": "Watership Down",
+                "overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
+                "popularity": 2.9298,
+                "poster_path": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
+                "release_date": "1978-10-14",
+                "title": "Watership Down",
+                "video": false,
+                "vote_average": 7.191,
+                "vote_count": 660,
+                "credit_id": "608c10e8ac41610040c92eeb",
+                "department": "Sound",
+                "job": "Theme Song Performance"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rQEhJmR9SJ2yJUKjD8RDTagVBHy.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    35
+                ],
+                "id": 37247,
+                "original_language": "en",
+                "original_title": "The Graduate",
+                "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+                "popularity": 6.7869,
+                "poster_path": "/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg",
+                "release_date": "1967-12-21",
+                "title": "The Graduate",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 3514,
+                "credit_id": "5b366b400e0a26400402d57e",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Simon and Garfunkel",
+            "Arthur Ira Garfunkel",
+            "Arthur Garfunkel",
+            "Simon & Garfunkel"
+        ],
+        "biography": "Arthur Ira Garfunkel (born November 5, 1941) is an American singer, poet, and actor. He is best known for his partnership with Paul Simon in the folk rock duo Simon & Garfunkel.",
+        "birthday": "1941-11-05",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 64928,
+        "imdb_id": "nm0307316",
+        "known_for_department": "Acting",
+        "name": "Art Garfunkel",
+        "place_of_birth": "Forest Hills, Queens, New York City, New York, USA",
+        "popularity": 0.1883,
+        "profile_path": "/sNssWMf5FyPmr0Wt9ZYmMemAqsF.jpg"
+    }
+}

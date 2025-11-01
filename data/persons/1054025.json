@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/eOn6EtViFLxXAmPPjJR861Dx4PX.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    53
+                ],
+                "id": 290,
+                "original_language": "en",
+                "original_title": "Barton Fink",
+                "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+                "popularity": 3.123,
+                "poster_path": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+                "release_date": "1991-08-01",
+                "title": "Barton Fink",
+                "video": false,
+                "vote_average": 7.454,
+                "vote_count": 1767,
+                "credit_id": "52fe4233c3a36847f800b9b5",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1054025,
+        "imdb_id": "nm0244171",
+        "known_for_department": "Production",
+        "name": "Bill Durkin",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

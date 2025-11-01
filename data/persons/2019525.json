@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 10.9225,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19984,
+                "credit_id": "602da480c3bffe004034ffa3",
+                "department": "Art",
+                "job": "Draughtsman"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    878
+                ],
+                "id": 533535,
+                "original_language": "en",
+                "original_title": "Deadpool & Wolverine",
+                "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+                "popularity": 31.6168,
+                "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+                "release_date": "2024-07-24",
+                "title": "Deadpool & Wolverine",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 7764,
+                "credit_id": "66ddf7080bcea093a7787d8c",
+                "department": "Art",
+                "job": "Draughtsman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2019525,
+        "imdb_id": "nm2619020",
+        "known_for_department": "Art",
+        "name": "Gavin Dean",
+        "place_of_birth": null,
+        "popularity": 0.1393,
+        "profile_path": null
+    }
+}

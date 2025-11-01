@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6MmYsaK6poR8f4R8jsBnJBU5tfd.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 400928,
+                "original_language": "en",
+                "original_title": "Gifted",
+                "overview": "Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
+                "popularity": 6.3668,
+                "poster_path": "/9Ts7Vc4wLlpI9oox9mkVUE1tBHy.jpg",
+                "release_date": "2017-04-07",
+                "title": "Gifted",
+                "video": false,
+                "vote_average": 8.004,
+                "vote_count": 5749,
+                "credit_id": "5e5ed9c6303c8500153d80ae",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1199415,
+        "imdb_id": "nm1048451",
+        "known_for_department": "Camera",
+        "name": "Richard Henkels",
+        "place_of_birth": null,
+        "popularity": 0.0281,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 453395,
+                "original_language": "en",
+                "original_title": "Doctor Strange in the Multiverse of Madness",
+                "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+                "popularity": 16.2004,
+                "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+                "release_date": "2022-05-04",
+                "title": "Doctor Strange in the Multiverse of Madness",
+                "video": false,
+                "vote_average": 7.244,
+                "vote_count": 9800,
+                "credit_id": "6275aacd63a695004fd32f50",
+                "department": "Art",
+                "job": "Art Department Assistant"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 497698,
+                "original_language": "en",
+                "original_title": "Black Widow",
+                "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+                "popularity": 9.5092,
+                "poster_path": "/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+                "release_date": "2021-07-07",
+                "title": "Black Widow",
+                "video": false,
+                "vote_average": 7.19,
+                "vote_count": 10786,
+                "credit_id": "5d618fc554f6eb00149bb24f",
+                "department": "Art",
+                "job": "Art Department Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2395151,
+        "imdb_id": null,
+        "known_for_department": "Art",
+        "name": "Austin Huntley",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

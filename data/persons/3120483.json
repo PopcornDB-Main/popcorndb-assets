@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+                "genre_ids": [
+                    53,
+                    27,
+                    9648
+                ],
+                "id": 399366,
+                "original_language": "es",
+                "original_title": "El secreto de Marrowbone",
+                "overview": "A young man and his three younger siblings are plagued by a sinister presence in the sprawling manor in which they live.",
+                "popularity": 3.44,
+                "poster_path": "/iX77zMSqUv2Qt7ToEnN2mmEudEf.jpg",
+                "release_date": "2017-10-27",
+                "title": "Marrowbone",
+                "video": false,
+                "vote_average": 7.28,
+                "vote_count": 1714,
+                "credit_id": "60c2179c5ab81a003f8c0336",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3120483,
+        "imdb_id": null,
+        "known_for_department": "Directing",
+        "name": "F. Javier Soto",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

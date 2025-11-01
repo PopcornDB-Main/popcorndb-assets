@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 615777,
+                "original_language": "en",
+                "original_title": "Babylon",
+                "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+                "popularity": 7.3561,
+                "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+                "release_date": "2022-12-22",
+                "title": "Babylon",
+                "video": false,
+                "vote_average": 7.381,
+                "vote_count": 3497,
+                "credit_id": "60eab25ba14e10005e9ba4d7",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 68734,
+                "original_language": "en",
+                "original_title": "Argo",
+                "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+                "popularity": 4.1469,
+                "poster_path": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+                "release_date": "2012-10-11",
+                "title": "Argo",
+                "video": false,
+                "vote_average": 7.28,
+                "vote_count": 8607,
+                "credit_id": "54919ef792514102f60017f2",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    878
+                ],
+                "id": 274870,
+                "original_language": "en",
+                "original_title": "Passengers",
+                "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+                "popularity": 3.7456,
+                "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+                "release_date": "2016-12-21",
+                "title": "Passengers",
+                "video": false,
+                "vote_average": 6.953,
+                "vote_count": 13758,
+                "credit_id": "5bbf92610e0a266e6b004739",
+                "department": "Production",
+                "job": "Location Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 228981,
+        "imdb_id": "nm0002744",
+        "known_for_department": "Production",
+        "name": "Chris Baugh",
+        "place_of_birth": null,
+        "popularity": 0.0626,
+        "profile_path": null
+    }
+}

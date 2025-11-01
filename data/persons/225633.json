@@ -1,0 +1,187 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 23168,
+                "original_language": "en",
+                "original_title": "The Town",
+                "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her \u2013 but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
+                "popularity": 8.109,
+                "poster_path": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+                "release_date": "2010-09-15",
+                "title": "The Town",
+                "video": false,
+                "vote_average": 7.219,
+                "vote_count": 5316,
+                "credit_id": "52fe4461c3a368484e01fadf",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kBSSbN1sOiJtXjAGVZXxHJR9Kox.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 361743,
+                "original_language": "en",
+                "original_title": "Top Gun: Maverick",
+                "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+                "popularity": 19.1658,
+                "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+                "release_date": "2022-05-21",
+                "title": "Top Gun: Maverick",
+                "video": false,
+                "vote_average": 8.168,
+                "vote_count": 10205,
+                "credit_id": "625f51717fcab300a6abb2c8",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 414906,
+                "original_language": "en",
+                "original_title": "The Batman",
+                "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+                "popularity": 19.6912,
+                "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+                "release_date": "2022-03-01",
+                "title": "The Batman",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 11243,
+                "credit_id": "629559dcf54836009b4ac915",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 645886,
+                "original_language": "en",
+                "original_title": "The Unforgivable",
+                "overview": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
+                "popularity": 5.7061,
+                "poster_path": "/1b3dNFDuE7i05TJlXrIC571yR01.jpg",
+                "release_date": "2021-11-24",
+                "title": "The Unforgivable",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 1913,
+                "credit_id": "615858b3ec18790062c57d94",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qVgLMRVNB5bHU0inmRa0ueShacN.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 131634,
+                "original_language": "en",
+                "original_title": "The Hunger Games: Mockingjay - Part 2",
+                "overview": "As the war between the Capitol and the districts reaches its peak, Katniss Everdeen embarks on a perilous mission to liberate Panem and confront President Snow. Joined by a team of trusted allies, she navigates deadly traps, shifting loyalties, and the heavy cost of rebellion, determined to bring freedom to her people and end the Hunger Games once and for all.",
+                "popularity": 8.1523,
+                "poster_path": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
+                "release_date": "2015-11-18",
+                "title": "The Hunger Games: Mockingjay - Part 2",
+                "video": false,
+                "vote_average": 6.897,
+                "vote_count": 12941,
+                "credit_id": "551e5645c3a3682eaf0021aa",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    80
+                ],
+                "id": 38700,
+                "original_language": "en",
+                "original_title": "Bad Boys for Life",
+                "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+                "popularity": 8.1046,
+                "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+                "release_date": "2020-01-15",
+                "title": "Bad Boys for Life",
+                "video": false,
+                "vote_average": 7.131,
+                "vote_count": 8502,
+                "credit_id": "5e7d89286c74b94ca5caff93",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    80
+                ],
+                "id": 38700,
+                "original_language": "en",
+                "original_title": "Bad Boys for Life",
+                "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+                "popularity": 8.1046,
+                "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+                "release_date": "2020-01-15",
+                "title": "Bad Boys for Life",
+                "video": false,
+                "vote_average": 7.131,
+                "vote_count": 8502,
+                "credit_id": "5e7d890e6c74b94e95cb7c52",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\ud53c\ud130 \ud06c\ub808\uc774\uadf8",
+            "\u067e\u06cc\u062a\u0631 \u06a9\u0631\u06cc\u06af",
+            "Peter Craig",
+            "\u0628\u064a\u062a\u0631 \u0643\u0631\u0627\u064a\u063a"
+        ],
+        "biography": "Peter Craig (born November 10, 1969)[1] is an American novelist and screenwriter. He is best known for co-writing the screenplays to The Town (2010), The Batman, and Top Gun: Maverick (both 2022), earning an Academy Award nomination for the lattermost.",
+        "birthday": "1969-11-10",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 225633,
+        "imdb_id": "nm0185976",
+        "known_for_department": "Writing",
+        "name": "Peter Craig",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.9681,
+        "profile_path": "/5r0nnz5JJ8bIiUfcK2TaasmJm3h.jpg"
+    }
+}

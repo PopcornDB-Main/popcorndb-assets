@@ -1,0 +1,343 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 6.9569,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 6108,
+                "credit_id": "624b4f44fad8e9006388243e",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Effects Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    878
+                ],
+                "id": 1091,
+                "original_language": "en",
+                "original_title": "The Thing",
+                "overview": "A twelve-man team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror...And becomes one of them.",
+                "popularity": 9.2855,
+                "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+                "release_date": "1982-06-25",
+                "title": "The Thing",
+                "video": false,
+                "vote_average": 8.069,
+                "vote_count": 7460,
+                "credit_id": "60b170ffdff66e0040421015",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Effects Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bHjrGR0Fzn4QEBhvjiwdyMPaYVH.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    27
+                ],
+                "id": 1813,
+                "original_language": "en",
+                "original_title": "The Devil's Advocate",
+                "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+                "popularity": 10.0186,
+                "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+                "release_date": "1997-10-17",
+                "title": "The Devil's Advocate",
+                "video": false,
+                "vote_average": 7.469,
+                "vote_count": 6402,
+                "credit_id": "60b1761c52dc7f0041107a46",
+                "department": "Crew",
+                "job": "Visual Effects Design Consultant"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 9.3529,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 4787,
+                "credit_id": "60b16fe38813e40058147352",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/plWyKqUIenzqFjMrs1gu7Gjygfq.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 402,
+                "original_language": "en",
+                "original_title": "Basic Instinct",
+                "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+                "popularity": 6.0387,
+                "poster_path": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+                "release_date": "1992-03-20",
+                "title": "Basic Instinct",
+                "video": false,
+                "vote_average": 6.928,
+                "vote_count": 4134,
+                "credit_id": "60b17389957e6d0057418b50",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Effects Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 550,
+                "original_language": "en",
+                "original_title": "Fight Club",
+                "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+                "popularity": 38.6971,
+                "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+                "release_date": "1999-10-15",
+                "title": "Fight Club",
+                "video": false,
+                "vote_average": 8.438,
+                "vote_count": 30789,
+                "credit_id": "60b1742c8ee49c003fe09c21",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+                "genre_ids": [
+                    80,
+                    9648,
+                    53
+                ],
+                "id": 807,
+                "original_language": "en",
+                "original_title": "Se7en",
+                "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+                "popularity": 18.9591,
+                "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+                "release_date": "1995-09-22",
+                "title": "Se7en",
+                "video": false,
+                "vote_average": 8.376,
+                "vote_count": 22125,
+                "credit_id": "651f52def04d0100e29da3f7",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Effects Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 5.7384,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 5434,
+                "credit_id": "54e5f080c3a36816cb001e37",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hUzs26surgYxbHATjyDIyWat6ZL.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    35
+                ],
+                "id": 1878,
+                "original_language": "en",
+                "original_title": "Fear and Loathing in Las Vegas",
+                "overview": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+                "popularity": 5.0911,
+                "poster_path": "/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+                "release_date": "1998-05-22",
+                "title": "Fear and Loathing in Las Vegas",
+                "video": false,
+                "vote_average": 7.211,
+                "vote_count": 4798,
+                "credit_id": "573a3e01c3a36806b4000b73",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 954,
+                "original_language": "en",
+                "original_title": "Mission: Impossible",
+                "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+                "popularity": 11.1082,
+                "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+                "release_date": "1996-05-22",
+                "title": "Mission: Impossible",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 9544,
+                "credit_id": "59b7bd31c3a368157b00bb89",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 5.7384,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 5434,
+                "credit_id": "5a9aaf3f0e0a2605c601df40",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 5548,
+                "original_language": "en",
+                "original_title": "RoboCop",
+                "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+                "popularity": 5.7384,
+                "poster_path": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+                "release_date": "1987-07-17",
+                "title": "RoboCop",
+                "video": false,
+                "vote_average": 7.347,
+                "vote_count": 5434,
+                "credit_id": "5a9aadfdc3a3680b5701f567",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Effects Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 6.9569,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 6108,
+                "credit_id": "66b3d020b2d1c55c796f0ef2",
+                "department": "Visual Effects",
+                "job": "Character Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+                "genre_ids": [
+                    27,
+                    9648,
+                    878
+                ],
+                "id": 1091,
+                "original_language": "en",
+                "original_title": "The Thing",
+                "overview": "A twelve-man team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror...And becomes one of them.",
+                "popularity": 9.2855,
+                "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+                "release_date": "1982-06-25",
+                "title": "The Thing",
+                "video": false,
+                "vote_average": 8.069,
+                "vote_count": 7460,
+                "credit_id": "5d8e800679b3d400278b07ac",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Robin Bottin"
+        ],
+        "biography": "Robin R. Bottin is an American special make-up effects creator. Known for his collaborations with directors John Carpenter, Paul Verhoeven and David Fincher, Bottin worked with Carpenter on both The Fog and The Thing, with Verhoeven on RoboCop, Total Recall and Basic Instinct, and with Fincher on Se7en and Fight Club. His many other film credits include The Howling, Legend, Innerspace and Fear and Loathing in Las Vegas.\n\nWell respected in his field of prosthetic makeup (better known as special make-up effects), and described in 2013 as a \"special effects genius\", Bottin was nominated for an Oscar in 1986 for Best Makeup, and was awarded a Special Achievement Academy Award at the 1991 Academy Awards. He has two BAFTA nominations, and won two Saturn Awards with five further nominations.\n\nDescription above from the Wikipedia article Rob Bottin, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1959-04-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 101608,
+        "imdb_id": "nm0001964",
+        "known_for_department": "Crew",
+        "name": "Rob Bottin",
+        "place_of_birth": "El Monte, California, USA",
+        "popularity": 0.2687,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 74.3647,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37912,
+                "credit_id": "5bb7ed8fc3a36865de000455",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 335984,
+                "original_language": "en",
+                "original_title": "Blade Runner 2049",
+                "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+                "popularity": 19.2537,
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "release_date": "2017-10-04",
+                "title": "Blade Runner 2049",
+                "video": false,
+                "vote_average": 7.587,
+                "vote_count": 14406,
+                "credit_id": "5bc44a380e0a266e6b058e62",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2142820,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Thomas Salama",
+        "place_of_birth": null,
+        "popularity": 0.0798,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 85,
+                "original_language": "en",
+                "original_title": "Raiders of the Lost Ark",
+                "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+                "popularity": 10.971,
+                "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "release_date": "1981-06-12",
+                "title": "Raiders of the Lost Ark",
+                "video": false,
+                "vote_average": 7.925,
+                "vote_count": 13079,
+                "credit_id": "5716c865c3a3685eb8000cd8",
+                "department": "Crew",
+                "job": "Driver"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 857,
+                "original_language": "en",
+                "original_title": "Saving Private Ryan",
+                "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+                "popularity": 13.2074,
+                "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+                "release_date": "1998-07-24",
+                "title": "Saving Private Ryan",
+                "video": false,
+                "vote_average": 8.22,
+                "vote_count": 16534,
+                "credit_id": "5c649f660e0a267dfd9ab56f",
+                "department": "Camera",
+                "job": "Camera Car"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1429381,
+        "imdb_id": "nm0653043",
+        "known_for_department": "Crew",
+        "name": "John Ott",
+        "place_of_birth": null,
+        "popularity": 0.7841,
+        "profile_path": null
+    }
+}

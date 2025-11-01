@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+                "genre_ids": [
+                    37,
+                    28,
+                    12
+                ],
+                "id": 966,
+                "original_language": "en",
+                "original_title": "The Magnificent Seven",
+                "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+                "popularity": 7.6212,
+                "poster_path": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+                "release_date": "1960-10-12",
+                "title": "The Magnificent Seven",
+                "video": false,
+                "vote_average": 7.508,
+                "vote_count": 1878,
+                "credit_id": "52fe4294c3a36847f8029c1d",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b4VAgPHGL33OA5QNZCYi0jU5Nma.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 800,
+                "original_language": "es",
+                "original_title": "Los olvidados",
+                "overview": "A group of juvenile delinquents live a violent life in the infamous slums of Mexico City; among them Pedro, whose morality is gradually corrupted and destroyed by the others.",
+                "popularity": 2.7949,
+                "poster_path": "/cDCvmYoyqFg4CuSMtGMvCpfOIEw.jpg",
+                "release_date": "1950-12-09",
+                "title": "The Young and the Damned",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 507,
+                "credit_id": "52fe4278c3a36847f80212b1",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 11970,
+        "imdb_id": "nm0280224",
+        "known_for_department": "Art",
+        "name": "Edward Fitzgerald",
+        "place_of_birth": null,
+        "popularity": 0.0709,
+        "profile_path": null
+    }
+}

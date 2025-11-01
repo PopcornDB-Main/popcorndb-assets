@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 245891,
+                "original_language": "en",
+                "original_title": "John Wick",
+                "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                "popularity": 10.1249,
+                "poster_path": "/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+                "release_date": "2014-10-22",
+                "title": "John Wick",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 20060,
+                "credit_id": "61c3969c9f51af00860ece84",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 314365,
+                "original_language": "en",
+                "original_title": "Spotlight",
+                "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+                "popularity": 3.4962,
+                "poster_path": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+                "release_date": "2015-11-06",
+                "title": "Spotlight",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 8490,
+                "credit_id": "566c2aa4c3a36836b400bab6",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53
+                ],
+                "id": 302401,
+                "original_language": "en",
+                "original_title": "Snowden",
+                "overview": "CIA employee Edward Snowden leaks thousands of classified documents to the press.",
+                "popularity": 2.3086,
+                "poster_path": "/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg",
+                "release_date": "2016-09-15",
+                "title": "Snowden",
+                "video": false,
+                "vote_average": 7.106,
+                "vote_count": 4472,
+                "credit_id": "5f5a756fda10f000398ee447",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1548066,
+        "imdb_id": "nm4498662",
+        "known_for_department": "Production",
+        "name": "Peter Lawson",
+        "place_of_birth": null,
+        "popularity": 0.0707,
+        "profile_path": null
+    }
+}

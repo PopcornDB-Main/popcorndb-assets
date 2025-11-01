@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+                "genre_ids": [
+                    37,
+                    28,
+                    12
+                ],
+                "id": 966,
+                "original_language": "en",
+                "original_title": "The Magnificent Seven",
+                "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+                "popularity": 5.9755,
+                "poster_path": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+                "release_date": "1960-10-12",
+                "title": "The Magnificent Seven",
+                "video": false,
+                "vote_average": 7.507,
+                "vote_count": 1879,
+                "credit_id": "56f9d3ce9251414df1000857",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+                "genre_ids": [
+                    10749,
+                    27
+                ],
+                "id": 6114,
+                "original_language": "en",
+                "original_title": "Bram Stoker's Dracula",
+                "overview": "In 19th century England, Count Dracula travels to London and meets Mina Harker, a young woman who appears as the reincarnation of his lost love.",
+                "popularity": 9.158,
+                "poster_path": "/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+                "release_date": "1992-11-13",
+                "title": "Bram Stoker's Dracula",
+                "video": false,
+                "vote_average": 7.444,
+                "vote_count": 5457,
+                "credit_id": "5ffc2fd5c3c89100426f5fb9",
+                "department": "Production",
+                "job": "Co-Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1920-06-22",
+        "deathday": "1998-12-08",
+        "gender": 2,
+        "homepage": null,
+        "id": 29856,
+        "imdb_id": "nm0892109",
+        "known_for_department": "Production",
+        "name": "John Veitch",
+        "place_of_birth": "Queens, New York, USA",
+        "popularity": 0.0728,
+        "profile_path": null
+    }
+}

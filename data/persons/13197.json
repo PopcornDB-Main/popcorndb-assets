@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 615,
+                "original_language": "en",
+                "original_title": "The Passion of the Christ",
+                "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+                "popularity": 7.6162,
+                "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+                "release_date": "2004-02-25",
+                "title": "The Passion of the Christ",
+                "video": false,
+                "vote_average": 7.517,
+                "vote_count": 4921,
+                "credit_id": "57155188c3a3682f45001294",
+                "department": "Editing",
+                "job": "Digital Intermediate"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    9648
+                ],
+                "id": 11324,
+                "original_language": "en",
+                "original_title": "Shutter Island",
+                "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+                "popularity": 14.008,
+                "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+                "release_date": "2010-02-14",
+                "title": "Shutter Island",
+                "video": false,
+                "vote_average": 8.201,
+                "vote_count": 24903,
+                "credit_id": "5af09aa40e0a261d9d014c7b",
+                "department": "Editing",
+                "job": "Digital Intermediate"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 13197,
+        "imdb_id": "nm1249236",
+        "known_for_department": "Editing",
+        "name": "Chris Taft",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

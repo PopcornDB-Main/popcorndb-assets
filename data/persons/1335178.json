@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 9693,
+                "original_language": "en",
+                "original_title": "Children of Men",
+                "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+                "popularity": 8.3335,
+                "poster_path": "/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+                "release_date": "2006-09-22",
+                "title": "Children of Men",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 7458,
+                "credit_id": "6050e635031deb0054e555f9",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+                "genre_ids": [
+                    27,
+                    18,
+                    9648
+                ],
+                "id": 530385,
+                "original_language": "en",
+                "original_title": "Midsommar",
+                "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+                "popularity": 7.7959,
+                "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+                "release_date": "2019-07-03",
+                "title": "Midsommar",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 7620,
+                "credit_id": "5cf5a8329251415f8eb91044",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1335178,
+        "imdb_id": "nm1391869",
+        "known_for_department": "Art",
+        "name": "Henrik Svensson",
+        "place_of_birth": null,
+        "popularity": 0.0362,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+                "genre_ids": [
+                    28,
+                    10752,
+                    36
+                ],
+                "id": 522162,
+                "original_language": "en",
+                "original_title": "Midway",
+                "overview": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.",
+                "popularity": 8.6426,
+                "poster_path": "/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+                "release_date": "2019-11-06",
+                "title": "Midway",
+                "video": false,
+                "vote_average": 7.11,
+                "vote_count": 2586,
+                "credit_id": "5e666472459ad600185ae2d9",
+                "department": "Art",
+                "job": "Leadman"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 316029,
+                "original_language": "en",
+                "original_title": "The Greatest Showman",
+                "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+                "popularity": 6.994,
+                "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+                "release_date": "2017-12-20",
+                "title": "The Greatest Showman",
+                "video": false,
+                "vote_average": 7.872,
+                "vote_count": 9748,
+                "credit_id": "5f92c6e3f96a39003482130b",
+                "department": "Art",
+                "job": "Leadman"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 718032,
+                "original_language": "en",
+                "original_title": "Licorice Pizza",
+                "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+                "popularity": 9.1397,
+                "poster_path": "/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+                "release_date": "2021-11-26",
+                "title": "Licorice Pizza",
+                "video": false,
+                "vote_average": 6.959,
+                "vote_count": 2462,
+                "credit_id": "66f39046338357c70a69db6a",
+                "department": "Art",
+                "job": "Set Dresser"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Nick Raymond",
+            "Nick Rymond"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1789912,
+        "imdb_id": "nm0753390",
+        "known_for_department": "Art",
+        "name": "Nicholas Rymond",
+        "place_of_birth": null,
+        "popularity": 0.0683,
+        "profile_path": null
+    }
+}

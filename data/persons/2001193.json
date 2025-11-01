@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    36
+                ],
+                "id": 614934,
+                "original_language": "en",
+                "original_title": "Elvis",
+                "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+                "popularity": 4.8896,
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "release_date": "2022-06-22",
+                "title": "Elvis",
+                "video": false,
+                "vote_average": 7.482,
+                "vote_count": 3680,
+                "credit_id": "620ea3499824c8001bdd6d69",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5mQZqk2qSJCsYmvw1cQJLEcLNYM.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 64682,
+                "original_language": "en",
+                "original_title": "The Great Gatsby",
+                "overview": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
+                "popularity": 7.5363,
+                "poster_path": "/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+                "release_date": "2013-05-09",
+                "title": "The Great Gatsby",
+                "video": false,
+                "vote_average": 7.361,
+                "vote_count": 12619,
+                "credit_id": "5f3c728a982f740037652ed9",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2001193,
+        "imdb_id": "nm0975108",
+        "known_for_department": "Editing",
+        "name": "Jonathan Redmond",
+        "place_of_birth": null,
+        "popularity": 0.0261,
+        "profile_path": null
+    }
+}

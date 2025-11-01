@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yhfHeIsR5Ki02b5SqBuLqAsLDCk.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648
+                ],
+                "id": 3009,
+                "original_language": "en",
+                "original_title": "Le Proc\u00e8s",
+                "overview": "The surreal tale of an unassuming man who is accused of a never-specified crime and shambles through bizarre encounters to escape this nightmare.",
+                "popularity": 1.889,
+                "poster_path": "/2o1oe54a4doiwB4uJq9Kx1RHal0.jpg",
+                "release_date": "1962-08-25",
+                "title": "The Trial",
+                "video": false,
+                "vote_average": 7.433,
+                "vote_count": 526,
+                "credit_id": "5befd66a0e0a26266602ecb0",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1548518,
+        "imdb_id": null,
+        "known_for_department": "Camera",
+        "name": "Max Dulac",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

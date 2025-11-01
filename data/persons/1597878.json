@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+                "genre_ids": [
+                    37,
+                    28,
+                    12
+                ],
+                "id": 966,
+                "original_language": "en",
+                "original_title": "The Magnificent Seven",
+                "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+                "popularity": 5.6448,
+                "poster_path": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+                "release_date": "1960-10-12",
+                "title": "The Magnificent Seven",
+                "video": false,
+                "vote_average": 7.507,
+                "vote_count": 1879,
+                "credit_id": "56f9e030c3a368192e000c2b",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rgy1Nf2kf7UodG4BI6awfQqttac.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    10752
+                ],
+                "id": 907,
+                "original_language": "en",
+                "original_title": "Doctor Zhivago",
+                "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+                "popularity": 4.1584,
+                "poster_path": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+                "release_date": "1965-12-22",
+                "title": "Doctor Zhivago",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1207,
+                "credit_id": "57bdcc81c3a3687cf80016dd",
+                "department": "Sound",
+                "job": "Additional Soundtrack"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gPqtCp55HWsJ2f3fEPsoXD77KQx.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 11349,
+                "original_language": "en",
+                "original_title": "Cape Fear",
+                "overview": "Sam Bowden witnesses a rape committed by Max Cady and testifies against him. When released after 8 years in prison, Cady begins stalking Bowden and his family but is always clever enough not to violate the law.",
+                "popularity": 4.2008,
+                "poster_path": "/xDqaHjMbnebtB05QWgAR8wW86sb.jpg",
+                "release_date": "1962-04-12",
+                "title": "Cape Fear",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 595,
+                "credit_id": "57bdccefc3a3682eac014ede",
+                "department": "Sound",
+                "job": "Additional Soundtrack"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1597878,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Robert Bain",
+        "place_of_birth": null,
+        "popularity": 0.0643,
+        "profile_path": null
+    }
+}

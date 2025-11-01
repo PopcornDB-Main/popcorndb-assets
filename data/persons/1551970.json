@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rk56vslwBXUCcNlQ74s6gmpJqxa.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 9322,
+                "original_language": "fr",
+                "original_title": "Nikita",
+                "overview": "A beautiful felon, sentenced to life in prison for the murder of a policeman, is given a second chance \u2013 as a secret political assassin controlled by the government.",
+                "popularity": 4.0431,
+                "poster_path": "/1ulQDewUG4KKHOhpXdGKm3GdLFq.jpg",
+                "release_date": "1990-02-21",
+                "title": "Nikita",
+                "video": false,
+                "vote_average": 7.094,
+                "vote_count": 2043,
+                "credit_id": "62b9ca71356a710061db8d85",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 194,
+                "original_language": "fr",
+                "original_title": "Le Fabuleux Destin d'Am\u00e9lie Poulain",
+                "overview": "At a tiny Parisian caf\u00e9, the adorable yet painfully shy Am\u00e9lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+                "popularity": 8.4036,
+                "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+                "release_date": "2001-04-25",
+                "title": "Am\u00e9lie",
+                "video": false,
+                "vote_average": 7.913,
+                "vote_count": 11945,
+                "credit_id": "587340efc3a3681731006633",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1551970,
+        "imdb_id": "nm0890844",
+        "known_for_department": "Directing",
+        "name": "Christophe Vassort",
+        "place_of_birth": null,
+        "popularity": 0.0363,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 718032,
+                "original_language": "en",
+                "original_title": "Licorice Pizza",
+                "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+                "popularity": 8.3988,
+                "poster_path": "/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+                "release_date": "2021-11-26",
+                "title": "Licorice Pizza",
+                "video": false,
+                "vote_average": 6.959,
+                "vote_count": 2461,
+                "credit_id": "60bfa572d7fbda006f95a786",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.0376,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.049,
+                "vote_count": 10741,
+                "credit_id": "638a6ccc15376c00834acb3f",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 491418,
+                "original_language": "en",
+                "original_title": "Instant Family",
+                "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+                "popularity": 4.5073,
+                "poster_path": "/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+                "release_date": "2018-11-13",
+                "title": "Instant Family",
+                "video": false,
+                "vote_average": 7.512,
+                "vote_count": 3103,
+                "credit_id": "60215fce6dc507003fbec818",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2810459,
+        "imdb_id": "nm2733182",
+        "known_for_department": "Editing",
+        "name": "Jay Trautman",
+        "place_of_birth": null,
+        "popularity": 0.0586,
+        "profile_path": null
+    }
+}

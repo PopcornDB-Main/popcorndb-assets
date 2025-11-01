@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    53,
+                    9648,
+                    10749
+                ],
+                "id": 251,
+                "original_language": "en",
+                "original_title": "Ghost",
+                "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+                "popularity": 7.159,
+                "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+                "release_date": "1990-07-13",
+                "title": "Ghost",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 5786,
+                "credit_id": "653355c34d23dd013a1bd686",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 87,
+                "original_language": "en",
+                "original_title": "Indiana Jones and the Temple of Doom",
+                "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees \u2013 and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+                "popularity": 7.4289,
+                "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+                "release_date": "1984-05-23",
+                "title": "Indiana Jones and the Temple of Doom",
+                "video": false,
+                "vote_average": 7.301,
+                "vote_count": 9721,
+                "credit_id": "6533565439549a012cc61f2a",
+                "department": "Sound",
+                "job": "Assistant Sound Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1862956,
+        "imdb_id": "nm0914715",
+        "known_for_department": "Editing",
+        "name": "John Watson",
+        "place_of_birth": null,
+        "popularity": 0.0632,
+        "profile_path": null
+    }
+}

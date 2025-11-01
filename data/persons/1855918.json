@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+                "genre_ids": [
+                    10749,
+                    14,
+                    16
+                ],
+                "id": 3933,
+                "original_language": "en",
+                "original_title": "Corpse Bride",
+                "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+                "popularity": 29.7264,
+                "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+                "release_date": "2005-09-12",
+                "title": "Corpse Bride",
+                "video": false,
+                "vote_average": 7.583,
+                "vote_count": 9713,
+                "credit_id": "5abe57a0925141602a0111dd",
+                "department": "Crew",
+                "job": "Compositors"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 24428,
+                "original_language": "en",
+                "original_title": "The Avengers",
+                "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                "popularity": 45.229,
+                "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+                "release_date": "2012-04-25",
+                "title": "The Avengers",
+                "video": false,
+                "vote_average": 7.81,
+                "vote_count": 33162,
+                "credit_id": "5abf9a389251416027029981",
+                "department": "Visual Effects",
+                "job": "Digital Compositors"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "David Michael Scott",
+            "David Scott"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1855918,
+        "imdb_id": "nm1881836",
+        "known_for_department": "Visual Effects",
+        "name": "David M. Scott",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

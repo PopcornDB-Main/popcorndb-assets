@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cHIntxWWk3yZi3jM0HnLchBvwvT.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 475,
+                "original_language": "en",
+                "original_title": "Bonnie and Clyde",
+                "overview": "In the 1930s, bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+                "popularity": 3.3088,
+                "poster_path": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+                "release_date": "1967-08-13",
+                "title": "Bonnie and Clyde",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1705,
+                "credit_id": "56a114b0c3a36858e500f9fe",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    80
+                ],
+                "id": 11576,
+                "original_language": "en",
+                "original_title": "It's a Mad, Mad, Mad, Mad World",
+                "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+                "popularity": 3.1788,
+                "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+                "release_date": "1963-11-07",
+                "title": "It's a Mad, Mad, Mad, Mad World",
+                "video": false,
+                "vote_average": 6.972,
+                "vote_count": 639,
+                "credit_id": "5e6ceb52459ad60011626b9d",
+                "department": "Crew",
+                "job": "Special Effects"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1919-07-09",
+        "deathday": "2014-11-28",
+        "gender": 2,
+        "homepage": null,
+        "id": 1566640,
+        "imdb_id": "nm0497098",
+        "known_for_department": "Crew",
+        "name": "Danny Lee",
+        "place_of_birth": "Wisconsin, USA",
+        "popularity": 0.212,
+        "profile_path": null
+    }
+}

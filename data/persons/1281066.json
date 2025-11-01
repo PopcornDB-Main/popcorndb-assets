@@ -1,0 +1,82 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 756,
+                "original_language": "en",
+                "original_title": "Fantasia",
+                "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+                "popularity": 3.8834,
+                "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+                "release_date": "1940-11-13",
+                "title": "Fantasia",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 3191,
+                "credit_id": "590775a3c3a3684b0702e3bd",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 6.2326,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 5325,
+                "credit_id": "67a631d84dc052ba5585f5e4",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Pyotr Il'yich Tchaikovsky",
+            "Piotr Tchaikovsky",
+            " Peter Ilich Tschaikovsky",
+            "Pyotr Ilyich Chaikovskii",
+            "Pyotr Ilyich Chaikovsky",
+            "Petr Ilji\u010d \u010cajkovskij",
+            "Peter Ilyich Tchaikovsky",
+            "Piotr Ilitch Tcha\u00efkovski",
+            "Pjotr Iljitsch Tschaikowski",
+            "\u30d4\u30e7\u30fc\u30c8\u30eb\u30fb\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc",
+            "Pjotr Tsjaikofski"
+        ],
+        "biography": "Pyotr Ilyich Tchaikovsky, was a Russian composer of the romantic period, whose works are among the most popular music in the classical repertoire. He was the first Russian composer whose music made a lasting impression internationally, bolstered by his appearances as a guest conductor in Europe and the United States. He was honored in 1884 by Emperor Alexander III, and awarded a lifetime pension. (Wikipedia)",
+        "birthday": "1840-05-07",
+        "deathday": "1893-11-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 1281066,
+        "imdb_id": "nm0006318",
+        "known_for_department": "Sound",
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "place_of_birth": "Votkinsk, Sarapulsky Uyezd, Vyatka Governorate, Russian Empire [now Votkinsk, Russia]",
+        "popularity": 1.2923,
+        "profile_path": "/zTnrtuLddN6KYU3gVVepEiAsgek.jpg"
+    }
+}

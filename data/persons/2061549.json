@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/kzXUQnrUnHUGHuwWbgf9KpoU3qr.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 544401,
+                "original_language": "en",
+                "original_title": "Cherry",
+                "overview": "Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.",
+                "popularity": 2.8409,
+                "poster_path": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+                "release_date": "2021-02-26",
+                "title": "Cherry",
+                "video": false,
+                "vote_average": 7.333,
+                "vote_count": 1324,
+                "credit_id": "6101af161684f7005f0eb6fa",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 424694,
+                "original_language": "en",
+                "original_title": "Bohemian Rhapsody",
+                "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet \u2013 finding a way to keep the band together amid the success and excess.",
+                "popularity": 8.1339,
+                "poster_path": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+                "release_date": "2018-10-24",
+                "title": "Bohemian Rhapsody",
+                "video": false,
+                "vote_average": 7.967,
+                "vote_count": 17314,
+                "credit_id": "5fc97483383df2003e57b7db",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2061549,
+        "imdb_id": "nm6085637",
+        "known_for_department": "Sound",
+        "name": "George Atkins",
+        "place_of_birth": null,
+        "popularity": 0.3805,
+        "profile_path": null
+    }
+}

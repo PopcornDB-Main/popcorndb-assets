@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7MdbvcfkFj6Ft5wNITCKI3c7EEA.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    12
+                ],
+                "id": 383498,
+                "original_language": "en",
+                "original_title": "Deadpool 2",
+                "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+                "popularity": 11.0211,
+                "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+                "release_date": "2018-05-15",
+                "title": "Deadpool 2",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 18634,
+                "credit_id": "60e4d3412811a1005e96174f",
+                "department": "Art",
+                "job": "Concept Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qVgLMRVNB5bHU0inmRa0ueShacN.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 131634,
+                "original_language": "en",
+                "original_title": "The Hunger Games: Mockingjay - Part 2",
+                "overview": "As the war between the Capitol and the districts reaches its peak, Katniss Everdeen embarks on a perilous mission to liberate Panem and confront President Snow. Joined by a team of trusted allies, she navigates deadly traps, shifting loyalties, and the heavy cost of rebellion, determined to bring freedom to her people and end the Hunger Games once and for all.",
+                "popularity": 7.4844,
+                "poster_path": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
+                "release_date": "2015-11-18",
+                "title": "The Hunger Games: Mockingjay - Part 2",
+                "video": false,
+                "vote_average": 6.898,
+                "vote_count": 12948,
+                "credit_id": "56f26235925141553c000c32",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1153038,
+        "imdb_id": "nm2824062",
+        "known_for_department": "Art",
+        "name": "Wolfgang Metschan",
+        "place_of_birth": null,
+        "popularity": 0.0916,
+        "profile_path": null
+    }
+}

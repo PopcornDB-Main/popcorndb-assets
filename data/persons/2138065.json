@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/q9HocL5f8WwPldwpvmpk8ZaNZkC.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 500664,
+                "original_language": "en",
+                "original_title": "Upgrade",
+                "overview": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure \u2014 an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility \u2014 skills he uses to seek revenge against the thugs who destroyed his life.",
+                "popularity": 4.9452,
+                "poster_path": "/5f28TXtvHioXirX2n1XH8EJ314v.jpg",
+                "release_date": "2018-05-31",
+                "title": "Upgrade",
+                "video": false,
+                "vote_average": 7.496,
+                "vote_count": 4694,
+                "credit_id": "666744039edb5175ca01c09f",
+                "department": "Visual Effects",
+                "job": "3D Generalist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g01B5oD3j2sIupAQY2Ykm4TIRks.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    35,
+                    10751
+                ],
+                "id": 324849,
+                "original_language": "en",
+                "original_title": "The Lego Batman Movie",
+                "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+                "popularity": 6.8691,
+                "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+                "release_date": "2017-02-08",
+                "title": "The Lego Batman Movie",
+                "video": false,
+                "vote_average": 7.231,
+                "vote_count": 5216,
+                "credit_id": "5bb00e1d0e0a263a1700917f",
+                "department": "Visual Effects",
+                "job": "VFX Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2138065,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Brett Walter",
+        "place_of_birth": null,
+        "popularity": 0.1242,
+        "profile_path": null
+    }
+}

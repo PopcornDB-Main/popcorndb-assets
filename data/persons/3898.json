@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    10749
+                ],
+                "id": 10784,
+                "original_language": "en",
+                "original_title": "Cabaret",
+                "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+                "popularity": 1.7361,
+                "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+                "release_date": "1972-02-13",
+                "title": "Cabaret",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 924,
+                "credit_id": "52fe43b69251416c7501b425",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/egK8OpGhJdoD3xzdiaQPiGEIyMw.jpg",
+                "genre_ids": [
+                    35,
+                    53,
+                    80,
+                    9648
+                ],
+                "id": 15196,
+                "original_language": "en",
+                "original_title": "Clue",
+                "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+                "popularity": 4.5544,
+                "poster_path": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+                "release_date": "1985-12-13",
+                "title": "Clue",
+                "video": false,
+                "vote_average": 7.211,
+                "vote_count": 1834,
+                "credit_id": "52fe46439251416c750729a9",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1924-02-29",
+        "deathday": "2000-05-11",
+        "gender": 2,
+        "homepage": null,
+        "id": 3898,
+        "imdb_id": "nm0107852",
+        "known_for_department": "Editing",
+        "name": "David Bretherton",
+        "place_of_birth": null,
+        "popularity": 0.1438,
+        "profile_path": null
+    }
+}

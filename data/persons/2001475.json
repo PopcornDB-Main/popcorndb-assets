@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3iDTnTj5C1sHOteR3Txmp1WvqO4.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    35,
+                    878
+                ],
+                "id": 474395,
+                "original_language": "en",
+                "original_title": "Teen Titans Go! To the Movies",
+                "overview": "All the major DC superheroes are starring in their own films, all but the Teen Titans, so Robin is determined to remedy this situation by getting over his role as a sidekick and becoming a movie star. Thus, with a few madcap ideas and an inspirational song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams.",
+                "popularity": 2.5471,
+                "poster_path": "/mFHihhE9hlvJEk2f1AqdLRaYHd6.jpg",
+                "release_date": "2018-07-27",
+                "title": "Teen Titans Go! To the Movies",
+                "video": false,
+                "vote_average": 7.165,
+                "vote_count": 1144,
+                "credit_id": "5c1929c20e0a2603883f4f2e",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    12,
+                    10751
+                ],
+                "id": 698687,
+                "original_language": "en",
+                "original_title": "Transformers One",
+                "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+                "popularity": 11.5766,
+                "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+                "release_date": "2024-09-11",
+                "title": "Transformers One",
+                "video": false,
+                "vote_average": 8.039,
+                "vote_count": 1387,
+                "credit_id": "67199a8c4be15469e70d754a",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2001475,
+        "imdb_id": null,
+        "known_for_department": "Art",
+        "name": "Gerald de Jesus",
+        "place_of_birth": null,
+        "popularity": 0.0495,
+        "profile_path": null
+    }
+}

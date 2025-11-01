@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 3082,
+                "original_language": "en",
+                "original_title": "Modern Times",
+                "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+                "popularity": 3.0167,
+                "poster_path": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg",
+                "release_date": "1936-02-05",
+                "title": "Modern Times",
+                "video": false,
+                "vote_average": 8.282,
+                "vote_count": 3889,
+                "credit_id": "57785ef59251416d7700121d",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hVla7xGSvz2z3Q81Nijax3zc5N5.jpg",
+                "genre_ids": [
+                    35,
+                    10749,
+                    18
+                ],
+                "id": 28978,
+                "original_language": "en",
+                "original_title": "The Circus",
+                "overview": "Charlie, a wandering tramp, becomes a circus handyman - soon the star of the show - and falls in love with the circus owner's stepdaughter.",
+                "popularity": 2.0928,
+                "poster_path": "/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg",
+                "release_date": "1928-01-06",
+                "title": "The Circus",
+                "video": false,
+                "vote_average": 7.93,
+                "vote_count": 845,
+                "credit_id": "6643f4ab54cf1cbc7fee692b",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    18
+                ],
+                "id": 962,
+                "original_language": "en",
+                "original_title": "The Gold Rush",
+                "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+                "popularity": 2.9635,
+                "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+                "release_date": "1925-07-13",
+                "title": "The Gold Rush",
+                "video": false,
+                "vote_average": 7.987,
+                "vote_count": 1710,
+                "credit_id": "66d3fd588afc425a52006b44",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1881-01-01",
+        "deathday": "1979-04-30",
+        "gender": 2,
+        "homepage": null,
+        "id": 148066,
+        "imdb_id": "nm0933531",
+        "known_for_department": "Camera",
+        "name": "Jack Wilson",
+        "place_of_birth": null,
+        "popularity": 0.0398,
+        "profile_path": null
+    }
+}

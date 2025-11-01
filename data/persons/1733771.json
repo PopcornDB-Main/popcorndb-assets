@@ -1,0 +1,95 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    36
+                ],
+                "id": 407448,
+                "original_language": "en",
+                "original_title": "Detroit",
+                "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+                "popularity": 2.1807,
+                "poster_path": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+                "release_date": "2017-07-28",
+                "title": "Detroit",
+                "video": false,
+                "vote_average": 7.264,
+                "vote_count": 1695,
+                "credit_id": "5a562b6cc3a3685ee602296a",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
+                "genre_ids": [
+                    10752,
+                    28,
+                    36,
+                    18,
+                    53
+                ],
+                "id": 300671,
+                "original_language": "en",
+                "original_title": "13 Hours: The Secret Soldiers of Benghazi",
+                "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+                "popularity": 9.0081,
+                "poster_path": "/AskDcQ6Sa6jImyt2KDQbgRuPebH.jpg",
+                "release_date": "2016-01-14",
+                "title": "13 Hours: The Secret Soldiers of Benghazi",
+                "video": false,
+                "vote_average": 7.272,
+                "vote_count": 3754,
+                "credit_id": "5e948d1454508d001a18a416",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qkOw5IZXESOiRH4wzdIYJlBZiCp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297802,
+                "original_language": "en",
+                "original_title": "Aquaman",
+                "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+                "popularity": 8.0831,
+                "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+                "release_date": "2018-12-07",
+                "title": "Aquaman",
+                "video": false,
+                "vote_average": 6.874,
+                "vote_count": 14497,
+                "credit_id": "5f2ecce00d417e0032ab477b",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1733771,
+        "imdb_id": null,
+        "known_for_department": "Directing",
+        "name": "Simon Warnock",
+        "place_of_birth": null,
+        "popularity": 0.1997,
+        "profile_path": null
+    }
+}

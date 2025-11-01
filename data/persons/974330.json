@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 756,
+                "original_language": "en",
+                "original_title": "Fantasia",
+                "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+                "popularity": 3.8834,
+                "poster_path": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+                "release_date": "1940-11-13",
+                "title": "Fantasia",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 3191,
+                "credit_id": "590776e7c3a36858dd00007c",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n92EzFFg2cMkJiEhnMfD5sKHSH3.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    10402
+                ],
+                "id": 49948,
+                "original_language": "en",
+                "original_title": "Fantasia 2000",
+                "overview": "Blending lively music and brilliant animation, this sequel to the original 'Fantasia' restores 'The Sorcerer's Apprentice' and adds seven new shorts.",
+                "popularity": 3.4851,
+                "poster_path": "/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg",
+                "release_date": "2000-01-01",
+                "title": "Fantasia 2000",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 1324,
+                "credit_id": "590790a3925141646c00115f",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0406\u0433\u043e\u0440 \u0421\u0442\u0440\u0430\u0432\u0456\u043d\u0441\u044c\u043a\u0438\u0439"
+        ],
+        "biography": "Igor Stravinsky was a Russian composer, conductor and pianist. He is regarded as one of the most influential 20th century composers. His ballets The Firebird, Petrushka  and The Rite of Spring, originally produced in Paris by Sergei Diaghilev, garnered him international fame. The latter ballet famously caused a riot in the audience, that is wrongly attributed to its unusual artistic approach. It was, in fact, a pre-organised ambush by anti-Diaghilev forces.",
+        "birthday": "1882-06-17",
+        "deathday": "1971-04-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 974330,
+        "imdb_id": "nm0006311",
+        "known_for_department": "Sound",
+        "name": "Igor Stravinsky",
+        "place_of_birth": "Oranienbaum, Saint Petersburg Governorate, Russian Empire [now Lomonosov, Saint Petersburg, Russia]",
+        "popularity": 1.7925,
+        "profile_path": null
+    }
+}

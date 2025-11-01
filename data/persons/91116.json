@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rqMEeajyzSF4PpJtdCB816Iz8Vr.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 449176,
+                "original_language": "en",
+                "original_title": "Love, Simon",
+                "overview": "Everyone deserves a great love story, but for 17-year-old Simon Spier, it's a little more complicated. He hasn't told his family or friends that he's gay, and he doesn't know the identity of the anonymous classmate that he's fallen for online.",
+                "popularity": 3.3255,
+                "poster_path": "/snIsqVPmlu4LPjvToHpDotxa7Eh.jpg",
+                "release_date": "2018-02-16",
+                "title": "Love, Simon",
+                "video": false,
+                "vote_average": 7.987,
+                "vote_count": 6145,
+                "credit_id": "60d777050b731600455a30f4",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 194662,
+                "original_language": "en",
+                "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+                "popularity": 4.9426,
+                "poster_path": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+                "release_date": "2014-10-17",
+                "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "video": false,
+                "vote_average": 7.451,
+                "vote_count": 13174,
+                "credit_id": "5547383bc3a3680cd900894d",
+                "department": "Lighting",
+                "job": "Gaffer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 91116,
+        "imdb_id": "nm0778515",
+        "known_for_department": "Lighting",
+        "name": "Robert Sciretta",
+        "place_of_birth": null,
+        "popularity": 0.0311,
+        "profile_path": null
+    }
+}

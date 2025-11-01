@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/e7cTxDnHGQIozy0Os5r6HauL1Gz.jpg",
+                "genre_ids": [
+                    10402,
+                    18,
+                    35
+                ],
+                "id": 10654,
+                "original_language": "en",
+                "original_title": "Hair",
+                "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
+                "popularity": 3.3859,
+                "poster_path": "/z0ctToyPWCB2RgIkMpD6RhRKAeH.jpg",
+                "release_date": "1979-03-15",
+                "title": "Hair",
+                "video": false,
+                "vote_average": 7.279,
+                "vote_count": 698,
+                "credit_id": "58dd7fe692514177970002e3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mRVzzlXswVmXWqCPni9JIla5fmj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 3116,
+                "original_language": "en",
+                "original_title": "Midnight Cowboy",
+                "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+                "popularity": 3.1488,
+                "poster_path": "/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+                "release_date": "1969-05-25",
+                "title": "Midnight Cowboy",
+                "video": false,
+                "vote_average": 7.508,
+                "vote_count": 1515,
+                "credit_id": "5a6f9be20e0a2679660061f9",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Dick Kratina",
+            "Richard Kratina"
+        ],
+        "biography": "",
+        "birthday": "1928-11-02",
+        "deathday": "1999-02-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 56874,
+        "imdb_id": "nm0470012",
+        "known_for_department": "Camera",
+        "name": "Richard C. Kratina",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.142,
+        "profile_path": null
+    }
+}

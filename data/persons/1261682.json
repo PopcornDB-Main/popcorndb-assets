@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/tcrNJfyNEIqaBR8Ogkgnq5xQJnf.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 342470,
+                "original_language": "en",
+                "original_title": "All the Bright Places",
+                "overview": "Two teens facing personal struggles form a powerful bond as they embark on a cathartic journey chronicling the wonders of Indiana.",
+                "popularity": 3.4768,
+                "poster_path": "/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+                "release_date": "2020-02-28",
+                "title": "All the Bright Places",
+                "video": false,
+                "vote_average": 7.636,
+                "vote_count": 2937,
+                "credit_id": "5e5d5d0c87e63e0015743ce8",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dtBWvArsS2CdVp1ijD9OMqHtZhq.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 744275,
+                "original_language": "en",
+                "original_title": "After We Fell",
+                "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+                "popularity": 6.8946,
+                "poster_path": "/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+                "release_date": "2021-09-01",
+                "title": "After We Fell",
+                "video": false,
+                "vote_average": 7.018,
+                "vote_count": 2674,
+                "credit_id": "67f96cc31bc639566ada5029",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Rob C. Givens"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.robgivens.com",
+        "id": 1261682,
+        "imdb_id": "nm1535892",
+        "known_for_department": "Camera",
+        "name": "Rob Givens",
+        "place_of_birth": "North Carolina, USA",
+        "popularity": 0.2692,
+        "profile_path": null
+    }
+}

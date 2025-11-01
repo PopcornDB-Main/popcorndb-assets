@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 6003,
+                "original_language": "en",
+                "original_title": "Romeo and Juliet",
+                "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+                "popularity": 2.8666,
+                "poster_path": "/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+                "release_date": "1968-04-02",
+                "title": "Romeo and Juliet",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 698,
+                "credit_id": "56ac163a9251417c9800048e",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kB9Y59YDMOFdm5LgSyTVj4b6hh6.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 4909,
+                "original_language": "en",
+                "original_title": "The Day of the Jackal",
+                "overview": "An international assassin known as \u2018The Jackal\u2019 is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin\u2019s trail.",
+                "popularity": 6.3189,
+                "poster_path": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+                "release_date": "1973-05-16",
+                "title": "The Day of the Jackal",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 631,
+                "credit_id": "578a4df4c3a3686a650073f7",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Dave Harcourt"
+        ],
+        "biography": "",
+        "birthday": "1915-09-27",
+        "deathday": "2013-05-05",
+        "gender": 2,
+        "homepage": null,
+        "id": 1569883,
+        "imdb_id": "nm0361987",
+        "known_for_department": "Camera",
+        "name": "David Harcourt",
+        "place_of_birth": "Hampstead, London, England, UK",
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

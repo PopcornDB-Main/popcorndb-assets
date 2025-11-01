@@ -1,0 +1,96 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35
+                ],
+                "id": 269149,
+                "original_language": "en",
+                "original_title": "Zootopia",
+                "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+                "popularity": 16.8082,
+                "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+                "release_date": "2016-02-11",
+                "title": "Zootopia",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 16947,
+                "credit_id": "5aa41d9e0e0a26075100f053",
+                "department": "Crew",
+                "job": "Software Engineer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 10191,
+                "original_language": "en",
+                "original_title": "How to Train Your Dragon",
+                "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast \u2013 which he names Toothless \u2013 much to the chagrin of his warrior father.",
+                "popularity": 15.7975,
+                "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+                "release_date": "2010-03-18",
+                "title": "How to Train Your Dragon",
+                "video": false,
+                "vote_average": 7.853,
+                "vote_count": 13785,
+                "credit_id": "5aaf1f94c3a36846b7035f40",
+                "department": "Crew",
+                "job": "Software Engineer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    35,
+                    10751,
+                    878
+                ],
+                "id": 38055,
+                "original_language": "en",
+                "original_title": "Megamind",
+                "overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+                "popularity": 13.2409,
+                "poster_path": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+                "release_date": "2010-10-28",
+                "title": "Megamind",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 7159,
+                "credit_id": "5ac1687fc3a3682d1a00f823",
+                "department": "Crew",
+                "job": "Software Engineer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1995168,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Patrick Kelly",
+        "place_of_birth": null,
+        "popularity": 0.0264,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+                "genre_ids": [
+                    28,
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 197,
+                "original_language": "en",
+                "original_title": "Braveheart",
+                "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+                "popularity": 10.3731,
+                "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+                "release_date": "1995-05-24",
+                "title": "Braveheart",
+                "video": false,
+                "vote_average": 7.943,
+                "vote_count": 10613,
+                "credit_id": "5acd025f925141434402de9a",
+                "department": "Crew",
+                "job": "Production Controller"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 679,
+                "original_language": "en",
+                "original_title": "Aliens",
+                "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+                "popularity": 11.2335,
+                "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+                "release_date": "1986-07-18",
+                "title": "Aliens",
+                "video": false,
+                "vote_average": 7.952,
+                "vote_count": 10334,
+                "credit_id": "5e559f46a6d931001659bb42",
+                "department": "Crew",
+                "job": "Production Controller"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 72471,
+        "imdb_id": "nm0875968",
+        "known_for_department": "Production",
+        "name": "Paul Tucker",
+        "place_of_birth": null,
+        "popularity": 0.0352,
+        "profile_path": null
+    }
+}

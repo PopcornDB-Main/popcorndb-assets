@@ -1,0 +1,96 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 35,
+                "original_language": "en",
+                "original_title": "The Simpsons Movie",
+                "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+                "popularity": 7.8875,
+                "poster_path": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+                "release_date": "2007-07-25",
+                "title": "The Simpsons Movie",
+                "video": false,
+                "vote_average": 7.016,
+                "vote_count": 8284,
+                "credit_id": "55403404c3a3681da000071c",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    18,
+                    37,
+                    10749
+                ],
+                "id": 9023,
+                "original_language": "en",
+                "original_title": "Spirit: Stallion of the Cimarron",
+                "overview": "A captured mustang remains determined to return to his herd no matter what.",
+                "popularity": 8.1944,
+                "poster_path": "/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
+                "release_date": "2002-05-24",
+                "title": "Spirit: Stallion of the Cimarron",
+                "video": false,
+                "vote_average": 7.687,
+                "vote_count": 4769,
+                "credit_id": "554033099251414af90006cb",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kchiiKCtsOg0VoFUpLnu1H98AX.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    18,
+                    10751
+                ],
+                "id": 9837,
+                "original_language": "en",
+                "original_title": "The Prince of Egypt",
+                "overview": "The strong bond between two brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+                "popularity": 7.4423,
+                "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+                "release_date": "1998-12-16",
+                "title": "The Prince of Egypt",
+                "video": false,
+                "vote_average": 7.295,
+                "vote_count": 4140,
+                "credit_id": "554032ed9251414aee0006c7",
+                "department": "Visual Effects",
+                "job": "Animation"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1447594,
+        "imdb_id": "nm2331917",
+        "known_for_department": "Visual Effects",
+        "name": "Manny DeGuzman",
+        "place_of_birth": null,
+        "popularity": 0.0563,
+        "profile_path": null
+    }
+}

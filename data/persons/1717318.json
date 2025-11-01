@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.1636,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 10414,
+                "credit_id": "60e333d8b76cbb0073e015b3",
+                "department": "Production",
+                "job": "Casting Associate"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297762,
+                "original_language": "en",
+                "original_title": "Wonder Woman",
+                "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+                "popularity": 15.7259,
+                "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+                "release_date": "2017-05-30",
+                "title": "Wonder Woman",
+                "video": false,
+                "vote_average": 7.215,
+                "vote_count": 20452,
+                "credit_id": "5928d2589251413b45043321",
+                "department": "Production",
+                "job": "Casting Associate"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qkOw5IZXESOiRH4wzdIYJlBZiCp.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297802,
+                "original_language": "en",
+                "original_title": "Aquaman",
+                "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+                "popularity": 10.4052,
+                "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+                "release_date": "2018-12-07",
+                "title": "Aquaman",
+                "video": false,
+                "vote_average": 6.875,
+                "vote_count": 14490,
+                "credit_id": "5caf4d5a0e0a2626e9c28652",
+                "department": "Production",
+                "job": "Casting Associate"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1717318,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Jeanette Benzie",
+        "place_of_birth": null,
+        "popularity": 0.1369,
+        "profile_path": null
+    }
+}

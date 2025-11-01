@@ -1,0 +1,47 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 37165,
+                "original_language": "en",
+                "original_title": "The Truman Show",
+                "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+                "popularity": 12.4724,
+                "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+                "release_date": "1998-06-04",
+                "title": "The Truman Show",
+                "video": false,
+                "vote_average": 8.148,
+                "vote_count": 19320,
+                "credit_id": "601047b5b5bc21003d936e07",
+                "department": "Sound",
+                "job": "Assistant Sound Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Nicholas Breslin"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1391714,
+        "imdb_id": "nm0107744",
+        "known_for_department": "Sound",
+        "name": "Nick Breslin",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

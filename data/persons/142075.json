@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9Ocq5X0MNHsTpSONcaRvNDWPiz6.jpg",
+                "genre_ids": [
+                    16,
+                    18
+                ],
+                "id": 41201,
+                "original_language": "fr",
+                "original_title": "L'Illusionniste",
+                "overview": "A French illusionist travels to Scotland to work. He meets a young woman in a small village. Their ensuing adventure in Edinburgh changes both their lives forever.",
+                "popularity": 1.8106,
+                "poster_path": "/Ac2tNYW9sRaOhmtMJQuhf2mvo00.jpg",
+                "release_date": "2010-06-16",
+                "title": "The Illusionist",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 642,
+                "credit_id": "52fe45bbc3a36847f80d7545",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    35,
+                    80
+                ],
+                "id": 856,
+                "original_language": "en",
+                "original_title": "Who Framed Roger Rabbit",
+                "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                "popularity": 5.2733,
+                "poster_path": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+                "release_date": "1988-06-22",
+                "title": "Who Framed Roger Rabbit",
+                "video": false,
+                "vote_average": 7.531,
+                "vote_count": 5940,
+                "credit_id": "66d010140ba4f82ae8a483b3",
+                "department": "Visual Effects",
+                "job": "Animation"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jacques Muller"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 142075,
+        "imdb_id": "nm0612158",
+        "known_for_department": "Visual Effects",
+        "name": "Jaques Muller",
+        "place_of_birth": null,
+        "popularity": 1.464,
+        "profile_path": null
+    }
+}

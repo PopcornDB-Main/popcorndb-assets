@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 333339,
+                "original_language": "en",
+                "original_title": "Ready Player One",
+                "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+                "popularity": 10.7284,
+                "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+                "release_date": "2018-03-28",
+                "title": "Ready Player One",
+                "video": false,
+                "vote_average": 7.586,
+                "vote_count": 16263,
+                "credit_id": "5b846baf0e0a264599048f5b",
+                "department": "Crew",
+                "job": "Compositor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    878
+                ],
+                "id": 274870,
+                "original_language": "en",
+                "original_title": "Passengers",
+                "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+                "popularity": 4.4567,
+                "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+                "release_date": "2016-12-21",
+                "title": "Passengers",
+                "video": false,
+                "vote_average": 6.953,
+                "vote_count": 13756,
+                "credit_id": "5bbfbfe3c3a3682d4b008fe0",
+                "department": "Crew",
+                "job": "Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2116556,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Adam Arnot",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

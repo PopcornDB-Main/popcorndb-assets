@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 85,
+                "original_language": "en",
+                "original_title": "Raiders of the Lost Ark",
+                "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+                "popularity": 10.971,
+                "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "release_date": "1981-06-12",
+                "title": "Raiders of the Lost Ark",
+                "video": false,
+                "vote_average": 7.925,
+                "vote_count": 13079,
+                "credit_id": "630dc401724de10083a24fe3",
+                "department": "Production",
+                "job": "Researcher"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 28,
+                "original_language": "en",
+                "original_title": "Apocalypse Now",
+                "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+                "popularity": 8.2248,
+                "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+                "release_date": "1979-05-19",
+                "title": "Apocalypse Now",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 8658,
+                "credit_id": "68c0ddefd9be0cdf3698d2b6",
+                "department": "Production",
+                "job": "Researcher"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3682109,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Deborah Fine",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

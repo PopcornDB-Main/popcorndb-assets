@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5vuQnRJURp6rZoEEnhW0HC7DBQc.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "id": 3109,
+                "original_language": "en",
+                "original_title": "The Quiet Man",
+                "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+                "popularity": 2.228,
+                "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+                "release_date": "1952-07-21",
+                "title": "The Quiet Man",
+                "video": false,
+                "vote_average": 7.319,
+                "vote_count": 565,
+                "credit_id": "63f5a7509bcd0f00cc5f4491",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3114,
+                "original_language": "en",
+                "original_title": "The Searchers",
+                "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+                "popularity": 3.1059,
+                "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Searchers",
+                "video": false,
+                "vote_average": 7.702,
+                "vote_count": 1497,
+                "credit_id": "5b0d92d6c3a3684268013c40",
+                "department": "Sound",
+                "job": "Sound Designer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Howard G. Wilson"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 137742,
+        "imdb_id": "nm0933504",
+        "known_for_department": "Sound",
+        "name": "Howard Wilson",
+        "place_of_birth": null,
+        "popularity": 1.2681,
+        "profile_path": null
+    }
+}

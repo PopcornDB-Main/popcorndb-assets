@@ -1,0 +1,236 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10751
+                ],
+                "id": 10439,
+                "original_language": "en",
+                "original_title": "Hocus Pocus",
+                "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+                "popularity": 11.2324,
+                "poster_path": "/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+                "release_date": "1993-07-16",
+                "title": "Hocus Pocus",
+                "video": false,
+                "vote_average": 7.039,
+                "vote_count": 3141,
+                "credit_id": "60f450364c2592007e7293b3",
+                "department": "Crew",
+                "job": "Special Sound Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwVkihNJYn6wR8Sip1aoIz5ax35.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    53
+                ],
+                "id": 1669,
+                "original_language": "en",
+                "original_title": "The Hunt for Red October",
+                "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
+                "popularity": 5.4323,
+                "poster_path": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+                "release_date": "1990-03-02",
+                "title": "The Hunt for Red October",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 3452,
+                "credit_id": "61209d742e0697005da68b18",
+                "department": "Sound",
+                "job": "Sound Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+                "genre_ids": [
+                    28,
+                    18
+                ],
+                "id": 744,
+                "original_language": "en",
+                "original_title": "Top Gun",
+                "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+                "popularity": 13.1582,
+                "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+                "release_date": "1986-05-16",
+                "title": "Top Gun",
+                "video": false,
+                "vote_average": 7.063,
+                "vote_count": 9112,
+                "credit_id": "62bea516325a5100c25dc164",
+                "department": "Crew",
+                "job": "Special Sound Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 4512,
+                "original_language": "en",
+                "original_title": "The Assassination of Jesse James by the Coward Robert Ford",
+                "overview": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+                "popularity": 4.3918,
+                "poster_path": "/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg",
+                "release_date": "2007-09-20",
+                "title": "The Assassination of Jesse James by the Coward Robert Ford",
+                "video": false,
+                "vote_average": 7.044,
+                "vote_count": 2628,
+                "credit_id": "616ba4833d4d96008d6ba813",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 602,
+                "original_language": "en",
+                "original_title": "Independence Day",
+                "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+                "popularity": 8.0134,
+                "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+                "release_date": "1996-06-25",
+                "title": "Independence Day",
+                "video": false,
+                "vote_average": 6.895,
+                "vote_count": 9986,
+                "credit_id": "547af6699251414c65001cd5",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    27
+                ],
+                "id": 561,
+                "original_language": "en",
+                "original_title": "Constantine",
+                "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+                "popularity": 11.1113,
+                "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+                "release_date": "2005-02-08",
+                "title": "Constantine",
+                "video": false,
+                "vote_average": 7.114,
+                "vote_count": 7625,
+                "credit_id": "54b5272592514107e0008300",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 18,
+                "original_language": "fr",
+                "original_title": "Le Cinqui\u00e8me \u00c9l\u00e9ment",
+                "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+                "popularity": 15.2281,
+                "poster_path": "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+                "release_date": "1997-05-02",
+                "title": "The Fifth Element",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 11217,
+                "credit_id": "6331c5d5a5046e007c526781",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18
+                ],
+                "id": 2034,
+                "original_language": "en",
+                "original_title": "Training Day",
+                "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+                "popularity": 6.5133,
+                "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+                "release_date": "2001-10-05",
+                "title": "Training Day",
+                "video": false,
+                "vote_average": 7.507,
+                "vote_count": 6255,
+                "credit_id": "61daa51712197e0041b79dff",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qKWQ9IEDkMawD7sgKnIGCdFAhct.jpg",
+                "genre_ids": [
+                    53,
+                    28,
+                    18,
+                    10752
+                ],
+                "id": 8963,
+                "original_language": "en",
+                "original_title": "Crimson Tide",
+                "overview": "After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsey insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.",
+                "popularity": 4.2993,
+                "poster_path": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+                "release_date": "1995-05-12",
+                "title": "Crimson Tide",
+                "video": false,
+                "vote_average": 7.18,
+                "vote_count": 1873,
+                "credit_id": "5b1d96c10e0a264fc20036bb",
+                "department": "Crew",
+                "job": "Special Sound Effects"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John Paul Fasal",
+            "John Fasal",
+            "Johnpaul Fasal",
+            "Jonathan Fasal",
+            "John Fassal",
+            "John Paul Fassal"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1391567,
+        "imdb_id": "nm0268635",
+        "known_for_department": "Sound",
+        "name": "John P. Fasal",
+        "place_of_birth": null,
+        "popularity": 0.2463,
+        "profile_path": null
+    }
+}

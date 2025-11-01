@@ -1,0 +1,97 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    18,
+                    14,
+                    12
+                ],
+                "id": 8587,
+                "original_language": "en",
+                "original_title": "The Lion King",
+                "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+                "popularity": 13.1867,
+                "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+                "release_date": "1994-06-15",
+                "title": "The Lion King",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 19037,
+                "credit_id": "5ab7c468925141395201b9a2",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 11688,
+                "original_language": "en",
+                "original_title": "The Emperor's New Groove",
+                "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
+                "popularity": 10.9675,
+                "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
+                "release_date": "2000-12-15",
+                "title": "The Emperor's New Groove",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 7017,
+                "credit_id": "64b341d70cb33500fff0410f",
+                "department": "Visual Effects",
+                "job": "Lead Animator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    12
+                ],
+                "id": 51162,
+                "original_language": "en",
+                "original_title": "Winnie the Pooh",
+                "overview": "During an ordinary day in Hundred Acre Wood, Winnie the Pooh sets out to find some honey. Misinterpreting a note from Christopher Robin, Owl convinces Pooh, Tigger, Rabbit, Piglet, Kanga, Roo, and Eeyore that their young friend has been captured by a creature named \"Backson\" and they set out to rescue him.",
+                "popularity": 2.7597,
+                "poster_path": "/xlFs85nq62jeR4a9iHNGB113m6x.jpg",
+                "release_date": "2011-04-06",
+                "title": "Winnie the Pooh",
+                "video": false,
+                "vote_average": 6.905,
+                "vote_count": 911,
+                "credit_id": "673a78f42c0b7fd2034aa8b3",
+                "department": "Visual Effects",
+                "job": "Animation"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2007249,
+        "imdb_id": "nm0520084",
+        "known_for_department": "Visual Effects",
+        "name": "James Lopez",
+        "place_of_birth": null,
+        "popularity": 0.0484,
+        "profile_path": null
+    }
+}

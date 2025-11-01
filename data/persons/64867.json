@@ -1,0 +1,166 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    10749
+                ],
+                "id": 10340,
+                "original_language": "en",
+                "original_title": "Lady and the Tramp",
+                "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
+                "popularity": 7.9662,
+                "poster_path": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+                "release_date": "1955-06-22",
+                "title": "Lady and the Tramp",
+                "video": false,
+                "vote_average": 7.123,
+                "vote_count": 5466,
+                "credit_id": "52fe435d9251416c7500d7b7",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14
+                ],
+                "id": 10693,
+                "original_language": "en",
+                "original_title": "Peter Pan",
+                "overview": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.",
+                "popularity": 8.6959,
+                "poster_path": "/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg",
+                "release_date": "1953-02-05",
+                "title": "Peter Pan",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 5565,
+                "credit_id": "607cdbcb7776f0006dd1f3ee",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    16,
+                    10749
+                ],
+                "id": 11224,
+                "original_language": "en",
+                "original_title": "Cinderella",
+                "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+                "popularity": 9.7387,
+                "poster_path": "/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+                "release_date": "1950-02-22",
+                "title": "Cinderella",
+                "video": false,
+                "vote_average": 7.046,
+                "vote_count": 6936,
+                "credit_id": "585c412fc3a3687f9d00055c",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14,
+                    12
+                ],
+                "id": 12092,
+                "original_language": "en",
+                "original_title": "Alice in Wonderland",
+                "overview": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+                "popularity": 11.4294,
+                "poster_path": "/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+                "release_date": "1951-07-28",
+                "title": "Alice in Wonderland",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 6066,
+                "credit_id": "590769829251416a14032c19",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/q9mF0HhnKT5deOIRAQSFjhLC8c1.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    12,
+                    28
+                ],
+                "id": 420809,
+                "original_language": "en",
+                "original_title": "Maleficent: Mistress of Evil",
+                "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+                "popularity": 7.1581,
+                "poster_path": "/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+                "release_date": "2019-10-16",
+                "title": "Maleficent: Mistress of Evil",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 6304,
+                "credit_id": "5ead7446cdbaff0021b0372e",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 6.2326,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 5325,
+                "credit_id": "5fb935d8e10f46004009f934",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 64867,
+        "imdb_id": "nm0727370",
+        "known_for_department": "Writing",
+        "name": "Joe Rinaldi",
+        "place_of_birth": null,
+        "popularity": 0.1869,
+        "profile_path": null
+    }
+}

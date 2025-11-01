@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    18,
+                    53
+                ],
+                "id": 119450,
+                "original_language": "en",
+                "original_title": "Dawn of the Planet of the Apes",
+                "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+                "popularity": 11.5444,
+                "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+                "release_date": "2014-07-08",
+                "title": "Dawn of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 11838,
+                "credit_id": "60cfcbf2a199a6006e629bcc",
+                "department": "Visual Effects",
+                "job": "VFX Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kPKwqHl2rYsi9rFWJWA6afKdmlT.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    37
+                ],
+                "id": 400090,
+                "original_language": "en",
+                "original_title": "The Nightingale",
+                "overview": "In 1825, Clare, a 21-year-old Irish convict, chases a British soldier through the rugged Tasmanian wilderness, bent on revenge for a terrible act of violence he committed against her family. She enlists the services of an Aboriginal tracker who is also marked by trauma from his own violence-filled past.",
+                "popularity": 2.9742,
+                "poster_path": "/9nRpZmvdEgq8hMu1rNyc90XQtH6.jpg",
+                "release_date": "2018-09-23",
+                "title": "The Nightingale",
+                "video": false,
+                "vote_average": 7.061,
+                "vote_count": 617,
+                "credit_id": "5f48de366cf3d500352ad34e",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2161833,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Bryn Bayliss",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

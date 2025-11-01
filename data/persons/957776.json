@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+                "genre_ids": [
+                    878,
+                    9648,
+                    12
+                ],
+                "id": 62,
+                "original_language": "en",
+                "original_title": "2001: A Space Odyssey",
+                "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+                "popularity": 10.5963,
+                "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+                "release_date": "1968-04-02",
+                "title": "2001: A Space Odyssey",
+                "video": false,
+                "vote_average": 8.063,
+                "vote_count": 12047,
+                "credit_id": "539189dac3a36864630011d5",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/doTKdtLfn2b7ZmeElmT6ZDW3XIk.jpg",
+                "genre_ids": [
+                    10749,
+                    12,
+                    18
+                ],
+                "id": 488,
+                "original_language": "en",
+                "original_title": "The African Queen",
+                "overview": "At the start of the First World War, in the middle of Africa\u2019s nowhere, a gin soaked riverboat captain is persuaded by a strong-willed missionary to go down river and face-off a German warship.",
+                "popularity": 2.6262,
+                "poster_path": "/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+                "release_date": "1952-01-07",
+                "title": "The African Queen",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1000,
+                "credit_id": "5f8b8ddfd05a030035dc148f",
+                "department": "Art",
+                "job": "Assistant Art Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1919-03-08",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 957776,
+        "imdb_id": "nm0388589",
+        "known_for_department": "Art",
+        "name": "John Hoesli",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

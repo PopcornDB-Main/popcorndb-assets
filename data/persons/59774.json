@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 118,
+                "original_language": "en",
+                "original_title": "Charlie and the Chocolate Factory",
+                "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+                "popularity": 11.8862,
+                "poster_path": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+                "release_date": "2005-07-13",
+                "title": "Charlie and the Chocolate Factory",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 15669,
+                "credit_id": "557d7cfdc3a368631d003bf9",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 76341,
+                "original_language": "en",
+                "original_title": "Mad Max: Fury Road",
+                "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+                "popularity": 13.3137,
+                "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+                "release_date": "2015-05-13",
+                "title": "Mad Max: Fury Road",
+                "video": false,
+                "vote_average": 7.626,
+                "vote_count": 23392,
+                "credit_id": "577da2ab9251415d980034fb",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 59774,
+        "imdb_id": "nm0121694",
+        "known_for_department": "Production",
+        "name": "Graham Burke",
+        "place_of_birth": null,
+        "popularity": 0.8885,
+        "profile_path": "/vTOd9Re45GXY6jPhz9HGpaOXg22.jpg"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    878,
+                    12
+                ],
+                "id": 10386,
+                "original_language": "en",
+                "original_title": "The Iron Giant",
+                "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+                "popularity": 7.3924,
+                "poster_path": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+                "release_date": "1999-08-06",
+                "title": "The Iron Giant",
+                "video": false,
+                "vote_average": 8.0,
+                "vote_count": 5878,
+                "credit_id": "5ba6743ec3a3680e4d011d8b",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ppNc9wcpdHFvfxGuLeiXUpmB3oA.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    14,
+                    12,
+                    18,
+                    9648,
+                    878
+                ],
+                "id": 11704,
+                "original_language": "en",
+                "original_title": "The Secret of NIMH",
+                "overview": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+                "popularity": 3.897,
+                "poster_path": "/bqH0pbnt92C8WJ3lwLhllQZndeY.jpg",
+                "release_date": "1982-06-17",
+                "title": "The Secret of NIMH",
+                "video": false,
+                "vote_average": 7.448,
+                "vote_count": 880,
+                "credit_id": "67e093b6f6a0fcbd004dc336",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1270289,
+        "imdb_id": "nm0262176",
+        "known_for_department": "Visual Effects",
+        "name": "Jeff Etter",
+        "place_of_birth": null,
+        "popularity": 0.0362,
+        "profile_path": null
+    }
+}

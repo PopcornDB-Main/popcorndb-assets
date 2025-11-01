@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 8.5281,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.89,
+                "vote_count": 8193,
+                "credit_id": "52fe422ec3a36847f800a1dd",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gh1Rghpf3BIISHSAw9GsObG4TN3.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80
+                ],
+                "id": 714888,
+                "original_language": "es",
+                "original_title": "Argentina 1985",
+                "overview": "In the 1980s, a team of lawyers takes on the heads of Argentina's bloody military dictatorship in a battle against odds and a race against time.",
+                "popularity": 3.5802,
+                "poster_path": "/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg",
+                "release_date": "2022-09-29",
+                "title": "Argentina 1985",
+                "video": false,
+                "vote_average": 7.831,
+                "vote_count": 694,
+                "credit_id": "63d38e95cb71b800a10dd9cd",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3499,
+        "imdb_id": "nm0518937",
+        "known_for_department": "Sound",
+        "name": "David Long",
+        "place_of_birth": null,
+        "popularity": 0.0453,
+        "profile_path": null
+    }
+}

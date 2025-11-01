@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/n4CvA50GBtIPrSqCl8nMNZCliYI.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 7214,
+                "original_language": "en",
+                "original_title": "Coach Carter",
+                "overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+                "popularity": 4.7352,
+                "poster_path": "/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
+                "release_date": "2005-01-14",
+                "title": "Coach Carter",
+                "video": false,
+                "vote_average": 7.579,
+                "vote_count": 3124,
+                "credit_id": "52fe4473c3a36847f8096ce3",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 25832,
+        "imdb_id": "nm0063509",
+        "known_for_department": "Art",
+        "name": "Tim Beach",
+        "place_of_birth": null,
+        "popularity": 0.0363,
+        "profile_path": null
+    }
+}

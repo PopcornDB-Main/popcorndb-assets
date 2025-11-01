@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 11010,
+                "original_language": "it",
+                "original_title": "Il postino",
+                "overview": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+                "popularity": 1.3811,
+                "poster_path": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+                "release_date": "1994-04-07",
+                "title": "The Postman",
+                "video": false,
+                "vote_average": 7.93,
+                "vote_count": 1174,
+                "credit_id": "62aa4ef7eb14fa09dcac25ae",
+                "department": "Lighting",
+                "job": "Electrician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1761807,
+        "imdb_id": null,
+        "known_for_department": "Lighting",
+        "name": "Valerio Garzia",
+        "place_of_birth": null,
+        "popularity": 0.1011,
+        "profile_path": null
+    }
+}

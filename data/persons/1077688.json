@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 301,
+                "original_language": "en",
+                "original_title": "Rio Bravo",
+                "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+                "popularity": 5.3427,
+                "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+                "release_date": "1959-03-18",
+                "title": "Rio Bravo",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 1204,
+                "credit_id": "52fe4234c3a36847f800c121",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m2SXRnAd0d5N6qH2cbgluRgMX4z.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 11016,
+                "original_language": "en",
+                "original_title": "Key Largo",
+                "overview": "A hurricane swells outside, but it's nothing compared to the storm within the hotel at Key Largo. There, sadistic mobster Johnny Rocco holes up - and holds at gunpoint hotel owner James Temple, his widowed daughter-in-law Nora, and ex-GI Frank McCloud.",
+                "popularity": 3.862,
+                "poster_path": "/rySfmQQZhS7RswOiJcJrww6FcHy.jpg",
+                "release_date": "1948-07-16",
+                "title": "Key Largo",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 554,
+                "credit_id": "52fe43e49251416c750220c1",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Leo E. Kuter",
+            "Leo Kuter"
+        ],
+        "biography": "",
+        "birthday": "1897-02-21",
+        "deathday": "1970-08-10",
+        "gender": 2,
+        "homepage": null,
+        "id": 1077688,
+        "imdb_id": "nm0476485",
+        "known_for_department": "Art",
+        "name": "Leo K. Kuter",
+        "place_of_birth": "Shannon, Illinois, USA",
+        "popularity": 0.0532,
+        "profile_path": null
+    }
+}

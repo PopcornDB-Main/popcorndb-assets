@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 903,
+                "original_language": "en",
+                "original_title": "Cool Hand Luke",
+                "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+                "popularity": 2.9467,
+                "poster_path": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+                "release_date": "1967-11-01",
+                "title": "Cool Hand Luke",
+                "video": false,
+                "vote_average": 7.74,
+                "vote_count": 1509,
+                "credit_id": "52fe428ac3a36847f8026dab",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eJ6kPtua2rEvjxHdCtnIobXJZSf.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    9648,
+                    53
+                ],
+                "id": 829,
+                "original_language": "en",
+                "original_title": "Chinatown",
+                "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+                "popularity": 4.222,
+                "poster_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+                "release_date": "1974-06-20",
+                "title": "Chinatown",
+                "video": false,
+                "vote_average": 7.92,
+                "vote_count": 4025,
+                "credit_id": "6597c3b35cc11d77d87d99a4",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vMylmakO2K9cZexNUze8wa9muJp.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 510,
+                "original_language": "en",
+                "original_title": "One Flew Over the Cuckoo's Nest",
+                "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.",
+                "popularity": 7.9673,
+                "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+                "release_date": "1975-11-19",
+                "title": "One Flew Over the Cuckoo's Nest",
+                "video": false,
+                "vote_average": 8.4,
+                "vote_count": 10962,
+                "credit_id": "5da4f261afe2240015eef65b",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 13867,
+        "imdb_id": "nm0430928",
+        "known_for_department": "Sound",
+        "name": "Larry Jost",
+        "place_of_birth": null,
+        "popularity": 0.1285,
+        "profile_path": null
+    }
+}

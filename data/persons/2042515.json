@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 8337,
+                "original_language": "en",
+                "original_title": "They Live",
+                "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+                "popularity": 5.0816,
+                "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+                "release_date": "1988-11-04",
+                "title": "They Live",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 3238,
+                "credit_id": "5dde9f8d88bbe6001419545f",
+                "department": "Sound",
+                "job": "Foley Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 2907,
+                "original_language": "en",
+                "original_title": "The Addams Family",
+                "overview": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.",
+                "popularity": 8.5295,
+                "poster_path": "/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+                "release_date": "1991-11-22",
+                "title": "The Addams Family",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4825,
+                "credit_id": "67293a06de69a78ba964602b",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard O'Brien",
+            "Robert O'Brien"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2042515,
+        "imdb_id": "nm0639449",
+        "known_for_department": "Sound",
+        "name": "Bob O'Brien",
+        "place_of_birth": null,
+        "popularity": 0.0897,
+        "profile_path": null
+    }
+}

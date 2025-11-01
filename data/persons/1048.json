@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 103,
+                "original_language": "en",
+                "original_title": "Taxi Driver",
+                "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+                "popularity": 10.7599,
+                "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+                "release_date": "1976-02-09",
+                "title": "Taxi Driver",
+                "video": false,
+                "vote_average": 8.135,
+                "vote_count": 12890,
+                "credit_id": "52fe4218c3a36847f8003815",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35
+                ],
+                "id": 252,
+                "original_language": "en",
+                "original_title": "Willy Wonka & the Chocolate Factory",
+                "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+                "popularity": 6.2938,
+                "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+                "release_date": "1971-06-29",
+                "title": "Willy Wonka & the Chocolate Factory",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3767,
+                "credit_id": "5db1d3a1d9554b0012e1f0a3",
+                "department": "Editing",
+                "job": "Associate Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1925-05-06",
+        "deathday": "2007-12-04",
+        "gender": 2,
+        "homepage": null,
+        "id": 1048,
+        "imdb_id": "nm0788584",
+        "known_for_department": "Editing",
+        "name": "Melvin Shapiro",
+        "place_of_birth": null,
+        "popularity": 0.0872,
+        "profile_path": null
+    }
+}

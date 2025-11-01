@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
+                "genre_ids": [
+                    9648,
+                    18,
+                    80
+                ],
+                "id": 1847,
+                "original_language": "en",
+                "original_title": "The Long Goodbye",
+                "overview": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+                "popularity": 3.4014,
+                "poster_path": "/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg",
+                "release_date": "1973-03-08",
+                "title": "The Long Goodbye",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 708,
+                "credit_id": "632b2b9eef9d72009219d060",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qtamfYGFfDLfGRcucx1zNwohRts.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    18
+                ],
+                "id": 860,
+                "original_language": "en",
+                "original_title": "WarGames",
+                "overview": "High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.",
+                "popularity": 4.4773,
+                "poster_path": "/zZ1rN4LoPxKNfAp67Xl300WxVeD.jpg",
+                "release_date": "1983-06-03",
+                "title": "WarGames",
+                "video": false,
+                "vote_average": 7.074,
+                "vote_count": 2013,
+                "credit_id": "5fb67efdb4a5430040542819",
+                "department": "Production",
+                "job": "Location Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1923-11-03",
+        "deathday": "1999-11-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 30591,
+        "imdb_id": "nm0250891",
+        "known_for_department": "Production",
+        "name": "Robert Eggenweiler",
+        "place_of_birth": "Los Angeles County - California - USA",
+        "popularity": 0.0934,
+        "profile_path": null
+    }
+}

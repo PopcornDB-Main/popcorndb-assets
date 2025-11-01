@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53,
+                    36
+                ],
+                "id": 407448,
+                "original_language": "en",
+                "original_title": "Detroit",
+                "overview": "A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.",
+                "popularity": 2.2253,
+                "poster_path": "/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+                "release_date": "2017-07-28",
+                "title": "Detroit",
+                "video": false,
+                "vote_average": 7.264,
+                "vote_count": 1695,
+                "credit_id": "5a5629bbc3a3685ebf023481",
+                "department": "Sound",
+                "job": "ADR Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 324552,
+                "original_language": "en",
+                "original_title": "John Wick: Chapter 2",
+                "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
+                "popularity": 13.6797,
+                "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+                "release_date": "2017-02-08",
+                "title": "John Wick: Chapter 2",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 13705,
+                "credit_id": "5ae235260e0a262a5201b57a",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Denile Saxlid"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1399862,
+        "imdb_id": "nm1044367",
+        "known_for_department": "Sound",
+        "name": "Daniel Saxlid",
+        "place_of_birth": null,
+        "popularity": 0.7959,
+        "profile_path": null
+    }
+}

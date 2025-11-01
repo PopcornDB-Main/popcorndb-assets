@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.1636,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 10413,
+                "credit_id": "60e32704b76cbb005dfbc6c7",
+                "department": "Art",
+                "job": "Graphic Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    12,
+                    36,
+                    10752
+                ],
+                "id": 1495,
+                "original_language": "en",
+                "original_title": "Kingdom of Heaven",
+                "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+                "popularity": 11.5374,
+                "poster_path": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+                "release_date": "2005-05-03",
+                "title": "Kingdom of Heaven",
+                "video": false,
+                "vote_average": 7.002,
+                "vote_count": 4610,
+                "credit_id": "5c9030bb9251410ff6a4d494",
+                "department": "Production",
+                "job": "Researcher"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Katherine Heaser"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2268130,
+        "imdb_id": "nm1473173",
+        "known_for_department": "Art",
+        "name": "Kathy Heaser",
+        "place_of_birth": null,
+        "popularity": 0.0404,
+        "profile_path": null
+    }
+}

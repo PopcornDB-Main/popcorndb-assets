@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+                "genre_ids": [
+                    878,
+                    28
+                ],
+                "id": 8337,
+                "original_language": "en",
+                "original_title": "They Live",
+                "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+                "popularity": 5.0816,
+                "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+                "release_date": "1988-11-04",
+                "title": "They Live",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 3239,
+                "credit_id": "6112bb72d05a03005f6de85a",
+                "department": "Crew",
+                "job": "Propmaker"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 199,
+                "original_language": "en",
+                "original_title": "Star Trek: First Contact",
+                "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+                "popularity": 4.2224,
+                "poster_path": "/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+                "release_date": "1996-11-22",
+                "title": "Star Trek: First Contact",
+                "video": false,
+                "vote_average": 7.293,
+                "vote_count": 1856,
+                "credit_id": "5b2e5db7c3a368532f006408",
+                "department": "Art",
+                "job": "Construction Foreman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2070790,
+        "imdb_id": null,
+        "known_for_department": "Art",
+        "name": "Frank Leasure",
+        "place_of_birth": null,
+        "popularity": 0.0368,
+        "profile_path": null
+    }
+}

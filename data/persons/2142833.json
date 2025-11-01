@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 74.3647,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37912,
+                "credit_id": "5bb7ef4fc3a36865e0000771",
+                "department": "Visual Effects",
+                "job": "Visual Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.8944,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.238,
+                "vote_count": 26755,
+                "credit_id": "5f5e3d097d41aa0035ea5773",
+                "department": "Visual Effects",
+                "job": "Visual Effects Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2142833,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Leah Sargent",
+        "place_of_birth": null,
+        "popularity": 0.2385,
+        "profile_path": null
+    }
+}

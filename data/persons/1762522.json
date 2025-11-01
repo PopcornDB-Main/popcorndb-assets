@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 674324,
+                "original_language": "en",
+                "original_title": "The Banshees of Inisherin",
+                "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+                "popularity": 5.26,
+                "poster_path": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+                "release_date": "2022-10-20",
+                "title": "The Banshees of Inisherin",
+                "video": false,
+                "vote_average": 7.455,
+                "vote_count": 3066,
+                "credit_id": "62703d66cc277c00a8387ca7",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AmN8ozRE0AbMGgZhqBu4fUjZkRt.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    36,
+                    28,
+                    53
+                ],
+                "id": 11362,
+                "original_language": "en",
+                "original_title": "The Count of Monte Cristo",
+                "overview": "Edmond Dant\u00e9s's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dant\u00e9s escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+                "popularity": 8.1581,
+                "poster_path": "/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+                "release_date": "2002-01-23",
+                "title": "The Count of Monte Cristo",
+                "video": false,
+                "vote_average": 7.675,
+                "vote_count": 1905,
+                "credit_id": "67feae15c1e0a708cbad6f31",
+                "department": "Production",
+                "job": "Location Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1762522,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Eoin Holohan",
+        "place_of_birth": null,
+        "popularity": 0.0387,
+        "profile_path": null
+    }
+}

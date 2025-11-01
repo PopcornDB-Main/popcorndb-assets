@@ -1,0 +1,49 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 1580,
+                "original_language": "en",
+                "original_title": "Rope",
+                "overview": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
+                "popularity": 4.4695,
+                "poster_path": "/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
+                "release_date": "1948-03-11",
+                "title": "Rope",
+                "video": false,
+                "vote_average": 7.945,
+                "vote_count": 2853,
+                "credit_id": "6622785d87ae7b0188d9727f",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Edward Fitzgerald",
+            "Ed Fitzgerald"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": "1966-05-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 17911,
+        "imdb_id": "nm0280221",
+        "known_for_department": "Camera",
+        "name": "Eddie Fitzgerald",
+        "place_of_birth": null,
+        "popularity": 0.6842,
+        "profile_path": null
+    }
+}

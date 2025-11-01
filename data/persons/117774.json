@@ -1,0 +1,48 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 2.0222,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 1118,
+                "credit_id": "53753d48c3a3681ef4000361",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Albert C. Clark",
+            "Albert Clark"
+        ],
+        "biography": "",
+        "birthday": "1902-09-15",
+        "deathday": "1971-07-13",
+        "gender": 2,
+        "homepage": null,
+        "id": 117774,
+        "imdb_id": "nm0163617",
+        "known_for_department": "Editing",
+        "name": "Al Clark",
+        "place_of_birth": "Illinois, USA",
+        "popularity": 0.0412,
+        "profile_path": null
+    }
+}

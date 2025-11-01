@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 10.752,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.73,
+                "vote_count": 10311,
+                "credit_id": "572a727fc3a3683ef9000043",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14,
+                    10749
+                ],
+                "id": 812,
+                "original_language": "en",
+                "original_title": "Aladdin",
+                "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+                "popularity": 7.5554,
+                "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+                "release_date": "1992-11-25",
+                "title": "Aladdin",
+                "video": false,
+                "vote_average": 7.655,
+                "vote_count": 11622,
+                "credit_id": "58495706c3a368141a01381d",
+                "department": "Directing",
+                "job": "Layout"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 226011,
+        "imdb_id": "nm0971815",
+        "known_for_department": "Directing",
+        "name": "Fred Craig",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

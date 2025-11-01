@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/t07Pdtl3rTbE5mBdV8hAggHcGVN.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 433,
+                "original_language": "en",
+                "original_title": "Mary Poppins",
+                "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
+                "popularity": 4.2987,
+                "poster_path": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
+                "release_date": "1964-12-17",
+                "title": "Mary Poppins",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 4835,
+                "credit_id": "52fe4243c3a36847f8010883",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8yE0aOQoZSSl2CuuPvjxdHuQl4P.jpg",
+                "genre_ids": [
+                    878,
+                    53
+                ],
+                "id": 10514,
+                "original_language": "en",
+                "original_title": "The Andromeda Strain",
+                "overview": "When virtually all of the residents of Piedmont, New Mexico, are found dead after the return to Earth of a space satellite, the head of the US Air Force's Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scramble to a secure laboratory and try to first isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.",
+                "popularity": 2.6978,
+                "poster_path": "/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
+                "release_date": "1971-03-12",
+                "title": "The Andromeda Strain",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 736,
+                "credit_id": "536514c5c3a36812260013a1",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bill Tuntke",
+            "William Tuntke"
+        ],
+        "biography": "",
+        "birthday": "1906-09-24",
+        "deathday": "1997-08-25",
+        "gender": 2,
+        "homepage": null,
+        "id": 5842,
+        "imdb_id": "nm0876700",
+        "known_for_department": "Art",
+        "name": "William H. Tuntke",
+        "place_of_birth": "Germany",
+        "popularity": 0.0557,
+        "profile_path": null
+    }
+}

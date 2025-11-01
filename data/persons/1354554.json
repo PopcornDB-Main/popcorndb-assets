@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2lfDV3DCNumvNyEhgsIGsrB19fs.jpg",
+                "genre_ids": [
+                    37,
+                    12
+                ],
+                "id": 995,
+                "original_language": "en",
+                "original_title": "Stagecoach",
+                "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+                "popularity": 3.3717,
+                "poster_path": "/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+                "release_date": "1939-03-02",
+                "title": "Stagecoach",
+                "video": false,
+                "vote_average": 7.625,
+                "vote_count": 1175,
+                "credit_id": "577a90ba92514174bb000656",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/agUD7Wp6LAwpaB3phx6yiRmFoSY.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3089,
+                "original_language": "en",
+                "original_title": "Red River",
+                "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and prot\u00e9g\u00e9.",
+                "popularity": 3.5699,
+                "poster_path": "/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+                "release_date": "1948-09-17",
+                "title": "Red River",
+                "video": false,
+                "vote_average": 7.338,
+                "vote_count": 559,
+                "credit_id": "5d3db8c2a1d332000f0f0fa8",
+                "department": "Camera",
+                "job": "Additional Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Ray O. Binger",
+            "R. O. Binger",
+            "R.O. Binger"
+        ],
+        "biography": "",
+        "birthday": "1888-11-16",
+        "deathday": "1970-09-29",
+        "gender": 2,
+        "homepage": null,
+        "id": 1354554,
+        "imdb_id": "nm0082915",
+        "known_for_department": "Crew",
+        "name": "Ray Binger",
+        "place_of_birth": "Pickett, Wisconsin, USA",
+        "popularity": 0.7189,
+        "profile_path": null
+    }
+}

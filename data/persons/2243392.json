@@ -1,0 +1,74 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 36657,
+                "original_language": "en",
+                "original_title": "X-Men",
+                "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+                "popularity": 0.3743,
+                "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+                "release_date": "2000-07-13",
+                "title": "X-Men",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 11779,
+                "credit_id": "6654e71855b001fbeecdb66f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ppdgXQ7rE9Whf3rCzaawQzmLVnx.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    14,
+                    18
+                ],
+                "id": 20312,
+                "original_language": "en",
+                "original_title": "Interstate 60",
+                "overview": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
+                "popularity": 4.5043,
+                "poster_path": "/zZQt29qBWLoVVOo8HEFzFYRAgYQ.jpg",
+                "release_date": "2002-04-13",
+                "title": "Interstate 60",
+                "video": false,
+                "vote_average": 7.393,
+                "vote_count": 731,
+                "credit_id": "665559b0a9a6c1e98b19d2cc",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Susan Perreault-Parker",
+            "Susan Parker ",
+            "Suzy Parker "
+        ],
+        "biography": "Susan Parker is a Canadian stunt performer, animal wrangler, and actress.",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2243392,
+        "imdb_id": "nm0662640",
+        "known_for_department": "Crew",
+        "name": "Sue Parker",
+        "place_of_birth": null,
+        "popularity": 0.2042,
+        "profile_path": "/xHcPluxqJbvgOLA5hBvreNQAuFc.jpg"
+    }
+}

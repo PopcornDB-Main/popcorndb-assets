@@ -1,0 +1,380 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 696,
+                "original_language": "en",
+                "original_title": "Manhattan",
+                "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+                "popularity": 1.7238,
+                "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+                "release_date": "1979-04-25",
+                "title": "Manhattan",
+                "video": false,
+                "vote_average": 7.721,
+                "vote_count": 2500,
+                "credit_id": "52fe426cc3a36847f801d5b9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 3.9351,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4052,
+                "credit_id": "52fe426dc3a36847f801db93",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/px0d4Kzn9683SHLMS9K3e5OHk2H.jpg",
+                "genre_ids": [
+                    35,
+                    9648
+                ],
+                "id": 10440,
+                "original_language": "en",
+                "original_title": "Manhattan Murder Mystery",
+                "overview": "A middle-aged couple suspects foul play when their neighbor's wife suddenly drops dead.",
+                "popularity": 2.9779,
+                "poster_path": "/zrzBIlMyAP7Ac9W5qAy5ssAUdK4.jpg",
+                "release_date": "1993-05-02",
+                "title": "Manhattan Murder Mystery",
+                "video": false,
+                "vote_average": 7.263,
+                "vote_count": 1121,
+                "credit_id": "52fe43719251416c750109bd",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3wwMtp2F7CgmOl2EX9q1r2yjOEk.jpg",
+                "genre_ids": [
+                    14,
+                    35,
+                    10749
+                ],
+                "id": 10849,
+                "original_language": "en",
+                "original_title": "The Purple Rose of Cairo",
+                "overview": "Cecilia is a waitress in New Jersey, living a dreary life during the Great Depression. Her only escape from her mundane reality is the movie theatre. After losing her job, Cecilia goes to see 'The Purple Rose of Cairo' in hopes of raising her spirits, where she watches dashing archaeologist Tom Baxter time and again.",
+                "popularity": 4.6034,
+                "poster_path": "/ccsint43E44B7NGceEhVimD93Yt.jpg",
+                "release_date": "1985-03-01",
+                "title": "The Purple Rose of Cairo",
+                "video": false,
+                "vote_average": 7.399,
+                "vote_count": 1084,
+                "credit_id": "52fe43c29251416c7501d0db",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11030,
+                "original_language": "en",
+                "original_title": "Zelig",
+                "overview": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+                "popularity": 2.8385,
+                "poster_path": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
+                "release_date": "1983-07-15",
+                "title": "Zelig",
+                "video": false,
+                "vote_average": 7.428,
+                "vote_count": 889,
+                "credit_id": "52fe43e79251416c7502280d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 5143,
+                "original_language": "en",
+                "original_title": "Hannah and Her Sisters",
+                "overview": "Between two Thanksgivings, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+                "popularity": 1.9408,
+                "poster_path": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+                "release_date": "1986-02-07",
+                "title": "Hannah and Her Sisters",
+                "video": false,
+                "vote_average": 7.495,
+                "vote_count": 1089,
+                "credit_id": "52fe43f6c3a36847f807aafb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dB9pJFYLvaf9w2sYtVH9TYOu6Vr.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 11485,
+                "original_language": "en",
+                "original_title": "Take the Money and Run",
+                "overview": "Virgil Starkwell is intent on becoming a notorious bank robber. Unfortunately for Virgil and his not-so-budding career, he is completely incompetent.",
+                "popularity": 1.8604,
+                "poster_path": "/dT7cKFxsuHzSnDBxKeP5acoIpWZ.jpg",
+                "release_date": "1969-08-18",
+                "title": "Take the Money and Run",
+                "video": false,
+                "vote_average": 7.105,
+                "vote_count": 760,
+                "credit_id": "52fe44499251416c7502f6ff",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uVTEJPLof6fizkWvmhxEprut9oQ.jpg",
+                "genre_ids": [
+                    35,
+                    878
+                ],
+                "id": 11561,
+                "original_language": "en",
+                "original_title": "Sleeper",
+                "overview": "Miles Monroe, a clarinet-playing health food store proprietor, is revived out of cryostasis 200 years into a future world in order to help rebels fight an oppressive government regime.",
+                "popularity": 2.2747,
+                "poster_path": "/vVpUfsHuZecO7FlCtDBQd2ullyq.jpg",
+                "release_date": "1973-12-17",
+                "title": "Sleeper",
+                "video": false,
+                "vote_average": 6.89,
+                "vote_count": 806,
+                "credit_id": "52fe445a9251416c75031be7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xDPaSuwaOizRNPitEvNiuY7i6iE.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    80
+                ],
+                "id": 11562,
+                "original_language": "en",
+                "original_title": "Crimes and Misdemeanors",
+                "overview": "A renowned ophthalmologist is desperate to cut off an adulterous relationship\u2026which ends up in murder; and a frustrated documentary filmmaker woos an attractive television producer while making a film about her insufferably self-centered boss.",
+                "popularity": 1.6619,
+                "poster_path": "/6vC6MLYUICH57MmEVi1UaNaj2Qs.jpg",
+                "release_date": "1989-10-13",
+                "title": "Crimes and Misdemeanors",
+                "video": false,
+                "vote_average": 7.418,
+                "vote_count": 912,
+                "credit_id": "52fe445a9251416c75031c67",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6YaphqLSVChdWgF7csZVjM0b08Y.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 11610,
+                "original_language": "en",
+                "original_title": "Play It Again, Sam",
+                "overview": "A neurotic film critic obsessed with the movie Casablanca (1942) attempts to get over his wife leaving him by dating again with the help of a married couple and his illusory idol, Humphrey Bogart.",
+                "popularity": 1.6693,
+                "poster_path": "/yZFz5rwrdVmEoHVkVU7EkZedDfz.jpg",
+                "release_date": "1972-05-04",
+                "title": "Play It Again, Sam",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 609,
+                "credit_id": "52fe44679251416c75033799",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11686,
+                "original_language": "en",
+                "original_title": "Love and Death",
+                "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+                "popularity": 3.1396,
+                "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+                "release_date": "1975-06-10",
+                "title": "Love and Death",
+                "video": false,
+                "vote_average": 7.497,
+                "vote_count": 929,
+                "credit_id": "52fe44799251416c75035faf",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 11382,
+                "original_language": "en",
+                "original_title": "Bullets Over Broadway",
+                "overview": "After young playwright, David Shayne obtains funding for his play from gangster Nick Valenti, Nick's girlfriend Olive miraculously lands the role of a psychiatrist\u2014but not only is she a bimbo who could never pass for a psychiatrist\u2014she's a dreadful actress. David puts up with the leading man who is a compulsive eater, the grand dame who wants her part jazzed up, and Olive's interfering hitman/bodyguard\u2014but, eventually he must decide whether art or life is more important.",
+                "popularity": 3.2443,
+                "poster_path": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+                "release_date": "1994-10-14",
+                "title": "Bullets Over Broadway",
+                "video": false,
+                "vote_average": 7.088,
+                "vote_count": 640,
+                "credit_id": "606b800e699fb70040fb328f",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qfJ6aJKRPUZ7kYOp7iuzl5jkyX5.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 2639,
+                "original_language": "en",
+                "original_title": "Deconstructing Harry",
+                "overview": "Writer Harry Block draws inspiration from people he knows, and from events that happened to him, sometimes causing these people to become alienated from him as a result.",
+                "popularity": 3.7324,
+                "poster_path": "/i7Z5DdznqANJUjqWISEFu9bw6J7.jpg",
+                "release_date": "1997-12-12",
+                "title": "Deconstructing Harry",
+                "video": false,
+                "vote_average": 7.251,
+                "vote_count": 998,
+                "credit_id": "619c5b3a52dc7f00873ac025",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/w281eYXUFwrcPLiifaJRpE2LwlA.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    53
+                ],
+                "id": 116,
+                "original_language": "en",
+                "original_title": "Match Point",
+                "overview": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
+                "popularity": 4.8355,
+                "poster_path": "/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+                "release_date": "2005-10-26",
+                "title": "Match Point",
+                "video": false,
+                "vote_average": 7.357,
+                "vote_count": 4208,
+                "credit_id": "563a4240c3a3681b54023959",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gRifpXd3ailxdFPBZ8F1xiBQJUL.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 19265,
+                "original_language": "en",
+                "original_title": "Whatever Works",
+                "overview": "Whatever Works explores the relationship between a crotchety misanthrope, Boris and a na\u00efve, impressionable young runaway from the south, Melody. When Melody's uptight parents arrive in New York to rescue her, they are quickly drawn into wildly unexpected romantic entanglements. Everyone discovers that finding love is just a combination of lucky chance and appreciating the value of \"whatever works.\"",
+                "popularity": 2.0894,
+                "poster_path": "/upIYOZbiutCBnvejGYaZlJxxKcs.jpg",
+                "release_date": "2009-06-19",
+                "title": "Whatever Works",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1785,
+                "credit_id": "5ded516d158c850013825a7c",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 30890,
+                "original_language": "en",
+                "original_title": "Radio Days",
+                "overview": "The Narrator tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+                "popularity": 5.4568,
+                "poster_path": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+                "release_date": "1987-01-30",
+                "title": "Radio Days",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 603,
+                "credit_id": "5ea0be2bbe4b360019595a36",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Charles Joffe"
+        ],
+        "biography": "Charles H. Joffe (July 16, 1929 \u2013 July 9, 2008) was an American film producer and comedy talent manager. He is best known as, in partnership with Jack Rollins, the producer or executive producer of most of Woody Allen's films. Joffe won the 1977 Academy Award for Best Picture as producer of Allen's Annie Hall.\n\nAnnie Hall was listed as \"A Jack Rollins and Charles H. Joffe Production\", though only Joffe took producer credit and received the Academy Award for Best Picture. Both were Allen's longtime managers and had that credit on all his films from 1969 to 1993. Joffe focused more on Allen, with Rollins focusing on others. Their clients also included Robert Klein and David Letterman.\n\nFrom Wikipedia, the free encyclopedia.",
+        "birthday": "1929-07-16",
+        "deathday": "2008-07-09",
+        "gender": 2,
+        "homepage": null,
+        "id": 6993,
+        "imdb_id": "nm0423618",
+        "known_for_department": "Production",
+        "name": "Charles H. Joffe",
+        "place_of_birth": "Brooklyn, New York, USA",
+        "popularity": 0.1086,
+        "profile_path": "/c2RIRYeV0e5gPd81eo5tdIpXaB2.jpg"
+    }
+}

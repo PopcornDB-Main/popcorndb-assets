@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/o0UGl6icA4DbhmDNgdZ5AWvuTtM.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 653349,
+                "original_language": "en",
+                "original_title": "Vacation Friends",
+                "overview": "When a straight-laced couple that has fun with a rowdy couple on vacation in Mexico return to the States, they discover that the crazy couple they met in Mexico followed them back home and decide to play tricks on them.",
+                "popularity": 4.752,
+                "poster_path": "/cCyJeTAct07ORPJPHyzxCrVtZzh.jpg",
+                "release_date": "2021-08-27",
+                "title": "Vacation Friends",
+                "video": false,
+                "vote_average": 7.034,
+                "vote_count": 834,
+                "credit_id": "60cd6acf7a3c520078e59200",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+                "genre_ids": [
+                    36,
+                    18
+                ],
+                "id": 850165,
+                "original_language": "en",
+                "original_title": "The Iron Claw",
+                "overview": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+                "popularity": 4.1843,
+                "poster_path": "/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
+                "release_date": "2023-12-21",
+                "title": "The Iron Claw",
+                "video": false,
+                "vote_average": 7.542,
+                "vote_count": 1086,
+                "credit_id": "65ba96841e6489017e9a8f72",
+                "department": "Visual Effects",
+                "job": "3D Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mSyQoValhBsJdq3JNGXJww2Q5yL.jpg",
+                "genre_ids": [
+                    35,
+                    27,
+                    53
+                ],
+                "id": 593643,
+                "original_language": "en",
+                "original_title": "The Menu",
+                "overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+                "popularity": 9.2226,
+                "poster_path": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+                "release_date": "2022-11-17",
+                "title": "The Menu",
+                "video": false,
+                "vote_average": 7.173,
+                "vote_count": 5598,
+                "credit_id": "6393561fba480200888d7b98",
+                "department": "Visual Effects",
+                "job": "3D Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2429765,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "David Hirsh",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

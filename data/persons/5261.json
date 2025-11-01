@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bxgTSUenZDHNFerQ1whRKplrMKF.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 389,
+                "original_language": "en",
+                "original_title": "12 Angry Men",
+                "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+                "popularity": 13.3474,
+                "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+                "release_date": "1957-04-10",
+                "title": "12 Angry Men",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 9418,
+                "credit_id": "52fe423dc3a36847f800ec6d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    10749
+                ],
+                "id": 654,
+                "original_language": "en",
+                "original_title": "On the Waterfront",
+                "overview": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
+                "popularity": 8.1428,
+                "poster_path": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+                "release_date": "1954-06-22",
+                "title": "On the Waterfront",
+                "video": false,
+                "vote_average": 7.882,
+                "vote_count": 1672,
+                "credit_id": "52fe4265c3a36847f801b1c9",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Boris Abelevich Kaufman",
+            "Kaufman",
+            "Kauffmann",
+            "\u0411\u043e\u0440\u0438\u0301\u0441 \u041a\u0430\u0301\u0443\u0444\u043c\u0430\u043d",
+            "\u0411\u043e\u0440\u0438\u0301\u0441 \u0410\u0301\u0431\u0435\u043b\u0435\u0432\u0438\u0447 \u041a\u0430\u0301\u0443\u0444\u043c\u0430\u043d"
+        ],
+        "biography": "Boris Kaufman was a Russian-born American cinematographer and the younger brother of Soviet filmmakers Dziga Vertov and Mikhail Kaufman.",
+        "birthday": "1906-08-24",
+        "deathday": "1980-06-24",
+        "gender": 2,
+        "homepage": null,
+        "id": 5261,
+        "imdb_id": "nm0442100",
+        "known_for_department": "Camera",
+        "name": "Boris Kaufman",
+        "place_of_birth": "Bialystok, Russian Empire [now Poland]",
+        "popularity": 0.0666,
+        "profile_path": "/mDqM4Hyr9UB8oipPf94MKLnwJ5y.jpg"
+    }
+}

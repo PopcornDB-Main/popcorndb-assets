@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/oZibPrp183EI5yjKvVFZ1lhA3Pj.jpg",
+                "genre_ids": [
+                    18,
+                    10751
+                ],
+                "id": 630220,
+                "original_language": "it",
+                "original_title": "18 regali",
+                "overview": "Elisa is only forty when an incurable disease takes her from her husband and their daughter. Before her heart stops, Elisa finds a way to stay close to her: a gift for every birthday up to her adult age, 18 gifts to try to accompany her child's growth year after year.",
+                "popularity": 1.7973,
+                "poster_path": "/lS7lqDT3NF2LcSPdxXNJY9pMxZ6.jpg",
+                "release_date": "2020-01-02",
+                "title": "18 Presents",
+                "video": false,
+                "vote_average": 7.406,
+                "vote_count": 700,
+                "credit_id": "62a772da35d1bc32da46f9aa",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 974576,
+                "original_language": "en",
+                "original_title": "Conclave",
+                "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+                "popularity": 8.1767,
+                "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+                "release_date": "2024-10-25",
+                "title": "Conclave",
+                "video": false,
+                "vote_average": 7.205,
+                "vote_count": 2925,
+                "credit_id": "6766528a8ca53cc6a75e0596",
+                "department": "Lighting",
+                "job": "Rigging Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3038196,
+        "imdb_id": "nm1131979",
+        "known_for_department": "Camera",
+        "name": "Simone Bramucci",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

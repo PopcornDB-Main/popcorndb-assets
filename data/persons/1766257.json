@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/eP4RZSHliWu6lPT5WQyHr5ZZKuC.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 945961,
+                "original_language": "en",
+                "original_title": "Alien: Romulus",
+                "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+                "popularity": 22.9488,
+                "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+                "release_date": "2024-08-13",
+                "title": "Alien: Romulus",
+                "video": false,
+                "vote_average": 7.177,
+                "vote_count": 3980,
+                "credit_id": "665752f1bfaa5879ea5efbb5",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+                "genre_ids": [
+                    35,
+                    80,
+                    9648
+                ],
+                "id": 546554,
+                "original_language": "en",
+                "original_title": "Knives Out",
+                "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+                "popularity": 9.7642,
+                "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+                "release_date": "2019-11-27",
+                "title": "Knives Out",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 13131,
+                "credit_id": "602da8e8d4b9d9003fd3a617",
+                "department": "Production",
+                "job": "Casting Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1766257,
+        "imdb_id": "nm8484739",
+        "known_for_department": "Production",
+        "name": "Sydney Shircliff",
+        "place_of_birth": null,
+        "popularity": 0.0414,
+        "profile_path": null
+    }
+}

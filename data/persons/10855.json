@@ -1,0 +1,156 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hUzs26surgYxbHATjyDIyWat6ZL.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    35
+                ],
+                "id": 1878,
+                "original_language": "en",
+                "original_title": "Fear and Loathing in Las Vegas",
+                "overview": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+                "popularity": 5.0911,
+                "poster_path": "/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+                "release_date": "1998-05-22",
+                "title": "Fear and Loathing in Las Vegas",
+                "video": false,
+                "vote_average": 7.211,
+                "vote_count": 4798,
+                "credit_id": "52fe431dc3a36847f803b4bf",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1WRwy3EDc2LVtwauzIMMGVJLEI5.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 9787,
+                "original_language": "en",
+                "original_title": "Lords of Dogtown",
+                "overview": "The radical true story behind three teenage surfers from Venice Beach, California, who took skateboarding to the extreme and changed the world of sports forever. Stacy Peralta, Tony Alva and Jay Adams are the Z-Boys, a bunch of nobodies until they create a new style of skateboarding that becomes a worldwide phenomenon. But when their hobby becomes a business, the success shreds their friendship.",
+                "popularity": 13.6928,
+                "poster_path": "/k2NiPfydLSwmk28C6qpvpJPuqtq.jpg",
+                "release_date": "2005-06-03",
+                "title": "Lords of Dogtown",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 773,
+                "credit_id": "610d724ddcf8750060735d00",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+                "genre_ids": [
+                    37,
+                    28
+                ],
+                "id": 11969,
+                "original_language": "en",
+                "original_title": "Tombstone",
+                "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+                "popularity": 4.7122,
+                "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+                "release_date": "1993-12-25",
+                "title": "Tombstone",
+                "video": false,
+                "vote_average": 7.59,
+                "vote_count": 2287,
+                "credit_id": "537dbc7ec3a3680598000e79",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xwjVHxKKk2hb6CJX46U4Cv0Zq0a.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 10778,
+                "original_language": "en",
+                "original_title": "The Man Who Wasn't There",
+                "overview": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it.",
+                "popularity": 3.1265,
+                "poster_path": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+                "release_date": "2001-10-26",
+                "title": "The Man Who Wasn't There",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1655,
+                "credit_id": "569f74dac3a36858dc0096d0",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+                "genre_ids": [
+                    18,
+                    53
+                ],
+                "id": 550,
+                "original_language": "en",
+                "original_title": "Fight Club",
+                "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+                "popularity": 38.6971,
+                "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+                "release_date": "1999-10-15",
+                "title": "Fight Club",
+                "video": false,
+                "vote_average": 8.438,
+                "vote_count": 30789,
+                "credit_id": "5894c4869251410b990001e3",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    53
+                ],
+                "id": 180,
+                "original_language": "en",
+                "original_title": "Minority Report",
+                "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+                "popularity": 8.8926,
+                "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+                "release_date": "2002-06-20",
+                "title": "Minority Report",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 9164,
+                "credit_id": "5ad669f99251413b28000dce",
+                "department": "Art",
+                "job": "Supervising Art Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nChris Gorak is a film director who started as an art director and production designer. He has directed the 2006 film Right at Your Door and is directing the upcoming film The Darkest Hour.\n\nGorak attended Tulane University where he earned an architecture degree. He changed his career to film and worked as art director for directors like David Fincher, the Coen brothers, and Terry Gilliam. When Gorak worked as production designer on the 2004 film The Clearing, he expressed afterward to its producers an interest in film direction. They challenged him to provide something viable, and he wrote a script for an intended short film titled Right at Your Door. He eventually directed the 2006 feature thriller film Right at Your Door, which he said was reflective of authorities being impotent in a world after the September 11 attacks. He had initially worried about his film being too similar to 28 Days Later but found inspiration in filming on a low budget. After Right at Your Door, he planned to write and direct a cop drama titled SIS.[4] The film is not yet realized, and Gorak is currently directing the alien invasion film The Darkest Hour for release in 2011.\n\nGorak is a member of the Art Directors Guild.\n\nDescription above from the Wikipedia article Chris Gorak, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1969-05-23",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 10855,
+        "imdb_id": "nm0329755",
+        "known_for_department": "Art",
+        "name": "Chris Gorak",
+        "place_of_birth": "USA",
+        "popularity": 1.1182,
+        "profile_path": null
+    }
+}

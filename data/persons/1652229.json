@@ -1,0 +1,88 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rspbS1E9wJtslrb8amfJgtMBUVh.jpg",
+                "genre_ids": [
+                    27,
+                    28
+                ],
+                "id": 924,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                "popularity": 5.5561,
+                "poster_path": "/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+                "release_date": "2004-03-19",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4240,
+                "credit_id": "586e82a0c3a3683b6400a195",
+                "department": "Visual Effects",
+                "job": "3D Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+                "genre_ids": [
+                    878
+                ],
+                "id": 17654,
+                "original_language": "en",
+                "original_title": "District 9",
+                "overview": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+                "popularity": 7.6655,
+                "poster_path": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+                "release_date": "2009-08-05",
+                "title": "District 9",
+                "video": false,
+                "vote_average": 7.455,
+                "vote_count": 9919,
+                "credit_id": "5bcb4eff9251415f4100a9f5",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rspbS1E9wJtslrb8amfJgtMBUVh.jpg",
+                "genre_ids": [
+                    27,
+                    28
+                ],
+                "id": 924,
+                "original_language": "en",
+                "original_title": "Dawn of the Dead",
+                "overview": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                "popularity": 5.5561,
+                "poster_path": "/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+                "release_date": "2004-03-19",
+                "title": "Dawn of the Dead",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 4240,
+                "credit_id": "5c39d3359251414de273bebd",
+                "department": "Visual Effects",
+                "job": "Senior Animator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1652229,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Brian Anderson",
+        "place_of_birth": null,
+        "popularity": 0.0621,
+        "profile_path": null
+    }
+}

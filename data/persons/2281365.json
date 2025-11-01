@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.8944,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.238,
+                "vote_count": 26758,
+                "credit_id": "5ca6bf28c3a3683b1daa94fb",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4FnbeuCnsN3MT6omPrivl2ttJ8o.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    36
+                ],
+                "id": 1061699,
+                "original_language": "en",
+                "original_title": "The Six Triple Eight",
+                "overview": "During World War II, the US Army's only all-Black, all-women battalion takes on an impossible mission: sorting through a three-year backlog of 17 million pieces of mail that hadn't been delivered to American soldiers and finish within six months.",
+                "popularity": 4.6489,
+                "poster_path": "/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+                "release_date": "2024-12-06",
+                "title": "The Six Triple Eight",
+                "video": false,
+                "vote_average": 7.547,
+                "vote_count": 566,
+                "credit_id": "66d768fff59f16cbd81800ec",
+                "department": "Camera",
+                "job": "Dolly Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2281365,
+        "imdb_id": null,
+        "known_for_department": "Camera",
+        "name": "Zavier Bolton",
+        "place_of_birth": null,
+        "popularity": 0.1065,
+        "profile_path": null
+    }
+}

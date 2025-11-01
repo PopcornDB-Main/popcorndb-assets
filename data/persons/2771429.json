@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/1YhiocGm8aOwILGX7mwlkdbr0ph.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 381341,
+                "original_language": "it",
+                "original_title": "Perfetti sconosciuti",
+                "overview": "During a dinner, a group of friends decide to share whatever message or phone call they will receive during the evening, with unforeseen consequences.",
+                "popularity": 2.4445,
+                "poster_path": "/3wknM629Vryofb1HNo2YnLQnQyn.jpg",
+                "release_date": "2016-02-11",
+                "title": "Perfect Strangers",
+                "video": false,
+                "vote_average": 7.86,
+                "vote_count": 4497,
+                "credit_id": "6098c0e8168ea3003e147891",
+                "department": "Art",
+                "job": "Props"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 99861,
+                "original_language": "en",
+                "original_title": "Avengers: Age of Ultron",
+                "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+                "popularity": 14.7583,
+                "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+                "release_date": "2015-04-22",
+                "title": "Avengers: Age of Ultron",
+                "video": false,
+                "vote_average": 7.271,
+                "vote_count": 23736,
+                "credit_id": "5f58f0a98c22c00039cc4ae7",
+                "department": "Art",
+                "job": "Leadman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2771429,
+        "imdb_id": "nm1159985",
+        "known_for_department": "Art",
+        "name": "Massimo Papini",
+        "place_of_birth": null,
+        "popularity": 0.0256,
+        "profile_path": null
+    }
+}

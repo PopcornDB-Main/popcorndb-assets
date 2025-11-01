@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    35,
+                    18
+                ],
+                "id": 680,
+                "original_language": "en",
+                "original_title": "Pulp Fiction",
+                "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+                "popularity": 18.2141,
+                "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+                "release_date": "1994-09-10",
+                "title": "Pulp Fiction",
+                "video": false,
+                "vote_average": 8.487,
+                "vote_count": 29106,
+                "credit_id": "59cc141cc3a368773d01a9fd",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg",
+                "genre_ids": [
+                    14,
+                    27,
+                    35
+                ],
+                "id": 766,
+                "original_language": "en",
+                "original_title": "Army of Darkness",
+                "overview": "Ash, a handsome, shotgun-toting, chainsaw-armed department store clerk, is time warped backwards into England's Dark Ages, where he romances a beauty and faces legions of the undead.",
+                "popularity": 3.987,
+                "poster_path": "/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+                "release_date": "1992-10-31",
+                "title": "Army of Darkness",
+                "video": false,
+                "vote_average": 7.255,
+                "vote_count": 3340,
+                "credit_id": "671dbd6b34c0fabd681cd9a6",
+                "department": "Production",
+                "job": "Production Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1804966,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Anna-Lisa Nilsson",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

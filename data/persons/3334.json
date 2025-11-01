@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 247,
+                "original_language": "en",
+                "original_title": "The Killing",
+                "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own.",
+                "popularity": 3.8888,
+                "poster_path": "/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+                "release_date": "1956-06-06",
+                "title": "The Killing",
+                "video": false,
+                "vote_average": 7.653,
+                "vote_count": 1621,
+                "credit_id": "52fe422cc3a36847f8009c8b",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4zJ9w3lZcZI3mBXcNiq6s8bqpDO.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    80
+                ],
+                "id": 2786,
+                "original_language": "fr",
+                "original_title": "Pierrot le fou",
+                "overview": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
+                "popularity": 1.9786,
+                "poster_path": "/i124H6iQB4CawrgFW9aZaZs7OBO.jpg",
+                "release_date": "1965-11-05",
+                "title": "Pierrot le Fou",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 897,
+                "credit_id": "52fe436dc3a36847f805355b",
+                "department": "Writing",
+                "job": "Novel"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1905-07-09",
+        "deathday": "1985-12-26",
+        "gender": 2,
+        "homepage": null,
+        "id": 3334,
+        "imdb_id": "nm0925137",
+        "known_for_department": "Writing",
+        "name": "Lionel White",
+        "place_of_birth": "New York City, New York, USA",
+        "popularity": 0.0429,
+        "profile_path": null
+    }
+}

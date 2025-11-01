@@ -1,0 +1,237 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/oM5mMTGBqsmMJO3l5tkQdQ0Xujm.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    12
+                ],
+                "id": 10112,
+                "original_language": "en",
+                "original_title": "The Aristocats",
+                "overview": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children\u2014Bonfamille\u2019s beloved family of cats\u2014the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O\u2019Malley Cat and his jazz-playing alley cats come to the aristocats\u2019 rescue.",
+                "popularity": 9.6507,
+                "poster_path": "/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+                "release_date": "1970-12-24",
+                "title": "The Aristocats",
+                "video": false,
+                "vote_average": 7.294,
+                "vote_count": 5229,
+                "credit_id": "52fe432a9251416c75005e8b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zj8XS0l1cWStpKnuD1LFMB3VoV1.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    12
+                ],
+                "id": 9325,
+                "original_language": "en",
+                "original_title": "The Jungle Book",
+                "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+                "popularity": 9.1225,
+                "poster_path": "/9BgcTVV43dZ8A1TpuXWkuNTXtfI.jpg",
+                "release_date": "1967-10-18",
+                "title": "The Jungle Book",
+                "video": false,
+                "vote_average": 7.276,
+                "vote_count": 6461,
+                "credit_id": "52fe44e8c3a36847f80b10b1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 12230,
+                "original_language": "en",
+                "original_title": "One Hundred and One Dalmatians",
+                "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+                "popularity": 7.3601,
+                "poster_path": "/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
+                "release_date": "1961-01-25",
+                "title": "One Hundred and One Dalmatians",
+                "video": false,
+                "vote_average": 7.172,
+                "vote_count": 6471,
+                "credit_id": "52fe44ce9251416c75041a7d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oegA1YBl1PszRbB0qj4UpVSr9Jt.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 11886,
+                "original_language": "en",
+                "original_title": "Robin Hood",
+                "overview": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
+                "popularity": 4.1547,
+                "poster_path": "/alcY9jZBgKw9OB7hiPYVNvh03Sb.jpg",
+                "release_date": "1973-11-08",
+                "title": "Robin Hood",
+                "video": false,
+                "vote_average": 7.301,
+                "vote_count": 4499,
+                "credit_id": "642623127f6c8d00d5040fe1",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oegA1YBl1PszRbB0qj4UpVSr9Jt.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 11886,
+                "original_language": "en",
+                "original_title": "Robin Hood",
+                "overview": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
+                "popularity": 4.1547,
+                "poster_path": "/alcY9jZBgKw9OB7hiPYVNvh03Sb.jpg",
+                "release_date": "1973-11-08",
+                "title": "Robin Hood",
+                "video": false,
+                "vote_average": 7.301,
+                "vote_count": 4499,
+                "credit_id": "5f26469f8d1b8e00366b723e",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 6.2326,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 5325,
+                "credit_id": "67a631781f6b3834ff2fdb77",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 6.2326,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 5325,
+                "credit_id": "68af7e4391b9836e93624c62",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m1TOfgljbT3jOez3b4l1I1tm82W.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 9078,
+                "original_language": "en",
+                "original_title": "The Sword in the Stone",
+                "overview": "Wart is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.",
+                "popularity": 7.7717,
+                "poster_path": "/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
+                "release_date": "1963-12-25",
+                "title": "The Sword in the Stone",
+                "video": false,
+                "vote_average": 7.226,
+                "vote_count": 3969,
+                "credit_id": "68af7eba979253a4c2624d80",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10749,
+                    10751
+                ],
+                "id": 10882,
+                "original_language": "en",
+                "original_title": "Sleeping Beauty",
+                "overview": "Cursed to die by the evil fairy Maleficent when she was a baby, Princess Aurora is sent into hiding under protection from three good fairies. As she grows up far away, Maleficent becomes increasingly determined to seal the princess's fate.",
+                "popularity": 6.2326,
+                "poster_path": "/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg",
+                "release_date": "1959-02-17",
+                "title": "Sleeping Beauty",
+                "video": false,
+                "vote_average": 6.944,
+                "vote_count": 5325,
+                "credit_id": "68d709d40e484f2ea0b40974",
+                "department": "Sound",
+                "job": "Songs"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "George Edward Bruns"
+        ],
+        "biography": "George Edward Bruns (July 3, 1914 \u2013 May 23, 1983) was an American composer of music for film and television. His accolades include four Academy Award nominations and three Grammy Award nominations. He is mainly known for his compositions for numerous Disney films from the 1950s to the 1970s, among them Sleeping Beauty (1959), One Hundred and One Dalmatians, The Absent-Minded Professor (both 1961), The Sword in the Stone (1963), The Jungle Book (1967), The Love Bug (1968), The Aristocats (1970), and Robin Hood (1973).  In the 1930s he worked as a musician with various groups in the  Portland, Oregon area. In 1946 he was appointed musical director at  radio station KEX in Portland, Oregon, and also was the bandleader for the Rose Bowl room of the Multnomah Hotel. From 1947 to 1949 he performed and recorded on trombone with Portland's Castle Jazz Band, led by banjoist Monte Ballou.\n\nIn the late 1940s he moved to Los Angeles, where he did studio work, and performed and recorded with trombonist Turk Murphy's Jazz Band. In 1953 he was hired by Walt Disney  as an arranger, eventually becoming Disney's musical director, a  position he held until his retirement in 1976. Despite his retirement he  continued to work on Disney projects.\n\nAmong his work is the song \"Yo Ho (A Pirate's Life for Me)\" (which he co-wrote with Xavier Atencio), used in the Disney theme park attraction Pirates of the Caribbean and the movies based on that ride. He also co-wrote \"The Ballad of Davy Crockett\" with Tom W. Blackburn, as well as the song \"Love\" for the Disney animated film Robin Hood. During the mid-1950s, he adapted the music from Tchaikovsky's Sleeping Beauty ballet for use as background score in the 1959 Disney film version. He also composed the score for The Jungle Book, and provided Herbie the Love Bug with his sprightly theme song, featured prominently throughout the series.\n\nDuring his tenure with Disney Studios, Bruns continued to play dixieland  jazz, leading his Wonderland Jazz Band on two recording sessions, and  playing and recording occasionally with the Disney \"house\" band, the Firehouse Five Plus Two.\n\nBruns retired from Disney in 1976 and moved back to Sandy, Oregon.He taught part-time at Lewis & Clark College and continued to play and compose music, including recording at least one locally distributed album of jazz.-Wikipedia",
+        "birthday": "1914-07-03",
+        "deathday": "1983-05-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 57337,
+        "imdb_id": "nm0005980",
+        "known_for_department": "Sound",
+        "name": "George Bruns",
+        "place_of_birth": "Sandy - Oregon - USA",
+        "popularity": 0.1698,
+        "profile_path": "/h7TkHWHbQvjZxgUFqwMtnMV3lWF.jpg"
+    }
+}

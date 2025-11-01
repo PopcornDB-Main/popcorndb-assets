@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 718032,
+                "original_language": "en",
+                "original_title": "Licorice Pizza",
+                "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+                "popularity": 9.1397,
+                "poster_path": "/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+                "release_date": "2021-11-26",
+                "title": "Licorice Pizza",
+                "video": false,
+                "vote_average": 6.959,
+                "vote_count": 2461,
+                "credit_id": "60bfaadd5b12400059118ed5",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 313369,
+                "original_language": "en",
+                "original_title": "La La Land",
+                "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+                "popularity": 8.0404,
+                "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+                "release_date": "2016-12-01",
+                "title": "La La Land",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 17514,
+                "credit_id": "575d7d6ec3a3681351002bf8",
+                "department": "Crew",
+                "job": "Production Office Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1634525,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Tyler John Young",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

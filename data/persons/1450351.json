@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    14,
+                    35,
+                    10751
+                ],
+                "id": 315162,
+                "original_language": "en",
+                "original_title": "Puss in Boots: The Last Wish",
+                "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+                "popularity": 15.6909,
+                "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+                "release_date": "2022-12-07",
+                "title": "Puss in Boots: The Last Wish",
+                "video": false,
+                "vote_average": 8.213,
+                "vote_count": 8410,
+                "credit_id": "647c93e817497300fb3b6856",
+                "department": "Writing",
+                "job": "Story Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+                "genre_ids": [
+                    16,
+                    878,
+                    10751
+                ],
+                "id": 1184918,
+                "original_language": "en",
+                "original_title": "The Wild Robot",
+                "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+                "popularity": 19.1831,
+                "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+                "release_date": "2024-09-12",
+                "title": "The Wild Robot",
+                "video": false,
+                "vote_average": 8.316,
+                "vote_count": 5370,
+                "credit_id": "66ff491567c6fb09fff7f1ff",
+                "department": "Art",
+                "job": "Additional Storyboarding"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1450351,
+        "imdb_id": "nm3195013",
+        "known_for_department": "Directing",
+        "name": "Matt Flynn",
+        "place_of_birth": null,
+        "popularity": 0.1574,
+        "profile_path": null
+    }
+}

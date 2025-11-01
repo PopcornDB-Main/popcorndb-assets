@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5vuQnRJURp6rZoEEnhW0HC7DBQc.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "id": 3109,
+                "original_language": "en",
+                "original_title": "The Quiet Man",
+                "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+                "popularity": 2.228,
+                "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+                "release_date": "1952-07-21",
+                "title": "The Quiet Man",
+                "video": false,
+                "vote_average": 7.319,
+                "vote_count": 565,
+                "credit_id": "52fe4387c3a36847f805b0c1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3114,
+                "original_language": "en",
+                "original_title": "The Searchers",
+                "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+                "popularity": 3.1059,
+                "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Searchers",
+                "video": false,
+                "vote_average": 7.702,
+                "vote_count": 1497,
+                "credit_id": "52fe4388c3a36847f805b3e9",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "W.C. Hoch",
+            "Winton Hoch",
+            "Winston Hoch"
+        ],
+        "biography": "",
+        "birthday": "1905-07-31",
+        "deathday": "1979-03-20",
+        "gender": 2,
+        "homepage": null,
+        "id": 22085,
+        "imdb_id": "nm0005743",
+        "known_for_department": "Camera",
+        "name": "Winton C. Hoch",
+        "place_of_birth": "Storm Lake, Iowa, USA",
+        "popularity": 0.0579,
+        "profile_path": null
+    }
+}

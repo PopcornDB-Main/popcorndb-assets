@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 16.3903,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23565,
+                "credit_id": "60bd4eb74a4bf60059bb3d6d",
+                "department": "Lighting",
+                "job": "Electrician"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yZP6GyrgzdpjH1AxPHlb8ACLkiA.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 49018,
+                "original_language": "en",
+                "original_title": "Insidious",
+                "overview": "A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.",
+                "popularity": 9.5947,
+                "poster_path": "/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
+                "release_date": "2011-03-31",
+                "title": "Insidious",
+                "video": false,
+                "vote_average": 6.942,
+                "vote_count": 7058,
+                "credit_id": "60e0ce914544af004724b144",
+                "department": "Camera",
+                "job": "Dolly Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3116466,
+        "imdb_id": null,
+        "known_for_department": "Lighting",
+        "name": "Tony Lopez-Cepero",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

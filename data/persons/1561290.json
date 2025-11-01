@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 12102,
+                "original_language": "en",
+                "original_title": "Kramer vs. Kramer",
+                "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+                "popularity": 2.8027,
+                "poster_path": "/gmkGQQpvOq52icAer3vriT5S25O.jpg",
+                "release_date": "1979-12-07",
+                "title": "Kramer vs. Kramer",
+                "video": false,
+                "vote_average": 7.574,
+                "vote_count": 2326,
+                "credit_id": "5b15c04b925141788800bdcb",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+                "genre_ids": [
+                    18,
+                    10752
+                ],
+                "id": 28,
+                "original_language": "en",
+                "original_title": "Apocalypse Now",
+                "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+                "popularity": 7.2427,
+                "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+                "release_date": "1979-05-19",
+                "title": "Apocalypse Now",
+                "video": false,
+                "vote_average": 8.272,
+                "vote_count": 8666,
+                "credit_id": "68c0db98d30329dff68d01b8",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1561290,
+        "imdb_id": "nm0414726",
+        "known_for_department": "Sound",
+        "name": "Jack C. Jacobsen",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

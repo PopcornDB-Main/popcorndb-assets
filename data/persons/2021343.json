@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 1924,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+                "popularity": 6.8188,
+                "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+                "release_date": "1978-12-14",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.155,
+                "vote_count": 4071,
+                "credit_id": "666a80200a631c5b0feb5671",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+                "genre_ids": [
+                    878,
+                    80
+                ],
+                "id": 185,
+                "original_language": "en",
+                "original_title": "A Clockwork Orange",
+                "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+                "popularity": 9.5862,
+                "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+                "release_date": "1971-12-19",
+                "title": "A Clockwork Orange",
+                "video": false,
+                "vote_average": 8.185,
+                "vote_count": 13351,
+                "credit_id": "5acebad2c3a3687e0e04b731",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2021343,
+        "imdb_id": "nm0066577",
+        "known_for_department": "Editing",
+        "name": "David Beesley",
+        "place_of_birth": null,
+        "popularity": 0.0398,
+        "profile_path": null
+    }
+}

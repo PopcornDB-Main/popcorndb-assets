@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 11688,
+                "original_language": "en",
+                "original_title": "The Emperor's New Groove",
+                "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
+                "popularity": 10.9675,
+                "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
+                "release_date": "2000-12-15",
+                "title": "The Emperor's New Groove",
+                "video": false,
+                "vote_average": 7.559,
+                "vote_count": 7017,
+                "credit_id": "6426265901b1ca0097fcc494",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 14836,
+                "original_language": "en",
+                "original_title": "Coraline",
+                "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+                "popularity": 21.319,
+                "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+                "release_date": "2009-02-05",
+                "title": "Coraline",
+                "video": false,
+                "vote_average": 7.898,
+                "vote_count": 8549,
+                "credit_id": "5abe13bbc3a368443f00a804",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2011281,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Dave Hartley",
+        "place_of_birth": null,
+        "popularity": 0.0261,
+        "profile_path": null
+    }
+}

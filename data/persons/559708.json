@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/r7jtS16I3vgVvqapgCa7RMkZnvj.jpg",
+                "genre_ids": [
+                    35,
+                    80
+                ],
+                "id": 11898,
+                "original_language": "en",
+                "original_title": "Kind Hearts and Coronets",
+                "overview": "When his mother eloped with an Italian opera singer, Louis Mazzini was cut off from her aristocratic family. After the family refuses to let her be buried in the family mausoleum, Louis avenges his mother's death by attempting to murder every family member who stands between himself and the family fortune. But when he finds himself torn between his longtime love and the widow of one of his victims, his plans go awry.",
+                "popularity": 1.8241,
+                "poster_path": "/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg",
+                "release_date": "1949-06-21",
+                "title": "Kind Hearts and Coronets",
+                "video": false,
+                "vote_average": 7.652,
+                "vote_count": 574,
+                "credit_id": "57ad0aa9c3a3682072000c1a",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+                "genre_ids": [
+                    80,
+                    27,
+                    9648
+                ],
+                "id": 4232,
+                "original_language": "en",
+                "original_title": "Scream",
+                "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+                "popularity": 11.1582,
+                "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+                "release_date": "1996-12-20",
+                "title": "Scream",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 7455,
+                "credit_id": "5c854736c3a3684e98dc9812",
+                "department": "Sound",
+                "job": "Foley Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 559708,
+        "imdb_id": "nm0048888",
+        "known_for_department": "Sound",
+        "name": "Roy Baker",
+        "place_of_birth": null,
+        "popularity": 0.0478,
+        "profile_path": null
+    }
+}

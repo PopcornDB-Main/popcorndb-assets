@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751
+                ],
+                "id": 313297,
+                "original_language": "en",
+                "original_title": "Kubo and the Two Strings",
+                "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+                "popularity": 4.8551,
+                "poster_path": "/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
+                "release_date": "2016-08-18",
+                "title": "Kubo and the Two Strings",
+                "video": false,
+                "vote_average": 7.633,
+                "vote_count": 3682,
+                "credit_id": "5bc235ba0e0a266e5b035221",
+                "department": "Camera",
+                "job": "Data Wrangler"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pbm04tWNa8MkbPqJ33yrGVXTWAl.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    80,
+                    53,
+                    28
+                ],
+                "id": 9829,
+                "original_language": "en",
+                "original_title": "United 93",
+                "overview": "A real-time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+                "popularity": 3.3377,
+                "poster_path": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+                "release_date": "2006-04-28",
+                "title": "United 93",
+                "video": false,
+                "vote_average": 7.102,
+                "vote_count": 1562,
+                "credit_id": "5ede86e8f1759c0022d33153",
+                "department": "Production",
+                "job": "Assistant Accountant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1659242,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Jason Potter",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

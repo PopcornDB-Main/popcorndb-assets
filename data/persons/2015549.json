@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/d9eONXYtCmQnPWw61w9pNMGlSzK.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14,
+                    10749
+                ],
+                "id": 1262,
+                "original_language": "en",
+                "original_title": "Stranger Than Fiction",
+                "overview": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+                "popularity": 3.9429,
+                "poster_path": "/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+                "release_date": "2006-09-09",
+                "title": "Stranger Than Fiction",
+                "video": false,
+                "vote_average": 7.282,
+                "vote_count": 2397,
+                "credit_id": "60ebc6fe42d8a5005e3cecba",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yfQXs8yXplCVXTLi9mxgvRf4ymE.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12,
+                    28
+                ],
+                "id": 695721,
+                "original_language": "en",
+                "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+                "popularity": 6.9626,
+                "poster_path": "/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg",
+                "release_date": "2023-11-15",
+                "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 3220,
+                "credit_id": "62cd0a1b90b87e1b9f34786b",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1977-03-13",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2015549,
+        "imdb_id": "nm1256223",
+        "known_for_department": "Production",
+        "name": "Jim Miller",
+        "place_of_birth": "Tarzana, California, USA",
+        "popularity": 0.4976,
+        "profile_path": null
+    }
+}

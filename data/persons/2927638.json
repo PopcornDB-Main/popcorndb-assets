@@ -1,0 +1,278 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 363088,
+                "original_language": "en",
+                "original_title": "Ant-Man and the Wasp",
+                "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+                "popularity": 9.2633,
+                "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+                "release_date": "2018-07-04",
+                "title": "Ant-Man and the Wasp",
+                "video": false,
+                "vote_average": 6.913,
+                "vote_count": 13751,
+                "credit_id": "65277c4881383100acf67d9d",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 284054,
+                "original_language": "en",
+                "original_title": "Black Panther",
+                "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "popularity": 9.7846,
+                "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "release_date": "2018-02-13",
+                "title": "Black Panther",
+                "video": false,
+                "vote_average": 7.369,
+                "vote_count": 22824,
+                "credit_id": "65277cb4fd63005d7d926837",
+                "department": "Production",
+                "job": "Development Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.2455,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.236,
+                "vote_count": 30971,
+                "credit_id": "65277d53fd63005d7d926896",
+                "department": "Production",
+                "job": "Development Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.8944,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.238,
+                "vote_count": 26759,
+                "credit_id": "65277d7dd399e601003f871a",
+                "department": "Crew",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 497698,
+                "original_language": "en",
+                "original_title": "Black Widow",
+                "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+                "popularity": 11.1499,
+                "poster_path": "/7JPpIjhD2V0sKyFvhB9khUMa30d.jpg",
+                "release_date": "2021-07-07",
+                "title": "Black Widow",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 10773,
+                "credit_id": "65277dd281383100c48a0acb",
+                "department": "Crew",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rAksPS6LjBONzY84szQBz5gGej6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 566525,
+                "original_language": "en",
+                "original_title": "Shang-Chi and the Legend of the Ten Rings",
+                "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+                "popularity": 12.592,
+                "poster_path": "/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
+                "release_date": "2021-09-01",
+                "title": "Shang-Chi and the Legend of the Ten Rings",
+                "video": false,
+                "vote_average": 7.509,
+                "vote_count": 9961,
+                "credit_id": "65277de5629b2c00e26673e9",
+                "department": "Crew",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 453395,
+                "original_language": "en",
+                "original_title": "Doctor Strange in the Multiverse of Madness",
+                "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+                "popularity": 14.8325,
+                "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+                "release_date": "2022-05-04",
+                "title": "Doctor Strange in the Multiverse of Madness",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 9790,
+                "credit_id": "65277e65ea84c7012d6e6c66",
+                "department": "Crew",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+                "genre_ids": [
+                    28,
+                    14,
+                    27
+                ],
+                "id": 894205,
+                "original_language": "en",
+                "original_title": "Werewolf by Night",
+                "overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader\u2019s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic\u2014a hunt that will ultimately bring them face to face with a dangerous monster.",
+                "popularity": 2.7699,
+                "poster_path": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
+                "release_date": "2022-09-25",
+                "title": "Werewolf by Night",
+                "video": false,
+                "vote_average": 6.972,
+                "vote_count": 1413,
+                "credit_id": "65277e8b1f3e6000ac4c9732",
+                "department": "Crew",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GU0jS5ZG5MhfdDrpj8s9XxbgJJ.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 505642,
+                "original_language": "en",
+                "original_title": "Black Panther: Wakanda Forever",
+                "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+                "popularity": 13.0625,
+                "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+                "release_date": "2022-11-09",
+                "title": "Black Panther: Wakanda Forever",
+                "video": false,
+                "vote_average": 7.037,
+                "vote_count": 7027,
+                "credit_id": "65277e9f629b2c00c59d9418",
+                "department": "Crew",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nJbWAc8wakV3BncyF4643SyFWPr.jpg",
+                "genre_ids": [
+                    35,
+                    878,
+                    12
+                ],
+                "id": 774752,
+                "original_language": "en",
+                "original_title": "The Guardians of the Galaxy Holiday Special",
+                "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+                "popularity": 3.8854,
+                "poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+                "release_date": "2022-11-24",
+                "title": "The Guardians of the Galaxy Holiday Special",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 2202,
+                "credit_id": "65277eaad399e6011d167616",
+                "department": "Crew",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 284052,
+                "original_language": "en",
+                "original_title": "Doctor Strange",
+                "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+                "popularity": 9.0216,
+                "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+                "release_date": "2016-10-25",
+                "title": "Doctor Strange",
+                "video": false,
+                "vote_average": 7.418,
+                "vote_count": 22804,
+                "credit_id": "67507f40cb1e120ccb5dd8e7",
+                "department": "Production",
+                "job": "Development Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kevin Wright"
+        ],
+        "biography": "Kevin R. Wright served as an executive producer on Loki (2021-2023) and former VP of production and development at Marvel Studios. He now produces original film and TV projects independently. Wright was one of the central creative figures behind the Tom Hiddleston-led Loki, which is widely considered to be the crown jewel of Marvel Studios\u2019 Disney+ slate with six Emmy nominations.\n\nShortly before 9/11, the Philadelphia native delayed his film school ambition to enlist in the U.S. Marine Corps, and he served as a combat correspondent for four years. Upon completing his service, he majored in writing for film and television at Philadelphia\u2019s University of the Arts before graduating as valedictorian. Wright then moved to Los Angeles and interned for a couple of years until a chance meeting and opportunity with Marvel Studios materialised at a time when he was considering abandoning his pursuit. He then steadily climbed the ranks, beginning as a development assistant and then the production and development manager on Doctor Strange (2016). His path to becoming a full-fledged producer on Loki and VP of Production and Development began with an associate producer role on Ant-Man and the Wasp (2018).\n\nWright crafted a 30-page pitch for Loki (2021-2023) that included many of the future show\u2019s foundational elements, including the Time Variance Authority. The entity proved to be so popular that it transitioned to the big screen in Deadpool & Wolverine (2024).\n\nWright was also in charge of introducing Hiddleston to his early concepts and potential. At the moment, Hiddleston was happy with his current character journey, which had its roots in Thor (2011). After presenting a compelling argument for immersive 360-degree sets to Marvel executives, the executive even built the foundation for the series' Emmy-nominated production design. In addition to being completed on schedule and below budget, the second season of Loki was among the first Marvel Studios productions\u2014if not the first\u2014to not require any extra photography.",
+        "birthday": "1983-01-15",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2927638,
+        "imdb_id": "nm3126753",
+        "known_for_department": "Production",
+        "name": "Kevin R. Wright",
+        "place_of_birth": "Philadelphia, Pennsylvania, USA",
+        "popularity": 0.0598,
+        "profile_path": "/qKlpTCliuOmIO3L9hu1b5sFzOGG.jpg"
+    }
+}

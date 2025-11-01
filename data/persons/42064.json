@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+                "genre_ids": [
+                    18,
+                    27,
+                    878
+                ],
+                "id": 3035,
+                "original_language": "en",
+                "original_title": "Frankenstein",
+                "overview": "Tampering with life and death, Henry Frankenstein pieces together salvaged body parts to bring a human monster to life; the mad scientist's dreams are shattered by his creation's violent rage as the monster awakens to a world in which he is unwelcome.",
+                "popularity": 4.9564,
+                "poster_path": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+                "release_date": "1931-11-21",
+                "title": "Frankenstein",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1681,
+                "credit_id": "5ff5b9eaf056d5003bf86876",
+                "department": "Writing",
+                "job": "Script Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    14
+                ],
+                "id": 564,
+                "original_language": "en",
+                "original_title": "The Mummy",
+                "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love\u2014along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+                "popularity": 12.3963,
+                "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+                "release_date": "1999-04-16",
+                "title": "The Mummy",
+                "video": false,
+                "vote_average": 6.95,
+                "vote_count": 9513,
+                "credit_id": "67529f4380e5b8f0a7562b91",
+                "department": "Writing",
+                "job": "Original Film Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "E. Richard Schayer"
+        ],
+        "biography": "",
+        "birthday": "1880-12-13",
+        "deathday": "1956-03-15",
+        "gender": 2,
+        "homepage": null,
+        "id": 42064,
+        "imdb_id": "nm0770337",
+        "known_for_department": "Writing",
+        "name": "Richard Schayer",
+        "place_of_birth": "Washington, District of Columbia, USA",
+        "popularity": 0.2207,
+        "profile_path": null
+    }
+}

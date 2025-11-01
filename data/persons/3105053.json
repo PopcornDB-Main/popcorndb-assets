@@ -1,0 +1,88 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 316029,
+                "original_language": "en",
+                "original_title": "The Greatest Showman",
+                "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+                "popularity": 6.994,
+                "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+                "release_date": "2017-12-20",
+                "title": "The Greatest Showman",
+                "video": false,
+                "vote_average": 7.872,
+                "vote_count": 9748,
+                "credit_id": "60af6eaaf90b19003f84d8a9",
+                "department": "Production",
+                "job": "Assistant Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 467909,
+                "original_language": "en",
+                "original_title": "In the Heights",
+                "overview": "The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.",
+                "popularity": 2.2733,
+                "poster_path": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+                "release_date": "2021-06-10",
+                "title": "In the Heights",
+                "video": false,
+                "vote_average": 7.12,
+                "vote_count": 753,
+                "credit_id": "60c5e1e493828e00286c0d95",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 465914,
+                "original_language": "en",
+                "original_title": "If Beale Street Could Talk",
+                "overview": "After her fiance is falsely imprisoned, a pregnant African-American woman sets out to clear his name and prove his innocence.",
+                "popularity": 3.4482,
+                "poster_path": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+                "release_date": "2018-12-14",
+                "title": "If Beale Street Could Talk",
+                "video": false,
+                "vote_average": 6.928,
+                "vote_count": 1173,
+                "credit_id": "650c625a93db9200ac2b6151",
+                "department": "Production",
+                "job": "Location Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3105053,
+        "imdb_id": "nm3055941",
+        "known_for_department": "Production",
+        "name": "Samson Jacobson",
+        "place_of_birth": null,
+        "popularity": 0.0429,
+        "profile_path": null
+    }
+}

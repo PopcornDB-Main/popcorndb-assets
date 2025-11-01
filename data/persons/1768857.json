@@ -1,0 +1,208 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 118340,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy",
+                "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                "popularity": 5.7735,
+                "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+                "release_date": "2014-07-30",
+                "title": "Guardians of the Galaxy",
+                "video": false,
+                "vote_average": 7.905,
+                "vote_count": 28896,
+                "credit_id": "62243facfe077a0043a43e06",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 283995,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 2",
+                "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                "popularity": 11.2769,
+                "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                "release_date": "2017-04-19",
+                "title": "Guardians of the Galaxy Vol. 2",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 22289,
+                "credit_id": "6224444ab84f94001dd89c22",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28,
+                    35
+                ],
+                "id": 447365,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 3",
+                "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+                "popularity": 13.0333,
+                "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+                "release_date": "2023-05-03",
+                "title": "Guardians of the Galaxy Vol. 3",
+                "video": false,
+                "vote_average": 7.93,
+                "vote_count": 7668,
+                "credit_id": "62244822e6d3cc006c97dc4b",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    12
+                ],
+                "id": 453395,
+                "original_language": "en",
+                "original_title": "Doctor Strange in the Multiverse of Madness",
+                "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+                "popularity": 14.8325,
+                "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+                "release_date": "2022-05-04",
+                "title": "Doctor Strange in the Multiverse of Madness",
+                "video": false,
+                "vote_average": 7.245,
+                "vote_count": 9790,
+                "credit_id": "6275ad099450fe00a71b388a",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.2455,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.236,
+                "vote_count": 30971,
+                "credit_id": "64fe5920fa404600fe847d63",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+                "genre_ids": [
+                    12,
+                    878,
+                    28
+                ],
+                "id": 299534,
+                "original_language": "en",
+                "original_title": "Avengers: Endgame",
+                "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+                "popularity": 16.8944,
+                "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+                "release_date": "2019-04-24",
+                "title": "Avengers: Endgame",
+                "video": false,
+                "vote_average": 8.238,
+                "vote_count": 26759,
+                "credit_id": "62cdf61efb5299004feac632",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nJbWAc8wakV3BncyF4643SyFWPr.jpg",
+                "genre_ids": [
+                    35,
+                    878,
+                    12
+                ],
+                "id": 774752,
+                "original_language": "en",
+                "original_title": "The Guardians of the Galaxy Holiday Special",
+                "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+                "popularity": 3.8854,
+                "poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+                "release_date": "2022-11-24",
+                "title": "The Guardians of the Galaxy Holiday Special",
+                "video": false,
+                "vote_average": 7.104,
+                "vote_count": 2202,
+                "credit_id": "63818e91a410c800d00b5489",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    878
+                ],
+                "id": 533535,
+                "original_language": "en",
+                "original_title": "Deadpool & Wolverine",
+                "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+                "popularity": 32.7088,
+                "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+                "release_date": "2024-07-24",
+                "title": "Deadpool & Wolverine",
+                "video": false,
+                "vote_average": 7.578,
+                "vote_count": 7752,
+                "credit_id": "66e09a1d00000000008ba8fc",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "William Timothy Mantlo (born November 9, 1951) is an American comic book writer, primarily at Marvel Comics. He is best known for his work on two licensed toy properties whose adventures occurred in the Marvel Universe: Micronauts and Rom, as well as co-creating the characters Rocket Raccoon and Cloak and Dagger. An attorney who worked as a public defender, Mantlo was the victim of a hit-and-run accident in 1992 and has been in institutional care ever since.\n\nDescription above from the Wikipedia article Bill Mantlo, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1951-11-09",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1768857,
+        "imdb_id": "nm2757098",
+        "known_for_department": "Writing",
+        "name": "Bill Mantlo",
+        "place_of_birth": "Brooklyn, New York, USA",
+        "popularity": 0.2185,
+        "profile_path": "/oIiv0vk4OpXGCdQKgM3b5mGSL7g.jpg"
+    }
+}

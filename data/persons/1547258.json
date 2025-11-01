@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 3.9351,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4052,
+                "credit_id": "5669c077c3a368369900620f",
+                "department": "Sound",
+                "job": "Sound mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r4nx6BZY4PfLPrThytBtAuwN8uV.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 13550,
+                "original_language": "en",
+                "original_title": "The Changeling",
+                "overview": "After a tragic event happens, composer John Russell moves to Seattle to try to overcome it and build a new and peaceful life in a lonely big house that has been uninhabited for many years. But, soon after, the obscure history of such an old mansion and his own past begin to haunt him.",
+                "popularity": 5.0999,
+                "poster_path": "/z4nTYj3JZ5jWAhDgrmEhW2GRAzb.jpg",
+                "release_date": "1980-03-28",
+                "title": "The Changeling",
+                "video": false,
+                "vote_average": 6.987,
+                "vote_count": 678,
+                "credit_id": "5d5f416769d2800eb2ffe470",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Jim Pilcher"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1547258,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "James Pilcher",
+        "place_of_birth": null,
+        "popularity": 0.0338,
+        "profile_path": null
+    }
+}

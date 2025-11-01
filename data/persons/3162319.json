@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749,
+                    10402
+                ],
+                "id": 313369,
+                "original_language": "en",
+                "original_title": "La La Land",
+                "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+                "popularity": 8.0404,
+                "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+                "release_date": "2016-12-01",
+                "title": "La La Land",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 17515,
+                "credit_id": "60f3f138b865eb0075f4ae04",
+                "department": "Crew",
+                "job": "Score Engineer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    10749
+                ],
+                "id": 321612,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+                "popularity": 9.412,
+                "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+                "release_date": "2017-03-16",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 15770,
+                "credit_id": "60f3f11862fcd3007e3ededd",
+                "department": "Crew",
+                "job": "Score Engineer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 3162319,
+        "imdb_id": "nm7216177",
+        "known_for_department": "Sound",
+        "name": "Daniel Galindo",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

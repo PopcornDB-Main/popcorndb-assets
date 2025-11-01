@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    9648
+                ],
+                "id": 141,
+                "original_language": "en",
+                "original_title": "Donnie Darko",
+                "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+                "popularity": 7.6223,
+                "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+                "release_date": "2001-01-19",
+                "title": "Donnie Darko",
+                "video": false,
+                "vote_average": 7.766,
+                "vote_count": 12920,
+                "credit_id": "5669f31292514174110068a9",
+                "department": "Camera",
+                "job": "Steadicam Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 280,
+                "original_language": "en",
+                "original_title": "Terminator 2: Judgment Day",
+                "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+                "popularity": 14.1257,
+                "poster_path": "/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+                "release_date": "1991-07-03",
+                "title": "Terminator 2: Judgment Day",
+                "video": false,
+                "vote_average": 8.133,
+                "vote_count": 13585,
+                "credit_id": "6446d9a0a06efe3a54a51c15",
+                "department": "Crew",
+                "job": "Special Effects"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1969-04-11",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 96746,
+        "imdb_id": "nm0150505",
+        "known_for_department": "Camera",
+        "name": "David Chameides",
+        "place_of_birth": null,
+        "popularity": 0.0429,
+        "profile_path": null
+    }
+}

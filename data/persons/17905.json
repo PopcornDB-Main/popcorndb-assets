@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/81LX4wktTXWEXjLNlkHTmJm7tRu.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    18
+                ],
+                "id": 1580,
+                "original_language": "en",
+                "original_title": "Rope",
+                "overview": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
+                "popularity": 4.4695,
+                "poster_path": "/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
+                "release_date": "1948-03-11",
+                "title": "Rope",
+                "video": false,
+                "vote_average": 7.945,
+                "vote_count": 2853,
+                "credit_id": "65161db6a199a60138b7d7f0",
+                "department": "Writing",
+                "job": "Theatre Play"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+                "genre_ids": [
+                    53,
+                    18,
+                    9648,
+                    80
+                ],
+                "id": 13528,
+                "original_language": "en",
+                "original_title": "Gaslight",
+                "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+                "popularity": 2.1938,
+                "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+                "release_date": "1944-05-04",
+                "title": "Gaslight",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 517,
+                "credit_id": "65161eaaa199a600fe751471",
+                "department": "Writing",
+                "job": "Theatre Play"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Anthony Walter Patrick Hamilton"
+        ],
+        "biography": "English playwright and novelist known for the plays Gas Light and Rope, both adapted into successful 1940s feature films.",
+        "birthday": "1904-03-17",
+        "deathday": "1962-09-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 17905,
+        "imdb_id": "nm0358096",
+        "known_for_department": "Writing",
+        "name": "Patrick Hamilton",
+        "place_of_birth": "Hassocks, Sussex, England, UK",
+        "popularity": 0.0687,
+        "profile_path": "/oz80B5v8U4577MVJ4UyimgZUPAs.jpg"
+    }
+}

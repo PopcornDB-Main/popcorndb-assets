@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35,
+                    10749,
+                    16
+                ],
+                "id": 976573,
+                "original_language": "en",
+                "original_title": "Elemental",
+                "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+                "popularity": 15.4174,
+                "poster_path": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+                "release_date": "2023-06-14",
+                "title": "Elemental",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 4974,
+                "credit_id": "6497e87a62f3350108188037",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    878
+                ],
+                "id": 274870,
+                "original_language": "en",
+                "original_title": "Passengers",
+                "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+                "popularity": 5.0812,
+                "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+                "release_date": "2016-12-21",
+                "title": "Passengers",
+                "video": false,
+                "vote_average": 6.953,
+                "vote_count": 13755,
+                "credit_id": "5bbf5bf09251413d4d01120b",
+                "department": "Crew",
+                "job": "Score Engineer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2147612,
+        "imdb_id": "nm2380194",
+        "known_for_department": "Sound",
+        "name": "Shinnosuke Miyazawa",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

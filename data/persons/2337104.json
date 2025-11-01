@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ih30cG9OGlJ7zyzhG3G5Bd3YGa9.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    10752
+                ],
+                "id": 5925,
+                "original_language": "en",
+                "original_title": "The Great Escape",
+                "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+                "popularity": 4.3555,
+                "poster_path": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+                "release_date": "1963-07-03",
+                "title": "The Great Escape",
+                "video": false,
+                "vote_average": 7.943,
+                "vote_count": 2683,
+                "credit_id": "5d078f80c3a3680a5723ce72",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nVl6SKKzuweWqDo56Iipov2tqm0.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    10770
+                ],
+                "id": 839,
+                "original_language": "en",
+                "original_title": "Duel",
+                "overview": "Traveling businessman David Mann angers the driver of a rusty tanker while crossing the California desert. A simple trip turns deadly, as Mann struggles to stay on the road while the tanker plays cat and mouse with his life.",
+                "popularity": 2.2605,
+                "poster_path": "/w9Vk1Txx14vWvACELFYFlixrsfr.jpg",
+                "release_date": "1971-11-13",
+                "title": "Duel",
+                "video": false,
+                "vote_average": 7.416,
+                "vote_count": 1960,
+                "credit_id": "5d0791090e0a261fbbda2ba7",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Sam Freed"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2337104,
+        "imdb_id": "nm0293094",
+        "known_for_department": "Sound",
+        "name": "Sam Freed Jr.",
+        "place_of_birth": null,
+        "popularity": 1.0689,
+        "profile_path": null
+    }
+}

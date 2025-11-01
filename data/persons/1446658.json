@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    14
+                ],
+                "id": 11934,
+                "original_language": "en",
+                "original_title": "The Hudsucker Proxy",
+                "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+                "popularity": 2.5864,
+                "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+                "release_date": "1994-03-11",
+                "title": "The Hudsucker Proxy",
+                "video": false,
+                "vote_average": 7.076,
+                "vote_count": 1114,
+                "credit_id": "6390ebec22931a00fdfcb42f",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    53
+                ],
+                "id": 1645,
+                "original_language": "en",
+                "original_title": "A Time to Kill",
+                "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+                "popularity": 5.6572,
+                "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+                "release_date": "1996-07-24",
+                "title": "A Time to Kill",
+                "video": false,
+                "vote_average": 7.382,
+                "vote_count": 2702,
+                "credit_id": "5b1c0181c3a36848f801e9fa",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Richard A. Yanez",
+            "Richard Yanez",
+            "Richard Yanez-Toyon"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1446658,
+        "imdb_id": "nm0870321",
+        "known_for_department": "Art",
+        "name": "Richard Toyon",
+        "place_of_birth": null,
+        "popularity": 0.3316,
+        "profile_path": "/lXr40YfvHvNYKPTn3BRwYRgcOEb.jpg"
+    }
+}

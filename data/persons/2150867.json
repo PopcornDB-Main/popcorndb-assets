@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.1636,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 10414,
+                "credit_id": "60b25f806dea3a002a5dc6cf",
+                "department": "Visual Effects",
+                "job": "Compositing Lead"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 335984,
+                "original_language": "en",
+                "original_title": "Blade Runner 2049",
+                "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+                "popularity": 19.2537,
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "release_date": "2017-10-04",
+                "title": "Blade Runner 2049",
+                "video": false,
+                "vote_average": 7.587,
+                "vote_count": 14409,
+                "credit_id": "5bc4912492514179ae05e690",
+                "department": "Visual Effects",
+                "job": "Compositing Lead"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2150867,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Joel Delle-Vergin",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

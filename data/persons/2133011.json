@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 85,
+                "original_language": "en",
+                "original_title": "Raiders of the Lost Ark",
+                "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+                "popularity": 10.971,
+                "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "release_date": "1981-06-12",
+                "title": "Raiders of the Lost Ark",
+                "video": false,
+                "vote_average": 7.925,
+                "vote_count": 13079,
+                "credit_id": "6652e755811cf17c11965db1",
+                "department": "Visual Effects",
+                "job": "Visual Effects Production Assistant"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 6.0511,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.904,
+                "vote_count": 16327,
+                "credit_id": "5ec53dd2e635710022cc29d0",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2133011,
+        "imdb_id": "nm0379192",
+        "known_for_department": "Production",
+        "name": "Miki Herman",
+        "place_of_birth": null,
+        "popularity": 0.062,
+        "profile_path": null
+    }
+}

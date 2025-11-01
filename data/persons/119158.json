@@ -1,0 +1,115 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 18,
+                "original_language": "fr",
+                "original_title": "Le Cinqui\u00e8me \u00c9l\u00e9ment",
+                "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+                "popularity": 13.9795,
+                "poster_path": "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+                "release_date": "1997-05-02",
+                "title": "The Fifth Element",
+                "video": false,
+                "vote_average": 7.558,
+                "vote_count": 11209,
+                "credit_id": "634e5c7d12eb890082c59eeb",
+                "department": "Camera",
+                "job": "Second Unit Director of Photography"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 280,
+                "original_language": "en",
+                "original_title": "Terminator 2: Judgment Day",
+                "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+                "popularity": 14.1257,
+                "poster_path": "/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+                "release_date": "1991-07-03",
+                "title": "Terminator 2: Judgment Day",
+                "video": false,
+                "vote_average": 8.133,
+                "vote_count": 13584,
+                "credit_id": "644812276e938a04a43e811e",
+                "department": "Visual Effects",
+                "job": "Visual Effects Camera"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 14836,
+                "original_language": "en",
+                "original_title": "Coraline",
+                "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+                "popularity": 21.319,
+                "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+                "release_date": "2009-02-05",
+                "title": "Coraline",
+                "video": false,
+                "vote_average": 7.898,
+                "vote_count": 8550,
+                "credit_id": "5abe22860e0a264a5400e241",
+                "department": "Crew",
+                "job": "Lighting Camera"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 6.9569,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.308,
+                "vote_count": 6108,
+                "credit_id": "66b3d076323d67f8d092e5c5",
+                "department": "Visual Effects",
+                "job": "VFX Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 119158,
+        "imdb_id": "nm0313188",
+        "known_for_department": "Visual Effects",
+        "name": "Paul Gentry",
+        "place_of_birth": null,
+        "popularity": 0.1273,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jkAr3eudvlHT3zs3EYH6i6lqQ6p.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    9648
+                ],
+                "id": 63,
+                "original_language": "en",
+                "original_title": "Twelve Monkeys",
+                "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+                "popularity": 6.8979,
+                "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+                "release_date": "1995-12-29",
+                "title": "Twelve Monkeys",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 8709,
+                "credit_id": "52fe4212c3a36847f8001ad9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    80,
+                    53
+                ],
+                "id": 155,
+                "original_language": "en",
+                "original_title": "The Dark Knight",
+                "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+                "popularity": 69.6249,
+                "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                "release_date": "2008-07-16",
+                "title": "The Dark Knight",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 34442,
+                "credit_id": "52fe421fc3a36847f8005ce7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    28
+                ],
+                "id": 272,
+                "original_language": "en",
+                "original_title": "Batman Begins",
+                "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                "popularity": 14.8961,
+                "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+                "release_date": "2005-06-10",
+                "title": "Batman Begins",
+                "video": false,
+                "vote_average": 7.717,
+                "vote_count": 21809,
+                "credit_id": "52fe4230c3a36847f800ac1f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    18,
+                    53
+                ],
+                "id": 49026,
+                "original_language": "en",
+                "original_title": "The Dark Knight Rises",
+                "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+                "popularity": 17.3593,
+                "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+                "release_date": "2012-07-17",
+                "title": "The Dark Knight Rises",
+                "video": false,
+                "vote_average": 7.787,
+                "vote_count": 23559,
+                "credit_id": "52fe4781c3a36847f8139899",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 297762,
+                "original_language": "en",
+                "original_title": "Wonder Woman",
+                "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+                "popularity": 15.7259,
+                "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+                "release_date": "2017-05-30",
+                "title": "Wonder Woman",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 20451,
+                "credit_id": "5482254ac3a3684afd002059",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.0376,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.05,
+                "vote_count": 10735,
+                "credit_id": "6162d88a18b75100298fcb24",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
+                "genre_ids": [
+                    28,
+                    35,
+                    12
+                ],
+                "id": 436969,
+                "original_language": "en",
+                "original_title": "The Suicide Squad",
+                "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+                "popularity": 18.4831,
+                "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+                "release_date": "2021-06-06",
+                "title": "The Suicide Squad",
+                "video": false,
+                "vote_average": 7.484,
+                "vote_count": 9137,
+                "credit_id": "5a584b3cc3a3681eb2003de9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 335787,
+                "original_language": "en",
+                "original_title": "Uncharted",
+                "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor \u201cSully\u201d Sullivan embark on a dangerous pursuit of \u201cthe greatest treasure never found\u201d while also tracking clues that may lead to Nathan\u2019s long-lost brother.",
+                "popularity": 7.3752,
+                "poster_path": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+                "release_date": "2022-02-10",
+                "title": "Uncharted",
+                "video": false,
+                "vote_average": 6.9,
+                "vote_count": 6431,
+                "credit_id": "5dccb1b979a1c3001345fb6e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sJjuXNHNT7PfzcgkqM3oSIkVOXB.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751,
+                    9648
+                ],
+                "id": 385103,
+                "original_language": "en",
+                "original_title": "Scoob!",
+                "overview": "In Scooby-Doo\u2019s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global \u201cdogpocalypse,\u201d the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.",
+                "popularity": 4.4712,
+                "poster_path": "/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+                "release_date": "2020-07-08",
+                "title": "Scoob!",
+                "video": false,
+                "vote_average": 7.009,
+                "vote_count": 1754,
+                "credit_id": "5ebf09a58e2e00002014ba25",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.1636,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 10413,
+                "credit_id": "60144f0abe2d490040fe9e6f",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Chuck Roven",
+            "Charles \"Chuck\" Roven"
+        ],
+        "biography": "Charles \"Chuck\" Roven\u00a0(born August 2, 1949) is an American film producer and the president and co-founder of\u00a0Atlas Entertainment.\n\nHe is known for producing\u00a0superhero films\u00a0such as\u00a0The Dark Knight Trilogy,\u00a0Man of Steel,\u00a0Batman v Superman: Dawn of Justice, and\u00a0Suicide Squad.\n\nDescription above from the Wikipedia article Charles Roven, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1949-08-02",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 282,
+        "imdb_id": "nm0746273",
+        "known_for_department": "Production",
+        "name": "Charles Roven",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.31,
+        "profile_path": "/5fxOnoI6jKicdLBtbeumKxxV9Jp.jpg"
+    }
+}

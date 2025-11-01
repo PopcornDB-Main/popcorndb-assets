@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 85,
+                "original_language": "en",
+                "original_title": "Raiders of the Lost Ark",
+                "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+                "popularity": 10.971,
+                "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "release_date": "1981-06-12",
+                "title": "Raiders of the Lost Ark",
+                "video": false,
+                "vote_average": 7.925,
+                "vote_count": 13079,
+                "credit_id": "58e3cf9292514179de013fba",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cSHie9qJvujqN4tYq6gx88WDf7o.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 576,
+                "original_language": "en",
+                "original_title": "The Wild Bunch",
+                "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+                "popularity": 2.9547,
+                "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+                "release_date": "1969-06-19",
+                "title": "The Wild Bunch",
+                "video": false,
+                "vote_average": 7.612,
+                "vote_count": 1266,
+                "credit_id": "669431493566988f8a65d87c",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1789636,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Carl Fortina",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

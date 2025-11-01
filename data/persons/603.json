@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    53
+                ],
+                "id": 78,
+                "original_language": "en",
+                "original_title": "Blade Runner",
+                "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+                "popularity": 9.8328,
+                "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+                "release_date": "1982-06-25",
+                "title": "Blade Runner",
+                "video": false,
+                "vote_average": 7.941,
+                "vote_count": 14391,
+                "credit_id": "52fe4214c3a36847f80025ff",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+                "genre_ids": [
+                    10402,
+                    35,
+                    28,
+                    80
+                ],
+                "id": 525,
+                "original_language": "en",
+                "original_title": "The Blues Brothers",
+                "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+                "popularity": 6.7134,
+                "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+                "release_date": "1980-06-16",
+                "title": "The Blues Brothers",
+                "video": false,
+                "vote_average": 7.726,
+                "vote_count": 4377,
+                "credit_id": "52fe424dc3a36847f8013c09",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Leslie Frankenheimer"
+        ],
+        "biography": "",
+        "birthday": "1948-10-02",
+        "deathday": "2013-01-22",
+        "gender": 1,
+        "homepage": null,
+        "id": 603,
+        "imdb_id": "nm0565352",
+        "known_for_department": "Art",
+        "name": "Leslie McCarthy-Frankenheimer",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 0.0609,
+        "profile_path": null
+    }
+}

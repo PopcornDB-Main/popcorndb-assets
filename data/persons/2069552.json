@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    18,
+                    53
+                ],
+                "id": 119450,
+                "original_language": "en",
+                "original_title": "Dawn of the Planet of the Apes",
+                "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+                "popularity": 15.6331,
+                "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+                "release_date": "2014-07-08",
+                "title": "Dawn of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 11837,
+                "credit_id": "60cfcf2bfcf90700590bd07a",
+                "department": "Visual Effects",
+                "job": "VFX Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 335984,
+                "original_language": "en",
+                "original_title": "Blade Runner 2049",
+                "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+                "popularity": 12.1862,
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "release_date": "2017-10-04",
+                "title": "Blade Runner 2049",
+                "video": false,
+                "vote_average": 7.587,
+                "vote_count": 14419,
+                "credit_id": "5b2bcffb0e0a26086c008240",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2069552,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Kathryn Jane Black",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

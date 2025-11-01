@@ -1,0 +1,322 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 120,
+                "original_language": "en",
+                "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+                "popularity": 24.894,
+                "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+                "release_date": "2001-12-18",
+                "title": "The Lord of the Rings: The Fellowship of the Ring",
+                "video": false,
+                "vote_average": 8.424,
+                "vote_count": 26400,
+                "credit_id": "52fe421ac3a36847f8004431",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 122,
+                "original_language": "en",
+                "original_title": "The Lord of the Rings: The Return of the King",
+                "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+                "popularity": 26.0362,
+                "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+                "release_date": "2003-12-17",
+                "title": "The Lord of the Rings: The Return of the King",
+                "video": false,
+                "vote_average": 8.5,
+                "vote_count": 25476,
+                "credit_id": "52fe421bc3a36847f80046f3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aoQW8NH6yY2ioQke0iKt0JZxXgv.jpg",
+                "genre_ids": [
+                    14,
+                    18
+                ],
+                "id": 7980,
+                "original_language": "en",
+                "original_title": "The Lovely Bones",
+                "overview": "After being brutally murdered, 14-year-old Susie Salmon watches from heaven over her grief-stricken family -- and her killer. As she observes their daily lives, she must balance her thirst for revenge with her desire for her family to heal.",
+                "popularity": 5.9556,
+                "poster_path": "/sn0iDphRxQ7I6aLd9igIgACITak.jpg",
+                "release_date": "2009-12-26",
+                "title": "The Lovely Bones",
+                "video": false,
+                "vote_average": 7.069,
+                "vote_count": 4782,
+                "credit_id": "52fe448bc3a36847f809be9f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aoQW8NH6yY2ioQke0iKt0JZxXgv.jpg",
+                "genre_ids": [
+                    14,
+                    18
+                ],
+                "id": 7980,
+                "original_language": "en",
+                "original_title": "The Lovely Bones",
+                "overview": "After being brutally murdered, 14-year-old Susie Salmon watches from heaven over her grief-stricken family -- and her killer. As she observes their daily lives, she must balance her thirst for revenge with her desire for her family to heal.",
+                "popularity": 5.9556,
+                "poster_path": "/sn0iDphRxQ7I6aLd9igIgACITak.jpg",
+                "release_date": "2009-12-26",
+                "title": "The Lovely Bones",
+                "video": false,
+                "vote_average": 7.069,
+                "vote_count": 4782,
+                "credit_id": "52fe448bc3a36847f809bec9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 9.4585,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.889,
+                "vote_count": 8190,
+                "credit_id": "60820a5567825900570dece4",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 49051,
+                "original_language": "en",
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+                "popularity": 17.021,
+                "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+                "release_date": "2012-12-12",
+                "title": "The Hobbit: An Unexpected Journey",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 19006,
+                "credit_id": "52fe4784c3a36847f813a04f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwPnxzIgQFfXl5zP0Yh8bViCMzf.jpg",
+                "genre_ids": [
+                    14,
+                    12,
+                    28
+                ],
+                "id": 57158,
+                "original_language": "en",
+                "original_title": "The Hobbit: The Desolation of Smaug",
+                "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+                "popularity": 11.3864,
+                "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+                "release_date": "2013-12-11",
+                "title": "The Hobbit: The Desolation of Smaug",
+                "video": false,
+                "vote_average": 7.572,
+                "vote_count": 13653,
+                "credit_id": "52fe4926c3a36847f818b79d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zn13a7U9eMTJq8sHthe3bCgsVm4.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 122917,
+                "original_language": "en",
+                "original_title": "The Hobbit: The Battle of the Five Armies",
+                "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+                "popularity": 22.7339,
+                "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+                "release_date": "2014-12-10",
+                "title": "The Hobbit: The Battle of the Five Armies",
+                "video": false,
+                "vote_average": 7.327,
+                "vote_count": 14807,
+                "credit_id": "5502d5c2c3a3685b9600473a",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+                "genre_ids": [
+                    878
+                ],
+                "id": 17654,
+                "original_language": "en",
+                "original_title": "District 9",
+                "overview": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+                "popularity": 13.7101,
+                "poster_path": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+                "release_date": "2009-08-05",
+                "title": "District 9",
+                "video": false,
+                "vote_average": 7.454,
+                "vote_count": 9913,
+                "credit_id": "56b4d35a9251415320003eda",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    28
+                ],
+                "id": 254,
+                "original_language": "en",
+                "original_title": "King Kong",
+                "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+                "popularity": 9.4585,
+                "poster_path": "/qVCZtwBGls866wBb4PAfYtAjyr8.jpg",
+                "release_date": "2005-12-12",
+                "title": "King Kong",
+                "video": false,
+                "vote_average": 6.889,
+                "vote_count": 8190,
+                "credit_id": "5a1a76cd925141032903a657",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zn13a7U9eMTJq8sHthe3bCgsVm4.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 122917,
+                "original_language": "en",
+                "original_title": "The Hobbit: The Battle of the Five Armies",
+                "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+                "popularity": 22.7339,
+                "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+                "release_date": "2014-12-10",
+                "title": "The Hobbit: The Battle of the Five Armies",
+                "video": false,
+                "vote_average": 7.327,
+                "vote_count": 14807,
+                "credit_id": "5af411f0c3a3682160007e72",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 49051,
+                "original_language": "en",
+                "original_title": "The Hobbit: An Unexpected Journey",
+                "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+                "popularity": 17.021,
+                "poster_path": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+                "release_date": "2012-12-12",
+                "title": "The Hobbit: An Unexpected Journey",
+                "video": false,
+                "vote_average": 7.362,
+                "vote_count": 19006,
+                "credit_id": "5c8d96fd9251410fe79fd379",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+                "genre_ids": [
+                    12,
+                    14,
+                    28
+                ],
+                "id": 121,
+                "original_language": "en",
+                "original_title": "The Lord of the Rings: The Two Towers",
+                "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+                "popularity": 17.7379,
+                "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+                "release_date": "2002-12-18",
+                "title": "The Lord of the Rings: The Two Towers",
+                "video": false,
+                "vote_average": 8.4,
+                "vote_count": 22935,
+                "credit_id": "5e9255e17a97ab00120bf19d",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0641\u06cc\u0644\u06cc\u067e\u0627 \u0628\u0648\u06cc\u0646\u0632",
+            "\u0641\u064a\u0644\u064a\u0628\u0627 \u0628\u0648\u064a\u0646\u0632",
+            "Philippa Boyens"
+        ],
+        "biography": "Philippa Jane Boyens\u00a0MNZM\u00a0(born 1963) is a New Zealand screenwriter who co-wrote the screenplay for\u00a0The Lord of the Rings\u00a0series,\u00a0King Kong,\u00a0The Lovely Bones, and the three-part film series\u00a0The Hobbit.\n\nDescription above from the Wikipedia article Philippa Boyens, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1962-01-01",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 128,
+        "imdb_id": "nm0101991",
+        "known_for_department": "Writing",
+        "name": "Philippa Boyens",
+        "place_of_birth": "Auckland, New Zealand",
+        "popularity": 0.4296,
+        "profile_path": "/vfPQnrMZ87uPjyJYrSkQtqI6c0H.jpg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/13Nz8EchKRdCgJcKdEoJAnpiVn2.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14
+                ],
+                "id": 791373,
+                "original_language": "en",
+                "original_title": "Zack Snyder's Justice League",
+                "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+                "popularity": 13.1636,
+                "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+                "release_date": "2021-03-18",
+                "title": "Zack Snyder's Justice League",
+                "video": false,
+                "vote_average": 8.108,
+                "vote_count": 10414,
+                "credit_id": "60b26bcc57d378004282e0ef",
+                "department": "Visual Effects",
+                "job": "VFX Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yfQXs8yXplCVXTLi9mxgvRf4ymE.jpg",
+                "genre_ids": [
+                    18,
+                    878,
+                    12,
+                    28
+                ],
+                "id": 695721,
+                "original_language": "en",
+                "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+                "popularity": 7.4639,
+                "poster_path": "/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg",
+                "release_date": "2023-11-15",
+                "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                "video": false,
+                "vote_average": 6.997,
+                "vote_count": 3218,
+                "credit_id": "6586f995688cd05850841fe7",
+                "department": "Visual Effects",
+                "job": "VFX Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 3107631,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Michael Zhou",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

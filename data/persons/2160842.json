@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 379149,
+                "original_language": "en",
+                "original_title": "The Foreigner",
+                "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love \u2013 his teenage daughter \u2013 dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+                "popularity": 8.7568,
+                "poster_path": "/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+                "release_date": "2017-09-28",
+                "title": "The Foreigner",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 2773,
+                "credit_id": "63d72c04609750008159a4bc",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 12.3877,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19989,
+                "credit_id": "5eca6041d2147c0022bd4861",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2160842,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Alex Darby",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

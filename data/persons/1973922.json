@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    28
+                ],
+                "id": 617653,
+                "original_language": "en",
+                "original_title": "The Last Duel",
+                "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+                "popularity": 4.6039,
+                "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+                "release_date": "2021-10-13",
+                "title": "The Last Duel",
+                "video": false,
+                "vote_average": 7.421,
+                "vote_count": 3615,
+                "credit_id": "60f7a2d7fd140b005d2b2b6f",
+                "department": "Art",
+                "job": "Supervising Art Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    80
+                ],
+                "id": 324552,
+                "original_language": "en",
+                "original_title": "John Wick: Chapter 2",
+                "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
+                "popularity": 13.7689,
+                "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+                "release_date": "2017-02-08",
+                "title": "John Wick: Chapter 2",
+                "video": false,
+                "vote_average": 7.339,
+                "vote_count": 13703,
+                "credit_id": "5f22411c988afd00357fd0fd",
+                "department": "Art",
+                "job": "Supervising Art Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Maria Cristina Onori"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1973922,
+        "imdb_id": null,
+        "known_for_department": "Art",
+        "name": "Cristina Onori",
+        "place_of_birth": null,
+        "popularity": 0.1511,
+        "profile_path": null
+    }
+}

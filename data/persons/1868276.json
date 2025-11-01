@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 37165,
+                "original_language": "en",
+                "original_title": "The Truman Show",
+                "overview": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+                "popularity": 12.4724,
+                "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+                "release_date": "1998-06-04",
+                "title": "The Truman Show",
+                "video": false,
+                "vote_average": 8.148,
+                "vote_count": 19320,
+                "credit_id": "6112a50b97fdec0046398d63",
+                "department": "Visual Effects",
+                "job": "3D Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 280,
+                "original_language": "en",
+                "original_title": "Terminator 2: Judgment Day",
+                "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+                "popularity": 14.1257,
+                "poster_path": "/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+                "release_date": "1991-07-03",
+                "title": "Terminator 2: Judgment Day",
+                "video": false,
+                "vote_average": 8.133,
+                "vote_count": 13585,
+                "credit_id": "644816403dc313052adac736",
+                "department": "Visual Effects",
+                "job": "CG Animator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1868276,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Joe Pasquale",
+        "place_of_birth": null,
+        "popularity": 0.0256,
+        "profile_path": null
+    }
+}

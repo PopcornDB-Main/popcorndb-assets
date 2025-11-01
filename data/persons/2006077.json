@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mA7cELWJKHJsQMbwhUgvD4UHoCT.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    14,
+                    10751
+                ],
+                "id": 309809,
+                "original_language": "en",
+                "original_title": "The Little Prince",
+                "overview": "Based on the best-seller book 'The Little Prince', the movie tells the story of a little girl that lives with resignation in a world where efficiency and work are the only dogmas. Everything will change when accidentally she discovers her neighbor that will tell her about the story of the Little Prince that he once met.",
+                "popularity": 5.2811,
+                "poster_path": "/je5Z7gbFTzrs3FPHINo9yGiHoVo.jpg",
+                "release_date": "2015-07-29",
+                "title": "The Little Prince",
+                "video": false,
+                "vote_average": 7.612,
+                "vote_count": 2873,
+                "credit_id": "5ab577cb92514128440003cf",
+                "department": "Crew",
+                "job": "CG Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+                "genre_ids": [
+                    16,
+                    14,
+                    28,
+                    10749,
+                    10751
+                ],
+                "id": 496450,
+                "original_language": "fr",
+                "original_title": "Miraculous - le film",
+                "overview": "After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities \u2014 even to each other.",
+                "popularity": 9.0643,
+                "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+                "release_date": "2023-07-05",
+                "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+                "video": false,
+                "vote_average": 7.618,
+                "vote_count": 923,
+                "credit_id": "64ca58a985b105011cada15c",
+                "department": "Visual Effects",
+                "job": "VFX Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2006077,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Rachid Chikh",
+        "place_of_birth": null,
+        "popularity": 0.0379,
+        "profile_path": null
+    }
+}

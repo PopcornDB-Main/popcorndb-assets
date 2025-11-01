@@ -1,0 +1,45 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.0376,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.049,
+                "vote_count": 10741,
+                "credit_id": "6387c5e38ee49c00a0deb7b9",
+                "department": "Art",
+                "job": "Art Department Assistant"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1475628,
+        "imdb_id": "nm6547149",
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lauren Kelley",
+        "place_of_birth": null,
+        "popularity": 0.042,
+        "profile_path": null
+    }
+}

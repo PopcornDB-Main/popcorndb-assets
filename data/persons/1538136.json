@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    12
+                ],
+                "id": 204,
+                "original_language": "fr",
+                "original_title": "Le Salaire de la peur",
+                "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+                "popularity": 2.893,
+                "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+                "release_date": "1953-04-22",
+                "title": "The Wages of Fear",
+                "video": false,
+                "vote_average": 8.017,
+                "vote_count": 1014,
+                "credit_id": "564d217c9251416de3004b6a",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/kB9Y59YDMOFdm5LgSyTVj4b6hh6.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 4909,
+                "original_language": "en",
+                "original_title": "The Day of the Jackal",
+                "overview": "An international assassin known as \u2018The Jackal\u2019 is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin\u2019s trail.",
+                "popularity": 5.4412,
+                "poster_path": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+                "release_date": "1973-05-16",
+                "title": "The Day of the Jackal",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 631,
+                "credit_id": "5dc671d3a14e1000135c14f4",
+                "department": "Production",
+                "job": "Production Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Henri Jacquillard"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1538136,
+        "imdb_id": "nm0418497",
+        "known_for_department": "Production",
+        "name": "Henri Jaquillard",
+        "place_of_birth": null,
+        "popularity": 0.0336,
+        "profile_path": null
+    }
+}

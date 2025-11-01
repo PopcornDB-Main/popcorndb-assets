@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14,
+                    878
+                ],
+                "id": 19995,
+                "original_language": "en",
+                "original_title": "Avatar",
+                "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+                "popularity": 28.5946,
+                "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+                "release_date": "2009-12-15",
+                "title": "Avatar",
+                "video": false,
+                "vote_average": 7.594,
+                "vote_count": 32644,
+                "credit_id": "5bc50b0cc3a3682d4b06d90d",
+                "department": "Crew",
+                "job": "Compositor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 80,
+                "original_language": "en",
+                "original_title": "Before Sunset",
+                "overview": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+                "popularity": 5.8783,
+                "poster_path": "/94Yl2xVB7YIRK4IgA0RqYGiNgkB.jpg",
+                "release_date": "2004-06-16",
+                "title": "Before Sunset",
+                "video": false,
+                "vote_average": 7.808,
+                "vote_count": 3581,
+                "credit_id": "5cc4bee1c3a368454a824032",
+                "department": "Visual Effects",
+                "job": "Digital Compositor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1567911,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Lori C. Miller",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

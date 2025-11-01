@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 218,
+                "original_language": "en",
+                "original_title": "The Terminator",
+                "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+                "popularity": 11.2163,
+                "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+                "release_date": "1984-10-26",
+                "title": "The Terminator",
+                "video": false,
+                "vote_average": 7.671,
+                "vote_count": 13863,
+                "credit_id": "5a5b7cfbc3a368680d0206e0",
+                "department": "Lighting",
+                "job": "Electrician"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    9648
+                ],
+                "id": 141,
+                "original_language": "en",
+                "original_title": "Donnie Darko",
+                "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+                "popularity": 7.9985,
+                "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+                "release_date": "2001-01-19",
+                "title": "Donnie Darko",
+                "video": false,
+                "vote_average": 7.766,
+                "vote_count": 12921,
+                "credit_id": "600dbd0fcb80280041032a6d",
+                "department": "Lighting",
+                "job": "Best Boy Electric"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1959862,
+        "imdb_id": null,
+        "known_for_department": "Lighting",
+        "name": "Mark Morton",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

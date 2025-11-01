@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
+                "genre_ids": [
+                    9648,
+                    53,
+                    80,
+                    18
+                ],
+                "id": 793,
+                "original_language": "en",
+                "original_title": "Blue Velvet",
+                "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+                "popularity": 9.0627,
+                "poster_path": "/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
+                "release_date": "1986-09-19",
+                "title": "Blue Velvet",
+                "video": false,
+                "vote_average": 7.609,
+                "vote_count": 3594,
+                "credit_id": "52fe4277c3a36847f8020dc3",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+                "genre_ids": [
+                    14,
+                    28,
+                    53
+                ],
+                "id": 9495,
+                "original_language": "en",
+                "original_title": "The Crow",
+                "overview": "Exactly one year after young rock guitarist Eric Draven and his fianc\u00e9e are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+                "popularity": 6.808,
+                "poster_path": "/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+                "release_date": "1994-05-11",
+                "title": "The Crow",
+                "video": false,
+                "vote_average": 7.52,
+                "vote_count": 4309,
+                "credit_id": "5b513ef892514112b30081e2",
+                "department": "Art",
+                "job": "Property Master"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Tantar LeViseur"
+        ],
+        "biography": "",
+        "birthday": "1953-01-01",
+        "deathday": "2010-04-24",
+        "gender": 0,
+        "homepage": null,
+        "id": 11791,
+        "imdb_id": "nm0506131",
+        "known_for_department": "Art",
+        "name": "Edward 'Tantar' LeViseur",
+        "place_of_birth": "Pittsburgh, Pennsylvania, USA",
+        "popularity": 0.0613,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751,
+                    16
+                ],
+                "id": 277834,
+                "original_language": "en",
+                "original_title": "Moana",
+                "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+                "popularity": 3.0256,
+                "poster_path": "/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
+                "release_date": "2016-10-13",
+                "title": "Moana",
+                "video": false,
+                "vote_average": 7.564,
+                "vote_count": 13302,
+                "credit_id": "5ab508cd9251417afb01c4b1",
+                "department": "Art",
+                "job": "Background Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    18,
+                    14,
+                    12
+                ],
+                "id": 8587,
+                "original_language": "en",
+                "original_title": "The Lion King",
+                "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+                "popularity": 13.1867,
+                "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+                "release_date": "1994-06-15",
+                "title": "The Lion King",
+                "video": false,
+                "vote_average": 8.3,
+                "vote_count": 19037,
+                "credit_id": "5ab7bb45925141395201b233",
+                "department": "Art",
+                "job": "Background Designer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1451226,
+        "imdb_id": "nm0040675",
+        "known_for_department": "Art",
+        "name": "Barry Atkinson",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

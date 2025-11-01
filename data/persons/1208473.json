@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36,
+                    53
+                ],
+                "id": 612,
+                "original_language": "en",
+                "original_title": "Munich",
+                "overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+                "popularity": 4.0476,
+                "poster_path": "/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+                "release_date": "2005-12-23",
+                "title": "Munich",
+                "video": false,
+                "vote_average": 7.141,
+                "vote_count": 2816,
+                "credit_id": "5ab7cc910e0a261feb01cc48",
+                "department": "Art",
+                "job": "Construction Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/m7ynwXIvSnhxQPR6pOICrC0L2sO.jpg",
+                "genre_ids": [
+                    878,
+                    18
+                ],
+                "id": 335984,
+                "original_language": "en",
+                "original_title": "Blade Runner 2049",
+                "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+                "popularity": 12.1862,
+                "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "release_date": "2017-10-04",
+                "title": "Blade Runner 2049",
+                "video": false,
+                "vote_average": 7.587,
+                "vote_count": 14419,
+                "credit_id": "5bbd109b0e0a26661e0222dd",
+                "department": "Art",
+                "job": "Construction Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1208473,
+        "imdb_id": "nm1271995",
+        "known_for_department": "Art",
+        "name": "Gyula Herjeczki",
+        "place_of_birth": null,
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

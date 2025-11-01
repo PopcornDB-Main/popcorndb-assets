@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8UZfEjAlFq1iUiAkHMkJViq4ZO0.jpg",
+                "genre_ids": [
+                    53,
+                    9648,
+                    27
+                ],
+                "id": 11033,
+                "original_language": "en",
+                "original_title": "Dressed to Kill",
+                "overview": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+                "popularity": 3.2249,
+                "poster_path": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+                "release_date": "1980-07-25",
+                "title": "Dressed to Kill",
+                "video": false,
+                "vote_average": 6.955,
+                "vote_count": 1041,
+                "credit_id": "616132f61d35630060c6dca2",
+                "department": "Directing",
+                "job": "Second Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 311,
+                "original_language": "en",
+                "original_title": "Once Upon a Time in America",
+                "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+                "popularity": 6.2123,
+                "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+                "release_date": "1984-05-23",
+                "title": "Once Upon a Time in America",
+                "video": false,
+                "vote_average": 8.406,
+                "vote_count": 5734,
+                "credit_id": "5e49cbdb676ce20015009cd6",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 9665,
+                "original_language": "en",
+                "original_title": "Glory",
+                "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+                "popularity": 3.6247,
+                "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+                "release_date": "1989-12-15",
+                "title": "Glory",
+                "video": false,
+                "vote_average": 7.472,
+                "vote_count": 1703,
+                "credit_id": "5f10ee4443494f00353312d1",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 947086,
+        "imdb_id": "nm0745074",
+        "known_for_department": "Directing",
+        "name": "Robert Rothbard",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

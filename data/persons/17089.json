@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bjF9mcP7IuD4x01T7W70gKzSkxx.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    27,
+                    53
+                ],
+                "id": 1433,
+                "original_language": "es",
+                "original_title": "El espinazo del diablo",
+                "overview": "Spain, 1939. In the last days of the Spanish Civil War, the young Carlos arrives at the Santa Luc\u00eda orphanage, where he will make friends and enemies as he follows the quiet footsteps of a mysterious presence eager for revenge.",
+                "popularity": 5.7044,
+                "poster_path": "/iP1z1aJzPnkP8FHg77TS7ukqoEZ.jpg",
+                "release_date": "2001-04-20",
+                "title": "The Devil's Backbone",
+                "video": false,
+                "vote_average": 7.294,
+                "vote_count": 1279,
+                "credit_id": "52fe42f6c3a36847f80303ab",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hokXWehieJ2mdiward3L0qnGI7r.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 4553,
+                "original_language": "en",
+                "original_title": "The Machinist",
+                "overview": "Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.",
+                "popularity": 6.0375,
+                "poster_path": "/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+                "release_date": "2004-09-24",
+                "title": "The Machinist",
+                "video": false,
+                "vote_average": 7.524,
+                "vote_count": 5846,
+                "credit_id": "52fe43cbc3a36847f80704d1",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 17089,
+        "imdb_id": "nm0209303",
+        "known_for_department": "Editing",
+        "name": "Luis de la Madrid",
+        "place_of_birth": null,
+        "popularity": 0.7849,
+        "profile_path": null
+    }
+}

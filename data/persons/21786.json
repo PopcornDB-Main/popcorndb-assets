@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2hABgVIhalvUB30Z2kIPVv8YX9n.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    10752
+                ],
+                "id": 1654,
+                "original_language": "en",
+                "original_title": "The Dirty Dozen",
+                "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy ch\u00e2teau and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+                "popularity": 3.8321,
+                "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+                "release_date": "1967-06-15",
+                "title": "The Dirty Dozen",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1257,
+                "credit_id": "52fe4309c3a36847f80359e9",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rgy1Nf2kf7UodG4BI6awfQqttac.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    10752
+                ],
+                "id": 907,
+                "original_language": "en",
+                "original_title": "Doctor Zhivago",
+                "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+                "popularity": 4.1126,
+                "poster_path": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+                "release_date": "1965-12-22",
+                "title": "Doctor Zhivago",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1207,
+                "credit_id": "5f8af0b2eb79c200390ad9b2",
+                "department": "Art",
+                "job": "Assistant Art Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bill Hutchinson"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 21786,
+        "imdb_id": "nm0404423",
+        "known_for_department": "Art",
+        "name": "William Hutchinson",
+        "place_of_birth": null,
+        "popularity": 0.0412,
+        "profile_path": null
+    }
+}

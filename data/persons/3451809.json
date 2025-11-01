@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jLslJietfQJEgOvQHk4fRYFCnTS.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    16,
+                    12
+                ],
+                "id": 366924,
+                "original_language": "en",
+                "original_title": "Batman: Bad Blood",
+                "overview": "Bruce Wayne is missing. Alfred covers for him while Nightwing and Robin patrol Gotham City in his stead and a new player, Batwoman, investigates Batman's disappearance.",
+                "popularity": 3.2118,
+                "poster_path": "/ktjbGsGm5GKlHDvvwQajXvDW2BN.jpg",
+                "release_date": "2016-01-19",
+                "title": "Batman: Bad Blood",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 947,
+                "credit_id": "64bdb29f85c0a201061055cb",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 1061474,
+                "original_language": "en",
+                "original_title": "Superman",
+                "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+                "popularity": 196.55,
+                "poster_path": "/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+                "release_date": "2025-07-09",
+                "title": "Superman",
+                "video": false,
+                "vote_average": 7.467,
+                "vote_count": 3396,
+                "credit_id": "6880de86317a5cfe9cf7762b",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1956-01-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "http://www.tommandrake.com",
+        "id": 3451809,
+        "imdb_id": "nm2180319",
+        "known_for_department": "Crew",
+        "name": "Tom Mandrake",
+        "place_of_birth": null,
+        "popularity": 0.2646,
+        "profile_path": null
+    }
+}

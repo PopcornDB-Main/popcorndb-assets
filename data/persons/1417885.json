@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28
+                ],
+                "id": 283995,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 2",
+                "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                "popularity": 12.0594,
+                "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                "release_date": "2017-04-19",
+                "title": "Guardians of the Galaxy Vol. 2",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 22294,
+                "credit_id": "5917147292514105da029016",
+                "department": "Crew",
+                "job": "Visual Effects Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 102899,
+                "original_language": "en",
+                "original_title": "Ant-Man",
+                "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+                "popularity": 9.066,
+                "poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+                "release_date": "2015-07-14",
+                "title": "Ant-Man",
+                "video": false,
+                "vote_average": 7.068,
+                "vote_count": 20331,
+                "credit_id": "5f2c2127fab3fa0035012338",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1417885,
+        "imdb_id": "nm2312472",
+        "known_for_department": "Crew",
+        "name": "Lorena Talpan",
+        "place_of_birth": null,
+        "popularity": 0.0768,
+        "profile_path": null
+    }
+}

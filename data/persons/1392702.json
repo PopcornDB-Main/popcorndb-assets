@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+                "genre_ids": [
+                    9648,
+                    878
+                ],
+                "id": 2666,
+                "original_language": "en",
+                "original_title": "Dark City",
+                "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+                "popularity": 4.5253,
+                "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+                "release_date": "1998-02-27",
+                "title": "Dark City",
+                "video": false,
+                "vote_average": 7.333,
+                "vote_count": 3001,
+                "credit_id": "547d9724c3a3685b0500556f",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 453,
+                "original_language": "en",
+                "original_title": "A Beautiful Mind",
+                "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+                "popularity": 7.6626,
+                "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+                "release_date": "2001-12-14",
+                "title": "A Beautiful Mind",
+                "video": false,
+                "vote_average": 7.856,
+                "vote_count": 10636,
+                "credit_id": "5f9058f6278d8a00383532eb",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1392702,
+        "imdb_id": "nm0860498",
+        "known_for_department": "Sound",
+        "name": "Michael Thompson",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

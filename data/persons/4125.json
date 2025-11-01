@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 289,
+                "original_language": "en",
+                "original_title": "Casablanca",
+                "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+                "popularity": 5.1696,
+                "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "release_date": "1943-01-15",
+                "title": "Casablanca",
+                "video": false,
+                "vote_average": 8.155,
+                "vote_count": 5728,
+                "credit_id": "52fe4233c3a36847f800b89b",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hSmX0ZyYZk2ECIWtJ1JSHINPZIK.jpg",
+                "genre_ids": [
+                    9648,
+                    80,
+                    53
+                ],
+                "id": 910,
+                "original_language": "en",
+                "original_title": "The Big Sleep",
+                "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+                "popularity": 3.3802,
+                "poster_path": "/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+                "release_date": "1946-08-23",
+                "title": "The Big Sleep",
+                "video": false,
+                "vote_average": 7.606,
+                "vote_count": 1093,
+                "credit_id": "52fe428bc3a36847f8027177",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+                "genre_ids": [
+                    12,
+                    10749,
+                    36
+                ],
+                "id": 10907,
+                "original_language": "en",
+                "original_title": "The Adventures of Robin Hood",
+                "overview": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
+                "popularity": 2.6011,
+                "poster_path": "/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
+                "release_date": "1938-05-13",
+                "title": "The Adventures of Robin Hood",
+                "video": false,
+                "vote_average": 7.485,
+                "vote_count": 801,
+                "credit_id": "61e5e07ac613ce008cee10bc",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1890-12-06",
+        "deathday": "1948-07-12",
+        "gender": 2,
+        "homepage": null,
+        "id": 4125,
+        "imdb_id": "nm0923380",
+        "known_for_department": "Art",
+        "name": "Carl Jules Weyl",
+        "place_of_birth": null,
+        "popularity": 1.849,
+        "profile_path": null
+    }
+}

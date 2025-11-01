@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/sZhY0BAsN1bMAPLIqMRqG1fqb3A.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 10009,
+                "original_language": "en",
+                "original_title": "Brother Bear",
+                "overview": "When an impulsive boy named Kenai is magically transformed into a bear, he must literally walk in another's footsteps until he learns some valuable life lessons. His courageous and often zany journey introduces him to a forest full of wildlife, including the lovable bear cub Koda, hilarious moose Rutt and Tuke, woolly mammoths and rambunctious rams.",
+                "popularity": 7.9471,
+                "poster_path": "/otptPbEY0vBostmo95xwiiumMJm.jpg",
+                "release_date": "2003-10-23",
+                "title": "Brother Bear",
+                "video": false,
+                "vote_average": 7.27,
+                "vote_count": 5592,
+                "credit_id": "58cae0bac3a36828990016d3",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4QpKxH614YFIsmiIBVUbsnG2H8w.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    28,
+                    878,
+                    12,
+                    14,
+                    18
+                ],
+                "id": 961323,
+                "original_language": "en",
+                "original_title": "Nimona",
+                "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
+                "popularity": 3.509,
+                "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+                "release_date": "2023-06-23",
+                "title": "Nimona",
+                "video": false,
+                "vote_average": 7.866,
+                "vote_count": 1247,
+                "credit_id": "649f5bfb81da39010b8a5060",
+                "department": "Writing",
+                "job": "Story Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1451220,
+        "imdb_id": null,
+        "known_for_department": "Visual Effects",
+        "name": "Travis Blaise",
+        "place_of_birth": null,
+        "popularity": 0.0416,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5ChBhGXIX7RgOMSjIlXgBp6UjMf.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    10749,
+                    36
+                ],
+                "id": 11661,
+                "original_language": "fr",
+                "original_title": "Joyeux No\u00ebl",
+                "overview": "France, 1914, during World War I. On Christmas Eve, an extraordinary event takes place in the bloody no man's land that the French and the Scots dispute with the Germans\u2026",
+                "popularity": 3.1207,
+                "poster_path": "/9Ka8lKCIiWjnZiMslPQeakS5UhW.jpg",
+                "release_date": "2005-11-09",
+                "title": "Joyeux Noel",
+                "video": false,
+                "vote_average": 7.388,
+                "vote_count": 887,
+                "credit_id": "560bdf69c3a3686810005b29",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
+                "genre_ids": [
+                    878,
+                    53,
+                    9648,
+                    28
+                ],
+                "id": 406990,
+                "original_language": "en",
+                "original_title": "What Happened to Monday",
+                "overview": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
+                "popularity": 5.3603,
+                "poster_path": "/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+                "release_date": "2017-08-18",
+                "title": "What Happened to Monday",
+                "video": false,
+                "vote_average": 7.159,
+                "vote_count": 6248,
+                "credit_id": "59325bf2c3a3685a35007863",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Dan Vraciu"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 62438,
+        "imdb_id": "nm1738899",
+        "known_for_department": "Art",
+        "name": "Eduard Daniel Vraciu",
+        "place_of_birth": null,
+        "popularity": 0.1498,
+        "profile_path": null
+    }
+}

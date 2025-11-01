@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/yVBQ65YBYZ9UhzJ4NGdRgeXtyTL.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28,
+                    53
+                ],
+                "id": 70160,
+                "original_language": "en",
+                "original_title": "The Hunger Games",
+                "overview": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister\u2019s place, setting the stage for a struggle of survival and defiance.",
+                "popularity": 9.6136,
+                "poster_path": "/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+                "release_date": "2012-03-12",
+                "title": "The Hunger Games",
+                "video": false,
+                "vote_average": 7.218,
+                "vote_count": 22646,
+                "credit_id": "5c7a67bf92514107694791a2",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    36
+                ],
+                "id": 359724,
+                "original_language": "en",
+                "original_title": "Ford v Ferrari",
+                "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+                "popularity": 11.3378,
+                "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                "release_date": "2019-11-13",
+                "title": "Ford v Ferrari",
+                "video": false,
+                "vote_average": 8.006,
+                "vote_count": 8507,
+                "credit_id": "5e7f82035258ae00120b0c81",
+                "department": "Lighting",
+                "job": "Rigging Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2254509,
+        "imdb_id": null,
+        "known_for_department": "Camera",
+        "name": "Brian Knox",
+        "place_of_birth": null,
+        "popularity": 0.0071,
+        "profile_path": null
+    }
+}

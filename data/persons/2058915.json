@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    53
+                ],
+                "id": 180,
+                "original_language": "en",
+                "original_title": "Minority Report",
+                "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+                "popularity": 7.965,
+                "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+                "release_date": "2002-06-20",
+                "title": "Minority Report",
+                "video": false,
+                "vote_average": 7.351,
+                "vote_count": 9174,
+                "credit_id": "6781512fc81acaa63dbb7b53",
+                "department": "Crew",
+                "job": "Special Effects Assistant"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10312,
+                "original_language": "en",
+                "original_title": "Patch Adams",
+                "overview": "The true story of Dr. Hunter \"Patch\" Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh\u2014even if it meant risking his own career.",
+                "popularity": 4.1145,
+                "poster_path": "/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
+                "release_date": "1998-12-25",
+                "title": "Patch Adams",
+                "video": false,
+                "vote_average": 7.316,
+                "vote_count": 3317,
+                "credit_id": "678152c86056586f6c4e4d9c",
+                "department": "Art",
+                "job": "Special Props"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mike McGee"
+        ],
+        "biography": "",
+        "birthday": "1965-05-04",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2058915,
+        "imdb_id": "nm1326232",
+        "known_for_department": "Directing",
+        "name": "Michael McGee",
+        "place_of_birth": "Roanoke, Virginia, USA",
+        "popularity": 0.1185,
+        "profile_path": null
+    }
+}

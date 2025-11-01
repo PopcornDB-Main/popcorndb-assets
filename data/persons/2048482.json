@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jllyc0pY7xFYLyjuCEP6pO7hm8t.jpg",
+                "genre_ids": [
+                    80,
+                    35,
+                    53
+                ],
+                "id": 9430,
+                "original_language": "en",
+                "original_title": "Go",
+                "overview": "A supermarket clerk decides to step in for an absent drug dealer, setting off an explosive, comedic chain of events.",
+                "popularity": 3.4472,
+                "poster_path": "/kP0OOAa4GTZSUPW8fgPbk1OmKEW.jpg",
+                "release_date": "1999-04-09",
+                "title": "Go",
+                "video": false,
+                "vote_average": 6.99,
+                "vote_count": 767,
+                "credit_id": "63cf0102028f1400c0dfa1f8",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 7.7,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.31,
+                "vote_count": 6119,
+                "credit_id": "5b048c53925141462c000cbb",
+                "department": "Crew",
+                "job": "Video Assist Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Al Samuels"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": "2011-11-06",
+        "gender": 2,
+        "homepage": null,
+        "id": 2048482,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Alan B. Samuels",
+        "place_of_birth": null,
+        "popularity": 0.0814,
+        "profile_path": null
+    }
+}

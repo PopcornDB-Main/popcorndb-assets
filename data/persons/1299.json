@@ -1,0 +1,235 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35
+                ],
+                "id": 252,
+                "original_language": "en",
+                "original_title": "Willy Wonka & the Chocolate Factory",
+                "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+                "popularity": 6.2938,
+                "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+                "release_date": "1971-06-29",
+                "title": "Willy Wonka & the Chocolate Factory",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3767,
+                "credit_id": "52fe422dc3a36847f800a06d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 10315,
+                "original_language": "en",
+                "original_title": "Fantastic Mr. Fox",
+                "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+                "popularity": 7.885,
+                "poster_path": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+                "release_date": "2009-10-14",
+                "title": "Fantastic Mr. Fox",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 5791,
+                "credit_id": "52fe43579251416c7500cb7f",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 10830,
+                "original_language": "en",
+                "original_title": "Matilda",
+                "overview": "Matilda Wormwood is an exquisite and intelligent little girl. Unfortunately, her parents, Harry and Zinnia misunderstand her because they think she is so different. As time passes, she finally starts school and has a kind teacher, loyal friends, and a sadistic headmistress. As she gets fed up with the constant cruelty, she begins to realize that she has a gift of telekinetic powers. After some days of practice, she suddenly turns the tables to stand up to Harry and Zinnia and outwit the headmistress.",
+                "popularity": 6.0113,
+                "poster_path": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+                "release_date": "1996-08-02",
+                "title": "Matilda",
+                "video": false,
+                "vote_average": 7.165,
+                "vote_count": 4620,
+                "credit_id": "52fe43be9251416c7501c659",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    12
+                ],
+                "id": 923939,
+                "original_language": "en",
+                "original_title": "The Wonderful Story of Henry Sugar",
+                "overview": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+                "popularity": 3.4683,
+                "poster_path": "/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+                "release_date": "2023-09-20",
+                "title": "The Wonderful Story of Henry Sugar",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1199,
+                "credit_id": "651609b3d4653709dc7b6713",
+                "department": "Writing",
+                "job": "Short Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    12
+                ],
+                "id": 923939,
+                "original_language": "en",
+                "original_title": "The Wonderful Story of Henry Sugar",
+                "overview": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+                "popularity": 3.4683,
+                "poster_path": "/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+                "release_date": "2023-09-20",
+                "title": "The Wonderful Story of Henry Sugar",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1199,
+                "credit_id": "65160d4593bd690138fc8769",
+                "department": "Writing",
+                "job": "Original Film Writer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hehaK1jIuTOvRPGPccVivZcZ2Cb.jpg",
+                "genre_ids": [
+                    14,
+                    10751,
+                    27
+                ],
+                "id": 10166,
+                "original_language": "en",
+                "original_title": "The Witches",
+                "overview": "A young boy named Luke and his grandmother go on vacation only to discover their hotel is hosting an international witch convention, where the Grand High Witch is unveiling her master plan to turn all children into mice. Will Luke fall victim to the witches' plot before he can stop them?",
+                "popularity": 3.8865,
+                "poster_path": "/mPYBjVkeHakkPGY7WaKyyNU4RWm.jpg",
+                "release_date": "1990-05-25",
+                "title": "The Witches",
+                "video": false,
+                "vote_average": 6.943,
+                "vote_count": 1300,
+                "credit_id": "55d22cffc3a3683437000133",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    35
+                ],
+                "id": 252,
+                "original_language": "en",
+                "original_title": "Willy Wonka & the Chocolate Factory",
+                "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+                "popularity": 6.2938,
+                "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+                "release_date": "1971-06-29",
+                "title": "Willy Wonka & the Chocolate Factory",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 3767,
+                "credit_id": "6570340b79a1c300ab3421b6",
+                "department": "Writing",
+                "job": "Book"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oyK2a8tMn6cmzilaUmKWYqNXzay.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 787699,
+                "original_language": "en",
+                "original_title": "Wonka",
+                "overview": "Willy Wonka \u2013 chock-full of ideas and determined to change the world one delectable bite at a time \u2013 is proof that the best things in life begin with a dream, and if you\u2019re lucky enough to meet Willy Wonka, anything is possible.",
+                "popularity": 9.3493,
+                "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+                "release_date": "2023-12-06",
+                "title": "Wonka",
+                "video": false,
+                "vote_average": 7.058,
+                "vote_count": 4049,
+                "credit_id": "60071838706b9f003f27aabd",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 118,
+                "original_language": "en",
+                "original_title": "Charlie and the Chocolate Factory",
+                "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+                "popularity": 12.4018,
+                "poster_path": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+                "release_date": "2005-07-13",
+                "title": "Charlie and the Chocolate Factory",
+                "video": false,
+                "vote_average": 7.041,
+                "vote_count": 15666,
+                "credit_id": "67ebd16ad9981fda187ab00a",
+                "department": "Writing",
+                "job": "Novel"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0420\u043e\u0430\u043b\u044c\u0434 \u0414\u0430\u043b\u044c",
+            "\ub85c\uc584\ub4dc \ub2ec"
+        ],
+        "biography": "Roald Dahl (September 13, 1916 \u2013 November 23, 1990) was a British novelist, short story writer, poet, screenwriter, and fighter pilot. His books have sold more than 250 million copies worldwide.\n\nBorn in Wales to Norwegian immigrant parents, Dahl served in the Royal Air Force during the Second World War. He became a flying ace and intelligence officer, rising to the rank of acting wing commander. He rose to prominence as a writer in the 1940s with works for both children and adults, and he became one of the world's best-selling authors. He has been referred to as \"one of the greatest storytellers for children of the 20th century\". His awards for contribution to literature include the 1983 World Fantasy Award for Life Achievement, and the British Book Awards' Children's Author of the Year in 1990. In 2008, The Times placed Dahl 16th on its list of \"The 50 greatest British writers since 1945\".\n\nDahl's short stories are known for their unexpected endings, and his children's books for their unsentimental, macabre, often darkly comic mood, featuring villainous adult enemies of the child characters. His books champion the kindhearted, and feature an underlying warm sentiment. Dahl's works for children include James and the Giant Peach, Charlie and the Chocolate Factory, Matilda, The Witches, Fantastic Mr Fox, The BFG, The Twits and George's Marvellous Medicine. His adult works include Tales of the Unexpected.\n\nDescription above from the Wikipedia article Roald Dahl, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1916-09-13",
+        "deathday": "1990-11-23",
+        "gender": 2,
+        "homepage": "https://www.roalddahl.com/",
+        "id": 1299,
+        "imdb_id": "nm0001094",
+        "known_for_department": "Writing",
+        "name": "Roald Dahl",
+        "place_of_birth": "Llandaff, Cardiff, Wales, UK",
+        "popularity": 0.4319,
+        "profile_path": "/hbYOdJ8KK5aPFX6JioRhMiwbMOf.jpg"
+    }
+}

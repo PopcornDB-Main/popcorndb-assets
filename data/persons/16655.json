@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 2048,
+                "original_language": "en",
+                "original_title": "I, Robot",
+                "overview": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
+                "popularity": 7.166,
+                "poster_path": "/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
+                "release_date": "2004-07-15",
+                "title": "I, Robot",
+                "video": false,
+                "vote_average": 6.956,
+                "vote_count": 12225,
+                "credit_id": "5818d722c3a3684220000391",
+                "department": "Sound",
+                "job": "Foley"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e65E7jH5bKMSgHJnWLw4ex02Dyu.jpg",
+                "genre_ids": [
+                    37,
+                    18,
+                    28,
+                    10749
+                ],
+                "id": 2055,
+                "original_language": "en",
+                "original_title": "Open Range",
+                "overview": "A former gunslinger is forced to take up arms again when he and his cattle crew are threatened by a corrupt lawman.",
+                "popularity": 2.6146,
+                "poster_path": "/5bmt52Fijy71W0E72on8xnnYHgP.jpg",
+                "release_date": "2003-08-11",
+                "title": "Open Range",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 1145,
+                "credit_id": "6671b9cf5e768d7a8983d365",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    18
+                ],
+                "id": 5503,
+                "original_language": "en",
+                "original_title": "The Fugitive",
+                "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+                "popularity": 6.7625,
+                "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+                "release_date": "1993-08-06",
+                "title": "The Fugitive",
+                "video": false,
+                "vote_average": 7.466,
+                "vote_count": 4529,
+                "credit_id": "5ad775e80e0a2674be0105cf",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 16655,
+        "imdb_id": "nm0077153",
+        "known_for_department": "Sound",
+        "name": "Stu Bernstein",
+        "place_of_birth": null,
+        "popularity": 0.1462,
+        "profile_path": null
+    }
+}

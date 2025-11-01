@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    18,
+                    14,
+                    12
+                ],
+                "id": 8587,
+                "original_language": "en",
+                "original_title": "The Lion King",
+                "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+                "popularity": 13.1867,
+                "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+                "release_date": "1994-06-15",
+                "title": "The Lion King",
+                "video": false,
+                "vote_average": 8.256,
+                "vote_count": 19036,
+                "credit_id": "6857a78daf3ba6b0834930c7",
+                "department": "Visual Effects",
+                "job": "Modeling"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vyOFlV1afDHb9MMwJVyON4qXbvC.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    16,
+                    28
+                ],
+                "id": 9732,
+                "original_language": "en",
+                "original_title": "The Lion King II: Simba's Pride",
+                "overview": "The circle of life continues for Simba, now fully grown and in his rightful place as the king of Pride Rock. Simba and Nala have given birth to a daughter, Kiara who's as rebellious as her father was. But Kiara drives her parents to distraction when she catches the eye of Kovu, the son of the evil lioness, Zira. Will Kovu steal Kiara's heart?",
+                "popularity": 11.0726,
+                "poster_path": "/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg",
+                "release_date": "1998-10-24",
+                "title": "The Lion King II: Simba's Pride",
+                "video": false,
+                "vote_average": 6.946,
+                "vote_count": 4547,
+                "credit_id": "6857a86cfbd15bc113398cbf",
+                "department": "Visual Effects",
+                "job": "Modeling"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Joseph was born on 1 August 1986 in Bandon, Oregon, USA. He died on 7 July 2008 in Salinas, California, USA.",
+        "birthday": "1986-08-01",
+        "deathday": "2008-07-07",
+        "gender": 2,
+        "homepage": null,
+        "id": 5357896,
+        "imdb_id": null,
+        "known_for_department": "Acting",
+        "name": "Joseph the Lion",
+        "place_of_birth": "Bandon, Oregon, United State",
+        "popularity": 0.0286,
+        "profile_path": null
+    }
+}

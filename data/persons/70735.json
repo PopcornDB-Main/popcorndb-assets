@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+                "genre_ids": [
+                    28,
+                    80,
+                    53
+                ],
+                "id": 393,
+                "original_language": "en",
+                "original_title": "Kill Bill: Vol. 2",
+                "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do \u2026 but kill Bill.",
+                "popularity": 7.0201,
+                "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+                "release_date": "2004-04-16",
+                "title": "Kill Bill: Vol. 2",
+                "video": false,
+                "vote_average": 7.873,
+                "vote_count": 14462,
+                "credit_id": "5c58d3fa0e0a26185ac9b221",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+                "genre_ids": [
+                    80,
+                    53,
+                    27
+                ],
+                "id": 9533,
+                "original_language": "en",
+                "original_title": "Red Dragon",
+                "overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+                "popularity": 2.0019,
+                "poster_path": "/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+                "release_date": "2002-10-02",
+                "title": "Red Dragon",
+                "video": false,
+                "vote_average": 7.03,
+                "vote_count": 4474,
+                "credit_id": "676822ca8e9d9ccdeb911cf7",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 70735,
+        "imdb_id": "nm0251010",
+        "known_for_department": "Editing",
+        "name": "Peggy Eghbalian",
+        "place_of_birth": null,
+        "popularity": 0.0264,
+        "profile_path": null
+    }
+}

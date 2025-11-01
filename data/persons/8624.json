@@ -1,0 +1,87 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 599,
+                "original_language": "en",
+                "original_title": "Sunset Boulevard",
+                "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+                "popularity": 4.9034,
+                "poster_path": "/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+                "release_date": "1950-08-10",
+                "title": "Sunset Boulevard",
+                "video": false,
+                "vote_average": 8.292,
+                "vote_count": 2749,
+                "credit_id": "52fe425ac3a36847f8017c11",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/zVJWPKbyv8ZPIbO6qcjE19dTgyn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 25364,
+                "original_language": "en",
+                "original_title": "Ace in the Hole",
+                "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
+                "popularity": 1.4135,
+                "poster_path": "/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+                "release_date": "1951-06-29",
+                "title": "Ace in the Hole",
+                "video": false,
+                "vote_average": 7.866,
+                "vote_count": 704,
+                "credit_id": "5788205fc3a3683329001293",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bXPKTWAuRO8Mu5rLCORFagX0YZ1.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 574,
+                "original_language": "en",
+                "original_title": "The Man Who Knew Too Much",
+                "overview": "A couple vacationing in Morocco with their young son accidentally stumble upon an assassination plot. When the child is kidnapped to ensure their silence, they have to take matters into their own hands to save him.",
+                "popularity": 2.4373,
+                "poster_path": "/gy8YBRjCQRIT9x9G9F5fpnFD4xw.jpg",
+                "release_date": "1956-05-16",
+                "title": "The Man Who Knew Too Much",
+                "video": false,
+                "vote_average": 7.456,
+                "vote_count": 1476,
+                "credit_id": "65d53f6960975000c9225217",
+                "department": "Production",
+                "job": "Assistant Production Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 8624,
+        "imdb_id": "nm0113728",
+        "known_for_department": "Production",
+        "name": "Hugh Brown",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

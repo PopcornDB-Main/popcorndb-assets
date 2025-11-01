@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 38757,
+                "original_language": "en",
+                "original_title": "Tangled",
+                "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+                "popularity": 14.9844,
+                "poster_path": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+                "release_date": "2010-11-24",
+                "title": "Tangled",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 11937,
+                "credit_id": "572bcd5cc3a368014000019e",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35
+                ],
+                "id": 269149,
+                "original_language": "en",
+                "original_title": "Zootopia",
+                "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+                "popularity": 15.1122,
+                "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+                "release_date": "2016-02-11",
+                "title": "Zootopia",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 16950,
+                "credit_id": "5aa3bdc60e0a26075d00afb6",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1615785,
+        "imdb_id": "nm7255674",
+        "known_for_department": "Visual Effects",
+        "name": "Justin Cram",
+        "place_of_birth": null,
+        "popularity": 0.0779,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+                "genre_ids": [
+                    12,
+                    28
+                ],
+                "id": 85,
+                "original_language": "en",
+                "original_title": "Raiders of the Lost Ark",
+                "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+                "popularity": 10.971,
+                "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "release_date": "1981-06-12",
+                "title": "Raiders of the Lost Ark",
+                "video": false,
+                "vote_average": 7.925,
+                "vote_count": 13079,
+                "credit_id": "6652e7926277ad280617491a",
+                "department": "Visual Effects",
+                "job": "Visual Effects Camera"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878,
+                    53
+                ],
+                "id": 154,
+                "original_language": "en",
+                "original_title": "Star Trek II: The Wrath of Khan",
+                "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+                "popularity": 2.4673,
+                "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+                "release_date": "1982-06-04",
+                "title": "Star Trek II: The Wrath of Khan",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 2018,
+                "credit_id": "5ec998dceb79c2001ea2cbd5",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2234253,
+        "imdb_id": null,
+        "known_for_department": "Camera",
+        "name": "Jim Veilleux",
+        "place_of_birth": null,
+        "popularity": 0.0261,
+        "profile_path": null
+    }
+}

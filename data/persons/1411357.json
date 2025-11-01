@@ -1,0 +1,183 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+                "genre_ids": [
+                    28,
+                    12
+                ],
+                "id": 335787,
+                "original_language": "en",
+                "original_title": "Uncharted",
+                "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor \u201cSully\u201d Sullivan embark on a dangerous pursuit of \u201cthe greatest treasure never found\u201d while also tracking clues that may lead to Nathan\u2019s long-lost brother.",
+                "popularity": 7.3752,
+                "poster_path": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+                "release_date": "2022-02-10",
+                "title": "Uncharted",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 6433,
+                "credit_id": "6521593b0cb33516fd44f0c1",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
+                "genre_ids": [
+                    18,
+                    878
+                ],
+                "id": 83542,
+                "original_language": "en",
+                "original_title": "Cloud Atlas",
+                "overview": "A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.",
+                "popularity": 6.5525,
+                "poster_path": "/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+                "release_date": "2012-10-26",
+                "title": "Cloud Atlas",
+                "video": false,
+                "vote_average": 6.889,
+                "vote_count": 7278,
+                "credit_id": "54b00469c3a3682e1b001fef",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg",
+                "genre_ids": [
+                    18,
+                    10752,
+                    36,
+                    10749
+                ],
+                "id": 853,
+                "original_language": "en",
+                "original_title": "Enemy at the Gates",
+                "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
+                "popularity": 6.4417,
+                "poster_path": "/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+                "release_date": "2001-02-28",
+                "title": "Enemy at the Gates",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 3841,
+                "credit_id": "54f1a4a8c3a368322f00160e",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 120467,
+                "original_language": "en",
+                "original_title": "The Grand Budapest Hotel",
+                "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted prot\u00e9g\u00e9. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+                "popularity": 8.7599,
+                "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+                "release_date": "2014-02-26",
+                "title": "The Grand Budapest Hotel",
+                "video": false,
+                "vote_average": 8.036,
+                "vote_count": 15425,
+                "credit_id": "61c89b0d33ad8f00992f9fbf",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    10752
+                ],
+                "id": 16869,
+                "original_language": "en",
+                "original_title": "Inglourious Basterds",
+                "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+                "popularity": 19.0323,
+                "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+                "release_date": "2009-08-02",
+                "title": "Inglourious Basterds",
+                "video": false,
+                "vote_average": 8.215,
+                "vote_count": 23240,
+                "credit_id": "570e755692514116210008e0",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+                "genre_ids": [
+                    28,
+                    53,
+                    878
+                ],
+                "id": 577922,
+                "original_language": "en",
+                "original_title": "Tenet",
+                "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+                "popularity": 9.2343,
+                "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+                "release_date": "2020-08-22",
+                "title": "Tenet",
+                "video": false,
+                "vote_average": 7.175,
+                "vote_count": 10494,
+                "credit_id": "5fda3433eb14fa003ef98ec1",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ncWUcY7ihZ2co7vqUCHqwF6t9us.jpg",
+                "genre_ids": [
+                    53,
+                    18
+                ],
+                "id": 296098,
+                "original_language": "en",
+                "original_title": "Bridge of Spies",
+                "overview": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+                "popularity": 5.5319,
+                "poster_path": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+                "release_date": "2015-10-15",
+                "title": "Bridge of Spies",
+                "video": false,
+                "vote_average": 7.236,
+                "vote_count": 7036,
+                "credit_id": "5ff88cc8383df2003b32ca7d",
+                "department": "Production",
+                "job": "Location Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Klaus Darrelmann "
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1411357,
+        "imdb_id": "nm0344146",
+        "known_for_department": "Production",
+        "name": "Klaus Gro\u00dfe Darrelmann",
+        "place_of_birth": null,
+        "popularity": 0.0363,
+        "profile_path": null
+    }
+}

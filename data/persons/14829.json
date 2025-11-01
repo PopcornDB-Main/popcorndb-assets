@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bW6GHF3Yg9fSsJGlRVHXlGY8vaM.jpg",
+                "genre_ids": [
+                    27,
+                    53,
+                    12
+                ],
+                "id": 578,
+                "original_language": "en",
+                "original_title": "Jaws",
+                "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+                "popularity": 14.1811,
+                "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+                "release_date": "1975-06-20",
+                "title": "Jaws",
+                "video": false,
+                "vote_average": 7.678,
+                "vote_count": 11033,
+                "credit_id": "5b48e9659251412536001d6c",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 2108,
+                "original_language": "en",
+                "original_title": "The Breakfast Club",
+                "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+                "popularity": 5.2343,
+                "poster_path": "/wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+                "release_date": "1985-02-15",
+                "title": "The Breakfast Club",
+                "video": false,
+                "vote_average": 7.728,
+                "vote_count": 8256,
+                "credit_id": "5f900779f8aee80033c7e115",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bob Hoyt",
+            "Robert Hoyt"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 14829,
+        "imdb_id": "nm0398480",
+        "known_for_department": "Sound",
+        "name": "Robert L. Hoyt",
+        "place_of_birth": null,
+        "popularity": 0.0507,
+        "profile_path": null
+    }
+}

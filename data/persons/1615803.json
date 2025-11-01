@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12
+                ],
+                "id": 38757,
+                "original_language": "en",
+                "original_title": "Tangled",
+                "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+                "popularity": 14.9844,
+                "poster_path": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+                "release_date": "2010-11-24",
+                "title": "Tangled",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 11939,
+                "credit_id": "572bd403c3a36801400002ac",
+                "department": "Crew",
+                "job": "Software Engineer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sDPk862OKB0Ckkvebo4M2k5AKly.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    14
+                ],
+                "id": 81188,
+                "original_language": "en",
+                "original_title": "Rise of the Guardians",
+                "overview": "When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world.",
+                "popularity": 8.9257,
+                "poster_path": "/sW4qOa9yF0Ikg7lppncQ0n5UhKX.jpg",
+                "release_date": "2012-11-21",
+                "title": "Rise of the Guardians",
+                "video": false,
+                "vote_average": 7.371,
+                "vote_count": 6932,
+                "credit_id": "5aac66a792514116c30069d8",
+                "department": "Crew",
+                "job": "Software Engineer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Brendan K. Duncan"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1615803,
+        "imdb_id": "nm2483570",
+        "known_for_department": "Crew",
+        "name": "Brendan Duncan",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

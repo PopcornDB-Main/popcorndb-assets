@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/mgDv2dDihyetAcENxyf2tpXY245.jpg",
+                "genre_ids": [
+                    10402,
+                    18
+                ],
+                "id": 1407,
+                "original_language": "fr",
+                "original_title": "La M\u00f4me",
+                "overview": "From the mean streets of the Belleville district of Paris to the dazzling limelight of New York's most famous concert halls, Edith Piaf's life was a constant battle to sing and survive, to live and love. Raised in her grandmother's brothel, Piaf was discovered in 1935 by nightclub owner Louis Leplee, who persuaded her to sing despite her extreme nervousness. Piaf became one of France's immortal icons, her voice one of the indelible signatures of the 20th century.",
+                "popularity": 3.0701,
+                "poster_path": "/3b9DAONAsFRhJKu25R33PE3VwDh.jpg",
+                "release_date": "2007-02-14",
+                "title": "La Vie en Rose",
+                "video": false,
+                "vote_average": 7.39,
+                "vote_count": 1671,
+                "credit_id": "52fe42f4c3a36847f802f551",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    53
+                ],
+                "id": 954,
+                "original_language": "en",
+                "original_title": "Mission: Impossible",
+                "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+                "popularity": 9.914,
+                "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+                "release_date": "1996-05-22",
+                "title": "Mission: Impossible",
+                "video": false,
+                "vote_average": 7.011,
+                "vote_count": 9550,
+                "credit_id": "59b7c2c3c3a368159f00b6b1",
+                "department": "Production",
+                "job": "Unit Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Michal Prikryl",
+            "Michael Prikryll"
+        ],
+        "biography": "",
+        "birthday": "1963-03-01",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 16934,
+        "imdb_id": "nm0697491",
+        "known_for_department": "Production",
+        "name": "Michal P\u0159ikryl",
+        "place_of_birth": "Prague, Czech Republic",
+        "popularity": 0.0719,
+        "profile_path": "/lXbG8PO6W3P4JWvyfIEAMxMqiIW.jpg"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9U4Di9iOslz3eJ9eRkdg5Qrf9JY.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1371,
+                "original_language": "en",
+                "original_title": "Rocky III",
+                "overview": "Following Rocky Balboa's intense battle with his most powerful adversary yet \u2013 the ferocious Clubber Lang \u2013 Rocky joins forces with former rival Apollo Creed in an effort to get back his fighting spirit.",
+                "popularity": 5.2135,
+                "poster_path": "/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+                "release_date": "1982-05-28",
+                "title": "Rocky III",
+                "video": false,
+                "vote_average": 6.894,
+                "vote_count": 4309,
+                "credit_id": "52fe42f0c3a36847f802e507",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1366,
+                "original_language": "en",
+                "original_title": "Rocky",
+                "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time \u2014 a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+                "popularity": 8.1894,
+                "poster_path": "/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+                "release_date": "1976-11-20",
+                "title": "Rocky",
+                "video": false,
+                "vote_average": 7.79,
+                "vote_count": 8240,
+                "credit_id": "52fe42efc3a36847f802dff1",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    18,
+                    10751
+                ],
+                "id": 1885,
+                "original_language": "en",
+                "original_title": "The Karate Kid",
+                "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+                "popularity": 6.2183,
+                "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+                "release_date": "1984-06-22",
+                "title": "The Karate Kid",
+                "video": false,
+                "vote_average": 7.209,
+                "vote_count": 4474,
+                "credit_id": "52fe431dc3a36847f803b849",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 16517,
+        "imdb_id": "nm0144256",
+        "known_for_department": "Art",
+        "name": "William J. Cassidy",
+        "place_of_birth": null,
+        "popularity": 0.0461,
+        "profile_path": null
+    }
+}

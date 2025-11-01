@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9jxLUKbuDgYW8Ro94q50rLQQL0P.jpg",
+                "genre_ids": [
+                    12,
+                    10751,
+                    14
+                ],
+                "id": 11639,
+                "original_language": "en",
+                "original_title": "The Dark Crystal",
+                "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+                "popularity": 4.5707,
+                "poster_path": "/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+                "release_date": "1982-12-17",
+                "title": "The Dark Crystal",
+                "video": false,
+                "vote_average": 7.1,
+                "vote_count": 1188,
+                "credit_id": "592add509251413b5405dcb4",
+                "department": "Art",
+                "job": "Supervising Art Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9wLetxZRpBtq3kyaNwBhWPAapUe.jpg",
+                "genre_ids": [
+                    18,
+                    36,
+                    10752
+                ],
+                "id": 10110,
+                "original_language": "en",
+                "original_title": "Empire of the Sun",
+                "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+                "popularity": 3.6599,
+                "poster_path": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+                "release_date": "1987-12-09",
+                "title": "Empire of the Sun",
+                "video": false,
+                "vote_average": 7.509,
+                "vote_count": 2025,
+                "credit_id": "67eab54c62235c6581c6c9f9",
+                "department": "Art",
+                "job": "Supervising Art Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 10472,
+        "imdb_id": "nm0084009",
+        "known_for_department": "Art",
+        "name": "Charles Bishop",
+        "place_of_birth": null,
+        "popularity": 0.0416,
+        "profile_path": null
+    }
+}

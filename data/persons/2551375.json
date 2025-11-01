@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+                "genre_ids": [
+                    10751,
+                    35,
+                    12,
+                    16
+                ],
+                "id": 748783,
+                "original_language": "en",
+                "original_title": "The Garfield Movie",
+                "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+                "popularity": 15.2769,
+                "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
+                "release_date": "2024-04-30",
+                "title": "The Garfield Movie",
+                "video": false,
+                "vote_average": 7.038,
+                "vote_count": 1330,
+                "credit_id": "66358097e92d830121d2d059",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35
+                ],
+                "id": 501929,
+                "original_language": "en",
+                "original_title": "The Mitchells vs. the Machines",
+                "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+                "popularity": 5.7471,
+                "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+                "release_date": "2021-04-22",
+                "title": "The Mitchells vs. the Machines",
+                "video": false,
+                "vote_average": 7.865,
+                "vote_count": 3148,
+                "credit_id": "66511341dd7136ab77557642",
+                "department": "Production",
+                "job": "Co-Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2551375,
+        "imdb_id": "nm12531482",
+        "known_for_department": "Production",
+        "name": "Vanessa Choy",
+        "place_of_birth": null,
+        "popularity": 0.0538,
+        "profile_path": null
+    }
+}

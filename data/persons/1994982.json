@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35
+                ],
+                "id": 269149,
+                "original_language": "en",
+                "original_title": "Zootopia",
+                "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+                "popularity": 15.1122,
+                "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+                "release_date": "2016-02-11",
+                "title": "Zootopia",
+                "video": false,
+                "vote_average": 7.751,
+                "vote_count": 16950,
+                "credit_id": "5aa3f67ec3a3687c0c00e3af",
+                "department": "Visual Effects",
+                "job": "Creature Technical Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 363088,
+                "original_language": "en",
+                "original_title": "Ant-Man and the Wasp",
+                "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+                "popularity": 7.9585,
+                "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+                "release_date": "2018-07-04",
+                "title": "Ant-Man and the Wasp",
+                "video": false,
+                "vote_average": 6.913,
+                "vote_count": 13755,
+                "credit_id": "5b58ea099251416dcf057e71",
+                "department": "Visual Effects",
+                "job": "Pipeline Technical Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1994982,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Esther Trilsch",
+        "place_of_birth": null,
+        "popularity": 0.0281,
+        "profile_path": null
+    }
+}

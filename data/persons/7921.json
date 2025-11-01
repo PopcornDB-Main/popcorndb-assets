@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+                "genre_ids": [
+                    16,
+                    35,
+                    10751
+                ],
+                "id": 863,
+                "original_language": "en",
+                "original_title": "Toy Story 2",
+                "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+                "popularity": 16.7759,
+                "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+                "release_date": "1999-10-30",
+                "title": "Toy Story 2",
+                "video": false,
+                "vote_average": 7.603,
+                "vote_count": 14376,
+                "credit_id": "58946816c3a368409f004d6b",
+                "department": "Visual Effects",
+                "job": "Character Designer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5N2mfRrvJUnCVpsMIebfosEyo1i.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    35,
+                    14
+                ],
+                "id": 137106,
+                "original_language": "en",
+                "original_title": "The Lego Movie",
+                "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+                "popularity": 8.2755,
+                "poster_path": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+                "release_date": "2014-02-06",
+                "title": "The Lego Movie",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 8141,
+                "credit_id": "5bb1255ac3a3681408005b92",
+                "department": "Writing",
+                "job": "Story Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 7921,
+        "imdb_id": "nm0593838",
+        "known_for_department": "Art",
+        "name": "Ken Mitchroney",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

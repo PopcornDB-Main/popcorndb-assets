@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+                "genre_ids": [
+                    35,
+                    10752
+                ],
+                "id": 914,
+                "original_language": "en",
+                "original_title": "The Great Dictator",
+                "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+                "popularity": 2.5212,
+                "poster_path": "/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+                "release_date": "1940-10-15",
+                "title": "The Great Dictator",
+                "video": false,
+                "vote_average": 8.291,
+                "vote_count": 3529,
+                "credit_id": "57a0c7f092514107cb00401d",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    18
+                ],
+                "id": 962,
+                "original_language": "en",
+                "original_title": "The Gold Rush",
+                "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+                "popularity": 2.9635,
+                "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+                "release_date": "1925-07-13",
+                "title": "The Gold Rush",
+                "video": false,
+                "vote_average": 7.987,
+                "vote_count": 1710,
+                "credit_id": "66d3fdc439c7f233e0946b6f",
+                "department": "Crew",
+                "job": "Additional Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    18
+                ],
+                "id": 962,
+                "original_language": "en",
+                "original_title": "The Gold Rush",
+                "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+                "popularity": 2.9635,
+                "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+                "release_date": "1925-07-13",
+                "title": "The Gold Rush",
+                "video": false,
+                "vote_average": 7.987,
+                "vote_count": 1710,
+                "credit_id": "66d3fdccd94dffd8f701ebdd",
+                "department": "Sound",
+                "job": "Music Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1890-11-16",
+        "deathday": "1951-08-02",
+        "gender": 2,
+        "homepage": null,
+        "id": 88646,
+        "imdb_id": "nm0855720",
+        "known_for_department": "Sound",
+        "name": "Max Terr",
+        "place_of_birth": "Odessa, Kherson Governorate, Russian Empire [now Ukraine]",
+        "popularity": 0.0685,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jKgfnnCATAg4fxMfS0LZThmqOZB.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 343,
+                "original_language": "en",
+                "original_title": "Harold and Maude",
+                "overview": "The young Harold lives in his own world of suicide-attempts and funeral visits to avoid the misery of his current family and home environment. Harold meets an 80-year-old woman named Maude who also lives in her own world yet one in which she is having the time of her life. When the two opposites meet they realize that their differences don\u2019t matter and they become best friends and love each other.",
+                "popularity": 1.8554,
+                "poster_path": "/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+                "release_date": "1971-12-20",
+                "title": "Harold and Maude",
+                "video": false,
+                "vote_average": 7.615,
+                "vote_count": 1142,
+                "credit_id": "5d1783f1126ec300210dd298",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 1578,
+                "original_language": "en",
+                "original_title": "Raging Bull",
+                "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+                "popularity": 7.5976,
+                "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+                "release_date": "1980-11-14",
+                "title": "Raging Bull",
+                "video": false,
+                "vote_average": 7.923,
+                "vote_count": 4530,
+                "credit_id": "601250ccdd83fa003f9ba857",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Joe Marquette Jr.",
+            "Joseph R. Marquette Jr."
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1433644,
+        "imdb_id": "nm0549812",
+        "known_for_department": "Camera",
+        "name": "Joe R. Marquette Jr.",
+        "place_of_birth": null,
+        "popularity": 0.9714,
+        "profile_path": null
+    }
+}

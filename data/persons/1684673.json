@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 4.3564,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.606,
+                "vote_count": 2261,
+                "credit_id": "5b097acb92514146f10040a1",
+                "department": "Art",
+                "job": "Painter"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1684673,
+        "imdb_id": "nm0172271",
+        "known_for_department": "Art",
+        "name": "Dennis Collins",
+        "place_of_birth": null,
+        "popularity": 0.0362,
+        "profile_path": null
+    }
+}

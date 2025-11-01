@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bd9lxQ4SgnNb6NPIph4pz5HGLpY.jpg",
+                "genre_ids": [
+                    878,
+                    27
+                ],
+                "id": 31682,
+                "original_language": "en",
+                "original_title": "The Incredible Shrinking Man",
+                "overview": "A dangerous combination of radiation and insecticide causes the unfortunate Scott Carey to shrink, slowly but surely, until he is only a few inches tall. His home becomes a wilderness where he must survive everything from spiders living in the cellar to his beloved cat.",
+                "popularity": 4.7402,
+                "poster_path": "/vI7IdqfvsyoQAjAzRWS2fYvUoOu.jpg",
+                "release_date": "1957-02-22",
+                "title": "The Incredible Shrinking Man",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 526,
+                "credit_id": "66744ba183515d7e12fc5e23",
+                "department": "Production",
+                "job": "Assistant Unit Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g7prwSflNODkHZI6792MYoU4qoh.jpg",
+                "genre_ids": [
+                    53,
+                    12,
+                    18
+                ],
+                "id": 38985,
+                "original_language": "en",
+                "original_title": "Sorcerer",
+                "overview": "Four men from different parts of the globe, all hiding from their pasts in the same remote South American town, agree to risk their lives transporting several cases of dynamite (which is so old that it is dripping unstable nitroglycerin) across dangerous jungle terrain.",
+                "popularity": 2.479,
+                "poster_path": "/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+                "release_date": "1977-06-24",
+                "title": "Sorcerer",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 603,
+                "credit_id": "66c61a99c976e73bdd71f304",
+                "department": "Production",
+                "job": "Production Executive"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            " Robert Larson",
+            "Robert E. Larson"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 56224,
+        "imdb_id": "nm0489077",
+        "known_for_department": "Production",
+        "name": "Bob Larson",
+        "place_of_birth": null,
+        "popularity": 0.1435,
+        "profile_path": null
+    }
+}

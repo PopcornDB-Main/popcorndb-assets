@@ -1,0 +1,206 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+                "genre_ids": [
+                    35,
+                    14
+                ],
+                "id": 2907,
+                "original_language": "en",
+                "original_title": "The Addams Family",
+                "overview": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.",
+                "popularity": 9.3739,
+                "poster_path": "/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+                "release_date": "1991-11-22",
+                "title": "The Addams Family",
+                "video": false,
+                "vote_average": 7.066,
+                "vote_count": 4818,
+                "credit_id": "52fe4374c3a36847f80554dd",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8s7FJ9dHXgeFZdvxfjPmrrJh6EC.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 11236,
+                "original_language": "en",
+                "original_title": "The Secret Garden",
+                "overview": "A young British girl born and reared in India loses her neglectful parents in an earthquake. She is returned to England to live at her uncle's castle. Her uncle is very distant due to the loss of his wife ten years before. Neglected once again, she begins exploring the estate and discovers a garden that has been locked and forgotten. Aided by one of the servants' boys, she begins restoring the garden, and eventually discovers some other secrets of the manor.",
+                "popularity": 2.7766,
+                "poster_path": "/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg",
+                "release_date": "1993-08-13",
+                "title": "The Secret Garden",
+                "video": false,
+                "vote_average": 7.422,
+                "vote_count": 940,
+                "credit_id": "52fe44179251416c7502885d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+                "genre_ids": [
+                    10749,
+                    14,
+                    16
+                ],
+                "id": 3933,
+                "original_language": "en",
+                "original_title": "Corpse Bride",
+                "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+                "popularity": 24.9963,
+                "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+                "release_date": "2005-09-12",
+                "title": "Corpse Bride",
+                "video": false,
+                "vote_average": 7.582,
+                "vote_count": 9711,
+                "credit_id": "52fe43a7c3a36847f8065081",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xDwDhLtQnA7jK4f7DVkdeSvZnAp.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 6878,
+                "original_language": "en",
+                "original_title": "Homeward Bound: The Incredible Journey",
+                "overview": "Before the Seavers leave for a family vacation to San Francisco, they drop off their pets -- Chance, an adventurous American bulldog; Shadow, a wise golden retriever; and Sassy, a cautious cat -- at a friend's ranch. But when the animals start to worry that they've been left for good, the three embark together on a treacherous and thrilling journey to find their way back home through the California wilderness.",
+                "popularity": 7.195,
+                "poster_path": "/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
+                "release_date": "1993-02-03",
+                "title": "Homeward Bound: The Incredible Journey",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 1073,
+                "credit_id": "52fe4466c3a36847f8093ce9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+                "genre_ids": [
+                    14,
+                    16,
+                    10751
+                ],
+                "id": 9479,
+                "original_language": "en",
+                "original_title": "The Nightmare Before Christmas",
+                "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+                "popularity": 13.8956,
+                "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+                "release_date": "1993-10-09",
+                "title": "The Nightmare Before Christmas",
+                "video": false,
+                "vote_average": 7.834,
+                "vote_count": 9909,
+                "credit_id": "52fe44fdc3a36847f80b6091",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 162,
+                "original_language": "en",
+                "original_title": "Edward Scissorhands",
+                "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+                "popularity": 10.4838,
+                "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+                "release_date": "1990-12-07",
+                "title": "Edward Scissorhands",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 13327,
+                "credit_id": "60df56a80f365500754f959f",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 162,
+                "original_language": "en",
+                "original_title": "Edward Scissorhands",
+                "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+                "popularity": 10.4838,
+                "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+                "release_date": "1990-12-07",
+                "title": "Edward Scissorhands",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 13327,
+                "credit_id": "55480dd9c3a368788c000398",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 162,
+                "original_language": "en",
+                "original_title": "Edward Scissorhands",
+                "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+                "popularity": 10.4838,
+                "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+                "release_date": "1990-12-07",
+                "title": "Edward Scissorhands",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 13327,
+                "credit_id": "55480de492514156020003f1",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "From Wikipedia, the free encyclopedia.\n\nCaroline Thompson (born April 23, 1956) is an American novelist, screenwriter, film director, and producer. She wrote the screenplays for Tim Burton's films Edward Scissorhands, The Nightmare Before Christmas, and Corpse Bride. She co-wrote the story for Edward Scissorhands and recently co-adapted a new stage version of the film with director and choreographer Matthew Bourne. Recently it has been announced that she will adapt the screenplay for the film version of Wicked Lovely, a bestselling fantasy series.\n\nDescription above from the Wikipedia article Caroline Thompson, licensed under CC-BY-SA, full list of contributors on Wikipedia",
+        "birthday": "1956-04-23",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1901,
+        "imdb_id": "nm0003031",
+        "known_for_department": "Writing",
+        "name": "Caroline Thompson",
+        "place_of_birth": "Washington D.C., USA",
+        "popularity": 0.3701,
+        "profile_path": "/g7W7il6ELJ7MCr1mLQJvGLeumqM.jpg"
+    }
+}

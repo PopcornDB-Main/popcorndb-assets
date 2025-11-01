@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 350,
+                "original_language": "en",
+                "original_title": "The Devil Wears Prada",
+                "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
+                "popularity": 11.2265,
+                "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+                "release_date": "2006-06-29",
+                "title": "The Devil Wears Prada",
+                "video": false,
+                "vote_average": 7.392,
+                "vote_count": 12527,
+                "credit_id": "6329f202ecbde9007e14f262",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5Bk7kYSKAuNrxI5BXpDqlsln2P0.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 370755,
+                "original_language": "en",
+                "original_title": "Paterson",
+                "overview": "A week in the life of Paterson, a poet bus driver, and his wife Laura, a very creative artist, who live in Paterson, New Jersey, hometown of many famous poets and artists.",
+                "popularity": 2.1329,
+                "poster_path": "/hhpXV2SntaApx411hObmopQejdV.jpg",
+                "release_date": "2016-11-17",
+                "title": "Paterson",
+                "video": false,
+                "vote_average": 7.109,
+                "vote_count": 1971,
+                "credit_id": "6609dd74c144dd0186d6afda",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5Bk7kYSKAuNrxI5BXpDqlsln2P0.jpg",
+                "genre_ids": [
+                    18,
+                    35,
+                    10749
+                ],
+                "id": 370755,
+                "original_language": "en",
+                "original_title": "Paterson",
+                "overview": "A week in the life of Paterson, a poet bus driver, and his wife Laura, a very creative artist, who live in Paterson, New Jersey, hometown of many famous poets and artists.",
+                "popularity": 2.1329,
+                "poster_path": "/hhpXV2SntaApx411hObmopQejdV.jpg",
+                "release_date": "2016-11-17",
+                "title": "Paterson",
+                "video": false,
+                "vote_average": 7.109,
+                "vote_count": 1971,
+                "credit_id": "6609dd6a4da3d401635aee65",
+                "department": "Sound",
+                "job": "ADR Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1924447,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Lawrence Herman",
+        "place_of_birth": null,
+        "popularity": 0.0362,
+        "profile_path": null
+    }
+}

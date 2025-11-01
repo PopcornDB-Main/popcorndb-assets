@@ -1,0 +1,160 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    18,
+                    53
+                ],
+                "id": 119450,
+                "original_language": "en",
+                "original_title": "Dawn of the Planet of the Apes",
+                "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+                "popularity": 15.8449,
+                "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+                "release_date": "2014-07-08",
+                "title": "Dawn of the Planet of the Apes",
+                "video": false,
+                "vote_average": 7.334,
+                "vote_count": 11833,
+                "credit_id": "54744ec9c3a36875de0010f1",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f2Gdaux9j6FF39oNj0Cpfooje4m.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 9388,
+                "original_language": "en",
+                "original_title": "Thank You for Smoking",
+                "overview": "Nick Naylor is a charismatic spin-doctor for Big Tobacco who'll fight to protect America's right to smoke -- even if it kills him -- while still remaining a role model for his 12-year old son. When he incurs the wrath of a senator bent on snuffing out cigarettes, Nick's powers of \"filtering the truth\" will be put to the test.",
+                "popularity": 2.6711,
+                "poster_path": "/cJpeM7U36diFinieBWNLVi0FlQz.jpg",
+                "release_date": "2005-09-09",
+                "title": "Thank You for Smoking",
+                "video": false,
+                "vote_average": 7.19,
+                "vote_count": 2276,
+                "credit_id": "567222a4c3a3680721000bea",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vD15pg2cXynxeNIknyuvVH2sPx4.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 773,
+                "original_language": "en",
+                "original_title": "Little Miss Sunshine",
+                "overview": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+                "popularity": 4.5012,
+                "poster_path": "/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+                "release_date": "2006-07-26",
+                "title": "Little Miss Sunshine",
+                "video": false,
+                "vote_average": 7.692,
+                "vote_count": 7478,
+                "credit_id": "5692daeb92514170950004fa",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 271110,
+                "original_language": "en",
+                "original_title": "Captain America: Civil War",
+                "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                "popularity": 11.5264,
+                "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+                "release_date": "2016-04-27",
+                "title": "Captain America: Civil War",
+                "video": false,
+                "vote_average": 7.447,
+                "vote_count": 23420,
+                "credit_id": "56e5486bc3a3685aa400654f",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8G6HCS82vNxgg5wp7oBDSk32XpF.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 558,
+                "original_language": "en",
+                "original_title": "Spider-Man 2",
+                "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+                "popularity": 7.3312,
+                "poster_path": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+                "release_date": "2004-06-25",
+                "title": "Spider-Man 2",
+                "video": false,
+                "vote_average": 7.295,
+                "vote_count": 15744,
+                "credit_id": "57e82a099251412ae3014974",
+                "department": "Art",
+                "job": "Art Department Assistant"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 299536,
+                "original_language": "en",
+                "original_title": "Avengers: Infinity War",
+                "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+                "popularity": 29.2455,
+                "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+                "release_date": "2018-04-25",
+                "title": "Avengers: Infinity War",
+                "video": false,
+                "vote_average": 8.236,
+                "vote_count": 30972,
+                "credit_id": "5ac378b79251416015071c9c",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 1389129,
+        "imdb_id": "nm0969242",
+        "known_for_department": "Art",
+        "name": "Theresa Greene",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

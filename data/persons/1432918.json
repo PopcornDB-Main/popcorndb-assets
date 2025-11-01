@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 76341,
+                "original_language": "en",
+                "original_title": "Mad Max: Fury Road",
+                "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+                "popularity": 13.3137,
+                "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+                "release_date": "2015-05-13",
+                "title": "Mad Max: Fury Road",
+                "video": false,
+                "vote_average": 7.626,
+                "vote_count": 23392,
+                "credit_id": "56123c609251414feb00aab4",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f2Gdaux9j6FF39oNj0Cpfooje4m.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 9388,
+                "original_language": "en",
+                "original_title": "Thank You for Smoking",
+                "overview": "Nick Naylor is a charismatic spin-doctor for Big Tobacco who'll fight to protect America's right to smoke -- even if it kills him -- while still remaining a role model for his 12-year old son. When he incurs the wrath of a senator bent on snuffing out cigarettes, Nick's powers of \"filtering the truth\" will be put to the test.",
+                "popularity": 2.8976,
+                "poster_path": "/cJpeM7U36diFinieBWNLVi0FlQz.jpg",
+                "release_date": "2005-09-09",
+                "title": "Thank You for Smoking",
+                "video": false,
+                "vote_average": 7.19,
+                "vote_count": 2276,
+                "credit_id": "5672f56fc3a368070e00437b",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1432918,
+        "imdb_id": "nm0629564",
+        "known_for_department": "Camera",
+        "name": "Daniel Nichols",
+        "place_of_birth": null,
+        "popularity": 0.0459,
+        "profile_path": null
+    }
+}

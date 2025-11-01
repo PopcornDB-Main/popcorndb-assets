@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+                "genre_ids": [
+                    35,
+                    36
+                ],
+                "id": 544510,
+                "original_language": "fr",
+                "original_title": "Edmond",
+                "overview": "Paris, France, December 1897. The young playwright Edmond Rostand feels like a failure. Inspiration has abandoned him. Married and father of two children, desperate and penniless, he persuades the great actor Constant Coquelin to perform the main role in his new play. But there is a problem: Coquelin wants to premiere it at Christmas and Edmond has not written a single word.",
+                "popularity": 1.8097,
+                "poster_path": "/9Y1VxSfJdu8fqQqgX0x6OObxvUw.jpg",
+                "release_date": "2018-11-10",
+                "title": "Cyrano, My Love",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 516,
+                "credit_id": "5deb0b6532489b0014be3751",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pP1UeRZ7shy1llOUTnpXWISOokK.jpg",
+                "genre_ids": [
+                    36,
+                    18,
+                    53
+                ],
+                "id": 399121,
+                "original_language": "fr",
+                "original_title": "J'accuse",
+                "overview": "In 1894, French Captain Alfred Dreyfus is wrongfully convicted of treason and sentenced to life imprisonment at the Devil\u2019s Island penal colony.",
+                "popularity": 2.4451,
+                "poster_path": "/kqlzmKVBpGz7OMWfOXlK4y1m9Uz.jpg",
+                "release_date": "2019-09-30",
+                "title": "An Officer and a Spy",
+                "video": false,
+                "vote_average": 7.078,
+                "vote_count": 1548,
+                "credit_id": "5e2ef7f41685da0017ea0dd7",
+                "department": "Production",
+                "job": "Associate Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 2476959,
+        "imdb_id": "nm10322216",
+        "known_for_department": "Production",
+        "name": "Axelle Bouca\u00ef",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

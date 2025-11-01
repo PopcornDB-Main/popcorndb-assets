@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 872585,
+                "original_language": "en",
+                "original_title": "Oppenheimer",
+                "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+                "popularity": 18.0376,
+                "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                "release_date": "2023-07-19",
+                "title": "Oppenheimer",
+                "video": false,
+                "vote_average": 8.049,
+                "vote_count": 10741,
+                "credit_id": "638a6dcbe93e9501bc7acd13",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/b6XrxL6iRfhRn4PrZ4JehrLpgdD.jpg",
+                "genre_ids": [
+                    18,
+                    35
+                ],
+                "id": 391713,
+                "original_language": "en",
+                "original_title": "Lady Bird",
+                "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+                "popularity": 3.8876,
+                "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+                "release_date": "2017-09-01",
+                "title": "Lady Bird",
+                "video": false,
+                "vote_average": 7.254,
+                "vote_count": 8781,
+                "credit_id": "5a44d0c50e0a264f2906227d",
+                "department": "Production",
+                "job": "Location Manager"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1949343,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Michael Edward Smith",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

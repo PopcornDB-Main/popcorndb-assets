@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/g01B5oD3j2sIupAQY2Ykm4TIRks.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    35,
+                    10751
+                ],
+                "id": 324849,
+                "original_language": "en",
+                "original_title": "The Lego Batman Movie",
+                "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+                "popularity": 6.1325,
+                "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+                "release_date": "2017-02-08",
+                "title": "The Lego Batman Movie",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 5214,
+                "credit_id": "5bb00b78c3a36814d0009e8c",
+                "department": "Visual Effects",
+                "job": "Senior Animator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14,
+                    878
+                ],
+                "id": 19995,
+                "original_language": "en",
+                "original_title": "Avatar",
+                "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+                "popularity": 27.2872,
+                "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+                "release_date": "2009-12-15",
+                "title": "Avatar",
+                "video": false,
+                "vote_average": 7.593,
+                "vote_count": 32649,
+                "credit_id": "5bc4ed5f925141620c009e04",
+                "department": "Visual Effects",
+                "job": "Animation"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1455513,
+        "imdb_id": "nm2675626",
+        "known_for_department": "Visual Effects",
+        "name": "Andrea Castagnoli",
+        "place_of_birth": null,
+        "popularity": 0.0538,
+        "profile_path": null
+    }
+}

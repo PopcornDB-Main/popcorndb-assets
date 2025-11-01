@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 1892,
+                "original_language": "en",
+                "original_title": "Return of the Jedi",
+                "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+                "popularity": 6.0511,
+                "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+                "release_date": "1983-05-25",
+                "title": "Return of the Jedi",
+                "video": false,
+                "vote_average": 7.904,
+                "vote_count": 16327,
+                "credit_id": "59fc896f92514113bb02c794",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 10322,
+                "original_language": "en",
+                "original_title": "Being There",
+                "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+                "popularity": 2.3982,
+                "poster_path": "/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+                "release_date": "1979-12-19",
+                "title": "Being There",
+                "video": false,
+                "vote_average": 7.614,
+                "vote_count": 1048,
+                "credit_id": "686174751a96c102737b4b27",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "James Schoppe",
+            "Jim Schoppe"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 21813,
+        "imdb_id": "nm0774847",
+        "known_for_department": "Art",
+        "name": "James L. Schoppe",
+        "place_of_birth": null,
+        "popularity": 0.1329,
+        "profile_path": null
+    }
+}

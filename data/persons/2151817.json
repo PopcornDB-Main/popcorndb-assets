@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+                "genre_ids": [
+                    28,
+                    878
+                ],
+                "id": 137113,
+                "original_language": "en",
+                "original_title": "Edge of Tomorrow",
+                "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+                "popularity": 14.2453,
+                "poster_path": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+                "release_date": "2014-05-27",
+                "title": "Edge of Tomorrow",
+                "video": false,
+                "vote_average": 7.632,
+                "vote_count": 14442,
+                "credit_id": "5bc5db2692514179ae0763bc",
+                "department": "Crew",
+                "job": "Stand In"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 27205,
+                "original_language": "en",
+                "original_title": "Inception",
+                "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+                "popularity": 28.4777,
+                "poster_path": "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+                "release_date": "2010-07-15",
+                "title": "Inception",
+                "video": false,
+                "vote_average": 8.37,
+                "vote_count": 37999,
+                "credit_id": "5bcdc4bcc3a3682866024417",
+                "department": "Crew",
+                "job": "Stand In"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2151817,
+        "imdb_id": null,
+        "known_for_department": "Crew",
+        "name": "Richard Wulf",
+        "place_of_birth": null,
+        "popularity": 0.0468,
+        "profile_path": null
+    }
+}

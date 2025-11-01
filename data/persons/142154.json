@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 12102,
+                "original_language": "en",
+                "original_title": "Kramer vs. Kramer",
+                "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+                "popularity": 2.8027,
+                "poster_path": "/gmkGQQpvOq52icAer3vriT5S25O.jpg",
+                "release_date": "1979-12-07",
+                "title": "Kramer vs. Kramer",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 2325,
+                "credit_id": "57ce146fc3a3686886007e29",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gTO4GgaQDn5msqOvX6LeTj6H7CR.jpg",
+                "genre_ids": [
+                    80,
+                    18,
+                    28
+                ],
+                "id": 13939,
+                "original_language": "en",
+                "original_title": "Death Wish",
+                "overview": "After his wife is murdered by street punks, a pacifistic New York City architect becomes a one-man vigilante squad, prowling the streets for would-be muggers after dark.",
+                "popularity": 2.3985,
+                "poster_path": "/rNksI6UiuTgLtBy69WvKT1PrG0R.jpg",
+                "release_date": "1974-07-24",
+                "title": "Death Wish",
+                "video": false,
+                "vote_average": 6.895,
+                "vote_count": 894,
+                "credit_id": "63dd5d598741c400e7c911f1",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 142154,
+        "imdb_id": "nm0089134",
+        "known_for_department": "Sound",
+        "name": "Arthur Bloom",
+        "place_of_birth": null,
+        "popularity": 0.0637,
+        "profile_path": null
+    }
+}

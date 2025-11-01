@@ -1,0 +1,93 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+                "genre_ids": [
+                    16,
+                    10751
+                ],
+                "id": 12,
+                "original_language": "en",
+                "original_title": "Finding Nemo",
+                "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+                "popularity": 14.8804,
+                "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+                "release_date": "2003-05-30",
+                "title": "Finding Nemo",
+                "video": false,
+                "vote_average": 7.817,
+                "vote_count": 19924,
+                "credit_id": "589212269251412dc20098a0",
+                "department": "Crew",
+                "job": "Supervising Technical Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751,
+                    35
+                ],
+                "id": 862,
+                "original_language": "en",
+                "original_title": "Toy Story",
+                "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+                "popularity": 26.8697,
+                "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+                "release_date": "1995-11-22",
+                "title": "Toy Story",
+                "video": false,
+                "vote_average": 7.97,
+                "vote_count": 19157,
+                "credit_id": "589211f59251412dd4008e65",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 9806,
+                "original_language": "en",
+                "original_title": "The Incredibles",
+                "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+                "popularity": 31.3313,
+                "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+                "release_date": "2004-10-27",
+                "title": "The Incredibles",
+                "video": false,
+                "vote_average": 7.717,
+                "vote_count": 18289,
+                "credit_id": "5ab3d83e0e0a265f2400c260",
+                "department": "Crew",
+                "job": "Software Engineer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1748698,
+        "imdb_id": "nm0414232",
+        "known_for_department": "Visual Effects",
+        "name": "Oren Jacob",
+        "place_of_birth": null,
+        "popularity": 0.0416,
+        "profile_path": null
+    }
+}

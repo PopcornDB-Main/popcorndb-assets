@@ -1,0 +1,46 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+                "genre_ids": [
+                    18,
+                    53,
+                    36
+                ],
+                "id": 820,
+                "original_language": "en",
+                "original_title": "JFK",
+                "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+                "popularity": 4.3564,
+                "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+                "release_date": "1991-12-20",
+                "title": "JFK",
+                "video": false,
+                "vote_average": 7.606,
+                "vote_count": 2261,
+                "credit_id": "5b097b4bc3a3683a64005aba",
+                "department": "Camera",
+                "job": "Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1181709,
+        "imdb_id": "nm2122161",
+        "known_for_department": "Camera",
+        "name": "Mark A. Hatley",
+        "place_of_birth": null,
+        "popularity": 0.2595,
+        "profile_path": null
+    }
+}

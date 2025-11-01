@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5ORjzDMq26GI82COSnJngXm5Kww.jpg",
+                "genre_ids": [
+                    99,
+                    18,
+                    35
+                ],
+                "id": 469019,
+                "original_language": "en",
+                "original_title": "Jim & Andy: The Great Beyond",
+                "overview": "Offbeat documentarian Chris Smith provides a behind-the-scenes look at how Jim Carrey adopted the persona of idiosyncratic comedian Andy Kaufman on the set of Man on the Moon.",
+                "popularity": 1.9014,
+                "poster_path": "/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+                "release_date": "2017-09-05",
+                "title": "Jim & Andy: The Great Beyond",
+                "video": false,
+                "vote_average": 7.456,
+                "vote_count": 703,
+                "credit_id": "5a160d7a0e0a2612e8000b8b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/fnTrZiCRXCk3I6mnYvJwiMZf6pF.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 524348,
+                "original_language": "en",
+                "original_title": "The Report",
+                "overview": "The story of Daniel Jones, lead investigator for the US Senate\u2019s sweeping study into the CIA's Detention and Interrogation Program, which was found to be brutal, immoral and ineffective. With the truth at stake, Jones battled tirelessly to make public what many in power sought to keep hidden.",
+                "popularity": 3.5786,
+                "poster_path": "/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg",
+                "release_date": "2019-09-12",
+                "title": "The Report",
+                "video": false,
+                "vote_average": 7.047,
+                "vote_count": 1090,
+                "credit_id": "5fb44805ec45520040fe76b6",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": "1969-09-28",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1258541,
+        "imdb_id": "nm2448288",
+        "known_for_department": "Production",
+        "name": "Shane Smith",
+        "place_of_birth": "Ottawa, Ontario, Canada",
+        "popularity": 0.0876,
+        "profile_path": "/sJTgiUk0PA0ruEPAjGSd39nbzhE.jpg"
+    }
+}

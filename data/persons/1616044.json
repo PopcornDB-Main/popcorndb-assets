@@ -1,0 +1,137 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
+                "genre_ids": [
+                    35,
+                    14,
+                    12
+                ],
+                "id": 923939,
+                "original_language": "en",
+                "original_title": "The Wonderful Story of Henry Sugar",
+                "overview": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+                "popularity": 3.3619,
+                "poster_path": "/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+                "release_date": "2023-09-20",
+                "title": "The Wonderful Story of Henry Sugar",
+                "video": false,
+                "vote_average": 7.24,
+                "vote_count": 1201,
+                "credit_id": "621c10dee22d280045bc20e8",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+                "genre_ids": [
+                    10751,
+                    14,
+                    10749
+                ],
+                "id": 321612,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+                "popularity": 9.412,
+                "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+                "release_date": "2017-03-16",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 6.969,
+                "vote_count": 15769,
+                "credit_id": "58a978b6c3a3680bd4005531",
+                "department": "Art",
+                "job": "Draughtsman"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    16
+                ],
+                "id": 399174,
+                "original_language": "en",
+                "original_title": "Isle of Dogs",
+                "overview": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
+                "popularity": 5.3846,
+                "poster_path": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+                "release_date": "2018-03-23",
+                "title": "Isle of Dogs",
+                "video": false,
+                "vote_average": 7.846,
+                "vote_count": 5144,
+                "credit_id": "6690c4ed8e48cb01d39e215a",
+                "department": "Art",
+                "job": "Draughtsman"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/qIjyBgsMDbpeEO3CJx7vxVn4KO8.jpg",
+                "genre_ids": [
+                    35,
+                    10749
+                ],
+                "id": 549053,
+                "original_language": "en",
+                "original_title": "Last Christmas",
+                "overview": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.",
+                "popularity": 2.907,
+                "poster_path": "/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
+                "release_date": "2019-11-07",
+                "title": "Last Christmas",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 2482,
+                "credit_id": "5d50b3369c0550001445313e",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+                "genre_ids": [
+                    12,
+                    28,
+                    878
+                ],
+                "id": 140607,
+                "original_language": "en",
+                "original_title": "Star Wars: The Force Awakens",
+                "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+                "popularity": 11.5326,
+                "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+                "release_date": "2015-12-15",
+                "title": "Star Wars: The Force Awakens",
+                "video": false,
+                "vote_average": 7.256,
+                "vote_count": 19976,
+                "credit_id": "602da669a6ddcb003f59eb04",
+                "department": "Art",
+                "job": "Draughtsman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1616044,
+        "imdb_id": null,
+        "known_for_department": "Art",
+        "name": "Richard Hardy",
+        "place_of_birth": null,
+        "popularity": 0.0416,
+        "profile_path": null
+    }
+}

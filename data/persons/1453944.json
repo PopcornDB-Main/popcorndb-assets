@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 49538,
+                "original_language": "en",
+                "original_title": "X-Men: First Class",
+                "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                "popularity": 0.4127,
+                "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+                "release_date": "2011-06-01",
+                "title": "X-Men: First Class",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 13142,
+                "credit_id": "552c56179251413876001095",
+                "department": "Lighting",
+                "job": "Lighting Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8K92dxdtyrhXB6fEnfGWmWnSFV7.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 228326,
+                "original_language": "en",
+                "original_title": "The Book of Life",
+                "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans three fantastical worlds where he must face his greatest fears.",
+                "popularity": 6.5916,
+                "poster_path": "/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
+                "release_date": "2014-10-01",
+                "title": "The Book of Life",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 2816,
+                "credit_id": "552c568dc3a368619c001131",
+                "department": "Lighting",
+                "job": "Lighting Artist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1453944,
+        "imdb_id": "nm3706095",
+        "known_for_department": "Lighting",
+        "name": "Tyler DeLisle",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

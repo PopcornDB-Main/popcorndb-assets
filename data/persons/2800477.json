@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+                "genre_ids": [
+                    28,
+                    878,
+                    12
+                ],
+                "id": 49538,
+                "original_language": "en",
+                "original_title": "X-Men: First Class",
+                "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                "popularity": 0.4092,
+                "poster_path": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+                "release_date": "2011-06-01",
+                "title": "X-Men: First Class",
+                "video": false,
+                "vote_average": 7.298,
+                "vote_count": 13145,
+                "credit_id": "611c4b432e06970045984150",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rcJynPuUuSBuzOmahUTasliurzr.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    14
+                ],
+                "id": 15775,
+                "original_language": "en",
+                "original_title": "If Only",
+                "overview": "After his impetuous musician girlfriend, Samantha, dies in an accident shortly after they had a fight (and nearly broke up), Ian Wyndham, a grief-stricken British businessman living in London gets a chance to relive the day all over again, in the hope of changing the events that led up to her getting killed.",
+                "popularity": 3.894,
+                "poster_path": "/xVSqtdVanaPsZazNDFyIJSw0Mn6.jpg",
+                "release_date": "2004-01-23",
+                "title": "If Only",
+                "video": false,
+                "vote_average": 7.005,
+                "vote_count": 609,
+                "credit_id": "674aab730a70f2ad4498f01d",
+                "department": "Crew",
+                "job": "Cableman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2800477,
+        "imdb_id": "nm1154517",
+        "known_for_department": "Sound",
+        "name": "Robin Johnson",
+        "place_of_birth": null,
+        "popularity": 0.1936,
+        "profile_path": null
+    }
+}

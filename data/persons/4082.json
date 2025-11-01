@@ -1,0 +1,400 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 288,
+                "original_language": "en",
+                "original_title": "High Noon",
+                "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+                "popularity": 3.4189,
+                "poster_path": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+                "release_date": "1952-06-09",
+                "title": "High Noon",
+                "video": false,
+                "vote_average": 7.666,
+                "vote_count": 1503,
+                "credit_id": "52fe4232c3a36847f800b7b1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 301,
+                "original_language": "en",
+                "original_title": "Rio Bravo",
+                "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+                "popularity": 3.4283,
+                "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+                "release_date": "1959-03-18",
+                "title": "Rio Bravo",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 1204,
+                "credit_id": "52fe4234c3a36847f800c10f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t7Cn1A0hM5iuTKZHEArXgrCmKqd.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 521,
+                "original_language": "en",
+                "original_title": "Dial M for Murder",
+                "overview": "When American writer Mark Halliday visits the very married Margot Wendice in London, he unknowingly sets off a chain of blackmail and murder.",
+                "popularity": 5.7799,
+                "poster_path": "/4KKiFDvtEusJzqzlwHp7iMceXKS.jpg",
+                "release_date": "1954-05-29",
+                "title": "Dial M for Murder",
+                "video": false,
+                "vote_average": 8.014,
+                "vote_count": 2720,
+                "credit_id": "52fe424cc3a36847f80137bb",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+                "genre_ids": [
+                    18,
+                    10751,
+                    14
+                ],
+                "id": 1585,
+                "original_language": "en",
+                "original_title": "It's a Wonderful Life",
+                "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+                "popularity": 4.9391,
+                "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+                "release_date": "1946-12-20",
+                "title": "It's a Wonderful Life",
+                "video": false,
+                "vote_average": 8.273,
+                "vote_count": 4599,
+                "credit_id": "52fe4301c3a36847f80335a1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8Tnn2UOlecCKNLKG8ZK5Mu6bK94.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 845,
+                "original_language": "en",
+                "original_title": "Strangers on a Train",
+                "overview": "Having met on a train, a smooth-talking psychotic socialite shares his theory on how two complete strangers can get away with murder to an amateur tennis player \u2014 a theory he plans to test out.",
+                "popularity": 2.0463,
+                "poster_path": "/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+                "release_date": "1951-06-27",
+                "title": "Strangers on a Train",
+                "video": false,
+                "vote_average": 7.671,
+                "vote_count": 1778,
+                "credit_id": "52fe4281c3a36847f8024081",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 3083,
+                "original_language": "en",
+                "original_title": "Mr. Smith Goes to Washington",
+                "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+                "popularity": 1.8884,
+                "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "release_date": "1939-10-19",
+                "title": "Mr. Smith Goes to Washington",
+                "video": false,
+                "vote_average": 7.8,
+                "vote_count": 1118,
+                "credit_id": "52fe4384c3a36847f805a005",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+                "genre_ids": [
+                    10752,
+                    12,
+                    53,
+                    28
+                ],
+                "id": 10911,
+                "original_language": "en",
+                "original_title": "The Guns of Navarone",
+                "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+                "popularity": 3.838,
+                "poster_path": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+                "release_date": "1961-04-27",
+                "title": "The Guns of Navarone",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 823,
+                "credit_id": "52fe43cf9251416c7501f051",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lV4504ucv4Y0AtNMSrlgk7TwiIC.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 21734,
+                "original_language": "en",
+                "original_title": "Shadow of a Doubt",
+                "overview": "Just when Charlie is feeling especially frustrated by the lack of excitement in her small town in California, she receives wonderful news: Her uncle and namesake, Charlie, is coming to visit. However, as secrets about him come to the fore, her admiration turns into suspicion.",
+                "popularity": 3.0819,
+                "poster_path": "/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+                "release_date": "1943-01-15",
+                "title": "Shadow of a Doubt",
+                "video": false,
+                "vote_average": 7.509,
+                "vote_count": 1085,
+                "credit_id": "52fe4425c3a368484e011fb1",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+                "genre_ids": [
+                    10752,
+                    12,
+                    53,
+                    28
+                ],
+                "id": 10911,
+                "original_language": "en",
+                "original_title": "The Guns of Navarone",
+                "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+                "popularity": 3.838,
+                "poster_path": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+                "release_date": "1961-04-27",
+                "title": "The Guns of Navarone",
+                "video": false,
+                "vote_average": 7.307,
+                "vote_count": 823,
+                "credit_id": "58dfe8469251415e3600bfdb",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 1712,
+                "original_language": "en",
+                "original_title": "Giant",
+                "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations.",
+                "popularity": 3.3776,
+                "poster_path": "/oQ1Arue52pFLSvvwfcNTy16hTCG.jpg",
+                "release_date": "1956-11-08",
+                "title": "Giant",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 722,
+                "credit_id": "6658dad05d22bc30f02d347b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/lV4504ucv4Y0AtNMSrlgk7TwiIC.jpg",
+                "genre_ids": [
+                    53,
+                    9648
+                ],
+                "id": 21734,
+                "original_language": "en",
+                "original_title": "Shadow of a Doubt",
+                "overview": "Just when Charlie is feeling especially frustrated by the lack of excitement in her small town in California, she receives wonderful news: Her uncle and namesake, Charlie, is coming to visit. However, as secrets about him come to the fore, her admiration turns into suspicion.",
+                "popularity": 3.0819,
+                "poster_path": "/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+                "release_date": "1943-01-15",
+                "title": "Shadow of a Doubt",
+                "video": false,
+                "vote_average": 7.509,
+                "vote_count": 1085,
+                "credit_id": "6658dafc09a371848c2d296f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/agUD7Wp6LAwpaB3phx6yiRmFoSY.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3089,
+                "original_language": "en",
+                "original_title": "Red River",
+                "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and prot\u00e9g\u00e9.",
+                "popularity": 3.3024,
+                "poster_path": "/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+                "release_date": "1948-09-17",
+                "title": "Red River",
+                "video": false,
+                "vote_average": 7.338,
+                "vote_count": 559,
+                "credit_id": "5d3db36fa1d3327c360b6aad",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/agUD7Wp6LAwpaB3phx6yiRmFoSY.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 3089,
+                "original_language": "en",
+                "original_title": "Red River",
+                "overview": "Following the Civil War, headstrong rancher Thomas Dunson decides to lead a perilous cattle drive from Texas to Missouri. During the exhausting journey, his persistence becomes tyrannical in the eyes of Matthew Garth, his adopted son and prot\u00e9g\u00e9.",
+                "popularity": 3.3024,
+                "poster_path": "/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+                "release_date": "1948-09-17",
+                "title": "Red River",
+                "video": false,
+                "vote_average": 7.338,
+                "vote_count": 559,
+                "credit_id": "5d3dbb8121621b4d6befb23a",
+                "department": "Sound",
+                "job": "Music Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/t7Cn1A0hM5iuTKZHEArXgrCmKqd.jpg",
+                "genre_ids": [
+                    53,
+                    80
+                ],
+                "id": 521,
+                "original_language": "en",
+                "original_title": "Dial M for Murder",
+                "overview": "When American writer Mark Halliday visits the very married Margot Wendice in London, he unknowingly sets off a chain of blackmail and murder.",
+                "popularity": 5.7799,
+                "poster_path": "/4KKiFDvtEusJzqzlwHp7iMceXKS.jpg",
+                "release_date": "1954-05-29",
+                "title": "Dial M for Murder",
+                "video": false,
+                "vote_average": 8.014,
+                "vote_count": 2720,
+                "credit_id": "5f628452dbcade0036132875",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 301,
+                "original_language": "en",
+                "original_title": "Rio Bravo",
+                "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+                "popularity": 3.4283,
+                "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+                "release_date": "1959-03-18",
+                "title": "Rio Bravo",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 1204,
+                "credit_id": "5fa6a905ffc9de003d88bcfe",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 301,
+                "original_language": "en",
+                "original_title": "Rio Bravo",
+                "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+                "popularity": 3.4283,
+                "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+                "release_date": "1959-03-18",
+                "title": "Rio Bravo",
+                "video": false,
+                "vote_average": 7.813,
+                "vote_count": 1204,
+                "credit_id": "5fa6aa38ffc9de003c892fa2",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+                "genre_ids": [
+                    37,
+                    18
+                ],
+                "id": 288,
+                "original_language": "en",
+                "original_title": "High Noon",
+                "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+                "popularity": 3.4189,
+                "poster_path": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+                "release_date": "1952-06-09",
+                "title": "High Noon",
+                "video": false,
+                "vote_average": 7.666,
+                "vote_count": 1503,
+                "credit_id": "68a33573668cd32c49e951db",
+                "department": "Sound",
+                "job": "Music Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "\u0414\u0438\u043c\u0438\u0442\u0440\u0438\u0439 \u0422\u0435\u043c\u043a\u0438\u043d",
+            "\u0414\u0438\u043c\u0438\u0442\u0440\u0438\u0439 \u0422\u0451\u043c\u043a\u0438\u043d"
+        ],
+        "biography": "Dimitri Zinovievich Tiomkin (May 10, 1894 \u2013 November 11, 1979) was a Russian-born American film composer and conductor. Classically trained in St. Petersburg, Russia before the Bolshevik Revolution, he moved to Berlin and then New York City after the Russian Revolution. In 1929, after the stock market crash, he moved to Hollywood, where he became best known for his scores for Western films, including Duel in the Sun, Red River, High Noon, The Big Sky, 55 Days at Peking, Gunfight at the O.K. Corral, and Last Train from Gun Hill, as well as his work with director Frank Capra.\n\nTiomkin received 22 Academy Award nominations and won four Oscars, three for Best Original Score for High Noon, The High and the Mighty, and The Old Man and the Sea, and one for Best Original Song for \"The Ballad of High Noon\" from the former film.",
+        "birthday": "1894-05-10",
+        "deathday": "1979-11-11",
+        "gender": 2,
+        "homepage": "http://www.dimitritiomkin.com",
+        "id": 4082,
+        "imdb_id": "nm0006323",
+        "known_for_department": "Sound",
+        "name": "Dimitri Tiomkin",
+        "place_of_birth": "Kremenchug, Poltava governorate, Russian Empire",
+        "popularity": 0.0589,
+        "profile_path": "/oYL6Tiuf7MuFEd5F7vf7Dt5vHmF.jpg"
+    }
+}

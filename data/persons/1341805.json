@@ -1,0 +1,66 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 813,
+                "original_language": "en",
+                "original_title": "Airplane!",
+                "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+                "popularity": 9.2581,
+                "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+                "release_date": "1980-06-27",
+                "title": "Airplane!",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 4792,
+                "credit_id": "609b9217f706de005796c0c2",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 568,
+                "original_language": "en",
+                "original_title": "Apollo 13",
+                "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+                "popularity": 7.8997,
+                "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+                "release_date": "1995-06-30",
+                "title": "Apollo 13",
+                "video": false,
+                "vote_average": 7.452,
+                "vote_count": 5618,
+                "credit_id": "5b03cff892514109c9028d57",
+                "department": "Art",
+                "job": "Property Master"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1341805,
+        "imdb_id": "nm0505967",
+        "known_for_department": "Art",
+        "name": "Steven M. Levine",
+        "place_of_birth": null,
+        "popularity": 0.1275,
+        "profile_path": null
+    }
+}

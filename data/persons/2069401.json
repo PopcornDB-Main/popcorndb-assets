@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+                "genre_ids": [
+                    878,
+                    12,
+                    28,
+                    35
+                ],
+                "id": 447365,
+                "original_language": "en",
+                "original_title": "Guardians of the Galaxy Vol. 3",
+                "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+                "popularity": 13.3958,
+                "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+                "release_date": "2023-05-03",
+                "title": "Guardians of the Galaxy Vol. 3",
+                "video": false,
+                "vote_average": 7.93,
+                "vote_count": 7669,
+                "credit_id": "6453f3c687a27a0138a6c48a",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+                "genre_ids": [
+                    35,
+                    12
+                ],
+                "id": 346698,
+                "original_language": "en",
+                "original_title": "Barbie",
+                "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                "popularity": 18.4813,
+                "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+                "release_date": "2023-07-19",
+                "title": "Barbie",
+                "video": false,
+                "vote_average": 6.954,
+                "vote_count": 10330,
+                "credit_id": "649f216f3af9290125394c45",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2069401,
+        "imdb_id": null,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jimmy Kenney",
+        "place_of_birth": null,
+        "popularity": 0.054,
+        "profile_path": null
+    }
+}

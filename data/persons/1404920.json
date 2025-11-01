@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    878
+                ],
+                "id": 861,
+                "original_language": "en",
+                "original_title": "Total Recall",
+                "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+                "popularity": 7.7,
+                "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+                "release_date": "1990-06-01",
+                "title": "Total Recall",
+                "video": false,
+                "vote_average": 7.31,
+                "vote_count": 6118,
+                "credit_id": "66b3d0c7b2c9ca16d74c01a6",
+                "department": "Visual Effects",
+                "job": "Visual Effects Camera"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ucFDgf7Nw6cEwPh5o4cacp3k1aW.jpg",
+                "genre_ids": [
+                    35,
+                    12,
+                    18
+                ],
+                "id": 864,
+                "original_language": "en",
+                "original_title": "Cool Runnings",
+                "overview": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican bobsled team.",
+                "popularity": 6.0173,
+                "poster_path": "/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
+                "release_date": "1993-10-01",
+                "title": "Cool Runnings",
+                "video": false,
+                "vote_average": 7.002,
+                "vote_count": 2143,
+                "credit_id": "5f42b61be86017003456897d",
+                "department": "Camera",
+                "job": "Second Unit Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Rex Metz",
+            "Rexford Lin Metz"
+        ],
+        "biography": "",
+        "birthday": "1937-12-26",
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1404920,
+        "imdb_id": "nm0582701",
+        "known_for_department": "Camera",
+        "name": "Rexford L. Metz",
+        "place_of_birth": "Los Angeles, California, USA",
+        "popularity": 1.7414,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
+                "genre_ids": [
+                    18,
+                    10402,
+                    36
+                ],
+                "id": 614934,
+                "original_language": "en",
+                "original_title": "Elvis",
+                "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+                "popularity": 4.8896,
+                "poster_path": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+                "release_date": "2022-06-22",
+                "title": "Elvis",
+                "video": false,
+                "vote_average": 7.482,
+                "vote_count": 3680,
+                "credit_id": "5db3120825a5360013e00005",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    35,
+                    14,
+                    12
+                ],
+                "id": 639721,
+                "original_language": "en",
+                "original_title": "The Addams Family 2",
+                "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+                "popularity": 5.4661,
+                "poster_path": "/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+                "release_date": "2021-10-01",
+                "title": "The Addams Family 2",
+                "video": false,
+                "vote_average": 6.951,
+                "vote_count": 1354,
+                "credit_id": "5f7e11468741c4003a7868ea",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1516820,
+        "imdb_id": "nm3879410",
+        "known_for_department": "Production",
+        "name": "Andrew Mittman",
+        "place_of_birth": null,
+        "popularity": 0.155,
+        "profile_path": "/jD7DNgrOfVWnUS5TE6jy2lie22z.jpg"
+    }
+}

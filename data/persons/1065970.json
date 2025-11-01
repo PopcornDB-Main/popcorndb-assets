@@ -1,0 +1,89 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 11010,
+                "original_language": "it",
+                "original_title": "Il postino",
+                "overview": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+                "popularity": 1.3811,
+                "poster_path": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+                "release_date": "1994-04-07",
+                "title": "The Postman",
+                "video": false,
+                "vote_average": 7.93,
+                "vote_count": 1174,
+                "credit_id": "62aa4e417eb5f20050f3a88b",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hEhOPX1NCke6ky7930NqNXZYuu1.jpg",
+                "genre_ids": [
+                    35,
+                    27
+                ],
+                "id": 21588,
+                "original_language": "it",
+                "original_title": "DellaMorte DellAmore",
+                "overview": "Cemetery watchman, Francesco Dellamorte, is tasked with dispatching the recently deceased when they rise from their graves.",
+                "popularity": 1.7603,
+                "poster_path": "/cI5AV3jCuxmoQp0N7Z16SI2b7Xk.jpg",
+                "release_date": "1994-03-25",
+                "title": "Cemetery Man",
+                "video": false,
+                "vote_average": 6.911,
+                "vote_count": 544,
+                "credit_id": "6522df3374507d00e212fc8c",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/f0QGUAdHs2eDMuUXO9GhViYe1bj.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 8832,
+                "original_language": "it",
+                "original_title": "Il Divo",
+                "overview": "Italy, early '90s. Calm, clever and inscrutable, politician Giulio Andreotti has been synonymous with power for decades. He has survived everything: electoral battles, terrorist massacres, loss of friends, slanderous accusations; but now certain repentant mobsters implicate him in the crimes of Cosa Nostra.",
+                "popularity": 2.156,
+                "poster_path": "/g1bgM34ZGldqcGkucmaGZe4pMBu.jpg",
+                "release_date": "2008-05-28",
+                "title": "Il Divo",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 1147,
+                "credit_id": "5cf5dba79251411882c1bf22",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1065970,
+        "imdb_id": "nm0706652",
+        "known_for_department": "Sound",
+        "name": "Angelo Raguseo",
+        "place_of_birth": null,
+        "popularity": 0.0445,
+        "profile_path": null
+    }
+}

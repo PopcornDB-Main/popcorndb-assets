@@ -1,0 +1,91 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    18
+                ],
+                "id": 445651,
+                "original_language": "en",
+                "original_title": "The Darkest Minds",
+                "overview": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.",
+                "popularity": 7.1675,
+                "poster_path": "/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
+                "release_date": "2018-07-25",
+                "title": "The Darkest Minds",
+                "video": false,
+                "vote_average": 7.032,
+                "vote_count": 2876,
+                "credit_id": "60b738adc740d90079dc7a7e",
+                "department": "Lighting",
+                "job": "Rigging Grip"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    878
+                ],
+                "id": 274870,
+                "original_language": "en",
+                "original_title": "Passengers",
+                "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+                "popularity": 3.8484,
+                "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+                "release_date": "2016-12-21",
+                "title": "Passengers",
+                "video": false,
+                "vote_average": 6.953,
+                "vote_count": 13758,
+                "credit_id": "5bbf668dc3a3682d530000bc",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oVD3ClJBoomSQHtnJPAlMfes8YD.jpg",
+                "genre_ids": [
+                    28,
+                    80
+                ],
+                "id": 339403,
+                "original_language": "en",
+                "original_title": "Baby Driver",
+                "overview": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+                "popularity": 9.5089,
+                "poster_path": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+                "release_date": "2017-06-28",
+                "title": "Baby Driver",
+                "video": false,
+                "vote_average": 7.446,
+                "vote_count": 16281,
+                "credit_id": "5f6a2050e267de00351a5c20",
+                "department": "Lighting",
+                "job": "Rigging Grip"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2147645,
+        "imdb_id": null,
+        "known_for_department": "Camera",
+        "name": "Justin Bernhard",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

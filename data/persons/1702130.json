@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12,
+                    53
+                ],
+                "id": 199,
+                "original_language": "en",
+                "original_title": "Star Trek: First Contact",
+                "overview": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+                "popularity": 4.1694,
+                "poster_path": "/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+                "release_date": "1996-11-22",
+                "title": "Star Trek: First Contact",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1855,
+                "credit_id": "5b2e6683c3a368534a005128",
+                "department": "Editing",
+                "job": "Colorist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7aW9IZjpsoTXYEARlnOvTtl6EBr.jpg",
+                "genre_ids": [
+                    18,
+                    10749
+                ],
+                "id": 1391,
+                "original_language": "es",
+                "original_title": "Y tu mam\u00e1 tambi\u00e9n",
+                "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+                "popularity": 7.9328,
+                "poster_path": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+                "release_date": "2001-06-08",
+                "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+                "video": false,
+                "vote_average": 7.417,
+                "vote_count": 1638,
+                "credit_id": "5eeb19c96dea3a0032bd4052",
+                "department": "Editing",
+                "job": "Colorist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1702130,
+        "imdb_id": null,
+        "known_for_department": "Editing",
+        "name": "Bryan McMahan",
+        "place_of_birth": null,
+        "popularity": 0.0713,
+        "profile_path": null
+    }
+}

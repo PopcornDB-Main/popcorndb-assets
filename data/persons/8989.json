@@ -1,0 +1,44 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg",
+                "genre_ids": [
+                    27
+                ],
+                "id": 626,
+                "original_language": "fr",
+                "original_title": "Un chien andalou",
+                "overview": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Bu\u00f1uel and Salvador Dali.",
+                "popularity": 1.7629,
+                "poster_path": "/obvE7ElAvCUhKtWFwDSvNbPw9PV.jpg",
+                "release_date": "1929-06-05",
+                "title": "Un Chien Andalou",
+                "video": false,
+                "vote_average": 7.403,
+                "vote_count": 1349,
+                "credit_id": "600ff106b2e07400410996a3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 8989,
+        "imdb_id": "nm0245178",
+        "known_for_department": "Camera",
+        "name": "Albert Duverger",
+        "place_of_birth": null,
+        "popularity": 0.0393,
+        "profile_path": null
+    }
+}

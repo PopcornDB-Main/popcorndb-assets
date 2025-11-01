@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg",
+                "genre_ids": [
+                    28,
+                    53
+                ],
+                "id": 245891,
+                "original_language": "en",
+                "original_title": "John Wick",
+                "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                "popularity": 10.6452,
+                "poster_path": "/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+                "release_date": "2014-10-22",
+                "title": "John Wick",
+                "video": false,
+                "vote_average": 7.453,
+                "vote_count": 20069,
+                "credit_id": "54b65891c3a36838d50016ba",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+                "genre_ids": [
+                    18,
+                    10749,
+                    878
+                ],
+                "id": 274870,
+                "original_language": "en",
+                "original_title": "Passengers",
+                "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+                "popularity": 3.8484,
+                "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+                "release_date": "2016-12-21",
+                "title": "Passengers",
+                "video": false,
+                "vote_average": 6.953,
+                "vote_count": 13758,
+                "credit_id": "57733d5fc3a368618c001afc",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 882944,
+        "imdb_id": "nm1336500",
+        "known_for_department": "Writing",
+        "name": "Stephen Hamel",
+        "place_of_birth": null,
+        "popularity": 0.5136,
+        "profile_path": "/xATm8hKF8YcAHej45T8dtVrRm8U.jpg"
+    }
+}

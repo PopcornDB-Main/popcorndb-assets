@@ -1,0 +1,92 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 703,
+                "original_language": "en",
+                "original_title": "Annie Hall",
+                "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+                "popularity": 3.9351,
+                "poster_path": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+                "release_date": "1977-04-19",
+                "title": "Annie Hall",
+                "video": false,
+                "vote_average": 7.736,
+                "vote_count": 4052,
+                "credit_id": "6098f5118ee49c0040746de0",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11030,
+                "original_language": "en",
+                "original_title": "Zelig",
+                "overview": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+                "popularity": 2.8385,
+                "poster_path": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
+                "release_date": "1983-07-15",
+                "title": "Zelig",
+                "video": false,
+                "vote_average": 7.428,
+                "vote_count": 889,
+                "credit_id": "61ad0402f28838008fb7df1b",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 696,
+                "original_language": "en",
+                "original_title": "Manhattan",
+                "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+                "popularity": 1.7238,
+                "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+                "release_date": "1979-04-25",
+                "title": "Manhattan",
+                "video": false,
+                "vote_average": 7.721,
+                "vote_count": 2500,
+                "credit_id": "61b81b81873f00001b1646b3",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Fred Blankfein"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 10446,
+        "imdb_id": "nm0087577",
+        "known_for_department": "Directing",
+        "name": "Frederic B. Blankfein",
+        "place_of_birth": null,
+        "popularity": 1.7375,
+        "profile_path": null
+    }
+}

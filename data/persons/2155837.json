@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/4b2t4F8Ho5H0wKvylvOA7F2KbVr.jpg",
+                "genre_ids": [
+                    12,
+                    18
+                ],
+                "id": 20766,
+                "original_language": "en",
+                "original_title": "The Road",
+                "overview": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones and, when the snow falls, it is gray. Their destination is the warmer south, although they don't know what, if anything, awaits them there.",
+                "popularity": 5.1542,
+                "poster_path": "/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+                "release_date": "2009-11-25",
+                "title": "The Road",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 4049,
+                "credit_id": "5bcb4ab8c3a368354a00ae8b",
+                "department": "Editing",
+                "job": "Digital Intermediate"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+                "genre_ids": [
+                    878,
+                    28,
+                    12
+                ],
+                "id": 24428,
+                "original_language": "en",
+                "original_title": "The Avengers",
+                "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                "popularity": 40.5994,
+                "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+                "release_date": "2012-04-25",
+                "title": "The Avengers",
+                "video": false,
+                "vote_average": 7.811,
+                "vote_count": 33189,
+                "credit_id": "5f5ce53d688cd0003af33b11",
+                "department": "Editing",
+                "job": "Colorist"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2155837,
+        "imdb_id": null,
+        "known_for_department": "Editing",
+        "name": "Marc Lulkin",
+        "place_of_birth": null,
+        "popularity": 0.0439,
+        "profile_path": null
+    }
+}

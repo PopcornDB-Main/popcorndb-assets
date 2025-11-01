@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+                "genre_ids": [
+                    35
+                ],
+                "id": 11030,
+                "original_language": "en",
+                "original_title": "Zelig",
+                "overview": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+                "popularity": 2.8997,
+                "poster_path": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
+                "release_date": "1983-07-15",
+                "title": "Zelig",
+                "video": false,
+                "vote_average": 7.428,
+                "vote_count": 889,
+                "credit_id": "61ad072915dea00064bb5440",
+                "department": "Lighting",
+                "job": "Best Boy Electric"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+                "genre_ids": [
+                    36,
+                    10402,
+                    18
+                ],
+                "id": 279,
+                "original_language": "en",
+                "original_title": "Amadeus",
+                "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+                "popularity": 5.0311,
+                "poster_path": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+                "release_date": "1984-09-19",
+                "title": "Amadeus",
+                "video": false,
+                "vote_average": 8.027,
+                "vote_count": 4498,
+                "credit_id": "66798370ddf3fce3aa572537",
+                "department": "Lighting",
+                "job": "Best Boy Electric"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Bobby Conners",
+            "Bob Conners",
+            "Bob Connors"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 2823398,
+        "imdb_id": "nm0175539",
+        "known_for_department": "Lighting",
+        "name": "Robert Connors",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

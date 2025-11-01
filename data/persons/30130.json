@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hwMWJ8G5173SGCHzrm0mVjvESaY.jpg",
+                "genre_ids": [
+                    27,
+                    18
+                ],
+                "id": 13666,
+                "original_language": "en",
+                "original_title": "The Wolf Man",
+                "overview": "After his brother's death, Larry Talbot returns home to his father and the family estate. Events soon take a turn for the worse when Larry is bitten by a werewolf.",
+                "popularity": 2.125,
+                "poster_path": "/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg",
+                "release_date": "1941-12-12",
+                "title": "The Wolf Man",
+                "video": false,
+                "vote_average": 7.0,
+                "vote_count": 647,
+                "credit_id": "61d47197bb260200422a37c1",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bd9lxQ4SgnNb6NPIph4pz5HGLpY.jpg",
+                "genre_ids": [
+                    878,
+                    27
+                ],
+                "id": 31682,
+                "original_language": "en",
+                "original_title": "The Incredible Shrinking Man",
+                "overview": "A dangerous combination of radiation and insecticide causes the unfortunate Scott Carey to shrink, slowly but surely, until he is only a few inches tall. His home becomes a wilderness where he must survive everything from spiders living in the cellar to his beloved cat.",
+                "popularity": 4.7402,
+                "poster_path": "/vI7IdqfvsyoQAjAzRWS2fYvUoOu.jpg",
+                "release_date": "1957-02-22",
+                "title": "The Incredible Shrinking Man",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 526,
+                "credit_id": "66744b2a67e8c4e89b4eb747",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Hans Salter",
+            "H. J. Salter"
+        ],
+        "biography": "",
+        "birthday": "1896-01-14",
+        "deathday": "1994-07-23",
+        "gender": 2,
+        "homepage": null,
+        "id": 30130,
+        "imdb_id": "nm0006270",
+        "known_for_department": "Sound",
+        "name": "Hans J. Salter",
+        "place_of_birth": "Vienna, Austria",
+        "popularity": 1.449,
+        "profile_path": null
+    }
+}

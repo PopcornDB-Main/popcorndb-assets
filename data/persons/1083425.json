@@ -1,0 +1,169 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+                "genre_ids": [
+                    10749,
+                    10751,
+                    16,
+                    14
+                ],
+                "id": 10020,
+                "original_language": "en",
+                "original_title": "Beauty and the Beast",
+                "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+                "popularity": 10.752,
+                "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+                "release_date": "1991-10-22",
+                "title": "Beauty and the Beast",
+                "video": false,
+                "vote_average": 7.731,
+                "vote_count": 10310,
+                "credit_id": "52fe43099251416c7500100b",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+                "genre_ids": [
+                    16,
+                    10751,
+                    12,
+                    14,
+                    10749
+                ],
+                "id": 812,
+                "original_language": "en",
+                "original_title": "Aladdin",
+                "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+                "popularity": 7.5554,
+                "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+                "release_date": "1992-11-25",
+                "title": "Aladdin",
+                "video": false,
+                "vote_average": 7.655,
+                "vote_count": 11622,
+                "credit_id": "5849431892514119bf011c98",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/sZhY0BAsN1bMAPLIqMRqG1fqb3A.jpg",
+                "genre_ids": [
+                    12,
+                    16,
+                    10751
+                ],
+                "id": 10009,
+                "original_language": "en",
+                "original_title": "Brother Bear",
+                "overview": "When an impulsive boy named Kenai is magically transformed into a bear, he must literally walk in another's footsteps until he learns some valuable life lessons. His courageous and often zany journey introduces him to a forest full of wildlife, including the lovable bear cub Koda, hilarious moose Rutt and Tuke, woolly mammoths and rambunctious rams.",
+                "popularity": 7.6011,
+                "poster_path": "/otptPbEY0vBostmo95xwiiumMJm.jpg",
+                "release_date": "2003-10-23",
+                "title": "Brother Bear",
+                "video": false,
+                "vote_average": 7.269,
+                "vote_count": 5590,
+                "credit_id": "58cadd6fc3a368285d001439",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+                "genre_ids": [
+                    10751,
+                    16,
+                    18,
+                    14,
+                    12
+                ],
+                "id": 8587,
+                "original_language": "en",
+                "original_title": "The Lion King",
+                "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+                "popularity": 13.1867,
+                "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+                "release_date": "1994-06-15",
+                "title": "The Lion King",
+                "video": false,
+                "vote_average": 8.256,
+                "vote_count": 19036,
+                "credit_id": "5ab7b8a30e0a261fe801baf6",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
+                "genre_ids": [
+                    10751,
+                    12,
+                    16,
+                    18
+                ],
+                "id": 37135,
+                "original_language": "en",
+                "original_title": "Tarzan",
+                "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+                "popularity": 8.3666,
+                "poster_path": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+                "release_date": "1999-06-17",
+                "title": "Tarzan",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 7052,
+                "credit_id": "5fdf915feb0932003f5254ae",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/geU7XW9G2n7EqhXsF1v8CvzAbGa.jpg",
+                "genre_ids": [
+                    18,
+                    16,
+                    10751
+                ],
+                "id": 10545,
+                "original_language": "en",
+                "original_title": "The Hunchback of Notre Dame",
+                "overview": "Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.",
+                "popularity": 5.3456,
+                "poster_path": "/hImMgT9B27evYSRmfztqdDtX6qi.jpg",
+                "release_date": "1996-06-21",
+                "title": "The Hunchback of Notre Dame",
+                "video": false,
+                "vote_average": 7.117,
+                "vote_count": 5188,
+                "credit_id": "67982399b921c548d82ae25b",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Kevin L. Harkey"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1083425,
+        "imdb_id": "nm0363125",
+        "known_for_department": "Writing",
+        "name": "Kevin Harkey",
+        "place_of_birth": null,
+        "popularity": 0.1128,
+        "profile_path": null
+    }
+}

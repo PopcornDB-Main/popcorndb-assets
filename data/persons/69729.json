@@ -1,0 +1,68 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/qrnNj4lCPcBzmeOaHb7pLV9JKyg.jpg",
+                "genre_ids": [
+                    12,
+                    14
+                ],
+                "id": 11527,
+                "original_language": "en",
+                "original_title": "Excalibur",
+                "overview": "A surreal adaptation of Sir Thomas Malory's \"Le Morte d'Arthur\" chronicling Arthur Pendragon's conception, his rise to the throne, the search by his Knights of the Round Table for the Holy Grail, and ultimately, his death.",
+                "popularity": 2.1572,
+                "poster_path": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+                "release_date": "1981-04-10",
+                "title": "Excalibur",
+                "video": false,
+                "vote_average": 6.966,
+                "vote_count": 1071,
+                "credit_id": "52fe44529251416c75030acb",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    14
+                ],
+                "id": 762,
+                "original_language": "en",
+                "original_title": "Monty Python and the Holy Grail",
+                "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+                "popularity": 5.7779,
+                "poster_path": "/hWx1ANiWEWWyzKPN0us35HCGnhQ.jpg",
+                "release_date": "1975-04-03",
+                "title": "Monty Python and the Holy Grail",
+                "video": false,
+                "vote_average": 7.803,
+                "vote_count": 6093,
+                "credit_id": "5ecc0fda05a533001d1b4009",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 69729,
+        "imdb_id": "nm0540627",
+        "known_for_department": "Writing",
+        "name": "Thomas Malory",
+        "place_of_birth": null,
+        "popularity": 0.0781,
+        "profile_path": null
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/A6shbaUPorZatoVbDdJgknxe3CZ.jpg",
+                "genre_ids": [
+                    16,
+                    28,
+                    12,
+                    35,
+                    10751
+                ],
+                "id": 140300,
+                "original_language": "en",
+                "original_title": "Kung Fu Panda 3",
+                "overview": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+                "popularity": 9.1151,
+                "poster_path": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+                "release_date": "2016-01-23",
+                "title": "Kung Fu Panda 3",
+                "video": false,
+                "vote_average": 6.916,
+                "vote_count": 6318,
+                "credit_id": "554ab04ec3a3685e4c00045a",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+                "genre_ids": [
+                    16,
+                    12,
+                    10751
+                ],
+                "id": 313297,
+                "original_language": "en",
+                "original_title": "Kubo and the Two Strings",
+                "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+                "popularity": 4.8551,
+                "poster_path": "/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg",
+                "release_date": "2016-08-18",
+                "title": "Kubo and the Two Strings",
+                "video": false,
+                "vote_average": 7.633,
+                "vote_count": 3682,
+                "credit_id": "5bc2343a0e0a266e64035828",
+                "department": "Visual Effects",
+                "job": "Animation"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1464426,
+        "imdb_id": "nm5900238",
+        "known_for_department": "Directing",
+        "name": "Baptiste Rogron",
+        "place_of_birth": null,
+        "popularity": 0.0214,
+        "profile_path": null
+    }
+}

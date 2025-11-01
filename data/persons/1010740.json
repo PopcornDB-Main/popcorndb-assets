@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/5vuQnRJURp6rZoEEnhW0HC7DBQc.jpg",
+                "genre_ids": [
+                    10749,
+                    35,
+                    18
+                ],
+                "id": 3109,
+                "original_language": "en",
+                "original_title": "The Quiet Man",
+                "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+                "popularity": 2.228,
+                "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+                "release_date": "1952-07-21",
+                "title": "The Quiet Man",
+                "video": false,
+                "vote_average": 7.319,
+                "vote_count": 565,
+                "credit_id": "56cd7ad4c3a3682773001c6a",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9qGWOflC5WNhaKk2UPYu55SjjNj.jpg",
+                "genre_ids": [
+                    80,
+                    53
+                ],
+                "id": 678,
+                "original_language": "en",
+                "original_title": "Out of the Past",
+                "overview": "The peaceful life of a gas station owner is disrupted when a man from his past arrives in town and forces him to return to the dark world he had tried to escape.",
+                "popularity": 1.8323,
+                "poster_path": "/lnUK6Cg5ARM0qaq0B5SG20VAM0h.jpg",
+                "release_date": "1947-11-25",
+                "title": "Out of the Past",
+                "video": false,
+                "vote_average": 7.6,
+                "vote_count": 618,
+                "credit_id": "63877c8ca410c8008cd6141f",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "John McCarthr",
+            "J. McCarthy Jr.",
+            "John McCarthy"
+        ],
+        "biography": "",
+        "birthday": "1912-06-01",
+        "deathday": "1994-01-14",
+        "gender": 2,
+        "homepage": null,
+        "id": 1010740,
+        "imdb_id": "nm0565042",
+        "known_for_department": "Art",
+        "name": "John McCarthy Jr.",
+        "place_of_birth": "California, USA",
+        "popularity": 0.1093,
+        "profile_path": null
+    }
+}

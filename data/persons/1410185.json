@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+                "genre_ids": [
+                    18,
+                    28,
+                    53,
+                    878
+                ],
+                "id": 9693,
+                "original_language": "en",
+                "original_title": "Children of Men",
+                "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+                "popularity": 8.2772,
+                "poster_path": "/8Xgvmx7WWc7Z9Ws9RAYk7uya2kh.jpg",
+                "release_date": "2006-09-22",
+                "title": "Children of Men",
+                "video": false,
+                "vote_average": 7.611,
+                "vote_count": 7458,
+                "credit_id": "54ad156fc3a36822b7005cda",
+                "department": "Crew",
+                "job": "CG Supervisor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/79PNOxNXSe5e0bhEj11QJPlsdCN.jpg",
+                "genre_ids": [
+                    14,
+                    10751,
+                    28,
+                    12
+                ],
+                "id": 1087192,
+                "original_language": "en",
+                "original_title": "How to Train Your Dragon",
+                "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+                "popularity": 135.3335,
+                "poster_path": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+                "release_date": "2025-06-06",
+                "title": "How to Train Your Dragon",
+                "video": false,
+                "vote_average": 8.027,
+                "vote_count": 1957,
+                "credit_id": "68100ca65ad0b67c66eaf222",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1410185,
+        "imdb_id": "nm0454229",
+        "known_for_department": "Visual Effects",
+        "name": "Andy Kind",
+        "place_of_birth": null,
+        "popularity": 0.0311,
+        "profile_path": null
+    }
+}

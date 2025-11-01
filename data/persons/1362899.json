@@ -1,0 +1,90 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+                "genre_ids": [
+                    14,
+                    18,
+                    10749
+                ],
+                "id": 162,
+                "original_language": "en",
+                "original_title": "Edward Scissorhands",
+                "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+                "popularity": 11.0252,
+                "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+                "release_date": "1990-12-07",
+                "title": "Edward Scissorhands",
+                "video": false,
+                "vote_average": 7.7,
+                "vote_count": 13327,
+                "credit_id": "60df592f071650007e4078a0",
+                "department": "Art",
+                "job": "Leadman"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg",
+                "genre_ids": [
+                    37
+                ],
+                "id": 33,
+                "original_language": "en",
+                "original_title": "Unforgiven",
+                "overview": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+                "popularity": 4.8957,
+                "poster_path": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+                "release_date": "1992-08-07",
+                "title": "Unforgiven",
+                "video": false,
+                "vote_average": 7.915,
+                "vote_count": 4685,
+                "credit_id": "6635dc18813cb6012788414a",
+                "department": "Art",
+                "job": "Assistant Property Master"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 3.6695,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.49,
+                "vote_count": 2412,
+                "credit_id": "6850e52b7344b7f9cab3118e",
+                "department": "Art",
+                "job": "Leadman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1362899,
+        "imdb_id": "nm0574560",
+        "known_for_department": "Art",
+        "name": "Chuck McSorley",
+        "place_of_birth": null,
+        "popularity": 0.5025,
+        "profile_path": null
+    }
+}

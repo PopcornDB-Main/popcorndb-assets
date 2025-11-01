@@ -1,0 +1,72 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
+                "genre_ids": [
+                    10749,
+                    18,
+                    53
+                ],
+                "id": 3767,
+                "original_language": "en",
+                "original_title": "Gilda",
+                "overview": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+                "popularity": 3.5082,
+                "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+                "release_date": "1946-04-25",
+                "title": "Gilda",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 609,
+                "credit_id": "63874726229ae2155c54f078",
+                "department": "Sound",
+                "job": "Other"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hrED8MSOn4xJP9Cpk7WomUcFKGI.jpg",
+                "genre_ids": [
+                    27,
+                    878
+                ],
+                "id": 229,
+                "original_language": "en",
+                "original_title": "Bride of Frankenstein",
+                "overview": "Dr. Frankenstein and his monster both turn out to be alive, not killed as previously believed. Dr. Frankenstein wants to get out of the evil experiment business, but when a mad scientist, Dr. Pretorius, kidnaps his wife, Dr. Frankenstein agrees to help him create a new creature.",
+                "popularity": 3.0203,
+                "poster_path": "/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+                "release_date": "1935-04-20",
+                "title": "Bride of Frankenstein",
+                "video": false,
+                "vote_average": 7.5,
+                "vote_count": 1037,
+                "credit_id": "65afeeb1158c8500ebba3bcb",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "E. Wetzel",
+            "Edwin L. Wetzel",
+            "Ed Wetzel"
+        ],
+        "biography": "",
+        "birthday": "1904-11-12",
+        "deathday": "1961-08-11",
+        "gender": 2,
+        "homepage": null,
+        "id": 34413,
+        "imdb_id": "nm0923231",
+        "known_for_department": "Sound",
+        "name": "Edwin Wetzel",
+        "place_of_birth": null,
+        "popularity": 0.0239,
+        "profile_path": null
+    }
+}

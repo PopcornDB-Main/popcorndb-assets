@@ -1,0 +1,293 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/2mu6XkJE0B6nK5jeOvXOyWPVmhw.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    10749
+                ],
+                "id": 401,
+                "original_language": "en",
+                "original_title": "Garden State",
+                "overview": "Andrew returns to his hometown for the funeral of his mother, a journey that reconnects him with past friends. The trip coincides with his decision to stop taking his powerful antidepressants. A chance meeting with Sam - a girl also suffering from various maladies - opens up the possibility of rekindling emotional attachments, confronting his psychologist father, and perhaps beginning a new life.",
+                "popularity": 1.5283,
+                "poster_path": "/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+                "release_date": "2004-07-28",
+                "title": "Garden State",
+                "video": false,
+                "vote_average": 7.086,
+                "vote_count": 1931,
+                "credit_id": "52fe423ec3a36847f800f403",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3HmLKhahTxX2ALTWlagr92pZrU7.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 462,
+                "original_language": "en",
+                "original_title": "Erin Brockovich",
+                "overview": "A twice-divorced mother of three who sees an injustice, takes on the bad guy and wins -- with a little help from her push-up bra. Erin goes to work for an attorney and comes across medical records describing illnesses clustered in one nearby town. She starts investigating and soon exposes a monumental cover-up.",
+                "popularity": 3.695,
+                "poster_path": "/jEMvWBWVjndZT0vJnLrRWi9ajea.jpg",
+                "release_date": "2000-03-17",
+                "title": "Erin Brockovich",
+                "video": false,
+                "vote_average": 7.4,
+                "vote_count": 3431,
+                "credit_id": "52fe4246c3a36847f801195f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/oVCyqxwLkRPJC51w89Dwp6VL9vk.jpg",
+                "genre_ids": [
+                    80,
+                    18
+                ],
+                "id": 1646,
+                "original_language": "en",
+                "original_title": "Freedom Writers",
+                "overview": "A young teacher inspires her class of at-risk students to learn tolerance, apply themselves, and pursue education beyond high school.",
+                "popularity": 4.1919,
+                "poster_path": "/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg",
+                "release_date": "2007-01-05",
+                "title": "Freedom Writers",
+                "video": false,
+                "vote_average": 7.9,
+                "vote_count": 2341,
+                "credit_id": "52fe4308c3a36847f80354af",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+                "genre_ids": [
+                    53,
+                    80,
+                    35,
+                    18
+                ],
+                "id": 680,
+                "original_language": "en",
+                "original_title": "Pulp Fiction",
+                "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+                "popularity": 18.2141,
+                "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+                "release_date": "1994-09-10",
+                "title": "Pulp Fiction",
+                "video": false,
+                "vote_average": 8.487,
+                "vote_count": 29103,
+                "credit_id": "52fe4269c3a36847f801cae3",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/aH5QhlVu7uMnLO9P432IcP8FyCI.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 1850,
+                "original_language": "en",
+                "original_title": "Man on the Moon",
+                "overview": "The story of the life and career of eccentric avant-garde comedian, Andy Kaufman.",
+                "popularity": 3.6618,
+                "poster_path": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+                "release_date": "1999-12-22",
+                "title": "Man on the Moon",
+                "video": false,
+                "vote_average": 7.246,
+                "vote_count": 1875,
+                "credit_id": "52fe431ac3a36847f803a81d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8FgzQadEF68NYvmTVyuY4pCtred.jpg",
+                "genre_ids": [
+                    10749,
+                    18
+                ],
+                "id": 306745,
+                "original_language": "en",
+                "original_title": "Freeheld",
+                "overview": "New Jersey car mechanic Stacie Andree and her police detective girlfriend Laurel Hester both battle to secure Hester's pension benefits after she was diagnosed with a terminal illness.",
+                "popularity": 1.9095,
+                "poster_path": "/794PfYjTz3yxMRdTRmdFYt6w6ff.jpg",
+                "release_date": "2015-10-02",
+                "title": "Freeheld",
+                "video": false,
+                "vote_average": 7.2,
+                "vote_count": 664,
+                "credit_id": "621e0fb42b8a43001c1cf8b5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+                "genre_ids": [
+                    18,
+                    37
+                ],
+                "id": 68718,
+                "original_language": "en",
+                "original_title": "Django Unchained",
+                "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+                "popularity": 12.0172,
+                "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+                "release_date": "2012-12-25",
+                "title": "Django Unchained",
+                "video": false,
+                "vote_average": 8.2,
+                "vote_count": 27081,
+                "credit_id": "52fe479fc3a368484e0d1301",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+                "genre_ids": [
+                    53,
+                    878,
+                    9648,
+                    10749
+                ],
+                "id": 782,
+                "original_language": "en",
+                "original_title": "Gattaca",
+                "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+                "popularity": 6.3039,
+                "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+                "release_date": "1997-09-07",
+                "title": "Gattaca",
+                "video": false,
+                "vote_average": 7.562,
+                "vote_count": 6620,
+                "credit_id": "5332fa14c3a3686a9d00471d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/3NyCi98Y2lqLawrV41kNCcyo6Ab.jpg",
+                "genre_ids": [
+                    35,
+                    18
+                ],
+                "id": 177,
+                "original_language": "en",
+                "original_title": "The Fisher King",
+                "overview": "Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves.",
+                "popularity": 3.8907,
+                "poster_path": "/hwIYw22HmAUMobV4zsX69MgfVUz.jpg",
+                "release_date": "1991-09-20",
+                "title": "The Fisher King",
+                "video": false,
+                "vote_average": 7.3,
+                "vote_count": 1394,
+                "credit_id": "658f8fc42dffd82d9d505c46",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+                "genre_ids": [
+                    18,
+                    9648,
+                    37
+                ],
+                "id": 273248,
+                "original_language": "en",
+                "original_title": "The Hateful Eight",
+                "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+                "popularity": 7.4834,
+                "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+                "release_date": "2015-12-25",
+                "title": "The Hateful Eight",
+                "video": false,
+                "vote_average": 7.755,
+                "vote_count": 14722,
+                "credit_id": "578a14c4c3a368662b00038a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+                "genre_ids": [
+                    27,
+                    53
+                ],
+                "id": 1138194,
+                "original_language": "en",
+                "original_title": "Heretic",
+                "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+                "popularity": 11.6416,
+                "poster_path": "/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+                "release_date": "2024-10-31",
+                "title": "Heretic",
+                "video": false,
+                "vote_average": 6.98,
+                "vote_count": 2156,
+                "credit_id": "65d29205387651016331162b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+                "genre_ids": [
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 10830,
+                "original_language": "en",
+                "original_title": "Matilda",
+                "overview": "Matilda Wormwood is an exquisite and intelligent little girl. Unfortunately, her parents, Harry and Zinnia misunderstand her because they think she is so different. As time passes, she finally starts school and has a kind teacher, loyal friends, and a sadistic headmistress. As she gets fed up with the constant cruelty, she begins to realize that she has a gift of telekinetic powers. After some days of practice, she suddenly turns the tables to stand up to Harry and Zinnia and outwit the headmistress.",
+                "popularity": 6.0113,
+                "poster_path": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+                "release_date": "1996-08-02",
+                "title": "Matilda",
+                "video": false,
+                "vote_average": 7.165,
+                "vote_count": 4620,
+                "credit_id": "64a0b2c9d5191f011cab8423",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Stacey Sher\u00a0(born November 30, 1962) is an American film producer.\n\nDescription above from the Wikipedia article Stacey Sher, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+        "birthday": "1962-11-30",
+        "deathday": null,
+        "gender": 1,
+        "homepage": null,
+        "id": 5382,
+        "imdb_id": "nm0792049",
+        "known_for_department": "Production",
+        "name": "Stacey Sher",
+        "place_of_birth": "New York City, New York",
+        "popularity": 0.3532,
+        "profile_path": "/7tzrJthPFmv8ncG7uLELqHOqNV9.jpg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/cJ6dqrHhts085zJTMaXECjp0RfX.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 353326,
+                "original_language": "en",
+                "original_title": "The Man Who Knew Infinity",
+                "overview": "Growing up poor in Madras, India, Srinivasa Ramanujan Iyengar earns admittance to Cambridge University during WWI, where he becomes a pioneer in mathematical theories with the guidance of his professor, G.H. Hardy.",
+                "popularity": 4.6169,
+                "poster_path": "/v2X1BtkxaV8pzLbmM8a5gTdpg7B.jpg",
+                "release_date": "2016-04-08",
+                "title": "The Man Who Knew Infinity",
+                "video": false,
+                "vote_average": 7.158,
+                "vote_count": 1509,
+                "credit_id": "61aca46c596a910061049d1e",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tdK6A1wJVOze1zuiCwFQMR228k5.jpg",
+                "genre_ids": [
+                    53,
+                    36,
+                    18,
+                    28
+                ],
+                "id": 416144,
+                "original_language": "en",
+                "original_title": "Hotel Mumbai",
+                "overview": "Mumbai, India, November 26, 2008. While several terrorists spread hatred and death through the city, others attack the Taj Mahal Palace Hotel. Both hotel staff and guests risk their lives, making unthinkable sacrifices to protect themselves and keep everyone safe while help arrives.",
+                "popularity": 4.2341,
+                "poster_path": "/v32SC4HFZtlDRWXMaR2V2dWqAXJ.jpg",
+                "release_date": "2019-03-14",
+                "title": "Hotel Mumbai",
+                "video": false,
+                "vote_average": 7.547,
+                "vote_count": 1645,
+                "credit_id": "5d0ea88d0e0a2627fecce686",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Min Li Tan"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 2345267,
+        "imdb_id": null,
+        "known_for_department": "Production",
+        "name": "Min-Li Tan",
+        "place_of_birth": null,
+        "popularity": 0.0143,
+        "profile_path": null
+    }
+}

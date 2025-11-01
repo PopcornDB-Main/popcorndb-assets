@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+                "genre_ids": [
+                    18,
+                    36
+                ],
+                "id": 1883,
+                "original_language": "en",
+                "original_title": "Malcolm X",
+                "overview": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+                "popularity": 6.0861,
+                "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+                "release_date": "1992-11-18",
+                "title": "Malcolm X",
+                "video": false,
+                "vote_average": 7.545,
+                "vote_count": 1779,
+                "credit_id": "63e1da3477394100e9103f9a",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+                "genre_ids": [
+                    878,
+                    18,
+                    10749
+                ],
+                "id": 38,
+                "original_language": "en",
+                "original_title": "Eternal Sunshine of the Spotless Mind",
+                "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+                "popularity": 9.6308,
+                "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+                "release_date": "2004-03-19",
+                "title": "Eternal Sunshine of the Spotless Mind",
+                "video": false,
+                "vote_average": 8.092,
+                "vote_count": 15701,
+                "credit_id": "64a27df38289a000ae886d5b",
+                "department": "Art",
+                "job": "Leadman"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [
+            "Mike Leather"
+        ],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1400493,
+        "imdb_id": "nm0495316",
+        "known_for_department": "Art",
+        "name": "Michael Leather",
+        "place_of_birth": null,
+        "popularity": 0.0491,
+        "profile_path": null
+    }
+}

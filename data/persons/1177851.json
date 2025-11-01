@@ -1,0 +1,67 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+                "genre_ids": [
+                    99
+                ],
+                "id": 407806,
+                "original_language": "en",
+                "original_title": "13th",
+                "overview": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+                "popularity": 1.3946,
+                "poster_path": "/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+                "release_date": "2016-10-07",
+                "title": "13th",
+                "video": false,
+                "vote_average": 7.887,
+                "vote_count": 763,
+                "credit_id": "64824465bf31f25054b49847",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+                "genre_ids": [
+                    18,
+                    80,
+                    36
+                ],
+                "id": 522212,
+                "original_language": "en",
+                "original_title": "Just Mercy",
+                "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned \u2014 including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+                "popularity": 2.8462,
+                "poster_path": "/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+                "release_date": "2019-12-25",
+                "title": "Just Mercy",
+                "video": false,
+                "vote_average": 7.858,
+                "vote_count": 2376,
+                "credit_id": "6482444ae27260010720fdc0",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "Karriem Riggins is an American jazz drummer, hip-hop producer, DJ, and songwriter.",
+        "birthday": "1975-08-25",
+        "deathday": null,
+        "gender": 2,
+        "homepage": "https://karriemriggins.com/",
+        "id": 1177851,
+        "imdb_id": "nm4079550",
+        "known_for_department": "Sound",
+        "name": "Karriem Riggins",
+        "place_of_birth": "Detroit, Michigan, USA",
+        "popularity": 0.0676,
+        "profile_path": "/6pMJx8ZAi8NzWiFrVmdzLInaLI1.jpg"
+    }
+}

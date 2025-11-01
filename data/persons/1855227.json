@@ -1,0 +1,69 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+                "genre_ids": [
+                    12,
+                    35,
+                    10751,
+                    14
+                ],
+                "id": 118,
+                "original_language": "en",
+                "original_title": "Charlie and the Chocolate Factory",
+                "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+                "popularity": 12.104,
+                "poster_path": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+                "release_date": "2005-07-13",
+                "title": "Charlie and the Chocolate Factory",
+                "video": false,
+                "vote_average": 7.042,
+                "vote_count": 15667,
+                "credit_id": "59711d339251412d4103ed70",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/wUc83y8kXNdRK66o0HU5X8eBri4.jpg",
+                "genre_ids": [
+                    18,
+                    80
+                ],
+                "id": 627,
+                "original_language": "en",
+                "original_title": "Trainspotting",
+                "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+                "popularity": 5.5232,
+                "poster_path": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+                "release_date": "1996-02-23",
+                "title": "Trainspotting",
+                "video": false,
+                "vote_average": 7.96,
+                "vote_count": 10025,
+                "credit_id": "59c02eba9251417dd4002c61",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 0,
+        "homepage": null,
+        "id": 1855227,
+        "imdb_id": null,
+        "known_for_department": "Sound",
+        "name": "Richard Fettes",
+        "place_of_birth": null,
+        "popularity": 0.0168,
+        "profile_path": null
+    }
+}

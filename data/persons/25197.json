@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+                "genre_ids": [
+                    12,
+                    18,
+                    878
+                ],
+                "id": 157336,
+                "original_language": "en",
+                "original_title": "Interstellar",
+                "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+                "popularity": 69.4581,
+                "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "release_date": "2014-11-05",
+                "title": "Interstellar",
+                "video": false,
+                "vote_average": 8.461,
+                "vote_count": 37911,
+                "credit_id": "5bb7c8469251410dcb02cdfd",
+                "department": "Visual Effects",
+                "job": "Modeling"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    14,
+                    878
+                ],
+                "id": 19995,
+                "original_language": "en",
+                "original_title": "Avatar",
+                "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+                "popularity": 27.0592,
+                "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+                "release_date": "2009-12-15",
+                "title": "Avatar",
+                "video": false,
+                "vote_average": 7.594,
+                "vote_count": 32635,
+                "credit_id": "5bba469a9251417f490224af",
+                "department": "Visual Effects",
+                "job": "Modeling"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 25197,
+        "imdb_id": "nm0420478",
+        "known_for_department": "Visual Effects",
+        "name": "Gregory Jein",
+        "place_of_birth": null,
+        "popularity": 0.0901,
+        "profile_path": null
+    }
+}

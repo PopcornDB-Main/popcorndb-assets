@@ -1,0 +1,70 @@
+{
+    "movies": {
+        "cast": [],
+        "crew": [
+            {
+                "adult": false,
+                "backdrop_path": "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+                "genre_ids": [
+                    35,
+                    18,
+                    36
+                ],
+                "id": 522,
+                "original_language": "en",
+                "original_title": "Ed Wood",
+                "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+                "popularity": 4.0009,
+                "poster_path": "/2jjFN4BtTSz01J3ZD4iYjf26pWX.jpg",
+                "release_date": "1994-09-28",
+                "title": "Ed Wood",
+                "video": false,
+                "vote_average": 7.491,
+                "vote_count": 2414,
+                "credit_id": "5645f725c3a36870e3009d71",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+                "genre_ids": [
+                    28,
+                    12,
+                    35,
+                    878
+                ],
+                "id": 607,
+                "original_language": "en",
+                "original_title": "Men in Black",
+                "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+                "popularity": 9.1953,
+                "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+                "release_date": "1997-07-02",
+                "title": "Men in Black",
+                "video": false,
+                "vote_average": 7.213,
+                "vote_count": 14304,
+                "credit_id": "5bc8ab9e0e0a26363901be85",
+                "department": "Art",
+                "job": "Sculptor"
+            }
+        ]
+    },
+    "details": {
+        "adult": false,
+        "also_known_as": [],
+        "biography": "",
+        "birthday": null,
+        "deathday": null,
+        "gender": 2,
+        "homepage": null,
+        "id": 1293492,
+        "imdb_id": "nm0741569",
+        "known_for_department": "Costume & Make-Up",
+        "name": "Matt Rose",
+        "place_of_birth": null,
+        "popularity": 0.1351,
+        "profile_path": null
+    }
+}
